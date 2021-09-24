@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: Notes garden 
+site_url: https://omegakid1902.github.io/
+nav: 
+    - Home: index.md 
+    - About: about.md
+
+theme:
+    name: material
+    custom_dir: theme
+    logo: images/favicon.png
+    
+plugins:
+  - search
+#  - ezlinks
+  - roamlinks 
+  - autolinks
+  - section-index

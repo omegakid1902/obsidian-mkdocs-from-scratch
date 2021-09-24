@@ -9,22 +9,43 @@ result:
 ## **Internal linking**
 ```
 [[index]]
+
+[[index|alternative name]]
+
+[[Đây là page 2#Header 1]]
 ```
 result:
 
 [[index]]
+
+[[index#Feature checking]]
+
+[[index|alternative name]]
+
+sub/subpage.md
+[[subpage]]
+
+[[Đây là page 2]]
+
+[[Đây là page 2#Header 1]]
 
 ## **markdown link**
 ```
 [index](index.md)
 
 [Đây là page 2](Đây là page 2.md): unicode character
+
+[Đây là page 2](Đây là page 2.md#Header 1)
 ```
 result:
 
 [index](index.md)
 
 [Đây là page 2](Đây là page 2.md): unicode character
+
+[Đây là page 2](Đây là page 2.md#Header 1)
+
+[subpage](pagesub.md)
 
 ## **Code style**
 ```
@@ -41,6 +62,7 @@ Must direct to folder
 link
 [image-1](images/image-1.png)
 embed local
+![image-1](image-1.png)
 ![image-1](images/image-1.png)
 embed internet image
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
@@ -51,6 +73,7 @@ link
 
 embed local
 
+![image-1](image-1.png)
 ![image-1](images/image-1.png)
 
 embed internet image
