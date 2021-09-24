@@ -1,0 +1,1 @@
+# obsidian-mkdocs-from-scratch
