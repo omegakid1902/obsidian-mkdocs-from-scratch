@@ -1,7 +1,6 @@
 import os
 import frontmatter
 from shutil import *
-import os
 
 zet_folder = "../zettelkasten/"
 target = "./docs/"
@@ -35,7 +34,7 @@ for root, dirs, files in os.walk(target):
                 if 'publish' in metadata.keys() and metadata['publish'] == True:
                     print("Publish file:", os.path.join(root, file))
                 else:
-                    remove(os.path.join(root, file))
+                    os.remove(os.path.join(root, file))
 
 folder = "../zettelkasten/Spaces/Projects/Bible Study Kit/Scripture (BPT)/"
 move(folder, target)
