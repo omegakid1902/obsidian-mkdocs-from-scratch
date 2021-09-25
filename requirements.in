@@ -4,4 +4,4 @@ mkdocs-autolinks-plugin
 mkdocs-roamlinks-plugin
 mkdocs-section-index
 python-frontmatter
-tags
+git+https://github.com/jldiaz/mkdocs-plugin-tags.git
