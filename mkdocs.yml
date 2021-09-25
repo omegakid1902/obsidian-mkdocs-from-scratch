@@ -3,15 +3,84 @@ site_url: https://omegakid1902.github.io/
 nav: 
     - Home: index.md 
     - About: about.md
+    - Link: sub/subpage.md
+    - Lịch sử:
+        - 'feature checking.md'
+        - Lịch sử Việt Nam: 
+            - 'feature checking.md'
+            - Âu Lạc: 'feature checking.md'
 
 theme:
     name: material
     custom_dir: theme
+    font:
+      text: Merriweather
+      code: Inconsolata # Source Code Pro #Courier Prime #Space Mono #Inconsolata
     logo: images/favicon.png
-    
+    features:
+      - content.code.annotate
+      - navigation.tabs         # Use tab or list
+      - navigation.tabs.sticky
+      - navigation.tracking
+      - navigation.instant
+      - search.suggest          # sugess when use plugin.search
+      - search.highlight
+      - header.autohide
+
 plugins:
-  - search
+  - search:
+      separator: '[\s\-\.]+'    # no need to match case
+      prebuild_index: true      # recommend on with large number of page to speed up search
 #  - ezlinks
   - roamlinks 
   - autolinks
   - section-index
+  - tags:
+      tags_folder: tags/
+      tags_template: tags/tags.md.template
+
+extra:
+  social:                                     # config footer
+    - icon: fontawesome/brands/github         # select icon in https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+      link: https://github.com/omegakid1902
+      name: Dung Tran on Twitter
+    - icon: fontawesome/brands/facebook         # select icon in https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+      link: https://facebook.com/botruonggk
+      name: Dung Tran on Facebook
+
+  generator: false                            # Autogenerate copyright 
+
+
+markdown_extensions:
+  - abbr
+  - meta                      # Frontmatter
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.keys             # keyboards
+  - pymdownx.inlinehilite     # inline syntax highlight
+  - pymdownx.snippets
+  - pymdownx.tabbed           # inline tab
+  - admonition
+  - pymdownx.details
+  - pymdownx.caret            # Format
+  - pymdownx.mark             # Format
+  - pymdownx.tilde            # Format
+  - footnotes                                 # Ref foot note [^1]
+  - pymdownx.tasklist:                        # Task list markdown to check boxes
+      clickable_checkbox: true                # Enable click on checkbox
+      custom_checkbox: true                   # rendering style of checkboxes
+  - toc:
+      permalink: 🌿           # Icon in header
+      toc_depth: 3            # depth   level toc to show
+  - pymdownx.arithmatex:
+      generic: true
+
+
+#extra_javascript:
+#  - javascripts/config.js
+#  - https://polyfill.io/v3/polyfill.min.js?features=es6
+#  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+copyright: Copyright &copy; 2021 Dung Tran    # Gen personal footer copyright 
