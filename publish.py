@@ -21,9 +21,9 @@ for file in os.listdir(zet_folder):
             else:
                 pass
 
-release_folders = ["../zettelkasten/Zet", "../zettelkasten/Spaces/Projects"]
+release_folders = ["../zettelkasten/Zet"]
 for folder in release_folders:
-    copytree(folder, './docs')
+    move(folder, './docs')
 
 for root, dirs, files in os.walk(target):
     for file in files:
@@ -36,5 +36,5 @@ for root, dirs, files in os.walk(target):
                 else:
                     os.remove(os.path.join(root, file))
 
-folder = "../zettelkasten/Spaces/Projects/Bible Study Kit/Scripture (BPT)"
-copytree(folder, './docs')
+folder = "../zettelkasten/Spaces/Projects"
+move(folder, './docs')
