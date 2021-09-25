@@ -37,4 +37,4 @@ for root, dirs, files in os.walk(target):
                     os.remove(os.path.join(root, file))
 
 folder = "../zettelkasten/Spaces/Projects/Bible Study Kit/Scripture (BPT)"
-copytree(folder, target)
+move(folder, target)
