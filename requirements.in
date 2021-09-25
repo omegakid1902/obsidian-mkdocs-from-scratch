@@ -3,3 +3,5 @@ mkdocs-material
 mkdocs-autolinks-plugin
 mkdocs-roamlinks-plugin
 mkdocs-section-index
+python-frontmatter
+tags
