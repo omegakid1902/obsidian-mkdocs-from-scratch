@@ -24,3 +24,9 @@ extra:
       name: Dung Tran on Twitter
   generator: false # Autogenerate copyright 
 ```
+
+## Mkdocs extensions
+```
+pip install mkdocs-material
+pip install mkdocs-material-extensions
+```
