@@ -3,15 +3,22 @@ site_url: https://omegakid1902.github.io/
 nav:
   - Introduction: Enter the garden.md
   - Home: Enter the garden.md
-  - Kinh Thánh: The Bible.md
+  - Kinh Thánh: Spaces/Projects/Bible Study Kit/Scripture (BPT)/The Bible.md
   - Lịch sử:
       - Lịch sử Việt Nam: 
-          - Lịch Sử Việt Nam.md
-          - Âu Lạc: Âu Lạc.md
+          - Zet/Lịch Sử Việt Nam.md
+          - Âu Lạc: Zet/Âu Lạc.md
+          - Nhà Lý: Zet/Nhà Lý.md
+          - Nhà Trần: Zet/Nhà Trần.md
+          - Nhà Hậu Lê: 
+              - Zet/Nhà Hậu Lê.md
+              - Thời Lê sơ: Zet/Thời Lê sơ.md
+              - Thời Lê trung hưng: Zet/Thời Lê trung hưng.md
+          - Nhà Nguyễn: Zet/Nhà Nguyễn.md
       - Lịch sử Trung Quốc:
-          - Lịch Sử Việt Nam.md
-          - Nhà Thương: Nhà Thương.md
-          - Nhà Chu: Nhà Chu.md
+          - Zet/Lịch sử Trung Quốc.md
+          - Nhà Thương: Zet/Nhà Thương.md
+          - Nhà Chu: Zet/Nhà Chu.md
 
 theme:
     name: material
@@ -40,7 +47,7 @@ plugins:
   - section-index
   - tags:
       tags_folder: tags/
-      tags_template: tags/tags.md.template
+#      tags_template: tags/tags.md.template
 
 extra:
   social:                                     # config footer
@@ -81,6 +88,9 @@ markdown_extensions:
       generic: true
 
 
+extra_css:
+  - stylesheets/links.css
+  
 #extra_javascript:
 #  - javascripts/config.js
 #  - https://polyfill.io/v3/polyfill.min.js?features=es6
