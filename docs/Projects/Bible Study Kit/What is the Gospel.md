@@ -1,5 +1,5 @@
 ---
-aliases: [What is the Gospel?]
+aliases: [What is the Gospel]
 ---
 links: [[+Start here|Start here]]
 # What is the Gospel?
