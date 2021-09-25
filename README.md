@@ -30,3 +30,12 @@ extra:
 pip install mkdocs-material
 pip install mkdocs-material-extensions
 ```
+
+### add line num for code block
+Chi tiết [tại đây](https://squidfunk.github.io/mkdocs-material/reference/code-blocks/)
+```
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+```
