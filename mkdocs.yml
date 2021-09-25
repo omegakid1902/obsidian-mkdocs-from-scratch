@@ -1,14 +1,17 @@
 site_name: Notes garden 
 site_url: https://omegakid1902.github.io/
-nav: 
-    - Home: index.md 
-    - About: about.md
-    - Link: sub/subpage.md
-    - Lịch sử:
-        - 'feature checking.md'
-        - Lịch sử Việt Nam: 
-            - 'feature checking.md'
-            - Âu Lạc: 'feature checking.md'
+nav:
+  - Introduction: Enter the garden.md
+  - Home: Enter the garden.md
+  - Kinh Thánh: The Bible.md
+  - Lịch sử:
+      - Lịch sử Việt Nam: 
+          - Lịch Sử Việt Nam.md
+          - Âu Lạc: Âu Lạc.md
+      - Lịch sử Trung Quốc:
+          - Lịch Sử Việt Nam.md
+          - Nhà Thương: Nhà Thương.md
+          - Nhà Chu: Nhà Chu.md
 
 theme:
     name: material
