@@ -1,5 +1,6 @@
 mkdocs
 mkdocs-material
+mkdocs-material-extensions
 mkdocs-autolinks-plugin
 mkdocs-roamlinks-plugin
 mkdocs-section-index
