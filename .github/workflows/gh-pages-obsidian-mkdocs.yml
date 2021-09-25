@@ -1,0 +1,94 @@
+---
+name: Mkdocs build github pages
+
+on:
+  push:
+    # Sequence of patterns matched against refs/heads
+    branches:
+      - main
+
+  repository_dispatch:
+    types: [update_zettelkasten]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7.7
+          architecture: x64
+
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install dependencies
+        run: pip install pip-tools
+        
+      - name: Update requirements
+        run: make update
+
+      - name: Clone zettelkasten
+        run: |
+          cd ..
+          git clone https://github.com/omegakid1902/zettelkasten.git
+
+      - uses: actions/checkout@v2
+
+      - name: Scan md file to publish
+        run: python publish.py
+
+      - name: Commit report
+        run: |
+          #git config --local user.email "action@github.com"
+          #git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          echo "$(date '+%Y-%m-%d %H:%M:%S')-build.${{ github.run_number }}: Changed in lyz-code/blue-book branch" >> build.log
+          git add requirements.txt # git add docs/newsletter
+          git add docs/
+          git add build.log
+          rm -rf zettelkasten
+          git diff-index --quiet HEAD \
+            || git commit -m "gh-pages build number #${{ github.run_number }}"
+          git push origin main
+
+      - name: Make the site
+        run: make build-docs
+
+      - name: Push changes to main branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3.7.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          publish_branch: gh-pages
+          allow_empty_commit: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          #commit_message: ${{ github.event.head_commit.message }}
+          #tag_name: ${{ steps.prepare_tag.outputs.deploy_tag_name }}
+          #tag_message: 'Deployment ${{ steps.prepare_tag.outputs.tag_name }}'
+
+      - name: Alert repository_dispatch to omegakid1902.github.io repo
+        uses: mvasigh/dispatch-action@main
+        with:
+          token: ${{ secrets.OBSIDIAN_MKDOCS_SECRET }}
+          repo: omegakid1902.github.io
+          owner: omegakid1902
+          event_type: publish_obisidan_mkdocs
