@@ -6,9 +6,10 @@ import os
 zet_folder = "../zettelkasten/"
 target = "./docs/"
 
-rmtree('./docs')
-os.mkdir('./docs')
+if os.path.exists('./docs'):
+    rmtree('./docs')
 
+os.mkdir('./docs')
 
 for file in os.listdir(zet_folder):
     if file.endswith(".md"):
