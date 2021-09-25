@@ -24,7 +24,7 @@ for file in os.listdir(zet_folder):
 
 release_folders = ["../zettelkasten/Zet", "../zettelkasten/Spaces/Projects"]
 for folder in release_folders:
-    copytree(folder, target)
+    move(folder, target)
 
 for root, dirs, files in os.walk(target):
     for file in files:
