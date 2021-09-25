@@ -91,4 +91,4 @@ jobs:
           token: ${{ secrets.OBSIDIAN_MKDOCS_SECRET }}
           repo: omegakid1902.github.io
           owner: omegakid1902
-          event_type: publish_obisidan_mkdocs
+          event_type: publish_obsidian_mkdocs
