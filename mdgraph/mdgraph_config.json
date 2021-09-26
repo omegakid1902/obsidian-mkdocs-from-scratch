@@ -1,0 +1,10 @@
+{
+  "md_dir": "../docs/",
+  "graph_opts": {
+    "width": "100%",
+    "height": "90%",
+    "heading": "Site graphview",
+    "bgcolor": "#2e2e2e",
+    "font_color": "#ffffff"
+  }
+}
