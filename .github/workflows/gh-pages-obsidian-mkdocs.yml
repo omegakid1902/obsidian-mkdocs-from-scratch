@@ -46,7 +46,9 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Scan md file to publish
-        run: python publish.py
+        run: |
+          python publish.py
+          python backlinks.py
 
       - name: Commit report
         run: |
