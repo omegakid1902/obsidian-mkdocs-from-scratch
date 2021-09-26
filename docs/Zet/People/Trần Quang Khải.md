@@ -28,3 +28,7 @@ list
 from [[Trần Quang Khải]]
 sort file.name asc
 ```
+## Backlinks:
+- [[Nhà Trần]]
+- [[Lịch Sử Việt Nam]]
+- [[Thuận Thiên công chúa]]

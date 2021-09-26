@@ -27,3 +27,5 @@ list
 from [[Xích Thố]]
 sort file.name asc
 ```
+## Backlinks:
+- [[Lã Bố]]

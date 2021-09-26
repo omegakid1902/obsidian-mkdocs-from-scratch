@@ -20,3 +20,8 @@ Tần Thủy Hoàng (18 tháng 2 năm 259 TCN – 11 tháng 7 năm 210 TCN) là 
 - [ ] [[Lã Bất Vi]] là cha của Tần Thủy Hoàng.
 
 ## Related:
+
+## Backlinks:
+- [[Lịch sử Trung Quốc]]
+- [[Nhà Tần]]
+- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]

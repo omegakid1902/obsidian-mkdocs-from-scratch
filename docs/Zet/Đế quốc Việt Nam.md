@@ -17,3 +17,6 @@ publish: True
 
 ## Questions & thoughts:
 
+
+## Backlinks:
+- [[Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít]]

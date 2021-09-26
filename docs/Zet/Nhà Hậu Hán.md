@@ -27,3 +27,7 @@ list
 from [[Nhà Hậu Hán]]
 sort file.name asc
 ```
+## Backlinks:
+- [[Xích Thố]]
+- [[Đổng Trác]]
+- [[Lã Bố]]

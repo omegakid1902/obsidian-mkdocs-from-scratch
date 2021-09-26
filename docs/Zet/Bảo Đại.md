@@ -24,3 +24,9 @@ Bảo Đại là vị hoàng đế thứ 13, cũng là cuối cùng của [[Nhà
 
 ## Related:
 
+
+## Backlinks:
+- [[Đế quốc Việt Nam]]
+- [[Ngô Đình Diệm]]
+- [[Lịch Sử Việt Nam]]
+- [[Nhà Nguyễn]]

@@ -49,3 +49,7 @@ Satan trong hình tượng con rắn cũng được xem là hiện thân của L
 
 ## Related:
 - https://vi.wikipedia.org/wiki/Lucifer
+
+## Backlinks:
+- [[Chiến tranh trên Thiên Đàng]]
+- [[QAnon map]]

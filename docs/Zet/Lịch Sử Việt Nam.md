@@ -78,3 +78,7 @@ publish: True
 
 ### Book
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
+
+## Backlinks:
+- [[index]]
+- [[Lịch sử]]

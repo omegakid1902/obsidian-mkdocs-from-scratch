@@ -16,3 +16,7 @@ publish: True
 
 ## Related:
 - [[An Dương Vương]]
+
+## Backlinks:
+- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
+- [[Lịch Sử Việt Nam]]

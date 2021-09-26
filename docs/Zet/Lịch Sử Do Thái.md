@@ -25,3 +25,6 @@ publish: True
 	- Trại tập trung [[Auschwitz]] ở Ba Lan
 	- Trại hủy diệt [[Treblinka]] ở Ba Lan
 
+
+## Backlinks:
+- [[Lịch sử]]

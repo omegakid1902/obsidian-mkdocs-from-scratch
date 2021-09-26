@@ -48,7 +48,9 @@ jobs:
       - name: Scan md file to publish
         run: |
           python publish.py
+          cp -rf src/* docs/
           python backlinks.py
+          
 
       - name: Commit report
         run: |
@@ -60,7 +62,6 @@ jobs:
           git add requirements.txt # git add docs/newsletter
           git add docs/
           git add build.log
-          rm -rf zettelkasten
           git diff-index --quiet HEAD \
             || git commit -m "gh-pages build number #${{ github.run_number }}"
           git push origin main

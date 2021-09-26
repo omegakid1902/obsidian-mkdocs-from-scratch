@@ -29,3 +29,9 @@ list
 from [[Trần Cảnh]]
 sort file.name asc
 ```
+## Backlinks:
+- [[Nhà Trần]]
+- [[Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng]]
+- [[Thuận Thiên công chúa]]
+- [[Trần Liễu]]
+- [[Lý Chiêu Hoàng]]

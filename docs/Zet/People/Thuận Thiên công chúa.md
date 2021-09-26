@@ -26,3 +26,6 @@ Sau khi làm hoàng hậu của Trần Cảnh, bà sinh được hai người co
 
 
 ## Related:
+
+## Backlinks:
+- [[Trần Liễu]]
