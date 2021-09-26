@@ -786,7 +786,7 @@ result:</p>
 
 [alternative name](../Zet/index.md)
 
-[[Đây là page 2#Header 1]]
+[Đây là page 2#Header 1](../Đây là page 2.md#header-1)
 
 [docker](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker)
 </code></pre></div>
@@ -796,9 +796,9 @@ result:</p>
 <p><a href="../../Zet/#feature-checking">index#Feature checking</a></p>
 <p><a href="../../Zet/">alternative name</a></p>
 <p>sub/subpage.md
-[[subpage]]</p>
-<p>[[Đây là page 2]]</p>
-<p>[[Đây là page 2#Header 1]]</p>
+<a href="../../sub/subpage/">subpage</a></p>
+<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/">Đây là page 2</a></p>
+<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/#header-1">Đây là page 2#Header 1</a></p>
 <p><a href="https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker">docker</a></p>
 <h2 id="markdown-link"><strong>markdown link</strong><a class="headerlink" href="#markdown-link" title="Permanent link">🌿</a></h2>
 <p><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
@@ -807,15 +807,15 @@ result:</p>
 <span class="normal">4</span>
 <span class="normal">5</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>[index](../Zet/index.md)
 
-[Đây là page 2](Đây là page 2.md): unicode character
+[Đây là page 2](../Đây là page 2.md): unicode character
 
-[Đây là page 2](Đây là page 2.md#Header 1)
+[Đây là page 2](../Đây là page 2.md#Header 1)
 </code></pre></div>
 </td></tr></table>
 result:</p>
 <p><a href="../../Zet/">index</a></p>
-<p><a href="Đây là page 2.md">Đây là page 2</a>: unicode character</p>
-<p><a href="Đây là page 2.md#Header 1">Đây là page 2</a></p>
+<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/">Đây là page 2</a>: unicode character</p>
+<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/#Header 1">Đây là page 2</a></p>
 <p><a href="pagesub.md">subpage</a></p>
 <h2 id="code-style"><strong>Code style</strong><a class="headerlink" href="#code-style" title="Permanent link">🌿</a></h2>
 <p><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
@@ -836,7 +836,7 @@ result:</p>
 <span class="normal">7</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>link
 [image-1](images/image-1.png)
 embed local
-![image-1](image-1.png)
+![image-1](../images/image-1.png)
 ![image-1](images/image-1.png)
 embed internet image
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
@@ -845,7 +845,7 @@ embed internet image
 link</p>
 <p><a href="images/image-1.png">image-1</a></p>
 <p>embed local</p>
-<p><img alt="image-1" src="image-1.png" />
+<p><img alt="image-1" src="../../images/image-1.png" />
 <img alt="image-1" src="images/image-1.png" /></p>
 <p>embed internet image</p>
 <p><img alt="Engelbart" src="https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg" /></p>
