@@ -1,0 +1,817 @@
+{
+    "Amino acid": {
+        "id": 0,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần": {
+        "id": 1,
+        "outgoing_links": [
+            "Tần Thủy Hoàng",
+            "Âu Lạc",
+            "An Dương Vương",
+            "Vườn không nhà trống"
+        ],
+        "backlinks": [
+            "An Dương Vương",
+            "Vườn không nhà trống",
+            "Âu Lạc",
+            "Tần Thủy Hoàng"
+        ]
+    },
+    "An Dương Vương": {
+        "id": 2,
+        "outgoing_links": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Lịch Sử Việt Nam",
+            "Âu Lạc",
+            "Đền thờ An Dương Vương ở ngoại thành Hà Nội"
+        ],
+        "backlinks": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Lịch Sử Việt Nam",
+            "Âu Lạc",
+            "Đền thờ An Dương Vương ở ngoại thành Hà Nội"
+        ]
+    },
+    "Anders Ericsson": {
+        "id": 3,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Backlink": {
+        "id": 4,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Bán đảo Scandinavie": {
+        "id": 5,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Bảo Đại": {
+        "id": 6,
+        "outgoing_links": [
+            "Nhà Nguyễn",
+            "Lịch Sử Việt Nam",
+            "Ngô Đình Diệm",
+            "Đế quốc Việt Nam"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Ngô Đình Diệm",
+            "Nhà Nguyễn",
+            "Đế quốc Việt Nam"
+        ]
+    },
+    "Bắc Tống": {
+        "id": 7,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Bếp lò Franklin": {
+        "id": 8,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Carbohydrate": {
+        "id": 9,
+        "outgoing_links": [
+            "Carbohydrate"
+        ],
+        "backlinks": [
+            "Carbohydrate"
+        ]
+    },
+    "Chiến tranh Nguyên Mông - Đại Việt lần 1": {
+        "id": 10,
+        "outgoing_links": [
+            "Nhà Trần",
+            "Vườn không nhà trống",
+            "Nhà Nguyên-Mông"
+        ],
+        "backlinks": [
+            "Nhà Nguyên-Mông",
+            "Nhà Trần",
+            "Vườn không nhà trống"
+        ]
+    },
+    "Chiến tranh trên Thiên Đàng": {
+        "id": 11,
+        "outgoing_links": [
+            "Lucifer"
+        ],
+        "backlinks": [
+            "Lucifer"
+        ]
+    },
+    "Chúa Nguyễn": {
+        "id": 12,
+        "outgoing_links": [
+            "Thời Lê trung hưng",
+            "Nguyễn Hoàng",
+            "Chúa Trịnh",
+            "Đàng Ngoài",
+            "Nhà Nguyễn",
+            "Chúa Nguyễn"
+        ],
+        "backlinks": [
+            "Chúa Nguyễn",
+            "Chúa Trịnh",
+            "Nhà Nguyễn",
+            "Thời Lê trung hưng",
+            "Đàng Ngoài",
+            "Nguyễn Hoàng"
+        ]
+    },
+    "Chúa Trịnh": {
+        "id": 13,
+        "outgoing_links": [
+            "Đàng Ngoài",
+            "Thời Lê trung hưng",
+            "Chúa Nguyễn"
+        ],
+        "backlinks": [
+            "Chúa Nguyễn",
+            "Thời Lê trung hưng",
+            "Đàng Ngoài"
+        ]
+    },
+    "COVID 19": {
+        "id": 14,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Các chế độ nhịn ăn": {
+        "id": 15,
+        "outgoing_links": [
+            "Health"
+        ],
+        "backlinks": [
+            "Health"
+        ]
+    },
+    "Công Giáo": {
+        "id": 16,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Health": {
+        "id": 17,
+        "outgoing_links": [
+            "Các chế độ nhịn ăn"
+        ],
+        "backlinks": [
+            "Các chế độ nhịn ăn"
+        ]
+    },
+    "index": {
+        "id": 18,
+        "outgoing_links": [
+            "Lịch Sử Việt Nam",
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Lịch Sử Việt Nam"
+        ]
+    },
+    "Interests": {
+        "id": 19,
+        "outgoing_links": [
+            "Language",
+            "Toán học",
+            "Lịch sử"
+        ],
+        "backlinks": [
+            "Language",
+            "Lịch sử",
+            "Toán học"
+        ]
+    },
+    "Language": {
+        "id": 20,
+        "outgoing_links": [
+            "Interests"
+        ],
+        "backlinks": [
+            "Interests"
+        ]
+    },
+    "Lucifer": {
+        "id": 21,
+        "outgoing_links": [
+            "Chiến tranh trên Thiên Đàng",
+            "QAnon map"
+        ],
+        "backlinks": [
+            "Chiến tranh trên Thiên Đàng",
+            "QAnon map"
+        ]
+    },
+    "Lịch Sử Do Thái": {
+        "id": 22,
+        "outgoing_links": [
+            "Lịch sử"
+        ],
+        "backlinks": [
+            "Lịch sử"
+        ]
+    },
+    "Lịch sử Trung Quốc": {
+        "id": 23,
+        "outgoing_links": [
+            "Nhà Tần",
+            "Nhà Hạ",
+            "Nhà Thương",
+            "Nhà Chu",
+            "Nhà Nguyên-Mông",
+            "Nhà Thanh",
+            "Phục Hi",
+            "Đế Nghiêu",
+            "Đế Thuấn",
+            "Hạ Vũ",
+            "Tần Thủy Hoàng",
+            "Đổng Trác",
+            "Võ Tắc Thiên",
+            "index",
+            "Lịch sử"
+        ],
+        "backlinks": [
+            "index",
+            "Lịch sử",
+            "Nhà Chu",
+            "Nhà Hạ",
+            "Nhà Nguyên-Mông",
+            "Nhà Thanh",
+            "Nhà Thương",
+            "Nhà Tần",
+            "Hạ Vũ",
+            "Phục Hi",
+            "Tần Thủy Hoàng",
+            "Võ Tắc Thiên",
+            "Đế Nghiêu",
+            "Đế Thuấn",
+            "Đổng Trác"
+        ]
+    },
+    "Lịch Sử Việt Nam": {
+        "id": 24,
+        "outgoing_links": [
+            "Âu Lạc",
+            "Nhà Lý",
+            "Nhà Trần",
+            "Nhà Hậu Lê",
+            "Thời Lê sơ",
+            "Thời Lê trung hưng",
+            "Nhà Nguyễn",
+            "An Dương Vương",
+            "Lý Chiêu Hoàng",
+            "Trần Hưng Đạo",
+            "Trần Quang Khải",
+            "Nguyễn Hoàng",
+            "Bảo Đại",
+            "Ngô Đình Diệm",
+            "index",
+            "Lịch sử"
+        ],
+        "backlinks": [
+            "An Dương Vương",
+            "Bảo Đại",
+            "index",
+            "Lịch sử",
+            "Ngô Đình Diệm",
+            "Nhà Hậu Lê",
+            "Nhà Lý",
+            "Nhà Nguyễn",
+            "Nhà Trần",
+            "Thời Lê sơ",
+            "Thời Lê trung hưng",
+            "Âu Lạc",
+            "Lý Chiêu Hoàng",
+            "Nguyễn Hoàng",
+            "Trần Hưng Đạo",
+            "Trần Quang Khải"
+        ]
+    },
+    "Lịch sử": {
+        "id": 25,
+        "outgoing_links": [
+            "Lịch Sử Việt Nam",
+            "Lịch Sử Do Thái",
+            "Lịch sử Trung Quốc",
+            "Interests"
+        ],
+        "backlinks": [
+            "Interests",
+            "Lịch Sử Do Thái",
+            "Lịch sử Trung Quốc",
+            "Lịch Sử Việt Nam"
+        ]
+    },
+    "Ngô Đình Diệm": {
+        "id": 26,
+        "outgoing_links": [
+            "Bảo Đại",
+            "Lịch Sử Việt Nam"
+        ],
+        "backlinks": [
+            "Bảo Đại",
+            "Lịch Sử Việt Nam"
+        ]
+    },
+    "Nhà Chu": {
+        "id": 27,
+        "outgoing_links": [
+            "Nhà Thương",
+            "Nhà Tần",
+            "Lịch sử Trung Quốc",
+            "Tần Thủy Hoàng"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Nhà Thương",
+            "Nhà Tần",
+            "Tần Thủy Hoàng"
+        ]
+    },
+    "Nhà Hạ": {
+        "id": 28,
+        "outgoing_links": [
+            "Lịch sử Trung Quốc",
+            "Hạ Vũ"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Hạ Vũ"
+        ]
+    },
+    "Nhà Hậu Hán": {
+        "id": 29,
+        "outgoing_links": [
+            "Xích Thố",
+            "Lã Bố",
+            "Đổng Trác"
+        ],
+        "backlinks": [
+            "Xích Thố",
+            "Lã Bố",
+            "Đổng Trác"
+        ]
+    },
+    "Nhà Hậu Lê": {
+        "id": 30,
+        "outgoing_links": [
+            "Thời Lê sơ",
+            "Thời Lê trung hưng",
+            "Lịch Sử Việt Nam"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Thời Lê sơ",
+            "Thời Lê trung hưng"
+        ]
+    },
+    "Nhà Lý": {
+        "id": 31,
+        "outgoing_links": [
+            "Lịch Sử Việt Nam",
+            "Nhà Trần",
+            "Lý Chiêu Hoàng"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Nhà Trần",
+            "Lý Chiêu Hoàng"
+        ]
+    },
+    "Nhà Nguyên-Mông": {
+        "id": 32,
+        "outgoing_links": [
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "Lịch sử Trung Quốc"
+        ]
+    },
+    "Nhà Nguyễn": {
+        "id": 33,
+        "outgoing_links": [
+            "Chúa Nguyễn",
+            "Bảo Đại",
+            "Lịch Sử Việt Nam",
+            "Nguyễn Hoàng"
+        ],
+        "backlinks": [
+            "Bảo Đại",
+            "Chúa Nguyễn",
+            "Lịch Sử Việt Nam",
+            "Nguyễn Hoàng"
+        ]
+    },
+    "Nhà Thanh": {
+        "id": 34,
+        "outgoing_links": [
+            "Nhà Thanh",
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Nhà Thanh"
+        ]
+    },
+    "Nhà Thương": {
+        "id": 35,
+        "outgoing_links": [
+            "Lịch sử Trung Quốc",
+            "Nhà Chu"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Nhà Chu"
+        ]
+    },
+    "Nhà Trần": {
+        "id": 36,
+        "outgoing_links": [
+            "Nhà Lý",
+            "Trần Cảnh",
+            "Lý Chiêu Hoàng",
+            "Trần Hưng Đạo",
+            "Trần Quang Khải",
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "Lịch Sử Việt Nam",
+            "Trần Liễu"
+        ],
+        "backlinks": [
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "Lịch Sử Việt Nam",
+            "Nhà Lý",
+            "Lý Chiêu Hoàng",
+            "Trần Cảnh",
+            "Trần Hưng Đạo",
+            "Trần Liễu",
+            "Trần Quang Khải"
+        ]
+    },
+    "Nhà Tần": {
+        "id": 37,
+        "outgoing_links": [
+            "Tần Thủy Hoàng",
+            "Nhà Chu",
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Nhà Chu",
+            "Tần Thủy Hoàng"
+        ]
+    },
+    "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít": {
+        "id": 38,
+        "outgoing_links": [
+            "Đế quốc Việt Nam"
+        ],
+        "backlinks": [
+            "Đế quốc Việt Nam"
+        ]
+    },
+    "QAnon map": {
+        "id": 39,
+        "outgoing_links": [
+            "Lucifer"
+        ],
+        "backlinks": [
+            "Lucifer"
+        ]
+    },
+    "Thời Lê sơ": {
+        "id": 40,
+        "outgoing_links": [
+            "Lịch Sử Việt Nam",
+            "Nhà Hậu Lê",
+            "Thời Lê trung hưng"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Nhà Hậu Lê",
+            "Thời Lê trung hưng"
+        ]
+    },
+    "Thời Lê trung hưng": {
+        "id": 41,
+        "outgoing_links": [
+            "Nhà Hậu Lê",
+            "Thời Lê sơ",
+            "Chúa Trịnh",
+            "Chúa Nguyễn",
+            "Lịch Sử Việt Nam"
+        ],
+        "backlinks": [
+            "Chúa Nguyễn",
+            "Chúa Trịnh",
+            "Lịch Sử Việt Nam",
+            "Nhà Hậu Lê",
+            "Thời Lê sơ"
+        ]
+    },
+    "Toán học": {
+        "id": 42,
+        "outgoing_links": [
+            "Interests"
+        ],
+        "backlinks": [
+            "Interests"
+        ]
+    },
+    "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng": {
+        "id": 43,
+        "outgoing_links": [
+            "Trần Cảnh",
+            "Lý Chiêu Hoàng"
+        ],
+        "backlinks": [
+            "Lý Chiêu Hoàng",
+            "Trần Cảnh"
+        ]
+    },
+    "Vườn không nhà trống": {
+        "id": 44,
+        "outgoing_links": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1"
+        ],
+        "backlinks": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1"
+        ]
+    },
+    "Xích Thố": {
+        "id": 45,
+        "outgoing_links": [
+            "Lã Bố",
+            "Nhà Hậu Hán",
+            "Đổng Trác"
+        ],
+        "backlinks": [
+            "Nhà Hậu Hán",
+            "Lã Bố",
+            "Đổng Trác"
+        ]
+    },
+    "Âu Lạc": {
+        "id": 46,
+        "outgoing_links": [
+            "An Dương Vương",
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Lịch Sử Việt Nam"
+        ],
+        "backlinks": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "An Dương Vương",
+            "Lịch Sử Việt Nam"
+        ]
+    },
+    "Đàng Ngoài": {
+        "id": 47,
+        "outgoing_links": [
+            "Chúa Trịnh",
+            "Chúa Nguyễn"
+        ],
+        "backlinks": [
+            "Chúa Nguyễn",
+            "Chúa Trịnh"
+        ]
+    },
+    "Đế quốc Việt Nam": {
+        "id": 48,
+        "outgoing_links": [
+            "Bảo Đại",
+            "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít"
+        ],
+        "backlinks": [
+            "Bảo Đại",
+            "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít"
+        ]
+    },
+    "Đền thờ An Dương Vương ở ngoại thành Hà Nội": {
+        "id": 49,
+        "outgoing_links": [
+            "An Dương Vương"
+        ],
+        "backlinks": [
+            "An Dương Vương"
+        ]
+    },
+    "Hạ Vũ": {
+        "id": 50,
+        "outgoing_links": [
+            "Nhà Hạ",
+            "Đế Thuấn",
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Nhà Hạ",
+            "Đế Thuấn"
+        ]
+    },
+    "Lã Bố": {
+        "id": 51,
+        "outgoing_links": [
+            "Nhà Hậu Hán",
+            "Xích Thố",
+            "Đổng Trác"
+        ],
+        "backlinks": [
+            "Nhà Hậu Hán",
+            "Xích Thố",
+            "Đổng Trác"
+        ]
+    },
+    "Lý Chiêu Hoàng": {
+        "id": 52,
+        "outgoing_links": [
+            "Nhà Lý",
+            "Trần Cảnh",
+            "Lịch Sử Việt Nam",
+            "Nhà Trần",
+            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "Thuận Thiên công chúa"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Nhà Lý",
+            "Nhà Trần",
+            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "Thuận Thiên công chúa",
+            "Trần Cảnh"
+        ]
+    },
+    "Nguyễn Hoàng": {
+        "id": 53,
+        "outgoing_links": [
+            "Chúa Nguyễn",
+            "Nhà Nguyễn",
+            "Lịch Sử Việt Nam"
+        ],
+        "backlinks": [
+            "Chúa Nguyễn",
+            "Lịch Sử Việt Nam",
+            "Nhà Nguyễn"
+        ]
+    },
+    "Phục Hi": {
+        "id": 54,
+        "outgoing_links": [
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc"
+        ]
+    },
+    "Thuận Thiên công chúa": {
+        "id": 55,
+        "outgoing_links": [
+            "Lý Chiêu Hoàng",
+            "Trần Cảnh",
+            "Trần Liễu",
+            "Trần Quang Khải"
+        ],
+        "backlinks": [
+            "Lý Chiêu Hoàng",
+            "Trần Cảnh",
+            "Trần Liễu",
+            "Trần Quang Khải"
+        ]
+    },
+    "Trần Cảnh": {
+        "id": 56,
+        "outgoing_links": [
+            "Nhà Trần",
+            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "Lý Chiêu Hoàng",
+            "Thuận Thiên công chúa",
+            "Trần Liễu"
+        ],
+        "backlinks": [
+            "Nhà Trần",
+            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "Lý Chiêu Hoàng",
+            "Thuận Thiên công chúa",
+            "Trần Liễu"
+        ]
+    },
+    "Trần Hưng Đạo": {
+        "id": 57,
+        "outgoing_links": [
+            "Nhà Trần",
+            "Lịch Sử Việt Nam",
+            "Trần Liễu",
+            "Trần Quang Khải"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Nhà Trần",
+            "Trần Liễu",
+            "Trần Quang Khải"
+        ]
+    },
+    "Trần Liễu": {
+        "id": 58,
+        "outgoing_links": [
+            "Trần Cảnh",
+            "Nhà Trần",
+            "Thuận Thiên công chúa",
+            "Trần Hưng Đạo",
+            "Trần Liễu"
+        ],
+        "backlinks": [
+            "Nhà Trần",
+            "Thuận Thiên công chúa",
+            "Trần Cảnh",
+            "Trần Hưng Đạo",
+            "Trần Liễu"
+        ]
+    },
+    "Trần Quang Khải": {
+        "id": 59,
+        "outgoing_links": [
+            "Trần Hưng Đạo",
+            "Lịch Sử Việt Nam",
+            "Nhà Trần",
+            "Thuận Thiên công chúa"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Nhà Trần",
+            "Thuận Thiên công chúa",
+            "Trần Hưng Đạo"
+        ]
+    },
+    "Tần Thủy Hoàng": {
+        "id": 60,
+        "outgoing_links": [
+            "Nhà Tần",
+            "Nhà Chu",
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Lịch sử Trung Quốc",
+            "Nhà Chu",
+            "Nhà Tần"
+        ]
+    },
+    "Võ Tắc Thiên": {
+        "id": 61,
+        "outgoing_links": [
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc"
+        ]
+    },
+    "Đế Nghiêu": {
+        "id": 62,
+        "outgoing_links": [
+            "Lịch sử Trung Quốc",
+            "Đế Thuấn"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Đế Thuấn"
+        ]
+    },
+    "Đế Thuấn": {
+        "id": 63,
+        "outgoing_links": [
+            "Đế Nghiêu",
+            "Lịch sử Trung Quốc",
+            "Hạ Vũ"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Hạ Vũ",
+            "Đế Nghiêu"
+        ]
+    },
+    "Đổng Trác": {
+        "id": 64,
+        "outgoing_links": [
+            "Nhà Hậu Hán",
+            "Lịch sử Trung Quốc",
+            "Xích Thố",
+            "Lã Bố"
+        ],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Nhà Hậu Hán",
+            "Xích Thố",
+            "Lã Bố"
+        ]
+    }
+}
