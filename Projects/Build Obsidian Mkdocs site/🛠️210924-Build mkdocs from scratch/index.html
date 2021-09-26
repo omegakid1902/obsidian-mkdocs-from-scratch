@@ -640,34 +640,34 @@
 <ol>
 <li>
 <p>Install [[Mkdocs]] thông qua [[Python Package Manager|pip]]
-    <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>pip install mkdocs
+    <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>pip install mkdocs
 mkdocs new my-project 
 cd my-project
 </code></pre></div>
 </td></tr></table>
     Với [[Hệ điều hành Windows|Windows OS]], lúc install nhớ lưu lại đường link của python. Sau đó add vào path để run được cmd mkdocs
-    <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>C:\Users\Ngoc Diep\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts
+    <table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>C:\Users\Ngoc Diep\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts
 </code></pre></div>
 </td></tr></table>
     <img alt="Pasted image 20210924200929.png" src="../../../Zet/Images/Pasted%20image%2020210924200929.png" /></p>
 <p>Sau khi new project, bạn sẽ được một thư mục bao gồm một file configure dạng [[YAML|yml]] và môt folder chứa những [[Markdown Language|markdown]] file sẽ dùng để generate ra file [[HTML]] sau khi build mkdocs
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span>
-<span class="normal">4</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>mkdocs.yml    # The configuration file.
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3
+4</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>mkdocs.yml    # The configuration file.
 docs/
     index.md  # The documentation homepage.
     ...       # Other markdown pages, images and other files.
 </code></pre></div>
 </td></tr></table>
 Trong cmd promp window run <code>mkdocs serve</code> để build và tạo một server
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span>
-<span class="normal">4</span>
-<span class="normal">5</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>obsidian-mkdocs-from-scratch&gt;mkdocs serve
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3
+4
+5</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>obsidian-mkdocs-from-scratch&gt;mkdocs serve
 INFO     -  Building documentation...
 INFO     -  Cleaning site directory
 INFO     -  Documentation built in 1.45 seconds
@@ -685,17 +685,17 @@ Nó sẽ ra như này
 <img alt="Pasted image 20210924210816.png" src="../../../Zet/Images/Pasted%20image%2020210924210816.png" />
 3. Advance Config <code>mkdocs.yml</code> 
 Site info
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>site_name: Notes garden 
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>site_name: Notes garden 
 site_url: https://omegakid1902.github.io/
 </code></pre></div>
 </td></tr></table>
 Use <code>nav</code> 
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span>
-<span class="normal">4</span>
-<span class="normal">5</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>site_name: Notes garden 
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3
+4
+5</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>site_name: Notes garden 
 site_url: https://omegakid1902.github.io/
 nav: 
     - Home: index.md 
@@ -708,13 +708,13 @@ nav:
 </ol>
 <p>Theme
 The available installed themes are: <code>readthedocs</code>, <code>mkdoc</code>, bạn cần install thêm theme nếu thích
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span>
-<span class="normal">4</span>
-<span class="normal">5</span>
-<span class="normal">6</span>
-<span class="normal">7</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme:
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3
+4
+5
+6
+7</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme:
     name: mkdocs
     locale: en
     custom_dir: theme/
@@ -723,34 +723,34 @@ The available installed themes are: <code>readthedocs</code>, <code>mkdoc</code>
     include_sidebar: false
 </code></pre></div>
 </td></tr></table>
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme: readthedocs
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme: readthedocs
 </code></pre></div>
 </td></tr></table>
 Tham khảo theme trên wiki của makdocs trên [[Github]] <a href="https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes">tại đây</a>
 chọn <code>material</code> theme <a href="https://github.com/squidfunk/mkdocs-material">repo</a>
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme:
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme:
     name: material
     custom_dir: theme
 </code></pre></div>
 </td></tr></table>
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>pip install mkdocs-material
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>pip install mkdocs-material
 </code></pre></div>
 </td></tr></table>
 add to <code>requirement.in</code> nhé =)
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>mkdocs
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>mkdocs
 mkdocs-material
 </code></pre></div>
 </td></tr></table>
 Kết quả
 <img alt="Pasted image 20210924213537.png" src="../../../Zet/Images/Pasted%20image%2020210924213537.png" /></p>
 <p>Favicon Icon
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span>
-<span class="normal">4</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme:
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3
+4</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>theme:
     name: material
     custom_dir: theme
     logo: image/favicon.ico
@@ -764,24 +764,24 @@ Kết quả
 <li>File name linking (e.g. <code>[Text](file#anchor "title")</code>)</li>
 <li>Absolute paths (e.g. <code>[Text](/link/to/file.md)</code>)</li>
 <li>WikiLinks support (e.g. <code>[[Link#anchor|Link Title]]</code>)
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"> 1</span>
-<span class="normal"> 2</span>
-<span class="normal"> 3</span>
-<span class="normal"> 4</span>
-<span class="normal"> 5</span>
-<span class="normal"> 6</span>
-<span class="normal"> 7</span>
-<span class="normal"> 8</span>
-<span class="normal"> 9</span>
-<span class="normal">10</span>
-<span class="normal">11</span>
-<span class="normal">12</span>
-<span class="normal">13</span>
-<span class="normal">14</span>
-<span class="normal">15</span>
-<span class="normal">16</span>
-<span class="normal">17</span>
-<span class="normal">18</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>xử được wiki link
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>xử được wiki link
 [index](../../Zet/index.md)
 
 [index#Feature checking](../../Zet/index.md#feature-checking)
@@ -806,16 +806,16 @@ không xử được
 <p>Install the plugin using pip:</p>
 <p><code>pip install mkdocs-autolinks-plugin</code></p>
 <p>Activate the plugin in <code>mkdocs.yml</code>:
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>plugins:
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>plugins:
   - search
   - autolinks
 </code></pre></div>
 </td></tr></table>
 solve sub folder link for md and image, no need absolute link
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>[Git Flow](git_flow.md)
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>[Git Flow](git_flow.md)
 ![Avatar](avatar.png)
 </code></pre></div>
 </td></tr></table></p>
@@ -823,9 +823,9 @@ solve sub folder link for md and image, no need absolute link
 <p>Install the plugin using pip:</p>
 <p><code>pip install mkdocs-roamlinks-plugin</code></p>
 <p>Activate the plugin in <code>mkdocs.yml</code>:
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span>
-<span class="normal">3</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>plugins:
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>plugins:
   - search
   - roamlinks
 </code></pre></div>
@@ -838,8 +838,8 @@ quảng cáo:
 <p>tool tip show page lên nè, set css từa lưa =)</p>
 <h3 id="alternate-link"><a href="https://github.com/cmitu/mkdocs-altlink-plugin">alternate-link</a><a class="headerlink" href="#alternate-link" title="Permanent link">🌿</a></h3>
 <p>cũng không có gì
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
-<span class="normal">2</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>-   `[My Page](source-page.md)` can be written as `[My Page](source-page)`
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
+2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>-   `[My Page](source-page.md)` can be written as `[My Page](source-page)`
 -   `[My Page](source-page.md#Point)` can be written as `[My Page](source-page#Point)`
 </code></pre></div>
 </td></tr></table></p>
