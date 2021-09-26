@@ -1,9 +1,9 @@
 site_name: Notes garden 
 site_url: https://omegakid1902.github.io/
 nav:
-  - Introduction: Enter the garden.md
+  - Introduction: about.md
   - Home: Enter the garden.md
-  - Kinh Thánh: Spaces/Projects/Bible Study Kit/Scripture (BPT)/The Bible.md
+  - Kinh Thánh: Projects/Bible Study Kit/Scripture (BPT)/The Bible.md
   - Lịch sử:
       - Lịch sử Việt Nam: 
           - Zet/Lịch Sử Việt Nam.md
