@@ -881,11 +881,13 @@
     background-image: url("/blue-book/assets/images/bluebook.svg");
 }
 */
-.md-content a[href*='omegakid1902.github.io']:hover::after {
+.md-content a[href*="omegakid1902.github.io"]::after {
+    content: "🌱"; }
+
+.md-content a[href*="omegakid1902.github.io"]:hover::after {
     opacity: 0.3;
 }
-.md-content a[href*='omegakid1902.github.io']::after {
-    content: "🌱";
+.md-content a[href*="omegakid1902.github.io"]::after {
     display: inline-block;
     position: static;
     margin: 0 0 2px 3px;
