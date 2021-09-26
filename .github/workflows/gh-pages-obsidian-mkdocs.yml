@@ -73,7 +73,7 @@ jobs:
           branch: main
           
       - uses: actions/checkout@v2
-        run: |
+      - run: |
           git fetch
           git checkout main
           make build-docs
