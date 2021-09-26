@@ -5,7 +5,7 @@ from mdparser import MdParser
 from netgraph import GraphOptions, GraphBuilder
 
 try:
-    os.mkdir('mdgraph')
+    os.mkdir('../mdgraph')
 except OSError as error:
     print(error) 
     
