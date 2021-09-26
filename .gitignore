@@ -1,2 +1,5 @@
 site
 .vscode
+mdgraph/__pycache__/mdfile.cpython-37.pyc
+mdgraph/__pycache__/mdparser.cpython-37.pyc
+mdgraph/__pycache__/netgraph.cpython-37.pyc

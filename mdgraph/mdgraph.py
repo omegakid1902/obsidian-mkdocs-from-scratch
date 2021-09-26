@@ -5,7 +5,7 @@ from mdparser import MdParser
 from netgraph import GraphOptions, GraphBuilder
 
 try:
-    os.mkdir('../mdgraph')
+    os.mkdir('./docs/mdgraph')
 except OSError as error:
     print(error) 
     
@@ -56,7 +56,7 @@ def main():
     pages = parser.parse()
 
     # load network graph options and build graph
-    pyvis_opts = load_pyvis_opts(os.path.join(target_dir, 'pyvis_opts.js'))
+    pyvis_opts = load_pyvis_opts(os.path.join("./mdgraph", 'pyvis_opts.js'))
     graph_opts = load_graph_opts(config['graph_opts'])
     builder = GraphBuilder(pyvis_opts, graph_opts, os.path.join(target_dir+'/mdgraph', 'index.html'))
     builder.build(pages) # saved to config['graph_out']

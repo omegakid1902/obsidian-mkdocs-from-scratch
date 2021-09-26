@@ -19,6 +19,7 @@ nav:
           - Zet/Lịch sử Trung Quốc.md
           - Nhà Thương: Zet/Nhà Thương.md
           - Nhà Chu: Zet/Nhà Chu.md
+  - Site graph: mdgraph.md
 
 theme:
     name: material

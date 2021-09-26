@@ -5,3 +5,4 @@ tags:
 ---
 # About
 about me
+[[mdgraph]]

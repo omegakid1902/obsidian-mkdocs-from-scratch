@@ -50,7 +50,7 @@ jobs:
           python publish.py
           cp -rf src/* docs/
           python backlinks.py
-          
+          python mdgraph/mdgraph.py mdgraph/mdgraph_config.json
 
       - name: Commit report
         run: |
@@ -66,27 +66,45 @@ jobs:
             || git commit -m "gh-pages build number #${{ github.run_number }}"
           git push origin main
 
-      - name: Make the site
-        run: make build-docs
-
       - name: Push changes to main branch
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+          
+      - uses: actions/checkout@v2
+        run: |
+          git fetch
+          git checkout main
+          make build-docs
+          cp -rf docs/mdgraph site
+          cp -rf site ../
+          git checkout gh-pages
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          cp -rf ../site/* ./
+          git add .
+          git commit -m "gh-pages build number #${{ github.run_number }}"
+          git push origin gh-pages
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.7.3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
-          publish_branch: gh-pages
-          allow_empty_commit: true
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+#      - name: Deploy
+#        uses: peaceiris/actions-gh-pages@v3.7.3
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+#          publish_dir: ./site
+#          publish_branch: gh-pages
+#          allow_empty_commit: true
+#          user_name: 'github-actions[bot]'
+#          user_email: 'github-actions[bot]@users.noreply.github.com'
           #commit_message: ${{ github.event.head_commit.message }}
           #tag_name: ${{ steps.prepare_tag.outputs.deploy_tag_name }}
           #tag_message: 'Deployment ${{ steps.prepare_tag.outputs.tag_name }}'
+
+      - name: Push changes to main branch
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
 
       - name: Alert repository_dispatch to omegakid1902.github.io repo
         uses: mvasigh/dispatch-action@main

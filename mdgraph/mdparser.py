@@ -19,15 +19,22 @@ class MdParser():
     # grab all the information needed from the markdown file
     def parse_md(self, file_name):
         base_name = os.path.splitext(os.path.basename(file_name))[0]
-
+        print("--------------------------",file_name)
         with open(file_name, 'r', encoding="utf-8") as f:
-            content = f.read()
+            try:
+                content = f.read()
+            except UnicodeDecodeError:
+                content = ""
+
             try:
                 title = self.parse_frontmatter(content)['title']
             except AttributeError:
                 title = base_name
             except KeyError:
                 title = base_name
+            except TypeError:
+                title = base_name
+
             links = re.findall(RE_MDLINK, content, flags=re.MULTILINE)
         return MdFile(file_name, base_name, title, links)
 
