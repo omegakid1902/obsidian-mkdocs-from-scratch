@@ -876,17 +876,19 @@
 
 /* Blue book: Fetch all internal links not `//` and the external links of my
  * blog */
-.md-content a[href*='lyz-code.github.io']::after,
+/*
+.md-content a[href*='omegakid1902.github.io']::after,
 .md-content a:not([href*="//"])::after {
     background-image: url("/blue-book/assets/images/bluebook.svg");
 }
-.md-content a[href*='lyz-code.github.io']:hover::after,
+*/
+.md-content a[href*='omegakid1902.github.io']:hover::after,
 .md-content a:not([href*="//"])::after {
     opacity: 0.3;
 }
-.md-content a[href*='lyz-code.github.io']::after,
+.md-content a[href*='omegakid1902.github.io']::after,
 .md-content a:not([href*="//"])::after {
-    content: "";
+    content: "]]🌱";
     display: inline-block;
     position: static;
     margin: 0 0 2px 3px;
@@ -899,6 +901,11 @@
     display: inline-block;
     vertical-align: baseline;
     opacity: 0.825;
+}
+
+.md-content a[href*='omegakid1902.github.io']::before,
+.md-content a:not([href*="//"])::before {
+    content: "[[";
 }
 
 .md-content a[href*='mailto']::after,
