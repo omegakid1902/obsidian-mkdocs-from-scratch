@@ -24,7 +24,7 @@
 */
 /*  Internal (within-site) links. Avoid 'G' icons on hosted documents, local images, and infrastructure, which aren't formal writings.
  */
-.md-content a[href^="https://www.gwern.net/"]:not([href*="/docs/"]):not([href*="/images/"]):not([href*="/static/"]):not([href$=".hs"]):not([href$=".sh"]):not([href$=".R"])::after {
+ .md-content a[href^="https://www.gwern.net/"]:not([href*="/docs/"]):not([href*="/images/"]):not([href*="/static/"]):not([href$=".hs"]):not([href$=".sh"]):not([href$=".R"])::after {
     content: "\1D50A"; /* Gothic G */
     margin: 0 0 0 2px;
     vertical-align: baseline;
@@ -880,27 +880,54 @@
 .md-content a[href*='omegakid1902.github.io']::after {
     background-image: url("/blue-book/assets/images/bluebook.svg");
 }
-*/
 .md-content a[href*="omegakid1902.github.io"]::after {
     content: "🌱"; }
+*/
+	
+.md-content a[href*="../"]::after {
+    content: "]]🌱";
+	}
 
-.md-content a[href*="omegakid1902.github.io"]:hover::after {
-    opacity: 0.3;
-}
-.md-content a[href*="omegakid1902.github.io"]::after {
-    display: inline-block;
-    position: static;
-    margin: 0 0 2px 3px;
+.md-content a[href*="../"]::before {
+    content: "[["; 
+	}
+	
+.md-content a[href*="../"]:hover::after {
+	color: green;
+    content: "]]🌱";
+	}
 
-    background-repeat: no-repeat;
-    background-size: 0.75em;
-    background-position: right 1px top;
-    width: 0.825em;
-    height: 0.825em;
-    display: inline-block;
-    vertical-align: baseline;
-    opacity: 0.825;
-}
+.md-content a[href*="../"]:hover::before {
+	color: green;
+    content: "[[";
+	}
+
+.md-content h1:focus,
+.md-content h1:focus::before,
+.md-content h1:active::before,
+.md-content h1:default::before,
+.md-content h1::before,
+.md-content h1 {
+	color: red;
+    content: "#"; 
+	}
+
+/* dutran
+.md-content a[href*="###"]::before {
+	color: red;
+    content: "#"; 
+	}
+
+.md-content a[href*="##"]::before {
+	color: red;
+    content: "[["; 
+	}
+
+.md-content a[href*="#"]::before {
+	color: red;
+    content: "[["; 
+	}
+*/
 
 .md-content a[href*='mailto']::after,
 .md-content a[title='Permanent link'] {
