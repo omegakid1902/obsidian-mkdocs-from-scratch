@@ -6636,12 +6636,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://omegakid1902.github.io/Zet/Flask%20lib/</loc>
+         <lastmod>2021-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://omegakid1902.github.io/Zet/Health/</loc>
          <lastmod>2021-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/Interests/</loc>
+         <lastmod>2021-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Kinh%20m%C3%A2n%20c%C3%B4i/</loc>
          <lastmod>2021-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
