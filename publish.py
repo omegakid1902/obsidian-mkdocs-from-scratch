@@ -38,12 +38,13 @@ for root, dirs, files in os.walk(target):
 
 content = []
 for root, dirs, files in os.walk(target):
-    with open(os.path.join(root, file), 'r', encoding="utf8") as f:
-        content = f.read()
-    with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
-        for line in content:
-            if not line.startswith("# "):
-                newf.write(line)
+    for file in files:
+        with open(os.path.join(root, file), 'r', encoding="utf8") as f:
+            content = f.read()
+        with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
+            for line in content:
+                if not line.startswith("# "):
+                    newf.write(line)
 
 folder = "../zettelkasten/Spaces/Projects"
 copytree(folder, './docs/Projects')
