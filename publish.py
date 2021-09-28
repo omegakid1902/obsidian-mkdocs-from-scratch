@@ -35,16 +35,13 @@ for root, dirs, files in os.walk(target):
                     print("Publish file:", os.path.join(root, file))
                 else:
                     os.remove(os.path.join(root, file))
-
-for root, dirs, files in os.walk(target):
-    for file in files:
-        print("Remove title file:", os.path.join(root, file))
-        with open(os.path.join(root, file), 'r', encoding="utf8") as f:
-            content = f.read()
-        with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
-            for line in content:
-                if not line.startswith("# "):
-                    newf.write(line)
+                    continue
+            
+            with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
+                print("Remove title file:", os.path.join(root, file))
+                for line in content:
+                    if not line.startswith("# "):
+                        newf.write(line)
 
 folder = "../zettelkasten/Spaces/Projects"
 copytree(folder, './docs/Projects')
