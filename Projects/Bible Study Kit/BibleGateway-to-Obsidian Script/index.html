@@ -25,6 +25,10 @@
         
         <link rel="stylesheet" href="../../../assets/stylesheets/palette.3f5d1f46.min.css">
         
+          
+          
+          <meta name="theme-color" content="#009485">
+        
       
     
     
@@ -54,7 +58,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="teal" data-md-color-accent="">
   
     
     <script>function __prefix(e){return new URL("../../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
@@ -545,45 +549,46 @@
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
-                
+                 
+                  <h1>BibleGateway-to-Obsidian Script</h1>
                 
                  
-                <h1 id="biblegateway-to-obsidian-script">BibleGateway-to-Obsidian Script<a class="headerlink" href="#biblegateway-to-obsidian-script" title="Permanent link">🌿</a></h1>
+                <h1 id="biblegateway-to-obsidian-script">BibleGateway-to-Obsidian Script</h1>
 <p>👉 Download the script to import on <a href="https://github.com/selfire1/BibleGateway-to-Obsidian">github</a>. There you can also find the most recent documentation.</p>
 <p>I simplified and documented usage as much as possible. So even if you are not familiar with scripting, you will be walked through it. If you run into issues, feel free to <a href="../About%20me/#get-in-contact">About me#Get in contact</a>. If you receive value from, consider to join in <a href="../About%20me/#support-">About me#Support 🤝</a>.</p>
 <p>Find the documentation for the script below.</p>
 <hr />
-<h1 id="biblegateway-to-obsidian">BibleGateway-to-Obsidian<a class="headerlink" href="#biblegateway-to-obsidian" title="Permanent link">🌿</a></h1>
+<h1 id="biblegateway-to-obsidian">BibleGateway-to-Obsidian</h1>
 <p>This script adapts <a href="https://github.com/jgclark/BibleGateway-to-Markdown">jgclark's wonderful BibleGateway-to-Markdown</a> script to export well for use in <a href="https://obsidian.md/">Obsidian</a>.</p>
 <p>What the script does is fetch the text from <a href="https://www.biblegateway.com/">Bible Gateway</a> and save it as formatted markdown file. Each chapter is saved as one file and navigation between files as well as a book-file is automatically created. All of the chapter files of a book are saved in it's numbered folder.</p>
 <p>This script is intended to be as simple as possible to use, even if you have no idea about Scripting. If you have any questions, please reach out to me either on github or Discord (<code>selfire#3095</code>).</p>
-<h2 id="important-disclaimers">Important Disclaimers<a class="headerlink" href="#important-disclaimers" title="Permanent link">🌿</a></h2>
+<h2 id="important-disclaimers">Important Disclaimers</h2>
 <ul>
 <li>This is not affiliated to, or approved by, BibleGateway.com. In my understanding it fits into the <a href="https://support.biblegateway.com/hc/en-us/articles/360001398808-How-do-I-get-permission-to-use-or-reprint-Bible-content-from-Bible-Gateway-?">conditions of usage</a> but I make no guarantee regarding the usage of the script, it is at your own disgression.</li>
 <li>By default, the version is set to the <a href="https://netbible.com/">NET Bible</a>. You can change the version, as long as you honour the copyright standards of different translations of the Bible (See: <a href="https://www.biblegateway.com/versions/">BibleGateways overview</a>).</li>
 <li>I have little experience in scripting–through this project I taught myself bash and regex basics. If you run into issues or have a way to simplify this script, please raise an issue or reach out on Discord (<code>selfire#3095</code>).</li>
 </ul>
-<h2 id="installation">Installation<a class="headerlink" href="#installation" title="Permanent link">🌿</a></h2>
+<h2 id="installation">Installation</h2>
 <p>Here are the tools we are going to use:
 * Our command line (Terminal)
 * A text editor (like <a href="https://atom.io/">Atom</a>).</p>
-<h2 id="setting-ruby-up">Setting ruby up<a class="headerlink" href="#setting-ruby-up" title="Permanent link">🌿</a></h2>
-<h3 id="updating">Updating<a class="headerlink" href="#updating" title="Permanent link">🌿</a></h3>
+<h2 id="setting-ruby-up">Setting ruby up</h2>
+<h3 id="updating">Updating</h3>
 <p>In order to run the scripts, we will need to install ruby. Ruby comes pre-installed on MacOS but if you run into issues, <a href="https://stackify.com/install-ruby-on-your-mac-everything-you-need-to-get-going/">update to the latest version</a>.</p>
-<h3 id="downloading-biblegateway-to-markdownrb">Downloading BibleGateway-to-Markdown.rb<a class="headerlink" href="#downloading-biblegateway-to-markdownrb" title="Permanent link">🌿</a></h3>
+<h3 id="downloading-biblegateway-to-markdownrb">Downloading BibleGateway-to-Markdown.rb</h3>
 <p>Follow the instructions to download and set up <a href="https://github.com/jgclark/BibleGateway-to-Markdown">jgclark's BibleGateway-to-Markdown</a>.</p>
-<h2 id="usage">Usage<a class="headerlink" href="#usage" title="Permanent link">🌿</a></h2>
-<h3 id="1-navigate-to-the-directory-in-which-both-scripts-are-located">1. Navigate to the directory in which both scripts are located.<a class="headerlink" href="#1-navigate-to-the-directory-in-which-both-scripts-are-located" title="Permanent link">🌿</a></h3>
+<h2 id="usage">Usage</h2>
+<h3 id="1-navigate-to-the-directory-in-which-both-scripts-are-located">1. Navigate to the directory in which both scripts are located.</h3>
 <p>Open terminal. Use the following command to navigate to the folder in which both scripts are located:
 * <code>pwd</code> Show your current directory
 * <code>ls</code> List all contents in the current directory
 * <code>cd</code> Enter 'down' in a subdirectory (E.g. <code>cd Desktop</code>)
 * <code>cd ..</code> Brings you 'up' one directory</p>
-<h3 id="2-run-the-script">2. Run the script<a class="headerlink" href="#2-run-the-script" title="Permanent link">🌿</a></h3>
+<h3 id="2-run-the-script">2. Run the script</h3>
 <p>Once you are in the directory, run <code>bash bg2obs.sh</code>. This will run the bash script.</p>
 <p><code>NOTE</code>: In this directory, a folder called <code>Scripture</code> with subfolders like <code>01 - Genesis</code>, <code>02 - Exodus</code> and so on will be created.</p>
 <p>Within the <code>bg2obs.sh</code> file you have the options to include headers and set the words of Jesus to bold. By default, both options are set to <code>false</code>.</p>
-<h3 id="3-format-the-text-in-a-text-editor">3. Format the text in a text editor<a class="headerlink" href="#3-format-the-text-in-a-text-editor" title="Permanent link">🌿</a></h3>
+<h3 id="3-format-the-text-in-a-text-editor">3. Format the text in a text editor</h3>
 <p>We will need to format the output to work well in Obsidian.
 1. Open <a href="https://atom.io/">Atom</a> (or the like).
 2. Open the <code>Scripture</code> folder with <code>File &gt; Add Project Folder…</code> (or <code>Shift + Command + O</code>
@@ -599,7 +604,7 @@
 * Replace: <code>\n\nv$1\n</code>
 * file: <code>*.md</code></p>
 <p><strong>There you go!</strong> Now, just move the "Scripture" folder into your Obsidian vault. You can use the provided <code>The Bible.md</code> file as an overview file.</p>
-<h2 id="translations">Translations<a class="headerlink" href="#translations" title="Permanent link">🌿</a></h2>
+<h2 id="translations">Translations</h2>
 <p>This script downloads the <a href="https://worldenglish.bible/">World English Bible</a> by default. If you wish to use a different translation, open the <code>bg2obs.sh</code> file in a text editor and follow the annotations in there (It is just changing one line). Make sure to honour copyright guidelines.</p>
                 
                   
