@@ -145,6 +145,12 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
+                    <h3>Tags</h3>
+                    <p>
+                      {% for tag in page.meta.tags %}
+                        <li><code><a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag }}</a></code></li>
+                      {% endfor %} 
+                    </p>
                     {% include "partials/toc.html" %}
                   </div>
                 </div>
@@ -161,7 +167,13 @@
                 {% endif %}
                 {% if not "\x3ch1" in page.content %}
                   <h1>{{ page.title | d(config.site_name, true)}}</h1>
-                {% endif %}       
+                {% endif %}
+                {% if page.meta.tags|length  %}
+                  tags
+                  {% for tag in page.meta.tags %}
+                    <a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag }}</a> <code>|</code>
+                  {% endfor %}   
+                {% endif %} 
                 {{ page.content }}
                 {% if page and page.meta %}
                   {% if page.meta.git_revision_date_localized or

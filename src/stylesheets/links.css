@@ -883,7 +883,7 @@
 .md-content a[href*="omegakid1902.github.io"]::after {
     content: "🌱"; }
 */
-	
+
 .md-content a[href*="../"]::after {
     content: "]]🌱";
 	}
@@ -901,6 +901,18 @@
 	color: green;
     content: "[[";
 	}
+
+.md-content a[href*="/tags.html#"]::after {
+    content: "";
+    }
+
+.md-content a[href*="/tags.html#"]:hover:after {
+    content: "#";
+    }
+    
+.md-content a[href*="/tags.html#"]::before {
+    content: ""; 
+    }
 
 .md-content h1:focus,
 .md-content h1:focus::before,
