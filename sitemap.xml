@@ -5246,11 +5246,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/40%20-%20Matthew/Matthew/</loc>
-         <lastmod>2021-09-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/41%20-%20Mark/Mark-01/</loc>
          <lastmod>2021-09-28</lastmod>
          <changefreq>daily</changefreq>
@@ -5327,11 +5322,6 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/41%20-%20Mark/Mark-16/</loc>
-         <lastmod>2021-09-28</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/41%20-%20Mark/Mark/</loc>
          <lastmod>2021-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6682,6 +6672,16 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/L%E1%BB%8Bch%20s%E1%BB%AD/</loc>
+         <lastmod>2021-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Mark/</loc>
+         <lastmod>2021-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Matthew/</loc>
          <lastmod>2021-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>

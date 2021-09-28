@@ -912,8 +912,7 @@
     content: "#️⃣"; 
     }
 
-.md-content a[href*="../Genesis"],
-.md-content a[href*="../Gen-"],
+.md-content a[href*="../Genesis"]::after,
 .md-content a[href*="../Gen-"]::after {
     content: "]]✝️"; 
     }
