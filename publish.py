@@ -38,11 +38,11 @@ for root, dirs, files in os.walk(target):
                     os.remove(os.path.join(root, file))
                     publish = False
             if publish:
-                with open("yourfile.txt", "r") as f:
+                with open(os.path.join(root, file), "r", encoding="utf8") as f:
                     lines = f.readlines()
                 with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
                     print("Remove title file:", os.path.join(root, file))
-                    for line in content:
+                    for line in lines:
                         if not line.startswith("# "):
                             newf.write(line)
 
