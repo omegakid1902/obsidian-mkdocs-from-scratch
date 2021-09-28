@@ -33,15 +33,18 @@ for root, dirs, files in os.walk(target):
                 metadata, content = frontmatter.parse(content)
                 if 'publish' in metadata.keys() and metadata['publish'] == True:
                     print("Publish file:", os.path.join(root, file))
+                    publish = True
                 else:
                     os.remove(os.path.join(root, file))
-                    continue
-            
-            with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
-                print("Remove title file:", os.path.join(root, file))
-                for line in content:
-                    if not line.startswith("# "):
-                        newf.write(line)
+                    publish = False
+            if publish:
+                with open("yourfile.txt", "r") as f:
+                    lines = f.readlines()
+                with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
+                    print("Remove title file:", os.path.join(root, file))
+                    for line in content:
+                        if not line.startswith("# "):
+                            newf.write(line)
 
 folder = "../zettelkasten/Spaces/Projects"
 copytree(folder, './docs/Projects')
