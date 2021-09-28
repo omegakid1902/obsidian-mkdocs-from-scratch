@@ -884,61 +884,60 @@
     content: "🌱"; }
 */
 
+.md-content a[href*="../"]:hover {
+    color: darkgreen;
+    }
+
 .md-content a[href*="../"]::after {
     content: "]]🌱";
-	}
+    }
 
 .md-content a[href*="../"]::before {
     content: "[["; 
-	}
-	
-.md-content a[href*="../"]:hover::after {
-	color: green;
-    content: "]]🌱";
-	}
-
-.md-content a[href*="../"]:hover::before {
-	color: green;
-    content: "[[";
-	}
-
-.md-content a[href*="/tags.html#"]::after {
-    content: "";
-    }
-
-.md-content a[href*="/tags.html#"]:hover:after {
-    content: "#";
     }
     
-.md-content a[href*="/tags.html#"]::before {
-    content: ""; 
+.md-content a[href*="../"]:hover::after {
+    color: darkgreen;
     }
 
-.md-content h1:focus,
-.md-content h1:focus::before,
-.md-content h1:active::before,
-.md-content h1:default::before,
-.md-content h1::before,
+.md-content a[href*="../"]:hover::before {
+    color: darkgreen;
+    }
+
+.md-content a[href*="/tags.html#"]:hover {
+    color: darkgreen;
+    }
+
+.md-content a[href*="/tags.html#"]::before {
+    content: "#️⃣"; 
+    }
+
+.md-content a[href*="../Genesis"]::after,
+.md-content a[href*="../Gen-"]::after {
+    content: "]]✝️"; 
+    }
+
+.md-content h2,
+.md-content h3,
 .md-content h1 {
-	color: red;
-    content: "#"; 
-	}
+    color: darkslategray;
+    }
 
 /* dutran
 .md-content a[href*="###"]::before {
-	color: red;
+    color: red;
     content: "#"; 
-	}
+    }
 
 .md-content a[href*="##"]::before {
-	color: red;
+    color: red;
     content: "[["; 
-	}
+    }
 
 .md-content a[href*="#"]::before {
-	color: red;
+    color: red;
     content: "[["; 
-	}
+    }
 */
 
 .md-content a[href*='mailto']::after,

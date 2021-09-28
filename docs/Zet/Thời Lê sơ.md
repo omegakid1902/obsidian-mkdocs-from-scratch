@@ -9,7 +9,6 @@ aliases:
   - Thời Lê sơ
 publish: True
 ---
-# Thời Lê sơ
 
 ## Notes:
 

@@ -10,7 +10,6 @@ aliases:
   - Interests
 publish: True
 ---
-# Interests 
 
 ### Knowledge Management
 The [[PKM MOC]] shows the best practices of [[Knowledge Management]]. I use the [[LYT Kit]] to show the power of linked thinking and to empower others to develop their thinking. The [[MOC - Map Of Content|MOC]] is my personal note to wrap my head around the wondrous beauty that MOCs offer.

@@ -10,7 +10,6 @@ aliases:
   - "Đông Hán"
 publish: True
 ---
-# Nhà Hậu Hán
 
 ## Definition
 Nhà Hậu Hán hay còn gọi là Đông Hán, lập lên bởi [[Hán Quang Võ]]

@@ -12,7 +12,6 @@ aliases:
   - Trọng Hoa
 publish: True
 ---
-# Đế Thuấn
 
 ## Notes:
 

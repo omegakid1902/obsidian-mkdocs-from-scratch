@@ -8,6 +8,7 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 
 ## Content
 **Pentateuch (or the Law)**
+
 - [[Genesis]]
 - [[Exodus]]
 - [[Leviticus]]
@@ -15,6 +16,7 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 - [[Deuteronomy]]
 
 **Historical Books**
+
 - [[Joshua]]
 - [[Judges]]
 - [[Ruth]]
@@ -45,6 +47,7 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 - [[Daniel]]
 
 **Minor Prophets**
+
 - [[Hosea]]
 - [[Joel]]
 - [[Amos]]
@@ -60,12 +63,14 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 
 ***
 **Gospels**
-- [[Matthew]]
+
+- [[Matthew]] - [[Matthew|Mát-thêu]]
 - [[Mark]]
 - [[Luke]]
 - [[John]]
 
 **Church History**
+
 -[[Acts]]
 
 **Pauline Epistles**
@@ -84,6 +89,7 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 - [[Philemon]]
 
 **General Epistles**
+
 - [[Hebrews]]
 - [[James]]
 - [[1 Peter]]
@@ -94,4 +100,5 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 - [[Jude]]
 
 **Apocalyptic Writing (Prophecy)**
+
 - [[Revelation]]

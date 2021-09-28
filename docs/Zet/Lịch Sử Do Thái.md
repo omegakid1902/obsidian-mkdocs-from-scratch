@@ -1,7 +1,6 @@
 ---
 publish: True
 ---
-# Lịch Sử Do Thái MOC
 
 %% - metadata:
 	- tags: #MOC %%

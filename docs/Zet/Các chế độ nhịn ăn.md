@@ -8,7 +8,6 @@ aliases:
   -
 publish: True
 ---
-# Các chế độ nhịn ăn
 
 ## Notes:
 [[Intermittent Fasting]]

@@ -12,7 +12,6 @@ aliases:
   - Thư viện Flask
   - Thư viện Flask của python
 ---
-# Flask lib
 
 ## Notes:
 Flask là một thư viện [[Python]], link website flask [tại đây](https://flask.palletsprojects.com/en/2.0.x/) dùng để xây dựng website html bằng python code.

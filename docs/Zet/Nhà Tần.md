@@ -9,7 +9,6 @@ aliases:
   - Nước Tần
 publish: True
 ---
-# Nhà Tần
 
 ## Notes
 Nhà Tần là một triều đại phong kiến Trung Quốc.

@@ -7,7 +7,6 @@ tags:
   - '#permanent/concept'
 publish: True
 ---
-# 🏡 Health
 
 ## Notes:
 

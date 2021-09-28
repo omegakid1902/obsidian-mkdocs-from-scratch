@@ -12,7 +12,6 @@ aliases:
   - Triều Nguyên
 publish: True
 ---
-# Nhà Nguyên
 
 ## Definition
 Nhà Nguyên là một triều đại phong kiến trong lịch sử Trung Quốc. Tiền thân nhà Nguyên là [[Đế Quốc Mông Cổ]].

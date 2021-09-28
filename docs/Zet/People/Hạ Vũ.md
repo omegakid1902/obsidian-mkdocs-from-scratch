@@ -12,7 +12,6 @@ aliases:
   - Hạ Đại Vũ
 publish: True
 ---
-# Hạ Vũ
 
 ## Notes:
 Hạ Vũ tên thật là Hạ Tử Thành, là một vị vua truyền thuyết của Trung Quốc. 

@@ -8,7 +8,6 @@ tags:
   - '#permanent/concept'
 publish: True
 ---
-# QAnon map
 
 ## Notes:
 - [[Lucifer]]

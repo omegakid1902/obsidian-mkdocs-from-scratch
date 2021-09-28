@@ -10,7 +10,6 @@ aliases:
   - Thiên Thần mang ánh sáng
 publish: True
 ---
-# Lucifer
 
 ## Notes:
 Lucifer hay còn được gọi là Thiên Thần mang ánh sáng

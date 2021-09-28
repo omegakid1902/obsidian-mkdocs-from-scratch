@@ -12,7 +12,6 @@ aliases:
   - Trần Quốc Tuấn
 publish: True
 ---
-# Trần Hưng Đạo
 
 ## Notes:
 Trần Hưng Đạo tên thật là Trần Quốc Tuấn, là một nhà quân sự, chính trị trong hoàng thất [[Nhà Trần|Nhà Trần]].

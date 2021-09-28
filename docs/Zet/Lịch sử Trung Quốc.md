@@ -8,7 +8,6 @@ tags:
   - '#permanent/concept'
 publish: True
 ---
-# Lịch sử Trung Quốc
 
 ## Các triều đại
 | Thời Gian | Triều Đại                |

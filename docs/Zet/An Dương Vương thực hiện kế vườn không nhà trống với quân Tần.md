@@ -8,7 +8,6 @@ tags:
   - '#permanent/fact'
 publish: True
 ---
-# An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
 
 ## Notes
 Khi quân của [[Tần Thủy Hoàng]] đánh [[Âu Lạc]], [[An Dương Vương]] thực hiện kế [[Vườn không nhà trống]].

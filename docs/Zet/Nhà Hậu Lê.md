@@ -9,7 +9,6 @@ aliases:
   - Hậu Lê
 publish: True
 ---
-# Nhà Hậu Lê
 
 ## Notes:
 Nhà Hậu Lê là một triều đại kéo dài từ 1428-1789 do [[Lê Lợi]] gây dựng lên.

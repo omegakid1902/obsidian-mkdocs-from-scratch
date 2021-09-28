@@ -7,7 +7,6 @@ tags:
 aliases: [Âu Lạc]
 publish: True
 ---
-# Âu Lạc
 
 ## Notes
 

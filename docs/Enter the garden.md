@@ -7,7 +7,6 @@ tags:
   - '#permanent/concept'
 publish: True
 ---
-# Enter the garden
 
 Chào mừng bạn đã đến với khu vườn ghi chú.
 
@@ -30,7 +29,7 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 - [[Self Improvement]]
 
 ## Công cụ:
-- [[📌 Workbench]]
+- [[No file]]
 - [[⏩ Quick note]]
 - [[📑 Bookmark]]
 

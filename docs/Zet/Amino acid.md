@@ -11,7 +11,6 @@ aliases:
 publish: True
 ---
 
-# Amino acid
 
 ## Notes
 Amino acid hay còn được gọi là Acid Amin

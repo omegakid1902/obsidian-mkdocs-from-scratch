@@ -7,7 +7,6 @@ tags:
   - '#permanent/fact'
 publish: True
 ---
-# Phim hay
 
 ## Notes:
 

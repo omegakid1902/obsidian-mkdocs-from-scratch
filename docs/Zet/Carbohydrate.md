@@ -1,7 +1,6 @@
 ---
 publish: True
 ---
-# Carbohydrate
 
 %% 
 - metadata:

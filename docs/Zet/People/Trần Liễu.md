@@ -11,7 +11,6 @@ aliases:
   - An Sinh Vương
 publish: True
 ---
-# Trần Liễu
 
 ## Notes:
 Trần Liễu, hay An Sinh Vương, là anh ruột của [[Trần Cảnh]], tức vua đầu tiên của [[Nhà Trần|Nhà Trần]]

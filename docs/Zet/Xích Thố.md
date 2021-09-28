@@ -9,7 +9,6 @@ aliases:
   - Xích Thố
 publish: True
 ---
-# Xích Thố
 
 ## Notes:
 Xích Thố là tên chiến mã của [[Lã Bố|Lữ Bố]]cuối [[Nhà Hậu Hán|Đông Hán]].

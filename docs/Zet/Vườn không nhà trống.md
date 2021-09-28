@@ -10,7 +10,6 @@ aliases:
   - Tiêu Thổ
 publish: True
 ---
-# Vườn không nhà trống
 
 ## Definition
 Vườn không nhà trống, hay còn gọi là Tiêu Thổ, là một chiến thuật quân sự khi một bên rút binh thì phá hủy mọi thứ trước khi dời đi, thường là lương thực, để gây khó khăn cho quân địch khi đánh đến.

@@ -9,7 +9,6 @@ aliases:
   - 
 publish: True
 ---
-# Bắc Tống
 
 ## Notes:
 

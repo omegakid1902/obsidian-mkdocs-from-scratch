@@ -13,7 +13,6 @@ aliases:
   - Chiêu Thánh hoàng hậu
 publish: True
 ---
-# Lý Chiêu Hoàng
 
 ## Notes:
 Lý Chiêu Hoàng (1218-1278) là hoàng đế cuối cùng của [[Nhà Lý]]. Sau bị [[Trần Thủ Độ]] ép nhường ngôi cho [[Trần Cảnh]] khai sinh ra nhà Trần. Bà là con gái thứ 2 của [[Lý Huệ Tông]].

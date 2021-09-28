@@ -11,7 +11,6 @@ aliases:
   - Chiêu Minh Đại Vương
 publish: True
 ---
-# Trần Quang Khải
 
 ## Notes:
 
