@@ -23,7 +23,9 @@ nav:
 
 theme:
     name: material
-    custom_dir: theme
+    custom_dir: src/theme
+    palette:
+      primary: teal           # color theme ref in https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     font:
       text: Merriweather
       code: Inconsolata # Source Code Pro #Courier Prime #Space Mono #Inconsolata
@@ -47,7 +49,7 @@ plugins:
   - autolinks
   - section-index
   - tags:
-      tags_folder: tags/
+      tags_folder: src/tags/
 #      tags_template: tags/tags.md.template
 
 extra:
@@ -83,7 +85,7 @@ markdown_extensions:
       clickable_checkbox: true                # Enable click on checkbox
       custom_checkbox: true                   # rendering style of checkboxes
   - toc:
-      permalink: 🌿           # Icon in header
+      permalink: false        # 🌿 Icon in header
       toc_depth: 3            # depth   level toc to show
   - pymdownx.arithmatex:
       generic: true

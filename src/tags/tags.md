@@ -27,6 +27,13 @@ title: Tags
  
 
 
+## <span class="tag">#created/2021/Aug/14</span>
+
+  * [Amino acid](Zet\Amino acid.md)
+
+ 
+
+
 ## <span class="tag">#created/2021/Aug/17</span>
 
   * [Chiến tranh Nguyên Mông - Đại Việt lần 1](Zet\Chiến tranh Nguyên Mông - Đại Việt lần 1.md)
@@ -38,16 +45,7 @@ title: Tags
  
 
 
-## <span class="tag">#created/2021/Aug/18</span>
-
-  * [Amino acid](Zet\Amino acid.md)
-
- 
-
-
 ## <span class="tag">#created/2021/Aug/22</span>
-
-  * [Python](Projects\Python.md)
 
   * [Nhà Hậu Hán](Zet\Nhà Hậu Hán.md)
 
@@ -148,6 +146,10 @@ title: Tags
 
 ## <span class="tag">#created/2021/Jul/24</span>
 
+  * [208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ](Zet\208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ.md)
+
+  * [An Dương Vương thực hiện kế vườn không nhà trống với quân Tần](Zet\An Dương Vương thực hiện kế vườn không nhà trống với quân Tần.md)
+
   * [An Dương Vương](Zet\An Dương Vương.md)
 
   * [Lịch sử Trung Quốc](Zet\Lịch sử Trung Quốc.md)
@@ -158,12 +160,21 @@ title: Tags
 
   * [Đền thờ An Dương Vương ở ngoại thành Hà Nội](Zet\Đền thờ An Dương Vương ở ngoại thành Hà Nội.md)
 
+  * [Tần Thủy Hoàng](Zet\People\Tần Thủy Hoàng.md)
+
  
 
 
 ## <span class="tag">#created/2021/Jun/22</span>
 
   * [Lịch Sử Việt Nam](Zet\Lịch Sử Việt Nam.md)
+
+ 
+
+
+## <span class="tag">#created/2021/Sep/01</span>
+
+  * [Phim hay](Zet\Phim hay.md)
 
  
 
@@ -221,8 +232,6 @@ title: Tags
 
 ## <span class="tag">#created/2021/Sep/11</span>
 
-  * [An Dương Vương thực hiện kế vườn không nhà trống với quân Tần](Zet\An Dương Vương thực hiện kế vườn không nhà trống với quân Tần.md)
-
   * [Interests](Zet\Interests.md)
 
   * [Language](Zet\Language.md)
@@ -250,16 +259,23 @@ title: Tags
  
 
 
-## <span class="tag">#created/2021/Sep/24</span>
+## <span class="tag">#created/2021/Sep/26</span>
 
-  * [🛠️210924-Build mkdocs from scratch](Projects\Build Obsidian Mkdocs site\🛠️210924-Build mkdocs from scratch.md)
+  * [Quốc hiệu VN qua các thời kỳ](Zet\Quốc hiệu VN qua các thời kỳ.md)
+
+ 
+
+
+## <span class="tag">#created/2021/Sep/27</span>
+
+  * [Flask lib](Zet\Flask lib.md)
+
+  * [Kinh mân côi](Zet\Kinh mân côi.md)
 
  
 
 
 ## <span class="tag">#flashcards</span>
-
-  * [Python](Projects\Python.md)
 
   * [Amino acid](Zet\Amino acid.md)
 
@@ -296,7 +312,11 @@ title: Tags
 
   * [Nhà Trần](Zet\Nhà Trần.md)
 
+  * [Phim hay](Zet\Phim hay.md)
+
   * [QAnon map](Zet\QAnon map.md)
+
+  * [Quốc hiệu VN qua các thời kỳ](Zet\Quốc hiệu VN qua các thời kỳ.md)
 
   * [Toán học](Zet\Toán học.md)
 
@@ -317,18 +337,9 @@ title: Tags
  
 
 
-## <span class="tag">#Next</span>
-
-  * [🛠️210924-Build mkdocs from scratch](Projects\Build Obsidian Mkdocs site\🛠️210924-Build mkdocs from scratch.md)
-
- 
-
-
 ## <span class="tag">#permanent/concept</span>
 
   * [Enter the garden](Enter the garden.md)
-
-  * [Python](Projects\Python.md)
 
   * [Amino acid](Zet\Amino acid.md)
 
@@ -338,9 +349,13 @@ title: Tags
 
   * [Chúa Trịnh](Zet\Chúa Trịnh.md)
 
+  * [Flask lib](Zet\Flask lib.md)
+
   * [🏡 Health](Zet\Health.md)
 
   * [Interests](Zet\Interests.md)
+
+  * [Kinh mân côi](Zet\Kinh mân côi.md)
 
   * [Language](Zet\Language.md)
 
@@ -383,9 +398,15 @@ title: Tags
 
 ## <span class="tag">#permanent/fact</span>
 
+  * [208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ](Zet\208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ.md)
+
   * [An Dương Vương thực hiện kế vườn không nhà trống với quân Tần](Zet\An Dương Vương thực hiện kế vườn không nhà trống với quân Tần.md)
 
   * [Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít](Zet\Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít.md)
+
+  * [Phim hay](Zet\Phim hay.md)
+
+  * [Quốc hiệu VN qua các thời kỳ](Zet\Quốc hiệu VN qua các thời kỳ.md)
 
   * [Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng](Zet\Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng.md)
 
@@ -439,6 +460,8 @@ title: Tags
 
   * [Trần Quang Khải](Zet\People\Trần Quang Khải.md)
 
+  * [Tần Thủy Hoàng](Zet\People\Tần Thủy Hoàng.md)
+
   * [Võ Tắc Thiên](Zet\People\Võ Tắc Thiên.md)
 
   * [Đế Nghiêu](Zet\People\Đế Nghiêu.md)
@@ -468,6 +491,8 @@ title: Tags
 
 ## <span class="tag">#seed🥜</span>
 
+  * [208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ](Zet\208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ.md)
+
   * [An Dương Vương thực hiện kế vườn không nhà trống với quân Tần](Zet\An Dương Vương thực hiện kế vườn không nhà trống với quân Tần.md)
 
   * [An Dương Vương](Zet\An Dương Vương.md)
@@ -479,6 +504,10 @@ title: Tags
   * [Chúa Nguyễn](Zet\Chúa Nguyễn.md)
 
   * [Chúa Trịnh](Zet\Chúa Trịnh.md)
+
+  * [Flask lib](Zet\Flask lib.md)
+
+  * [Kinh mân côi](Zet\Kinh mân côi.md)
 
   * [Lucifer](Zet\Lucifer.md)
 
@@ -528,6 +557,8 @@ title: Tags
 
   * [Trần Quang Khải](Zet\People\Trần Quang Khải.md)
 
+  * [Tần Thủy Hoàng](Zet\People\Tần Thủy Hoàng.md)
+
   * [Võ Tắc Thiên](Zet\People\Võ Tắc Thiên.md)
 
   * [Đế Nghiêu](Zet\People\Đế Nghiêu.md)
@@ -535,13 +566,6 @@ title: Tags
   * [Đế Thuấn](Zet\People\Đế Thuấn.md)
 
   * [Đổng Trác](Zet\People\Đổng Trác.md)
-
- 
-
-
-## <span class="tag">#task🛠️</span>
-
-  * [🛠️210924-Build mkdocs from scratch](Projects\Build Obsidian Mkdocs site\🛠️210924-Build mkdocs from scratch.md)
 
  
 
@@ -557,8 +581,6 @@ title: Tags
 
   * [feature checking](feature checking.md)
 
-  * [feature checking](Projects\Mkdocs Feature checking.md)
-
  
 
 
@@ -569,7 +591,5 @@ title: Tags
   * [about](about.md)
 
   * [feature checking](feature checking.md)
-
-  * [feature checking](Projects\Mkdocs Feature checking.md)
 
  
