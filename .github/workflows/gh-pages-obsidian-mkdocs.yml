@@ -55,6 +55,9 @@ jobs:
           python mdgraph/mdgraph.py mdgraph/mdgraph_config.json
           make build-docs
           cp -rf docs/mdgraph site
+          echo "ls -a ../"
+          ls -a ../
+          rm -rf ../site
           cp -rf site ../
 
       - name: Commit report
