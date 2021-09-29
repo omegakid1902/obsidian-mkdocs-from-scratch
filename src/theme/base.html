@@ -175,7 +175,7 @@
                 {% if page.meta.tags|length  %}
                   tags
                   {% for tag in page.meta.tags %}
-                    <code><a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag }}</a> </code>
+                    <code><a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag.strip('#') }}</a> </code>
                   {% endfor %}   
                 {% endif %} 
                 {{ page.content }}
