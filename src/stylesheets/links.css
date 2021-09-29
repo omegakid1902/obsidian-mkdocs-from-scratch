@@ -895,7 +895,30 @@
 .md-content a[href*="../"]::before {
     content: "[["; 
     }
-    
+
+.md-grid {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 61rem;
+}
+
+.md-content__inner {
+    margin: 0 .8rem 1.2rem;
+    padding-top: 6;  /* Top of page */
+}
+
+.md-content {
+    flex-grow: 1;
+    overflow: hidden;
+    scroll-padding-top: 51.2rem;
+}
+
+.md-main__inner {
+    display: flex;
+    height: 100%;
+    margin-top: 0;
+}
+
 .md-content a[href*="../"]:hover::after {
     color: darkgreen;
     }
@@ -921,6 +944,9 @@
 .md-content h3,
 .md-content h1 {
     color: darkslategray;
+    margin-top: 0;
+    margin-bottom: 0;
+    bottom: 0;
     }
 
 /* dutran
