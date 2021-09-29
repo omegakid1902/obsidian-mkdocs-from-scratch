@@ -186,7 +186,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../about/" class="md-nav__link">
+      <a href="../../about.md" class="md-nav__link">
         Introduction
       </a>
     </li>
@@ -510,7 +510,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../mdgraph/" class="md-nav__link">
+      <a href="../../mdgraph.md" class="md-nav__link">
         Site graph
       </a>
     </li>
@@ -820,7 +820,7 @@ result:</p>
 
 [alternative name](../Zet/index.md)
 
-[Đây là page 2#Header 1](../Đây là page 2.md#header-1)
+[[Đây là page 2#Header 1]]
 
 [docker](https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker)
 </code></pre></div>
@@ -830,9 +830,9 @@ result:</p>
 <p><a href="../../Zet/#feature-checking">index#Feature checking</a></p>
 <p><a href="../../Zet/">alternative name</a></p>
 <p>sub/subpage.md
-<a href="../../sub/subpage/">subpage</a></p>
-<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/">Đây là page 2</a></p>
-<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/#header-1">Đây là page 2#Header 1</a></p>
+[[subpage]]</p>
+<p>[[Đây là page 2]]</p>
+<p>[[Đây là page 2#Header 1]]</p>
 <p><a href="https://squidfunk.github.io/mkdocs-material/getting-started/#with-docker">docker</a></p>
 <h2 id="markdown-link"><strong>markdown link</strong></h2>
 <p><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
@@ -841,15 +841,15 @@ result:</p>
 4
 5</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>[index](../Zet/index.md)
 
-[Đây là page 2](../Đây là page 2.md): unicode character
+[Đây là page 2](Đây là page 2.md): unicode character
 
-[Đây là page 2](../Đây là page 2.md#Header 1)
+[Đây là page 2](Đây là page 2.md#Header 1)
 </code></pre></div>
 </td></tr></table>
 result:</p>
 <p><a href="../../Zet/">index</a></p>
-<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/">Đây là page 2</a>: unicode character</p>
-<p><a href="../../%C4%90%C3%A2y%20l%C3%A0%20page%202/#Header 1">Đây là page 2</a></p>
+<p><a href="Đây là page 2.md">Đây là page 2</a>: unicode character</p>
+<p><a href="Đây là page 2.md#Header 1">Đây là page 2</a></p>
 <p><a href="pagesub.md">subpage</a></p>
 <h2 id="code-style"><strong>Code style</strong></h2>
 <p><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
