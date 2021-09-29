@@ -145,12 +145,6 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <h3>Tags</h3>
-                    <p>
-                      {% for tag in page.meta.tags %}
-                        <li><code><a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag }}</a></code></li>
-                      {% endfor %} 
-                    </p>
                     {% include "partials/toc.html" %}
                   </div>
                 </div>
@@ -172,11 +166,31 @@
                 {% if page and page.title %} 
                   <h1>{{ page.title | d(config.site_name, true)}}</h1>
                 {% endif %}
-                {% if page.meta.tags|length  %}
-                  tags
-                  {% for tag in page.meta.tags %}
-                    <code><a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag.strip('#') }}</a> </code>
-                  {% endfor %}   
+                {% if page.meta.tags|length or page.meta.created  %}
+                  <details><summary> Page detail </summary>
+                    {% if page.meta.tags %}
+                      tags: <br>
+                      {% for tag in page.meta.tags %}
+                        - <a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag.strip('#').replace("/", "-") }}</a><br>
+                      {% endfor %}
+                    {% endif %}
+                    {% if '#permanent/people' in page.meta.tags %}
+                      sinh mất: 
+                      {% if not page.meta.birth %} 
+                        (n/a - 
+                      {% else %}
+                        ({{ page.meta.birth }} - 
+                      {% endif %}
+                      {% if not page.meta.death %} 
+                        n/a)
+                      {% else %}
+                        {{ page.meta.death }})
+                      {% endif %}
+                    {% endif %}
+                    {% if page.meta.created %}
+                      created: {{ page.meta.created }}
+                    {% endif %}
+                  </details> 
                 {% endif %} 
                 {{ page.content }}
                 {% if page and page.meta %}
