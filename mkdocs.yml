@@ -26,6 +26,8 @@ theme:
     custom_dir: src/theme
     palette:
       primary: teal           # color theme ref in https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+      scheme: teal           # color theme ref in https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+      accent: teal           # color theme ref in https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     font:
       text: Merriweather
       code: Inconsolata # Source Code Pro #Courier Prime #Space Mono #Inconsolata
