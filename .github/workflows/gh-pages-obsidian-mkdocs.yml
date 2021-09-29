@@ -48,7 +48,9 @@ jobs:
       - name: Scan md file to publish
         run: |
           python publish.py
-          cp -rf src/* docs/
+          cp -rf src/images docs/
+          cp -rf src/stylesheets docs/
+          cp -rf src/javascripts docs/
           python backlinks.py
           python mdgraph/mdgraph.py mdgraph/mdgraph_config.json
           make build-docs
