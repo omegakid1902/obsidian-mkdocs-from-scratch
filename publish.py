@@ -16,7 +16,7 @@ for file in os.listdir(zet_folder):
             content = f.read()
             metadata, content = frontmatter.parse(content)
             if 'publish' in metadata.keys():
-                print("Copy publish files from zettelkasten to docs/")
+                #  print("Copy publish files from zettelkasten to docs/")
                 copy(os.path.join(zet_folder, file), './docs/')
             else:
                 pass
@@ -32,19 +32,12 @@ for root, dirs, files in os.walk(target):
                 content = f.read()
                 metadata, content = frontmatter.parse(content)
                 if 'publish' in metadata.keys() and metadata['publish'] == True:
-                    print("Publish file:", os.path.join(root, file))
+                    #  print("Publish file:", os.path.join(root, file))
                     publish = True
                 else:
                     os.remove(os.path.join(root, file))
-                    publish = False
-            if publish:
-                with open(os.path.join(root, file), "r", encoding="utf8") as f:
-                    lines = f.readlines()
-                with open(os.path.join(root, file), 'w', encoding="utf8") as newf:
-                    print("Remove title file:", os.path.join(root, file))
-                    for line in lines:
-                        if not line.startswith("# "):
-                            newf.write(line)
+
+
 
 folder = "../zettelkasten/Spaces/Projects"
 copytree(folder, './docs/Projects')

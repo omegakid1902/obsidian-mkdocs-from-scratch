@@ -70,6 +70,7 @@ markdown_extensions:
   - abbr
   - meta                      # Frontmatter
   - def_list
+  - attr_list
   - pymdownx.superfences
   - pymdownx.highlight:
       linenums: true
@@ -91,7 +92,9 @@ markdown_extensions:
       toc_depth: 3            # depth   level toc to show
   - pymdownx.arithmatex:
       generic: true
-
+  - pymdownx.emoji:           # https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/?h=icon#search
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra_css:
   - stylesheets/links.css
