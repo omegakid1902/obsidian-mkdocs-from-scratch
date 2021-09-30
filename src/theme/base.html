@@ -192,7 +192,9 @@
                     {% endif %}
                   </details> 
                 {% endif %} 
-                {{ page.content }}
+                <details><summary> Content </summary>
+                  {{ page.content }}
+                </details>
                 {% if page and page.meta %}
                   {% if page.meta.git_revision_date_localized or
                         page.meta.revision_date
