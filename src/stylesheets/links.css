@@ -26,7 +26,7 @@
 }
 
 .md-content a[href*="../"] {
-    color: darkgreen;
+    color: darkgreen; 
     }
     
 .md-content a[href*="../"]:hover {
@@ -35,24 +35,44 @@
 
 .md-content a[href*="../"]::after {
     color: darkgreen;
-    content: "]]🌱";
+    background-image: url("/images/book-open-blank-variant.svg");
+    filter: invert(23%) sepia(21%) saturate(7448%) hue-rotate(95deg) brightness(92%) contrast(105%);
+    background-repeat: no-repeat;
+    background-size: 0.75em;
+    background-position: right 1px top;
+    width: 0.825em;
+    height: 0.825em;
+    display: inline-block;
+    vertical-align: baseline;
+    opacity: 0.825;
     }
 
 .md-content a[href*="../"]::before {
     color: darkgreen;
-    content: "[["; 
+    content: ""; 
     }
 
 .md-content a[href*="../"]:hover::after {
-    opacity: 0.6;
+    color: darkgreen;
+    background-image: url("/images/book-open-page-variant.svg");
+    filter: invert(23%) sepia(21%) saturate(7448%) hue-rotate(95deg) brightness(92%) contrast(105%);
+    background-repeat: no-repeat;
+    background-size: 0.75em;
+    background-position: right 1px top;
+    width: 0.825em;
+    height: 0.825em;
+    display: inline-block;
+    vertical-align: baseline;
+    opacity: 0.825;
+    opacity: 0.7;
     }
 
 .md-content a[href*="../"]:hover::before {
-    opacity: 0.6;
+    opacity: 0.7;
     }
 
 .md-content a[href*="/tags.html#"]:hover {
-    opacity: 0.6;
+    opacity: 0.7;
     }
 
 .md-content a[href*="/tags.html#"]::before {
@@ -62,13 +82,21 @@
 .md-content a[href*="../Genesis"]::after,
 .md-content a[href*="../Gen-"]::after {
     color: darkgreen;
-    content: "]]✝️"; 
+    content: ""; 
+    background-image: url("/images/bible.svg");
+    background-repeat: no-repeat;
+    background-size: 0.75em;
+    background-position: right 1px top;
+    width: 0.825em;
+    height: 0.825em;
+    display: inline-block;
+    vertical-align: baseline;
+    opacity: 0.825;
     }
 
 .md-content a[href*="../Genesis"]:hover:after,
 .md-content a[href*="../Gen-"]:hover::after {
-    opacity: 0.6;
-    content: "]]✝️"; 
+    opacity: 0.8;
     }
 
 .md-content h2,
@@ -104,7 +132,7 @@
 .md-content a[href*="wikisource.org"]::after {
     content: "";
     /* WP is used on almost every page, so make an exception and inline it */
-    background-image: url("images/wikipedia-w.svg");
+    background-image: url("/images/wikipedia-w.svg");
     background-repeat: no-repeat;
     background-size: 0.75em;
     background-position: right 1px top;
@@ -113,33 +141,31 @@
     display: inline-block;
     vertical-align: baseline;
     opacity: 0.825;
-    color: black;
 }
 
 .md-content a[href*="wikipedia.org"]:hover::after,
 .md-content a[href*="wikimedia.org"]:hover::after,
 .md-content a[href*="wikimediafoundation.org"]:hover::after,
 .md-content a[href*="wikisource.org"]:hover::after {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 /* Facebook */
 .md-content a[href*="facebook.com"]::after {
-    background-image: url("images/facebook.svg");
+    background-image: url("/images/facebook.svg");
     background-repeat: no-repeat;
     /* WP is used on almost every page, so make an exception and inline it */
+    filter: invert(33%) sepia(99%) saturate(355%) hue-rotate(180deg) brightness(98%) contrast(91%);
     background-size: 0.75em;
     background-position: right 1px top;
     width: 0.825em;
     height: 0.825em;
     display: inline-block;
     vertical-align: baseline;
-    opacity: 0.825;
-    color: blue;
 }
 
 .md-content a[href*="facebook.com"]:hover::after{
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 /* Ref in https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/?h=icon#with-colors */
