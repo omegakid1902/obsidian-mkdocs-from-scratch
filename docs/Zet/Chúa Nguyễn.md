@@ -9,6 +9,7 @@ aliases:
   - Chúa Nguyễn
 publish: True
 ---
+# Chúa Nguyễn
 
 ## Notes
 Chúa Nguyễn là tên gọi người/dòng họ cai trị xứ [[Đàng Trong]] khởi đầu từ từ thời [[Thời Lê trung hưng]] đến [[Nhà Tây Sơn]]. Người có công khởi dựng sự nghiệp Chúa Nguyễn là [[Nguyễn Hoàng]]. Ông đã có công dẫn người vào khai phá mở rộng lãnh thổ về phía nam.

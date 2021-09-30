@@ -9,6 +9,7 @@ aliases:
   - 
 publish: True
 ---
+# Đổng Trác
 
 ## Notes:
 Đổng Trác (132-192) là một tướng quân [[Nhà Hậu Hán|Nhà Đông Hán]], đầu thời kỳ [[Tam Quốc]].

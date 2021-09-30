@@ -8,6 +8,7 @@ aliases:
   - Nhà Trần
 publish: True
 ---
+# Nhà Trần
 
 ## Sơ lược
 Tiền thân là [[Nhà Lý]], kế tục là nhà [[Nhà Hồ]]

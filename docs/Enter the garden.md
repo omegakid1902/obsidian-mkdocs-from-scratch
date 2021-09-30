@@ -7,6 +7,7 @@ tags:
   - '#permanent/concept'
 publish: True
 ---
+# Enter the garden
 
 Chào mừng bạn đã đến với khu vườn ghi chú.
 

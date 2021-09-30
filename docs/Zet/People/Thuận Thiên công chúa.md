@@ -11,6 +11,7 @@ aliases:
   - Lý Oánh
 publish: True
 ---
+# Thuận Thiên công chúa
 
 ## Notes:
 Thuận Thiên công chúa tên thật là Lý Oánh, là con gái cả của [[Lý Huệ Tông]], chị gái của [[Lý Chiêu Hoàng]]. Bà là cô ruột của [[Trần Cảnh]]. 

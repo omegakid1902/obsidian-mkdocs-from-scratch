@@ -9,6 +9,7 @@ aliases:
   - 
 publish: True
 ---
+# Nhà Hạ
 
 ## Notes:
 Nhà Hạ (thế kỉ 21 TCN - thế kỷ 16 TCN) là một nhóm các bộ lạc của người [[Hoa Hạ]] ở vùng trung nguyên Trung Quốc.

@@ -10,6 +10,7 @@ aliases:
   - Language
 publish: True
 ---
+# Language
 
 - [[Words MOC]]
 

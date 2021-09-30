@@ -1,6 +1,7 @@
 ---
 publish: True
 ---
+# Bếp lò Franklin
 
 - metadata
 	- UID: P-210808-2123

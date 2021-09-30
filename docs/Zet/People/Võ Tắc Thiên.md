@@ -12,6 +12,7 @@ aliases:
   - Võ Hậu
 publish: True
 ---
+# Võ Tắc Thiên
 
 ## Notes:
 Võ Tắc Thiên là một phi tần của [[Lý Thế Dân]], sau trở thành hoàng hậu thứ 2 của [[Đường Cao Tông]].

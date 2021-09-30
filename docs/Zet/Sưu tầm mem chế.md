@@ -8,6 +8,7 @@ tags:
   - 'funny'
 publish: True
 ---
+# Sưu tầm mem chế
 
 ## Notes:
 ### [[📝21-09-29]]

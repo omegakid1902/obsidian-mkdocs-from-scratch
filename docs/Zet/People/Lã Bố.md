@@ -13,6 +13,7 @@ aliases:
   - Lã Ôn hầu
 publish: True
 ---
+# Lã Bố
 
 ## Notes:
 Lã Bố hay còn gọi là Lữ Bố, tự là Phụng Tiên, là một tướng lĩnh nổi tiếng thời [[Nhà Hậu Hán|Nhà Đông Hán]]

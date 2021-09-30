@@ -7,6 +7,7 @@ tags:
 aliases: [Công giáo Roma, Giáo Hội Công Giáo, Catholic]
 publish: True
 ---
+# Công Giáo
 
 ### Định nghĩa
 **Công giáo** hay còn gọi là Công giáo Roma, là nhánh lớn nhất của Kito giáo. Giáo Hội công giáo được xem là giáo hội duy nhất cho Chúa Jesus thiết lập, Đức Giáo Hoàng là người kế vị tông đồ Phero.

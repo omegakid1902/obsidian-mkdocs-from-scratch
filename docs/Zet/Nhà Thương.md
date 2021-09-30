@@ -10,6 +10,7 @@ aliases:
   - Ân Thương
 publish: True
 ---
+# Nhà Thương
 
 ## Notes:
 Nhà Thương, còn được gọi là nhà Ân, hay Ân Thương, là một triều đại của [[Trung Quốc]].

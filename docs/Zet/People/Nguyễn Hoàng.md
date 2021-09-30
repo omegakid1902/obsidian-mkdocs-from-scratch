@@ -12,6 +12,7 @@ aliases:
   - Nguyễn Thái Tổ
 publish: True
 ---
+# Nguyễn Hoàng
 
 ## Notes:
 Nguyễn Hoàng (1525-1613) là vị [[Chúa Nguyễn]] đầu tiên, là người đặt nền móng cho [[Nhà Nguyễn]]. Quê ông ở Thanh Hóa. Cha ông là [[Nguyễn Kim]]. Ông có công khai phá, mở rộng lãnh thổ Việt Nam về phía Nam.

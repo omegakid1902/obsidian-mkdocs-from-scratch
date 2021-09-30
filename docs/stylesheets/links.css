@@ -2,28 +2,275 @@
 /*= Icons for certain link types: by target =*/
 /*=-----------------------------------------=*/
 
-/*  Within-page (anchor) links.
-    */
-/*
-.md-content section > :not(:first-child) a[href^='#']::after,
-.md-content p a[href^='#']::after {
-    content: "\00B6";
-    margin: 0 1px 0 3px;
-    font-size: 0.75em;
+.md-grid {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 61rem;
+}
+
+.md-content__inner {
+    margin: 0 .8rem 1.2rem;
+    padding-top: 6;  /* Top of page */
+}
+
+.md-content {
+    flex-grow: 1;
+    overflow: hidden;
+    scroll-padding-top: 51.2rem;
+}
+
+.md-main__inner {
+    display: flex;
+    height: 100%;
+    margin-top: 0;
+}
+
+.md-content a[href*="../"] {
+    color: darkgreen; 
+    }
+    
+.md-content a[href*="../"]:hover {
+    color: darkgreen;
+	opacity: 0.825;
+    }
+
+
+.md-content a[href*="../"]::after {
+    content: "";
+    color: darkgreen;
+    background-image: url(/images/book-open-blank-variant.svg);
+    filter: invert(23%) sepia(21%) saturate(7448%) hue-rotate(95deg) brightness(92%) contrast(105%);
+    background-repeat: no-repeat;
+    background-size: 0.99em;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
     vertical-align: baseline;
-    position: relative;
-    bottom: 0.45em;
-    opacity: 0.6;
 }
-.md-content section > :not(:first-child) a[href^='#'].footnote-ref::after,
-.md-content p a[href^='#'].footnote-ref::after,
-.md-content section > :not(:first-child) a[href^='#'].footnote-back::after,
-.md-content p a[href^='#'].footnote-back::after {
-    content: none;
+
+.md-content a[href*="../"]::before {
+    color: darkgreen;
+    content: ""; 
+    }
+
+.md-content a[href*="../"]:hover::after {
+	content: ""; 
+    color: darkgreen;
+    background-image: url("/images/book-open-page-variant.svg");
+    filter: invert(23%) sepia(21%) saturate(7448%) hue-rotate(95deg) brightness(92%) contrast(105%);
+    background-repeat: no-repeat;
+    background-size: 0.99em;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: baseline;
+    opacity: 0.825;
+    }
+
+.md-content a[href*="../"]:hover::before {
+    opacity: 0.7;
+    }
+
+.md-content a[href*="/tags.html#"]:hover {
+    opacity: 0.7;
+    }
+
+.md-content a[href*="/tags.html#"]::before {
+    content: "#️⃣"; 
+    }
+	
+.md-content a[href*="../Genesis"]::after, 
+.md-content a[href*="../Gen-"]::after {
+    color: darkgreen;
+    content: "";
+    background-image: url(/images/bible.svg);
+    background-repeat: no-repeat;
+    background-size: 0.7em;
+    display: inline-block;
+    vertical-align: baseline;
 }
+.md-content a[href*="../Genesis"]:hover::after, 
+.md-content a[href*="../Gen-"]:hover::after {
+    color: darkgreen;
+    content: "";
+    background-image: url(/images/bible.svg);
+    background-repeat: no-repeat;
+    background-size: 0.7em;
+    display: inline-block;
+    vertical-align: baseline;
+	opacity: 0.7;
+}
+
+.md-content h2,
+.md-content h3,
+.md-content h1 {
+    color: darkslategray;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    bottom: 0;
+    }
+
+/* dutran
+.md-content a[href*="###"]::before {
+    color: red;
+    content: "#"; 
+    }
+
+.md-content a[href*="##"]::before {
+    color: red;
+    content: "[["; 
+    }
+
+.md-content a[href*="#"]::before {
+    color: red;
+    content: "[["; 
+    }
 */
-/*  Internal (within-site) links. Avoid 'G' icons on hosted documents, local images, and infrastructure, which aren't formal writings.
- */
+
+/* Wikipedia */
+.md-content a[href*="wikipedia.org"]::after,
+.md-content a[href*="wikimedia.org"]::after,
+.md-content a[href*="wikimediafoundation.org"]::after,
+.md-content a[href*="wikisource.org"]::after {
+    content: "";
+    /* WP is used on almost every page, so make an exception and inline it */
+    background-image: url("/images/wikipedia-w.svg");
+    background-repeat: no-repeat;
+    background-size: 0.75em;
+    background-position: right 1px top;
+    width: 0.825em;
+    height: 0.825em;
+    display: inline-block;
+    vertical-align: baseline;
+    opacity: 0.825;
+}
+
+.md-content a[href*="wikipedia.org"]:hover::after,
+.md-content a[href*="wikimedia.org"]:hover::after,
+.md-content a[href*="wikimediafoundation.org"]:hover::after,
+.md-content a[href*="wikisource.org"]:hover::after {
+    opacity: 0.8;
+}
+
+/* Facebook */
+.md-content a[href*="facebook.com"]::after {
+	content: ""; 
+    background-image: url("/images/facebook.svg");
+    background-repeat: no-repeat;
+    /* WP is used on almost every page, so make an exception and inline it */
+    filter: invert(33%) sepia(99%) saturate(355%) hue-rotate(180deg) brightness(98%) contrast(91%);
+    background-size: 0.75em;
+    background-position: right 1px top;
+    width: 0.825em;
+    height: 0.825em;
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+.md-content a[href*="facebook.com"]:hover::after{
+    opacity: 0.8;
+}
+
+/* Ref in https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/?h=icon#with-colors */
+@keyframes heart {
+    0%, 40%, 80%, 100% {
+      transform: scale(1);
+    }
+    20%, 60% {
+      transform: scale(1.15);
+    }
+  }
+
+.heart {
+animation: heart 1000ms infinite;
+}
+
+.medium {
+    color: #00AB6C;
+    }
+.twitter {
+color: #1DA1F2;
+}
+.facebook {
+color: #4267B2;
+}
+
+
+
+/*------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------*/
+
+.md-typeset .admonition-title:before, 
+.md-typeset summary:before {
+    background-color: green;
+    content: "";
+    height: 1rem;
+    left: .6rem;
+    -webkit-mask-image: var(--md-admonition-icon--note);
+    mask-image: var(--md-admonition-icon--note);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    position: absolute;
+    width: 1rem;
+}
+
+.md-typeset .admonition-title, 
+.md-typeset summary {
+    background-color: darkseagreen;
+    border-left: .1rem lightgreen;
+    border-left-width: 0.1rem;
+    border-left-style: solid;
+    border-left-color: lightgreen;
+    font-weight: 700;
+    margin: 0 -.6rem 0 -.8rem;
+    padding: .4rem .6rem .4rem 2rem;
+    position: relative;
+    box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 5%), 0 0.025rem 0.05rem rgb(0 0 0 / 5%);
+}
+
+.md-typeset details {
+    background-color:var(--md-admonition-bg-color);
+    color: var(--md-admonition-fg-color);
+    border-left: .2rem;
+    border-radius: .2rem;
+    border-left-color: darkseagreen;
+    border-left-style: solid;
+    box-shadow: 0 0.2rem 0.5rem rgb(0 0 0 / 5%), 0 0.025rem 0.05rem rgb(0 0 0 / 5%);
+    font-size: 0.8rem;
+    margin: 1.5625em 0;
+    overflow: hidden;
+    padding: 0 .6rem;
+    page-break-inside: avoid;
+}
+
+/* https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions */
+/* https://github.com/squidfunk/mkdocs-material/discussions/2696 */
+/* define variable */
+:root {
+    --md-admonition-icon--pied: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M244 246c-3.2-2-6.3-2.9-10.1-2.9-6.6 0-12.6 3.2-19.3 3.7l1.7 4.9zm135.9 197.9c-19 0-64.1 9.5-79.9 19.8l6.9 45.1c35.7 6.1 70.1 3.6 106-9.8-4.8-10-23.5-55.1-33-55.1zM340.8 177c6.6 2.8 11.5 9.2 22.7 22.1 2-1.4 7.5-5.2 7.5-8.6 0-4.9-11.8-13.2-13.2-23 11.2-5.7 25.2-6 37.6-8.9 68.1-16.4 116.3-52.9 146.8-116.7C548.3 29.3 554 16.1 554.6 2l-2 2.6c-28.4 50-33 63.2-81.3 100-31.9 24.4-69.2 40.2-106.6 54.6l-6.3-.3v-21.8c-19.6 1.6-19.7-14.6-31.6-23-18.7 20.6-31.6 40.8-58.9 51.1-12.7 4.8-19.6 10-25.9 21.8 34.9-16.4 91.2-13.5 98.8-10zM555.5 0l-.6 1.1-.3.9.6-.6zm-59.2 382.1c-33.9-56.9-75.3-118.4-150-115.5l-.3-6c-1.1-13.5 32.8 3.2 35.1-31l-14.4 7.2c-19.8-45.7-8.6-54.3-65.5-54.3-14.7 0-26.7 1.7-41.4 4.6 2.9 18.6 2.2 36.7-10.9 50.3l19.5 5.5c-1.7 3.2-2.9 6.3-2.9 9.8 0 21 42.8 2.9 42.8 33.6 0 18.4-36.8 60.1-54.9 60.1-8 0-53.7-50-53.4-60.1l.3-4.6 52.3-11.5c13-2.6 12.3-22.7-2.9-22.7-3.7 0-43.1 9.2-49.4 10.6-2-5.2-7.5-14.1-13.8-14.1-3.2 0-6.3 3.2-9.5 4-9.2 2.6-31 2.9-21.5 20.1L15.9 298.5c-5.5 1.1-8.9 6.3-8.9 11.8 0 6 5.5 10.9 11.5 10.9 8 0 131.3-28.4 147.4-32.2 2.6 3.2 4.6 6.3 7.8 8.6 20.1 14.4 59.8 85.9 76.4 85.9 24.1 0 58-22.4 71.3-41.9 3.2-4.3 6.9-7.5 12.4-6.9.6 13.8-31.6 34.2-33 43.7-1.4 10.2-1 35.2-.3 41.1 26.7 8.1 52-3.6 77.9-2.9 4.3-21 10.6-41.9 9.8-63.5l-.3-9.5c-1.4-34.2-10.9-38.5-34.8-58.6-1.1-1.1-2.6-2.6-3.7-4 2.2-1.4 1.1-1 4.6-1.7 88.5 0 56.3 183.6 111.5 229.9 33.1-15 72.5-27.9 103.5-47.2-29-25.6-52.6-45.7-72.7-79.9zm-196.2 46.1v27.2l11.8-3.4-2.9-23.8zm-68.7-150.4l24.1 61.2 21-13.8-31.3-50.9zm84.4 154.9l2 12.4c9-1.5 58.4-6.6 58.4-14.1 0-1.4-.6-3.2-.9-4.6-26.8 0-36.9 3.8-59.5 6.3z"/></svg>')
+  }
+  .md-typeset .admonition.pied,
+  .md-typeset details.pied {
+    border-color: rgb(43, 155, 70);
+  }
+  .md-typeset .pied > .admonition-title,
+  .md-typeset .pied > summary {
+    background-color: rgba(43, 155, 70, 0.1);
+    border-color: rgb(43, 155, 70);
+  }
+  .md-typeset .pied > .admonition-title::before,
+  .md-typeset .pied > summary::before {
+    background-color: rgb(43, 155, 70);
+    -webkit-mask-image: var(--md-admonition-icon--pied);
+            mask-image: var(--md-admonition-icon--pied);
+  }
+
+/*------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------*/
+
  .md-content a[href^="https://www.gwern.net/"]:not([href*="/docs/"]):not([href*="/images/"]):not([href*="/static/"]):not([href$=".hs"]):not([href$=".sh"]):not([href$=".R"])::after {
     content: "\1D50A"; /* Gothic G */
     margin: 0 0 0 2px;
@@ -741,50 +988,6 @@
     opacity: 0.60;
 }
 
-/* Erowid */
-.md-content a[href*='erowid.org']::after {
-    background-image: url("/blue-book/assets/images/erowid.svg");
-}
-.md-content a[href*='erowid.org']:hover::after {
-    opacity: 0.3;
-}
-.md-content a[href*='erowid.org']::after {
-    content: "";
-    display: inline-block;
-    position: static;
-    background-repeat: no-repeat;
-    background-position: bottom center;
-    height: 1em;
-    width: 1em;
-    margin: 0 0 0 2px;
-    opacity: 0.60;
-}
-
-/* Wikipedia */
-
-.md-content a[href*="wikipedia.org"]::after,
-.md-content a[href*="wikimedia.org"]::after,
-.md-content a[href*="wikimediafoundation.org"]::after,
-.md-content a[href*="wikisource.org"]::after {
-    content: "";
-    /* WP is used on almost every page, so make an exception and inline it */
-    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNjQwIDUxLjJsLS4zIDEyLjJjLTI4LjEuOC00NSAxNS44LTU1LjggNDAuMy0yNSA1Ny44LTEwMy4zIDI0MC0xNTUuMyAzNTguNkg0MTVsLTgxLjktMTkzLjFjLTMyLjUgNjMuNi02OC4zIDEzMC05OS4yIDE5My4xLS4zLjMtMTUgMC0xNS0uM0MxNzIgMzUyLjMgMTIyLjggMjQzLjQgNzUuOCAxMzMuNCA2NC40IDEwNi43IDI2LjQgNjMuNC4yIDYzLjdjMC0zLjEtLjMtMTAtLjMtMTQuMmgxNjEuOXYxMy45Yy0xOS4yIDEuMS01Mi44IDEzLjMtNDMuMyAzNC4yIDIxLjkgNDkuNyAxMDMuNiAyNDAuMyAxMjUuNiAyODguNiAxNS0yOS43IDU3LjgtMTA5LjIgNzUuMy0xNDIuOC0xMy45LTI4LjMtNTguNi0xMzMuOS03Mi44LTE2MC05LjctMTcuOC0zNi4xLTE5LjQtNTUuOC0xOS43VjQ5LjhsMTQyLjUuM3YxMy4xYy0xOS40LjYtMzguMSA3LjgtMjkuNCAyNi4xIDE4LjkgNDAgMzAuNiA2OC4xIDQ4LjEgMTA0LjcgNS42LTEwLjggMzQuNy02OS40IDQ4LjEtMTAwLjggOC45LTIwLjYtMy45LTI4LjYtMzguNi0yOS40LjMtMy42IDAtMTAuMy4zLTEzLjYgNDQuNC0uMyAxMTEuMS0uMyAxMjMuMS0uNnYxMy42Yy0yMi41LjgtNDUuOCAxMi44LTU4LjEgMzEuN2wtNTkuMiAxMjIuOGM2LjQgMTYuMSA2My4zIDE0Mi44IDY5LjIgMTU2LjdMNTU5LjIgOTEuOGMtOC42LTIzLjEtMzYuNC0yOC4xLTQ3LjItMjguM1Y0OS42bDEyNy44IDEuMS4yLjV6Ii8+PC9zdmc+');
-    background-repeat: no-repeat;
-    background-size: 0.75em;
-    background-position: right 1px top;
-    width: 0.825em;
-    height: 0.825em;
-    display: inline-block;
-    vertical-align: baseline;
-    opacity: 0.825;
-}
-.md-content a[href*="wikipedia.org"]:hover::after,
-.md-content a[href*="wikimedia.org"]:hover::after,
-.md-content a[href*="wikimediafoundation.org"]:hover::after,
-.md-content a[href*="wikisource.org"]:hover::after {
-    opacity: 0.6;
-}
-
 /* YouTube/Bandcamp/SoundCloud links */
 .md-content a[href*='youtube.com']::after,
 .md-content a[href*='youtu.be']::after,
@@ -882,88 +1085,6 @@
 }
 .md-content a[href*="omegakid1902.github.io"]::after {
     content: "🌱"; }
-*/
-
-.md-content a[href*="../"]:hover {
-    color: darkgreen;
-    }
-
-.md-content a[href*="../"]::after {
-    content: "]]🌱";
-    }
-
-.md-content a[href*="../"]::before {
-    content: "[["; 
-    }
-
-.md-grid {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 61rem;
-}
-
-.md-content__inner {
-    margin: 0 .8rem 1.2rem;
-    padding-top: 6;  /* Top of page */
-}
-
-.md-content {
-    flex-grow: 1;
-    overflow: hidden;
-    scroll-padding-top: 51.2rem;
-}
-
-.md-main__inner {
-    display: flex;
-    height: 100%;
-    margin-top: 0;
-}
-
-.md-content a[href*="../"]:hover::after {
-    color: darkgreen;
-    }
-
-.md-content a[href*="../"]:hover::before {
-    color: darkgreen;
-    }
-
-.md-content a[href*="/tags.html#"]:hover {
-    color: darkgreen;
-    }
-
-.md-content a[href*="/tags.html#"]::before {
-    content: "#️⃣"; 
-    }
-
-.md-content a[href*="../Genesis"]::after,
-.md-content a[href*="../Gen-"]::after {
-    content: "]]✝️"; 
-    }
-
-.md-content h2,
-.md-content h3,
-.md-content h1 {
-    color: darkslategray;
-    margin-top: 0;
-    margin-bottom: 0;
-    bottom: 0;
-    }
-
-/* dutran
-.md-content a[href*="###"]::before {
-    color: red;
-    content: "#"; 
-    }
-
-.md-content a[href*="##"]::before {
-    color: red;
-    content: "[["; 
-    }
-
-.md-content a[href*="#"]::before {
-    color: red;
-    content: "[["; 
-    }
 */
 
 .md-content a[href*='mailto']::after,

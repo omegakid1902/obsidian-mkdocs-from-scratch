@@ -11,6 +11,7 @@ aliases:
   - Thục Phán
 publish: True
 ---
+# An Dương Vương
 
 ## Notes
 An Dương Vương tên thật là [[Thục Phán]]. [[Thục Phán đánh bại Văn Lang lập Âu Việt]]
