@@ -1,24 +1,18 @@
 ---
 title: "Python"
-UID: 210822231715
 tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/concept'
-  - '#flashcards'
-aliases: 
-  - 
+  - 'created/2021/Jul/07'
+  - 'permanent/concept'
+  - 'flashcards'
+publish: True
 ---
-
 # Python
-
-%% 
-- metadata:
-	- tags: #created/2021/Jul/07, #MOC 
-	- source: https://www.youtube.com/watch?v=p15xzjzR9j0, https://www.youtube.com/watch?v=d5BzuLlII_Y
-%%
 
 ## Classic Approach
 ### Basic python
+https://www.youtube.com/watch?v=p15xzjzR9j0, 
+https://www.youtube.com/watch?v=d5BzuLlII_Y
+
 [[Python - Variables]]
 [[Python - Conditions]]
 [[Python - Chained conditionals]]
@@ -66,11 +60,6 @@ Build and manipulate Packages
 	- web develop
 	- script
 	- AI, data scientist
-
-
-
-
-
 
 
 ## Target Application Approach

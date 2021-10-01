@@ -1,3 +1,9 @@
+---
+title: The bible
+aliases:
+  - Kinh thánh
+  - Thánh kinh
+---
 links: [[010 Faith MOC|Faith MOC ]]
 # The Bible
 - [[God's unified story]] 
@@ -74,6 +80,7 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 -[[Acts]]
 
 **Pauline Epistles**
+
 - [[Romans]]
 - [[1 Corinthians]]
 - [[2 Corinthians]]
@@ -102,3 +109,23 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 **Apocalyptic Writing (Prophecy)**
 
 - [[Revelation]]
+
+# Phúc Âm
+
+- metadata
+	- UID: P-210731-2208
+	- tags: #created/2021/Jul/31, #permanent/concept 
+	- source: 
+
+## Notes
+
+
+## Questions & thoughts:
+- [ ] [[Kinh thánh]] của [[Công Giáo]]
+
+## Related:
+```dataview
+list
+from [[Phúc Âm]]
+sort file.name asc
+```
