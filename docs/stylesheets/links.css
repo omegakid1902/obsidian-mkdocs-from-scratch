@@ -34,7 +34,7 @@
 	opacity: 0.825;
     }
 
-
+.md-content a:not([href*="/Scripture"])::after,
 .md-content a[href*="../"]::after {
     content: "";
     color: darkgreen;
@@ -53,7 +53,8 @@
     content: ""; 
     }
 
-.md-content a[href*="../"]:hover::after {
+.md-content a[href*="../"]:hover::after,
+.md-content a:not([href*="/Scripture"]):hover::after {
 	content: ""; 
     color: darkgreen;
     background-image: url("/images/book-open-page-variant.svg");
@@ -79,8 +80,10 @@
     content: "#️⃣"; 
     }
 
-.md-content a[href*="/Scripture (BPT)"]::after, 
-.md-content a[href*="/Genesis"]::after, 
+    
+.md-content a[href*="/Scripture"]::after, 
+.md-content a[href*="/Genesis"]::after,
+.md-content a[href*="/Exodus"]::after,
 .md-content a[href*="../Gen-"]::after {
     color: darkgreen;
     content: "";
@@ -90,7 +93,10 @@
     display: inline-block;
     vertical-align: baseline;
 }
-.md-content a[href*="../Genesis"]:hover::after, 
+
+.md-content a[href*="/Scripture"]:hover::after, 
+.md-content a[href*="/Genesis"]:hover::after,
+.md-content a[href*="/Exodus"]:hover::after, 
 .md-content a[href*="../Gen-"]:hover::after {
     color: darkgreen;
     content: "";
