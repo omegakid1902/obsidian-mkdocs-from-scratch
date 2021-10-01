@@ -5221,6 +5221,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/40%20-%20Matthew/Matthew/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/41%20-%20Mark/Mark-01/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
@@ -5297,6 +5302,11 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/41%20-%20Mark/Mark-16/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Projects/Bible%20Study%20Kit/Scripture%20%28BPT%29/41%20-%20Mark/Mark/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6601,12 +6611,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://omegakid1902.github.io/Zet/C%E1%BB%B1u%20%C6%AF%E1%BB%9Bc/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://omegakid1902.github.io/Zet/Flask%20lib/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://omegakid1902.github.io/Zet/Github%20workflow/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://omegakid1902.github.io/Zet/Health/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/H%E1%BB%93i%20Gi%C3%A1o/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Insulin/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6647,16 +6677,6 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/L%E1%BB%8Bch%20s%E1%BB%AD/</loc>
-         <lastmod>2021-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://omegakid1902.github.io/Zet/Mark/</loc>
-         <lastmod>2021-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://omegakid1902.github.io/Zet/Matthew/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6731,7 +6751,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://omegakid1902.github.io/Zet/N%C4%83m%20s%E1%BB%B1%20th%C6%B0%C6%A1ng/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://omegakid1902.github.io/Zet/Phim%20hay/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Ph%E1%BA%ADt%20Gi%C3%A1o/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Programming/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Python%20standard%20library/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6742,6 +6782,11 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/Qu%E1%BB%91c%20hi%E1%BB%87u%20VN%20qua%20c%C3%A1c%20th%E1%BB%9Di%20k%E1%BB%B3/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Religion/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6757,6 +6802,11 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/Th%E1%BB%9Di%20L%C3%AA%20trung%20h%C6%B0ng/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Tin%20L%C3%A0nh/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6777,6 +6827,11 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/X%C3%ADch%20Th%E1%BB%91/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Zettelkasten/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6831,6 +6886,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://omegakid1902.github.io/Zet/People/Th%C3%A1nh%20Phaolo/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://omegakid1902.github.io/Zet/People/Tr%E1%BA%A7n%20C%E1%BA%A3nh/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
@@ -6872,6 +6932,11 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/People/%C4%90%E1%BB%95ng%20Tr%C3%A1c/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/People/%C4%90%E1%BB%A9c%20Jesus/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
