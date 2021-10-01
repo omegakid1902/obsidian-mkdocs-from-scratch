@@ -78,8 +78,9 @@
 .md-content a[href*="/tags.html#"]::before {
     content: "#️⃣"; 
     }
-	
-.md-content a[href*="../Genesis"]::after, 
+
+.md-content a[href*="/Scripture (BPT)"]::after, 
+.md-content a[href*="/Genesis"]::after, 
 .md-content a[href*="../Gen-"]::after {
     color: darkgreen;
     content: "";

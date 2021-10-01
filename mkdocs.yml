@@ -3,7 +3,15 @@ site_url: https://omegakid1902.github.io/
 nav:
   - Introduction: about.md
   - Home: Enter the garden.md
-  - Kinh Thánh: 'Projects/Bible Study Kit/Scripture (BPT)/The Bible.md'
+  - Religion:
+      - Religion.md
+      - Công giáo: Zet/Công Giáo.md
+      - Phật giáo: Zet/Phật Giáo.md
+      - Do Thái giáo: Zet/Do Thái Giáo.md
+      - Tin lành: Zet/Tin Lành.md
+      - Kinh Thánh: 
+          - 'Projects/Bible Study Kit/Scripture (BPT)/The Bible.md'
+          - Cựu ước: Zet/Cựu Ước.md
   - Lịch sử:
       - Lịch sử Việt Nam: 
           - Zet/Lịch Sử Việt Nam.md
@@ -19,6 +27,9 @@ nav:
           - Zet/Lịch sử Trung Quốc.md
           - Nhà Thương: Zet/Nhà Thương.md
           - Nhà Chu: Zet/Nhà Chu.md
+          - Nhà Thanh: Zet/Nhà Thanh.md
+  - Programming: Zet/Programming.md
+  - Zettelkasten: Zet/Zettelkasten.md
   - Site graph: mdgraph.md
 
 theme:
