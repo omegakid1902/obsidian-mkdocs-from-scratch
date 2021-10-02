@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{%-
+{#-
 {% block site_nav %}
   {% if nav %}
     {% if page and page.meta and page.meta.hide %}
@@ -26,10 +26,6 @@
       {% include ".icons/material/pencil.svg" %}
     </a>
   {% endif %}
-  {#- 
-    dutran: check có tag <h1> chưa 
-    {% if not "\x3ch1" in page.content %} 
-  -#}
   {% if page and page.title %} 
     <h1>{{ page.title | d(config.site_name, true)}}</h1>
   {% endif %}
@@ -70,4 +66,4 @@
     {% endif %}
   {% endif %}
 {% endblock %}
--%}
+-#}
