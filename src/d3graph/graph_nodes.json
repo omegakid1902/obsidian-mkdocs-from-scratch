@@ -1,0 +1,370 @@
+{
+    "nodes": [
+        {
+            "id": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "group": 1
+        },
+        {
+            "id": "Amino acid",
+            "group": 1
+        },
+        {
+            "id": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "group": 1
+        },
+        {
+            "id": "An Dương Vương",
+            "group": 1
+        },
+        {
+            "id": "Anders Ericsson",
+            "group": 1
+        },
+        {
+            "id": "Backlink",
+            "group": 1
+        },
+        {
+            "id": "Bán đảo Scandinavie",
+            "group": 1
+        },
+        {
+            "id": "Bảo Đại",
+            "group": 1
+        },
+        {
+            "id": "Bắc Tống",
+            "group": 1
+        },
+        {
+            "id": "Bếp lò Franklin",
+            "group": 1
+        },
+        {
+            "id": "Carbohydrate",
+            "group": 1
+        },
+        {
+            "id": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "group": 1
+        },
+        {
+            "id": "Chiến tranh trên Thiên Đàng",
+            "group": 1
+        },
+        {
+            "id": "Chúa Nguyễn",
+            "group": 1
+        },
+        {
+            "id": "Chúa Trịnh",
+            "group": 1
+        },
+        {
+            "id": "COVID 19",
+            "group": 1
+        },
+        {
+            "id": "Các chế độ nhịn ăn",
+            "group": 1
+        },
+        {
+            "id": "Công Giáo",
+            "group": 1
+        },
+        {
+            "id": "Cựu Ước",
+            "group": 1
+        },
+        {
+            "id": "Flask lib",
+            "group": 1
+        },
+        {
+            "id": "Github workflow",
+            "group": 1
+        },
+        {
+            "id": "Health",
+            "group": 1
+        },
+        {
+            "id": "Hồi Giáo",
+            "group": 1
+        },
+        {
+            "id": "index",
+            "group": 1
+        },
+        {
+            "id": "Insulin",
+            "group": 1
+        },
+        {
+            "id": "Interests",
+            "group": 1
+        },
+        {
+            "id": "Kinh mân côi",
+            "group": 1
+        },
+        {
+            "id": "Language",
+            "group": 1
+        },
+        {
+            "id": "Lịch Sử Do Thái",
+            "group": 1
+        },
+        {
+            "id": "Lịch sử Trung Quốc",
+            "group": 1
+        },
+        {
+            "id": "Lịch Sử Việt Nam",
+            "group": 1
+        },
+        {
+            "id": "Lịch sử",
+            "group": 1
+        },
+        {
+            "id": "Âu Lạc",
+            "group": 1
+        },
+        {
+            "id": "Đàng Ngoài",
+            "group": 1
+        },
+        {
+            "id": "Đế quốc Việt Nam",
+            "group": 1
+        },
+        {
+            "id": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "target": "Âu Lạc",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "target": "An Dương Vương",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "target": "An Dương Vương",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương",
+            "target": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương",
+            "target": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương",
+            "target": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương",
+            "target": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "value": 1
+        },
+        {
+            "source": "Bảo Đại",
+            "target": "Lịch Sử Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Bảo Đại",
+            "target": "Lịch Sử Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Đàng Ngoài",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Đàng Ngoài",
+            "value": 1
+        },
+        {
+            "source": "Chúa Trịnh",
+            "target": "Chúa Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Chúa Trịnh",
+            "target": "Chúa Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Các chế độ nhịn ăn",
+            "target": "Health",
+            "value": 1
+        },
+        {
+            "source": "Các chế độ nhịn ăn",
+            "target": "Health",
+            "value": 1
+        },
+        {
+            "source": "Công Giáo",
+            "target": "Cựu Ước",
+            "value": 1
+        },
+        {
+            "source": "Cựu Ước",
+            "target": "Công Giáo",
+            "value": 1
+        },
+        {
+            "source": "Health",
+            "target": "Các chế độ nhịn ăn",
+            "value": 1
+        },
+        {
+            "source": "index",
+            "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "index",
+            "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "Insulin",
+            "target": "Các chế độ nhịn ăn",
+            "value": 1
+        },
+        {
+            "source": "Interests",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Interests",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Language",
+            "target": "Interests",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Do Thái",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử",
+            "target": "Interests",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử",
+            "target": "Interests",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử",
+            "target": "Interests",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử",
+            "target": "Interests",
+            "value": 1
+        },
+        {
+            "source": "Âu Lạc",
+            "target": "Lịch Sử Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Âu Lạc",
+            "target": "Lịch Sử Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Âu Lạc",
+            "target": "Lịch Sử Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Âu Lạc",
+            "target": "Lịch Sử Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Đàng Ngoài",
+            "target": "Chúa Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Đàng Ngoài",
+            "target": "Chúa Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Đế quốc Việt Nam",
+            "target": "Bảo Đại",
+            "value": 1
+        },
+        {
+            "source": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "target": "An Dương Vương",
+            "value": 1
+        }
+    ]
+}

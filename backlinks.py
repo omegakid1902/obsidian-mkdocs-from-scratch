@@ -250,3 +250,23 @@ for root, dirs, files in os.walk(base_docs_url):
 # write json with unicode utf8 character encoding="utf-8", ensure_ascii=False
 with open('docs/backlink.json', 'w', encoding="utf-8") as outfile:
     json.dump(nodes, outfile, indent=4, ensure_ascii=False)
+
+graph_nodes = {"nodes" : [], "links": []}
+for node in nodes:
+    graph_node = { "id": node, "group": 1}
+    # graph_node["id"] = node
+    # graph_node["group"] = 1
+    graph_nodes["nodes"].append(graph_node)
+    link_info = { "source": "", "target": "", "value": 1 }
+    for outgoing in nodes[node]["outgoing_links"]:
+        
+        if node == outgoing:
+            continue
+
+        link_info["source"] = node
+        link_info["target"] = outgoing
+        link_info["value"] = 1
+        graph_nodes["links"].append(link_info)
+
+with open('docs/d3graph/graph_nodes.json', 'w', encoding="utf-8") as outfile:
+    json.dump(graph_nodes, outfile, indent=4, ensure_ascii=False)

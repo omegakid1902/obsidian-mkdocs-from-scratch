@@ -1,5 +1,5 @@
 mkdocs
-mkdocs-material
+mkdocs-material==3.0
 mkdocs-material-extensions
 mkdocs-autolinks-plugin
 mkdocs-roamlinks-plugin
@@ -11,9 +11,9 @@ decorator==4.4.2
 ipython==7.19.0
 ipython-genutils==0.2.0
 jedi==0.17.2
-Jinja2==2.11.3
+Jinja2==3.0.1
 jsonpickle==1.4.2
-MarkupSafe==1.1.1
+MarkupSafe==2.0
 networkx==2.5
 parso==0.7.1
 pexpect==4.8.0

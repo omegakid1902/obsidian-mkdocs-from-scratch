@@ -1,4 +1,71 @@
-{#-
-  This file was automatically generated - do not edit
--#}
 {% extends "base.html" %}
+{% block site_nav %}
+  {% if nav %}
+    {% if page and page.meta and page.meta.hide %}
+      {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+    {% endif %}
+    <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" {{ hidden }}>
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/nav.html" %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  {% block site_toc %}
+    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>    
+      <iframe type="text/html" src="/d3graph/index.html" style="background: rgba(0, 0, 0, 0.1); height: 800px; width: 100%; overflow: hidden; opacity:1" scrolling="no" height="800px" width="100%"></iframe>
+    </div>
+  {% endblock %}
+{% endblock %}
+
+{% block content %}
+  {% if page.edit_url %}
+    <a href="{{ page.edit_url }}" title="{{ lang.t('edit.link.title') }}" class="md-content__button md-icon">
+      {% include ".icons/material/pencil.svg" %}
+    </a>
+  {% endif %}
+  {#- 
+    dutran: check có tag <h1> chưa 
+    {% if not "\x3ch1" in page.content %} 
+  -#}
+  {% if page and page.title %} 
+    <h1>{{ page.title | d(config.site_name, true)}}</h1>
+  {% endif %}
+  {% if page.meta.tags|length or page.meta.created  %}
+    <details><summary> Page detail </summary>
+      {% if page.meta.tags %}
+        tags: <br>
+        {% for tag in page.meta.tags %}
+          - <a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag.strip('#').replace("/", "-") }}</a><br>
+        {% endfor %}
+      {% endif %}
+      {% if '#permanent/people' in page.meta.tags %}
+        sinh mất: 
+        {% if not page.meta.birth %} 
+          (n/a - 
+        {% else %}
+          ({{ page.meta.birth }} - 
+        {% endif %}
+        {% if not page.meta.death %} 
+          n/a)
+        {% else %}
+          {{ page.meta.death }})
+        {% endif %}
+      {% endif %}
+      {% if page.meta.created %}
+        created: {{ page.meta.created }}
+      {% endif %}
+    </details> 
+  {% endif %} 
+  <details open><summary> Content </summary>
+    {{ page.content }}
+  </details>
+  {% if page and page.meta %}
+    {% if page.meta.git_revision_date_localized or
+          page.meta.revision_date
+    %}
+      {% include "partials/source-file.html" %}
+    {% endif %}
+  {% endif %}
+{% endblock %}

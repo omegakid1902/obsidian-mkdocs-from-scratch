@@ -1,0 +1,38 @@
+<head>
+  <style>
+    body {
+      margin: 0;
+    }
+
+    /* graph view */
+    element.style {
+      width: 725px;
+      height: 150px;
+      background: rgb(143, 188, 143, 0.4);
+    }
+  </style>
+
+  <script src="//unpkg.com/force-graph"></script>
+  <!--<script src="../../dist/force-graph.js"></script>-->
+  
+</head>
+
+<body>
+  <div id="graph" style="background: blue; height: 100%; width: 100%"></div>
+  <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
+  <script>
+    fetch('./blocks.json').then(res => res.json()).then(data => {
+      const elem = document.getElementById('graph');
+
+      const Graph = ForceGraph()(elem)
+        .backgroundColor('rgba(255,255,255,0.2)')
+        .nodeRelSize(6)
+        .nodeAutoColorBy('user')
+        .nodeLabel(node => `${node.user}: ${node.description}`)
+        .linkColor(() => 'rgba(255,255,255,0.2)')
+        .linkDirectionalParticles(1)
+        .onNodeClick(node => window.open(`${node.url}`, '_self'))
+        .graphData(data);
+      });
+  </script>
+</body>

@@ -119,8 +119,10 @@
     <div class="md-container" data-md-component="container">
       {% block hero %}{% endblock %}
       {% block tabs %}
-        {% if "navigation.tabs" in features %}
-          {% include "partials/tabs.html" %}
+        {% if not "navigation.tabs.sticky" in features %}
+          {% if "navigation.tabs" in features %}
+            {% include "partials/tabs.html" %}
+          {% endif %}
         {% endif %}
       {% endblock %}
       <main class="md-main" data-md-component="main">
@@ -159,42 +161,10 @@
                     {% include ".icons/material/pencil.svg" %}
                   </a>
                 {% endif %}
-                {#- 
-                  dutran: check có tag <h1> chưa 
-                  {% if not "\x3ch1" in page.content %} 
-                -#}
-                {% if page and page.title %} 
+                {% if not "\x3ch1" in page.content %}
                   <h1>{{ page.title | d(config.site_name, true)}}</h1>
                 {% endif %}
-                {% if page.meta.tags|length or page.meta.created  %}
-                  <details><summary> Page detail </summary>
-                    {% if page.meta.tags %}
-                      tags: <br>
-                      {% for tag in page.meta.tags %}
-                        - <a href="/tags.html#{{ tag.strip('#').replace('/', '').lower() }}">{{ tag.strip('#').replace("/", "-") }}</a><br>
-                      {% endfor %}
-                    {% endif %}
-                    {% if '#permanent/people' in page.meta.tags %}
-                      sinh mất: 
-                      {% if not page.meta.birth %} 
-                        (n/a - 
-                      {% else %}
-                        ({{ page.meta.birth }} - 
-                      {% endif %}
-                      {% if not page.meta.death %} 
-                        n/a)
-                      {% else %}
-                        {{ page.meta.death }})
-                      {% endif %}
-                    {% endif %}
-                    {% if page.meta.created %}
-                      created: {{ page.meta.created }}
-                    {% endif %}
-                  </details> 
-                {% endif %} 
-                <details open><summary> Content </summary>
-                  {{ page.content }}
-                </details>
+                {{ page.content }}
                 {% if page and page.meta %}
                   {% if page.meta.git_revision_date_localized or
                         page.meta.revision_date

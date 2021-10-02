@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "4062045",
+      "user": "mbostock",
+      "url": "https://omegakid1902.github.io/Zet/Zettelkasten/",
+      "description": "Force-Directed Graph"
+    },
+    {
+      "id": "1341021",
+      "user": "mbostock",
+      "url": "https://omegakid1902.github.io/Zet/Zettelkasten/",
+      "description": "Parallel Coordinates"
+    },
+    {
+      "id": "1341281",
+      "user": "jasondavies",
+      "url": "https://omegakid1902.github.io/Zet/Zettelkasten/",
+      "description": "Parallel Coordinates"
+    },
+    {
+      "id": "b3ff6ae1c120eea654b5",
+      "user": "d3noob",
+      "url": "https://omegakid1902.github.io/Zet/Zettelkasten/",
+      "description": "Simple d3.js Graph"
+    }
+  ],
+  "links": [
+    { "source": "1341021", "target": "4062045" },
+    { "source": "b3ff6ae1c120eea654b5", "target": "4062045" },
+    { "source": "1341281", "target": "b3ff6ae1c120eea654b5" }
+  ]
+}
