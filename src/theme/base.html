@@ -154,21 +154,17 @@
                         const rootId = 0;
                         const gData = {
                           nodes: [
-                            {% if page.meta.backlinks %}
-                              {% set i = 1 %}
+                            {% if page.meta.backlinks %}      
                               {% for link in page.meta.backlinks %}
-                                {"id": {{ i }}, title: "{{ link }}", url: "https://omegakid1902.github.io/Zet/{{ link }}", collapsed: true, childLinks: []}, 
-                                {% set i = i+1 %}
+                                {"id": {{ loop.index + 1 }}, title: "{{ link }}", url: "https://omegakid1902.github.io/Zet/{{ link }}", collapsed: true, childLinks: []},                         
                               {% endfor %}
                             {% endif %}
                             {"id": 0, title: "{{ page.meta.title }}", url: "https://omegakid1902.github.io/Zet/{{ page.meta.title }}", collapsed: false, childLinks: []}
                             ],
                           links: [
-                            {% if page.meta.backlinks %}
-                              {% set i = 1 %}
+                            {% if page.meta.backlinks %}                    
                               {% for link in page.meta.backlinks %}
-                                { source: 0, target: {{ i }}, curvature: 0.5 },
-                                {% set i = i+1 %}
+                                { source: 0, target: {{ loop.index + 1 }}, curvature: 0.5 },                       
                               {% endfor %}
                             {% endif %}
                             { source: 1, target: 0, curvature: 0.5 }
