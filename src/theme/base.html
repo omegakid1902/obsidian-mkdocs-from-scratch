@@ -151,34 +151,67 @@
                     <div id="graph" style="background: darkseagreen;height: 100%; width: 100%">
                       <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
                       <script>
+                        const rootId = 0;
                         const gData = {
                           nodes: [
                             {% if page.meta.backlinks %}
+                              {% set i = 1 %}
                               {% for link in page.meta.backlinks %}
-                                {"id": "{{ link }}", "group": 1},
+                                {"id": {{ i }}, title: "{{ link }}", url: "https://omegakid1902.github.io/Zet/{{ link }}", collapsed: true, childLinks: []}, 
+                                {% set i = i+1 %}
                               {% endfor %}
                             {% endif %}
-                            {"id": "{{ page.meta.title }}", "group": 2}
+                            {"id": 0, title: "{{ page.meta.title }}", url: "https://omegakid1902.github.io/Zet/{{ page.meta.title }}", collapsed: false, childLinks: []}
                             ],
                           links: [
                             {% if page.meta.backlinks %}
+                              {% set i = 1 %}
                               {% for link in page.meta.backlinks %}
-                                { source: "{{ page.meta.title }}", target: "{{ link }}", curvature: 0.5 },
+                                { source: 0, target: {{ i }}, curvature: 0.5 },
+                                {% set i = i+1 %}
                               {% endfor %}
                             {% endif %}
-                            { source: "{{ page.meta.title }}", target: "{{ page.meta.title }}", curvature: 0.5 }
+                            { source: 1, target: 0, curvature: 0.5 }
                           ]
                         };
+                        // link parent/children
+                        const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
+                        gData.links.forEach(link => {
+                          nodesById[link.source].childLinks.push(link);
+                        });
+                        
+                        const getPrunedTree = () => {
+                          const visibleNodes = [];
+                          const visibleLinks = [];
 
-                        const Graph = ForceGraph()
-                          (document.getElementById('graph'))
-                            .nodeId('id')
-                            .nodeAutoColorBy('group')
-                            .nodeRelSize(6)
-                            .nodeLabel(node =>`${node.id}`)
-                            .linkDirectionalParticles(2)
-                            .linkCurvature('curvature')
-                            .graphData(gData);
+                          (function traverseTree(node = nodesById[rootId]) {
+                            visibleNodes.push(node);
+                            if (node.collapsed) return;
+                            visibleLinks.push(...node.childLinks);
+                            node.childLinks
+                              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
+                              .forEach(traverseTree);
+                          })(); // IIFE
+
+                          return { nodes: visibleNodes, links: visibleLinks };
+                        };
+
+                        const elem = document.getElementById('graph');
+                        const Graph = ForceGraph()(elem)
+                          .graphData(getPrunedTree())
+                          .onNodeHover(node => elem.style.cursor = node && node.childLinks.length ? 'pointer' : null)
+                          .onNodeRightClick(node => {
+                            if (node.childLinks.length) {
+                              node.collapsed = !node.collapsed; // toggle collapse state
+                              Graph.graphData(getPrunedTree());
+                            }
+                          })
+                          .onNodeClick(node => window.open(`${node.url}`, '_parent'))
+                          .nodeRelSize(6)
+                          .nodeLabel(node => `${node.title}`)
+                          .linkDirectionalParticles(1)
+                          .linkDirectionalParticleWidth(2.5)
+                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>
