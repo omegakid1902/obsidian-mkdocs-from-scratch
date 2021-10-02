@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{%-
 {% block site_nav %}
   {% if nav %}
     {% if page and page.meta and page.meta.hide %}
@@ -69,3 +70,4 @@
     {% endif %}
   {% endif %}
 {% endblock %}
+-%}
