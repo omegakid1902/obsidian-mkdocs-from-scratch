@@ -93,3 +93,6 @@ Tkinter
 PyQT
 ### IDE
 
+
+## Standard libraries
+- [[Python standard library]]

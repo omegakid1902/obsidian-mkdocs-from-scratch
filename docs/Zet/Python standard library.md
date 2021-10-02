@@ -10,5 +10,6 @@ publish: True
 # Python standard library
 
 ## Notes
-- [[networkx]]
+- [[Networkx]]
 - [[Flask lib]]
+- [[Tkinter]]

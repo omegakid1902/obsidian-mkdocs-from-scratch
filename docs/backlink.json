@@ -357,8 +357,13 @@
         "outgoing_links": [],
         "backlinks": []
     },
-    "Nhà Hạ": {
+    "Barbell Reading Method": {
         "id": 40,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nhà Hạ": {
+        "id": 41,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -366,12 +371,12 @@
         ]
     },
     "Bán đảo Scandinavie": {
-        "id": 41,
+        "id": 42,
         "outgoing_links": [],
         "backlinks": []
     },
     "Ngô Đình Diệm": {
-        "id": 42,
+        "id": 43,
         "outgoing_links": [
             "Bảo Đại"
         ],
@@ -380,7 +385,7 @@
         ]
     },
     "An Dương Vương": {
-        "id": 43,
+        "id": 44,
         "outgoing_links": [],
         "backlinks": [
             "Âu Lạc",
@@ -391,7 +396,7 @@
         ]
     },
     "Nhà Hậu Lê": {
-        "id": 44,
+        "id": 45,
         "outgoing_links": [
             "Thời Lê sơ",
             "Thời Lê trung hưng"
@@ -402,7 +407,7 @@
         ]
     },
     "Carbohydrate": {
-        "id": 45,
+        "id": 46,
         "outgoing_links": [
             "Carbohydrate"
         ],
@@ -410,8 +415,13 @@
             "Carbohydrate"
         ]
     },
+    "D3js": {
+        "id": 47,
+        "outgoing_links": [],
+        "backlinks": []
+    },
     "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần": {
-        "id": 46,
+        "id": 48,
         "outgoing_links": [
             "Tần Thủy Hoàng",
             "Âu Lạc",
@@ -421,14 +431,14 @@
         "backlinks": []
     },
     "QAnon map": {
-        "id": 47,
+        "id": 49,
         "outgoing_links": [
             "Lucifer"
         ],
         "backlinks": []
     },
     "Chiến tranh Nguyên Mông - Đại Việt lần 1": {
-        "id": 48,
+        "id": 50,
         "outgoing_links": [
             "Nhà Trần",
             "Vườn không nhà trống",
@@ -437,7 +447,7 @@
         "backlinks": []
     },
     "index": {
-        "id": 49,
+        "id": 51,
         "outgoing_links": [
             "Lịch Sử Việt Nam",
             "Lịch sử Trung Quốc"
@@ -445,7 +455,7 @@
         "backlinks": []
     },
     "Lịch sử": {
-        "id": 50,
+        "id": 52,
         "outgoing_links": [
             "Lịch Sử Việt Nam",
             "Lịch Sử Do Thái",
@@ -456,7 +466,7 @@
         ]
     },
     "Lịch Sử Việt Nam": {
-        "id": 51,
+        "id": 53,
         "outgoing_links": [
             "Âu Lạc",
             "Nhà Lý",
@@ -480,7 +490,7 @@
         ]
     },
     "Cựu Ước": {
-        "id": 52,
+        "id": 54,
         "outgoing_links": [
             "Đức Jesus"
         ],
@@ -490,7 +500,7 @@
         ]
     },
     "Interests": {
-        "id": 53,
+        "id": 55,
         "outgoing_links": [
             "Religion",
             "Language",
@@ -500,14 +510,14 @@
         "backlinks": []
     },
     "Đền thờ An Dương Vương ở ngoại thành Hà Nội": {
-        "id": 54,
+        "id": 56,
         "outgoing_links": [
             "An Dương Vương"
         ],
         "backlinks": []
     },
     "Nhà Nguyễn": {
-        "id": 55,
+        "id": 57,
         "outgoing_links": [
             "Chúa Nguyễn",
             "Bảo Đại"
@@ -520,7 +530,7 @@
         ]
     },
     "Công Giáo": {
-        "id": 56,
+        "id": 58,
         "outgoing_links": [
             "Cựu Ước",
             "Thánh Phaolo",
@@ -531,19 +541,19 @@
         ]
     },
     "Github workflow": {
-        "id": 57,
+        "id": 59,
         "outgoing_links": [],
         "backlinks": []
     },
     "Lịch Sử Do Thái": {
-        "id": 58,
+        "id": 60,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử"
         ]
     },
     "Nhà Thương": {
-        "id": 59,
+        "id": 61,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -551,12 +561,12 @@
         ]
     },
     "Phim hay": {
-        "id": 60,
+        "id": 62,
         "outgoing_links": [],
         "backlinks": []
     },
     "Bảo Đại": {
-        "id": 61,
+        "id": 63,
         "outgoing_links": [
             "Nhà Nguyễn"
         ],
@@ -568,14 +578,14 @@
         ]
     },
     "Tin Lành": {
-        "id": 62,
+        "id": 64,
         "outgoing_links": [],
         "backlinks": [
             "Religion"
         ]
     },
     "Nhà Nguyên-Mông": {
-        "id": 63,
+        "id": 65,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -583,14 +593,14 @@
         ]
     },
     "Insulin": {
-        "id": 64,
+        "id": 66,
         "outgoing_links": [],
         "backlinks": [
             "Các chế độ nhịn ăn"
         ]
     },
     "Religion": {
-        "id": 65,
+        "id": 67,
         "outgoing_links": [
             "Công Giáo",
             "Tin Lành",
@@ -602,7 +612,7 @@
         ]
     },
     "Nhà Lý": {
-        "id": 66,
+        "id": 68,
         "outgoing_links": [],
         "backlinks": [
             "Nhà Trần",
@@ -611,7 +621,7 @@
         ]
     },
     "Chúa Trịnh": {
-        "id": 67,
+        "id": 69,
         "outgoing_links": [
             "Đàng Ngoài",
             "Thời Lê trung hưng"
@@ -623,7 +633,7 @@
         ]
     },
     "Thuận Thiên công chúa": {
-        "id": 68,
+        "id": 70,
         "outgoing_links": [
             "Lý Chiêu Hoàng",
             "Trần Cảnh",
@@ -635,7 +645,7 @@
         ]
     },
     "Đức Jesus": {
-        "id": 69,
+        "id": 71,
         "outgoing_links": [],
         "backlinks": [
             "Kinh mân côi",
@@ -645,7 +655,7 @@
         ]
     },
     "Đế Thuấn": {
-        "id": 70,
+        "id": 72,
         "outgoing_links": [
             "Đế Nghiêu"
         ],
@@ -655,7 +665,7 @@
         ]
     },
     "Trần Quang Khải": {
-        "id": 71,
+        "id": 73,
         "outgoing_links": [
             "Trần Hưng Đạo"
         ],
@@ -666,7 +676,7 @@
         ]
     },
     "Nguyễn Hoàng": {
-        "id": 72,
+        "id": 74,
         "outgoing_links": [
             "Chúa Nguyễn",
             "Nhà Nguyễn"
@@ -677,14 +687,14 @@
         ]
     },
     "Võ Tắc Thiên": {
-        "id": 73,
+        "id": 75,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc"
         ]
     },
     "Hạ Vũ": {
-        "id": 74,
+        "id": 76,
         "outgoing_links": [
             "Nhà Hạ",
             "Đế Thuấn"
@@ -694,7 +704,7 @@
         ]
     },
     "Đổng Trác": {
-        "id": 75,
+        "id": 77,
         "outgoing_links": [
             "Nhà Hậu Hán"
         ],
@@ -705,7 +715,7 @@
         ]
     },
     "Trần Liễu": {
-        "id": 76,
+        "id": 78,
         "outgoing_links": [
             "Trần Cảnh",
             "Nhà Trần",
@@ -719,7 +729,7 @@
         ]
     },
     "Lã Bố": {
-        "id": 77,
+        "id": 79,
         "outgoing_links": [
             "Nhà Hậu Hán",
             "Xích Thố",
@@ -730,7 +740,7 @@
         ]
     },
     "Tần Thủy Hoàng": {
-        "id": 78,
+        "id": 80,
         "outgoing_links": [
             "Nhà Tần",
             "Nhà Chu"
@@ -743,7 +753,7 @@
         ]
     },
     "Đế Nghiêu": {
-        "id": 79,
+        "id": 81,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -751,7 +761,7 @@
         ]
     },
     "Trần Cảnh": {
-        "id": 80,
+        "id": 82,
         "outgoing_links": [
             "Nhà Trần",
             "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng"
@@ -765,7 +775,7 @@
         ]
     },
     "Thánh Phaolo": {
-        "id": 81,
+        "id": 83,
         "outgoing_links": [
             "Đức Jesus"
         ],
@@ -774,7 +784,7 @@
         ]
     },
     "Lý Chiêu Hoàng": {
-        "id": 82,
+        "id": 84,
         "outgoing_links": [
             "Nhà Lý",
             "Trần Cảnh"
@@ -787,14 +797,14 @@
         ]
     },
     "Phục Hi": {
-        "id": 83,
+        "id": 85,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc"
         ]
     },
     "Trần Hưng Đạo": {
-        "id": 84,
+        "id": 86,
         "outgoing_links": [
             "Nhà Trần"
         ],

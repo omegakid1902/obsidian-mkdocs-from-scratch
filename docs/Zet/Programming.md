@@ -19,3 +19,4 @@ publish: True
 - [[Python]]
 - [[Nodejs]]
 - [[Jinja]]
+- [[JavaScript]]
