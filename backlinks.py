@@ -253,7 +253,8 @@ with open('docs/backlink.json', 'w', encoding="utf-8") as outfile:
 
 graph_nodes = {"nodes" : [], "links": []}
 for node in nodes:
-    graph_node = { "id": node, "group": 1}
+    node_url = "https://omegakid1902.github.io/Zet/" + node
+    graph_node = { "id": node, "group": 1, "url": node_url}
     # graph_node["id"] = node
     # graph_node["group"] = 1
     graph_nodes["nodes"].append(graph_node)
