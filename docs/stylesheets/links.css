@@ -117,6 +117,13 @@
     bottom: 0;
     }
 
+    
+/* graph view */
+element.style {
+    width: 725px;
+    height: 150px;
+    background: rgb(143,188,143, 0.4);
+}
 /* dutran
 .md-content a[href*="###"]::before {
     color: red;

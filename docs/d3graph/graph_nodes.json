@@ -1,0 +1,991 @@
+{
+    "nodes": [
+        {
+            "id": "Chiến tranh trên Thiên Đàng",
+            "group": 1
+        },
+        {
+            "id": "Vườn không nhà trống",
+            "group": 1
+        },
+        {
+            "id": "Thời Lê trung hưng",
+            "group": 1
+        },
+        {
+            "id": "Mấy thứ nhảm nhí mắc cười",
+            "group": 1
+        },
+        {
+            "id": "Bắc Tống",
+            "group": 1
+        },
+        {
+            "id": "Anders Ericsson",
+            "group": 1
+        },
+        {
+            "id": "Năm sự thương",
+            "group": 1
+        },
+        {
+            "id": "Đàng Ngoài",
+            "group": 1
+        },
+        {
+            "id": "Zettelkasten",
+            "group": 1
+        },
+        {
+            "id": "Toán học",
+            "group": 1
+        },
+        {
+            "id": "Lịch sử Trung Quốc",
+            "group": 1
+        },
+        {
+            "id": "Language",
+            "group": 1
+        },
+        {
+            "id": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "group": 1
+        },
+        {
+            "id": "Nhà Tần",
+            "group": 1
+        },
+        {
+            "id": "COVID 19",
+            "group": 1
+        },
+        {
+            "id": "Sưu tầm mem chế",
+            "group": 1
+        },
+        {
+            "id": "Các chế độ nhịn ăn",
+            "group": 1
+        },
+        {
+            "id": "Đế quốc Việt Nam",
+            "group": 1
+        },
+        {
+            "id": "Nhà Trần",
+            "group": 1
+        },
+        {
+            "id": "Chúa Nguyễn",
+            "group": 1
+        },
+        {
+            "id": "Xích Thố",
+            "group": 1
+        },
+        {
+            "id": "Âu Lạc",
+            "group": 1
+        },
+        {
+            "id": "Kinh mân côi",
+            "group": 1
+        },
+        {
+            "id": "Nhà Thanh",
+            "group": 1
+        },
+        {
+            "id": "Flask lib",
+            "group": 1
+        },
+        {
+            "id": "Quốc hiệu VN qua các thời kỳ",
+            "group": 1
+        },
+        {
+            "id": "Hồi Giáo",
+            "group": 1
+        },
+        {
+            "id": "Nhà Chu",
+            "group": 1
+        },
+        {
+            "id": "Nhà Hậu Hán",
+            "group": 1
+        },
+        {
+            "id": "Phật Giáo",
+            "group": 1
+        },
+        {
+            "id": "Backlink",
+            "group": 1
+        },
+        {
+            "id": "Python standard library",
+            "group": 1
+        },
+        {
+            "id": "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít",
+            "group": 1
+        },
+        {
+            "id": "Health",
+            "group": 1
+        },
+        {
+            "id": "Bếp lò Franklin",
+            "group": 1
+        },
+        {
+            "id": "Thời Lê sơ",
+            "group": 1
+        },
+        {
+            "id": "Lucifer",
+            "group": 1
+        },
+        {
+            "id": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "group": 1
+        },
+        {
+            "id": "Programming",
+            "group": 1
+        },
+        {
+            "id": "Amino acid",
+            "group": 1
+        },
+        {
+            "id": "Nhà Hạ",
+            "group": 1
+        },
+        {
+            "id": "Bán đảo Scandinavie",
+            "group": 1
+        },
+        {
+            "id": "Ngô Đình Diệm",
+            "group": 1
+        },
+        {
+            "id": "An Dương Vương",
+            "group": 1
+        },
+        {
+            "id": "Nhà Hậu Lê",
+            "group": 1
+        },
+        {
+            "id": "Carbohydrate",
+            "group": 1
+        },
+        {
+            "id": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "group": 1
+        },
+        {
+            "id": "QAnon map",
+            "group": 1
+        },
+        {
+            "id": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "group": 1
+        },
+        {
+            "id": "index",
+            "group": 1
+        },
+        {
+            "id": "Lịch sử",
+            "group": 1
+        },
+        {
+            "id": "Lịch Sử Việt Nam",
+            "group": 1
+        },
+        {
+            "id": "Cựu Ước",
+            "group": 1
+        },
+        {
+            "id": "Interests",
+            "group": 1
+        },
+        {
+            "id": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "group": 1
+        },
+        {
+            "id": "Nhà Nguyễn",
+            "group": 1
+        },
+        {
+            "id": "Công Giáo",
+            "group": 1
+        },
+        {
+            "id": "Github workflow",
+            "group": 1
+        },
+        {
+            "id": "Lịch Sử Do Thái",
+            "group": 1
+        },
+        {
+            "id": "Nhà Thương",
+            "group": 1
+        },
+        {
+            "id": "Phim hay",
+            "group": 1
+        },
+        {
+            "id": "Bảo Đại",
+            "group": 1
+        },
+        {
+            "id": "Tin Lành",
+            "group": 1
+        },
+        {
+            "id": "Nhà Nguyên-Mông",
+            "group": 1
+        },
+        {
+            "id": "Insulin",
+            "group": 1
+        },
+        {
+            "id": "Religion",
+            "group": 1
+        },
+        {
+            "id": "Nhà Lý",
+            "group": 1
+        },
+        {
+            "id": "Chúa Trịnh",
+            "group": 1
+        },
+        {
+            "id": "Thuận Thiên công chúa",
+            "group": 1
+        },
+        {
+            "id": "Đức Jesus",
+            "group": 1
+        },
+        {
+            "id": "Đế Thuấn",
+            "group": 1
+        },
+        {
+            "id": "Trần Quang Khải",
+            "group": 1
+        },
+        {
+            "id": "Nguyễn Hoàng",
+            "group": 1
+        },
+        {
+            "id": "Võ Tắc Thiên",
+            "group": 1
+        },
+        {
+            "id": "Hạ Vũ",
+            "group": 1
+        },
+        {
+            "id": "Đổng Trác",
+            "group": 1
+        },
+        {
+            "id": "Trần Liễu",
+            "group": 1
+        },
+        {
+            "id": "Lã Bố",
+            "group": 1
+        },
+        {
+            "id": "Tần Thủy Hoàng",
+            "group": 1
+        },
+        {
+            "id": "Đế Nghiêu",
+            "group": 1
+        },
+        {
+            "id": "Trần Cảnh",
+            "group": 1
+        },
+        {
+            "id": "Thánh Phaolo",
+            "group": 1
+        },
+        {
+            "id": "Lý Chiêu Hoàng",
+            "group": 1
+        },
+        {
+            "id": "Phục Hi",
+            "group": 1
+        },
+        {
+            "id": "Trần Hưng Đạo",
+            "group": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Chiến tranh trên Thiên Đàng",
+            "target": "Lucifer",
+            "value": 1
+        },
+        {
+            "source": "Thời Lê trung hưng",
+            "target": "Chúa Trịnh",
+            "value": 1
+        },
+        {
+            "source": "Thời Lê trung hưng",
+            "target": "Chúa Trịnh",
+            "value": 1
+        },
+        {
+            "source": "Thời Lê trung hưng",
+            "target": "Chúa Trịnh",
+            "value": 1
+        },
+        {
+            "source": "Mấy thứ nhảm nhí mắc cười",
+            "target": "Sưu tầm mem chế",
+            "value": 1
+        },
+        {
+            "source": "Đàng Ngoài",
+            "target": "Chúa Trịnh",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử Trung Quốc",
+            "target": "Võ Tắc Thiên",
+            "value": 1
+        },
+        {
+            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "target": "Âu Lạc",
+            "value": 1
+        },
+        {
+            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "target": "Âu Lạc",
+            "value": 1
+        },
+        {
+            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "target": "Âu Lạc",
+            "value": 1
+        },
+        {
+            "source": "Nhà Tần",
+            "target": "Nhà Chu",
+            "value": 1
+        },
+        {
+            "source": "Nhà Tần",
+            "target": "Nhà Chu",
+            "value": 1
+        },
+        {
+            "source": "Các chế độ nhịn ăn",
+            "target": "Health",
+            "value": 1
+        },
+        {
+            "source": "Các chế độ nhịn ăn",
+            "target": "Health",
+            "value": 1
+        },
+        {
+            "source": "Đế quốc Việt Nam",
+            "target": "Bảo Đại",
+            "value": 1
+        },
+        {
+            "source": "Nhà Trần",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Nhà Trần",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Nhà Trần",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Nhà Trần",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Nhà Trần",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Xích Thố",
+            "target": "Đổng Trác",
+            "value": 1
+        },
+        {
+            "source": "Xích Thố",
+            "target": "Đổng Trác",
+            "value": 1
+        },
+        {
+            "source": "Xích Thố",
+            "target": "Đổng Trác",
+            "value": 1
+        },
+        {
+            "source": "Âu Lạc",
+            "target": "An Dương Vương",
+            "value": 1
+        },
+        {
+            "source": "Kinh mân côi",
+            "target": "Năm sự thương",
+            "value": 1
+        },
+        {
+            "source": "Kinh mân côi",
+            "target": "Năm sự thương",
+            "value": 1
+        },
+        {
+            "source": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Âu Lạc",
+            "value": 1
+        },
+        {
+            "source": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Âu Lạc",
+            "value": 1
+        },
+        {
+            "source": "Nhà Chu",
+            "target": "Nhà Tần",
+            "value": 1
+        },
+        {
+            "source": "Nhà Chu",
+            "target": "Nhà Tần",
+            "value": 1
+        },
+        {
+            "source": "Python standard library",
+            "target": "Flask lib",
+            "value": 1
+        },
+        {
+            "source": "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít",
+            "target": "Đế quốc Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Health",
+            "target": "Các chế độ nhịn ăn",
+            "value": 1
+        },
+        {
+            "source": "Lucifer",
+            "target": "Cựu Ước",
+            "value": 1
+        },
+        {
+            "source": "Lucifer",
+            "target": "Cựu Ước",
+            "value": 1
+        },
+        {
+            "source": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "target": "Lý Chiêu Hoàng",
+            "value": 1
+        },
+        {
+            "source": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "target": "Lý Chiêu Hoàng",
+            "value": 1
+        },
+        {
+            "source": "Ngô Đình Diệm",
+            "target": "Bảo Đại",
+            "value": 1
+        },
+        {
+            "source": "Nhà Hậu Lê",
+            "target": "Thời Lê trung hưng",
+            "value": 1
+        },
+        {
+            "source": "Nhà Hậu Lê",
+            "target": "Thời Lê trung hưng",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "target": "Vườn không nhà trống",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "target": "Vườn không nhà trống",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "target": "Vườn không nhà trống",
+            "value": 1
+        },
+        {
+            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "target": "Vườn không nhà trống",
+            "value": 1
+        },
+        {
+            "source": "QAnon map",
+            "target": "Lucifer",
+            "value": 1
+        },
+        {
+            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "target": "Nhà Nguyên-Mông",
+            "value": 1
+        },
+        {
+            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "target": "Nhà Nguyên-Mông",
+            "value": 1
+        },
+        {
+            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "target": "Nhà Nguyên-Mông",
+            "value": 1
+        },
+        {
+            "source": "index",
+            "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "index",
+            "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử",
+            "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử",
+            "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "Lịch sử",
+            "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Quốc hiệu VN qua các thời kỳ",
+            "value": 1
+        },
+        {
+            "source": "Cựu Ước",
+            "target": "Đức Jesus",
+            "value": 1
+        },
+        {
+            "source": "Interests",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Interests",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Interests",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Interests",
+            "target": "Lịch sử",
+            "value": 1
+        },
+        {
+            "source": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
+            "target": "An Dương Vương",
+            "value": 1
+        },
+        {
+            "source": "Nhà Nguyễn",
+            "target": "Bảo Đại",
+            "value": 1
+        },
+        {
+            "source": "Nhà Nguyễn",
+            "target": "Bảo Đại",
+            "value": 1
+        },
+        {
+            "source": "Công Giáo",
+            "target": "Đức Jesus",
+            "value": 1
+        },
+        {
+            "source": "Công Giáo",
+            "target": "Đức Jesus",
+            "value": 1
+        },
+        {
+            "source": "Công Giáo",
+            "target": "Đức Jesus",
+            "value": 1
+        },
+        {
+            "source": "Bảo Đại",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Religion",
+            "target": "Phật Giáo",
+            "value": 1
+        },
+        {
+            "source": "Religion",
+            "target": "Phật Giáo",
+            "value": 1
+        },
+        {
+            "source": "Religion",
+            "target": "Phật Giáo",
+            "value": 1
+        },
+        {
+            "source": "Religion",
+            "target": "Phật Giáo",
+            "value": 1
+        },
+        {
+            "source": "Chúa Trịnh",
+            "target": "Thời Lê trung hưng",
+            "value": 1
+        },
+        {
+            "source": "Chúa Trịnh",
+            "target": "Thời Lê trung hưng",
+            "value": 1
+        },
+        {
+            "source": "Thuận Thiên công chúa",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Thuận Thiên công chúa",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Thuận Thiên công chúa",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Thuận Thiên công chúa",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
+            "source": "Đế Thuấn",
+            "target": "Đế Nghiêu",
+            "value": 1
+        },
+        {
+            "source": "Trần Quang Khải",
+            "target": "Trần Hưng Đạo",
+            "value": 1
+        },
+        {
+            "source": "Nguyễn Hoàng",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Nguyễn Hoàng",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Hạ Vũ",
+            "target": "Đế Thuấn",
+            "value": 1
+        },
+        {
+            "source": "Hạ Vũ",
+            "target": "Đế Thuấn",
+            "value": 1
+        },
+        {
+            "source": "Đổng Trác",
+            "target": "Nhà Hậu Hán",
+            "value": 1
+        },
+        {
+            "source": "Trần Liễu",
+            "target": "Trần Hưng Đạo",
+            "value": 1
+        },
+        {
+            "source": "Trần Liễu",
+            "target": "Trần Hưng Đạo",
+            "value": 1
+        },
+        {
+            "source": "Trần Liễu",
+            "target": "Trần Hưng Đạo",
+            "value": 1
+        },
+        {
+            "source": "Trần Liễu",
+            "target": "Trần Hưng Đạo",
+            "value": 1
+        },
+        {
+            "source": "Lã Bố",
+            "target": "Đổng Trác",
+            "value": 1
+        },
+        {
+            "source": "Lã Bố",
+            "target": "Đổng Trác",
+            "value": 1
+        },
+        {
+            "source": "Lã Bố",
+            "target": "Đổng Trác",
+            "value": 1
+        },
+        {
+            "source": "Tần Thủy Hoàng",
+            "target": "Nhà Chu",
+            "value": 1
+        },
+        {
+            "source": "Tần Thủy Hoàng",
+            "target": "Nhà Chu",
+            "value": 1
+        },
+        {
+            "source": "Trần Cảnh",
+            "target": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "value": 1
+        },
+        {
+            "source": "Trần Cảnh",
+            "target": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "value": 1
+        },
+        {
+            "source": "Thánh Phaolo",
+            "target": "Đức Jesus",
+            "value": 1
+        },
+        {
+            "source": "Lý Chiêu Hoàng",
+            "target": "Trần Cảnh",
+            "value": 1
+        },
+        {
+            "source": "Lý Chiêu Hoàng",
+            "target": "Trần Cảnh",
+            "value": 1
+        },
+        {
+            "source": "Trần Hưng Đạo",
+            "target": "Nhà Trần",
+            "value": 1
+        }
+    ]
+}
