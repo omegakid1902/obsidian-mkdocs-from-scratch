@@ -8,6 +8,10 @@ tags:
   - '#permanent/concept'
 aliases:
   - Lịch Sử Việt Nam
+backlinks:
+  - Lịch sử
+  - Lịch sử Trung Quốc
+  - Health
 publish: True
 ---
 # Lịch Sử Việt Nam
