@@ -16,7 +16,7 @@
         .nodeId('id')
         .nodeAutoColorBy('group')
         .nodeRelSize(6)
-        .onNodeClick(node => window.open("www.omegakid1902.github.com/Zet/"+`${node.url}`, '_parent'))
+        .onNodeClick(node => window.open(`${node.url}`, '_parent'))
         .nodeCanvasObject((node, ctx, globalScale) => {
           const label = node.id;
           const fontSize = 12/globalScale;
