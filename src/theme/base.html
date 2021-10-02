@@ -74,6 +74,7 @@
       {% include "partials/integrations/analytics.html" %}
     {% endblock %}
     {% block extrahead %}{% endblock %}
+    <script src="//unpkg.com/force-graph"></script>
   </head>
   {% set direction = config.theme.direction or lang.t('direction') %}
   {% if config.theme.palette %}
@@ -147,7 +148,39 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    {% include "partials/toc.html" %}
+                    <div id="graph" style="background: darkseagreen;height: 100%; width: 100%">
+                      <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
+                      <script>
+                        const gData = {
+                          nodes: [
+                            {% if page.meta.backlinks %}
+                              {% for link in page.meta.backlinks %}
+                                {"id": "{{ link }}", "group": 1},
+                              {% endfor %}
+                            {% endif %}
+                            {"id": "{{ page.meta.title }}", "group": 2}
+                            ],
+                          links: [
+                            {% if page.meta.backlinks %}
+                              {% for link in page.meta.backlinks %}
+                                { source: "{{ page.meta.title }}", target: "{{ link }}", curvature: 0.5 },
+                              {% endfor %}
+                            {% endif %}
+                            { source: "{{ page.meta.title }}", target: "{{ page.meta.title }}", curvature: 0.5 }
+                          ]
+                        };
+
+                        const Graph = ForceGraph()
+                          (document.getElementById('graph'))
+                            .nodeId('id')
+                            .nodeAutoColorBy('group')
+                            .nodeRelSize(6)
+                            .nodeLabel(node =>`${node.id}`)
+                            .linkDirectionalParticles(2)
+                            .linkCurvature('curvature')
+                            .graphData(gData);
+                      </script>
+                    </div>
                   </div>
                 </div>
               </div>
