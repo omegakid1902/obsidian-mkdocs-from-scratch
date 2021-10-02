@@ -50,6 +50,7 @@
 
     
     
+    <script src="//unpkg.com/force-graph"></script>
   </head>
   
   
@@ -160,12 +161,12 @@
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
           
-  
-    
-    <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
-      <div class="md-sidebar__scrollwrap">
-        <div class="md-sidebar__inner">
-          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
 
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
@@ -715,25 +716,80 @@
     
   </ul>
 </nav>
-        </div>
-      </div>
-    </div>
-  
-  
-    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >    
-      <iframe type="text/html" src="/d3graph/index.html" style="background: rgba(0, 0, 0, 0.1); height: 800px; width: 100%; overflow: hidden; opacity:1" scrolling="no" height="800px" width="100%"></iframe>
-    </div>
-  
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <div id="graph" style="background: darkseagreen;height: 100%; width: 100%">
+                      <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
+                      <script>
+                        const rootId = 0;
+                        const gData = {
+                          nodes: [
+                            
+                            {"id": 0, title: "", url: "https://omegakid1902.github.io/Zet/", collapsed: false, childLinks: []}
+                            ],
+                          links: [
+                            
+                            { source: 1, target: 0, curvature: 0.5 }
+                          ]
+                        };
+                        // link parent/children
+                        const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
+                        gData.links.forEach(link => {
+                          nodesById[link.source].childLinks.push(link);
+                        });
+                        
+                        const getPrunedTree = () => {
+                          const visibleNodes = [];
+                          const visibleLinks = [];
 
+                          (function traverseTree(node = nodesById[rootId]) {
+                            visibleNodes.push(node);
+                            if (node.collapsed) return;
+                            visibleLinks.push(...node.childLinks);
+                            node.childLinks
+                              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
+                              .forEach(traverseTree);
+                          })(); // IIFE
+
+                          return { nodes: visibleNodes, links: visibleLinks };
+                        };
+
+                        const elem = document.getElementById('graph');
+                        const Graph = ForceGraph()(elem)
+                          .graphData(getPrunedTree())
+                          .onNodeHover(node => elem.style.cursor = node && node.childLinks.length ? 'pointer' : null)
+                          .onNodeRightClick(node => {
+                            if (node.childLinks.length) {
+                              node.collapsed = !node.collapsed; // toggle collapse state
+                              Graph.graphData(getPrunedTree());
+                            }
+                          })
+                          .onNodeClick(node => window.open(`${node.url}`, '_parent'))
+                          .nodeRelSize(6)
+                          .nodeLabel(node => `${node.title}`)
+                          .linkDirectionalParticles(1)
+                          .linkDirectionalParticleWidth(2.5)
+                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                      </script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            
+          
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
-   
-    <h1>2 Kings 18</h1>
-  
-   
-  <details open><summary> Content </summary>
-    <h1 id="2-kings-18">2 Kings 18</h1>
+                
+                
+                <h1 id="2-kings-18">2 Kings 18</h1>
 <p><a href="../2%20Kings-17/">← 2 Kings 17</a> | <a href="../2%20Kings/">2 Kings</a> | <a href="../2%20Kings-19/">2 Kings 19 →</a></p>
 <hr />
 <h6 id="v1">v1</h6>
@@ -812,11 +868,10 @@
 <p>Sau đó Ê-li-a-kim, Sếp-na, và Giô-a xé quần áo mình để bày tỏ lòng đau buồn. Ê-li-a-kim, con trai Hinh-kia, là quản lý cung vua, Sếp-na làm đổng lý văn phòng, còn Giô-a, con A-sáp, làm ký lục. Ba người đi gặp vua Ê-xê-chia và thuật lại những gì viên tư lệnh tác chiến nói.</p>
 <hr />
 <p><a href="../2%20Kings-17/">← 2 Kings 17</a> | <a href="../2%20Kings/">2 Kings</a> | <a href="../2%20Kings-19/">2 Kings 19 →</a></p>
-  </details>
-  
-    
-  
-
+                
+                  
+                
+              
               
                 
 

@@ -50,6 +50,7 @@
 
     
     
+    <script src="//unpkg.com/force-graph"></script>
   </head>
   
   
@@ -160,12 +161,12 @@
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
           
-  
-    
-    <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
-      <div class="md-sidebar__scrollwrap">
-        <div class="md-sidebar__inner">
-          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
 
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
@@ -791,40 +792,80 @@
     
   </ul>
 </nav>
-        </div>
-      </div>
-    </div>
-  
-  
-    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >    
-      <iframe type="text/html" src="/d3graph/index.html" style="background: rgba(0, 0, 0, 0.1); height: 800px; width: 100%; overflow: hidden; opacity:1" scrolling="no" height="800px" width="100%"></iframe>
-    </div>
-  
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <div id="graph" style="background: darkseagreen;height: 100%; width: 100%">
+                      <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
+                      <script>
+                        const rootId = 0;
+                        const gData = {
+                          nodes: [
+                            
+                            {"id": 0, title: "Nhà Nguyễn", url: "https://omegakid1902.github.io/Zet/Nhà Nguyễn", collapsed: false, childLinks: []}
+                            ],
+                          links: [
+                            
+                            { source: 1, target: 0, curvature: 0.5 }
+                          ]
+                        };
+                        // link parent/children
+                        const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
+                        gData.links.forEach(link => {
+                          nodesById[link.source].childLinks.push(link);
+                        });
+                        
+                        const getPrunedTree = () => {
+                          const visibleNodes = [];
+                          const visibleLinks = [];
 
+                          (function traverseTree(node = nodesById[rootId]) {
+                            visibleNodes.push(node);
+                            if (node.collapsed) return;
+                            visibleLinks.push(...node.childLinks);
+                            node.childLinks
+                              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
+                              .forEach(traverseTree);
+                          })(); // IIFE
+
+                          return { nodes: visibleNodes, links: visibleLinks };
+                        };
+
+                        const elem = document.getElementById('graph');
+                        const Graph = ForceGraph()(elem)
+                          .graphData(getPrunedTree())
+                          .onNodeHover(node => elem.style.cursor = node && node.childLinks.length ? 'pointer' : null)
+                          .onNodeRightClick(node => {
+                            if (node.childLinks.length) {
+                              node.collapsed = !node.collapsed; // toggle collapse state
+                              Graph.graphData(getPrunedTree());
+                            }
+                          })
+                          .onNodeClick(node => window.open(`${node.url}`, '_parent'))
+                          .nodeRelSize(6)
+                          .nodeLabel(node => `${node.title}`)
+                          .linkDirectionalParticles(1)
+                          .linkDirectionalParticleWidth(2.5)
+                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                      </script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            
+          
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
-   
-    <h1>Nhà Nguyễn</h1>
-  
-  
-    <details><summary> Page detail </summary>
-      
-        tags: <br>
-        
-          - <a href="/tags.html#created2021jul15">created-2021-Jul-15</a><br>
-        
-          - <a href="/tags.html#garden🏡">garden🏡</a><br>
-        
-          - <a href="/tags.html#permanentnation">permanent-nation</a><br>
-        
-      
-      
-      
-    </details> 
-   
-  <details open><summary> Content </summary>
-    <h1 id="nha-nguyen">Nhà Nguyễn</h1>
+                
+                
+                <h1 id="nha-nguyen">Nhà Nguyễn</h1>
 <h2 id="note">Note</h2>
 <p>[[Nhà Nguyễn là triều đại phong kiến cuối cùng ở VN]]. Nhà Nguyễn được lập bởi <a href="../Ch%C3%BAa%20Nguy%E1%BB%85n/">Chúa Nguyễn</a> - [[Nguyễn Ánh]] khi ông lật đổ [[Nhà Tây Sơn]] và lên ngôi hoàng đế, lấy hiệu là [[Gia Long]] vào năm 1802 và kết thúc 1945 khi vua <a href="../B%E1%BA%A3o%20%C4%90%E1%BA%A1i/">Bảo Đại</a> thoái vị.</p>
 <h3 id="cac-oi-vua-nha-nguyen">Các đời vua Nhà Nguyễn:</h3>
@@ -858,11 +899,10 @@ sort file.name asc
 <li><a href="../B%E1%BA%A3o%20%C4%90%E1%BA%A1i/">Bảo Đại</a></li>
 <li><a href="../People/Nguy%E1%BB%85n%20Ho%C3%A0ng/">Nguyễn Hoàng</a></li>
 </ul>
-  </details>
-  
-    
-  
-
+                
+                  
+                
+              
               
                 
 

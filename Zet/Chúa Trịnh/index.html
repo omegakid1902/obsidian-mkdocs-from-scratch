@@ -50,6 +50,7 @@
 
     
     
+    <script src="//unpkg.com/force-graph"></script>
   </head>
   
   
@@ -160,12 +161,12 @@
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
           
-  
-    
-    <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
-      <div class="md-sidebar__scrollwrap">
-        <div class="md-sidebar__inner">
-          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
 
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
@@ -715,40 +716,80 @@
     
   </ul>
 </nav>
-        </div>
-      </div>
-    </div>
-  
-  
-    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >    
-      <iframe type="text/html" src="/d3graph/index.html" style="background: rgba(0, 0, 0, 0.1); height: 800px; width: 100%; overflow: hidden; opacity:1" scrolling="no" height="800px" width="100%"></iframe>
-    </div>
-  
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <div id="graph" style="background: darkseagreen;height: 100%; width: 100%">
+                      <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
+                      <script>
+                        const rootId = 0;
+                        const gData = {
+                          nodes: [
+                            
+                            {"id": 0, title: "Chúa Trịnh", url: "https://omegakid1902.github.io/Zet/Chúa Trịnh", collapsed: false, childLinks: []}
+                            ],
+                          links: [
+                            
+                            { source: 1, target: 0, curvature: 0.5 }
+                          ]
+                        };
+                        // link parent/children
+                        const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
+                        gData.links.forEach(link => {
+                          nodesById[link.source].childLinks.push(link);
+                        });
+                        
+                        const getPrunedTree = () => {
+                          const visibleNodes = [];
+                          const visibleLinks = [];
 
+                          (function traverseTree(node = nodesById[rootId]) {
+                            visibleNodes.push(node);
+                            if (node.collapsed) return;
+                            visibleLinks.push(...node.childLinks);
+                            node.childLinks
+                              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
+                              .forEach(traverseTree);
+                          })(); // IIFE
+
+                          return { nodes: visibleNodes, links: visibleLinks };
+                        };
+
+                        const elem = document.getElementById('graph');
+                        const Graph = ForceGraph()(elem)
+                          .graphData(getPrunedTree())
+                          .onNodeHover(node => elem.style.cursor = node && node.childLinks.length ? 'pointer' : null)
+                          .onNodeRightClick(node => {
+                            if (node.childLinks.length) {
+                              node.collapsed = !node.collapsed; // toggle collapse state
+                              Graph.graphData(getPrunedTree());
+                            }
+                          })
+                          .onNodeClick(node => window.open(`${node.url}`, '_parent'))
+                          .nodeRelSize(6)
+                          .nodeLabel(node => `${node.title}`)
+                          .linkDirectionalParticles(1)
+                          .linkDirectionalParticleWidth(2.5)
+                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                      </script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            
+          
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
-   
-    <h1>Chúa Trịnh</h1>
-  
-  
-    <details><summary> Page detail </summary>
-      
-        tags: <br>
-        
-          - <a href="/tags.html#created2021jul12">created-2021-Jul-12</a><br>
-        
-          - <a href="/tags.html#seed🥜">seed🥜</a><br>
-        
-          - <a href="/tags.html#permanentconcept">permanent-concept</a><br>
-        
-      
-      
-      
-    </details> 
-   
-  <details open><summary> Content </summary>
-    <h1 id="chua-trinh">Chúa Trịnh</h1>
+                
+                
+                <h1 id="chua-trinh">Chúa Trịnh</h1>
 <h2 id="notes">Notes:</h2>
 <p>Chúa Trịnh là một dòng tộc nắm quyền <a href="../%C4%90%C3%A0ng%20Ngo%C3%A0i/">Đàng Ngoài</a> <a href="../Th%E1%BB%9Di%20L%C3%AA%20trung%20h%C6%B0ng/">Thời Lê trung hưng</a>. Vua Lê được giữ chức nhưng không có thực quyền.
 Dòng dõi chúa Trịnh khởi đi từ [[Trịnh Kiểm]]</p>
@@ -761,11 +802,10 @@ Dòng dõi chúa Trịnh khởi đi từ [[Trịnh Kiểm]]</p>
 <li><a href="../%C4%90%C3%A0ng%20Ngo%C3%A0i/">Đàng Ngoài</a></li>
 <li><a href="../Ch%C3%BAa%20Nguy%E1%BB%85n/">Chúa Nguyễn</a></li>
 </ul>
-  </details>
-  
-    
-  
-
+                
+                  
+                
+              
               
                 
 
