@@ -156,7 +156,7 @@
                           nodes: [
                             {% if page.meta.backlinks %}      
                               {% for link in page.meta.backlinks %}
-                                {"id": {{ loop.index + 1 }}, title: "{{ link }}", url: "https://omegakid1902.github.io/Zet/{{ link }}", collapsed: true, childLinks: []},                         
+                                {"id": {{ loop.index }}, title: "{{ link }}", url: "https://omegakid1902.github.io/Zet/{{ link }}", collapsed: true, childLinks: []},                         
                               {% endfor %}
                             {% endif %}
                             {"id": 0, title: "{{ page.meta.title }}", url: "https://omegakid1902.github.io/Zet/{{ page.meta.title }}", collapsed: false, childLinks: []}
@@ -164,7 +164,7 @@
                           links: [
                             {% if page.meta.backlinks %}                    
                               {% for link in page.meta.backlinks %}
-                                { source: 0, target: {{ loop.index + 1 }}, curvature: 0.5 },                       
+                                { source: 0, target: {{ loop.index }}, curvature: 0.5 },                       
                               {% endfor %}
                             {% endif %}
                             { source: 1, target: 0, curvature: 0.5 }
