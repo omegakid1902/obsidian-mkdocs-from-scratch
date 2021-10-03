@@ -21,6 +21,11 @@
             "url": "https://omegakid1902.github.io/Zet/Mấy thứ nhảm nhí mắc cười"
         },
         {
+            "id": "Tóm tắt sách Sáng Thế",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Tóm tắt sách Sáng Thế"
+        },
+        {
             "id": "Bắc Tống",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bắc Tống"
@@ -864,7 +869,12 @@
         },
         {
             "source": "Cựu Ước",
-            "target": "Đức Jesus",
+            "target": "Tóm tắt sách Sáng Thế",
+            "value": 1
+        },
+        {
+            "source": "Cựu Ước",
+            "target": "Tóm tắt sách Sáng Thế",
             "value": 1
         },
         {

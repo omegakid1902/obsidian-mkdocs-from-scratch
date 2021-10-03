@@ -37,25 +37,32 @@
         ],
         "backlinks": []
     },
-    "Bắc Tống": {
+    "Tóm tắt sách Sáng Thế": {
         "id": 4,
         "outgoing_links": [],
-        "backlinks": []
+        "backlinks": [
+            "Cựu Ước"
+        ]
     },
-    "Anders Ericsson": {
+    "Bắc Tống": {
         "id": 5,
         "outgoing_links": [],
         "backlinks": []
     },
-    "Năm sự thương": {
+    "Anders Ericsson": {
         "id": 6,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Năm sự thương": {
+        "id": 7,
         "outgoing_links": [],
         "backlinks": [
             "Kinh mân côi"
         ]
     },
     "Đàng Ngoài": {
-        "id": 7,
+        "id": 8,
         "outgoing_links": [
             "Chúa Trịnh"
         ],
@@ -65,19 +72,19 @@
         ]
     },
     "Zettelkasten": {
-        "id": 8,
+        "id": 9,
         "outgoing_links": [],
         "backlinks": []
     },
     "Toán học": {
-        "id": 9,
+        "id": 10,
         "outgoing_links": [],
         "backlinks": [
             "Interests"
         ]
     },
     "Lịch sử Trung Quốc": {
-        "id": 10,
+        "id": 11,
         "outgoing_links": [
             "Nhà Tần",
             "Nhà Hạ",
@@ -99,14 +106,14 @@
         ]
     },
     "Language": {
-        "id": 11,
+        "id": 12,
         "outgoing_links": [],
         "backlinks": [
             "Interests"
         ]
     },
     "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ": {
-        "id": 12,
+        "id": 13,
         "outgoing_links": [
             "Tần Thủy Hoàng",
             "Nhà Tần",
@@ -115,7 +122,7 @@
         "backlinks": []
     },
     "Nhà Tần": {
-        "id": 13,
+        "id": 14,
         "outgoing_links": [
             "Tần Thủy Hoàng",
             "Nhà Chu"
@@ -128,19 +135,19 @@
         ]
     },
     "COVID 19": {
-        "id": 14,
+        "id": 15,
         "outgoing_links": [],
         "backlinks": []
     },
     "Sưu tầm mem chế": {
-        "id": 15,
+        "id": 16,
         "outgoing_links": [],
         "backlinks": [
             "Mấy thứ nhảm nhí mắc cười"
         ]
     },
     "Các chế độ nhịn ăn": {
-        "id": 16,
+        "id": 17,
         "outgoing_links": [
             "Insulin",
             "Health"
@@ -150,7 +157,7 @@
         ]
     },
     "Đế quốc Việt Nam": {
-        "id": 17,
+        "id": 18,
         "outgoing_links": [
             "Bảo Đại"
         ],
@@ -159,7 +166,7 @@
         ]
     },
     "Nhà Trần": {
-        "id": 18,
+        "id": 19,
         "outgoing_links": [
             "Nhà Lý",
             "Trần Cảnh",
@@ -176,7 +183,7 @@
         ]
     },
     "Chúa Nguyễn": {
-        "id": 19,
+        "id": 20,
         "outgoing_links": [
             "Thời Lê trung hưng",
             "Nguyễn Hoàng",
@@ -192,7 +199,7 @@
         ]
     },
     "Xích Thố": {
-        "id": 20,
+        "id": 21,
         "outgoing_links": [
             "Lã Bố",
             "Nhà Hậu Hán",
@@ -203,7 +210,7 @@
         ]
     },
     "Âu Lạc": {
-        "id": 21,
+        "id": 22,
         "outgoing_links": [
             "An Dương Vương"
         ],
@@ -215,7 +222,7 @@
         ]
     },
     "Kinh mân côi": {
-        "id": 22,
+        "id": 23,
         "outgoing_links": [
             "Đức Jesus",
             "Năm sự thương"
@@ -223,7 +230,7 @@
         "backlinks": []
     },
     "Nhà Thanh": {
-        "id": 23,
+        "id": 24,
         "outgoing_links": [
             "Nhà Thanh"
         ],
@@ -233,14 +240,14 @@
         ]
     },
     "Flask lib": {
-        "id": 24,
+        "id": 25,
         "outgoing_links": [],
         "backlinks": [
             "Python standard library"
         ]
     },
     "Quốc hiệu VN qua các thời kỳ": {
-        "id": 25,
+        "id": 26,
         "outgoing_links": [
             "An Dương Vương",
             "Âu Lạc"
@@ -250,14 +257,14 @@
         ]
     },
     "Hồi Giáo": {
-        "id": 26,
+        "id": 27,
         "outgoing_links": [],
         "backlinks": [
             "Religion"
         ]
     },
     "Nhà Chu": {
-        "id": 27,
+        "id": 28,
         "outgoing_links": [
             "Nhà Thương",
             "Nhà Tần"
@@ -269,7 +276,7 @@
         ]
     },
     "Nhà Hậu Hán": {
-        "id": 28,
+        "id": 29,
         "outgoing_links": [],
         "backlinks": [
             "Xích Thố",
@@ -278,33 +285,33 @@
         ]
     },
     "Phật Giáo": {
-        "id": 29,
+        "id": 30,
         "outgoing_links": [],
         "backlinks": [
             "Religion"
         ]
     },
     "Backlink": {
-        "id": 30,
+        "id": 31,
         "outgoing_links": [],
         "backlinks": []
     },
     "Python standard library": {
-        "id": 31,
+        "id": 32,
         "outgoing_links": [
             "Flask lib"
         ],
         "backlinks": []
     },
     "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít": {
-        "id": 32,
+        "id": 33,
         "outgoing_links": [
             "Đế quốc Việt Nam"
         ],
         "backlinks": []
     },
     "Health": {
-        "id": 33,
+        "id": 34,
         "outgoing_links": [
             "Các chế độ nhịn ăn"
         ],
@@ -313,12 +320,12 @@
         ]
     },
     "Bếp lò Franklin": {
-        "id": 34,
+        "id": 35,
         "outgoing_links": [],
         "backlinks": []
     },
     "Thời Lê sơ": {
-        "id": 35,
+        "id": 36,
         "outgoing_links": [],
         "backlinks": [
             "Thời Lê trung hưng",
@@ -327,7 +334,7 @@
         ]
     },
     "Lucifer": {
-        "id": 36,
+        "id": 37,
         "outgoing_links": [
             "Chiến tranh trên Thiên Đàng",
             "Cựu Ước"
@@ -338,7 +345,7 @@
         ]
     },
     "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng": {
-        "id": 37,
+        "id": 38,
         "outgoing_links": [
             "Trần Cảnh",
             "Lý Chiêu Hoàng"
@@ -348,22 +355,22 @@
         ]
     },
     "Programming": {
-        "id": 38,
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Amino acid": {
         "id": 39,
         "outgoing_links": [],
         "backlinks": []
     },
-    "Barbell Reading Method": {
+    "Amino acid": {
         "id": 40,
         "outgoing_links": [],
         "backlinks": []
     },
-    "Nhà Hạ": {
+    "Barbell Reading Method": {
         "id": 41,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nhà Hạ": {
+        "id": 42,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -371,12 +378,12 @@
         ]
     },
     "Bán đảo Scandinavie": {
-        "id": 42,
+        "id": 43,
         "outgoing_links": [],
         "backlinks": []
     },
     "Ngô Đình Diệm": {
-        "id": 43,
+        "id": 44,
         "outgoing_links": [
             "Bảo Đại"
         ],
@@ -385,7 +392,7 @@
         ]
     },
     "An Dương Vương": {
-        "id": 44,
+        "id": 45,
         "outgoing_links": [],
         "backlinks": [
             "Âu Lạc",
@@ -396,7 +403,7 @@
         ]
     },
     "Nhà Hậu Lê": {
-        "id": 45,
+        "id": 46,
         "outgoing_links": [
             "Thời Lê sơ",
             "Thời Lê trung hưng"
@@ -407,7 +414,7 @@
         ]
     },
     "Carbohydrate": {
-        "id": 46,
+        "id": 47,
         "outgoing_links": [
             "Carbohydrate"
         ],
@@ -416,12 +423,12 @@
         ]
     },
     "D3js": {
-        "id": 47,
+        "id": 48,
         "outgoing_links": [],
         "backlinks": []
     },
     "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần": {
-        "id": 48,
+        "id": 49,
         "outgoing_links": [
             "Tần Thủy Hoàng",
             "Âu Lạc",
@@ -431,14 +438,14 @@
         "backlinks": []
     },
     "QAnon map": {
-        "id": 49,
+        "id": 50,
         "outgoing_links": [
             "Lucifer"
         ],
         "backlinks": []
     },
     "Chiến tranh Nguyên Mông - Đại Việt lần 1": {
-        "id": 50,
+        "id": 51,
         "outgoing_links": [
             "Nhà Trần",
             "Vườn không nhà trống",
@@ -447,7 +454,7 @@
         "backlinks": []
     },
     "index": {
-        "id": 51,
+        "id": 52,
         "outgoing_links": [
             "Lịch Sử Việt Nam",
             "Lịch sử Trung Quốc"
@@ -455,7 +462,7 @@
         "backlinks": []
     },
     "Lịch sử": {
-        "id": 52,
+        "id": 53,
         "outgoing_links": [
             "Lịch Sử Việt Nam",
             "Lịch Sử Do Thái",
@@ -466,7 +473,7 @@
         ]
     },
     "Lịch Sử Việt Nam": {
-        "id": 53,
+        "id": 54,
         "outgoing_links": [
             "Âu Lạc",
             "Nhà Lý",
@@ -490,9 +497,10 @@
         ]
     },
     "Cựu Ước": {
-        "id": 54,
+        "id": 55,
         "outgoing_links": [
-            "Đức Jesus"
+            "Đức Jesus",
+            "Tóm tắt sách Sáng Thế"
         ],
         "backlinks": [
             "Lucifer",
@@ -500,7 +508,7 @@
         ]
     },
     "Interests": {
-        "id": 55,
+        "id": 56,
         "outgoing_links": [
             "Religion",
             "Language",
@@ -510,14 +518,14 @@
         "backlinks": []
     },
     "Đền thờ An Dương Vương ở ngoại thành Hà Nội": {
-        "id": 56,
+        "id": 57,
         "outgoing_links": [
             "An Dương Vương"
         ],
         "backlinks": []
     },
     "Nhà Nguyễn": {
-        "id": 57,
+        "id": 58,
         "outgoing_links": [
             "Chúa Nguyễn",
             "Bảo Đại"
@@ -530,7 +538,7 @@
         ]
     },
     "Công Giáo": {
-        "id": 58,
+        "id": 59,
         "outgoing_links": [
             "Cựu Ước",
             "Thánh Phaolo",
@@ -541,19 +549,19 @@
         ]
     },
     "Github workflow": {
-        "id": 59,
+        "id": 60,
         "outgoing_links": [],
         "backlinks": []
     },
     "Lịch Sử Do Thái": {
-        "id": 60,
+        "id": 61,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử"
         ]
     },
     "Nhà Thương": {
-        "id": 61,
+        "id": 62,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -561,12 +569,12 @@
         ]
     },
     "Phim hay": {
-        "id": 62,
+        "id": 63,
         "outgoing_links": [],
         "backlinks": []
     },
     "Bảo Đại": {
-        "id": 63,
+        "id": 64,
         "outgoing_links": [
             "Nhà Nguyễn"
         ],
@@ -578,14 +586,14 @@
         ]
     },
     "Tin Lành": {
-        "id": 64,
+        "id": 65,
         "outgoing_links": [],
         "backlinks": [
             "Religion"
         ]
     },
     "Nhà Nguyên-Mông": {
-        "id": 65,
+        "id": 66,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -593,14 +601,14 @@
         ]
     },
     "Insulin": {
-        "id": 66,
+        "id": 67,
         "outgoing_links": [],
         "backlinks": [
             "Các chế độ nhịn ăn"
         ]
     },
     "Religion": {
-        "id": 67,
+        "id": 68,
         "outgoing_links": [
             "Công Giáo",
             "Tin Lành",
@@ -612,7 +620,7 @@
         ]
     },
     "Nhà Lý": {
-        "id": 68,
+        "id": 69,
         "outgoing_links": [],
         "backlinks": [
             "Nhà Trần",
@@ -621,7 +629,7 @@
         ]
     },
     "Chúa Trịnh": {
-        "id": 69,
+        "id": 70,
         "outgoing_links": [
             "Đàng Ngoài",
             "Thời Lê trung hưng"
@@ -633,7 +641,7 @@
         ]
     },
     "Thuận Thiên công chúa": {
-        "id": 70,
+        "id": 71,
         "outgoing_links": [
             "Lý Chiêu Hoàng",
             "Trần Cảnh",
@@ -645,7 +653,7 @@
         ]
     },
     "Đức Jesus": {
-        "id": 71,
+        "id": 72,
         "outgoing_links": [],
         "backlinks": [
             "Kinh mân côi",
@@ -655,7 +663,7 @@
         ]
     },
     "Đế Thuấn": {
-        "id": 72,
+        "id": 73,
         "outgoing_links": [
             "Đế Nghiêu"
         ],
@@ -665,7 +673,7 @@
         ]
     },
     "Trần Quang Khải": {
-        "id": 73,
+        "id": 74,
         "outgoing_links": [
             "Trần Hưng Đạo"
         ],
@@ -676,7 +684,7 @@
         ]
     },
     "Nguyễn Hoàng": {
-        "id": 74,
+        "id": 75,
         "outgoing_links": [
             "Chúa Nguyễn",
             "Nhà Nguyễn"
@@ -687,14 +695,14 @@
         ]
     },
     "Võ Tắc Thiên": {
-        "id": 75,
+        "id": 76,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc"
         ]
     },
     "Hạ Vũ": {
-        "id": 76,
+        "id": 77,
         "outgoing_links": [
             "Nhà Hạ",
             "Đế Thuấn"
@@ -704,7 +712,7 @@
         ]
     },
     "Đổng Trác": {
-        "id": 77,
+        "id": 78,
         "outgoing_links": [
             "Nhà Hậu Hán"
         ],
@@ -715,7 +723,7 @@
         ]
     },
     "Trần Liễu": {
-        "id": 78,
+        "id": 79,
         "outgoing_links": [
             "Trần Cảnh",
             "Nhà Trần",
@@ -729,7 +737,7 @@
         ]
     },
     "Lã Bố": {
-        "id": 79,
+        "id": 80,
         "outgoing_links": [
             "Nhà Hậu Hán",
             "Xích Thố",
@@ -740,7 +748,7 @@
         ]
     },
     "Tần Thủy Hoàng": {
-        "id": 80,
+        "id": 81,
         "outgoing_links": [
             "Nhà Tần",
             "Nhà Chu"
@@ -753,7 +761,7 @@
         ]
     },
     "Đế Nghiêu": {
-        "id": 81,
+        "id": 82,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -761,7 +769,7 @@
         ]
     },
     "Trần Cảnh": {
-        "id": 82,
+        "id": 83,
         "outgoing_links": [
             "Nhà Trần",
             "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng"
@@ -775,7 +783,7 @@
         ]
     },
     "Thánh Phaolo": {
-        "id": 83,
+        "id": 84,
         "outgoing_links": [
             "Đức Jesus"
         ],
@@ -784,7 +792,7 @@
         ]
     },
     "Lý Chiêu Hoàng": {
-        "id": 84,
+        "id": 85,
         "outgoing_links": [
             "Nhà Lý",
             "Trần Cảnh"
@@ -797,14 +805,14 @@
         ]
     },
     "Phục Hi": {
-        "id": 85,
+        "id": 86,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc"
         ]
     },
     "Trần Hưng Đạo": {
-        "id": 86,
+        "id": 87,
         "outgoing_links": [
             "Nhà Trần"
         ],
