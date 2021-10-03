@@ -37,7 +37,7 @@
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700%7CInconsolata&display=fallback">
-        <style>:root{--md-text-font-family:"Merriweather";--md-code-font-family:"Inconsolata"}</style>
+<style>:root{--md-text-font-family:"Merriweather";--md-code-font-family:"Inconsolata"}</style>
       
     
     
@@ -693,7 +693,7 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <div id="graph" style="background: darkseagreen;height: 100%; width: 100%">
+                    <div id="graph" style="background: darkseagreen; height: 300px; width: 300px; overflow: hidden; opacity:1; border-radius: 8px; border-style: outset;" scrolling="no" height="300px" width="300px">
                       <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
                       <script>
                         const rootId = 0;
@@ -701,13 +701,17 @@
                           nodes: [
                                   
                               
-                                {"id": 1, title: "Zet/Lịch sử Trung Quốc", url: "https://omegakid1902.github.io/Zet/Zet/Lịch sử Trung Quốc", collapsed: true, childLinks: []},                         
+                                
+                                {"id": 1, title: "Lịch sử Trung Quốc", url: "https://omegakid1902.github.io/Zet/Lịch sử Trung Quốc", collapsed: true, childLinks: []},                         
                               
-                                {"id": 2, title: "Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", url: "https://omegakid1902.github.io/Zet/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", collapsed: true, childLinks: []},                         
+                                
+                                {"id": 2, title: "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", url: "https://omegakid1902.github.io/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", collapsed: true, childLinks: []},                         
                               
-                                {"id": 3, title: "Zet/Nhà Tần", url: "https://omegakid1902.github.io/Zet/Zet/Nhà Tần", collapsed: true, childLinks: []},                         
+                                
+                                {"id": 3, title: "Nhà Tần", url: "https://omegakid1902.github.io/Zet/Nhà Tần", collapsed: true, childLinks: []},                         
                               
-                                {"id": 4, title: "Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần", url: "https://omegakid1902.github.io/Zet/Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần", collapsed: true, childLinks: []},                         
+                                
+                                {"id": 4, title: "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần", url: "https://omegakid1902.github.io/Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần", collapsed: true, childLinks: []},                         
                               
                             
                             {"id": 0, title: "Tần Thủy Hoàng", url: "https://omegakid1902.github.io/Zet/Tần Thủy Hoàng", collapsed: false, childLinks: []}
@@ -760,10 +764,11 @@
                             }
                           })
                           .onNodeClick(node => window.open(`${node.url}`, '_parent'))
-                          .nodeRelSize(6)
+                          .nodeRelSize(4)
                           .nodeLabel(node => `${node.title}`)
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
+                          .centerAt(200, 60, 1) // Center at box size
                           .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
