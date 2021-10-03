@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Lucifer
 backlinks:
   - Zet/Lucifer
 title: Chiến tranh trên Thiên Đàng

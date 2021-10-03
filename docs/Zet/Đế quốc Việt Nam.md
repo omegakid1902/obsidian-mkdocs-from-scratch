@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Bảo Đại
 backlinks:
   - Zet/Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít
 title: Đế quốc Việt Nam

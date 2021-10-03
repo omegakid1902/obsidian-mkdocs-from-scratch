@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Nhà Thanh
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/Nhà Thanh

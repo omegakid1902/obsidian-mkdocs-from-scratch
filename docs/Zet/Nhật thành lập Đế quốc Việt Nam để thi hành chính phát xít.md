@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Đế quốc Việt Nam
 title: Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít
 UID: 210911140856
 created: 11-Sep-2021

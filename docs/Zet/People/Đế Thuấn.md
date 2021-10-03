@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Đế Nghiêu
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/People/Hạ Vũ

@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/People/Lý Chiêu Hoàng
+  - Zet/People/Trần Cảnh
+  - Zet/People/Trần Liễu
+  - Zet/People/Trần Quang Khải
 backlinks:
   - Zet/People/Trần Liễu
 title: Thuận Thiên công chúa

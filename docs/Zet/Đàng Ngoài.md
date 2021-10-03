@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Chúa Trịnh
 backlinks:
   - Zet/Chúa Nguyễn
   - Zet/Chúa Trịnh

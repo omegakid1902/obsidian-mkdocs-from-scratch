@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/People/Đức Jesus
+  - Zet/Năm sự thương
 title: Kinh mân côi
 UID: 210927225612
 created: 27-Sep-2021

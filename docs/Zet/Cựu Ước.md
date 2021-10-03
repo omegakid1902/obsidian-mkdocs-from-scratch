@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/People/Đức Jesus
+  - Zet/Tóm tắt sách Sáng Thế
 backlinks:
   - Zet/Lucifer
   - Zet/Công Giáo

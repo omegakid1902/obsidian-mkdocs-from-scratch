@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Lịch Sử Việt Nam
+  - Zet/Lịch Sử Do Thái
+  - Zet/Lịch sử Trung Quốc
 backlinks:
   - Zet/Interests
 title: Lịch sử

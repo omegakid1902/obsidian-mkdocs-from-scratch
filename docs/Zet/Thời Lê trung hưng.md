@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Nhà Hậu Lê
+  - Zet/Thời Lê sơ
+  - Zet/Chúa Trịnh
 backlinks:
   - Zet/Chúa Nguyễn
   - Zet/Nhà Hậu Lê

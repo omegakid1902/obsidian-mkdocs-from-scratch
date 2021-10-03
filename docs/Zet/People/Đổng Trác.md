@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Nhà Hậu Hán
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/Xích Thố

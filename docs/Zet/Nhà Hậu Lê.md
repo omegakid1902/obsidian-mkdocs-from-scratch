@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Thời Lê sơ
+  - Zet/Thời Lê trung hưng
 backlinks:
   - Zet/Thời Lê trung hưng
   - Zet/Lịch Sử Việt Nam

@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/People/Trần Cảnh
+  - Zet/People/Lý Chiêu Hoàng
 backlinks:
   - Zet/People/Trần Cảnh
 title: Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng

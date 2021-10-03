@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Religion
+  - Zet/Language
+  - Zet/Toán học
+  - Zet/Lịch sử
 title: Interests
 UID: 210911134848
 created: 11-Sep-2021

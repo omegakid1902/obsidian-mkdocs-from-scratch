@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Nhà Hậu Hán
+  - Zet/Xích Thố
+  - Zet/People/Đổng Trác
 backlinks:
   - Zet/Xích Thố
 title: Lã Bố

@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Chúa Nguyễn
+  - Zet/Nhà Nguyễn
 backlinks:
   - Zet/Chúa Nguyễn
   - Zet/Lịch Sử Việt Nam

@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Chiến tranh trên Thiên Đàng
+  - Zet/Cựu Ước
 backlinks:
   - Zet/Chiến tranh trên Thiên Đàng
   - Zet/QAnon map

@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Cựu Ước
+  - Zet/People/Thánh Phaolo
+  - Zet/People/Đức Jesus
 backlinks:
   - Zet/Religion
 title: Công Giáo

@@ -1,4 +1,11 @@
 ---
+outgoing_links:
+  - Zet/Thời Lê trung hưng
+  - Zet/People/Nguyễn Hoàng
+  - Zet/Chúa Trịnh
+  - Zet/Đàng Ngoài
+  - Zet/Nhà Nguyễn
+  - Zet/Chúa Nguyễn
 backlinks:
   - Zet/Chúa Nguyễn
   - Zet/Nhà Nguyễn

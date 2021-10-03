@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Các chế độ nhịn ăn
 backlinks:
   - Zet/Các chế độ nhịn ăn
 title: 🏡 Health

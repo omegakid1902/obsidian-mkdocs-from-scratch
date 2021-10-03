@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/People/Tần Thủy Hoàng
+  - Zet/Âu Lạc
+  - Zet/An Dương Vương
+  - Zet/Vườn không nhà trống
 title: An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
 UID: 2107240939
 created: 24-Jul-2021

@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Nhà Trần
 backlinks:
   - Zet/Nhà Trần
   - Zet/Lịch Sử Việt Nam

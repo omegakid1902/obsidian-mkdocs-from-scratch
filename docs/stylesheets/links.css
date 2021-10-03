@@ -2,6 +2,12 @@
 /*= Icons for certain link types: by target =*/
 /*=-----------------------------------------=*/
 
+.md-sidebar--secondary {
+    width: 32em;
+    display: none;
+    order: 2;
+}
+
 .md-grid {
     margin-left: auto;
     margin-right: auto;
@@ -17,6 +23,8 @@
     flex-grow: 1;
     overflow: hidden;
     scroll-padding-top: 51.2rem;
+    border-right-style: groove;
+    border-left-style: groove;
 }
 
 .md-main__inner {
@@ -25,16 +33,18 @@
     margin-top: 0;
 }
 
+.md-content a[href*="omegakid1902.github.io"],
 .md-content a[href*="../"] {
     color: darkgreen; 
     }
-    
+
+.md-content a[href*="omegakid1902.github.io"]:hover,
 .md-content a[href*="../"]:hover {
     color: darkgreen;
 	opacity: 0.825;
     }
 
-.md-content a:not([href*="/Scripture"])::after,
+.md-content a[href*="omegakid1902.github.io"]::after,
 .md-content a[href*="../"]::after {
     content: "";
     color: darkgreen;
@@ -48,11 +58,13 @@
     vertical-align: baseline;
 }
 
+.md-content a[href*="omegakid1902.github.io"]::before
 .md-content a[href*="../"]::before {
     color: darkgreen;
     content: ""; 
     }
 
+.md-content a[href*="omegakid1902.github.io"]:hover::after,
 .md-content a[href*="../"]:hover::after,
 .md-content a:not([href*="/Scripture"]):hover::after {
 	content: ""; 
@@ -68,6 +80,7 @@
     opacity: 0.825;
     }
 
+.md-content a[href*="omegakid1902.github.io"]:hover::before,
 .md-content a[href*="../"]:hover::before {
     opacity: 0.7;
     }

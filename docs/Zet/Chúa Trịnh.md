@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Đàng Ngoài
+  - Zet/Thời Lê trung hưng
 backlinks:
   - Zet/Thời Lê trung hưng
   - Zet/Đàng Ngoài

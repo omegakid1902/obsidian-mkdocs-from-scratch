@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Nhà Tần
+  - Zet/Nhà Chu
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ

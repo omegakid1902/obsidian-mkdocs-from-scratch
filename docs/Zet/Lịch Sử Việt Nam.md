@@ -1,4 +1,20 @@
 ---
+outgoing_links:
+  - Zet/Âu Lạc
+  - Zet/Nhà Lý
+  - Zet/Nhà Trần
+  - Zet/Nhà Hậu Lê
+  - Zet/Thời Lê sơ
+  - Zet/Thời Lê trung hưng
+  - Zet/Nhà Nguyễn
+  - Zet/An Dương Vương
+  - Zet/People/Lý Chiêu Hoàng
+  - Zet/People/Trần Hưng Đạo
+  - Zet/People/Trần Quang Khải
+  - Zet/People/Nguyễn Hoàng
+  - Zet/Bảo Đại
+  - Zet/Ngô Đình Diệm
+  - Zet/Quốc hiệu VN qua các thời kỳ
 backlinks:
   - Zet/index
   - Zet/Lịch sử

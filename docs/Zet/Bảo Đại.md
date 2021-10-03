@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Nhà Nguyễn
 backlinks:
   - Zet/Đế quốc Việt Nam
   - Zet/Ngô Đình Diệm

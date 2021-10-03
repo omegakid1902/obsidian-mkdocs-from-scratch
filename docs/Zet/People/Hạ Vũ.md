@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Nhà Hạ
+  - Zet/People/Đế Thuấn
 backlinks:
   - Zet/Lịch sử Trung Quốc
 title: Hạ Vũ

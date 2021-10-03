@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/An Dương Vương
 backlinks:
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Quốc hiệu VN qua các thời kỳ

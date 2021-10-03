@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Bảo Đại
 backlinks:
   - Zet/Lịch Sử Việt Nam
 title: Ngô Đình Diệm

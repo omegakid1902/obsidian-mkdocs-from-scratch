@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Đức Jesus
 backlinks:
   - Zet/Công Giáo
 title: Thánh Phaolo

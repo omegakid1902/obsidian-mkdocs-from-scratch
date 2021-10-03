@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Lịch Sử Việt Nam
+  - Zet/Lịch sử Trung Quốc
 title: index
 publish: True
 ---

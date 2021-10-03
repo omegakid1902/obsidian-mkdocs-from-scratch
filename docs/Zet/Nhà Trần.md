@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/Nhà Lý
+  - Zet/People/Trần Cảnh
+  - Zet/People/Lý Chiêu Hoàng
+  - Zet/People/Trần Hưng Đạo
+  - Zet/People/Trần Quang Khải
 backlinks:
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/Lịch Sử Việt Nam
