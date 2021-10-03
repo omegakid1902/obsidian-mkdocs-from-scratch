@@ -57,7 +57,7 @@ print(y)
 nodes = {}
 '''
 node_init = {
-    "name": {"id": nodes_id, "outgoing_links" : [], "backlinks" : []}
+    "name": {"id": nodes_id, "url": "", "outgoing_links" : [], "backlinks" : []}
 }
 '''
 nodes_id = 0
@@ -106,11 +106,11 @@ class AutoLinkDetect:
 class RoamLinkDetect:
     def __init__(self, base_docs_url, page_url):
         self.base_docs_url = base_docs_url
-        self.page_url = page_url
+        self.page_url = page_url.replace("./docs/", "").replace("\\", "/")
         self.file_name = os.path.basename(page_url).replace(".md", "")
         if self.file_name not in nodes.keys():
             global nodes_id
-            nodes[self.file_name] = {"id": nodes_id, "outgoing_links" : [], "backlinks" : []}
+            nodes[self.file_name] = {"id": nodes_id, "url": self.page_url,"outgoing_links" : [], "backlinks" : []}
             nodes_id += 1
 
     def simplify(self, filename):
@@ -253,8 +253,8 @@ with open('docs/backlink.json', 'w', encoding="utf-8") as outfile:
 
 graph_nodes = {"nodes" : [], "links": []}
 for node in nodes:
-    node_url = "https://omegakid1902.github.io/Zet/" + node
-    graph_node = { "id": node, "group": 1, "url": node_url}
+    node_url = "https://omegakid1902.github.io/" + nodes[node]["url"].strip(".md")
+    graph_node = { "id": nodes[node]["id"], "title": node, "group": 1, "url": node_url}
     # graph_node["id"] = node
     # graph_node["group"] = 1
     graph_nodes["nodes"].append(graph_node)
@@ -271,3 +271,24 @@ for node in nodes:
 
 with open('docs/d3graph/graph_nodes.json', 'w', encoding="utf-8") as outfile:
     json.dump(graph_nodes, outfile, indent=4, ensure_ascii=False)
+
+for root, dirs, files in os.walk(base_docs_url):
+    for file in files:
+        if file.endswith(".md"):
+            file_name_strip = os.path.basename(file).replace(".md", "")
+            print(file_name_strip)
+            with open(os.path.join(root, file), 'r', encoding="utf-8") as f:
+                content = f.readlines()
+
+            if not content[0].startswith("---"):
+                content.insert(0, "---")
+                content.insert(1, "---")
+            if range(len(nodes[file_name_strip]["backlinks"])):
+                content.insert(1, "backlinks:\n")
+            print(content)
+            for link_id in range(len(nodes[file_name_strip]["backlinks"])):
+                content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["backlinks"][link_id]]["url"].replace(".md", "") + "\n")
+            
+            with open(os.path.join(root, file), 'w', encoding="utf-8") as f:
+                content = "".join(content)
+                f.write(content)
