@@ -640,8 +640,13 @@
             "Chúa Nguyễn"
         ]
     },
-    "Thuận Thiên công chúa": {
+    "Vua David": {
         "id": 71,
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thuận Thiên công chúa": {
+        "id": 72,
         "outgoing_links": [
             "Lý Chiêu Hoàng",
             "Trần Cảnh",
@@ -653,7 +658,7 @@
         ]
     },
     "Đức Jesus": {
-        "id": 72,
+        "id": 73,
         "outgoing_links": [],
         "backlinks": [
             "Kinh mân côi",
@@ -663,7 +668,7 @@
         ]
     },
     "Đế Thuấn": {
-        "id": 73,
+        "id": 74,
         "outgoing_links": [
             "Đế Nghiêu"
         ],
@@ -673,7 +678,7 @@
         ]
     },
     "Trần Quang Khải": {
-        "id": 74,
+        "id": 75,
         "outgoing_links": [
             "Trần Hưng Đạo"
         ],
@@ -684,7 +689,7 @@
         ]
     },
     "Nguyễn Hoàng": {
-        "id": 75,
+        "id": 76,
         "outgoing_links": [
             "Chúa Nguyễn",
             "Nhà Nguyễn"
@@ -695,14 +700,14 @@
         ]
     },
     "Võ Tắc Thiên": {
-        "id": 76,
+        "id": 77,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc"
         ]
     },
     "Hạ Vũ": {
-        "id": 77,
+        "id": 78,
         "outgoing_links": [
             "Nhà Hạ",
             "Đế Thuấn"
@@ -712,7 +717,7 @@
         ]
     },
     "Đổng Trác": {
-        "id": 78,
+        "id": 79,
         "outgoing_links": [
             "Nhà Hậu Hán"
         ],
@@ -723,7 +728,7 @@
         ]
     },
     "Trần Liễu": {
-        "id": 79,
+        "id": 80,
         "outgoing_links": [
             "Trần Cảnh",
             "Nhà Trần",
@@ -737,7 +742,7 @@
         ]
     },
     "Lã Bố": {
-        "id": 80,
+        "id": 81,
         "outgoing_links": [
             "Nhà Hậu Hán",
             "Xích Thố",
@@ -748,7 +753,7 @@
         ]
     },
     "Tần Thủy Hoàng": {
-        "id": 81,
+        "id": 82,
         "outgoing_links": [
             "Nhà Tần",
             "Nhà Chu"
@@ -761,7 +766,7 @@
         ]
     },
     "Đế Nghiêu": {
-        "id": 82,
+        "id": 83,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc",
@@ -769,7 +774,7 @@
         ]
     },
     "Trần Cảnh": {
-        "id": 83,
+        "id": 84,
         "outgoing_links": [
             "Nhà Trần",
             "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng"
@@ -783,7 +788,7 @@
         ]
     },
     "Thánh Phaolo": {
-        "id": 84,
+        "id": 85,
         "outgoing_links": [
             "Đức Jesus"
         ],
@@ -792,7 +797,7 @@
         ]
     },
     "Lý Chiêu Hoàng": {
-        "id": 85,
+        "id": 86,
         "outgoing_links": [
             "Nhà Lý",
             "Trần Cảnh"
@@ -805,14 +810,14 @@
         ]
     },
     "Phục Hi": {
-        "id": 86,
+        "id": 87,
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc"
         ]
     },
     "Trần Hưng Đạo": {
-        "id": 87,
+        "id": 88,
         "outgoing_links": [
             "Nhà Trần"
         ],
