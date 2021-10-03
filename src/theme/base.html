@@ -61,7 +61,7 @@
             font.text | replace(' ', '+') + ':300,400,400i,700%7C' +
             font.code | replace(' ', '+')
           }}&display=fallback">
-        <style>:root{--md-text-font-family:"{{ font.text }}";--md-code-font-family:"{{ font.code }}"}</style>
+<style>:root{--md-text-font-family:"{{ font.text }}";--md-code-font-family:"{{ font.code }}"}</style>
       {% endif %}
     {% endblock %}
     {% if config.extra.manifest %}
@@ -148,7 +148,7 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <div id="graph" style="background: darkseagreen;height: 100%; width: 100%">
+                    <div id="graph" style="background: darkseagreen; height: 300px; width: 300px; overflow: hidden; opacity:1; border-radius: 8px; border-style: outset;" scrolling="no" height="300px" width="300px">
                       <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
                       <script>
                         const rootId = 0;
@@ -156,7 +156,8 @@
                           nodes: [
                             {% if page.meta.backlinks %}      
                               {% for link in page.meta.backlinks %}
-                                {"id": {{ loop.index }}, title: "{{ link }}", url: "https://omegakid1902.github.io/Zet/{{ link }}", collapsed: true, childLinks: []},                         
+                                {% set blink_title = link.replace("Zet/", "").replace("People/", "") %}
+                                {"id": {{ loop.index }}, title: "{{ blink_title }}", url: "https://omegakid1902.github.io/{{ link }}", collapsed: true, childLinks: []},                         
                               {% endfor %}
                             {% endif %}
                             {"id": 0, title: "{{ page.meta.title }}", url: "https://omegakid1902.github.io/Zet/{{ page.meta.title }}", collapsed: false, childLinks: []}
@@ -203,10 +204,11 @@
                             }
                           })
                           .onNodeClick(node => window.open(`${node.url}`, '_parent'))
-                          .nodeRelSize(6)
+                          .nodeRelSize(4)
                           .nodeLabel(node => `${node.title}`)
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
+                          .centerAt(200, 60, 1) // Center at box size
                           .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>

@@ -89,8 +89,7 @@ class AutoLinkDetect:
                         os.path.relpath(abs_link_url, abs_linker_url),
                         filename)
         if rel_link_url == '':
-            print('WARNING: AutoLinksPlugin unable to find ' + filename +
-                  ' in directory ' + self.base_docs_url)
+            # print('WARNING: AutoLinksPlugin unable to find ' + filename +' in directory ' + self.base_docs_url)
             return match.group(0)
 
         # Construct the return link by replacing the filename with the relative path to the file
@@ -276,7 +275,7 @@ for root, dirs, files in os.walk(base_docs_url):
     for file in files:
         if file.endswith(".md"):
             file_name_strip = os.path.basename(file).replace(".md", "")
-            print(file_name_strip)
+            # print(file_name_strip)
             with open(os.path.join(root, file), 'r', encoding="utf-8") as f:
                 content = f.readlines()
 
@@ -285,9 +284,17 @@ for root, dirs, files in os.walk(base_docs_url):
                 content.insert(1, "---")
             if range(len(nodes[file_name_strip]["backlinks"])):
                 content.insert(1, "backlinks:\n")
-            print(content)
+
+            # print(content)
             for link_id in range(len(nodes[file_name_strip]["backlinks"])):
                 content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["backlinks"][link_id]]["url"].replace(".md", "") + "\n")
+            
+            if range(len(nodes[file_name_strip]["outgoing_links"])):
+                content.insert(1, "outgoing_links:\n")
+
+            # print(content)
+            for link_id in range(len(nodes[file_name_strip]["outgoing_links"])):
+                content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["outgoing_links"][link_id]]["url"].replace(".md", "") + "\n")
             
             with open(os.path.join(root, file), 'w', encoding="utf-8") as f:
                 content = "".join(content)
