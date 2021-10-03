@@ -9,7 +9,10 @@
 Nhưng Thượng Đế nhớ lại Nô-ê cùng các loại dã thú và các loại thú hiền hoà sống trong tàu. Ngài liền khiến một trận gió thổi qua đất, nước liền hạ. 
 
 ###### v2 
-Các suối ngầm dưới đất ngưng phun nước, các cổng chận nước trên trời đóng lại. ###### 3-4 Nước, trước kia phủ mặt đất, bắt đầu hạ xuống. Sau một trăm năm mươi ngày, mực nước hạ xuống thấp đến nỗi chiếc tàu chạm đất trở lại. Tàu tấp trên một đỉnh thuộc rặng núi A-ra-rát vào ngày mười bảy tháng bảy. 
+Các suối ngầm dưới đất ngưng phun nước, các cổng chận nước trên trời đóng lại. 
+
+###### v3-4 
+Nước, trước kia phủ mặt đất, bắt đầu hạ xuống. Sau một trăm năm mươi ngày, mực nước hạ xuống thấp đến nỗi chiếc tàu chạm đất trở lại. Tàu tấp trên một đỉnh thuộc rặng núi A-ra-rát vào ngày mười bảy tháng bảy. 
 
 ###### v5 
 Nước tiếp tục hạ, đến ngày mười một tháng thứ mười thì các đỉnh núi bắt đầu xuất hiện. 

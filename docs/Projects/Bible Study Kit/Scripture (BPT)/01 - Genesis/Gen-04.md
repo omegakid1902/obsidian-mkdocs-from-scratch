@@ -24,7 +24,10 @@ Nếu con làm đúng, ta đã hẳn chấp nhận con; nhưng nếu con làm sa
 Một hôm Ca-in bảo em là A-bên rằng, "Chúng mình hãy ra đồng đi." Trong khi hai người đang ở ngoài đồng thì Ca-in cãi nhau với A-bên. Ca-in liền xông tới giết A-bên, em mình. 
 
 ###### v9 
-Sau đó CHÚA hỏi Ca-in, "A-bên, em con đâu rồi?" Ca-in thưa, "Con đâu có biết. Con có nhiệm vụ lo cho em con sao?" <sup class="versenum">10-11</sup>CHÚA liền bảo, "Con đã làm gì? Huyết của em con từ đất kêu van lên đến ta. 
+Sau đó CHÚA hỏi Ca-in, "A-bên, em con đâu rồi?" Ca-in thưa, "Con đâu có biết. Con có nhiệm vụ lo cho em con sao?" 
+
+###### v10
+CHÚA liền bảo, "Con đã làm gì? Huyết của em con từ đất kêu van lên đến ta. 
 
 ###### v12 
 Từ nay khi cày ruộng, con sẽ bị nguyền rủa nơi đất mà huyết em con rơi xuống, khi tay con giết em mình. Con sẽ cày bừa vất vả nhưng đất sẽ không sinh hoa lợi nữa. Con sẽ phải đi lang thang trên đất." 
