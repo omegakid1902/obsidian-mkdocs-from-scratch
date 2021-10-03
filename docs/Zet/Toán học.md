@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Interests
 title: Toán học
 UID: 
 created: 

@@ -1,4 +1,10 @@
 ---
+backlinks:
+  - Zet/Nhà Trần
+  - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
+  - Zet/People/Thuận Thiên công chúa
+  - Zet/People/Trần Liễu
+  - Zet/People/Lý Chiêu Hoàng
 title: Trần Cảnh
 UID: 210902130435
 tags:

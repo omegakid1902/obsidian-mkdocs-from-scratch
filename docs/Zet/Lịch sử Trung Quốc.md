@@ -1,4 +1,7 @@
 ---
+backlinks:
+  - Zet/index
+  - Zet/Lịch sử
 title: Lịch sử Trung Quốc
 UID: 
 created: 

@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Xích Thố
 title: Lã Bố
 UID: 210828115506
 tags:

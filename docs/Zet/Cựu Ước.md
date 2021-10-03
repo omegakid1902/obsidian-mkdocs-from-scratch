@@ -1,4 +1,7 @@
 ---
+backlinks:
+  - Zet/Lucifer
+  - Zet/Công Giáo
 title: Cựu Ước
 UID: 2107311703
 created: 22-Sep-2021

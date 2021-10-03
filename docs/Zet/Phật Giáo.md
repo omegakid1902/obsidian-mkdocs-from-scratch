@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Religion
 title: Phật Giáo
 UID: 211001213956
 created: 01-Oct-2021

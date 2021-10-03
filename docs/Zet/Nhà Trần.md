@@ -1,4 +1,10 @@
 ---
+backlinks:
+  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/Lịch Sử Việt Nam
+  - Zet/People/Trần Liễu
+  - Zet/People/Trần Cảnh
+  - Zet/People/Trần Hưng Đạo
 title: Nhà Trần
 tags:
   - '#created/2021/Jul/09'

@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/People/Trần Cảnh
 title: Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
 UID: 210913000322
 created: 13-Sep-2021

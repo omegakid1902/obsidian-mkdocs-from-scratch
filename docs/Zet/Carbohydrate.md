@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Carbohydrate
 publish: True
 ---
 # Carbohydrate

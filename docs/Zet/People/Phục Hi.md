@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Lịch sử Trung Quốc
 title: Phục Hi
 UID: 210905212938
 tags:

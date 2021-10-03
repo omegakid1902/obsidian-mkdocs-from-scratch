@@ -1,4 +1,8 @@
 ---
+backlinks:
+  - Zet/Lịch sử Trung Quốc
+  - Zet/Xích Thố
+  - Zet/People/Lã Bố
 title: Đổng Trác
 UID: 210828112625
 tags:

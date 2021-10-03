@@ -1,4 +1,9 @@
 ---
+backlinks:
+  - Zet/Lịch sử Trung Quốc
+  - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
+  - Zet/Nhà Tần
+  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
 title: Tần Thủy Hoàng
 UID: 210828110531
 tags:

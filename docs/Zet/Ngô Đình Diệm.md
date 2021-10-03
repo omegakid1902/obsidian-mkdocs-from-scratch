@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Lịch Sử Việt Nam
 title: Ngô Đình Diệm
 UID: 
 created: 12-Dec-2021

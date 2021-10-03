@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Lịch sử
 publish: True
 ---
 # Lịch Sử Do Thái MOC

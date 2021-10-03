@@ -1,4 +1,8 @@
 ---
+backlinks:
+  - Zet/Chúa Nguyễn
+  - Zet/Nhà Nguyễn
+  - Zet/People/Nguyễn Hoàng
 title: Chúa Nguyễn
 UID: 2107140826
 tags:

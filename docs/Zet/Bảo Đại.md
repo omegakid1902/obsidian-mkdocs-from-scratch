@@ -1,4 +1,9 @@
 ---
+backlinks:
+  - Zet/Đế quốc Việt Nam
+  - Zet/Ngô Đình Diệm
+  - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Nguyễn
 title: "Bảo Đại"
 UID: 2107171330
 tags:

@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/People/Lã Bố
 title: Xích Thố
 UID: 210828140126
 tags:

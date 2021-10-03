@@ -1,4 +1,8 @@
 ---
+backlinks:
+  - Zet/Lịch sử Trung Quốc
+  - Zet/Nhà Tần
+  - Zet/People/Tần Thủy Hoàng
 title: Nhà Chu
 UID: 210828103407
 tags:
