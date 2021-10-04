@@ -157,18 +157,29 @@
                             {% if page.meta.backlinks %}      
                               {% for link in page.meta.backlinks %}
                                 {% set blink_title = link.replace("Zet/", "").replace("People/", "") %}
-                                {"id": {{ loop.index }}, title: "{{ blink_title }}", url: "https://omegakid1902.github.io/{{ link }}", collapsed: true, childLinks: []},                         
+                                {"id": {{ loop.index }}, title: "{{ blink_title }}", url: "https://omegakid1902.github.io/{{ link }}", collapsed: true, childLinks: [], group: 1},                         
                               {% endfor %}
                             {% endif %}
-                            {"id": 0, title: "{{ page.meta.title }}", url: "https://omegakid1902.github.io/Zet/{{ page.meta.title }}", collapsed: false, childLinks: []}
+                            {% if page.meta.outgoing_links %}      
+                              {% for link in page.meta.outgoing_links %}
+                                {% set blink_title = link.replace("Zet/", "").replace("People/", "") %}
+                                {"id": {{ loop.index + page.meta.backlinks|length }}, title: "{{ blink_title }}", url: "https://omegakid1902.github.io/{{ link }}", collapsed: true, childLinks: [], group: 2},                         
+                              {% endfor %}
+                            {% endif %}
+                            {"id": 0, title: "{{ page.meta.title }}", url: "https://omegakid1902.github.io/Zet/{{ page.meta.title }}", collapsed: false, childLinks: [], group: 0}
                             ],
                           links: [
                             {% if page.meta.backlinks %}                    
                               {% for link in page.meta.backlinks %}
-                                { source: 0, target: {{ loop.index }}, curvature: 0.5 },                       
+                                { source: {{ loop.index }}, target: 0, curvature: 0.5 },                       
                               {% endfor %}
                             {% endif %}
-                            { source: 1, target: 0, curvature: 0.5 }
+                            {% if page.meta.outgoing_links %}                    
+                              {% for link in page.meta.outgoing_links %}
+                                { source: 0, target: {{ loop.index + page.meta.backlinks|length }}, curvature: 0.5 },                       
+                              {% endfor %}
+                            {% endif %}
+                            { source: 0, target: 1, curvature: 0.5 }
                           ]
                         };
                         // link parent/children
@@ -209,7 +220,8 @@
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
                           .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>
