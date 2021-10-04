@@ -65,6 +65,14 @@ Tiếp theo sau là câu truyện của [[Abraham]]
 
 [[📝21-10-03]] Tới đoạn này
 
+Chúa nói với [[Abraham]] rời bỏ gia đình cha mình Chúa chỉ cho [[Abraham]] đất [[Canaan]] và hứa sẽ ban phước cho dòng dõi ông thành một dân tộc lớn. [[Gen-12]]
+
+Tuy nhiên, khi ấy đất [[Canaan]] xảy ra nạn đói, ông lại dẫn vợ [[Sarah]] đi xuống [[Ai Cập]]. Khi gần đến, ông dặn [[Sarah]] nói mình là anh trai thay vì là chồng của bà, vì sắc đẹp của bà sẽ làm người [[Ai Cập]] sẽ giết chồng bà để chiếm lấy bà, những sẽ biệt đãi nếu là anh của bà. [[Gen-12#v11]]
+
+Người Ai Cập thấy bà [[Sarah]] đẹp tuyệt trần, họ đưa Sarah vào cung cho vua và thiết đãi [[Abraham]] nồng hậu.
+Tuy vậy, Chúa phạt vua bị bệnh vì chuyện của Sarah, vua biết được trách [[Abraham]] sao lại giấu chuyện Sarah là vợ, rồi vua thả vợ chồng và đoàn tùy tùng ra đi. [[Gen-12#v20]]
+
+[[📝21-10-04]] Tới đoạn này
 
 ## Ideas & thoughts:
 
