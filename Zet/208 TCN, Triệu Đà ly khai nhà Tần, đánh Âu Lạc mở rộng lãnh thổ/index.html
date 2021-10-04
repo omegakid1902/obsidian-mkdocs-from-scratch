@@ -685,11 +685,32 @@
                         const gData = {
                           nodes: [
                             
-                            {"id": 0, title: "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", url: "https://omegakid1902.github.io/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", collapsed: false, childLinks: []}
+                                  
+                              
+                                
+                                {"id": 1, title: "Tần Thủy Hoàng", url: "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 2, title: "Nhà Tần", url: "https://omegakid1902.github.io/Zet/Nhà Tần", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 3, title: "Âu Lạc", url: "https://omegakid1902.github.io/Zet/Âu Lạc", collapsed: true, childLinks: [], group: 2},                         
+                              
+                            
+                            {"id": 0, title: "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", url: "https://omegakid1902.github.io/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", collapsed: false, childLinks: [], group: 0}
                             ],
                           links: [
                             
-                            { source: 1, target: 0, curvature: 0.5 }
+                                                
+                              
+                                { source: 0, target: 1, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 2, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 3, curvature: 0.5 },                       
+                              
+                            
+                            { source: 0, target: 1, curvature: 0.5 }
                           ]
                         };
                         // link parent/children
@@ -730,7 +751,8 @@
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
                           .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>

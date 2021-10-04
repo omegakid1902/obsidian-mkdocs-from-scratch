@@ -691,23 +691,94 @@
                                   
                               
                                 
-                                {"id": 1, title: "index", url: "https://omegakid1902.github.io/Zet/index", collapsed: true, childLinks: []},                         
+                                {"id": 1, title: "index", url: "https://omegakid1902.github.io/Zet/index", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 2, title: "Lịch sử", url: "https://omegakid1902.github.io/Zet/Lịch sử", collapsed: true, childLinks: []},                         
+                                {"id": 2, title: "Lịch sử", url: "https://omegakid1902.github.io/Zet/Lịch sử", collapsed: true, childLinks: [], group: 1},                         
                               
                             
-                            {"id": 0, title: "Lịch sử Trung Quốc", url: "https://omegakid1902.github.io/Zet/Lịch sử Trung Quốc", collapsed: false, childLinks: []}
+                                  
+                              
+                                
+                                {"id": 3, title: "Nhà Tần", url: "https://omegakid1902.github.io/Zet/Nhà Tần", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 4, title: "Nhà Hạ", url: "https://omegakid1902.github.io/Zet/Nhà Hạ", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 5, title: "Nhà Thương", url: "https://omegakid1902.github.io/Zet/Nhà Thương", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 6, title: "Nhà Chu", url: "https://omegakid1902.github.io/Zet/Nhà Chu", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 7, title: "Nhà Nguyên-Mông", url: "https://omegakid1902.github.io/Zet/Nhà Nguyên-Mông", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 8, title: "Nhà Thanh", url: "https://omegakid1902.github.io/Zet/Nhà Thanh", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 9, title: "Phục Hi", url: "https://omegakid1902.github.io/Zet/People/Phục Hi", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 10, title: "Đế Nghiêu", url: "https://omegakid1902.github.io/Zet/People/Đế Nghiêu", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 11, title: "Đế Thuấn", url: "https://omegakid1902.github.io/Zet/People/Đế Thuấn", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 12, title: "Hạ Vũ", url: "https://omegakid1902.github.io/Zet/People/Hạ Vũ", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 13, title: "Tần Thủy Hoàng", url: "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 14, title: "Đổng Trác", url: "https://omegakid1902.github.io/Zet/People/Đổng Trác", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 15, title: "Võ Tắc Thiên", url: "https://omegakid1902.github.io/Zet/People/Võ Tắc Thiên", collapsed: true, childLinks: [], group: 2},                         
+                              
+                            
+                            {"id": 0, title: "Lịch sử Trung Quốc", url: "https://omegakid1902.github.io/Zet/Lịch sử Trung Quốc", collapsed: false, childLinks: [], group: 0}
                             ],
                           links: [
                                                 
                               
-                                { source: 0, target: 1, curvature: 0.5 },                       
+                                { source: 1, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 2, curvature: 0.5 },                       
+                                { source: 2, target: 0, curvature: 0.5 },                       
                               
                             
-                            { source: 1, target: 0, curvature: 0.5 }
+                                                
+                              
+                                { source: 0, target: 3, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 4, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 5, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 6, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 7, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 8, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 9, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 10, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 11, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 12, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 13, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 14, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 15, curvature: 0.5 },                       
+                              
+                            
+                            { source: 0, target: 1, curvature: 0.5 }
                           ]
                         };
                         // link parent/children
@@ -748,7 +819,8 @@
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
                           .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>

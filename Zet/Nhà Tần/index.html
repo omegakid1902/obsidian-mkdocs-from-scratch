@@ -687,33 +687,49 @@
                                   
                               
                                 
-                                {"id": 1, title: "Lịch sử Trung Quốc", url: "https://omegakid1902.github.io/Zet/Lịch sử Trung Quốc", collapsed: true, childLinks: []},                         
+                                {"id": 1, title: "Lịch sử Trung Quốc", url: "https://omegakid1902.github.io/Zet/Lịch sử Trung Quốc", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 2, title: "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", url: "https://omegakid1902.github.io/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", collapsed: true, childLinks: []},                         
+                                {"id": 2, title: "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", url: "https://omegakid1902.github.io/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 3, title: "Nhà Chu", url: "https://omegakid1902.github.io/Zet/Nhà Chu", collapsed: true, childLinks: []},                         
+                                {"id": 3, title: "Nhà Chu", url: "https://omegakid1902.github.io/Zet/Nhà Chu", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 4, title: "Tần Thủy Hoàng", url: "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng", collapsed: true, childLinks: []},                         
+                                {"id": 4, title: "Tần Thủy Hoàng", url: "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng", collapsed: true, childLinks: [], group: 1},                         
                               
                             
-                            {"id": 0, title: "Nhà Tần", url: "https://omegakid1902.github.io/Zet/Nhà Tần", collapsed: false, childLinks: []}
+                                  
+                              
+                                
+                                {"id": 5, title: "Tần Thủy Hoàng", url: "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 6, title: "Nhà Chu", url: "https://omegakid1902.github.io/Zet/Nhà Chu", collapsed: true, childLinks: [], group: 2},                         
+                              
+                            
+                            {"id": 0, title: "Nhà Tần", url: "https://omegakid1902.github.io/Zet/Nhà Tần", collapsed: false, childLinks: [], group: 0}
                             ],
                           links: [
                                                 
                               
-                                { source: 0, target: 1, curvature: 0.5 },                       
+                                { source: 1, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 2, curvature: 0.5 },                       
+                                { source: 2, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 3, curvature: 0.5 },                       
+                                { source: 3, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 4, curvature: 0.5 },                       
+                                { source: 4, target: 0, curvature: 0.5 },                       
                               
                             
-                            { source: 1, target: 0, curvature: 0.5 }
+                                                
+                              
+                                { source: 0, target: 5, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 6, curvature: 0.5 },                       
+                              
+                            
+                            { source: 0, target: 1, curvature: 0.5 }
                           ]
                         };
                         // link parent/children
@@ -754,7 +770,8 @@
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
                           .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>

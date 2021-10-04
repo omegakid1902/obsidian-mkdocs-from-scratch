@@ -771,18 +771,39 @@
                                   
                               
                                 
-                                {"id": 1, title: "Religion", url: "https://omegakid1902.github.io/Zet/Religion", collapsed: true, childLinks: []},                         
+                                {"id": 1, title: "Religion", url: "https://omegakid1902.github.io/Zet/Religion", collapsed: true, childLinks: [], group: 1},                         
                               
                             
-                            {"id": 0, title: "Công Giáo", url: "https://omegakid1902.github.io/Zet/Công Giáo", collapsed: false, childLinks: []}
+                                  
+                              
+                                
+                                {"id": 2, title: "Cựu Ước", url: "https://omegakid1902.github.io/Zet/Cựu Ước", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 3, title: "Thánh Phaolo", url: "https://omegakid1902.github.io/Zet/People/Thánh Phaolo", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 4, title: "Đức Jesus", url: "https://omegakid1902.github.io/Zet/People/Đức Jesus", collapsed: true, childLinks: [], group: 2},                         
+                              
+                            
+                            {"id": 0, title: "Công Giáo", url: "https://omegakid1902.github.io/Zet/Công Giáo", collapsed: false, childLinks: [], group: 0}
                             ],
                           links: [
                                                 
                               
-                                { source: 0, target: 1, curvature: 0.5 },                       
+                                { source: 1, target: 0, curvature: 0.5 },                       
                               
                             
-                            { source: 1, target: 0, curvature: 0.5 }
+                                                
+                              
+                                { source: 0, target: 2, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 3, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 4, curvature: 0.5 },                       
+                              
+                            
+                            { source: 0, target: 1, curvature: 0.5 }
                           ]
                         };
                         // link parent/children
@@ -823,7 +844,8 @@
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
                           .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>

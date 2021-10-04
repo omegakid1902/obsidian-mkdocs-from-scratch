@@ -685,11 +685,13 @@
                         const gData = {
                           nodes: [
                             
-                            {"id": 0, title: "Vua David", url: "https://omegakid1902.github.io/Zet/Vua David", collapsed: false, childLinks: []}
+                            
+                            {"id": 0, title: "Vua David", url: "https://omegakid1902.github.io/Zet/Vua David", collapsed: false, childLinks: [], group: 0}
                             ],
                           links: [
                             
-                            { source: 1, target: 0, curvature: 0.5 }
+                            
+                            { source: 0, target: 1, curvature: 0.5 }
                           ]
                         };
                         // link parent/children
@@ -730,7 +732,8 @@
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
                           .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>

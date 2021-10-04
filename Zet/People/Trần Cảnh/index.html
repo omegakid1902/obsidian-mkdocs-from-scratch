@@ -687,38 +687,54 @@
                                   
                               
                                 
-                                {"id": 1, title: "Nhà Trần", url: "https://omegakid1902.github.io/Zet/Nhà Trần", collapsed: true, childLinks: []},                         
+                                {"id": 1, title: "Nhà Trần", url: "https://omegakid1902.github.io/Zet/Nhà Trần", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 2, title: "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng", url: "https://omegakid1902.github.io/Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng", collapsed: true, childLinks: []},                         
+                                {"id": 2, title: "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng", url: "https://omegakid1902.github.io/Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 3, title: "Thuận Thiên công chúa", url: "https://omegakid1902.github.io/Zet/People/Thuận Thiên công chúa", collapsed: true, childLinks: []},                         
+                                {"id": 3, title: "Thuận Thiên công chúa", url: "https://omegakid1902.github.io/Zet/People/Thuận Thiên công chúa", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 4, title: "Trần Liễu", url: "https://omegakid1902.github.io/Zet/People/Trần Liễu", collapsed: true, childLinks: []},                         
+                                {"id": 4, title: "Trần Liễu", url: "https://omegakid1902.github.io/Zet/People/Trần Liễu", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 5, title: "Lý Chiêu Hoàng", url: "https://omegakid1902.github.io/Zet/People/Lý Chiêu Hoàng", collapsed: true, childLinks: []},                         
+                                {"id": 5, title: "Lý Chiêu Hoàng", url: "https://omegakid1902.github.io/Zet/People/Lý Chiêu Hoàng", collapsed: true, childLinks: [], group: 1},                         
                               
                             
-                            {"id": 0, title: "Trần Cảnh", url: "https://omegakid1902.github.io/Zet/Trần Cảnh", collapsed: false, childLinks: []}
+                                  
+                              
+                                
+                                {"id": 6, title: "Nhà Trần", url: "https://omegakid1902.github.io/Zet/Nhà Trần", collapsed: true, childLinks: [], group: 2},                         
+                              
+                                
+                                {"id": 7, title: "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng", url: "https://omegakid1902.github.io/Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng", collapsed: true, childLinks: [], group: 2},                         
+                              
+                            
+                            {"id": 0, title: "Trần Cảnh", url: "https://omegakid1902.github.io/Zet/Trần Cảnh", collapsed: false, childLinks: [], group: 0}
                             ],
                           links: [
                                                 
                               
-                                { source: 0, target: 1, curvature: 0.5 },                       
+                                { source: 1, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 2, curvature: 0.5 },                       
+                                { source: 2, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 3, curvature: 0.5 },                       
+                                { source: 3, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 4, curvature: 0.5 },                       
+                                { source: 4, target: 0, curvature: 0.5 },                       
                               
-                                { source: 0, target: 5, curvature: 0.5 },                       
+                                { source: 5, target: 0, curvature: 0.5 },                       
                               
                             
-                            { source: 1, target: 0, curvature: 0.5 }
+                                                
+                              
+                                { source: 0, target: 6, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 7, curvature: 0.5 },                       
+                              
+                            
+                            { source: 0, target: 1, curvature: 0.5 }
                           ]
                         };
                         // link parent/children
@@ -759,7 +775,8 @@
                           .linkDirectionalParticles(1)
                           .linkDirectionalParticleWidth(2.5)
                           .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
                       </script>
                     </div>
                   </div>
