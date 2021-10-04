@@ -30,7 +30,6 @@ nav:
           - Nhà Thanh: Zet/Nhà Thanh.md
   - Programming: Zet/Programming.md
   - Zettelkasten: Zet/Zettelkasten.md
-  - Site graph: mdgraph.md
 
 theme:
     name: material
