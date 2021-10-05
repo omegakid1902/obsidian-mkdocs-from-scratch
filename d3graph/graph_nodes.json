@@ -14,522 +14,534 @@
         },
         {
             "id": 2,
+            "title": "Các kênh thông tin trái chiều",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Các kênh thông tin trái chiều"
+        },
+        {
+            "id": 3,
             "title": "Thời Lê trung hưng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Thời Lê trung hưng"
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Mấy thứ nhảm nhí mắc cười",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Mấy thứ nhảm nhí mắc cười"
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Tóm tắt sách Sáng Thế",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Tóm tắt sách Sáng Thế"
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "Bắc Tống",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bắc Tống"
         },
         {
-            "id": 6,
+            "id": 7,
             "title": "Anders Ericsson",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Anders Ericsson"
         },
         {
-            "id": 7,
+            "id": 8,
             "title": "Năm sự thương",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Năm sự thương"
         },
         {
-            "id": 8,
+            "id": 9,
             "title": "Đàng Ngoài",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Đàng Ngoài"
         },
         {
-            "id": 9,
+            "id": 10,
             "title": "Zettelkasten",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Zettelkasten"
         },
         {
-            "id": 10,
+            "id": 11,
             "title": "Toán học",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Toán học"
         },
         {
-            "id": 11,
+            "id": 12,
             "title": "Lịch sử Trung Quốc",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch sử Trung Quốc"
         },
         {
-            "id": 12,
+            "id": 13,
             "title": "Language",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Language"
         },
         {
-            "id": 13,
+            "id": 14,
             "title": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ"
         },
         {
-            "id": 14,
+            "id": 15,
             "title": "Nhà Tần",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Tần"
         },
         {
-            "id": 15,
+            "id": 16,
             "title": "COVID 19",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/COVID 19"
         },
         {
-            "id": 16,
+            "id": 17,
             "title": "Sưu tầm mem chế",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Sưu tầm mem chế"
         },
         {
-            "id": 17,
+            "id": 18,
             "title": "Các chế độ nhịn ăn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Các chế độ nhịn ăn"
         },
         {
-            "id": 18,
+            "id": 19,
             "title": "Đế quốc Việt Nam",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Đế quốc Việt Na"
         },
         {
-            "id": 19,
+            "id": 20,
             "title": "Nhà Trần",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Trần"
         },
         {
-            "id": 20,
+            "id": 21,
             "title": "Chúa Nguyễn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Chúa Nguyễn"
         },
         {
-            "id": 21,
+            "id": 22,
             "title": "Xích Thố",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Xích Thố"
         },
         {
-            "id": 22,
+            "id": 23,
             "title": "Âu Lạc",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Âu Lạc"
         },
         {
-            "id": 23,
+            "id": 24,
             "title": "Kinh mân côi",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Kinh mân côi"
         },
         {
-            "id": 24,
+            "id": 25,
             "title": "Nhà Thanh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Thanh"
         },
         {
-            "id": 25,
+            "id": 26,
             "title": "Flask lib",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Flask lib"
         },
         {
-            "id": 26,
+            "id": 27,
             "title": "Quốc hiệu VN qua các thời kỳ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Quốc hiệu VN qua các thời kỳ"
         },
         {
-            "id": 27,
+            "id": 28,
             "title": "Hồi Giáo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Hồi Giáo"
         },
         {
-            "id": 28,
+            "id": 29,
             "title": "Nhà Chu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Chu"
         },
         {
-            "id": 29,
+            "id": 30,
             "title": "Nhà Hậu Hán",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Hậu Hán"
         },
         {
-            "id": 30,
+            "id": 31,
             "title": "Phật Giáo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Phật Giáo"
         },
         {
-            "id": 31,
+            "id": 32,
             "title": "Backlink",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Backlink"
         },
         {
-            "id": 32,
+            "id": 33,
             "title": "Python standard library",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Python standard library"
         },
         {
-            "id": 33,
+            "id": 34,
             "title": "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít"
         },
         {
-            "id": 34,
+            "id": 35,
             "title": "Health",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Health"
         },
         {
-            "id": 35,
+            "id": 36,
             "title": "Bếp lò Franklin",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bếp lò Franklin"
         },
         {
-            "id": 36,
+            "id": 37,
             "title": "Thời Lê sơ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Thời Lê sơ"
         },
         {
-            "id": 37,
+            "id": 38,
             "title": "Lucifer",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lucifer"
         },
         {
-            "id": 38,
+            "id": 39,
             "title": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng"
         },
         {
-            "id": 39,
+            "id": 40,
             "title": "Programming",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Programming"
         },
         {
-            "id": 40,
+            "id": 41,
             "title": "Amino acid",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Amino aci"
         },
         {
-            "id": 41,
+            "id": 42,
             "title": "Barbell Reading Method",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Barbell Reading Metho"
         },
         {
-            "id": 42,
+            "id": 43,
             "title": "Nhà Hạ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Hạ"
         },
         {
-            "id": 43,
+            "id": 44,
             "title": "Bán đảo Scandinavie",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bán đảo Scandinavie"
         },
         {
-            "id": 44,
+            "id": 45,
             "title": "Ngô Đình Diệm",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Ngô Đình Diệ"
         },
         {
-            "id": 45,
+            "id": 46,
             "title": "An Dương Vương",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/An Dương Vương"
         },
         {
-            "id": 46,
+            "id": 47,
             "title": "Nhà Hậu Lê",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Hậu Lê"
         },
         {
-            "id": 47,
+            "id": 48,
             "title": "Carbohydrate",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Carbohydrate"
         },
         {
-            "id": 48,
+            "id": 49,
             "title": "D3js",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/D3js"
         },
         {
-            "id": 49,
+            "id": 50,
             "title": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần"
         },
         {
-            "id": 50,
+            "id": 51,
             "title": "QAnon map",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/QAnon map"
         },
         {
-            "id": 51,
+            "id": 52,
             "title": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1"
         },
         {
-            "id": 52,
+            "id": 53,
             "title": "index",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/index"
         },
         {
-            "id": 53,
+            "id": 54,
             "title": "Lịch sử",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch sử"
         },
         {
-            "id": 54,
+            "id": 55,
             "title": "Lịch Sử Việt Nam",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch Sử Việt Na"
         },
         {
-            "id": 55,
+            "id": 56,
             "title": "Cựu Ước",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Cựu Ước"
         },
         {
-            "id": 56,
+            "id": 57,
             "title": "Interests",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Interests"
         },
         {
-            "id": 57,
+            "id": 58,
             "title": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Đền thờ An Dương Vương ở ngoại thành Hà Nội"
         },
         {
-            "id": 58,
+            "id": 59,
             "title": "Nhà Nguyễn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Nguyễn"
         },
         {
-            "id": 59,
+            "id": 60,
             "title": "Công Giáo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Công Giáo"
         },
         {
-            "id": 60,
+            "id": 61,
             "title": "Github workflow",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Github workflow"
         },
         {
-            "id": 61,
+            "id": 62,
             "title": "Lịch Sử Do Thái",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch Sử Do Thái"
         },
         {
-            "id": 62,
+            "id": 63,
             "title": "Nhà Thương",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Thương"
         },
         {
-            "id": 63,
+            "id": 64,
             "title": "Phim hay",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Phim hay"
         },
         {
-            "id": 64,
+            "id": 65,
             "title": "Bảo Đại",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bảo Đại"
         },
         {
-            "id": 65,
+            "id": 66,
             "title": "Tin Lành",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Tin Lành"
         },
         {
-            "id": 66,
+            "id": 67,
             "title": "Nhà Nguyên-Mông",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Nguyên-Mông"
         },
         {
-            "id": 67,
+            "id": 68,
             "title": "Insulin",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Insulin"
         },
         {
-            "id": 68,
+            "id": 69,
+            "title": "The Epoch Times",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/The Epoch Times"
+        },
+        {
+            "id": 70,
             "title": "Religion",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Religion"
         },
         {
-            "id": 69,
+            "id": 71,
             "title": "Nhà Lý",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Lý"
         },
         {
-            "id": 70,
+            "id": 72,
             "title": "Chúa Trịnh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Chúa Trịnh"
         },
         {
-            "id": 71,
+            "id": 73,
             "title": "Vua David",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Vua Davi"
         },
         {
-            "id": 72,
+            "id": 74,
             "title": "Thuận Thiên công chúa",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Thuận Thiên công chúa"
         },
         {
-            "id": 73,
+            "id": 75,
             "title": "Đức Jesus",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đức Jesus"
         },
         {
-            "id": 74,
+            "id": 76,
             "title": "Đế Thuấn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đế Thuấn"
         },
         {
-            "id": 75,
+            "id": 77,
             "title": "Trần Quang Khải",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Quang Khải"
         },
         {
-            "id": 76,
+            "id": 78,
             "title": "Nguyễn Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Nguyễn Hoàng"
         },
         {
-            "id": 77,
+            "id": 79,
             "title": "Võ Tắc Thiên",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Võ Tắc Thiên"
         },
         {
-            "id": 78,
+            "id": 80,
             "title": "Hạ Vũ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Hạ Vũ"
         },
         {
-            "id": 79,
+            "id": 81,
             "title": "Đổng Trác",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đổng Trác"
         },
         {
-            "id": 80,
+            "id": 82,
             "title": "Trần Liễu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Liễu"
         },
         {
-            "id": 81,
+            "id": 83,
             "title": "Lã Bố",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Lã Bố"
         },
         {
-            "id": 82,
+            "id": 84,
             "title": "Tần Thủy Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng"
         },
         {
-            "id": 83,
+            "id": 85,
             "title": "Đế Nghiêu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đế Nghiêu"
         },
         {
-            "id": 84,
+            "id": 86,
             "title": "Trần Cảnh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Cảnh"
         },
         {
-            "id": 85,
+            "id": 87,
             "title": "Thánh Phaolo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Thánh Phaolo"
         },
         {
-            "id": 86,
+            "id": 88,
             "title": "Lý Chiêu Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Lý Chiêu Hoàng"
         },
         {
-            "id": 87,
+            "id": 89,
             "title": "Phục Hi",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Phục Hi"
         },
         {
-            "id": 88,
+            "id": 90,
             "title": "Trần Hưng Đạo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Hưng Đạo"
@@ -539,6 +551,11 @@
         {
             "source": "Chiến tranh trên Thiên Đàng",
             "target": "Lucifer",
+            "value": 1
+        },
+        {
+            "source": "Các kênh thông tin trái chiều",
+            "target": "The Epoch Times",
             "value": 1
         },
         {
