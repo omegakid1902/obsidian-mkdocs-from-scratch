@@ -10,7 +10,7 @@ aliases:
   - Mác-cô
 publish: True
 ---
-links: [[The Bible]]
+links: [[The bible]]
  # Mark
 
 [[Mark-01|Start Reading →]]

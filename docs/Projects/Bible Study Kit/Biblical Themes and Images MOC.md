@@ -1,4 +1,4 @@
-links: [[The Bible]]
+links: [[The bible]]
 # Biblical Themes and Images MOC
 This is a collection to track occurrences of Biblical themes and images.
 

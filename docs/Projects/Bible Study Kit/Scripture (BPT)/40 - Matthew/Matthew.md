@@ -10,7 +10,7 @@ aliases:
   - Mát-thêu
 publish: True
 ---
-links: [[The Bible]]
+links: [[The bible]]
 # Matthew
 
 [[Matt-01|Start Reading →]]

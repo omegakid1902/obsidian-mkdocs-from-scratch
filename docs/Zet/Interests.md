@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Religion
+  - Zet/Self Improvement
   - Zet/Language
   - Zet/Toán học
   - Zet/Lịch sử

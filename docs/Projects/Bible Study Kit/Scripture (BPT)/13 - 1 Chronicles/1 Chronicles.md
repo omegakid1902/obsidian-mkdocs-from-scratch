@@ -1,4 +1,4 @@
-links: [[The Bible]]
+links: [[The bible]]
 # 1 Chronicles
 
 [[1 Chron-01|Start Reading →]]

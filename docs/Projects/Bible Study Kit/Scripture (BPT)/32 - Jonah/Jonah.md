@@ -1,4 +1,4 @@
-links: [[The Bible]]
+links: [[The bible]]
 # Jonah
 
 [[Jonah-01|Start Reading →]]

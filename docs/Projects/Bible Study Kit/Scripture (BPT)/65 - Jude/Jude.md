@@ -1,4 +1,4 @@
-links: [[The Bible]]
+links: [[The bible]]
 # Jude
 
 [[Jude-01|Start Reading →]]

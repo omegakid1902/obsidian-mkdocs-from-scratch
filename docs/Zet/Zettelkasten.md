@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Self Improvement
 title: Zettelkasten
 UID: 211001214142
 created: 01-Oct-2021
@@ -34,3 +36,6 @@ Tài liệu tham khảo:
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
 - [https://leananki.com/zettelkasten-method-smart-notes/](https://leananki.com/zettelkasten-method-smart-notes/)
 
+
+## Backlinks:
+- [[Self Improvement]]

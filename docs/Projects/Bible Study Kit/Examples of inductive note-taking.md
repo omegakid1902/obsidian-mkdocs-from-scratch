@@ -17,7 +17,7 @@ This reminds me of the note I have on [[Split Thinking]] and how not only some t
 In a similar way, whole chapters can speak to us and warrant a new note. Upon reading [[Gen-01]], we see that there is so much to draw out. In the newly created note [[Creation account]], we consolidate our thoughts and prepare the ground for an evergreen note that can continue to grow with us as our insights grow.
 
 ## Book
-Each book of [[The Bible]] has it's own note. While reading though a book we can use it to write down the themes of the book or sketch an outline. See [[John]] for an example.
+Each book of [[The bible]] has it's own note. While reading though a book we can use it to write down the themes of the book or sketch an outline. See [[John]] for an example.
 
 ## Scripture
 The Bible is one unified ([[Luke-24#v27]]) , God-breathed ([[2 Tim-03#v16]]) story pointing towards Jesus. In a note like [[God's unified story]] we can keep track of the meta-narrative and view whatever we are reading in God's grand story.

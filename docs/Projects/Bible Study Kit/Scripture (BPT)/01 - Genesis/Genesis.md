@@ -1,7 +1,7 @@
 ---
 aliases: ["Sáng Thế"]
 ---
-links: [[The Bible]]
+links: [[The bible]]
 # Genesis
 
 [[Gen-01|Start Reading →]]

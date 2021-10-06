@@ -1,7 +1,7 @@
 ---
 aliases: ["Sách Khải Huyền"]
 ---
-links: [[The Bible]]
+links: [[The bible]]
 # Revelation
 
 [[Rev-01|Start Reading →]]

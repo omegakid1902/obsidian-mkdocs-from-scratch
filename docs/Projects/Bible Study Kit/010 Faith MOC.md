@@ -5,7 +5,7 @@ links: [[000 Home|Home]]
 # Faith MOC
 ## Scripture
 ![[Ps-01#v2]]
-* [[The Bible]]
+* [[The bible]]
 * [[God's unified story]]
 * [[Biblical Themes and Images MOC]]
 * [[Tower of Babel]]

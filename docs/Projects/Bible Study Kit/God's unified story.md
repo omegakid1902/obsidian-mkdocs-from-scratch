@@ -1,4 +1,4 @@
-links: [[The Bible]]
+links: [[The bible]]
 # God's unified story
 An example for an overview note for the whole Bible. This would link to a lot of different Biblical events and concepts. It is way of keeping the meta-narrative in mind.
 

@@ -14,11 +14,11 @@ Get familiar with navigating the Bible in Obsidian. Follow the link and start in
 
 
 ## Step 3: Get familiar with the Bible in Obsidian
-[[The Bible]] accompanying this kit is structured in three layers of emergence:
+[[The bible]] accompanying this kit is structured in three layers of emergence:
 
 1. **Chapter**: Each chapter is one file. Example: [[John-03]]
 2. **Book**: Each book is both a folder and a note. Example: [[John]]. Use the book notes for an overview and commentary on the book
-3. **Scripture**: All books are in one overview note: [[The Bible]]. From here you can jump into different books.
+3. **Scripture**: All books are in one overview note: [[The bible]]. From here you can jump into different books.
 
 Using Obsidian's linking features, we can effortlessly jump between different layers of structure.
 

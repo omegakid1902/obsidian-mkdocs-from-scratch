@@ -74,6 +74,8 @@ Tuy vậy, Chúa phạt vua bị bệnh vì chuyện của Sarah, vua biết đ�
 
 [[📝21-10-04]] Tới đoạn này
 
+Chúa từng nói với [[Abraham]] rằng con cháu ông sẽ phải đi qua xứ khác làm nô lệ 400 năm, nhưng Chúa sẽ phạt xứ đó. Ý chỉ thời kỳ xuất hành [[Gen-15#v13]]
+
 ## Ideas & thoughts:
 
 ## Questions:
