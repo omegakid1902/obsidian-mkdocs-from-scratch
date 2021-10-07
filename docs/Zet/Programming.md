@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Markdown Language
 title: Programming
 tags:
   - 'created/2021/Jul/17'

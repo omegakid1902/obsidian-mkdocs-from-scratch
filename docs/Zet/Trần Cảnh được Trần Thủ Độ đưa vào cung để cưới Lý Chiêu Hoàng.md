@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Trần Cảnh
+  - Zet/People/Trần Thủ Độ
   - Zet/People/Lý Chiêu Hoàng
 backlinks:
   - Zet/People/Trần Cảnh

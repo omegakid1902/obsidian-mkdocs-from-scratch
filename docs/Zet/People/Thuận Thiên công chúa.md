@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Trần Cảnh
+  - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Liễu
   - Zet/People/Trần Quang Khải
 backlinks:

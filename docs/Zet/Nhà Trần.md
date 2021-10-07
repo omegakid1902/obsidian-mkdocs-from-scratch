@@ -2,12 +2,14 @@
 outgoing_links:
   - Zet/Nhà Lý
   - Zet/People/Trần Cảnh
+  - Zet/People/Trần Thủ Độ
   - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Trần Hưng Đạo
   - Zet/People/Trần Quang Khải
 backlinks:
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/Lịch Sử Việt Nam
+  - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Liễu
   - Zet/People/Trần Hưng Đạo
   - Zet/People/Trần Cảnh
@@ -16,8 +18,6 @@ tags:
   - '#created/2021/Jul/09'
   - '#garden🏡'
   - '#permanent/place'
-aliases:
-  - Nhà Trần
 publish: True
 ---
 # Nhà Trần
@@ -73,16 +73,11 @@ Các trận đánh lớn:
 - [[Trận Bạch Đằng]]
 
 
-## Tham khảo:
-```dataview
-list
-from [[🏡 Nhà Trần]]
-sort file.name asc
-```
 
 ## Backlinks:
 - [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]
 - [[Lịch Sử Việt Nam]]
+- [[Trần Thủ Độ]]
 - [[Trần Liễu]]
 - [[Trần Hưng Đạo]]
 - [[Trần Cảnh]]

@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Trần Cảnh
   - Zet/Nhà Trần
   - Zet/People/Thuận Thiên công chúa
+  - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Hưng Đạo
   - Zet/People/Trần Liễu
 backlinks:

@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 backlinks:
   - Zet/Cựu Ước
 title: Tóm tắt sách Sáng Thế
@@ -75,6 +77,12 @@ Tuy vậy, Chúa phạt vua bị bệnh vì chuyện của Sarah, vua biết đ�
 [[📝21-10-04]] Tới đoạn này
 
 Chúa từng nói với [[Abraham]] rằng con cháu ông sẽ phải đi qua xứ khác làm nô lệ 400 năm, nhưng Chúa sẽ phạt xứ đó. Ý chỉ thời kỳ xuất hành [[Gen-15#v13]]
+
+[[Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac]]
+
+Cuộc đối thoại với Chúa và Abraham về thành Sodom và thành Gomora [[Gen-18#v20]]
+
+Ông [[Lot]] được Chúa báo dắt gia đình ra khỏi thành Sodom để tránh nạn hủy diệt
 
 ## Ideas & thoughts:
 

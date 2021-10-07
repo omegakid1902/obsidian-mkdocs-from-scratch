@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Tần Thủy Hoàng
   - Zet/Nhà Chu
+  - Zet/Nam Việt
 backlinks:
   - Zet/Nhà Chu
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ

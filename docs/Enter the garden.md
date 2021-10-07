@@ -12,7 +12,6 @@ publish: True
 Chào mừng bạn đã đến với khu vườn ghi chú.
 
 ## Nghiên cứu
-[[❕ Topics to research]]
 
 ### Lịch sử
 - [[Lịch Sử Việt Nam]]
@@ -27,7 +26,8 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 - [[Health]]
 
 ### Personal
-- [[Self Improvement]]
+- [[Self Improvement|Phát triển bản thân]]
+- [[❕ Topics to research]]
 
 ## Công cụ:
 - [[No file]]

@@ -21,7 +21,6 @@ Ngô Đình Diệm là một chính trị gia [[Việt Nam Cộng Hòa]]. Ông t
 
 ## Questions & thoughts:
 
-## Related:
 
 ## Backlinks:
 - [[Lịch Sử Việt Nam]]

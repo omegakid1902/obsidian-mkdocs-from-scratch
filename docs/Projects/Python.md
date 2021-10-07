@@ -10,23 +10,23 @@ publish: True
 
 ## Classic Approach
 ### Basic python
-https://www.youtube.com/watch?v=p15xzjzR9j0, 
-https://www.youtube.com/watch?v=d5BzuLlII_Y
+[source 1](https://www.youtube.com/watch?v=p15xzjzR9j0) 
+[source 2](https://www.youtube.com/watch?v=d5BzuLlII_Y)
 
-[[Python - Variables]]
-[[Python - Conditions]]
-[[Python - Chained conditionals]]
-[[Python - Operators]]
-[[Python - Control Flow]]
-[[Python - Loops and interables]]
-[[Python - Basic Data Structure]]
-- [[Python - Lists]]
-- [[Python - Sets]]
-- [[Python - Dictionary]]
-[[Python - Function]]
-[[Python - Mutable and Imutable Data type]]
-[[Python - Common Method]]
-[[Python - File IO]]
+- [[Python - Variables]]
+- [[Python - Conditions]]
+- [[Python - Chained conditionals]]
+- [[Python - Operators]]
+- [[Python - Control Flow]]
+- [[Python - Loops and interables]]
+- [[Python - Basic Data Structure]]
+	- [[Python - Lists]]
+	- [[Python - Sets]]
+	- [[Python - Dictionary]]
+- [[Python - Function]]
+- [[Python - Mutable and Imutable Data type]]
+- [[Python - Common Method]]
+- [[Python - File IO]]
 
 ### Intermediate python
 [[Python - Object Oriented Programming]]

@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Cải Cách Kháng Nghị
+  - Zet/People/Martin Luther
 backlinks:
   - Zet/Religion
 title: Tin Lành

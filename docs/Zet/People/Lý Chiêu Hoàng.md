@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Nhà Lý
+  - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Cảnh
 backlinks:
   - Zet/Lịch Sử Việt Nam

@@ -6,6 +6,7 @@ backlinks:
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Lịch Sử Việt Nam
+  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
 title: ~Âu Lạc
 UID: P-210724-0921
 tags:
@@ -29,3 +30,4 @@ publish: True
 - [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
 - [[Quốc hiệu VN qua các thời kỳ]]
 - [[Lịch Sử Việt Nam]]
+- [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]
