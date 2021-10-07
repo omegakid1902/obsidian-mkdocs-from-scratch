@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Kinh mân côi
   - Zet/Cựu Ước
+  - Zet/Kinh mân côi
   - Zet/Công Giáo
   - Zet/People/Thánh Phaolo
 title: Đức Jesus
@@ -34,7 +34,7 @@ publish: True
 
 
 ## Backlinks:
-- [[Kinh mân côi]]
 - [[Cựu Ước]]
+- [[Kinh mân côi]]
 - [[Công Giáo]]
 - [[Thánh Phaolo]]

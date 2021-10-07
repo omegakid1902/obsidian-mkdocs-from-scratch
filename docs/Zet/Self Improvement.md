@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Zettelkasten
 backlinks:
-  - Zet/Interests
   - Zet/Rat race
+  - Zet/Interests
 title: Self Improvement
 tags:
   - 'created/2021/Aug/10'
@@ -37,5 +37,5 @@ publish: True
 https://clb100.com/
 ## Questions:
 ## Backlinks:
-- [[Interests]]
 - [[Rat race]]
+- [[Interests]]

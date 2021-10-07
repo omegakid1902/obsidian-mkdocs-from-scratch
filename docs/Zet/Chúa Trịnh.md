@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Đàng Ngoài
   - Zet/Thời Lê trung hưng
 backlinks:
-  - Zet/Thời Lê trung hưng
   - Zet/Đàng Ngoài
+  - Zet/Thời Lê trung hưng
   - Zet/Chúa Nguyễn
 title: Chúa Trịnh
 UID: P-210712-2120
@@ -32,6 +32,6 @@ Dòng dõi chúa Trịnh khởi đi từ [[Trịnh Kiểm]]
 
 
 ## Backlinks:
-- [[Thời Lê trung hưng]]
 - [[Đàng Ngoài]]
+- [[Thời Lê trung hưng]]
 - [[Chúa Nguyễn]]

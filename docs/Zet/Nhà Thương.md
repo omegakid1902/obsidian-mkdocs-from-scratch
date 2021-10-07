@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Nhà Chu
+  - Zet/Lịch sử Trung Quốc
 title: Nhà Thương
 UID: 210828094012
 tags:
@@ -28,5 +28,5 @@ Thành Thang là vua thành lập nhà Thương. Vua cuối cùng của nhà th�
 ## Tham khảo:
 
 ## Backlinks:
-- [[Lịch sử Trung Quốc]]
 - [[Nhà Chu]]
+- [[Lịch sử Trung Quốc]]

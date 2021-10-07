@@ -16,8 +16,8 @@ outgoing_links:
   - Zet/Ngô Đình Diệm
   - Zet/Quốc hiệu VN qua các thời kỳ
 backlinks:
-  - Zet/index
   - Zet/Lịch sử
+  - Zet/index
 title: Lịch Sử Việt Nam
 UID: 
 created: 
@@ -97,5 +97,5 @@ publish: True
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
 
 ## Backlinks:
-- [[index]]
 - [[Lịch sử]]
+- [[index]]

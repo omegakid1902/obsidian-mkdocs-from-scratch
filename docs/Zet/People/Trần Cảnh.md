@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Nhà Trần
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
 backlinks:
-  - Zet/Nhà Trần
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
+  - Zet/Nhà Trần
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Trần Liễu
   - Zet/People/Lý Chiêu Hoàng
@@ -39,8 +39,8 @@ from [[Trần Cảnh]]
 sort file.name asc
 ```
 ## Backlinks:
-- [[Nhà Trần]]
 - [[Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng]]
+- [[Nhà Trần]]
 - [[Thuận Thiên công chúa]]
 - [[Trần Liễu]]
 - [[Lý Chiêu Hoàng]]

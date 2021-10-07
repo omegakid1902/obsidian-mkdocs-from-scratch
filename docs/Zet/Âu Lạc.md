@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/An Dương Vương
 backlinks:
+  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Quốc hiệu VN qua các thời kỳ
-  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
   - Zet/Lịch Sử Việt Nam
 title: ~Âu Lạc
 UID: P-210724-0921
@@ -25,7 +25,7 @@ publish: True
 - [[An Dương Vương]]
 
 ## Backlinks:
+- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
 - [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
 - [[Quốc hiệu VN qua các thời kỳ]]
-- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
 - [[Lịch Sử Việt Nam]]

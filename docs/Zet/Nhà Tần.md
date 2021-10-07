@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/People/Tần Thủy Hoàng
   - Zet/Nhà Chu
 backlinks:
-  - Zet/Lịch sử Trung Quốc
-  - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Nhà Chu
+  - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
+  - Zet/Lịch sử Trung Quốc
   - Zet/People/Tần Thủy Hoàng
 title: Nhà Tần
 UID: 210828103407
@@ -33,7 +33,7 @@ Tiền thân là [[Nhà Chu]], kế tục là [[Nhà Hán]], [[Nam Việt]] và 
 ## Related:
 
 ## Backlinks:
-- [[Lịch sử Trung Quốc]]
-- [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
 - [[Nhà Chu]]
+- [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
+- [[Lịch sử Trung Quốc]]
 - [[Tần Thủy Hoàng]]

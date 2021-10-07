@@ -7,8 +7,8 @@ outgoing_links:
   - Zet/Nhà Nguyễn
   - Zet/Chúa Nguyễn
 backlinks:
-  - Zet/Chúa Nguyễn
   - Zet/Nhà Nguyễn
+  - Zet/Chúa Nguyễn
   - Zet/People/Nguyễn Hoàng
 title: Chúa Nguyễn
 UID: 2107140826
@@ -44,6 +44,6 @@ list
 from [[Chúa Nguyễn]]
 ```
 ## Backlinks:
-- [[Chúa Nguyễn]]
 - [[Nhà Nguyễn]]
+- [[Chúa Nguyễn]]
 - [[Nguyễn Hoàng]]

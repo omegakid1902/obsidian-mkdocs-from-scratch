@@ -1,8 +1,8 @@
 ---
 backlinks:
+  - Zet/Lịch Sử Việt Nam
   - Zet/Thời Lê trung hưng
   - Zet/Nhà Hậu Lê
-  - Zet/Lịch Sử Việt Nam
 title: Thời Lê sơ
 UID: 210908203418
 tags:
@@ -30,6 +30,6 @@ from [[Thời Lê sơ]]
 sort file.name asc
 ```
 ## Backlinks:
+- [[Lịch Sử Việt Nam]]
 - [[Thời Lê trung hưng]]
 - [[Nhà Hậu Lê]]
-- [[Lịch Sử Việt Nam]]

@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/Tóm tắt sách Sáng Thế
 backlinks:
-  - Zet/Lucifer
   - Zet/Công Giáo
+  - Zet/Lucifer
 title: Cựu Ước
 UID: 2107311703
 created: 22-Sep-2021
@@ -26,5 +26,5 @@ publish: True
 
 
 ## Backlinks:
-- [[Lucifer]]
 - [[Công Giáo]]
+- [[Lucifer]]

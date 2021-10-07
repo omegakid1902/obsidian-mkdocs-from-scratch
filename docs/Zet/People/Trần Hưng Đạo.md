@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nhà Trần
 backlinks:
-  - Zet/Nhà Trần
   - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Trần
   - Zet/People/Trần Quang Khải
   - Zet/People/Trần Liễu
 title: Trần Hưng Đạo
@@ -46,7 +46,7 @@ from [[Trần Hưng Đạo]]
 sort file.name asc
 ```
 ## Backlinks:
-- [[Nhà Trần]]
 - [[Lịch Sử Việt Nam]]
+- [[Nhà Trần]]
 - [[Trần Quang Khải]]
 - [[Trần Liễu]]

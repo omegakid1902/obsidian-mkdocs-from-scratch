@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/Lịch sử Trung Quốc
 title: Nhà Nguyên - Mông
 UID: 210817212126
 tags:
@@ -38,5 +38,5 @@ sort file.name asc
 ```
 
 ## Backlinks:
-- [[Lịch sử Trung Quốc]]
 - [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]
+- [[Lịch sử Trung Quốc]]

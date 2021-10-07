@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/Âu Lạc
-  - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
+  - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Lịch Sử Việt Nam
+  - Zet/Âu Lạc
   - Zet/Đền thờ An Dương Vương ở ngoại thành Hà Nội
 title: An Dương Vương
 UID: 2107240810
@@ -27,8 +27,8 @@ An Dương Vương tên thật là [[Thục Phán]]. [[Thục Phán đánh bại
 ## Related:
 
 ## Backlinks:
-- [[Âu Lạc]]
-- [[Quốc hiệu VN qua các thời kỳ]]
 - [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
+- [[Quốc hiệu VN qua các thời kỳ]]
 - [[Lịch Sử Việt Nam]]
+- [[Âu Lạc]]
 - [[Đền thờ An Dương Vương ở ngoại thành Hà Nội]]

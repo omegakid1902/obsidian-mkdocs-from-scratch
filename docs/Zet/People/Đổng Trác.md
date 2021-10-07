@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nhà Hậu Hán
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Xích Thố
+  - Zet/Lịch sử Trung Quốc
   - Zet/People/Lã Bố
 title: Đổng Trác
 UID: 210828112625
@@ -36,6 +36,6 @@ from [[Đổng Trác]]
 sort file.name asc
 ```
 ## Backlinks:
-- [[Lịch sử Trung Quốc]]
 - [[Xích Thố]]
+- [[Lịch sử Trung Quốc]]
 - [[Lã Bố]]
