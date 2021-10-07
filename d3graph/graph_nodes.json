@@ -62,507 +62,639 @@
         },
         {
             "id": 10,
+            "title": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN"
+        },
+        {
+            "id": 11,
+            "title": "SM-Algorithm",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/SM-Algorith"
+        },
+        {
+            "id": 12,
             "title": "Python standard library",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Python standard library"
         },
         {
-            "id": 11,
+            "id": 13,
             "title": "D3js",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/D3js"
         },
         {
-            "id": 12,
+            "id": 14,
             "title": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần"
         },
         {
-            "id": 13,
+            "id": 15,
             "title": "Cựu Ước",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Cựu Ước"
         },
         {
-            "id": 14,
+            "id": 16,
             "title": "Rat race",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Rat race"
         },
         {
-            "id": 15,
+            "id": 17,
             "title": "COVID 19",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/COVID 19"
         },
         {
-            "id": 16,
+            "id": 18,
             "title": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1"
         },
         {
-            "id": 17,
+            "id": 19,
             "title": "Nhà Tần",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Tần"
         },
         {
-            "id": 18,
+            "id": 20,
+            "title": "Phương pháp Pomodoro",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Phương pháp Pomodoro"
+        },
+        {
+            "id": 21,
             "title": "An Dương Vương",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/An Dương Vương"
         },
         {
-            "id": 19,
+            "id": 22,
             "title": "Github workflow",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Github workflow"
         },
         {
-            "id": 20,
+            "id": 23,
             "title": "Nhà Thanh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Thanh"
         },
         {
-            "id": 21,
+            "id": 24,
             "title": "Năm sự thương",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Năm sự thương"
         },
         {
-            "id": 22,
+            "id": 25,
             "title": "Nhà Hạ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Hạ"
         },
         {
-            "id": 23,
+            "id": 26,
             "title": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ"
         },
         {
-            "id": 24,
+            "id": 27,
+            "title": "Torah",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Torah"
+        },
+        {
+            "id": 28,
+            "title": "Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac"
+        },
+        {
+            "id": 29,
+            "title": "Nhà Ngô",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Nhà Ngô"
+        },
+        {
+            "id": 30,
             "title": "Amino acid",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Amino aci"
         },
         {
-            "id": 25,
+            "id": 31,
             "title": "Lịch sử",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch sử"
         },
         {
-            "id": 26,
+            "id": 32,
             "title": "Zettelkasten",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Zettelkasten"
         },
         {
-            "id": 27,
+            "id": 33,
             "title": "Religion",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Religion"
         },
         {
-            "id": 28,
+            "id": 34,
             "title": "Bán đảo Scandinavie",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bán đảo Scandinavie"
         },
         {
-            "id": 29,
+            "id": 35,
             "title": "Nhà Nguyễn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Nguyễn"
         },
         {
-            "id": 30,
+            "id": 36,
             "title": "Kinh mân côi",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Kinh mân côi"
         },
         {
-            "id": 31,
+            "id": 37,
             "title": "Quốc hiệu VN qua các thời kỳ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Quốc hiệu VN qua các thời kỳ"
         },
         {
-            "id": 32,
+            "id": 38,
+            "title": "The Second Brain",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/The Second Brain"
+        },
+        {
+            "id": 39,
             "title": "Language",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Language"
         },
         {
-            "id": 33,
+            "id": 40,
             "title": "Đàng Ngoài",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Đàng Ngoài"
         },
         {
-            "id": 34,
+            "id": 41,
             "title": "Lịch Sử Do Thái",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch Sử Do Thái"
         },
         {
-            "id": 35,
+            "id": 42,
             "title": "Lịch Sử Việt Nam",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch Sử Việt Na"
         },
         {
-            "id": 36,
+            "id": 43,
+            "title": "Nam Việt",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Nam Việt"
+        },
+        {
+            "id": 44,
             "title": "Thời Lê sơ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Thời Lê sơ"
         },
         {
-            "id": 37,
+            "id": 45,
             "title": "Phật Giáo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Phật Giáo"
         },
         {
-            "id": 38,
+            "id": 46,
             "title": "Carbohydrate",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Carbohydrate"
         },
         {
-            "id": 39,
+            "id": 47,
             "title": "Toán học",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Toán học"
         },
         {
-            "id": 40,
+            "id": 48,
             "title": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng"
         },
         {
-            "id": 41,
+            "id": 49,
             "title": "Thời Lê trung hưng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Thời Lê trung hưng"
         },
         {
-            "id": 42,
+            "id": 50,
             "title": "Sưu tầm mem chế",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Sưu tầm mem chế"
         },
         {
-            "id": 43,
+            "id": 51,
             "title": "Barbell Reading Method",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Barbell Reading Metho"
         },
         {
-            "id": 44,
+            "id": 52,
             "title": "Chiến tranh trên Thiên Đàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Chiến tranh trên Thiên Đàng"
         },
         {
-            "id": 45,
+            "id": 53,
             "title": "index",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/index"
         },
         {
-            "id": 46,
+            "id": 54,
             "title": "Nhà Trần",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Trần"
         },
         {
-            "id": 47,
+            "id": 55,
             "title": "Self Improvement",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Self Improvement"
         },
         {
-            "id": 48,
+            "id": 56,
             "title": "Bếp lò Franklin",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bếp lò Franklin"
         },
         {
-            "id": 49,
+            "id": 57,
             "title": "Insulin",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Insulin"
         },
         {
-            "id": 50,
+            "id": 58,
             "title": "Công Giáo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Công Giáo"
         },
         {
-            "id": 51,
+            "id": 59,
             "title": "Nhà Nguyên-Mông",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Nguyên-Mông"
         },
         {
-            "id": 52,
+            "id": 60,
             "title": "Đế quốc Việt Nam",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Đế quốc Việt Na"
         },
         {
-            "id": 53,
+            "id": 61,
+            "title": "Spaced Repetition",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Spaced Repetition"
+        },
+        {
+            "id": 62,
             "title": "Ngô Đình Diệm",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Ngô Đình Diệ"
         },
         {
-            "id": 54,
+            "id": 63,
+            "title": "Kỹ thuật học tập Feymann",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Kỹ thuật học tập Feymann"
+        },
+        {
+            "id": 64,
             "title": "Các kênh thông tin trái chiều",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Các kênh thông tin trái chiều"
         },
         {
-            "id": 55,
+            "id": 65,
             "title": "Nhà Hậu Lê",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Hậu Lê"
         },
         {
-            "id": 56,
+            "id": 66,
             "title": "Phim hay",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Phim hay"
         },
         {
-            "id": 57,
+            "id": 67,
+            "title": "SuperMemo",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/SuperMemo"
+        },
+        {
+            "id": 68,
             "title": "Bảo Đại",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bảo Đại"
         },
         {
-            "id": 58,
+            "id": 69,
             "title": "Âu Lạc",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Âu Lạc"
         },
         {
-            "id": 59,
+            "id": 70,
             "title": "Xích Thố",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Xích Thố"
         },
         {
-            "id": 60,
+            "id": 71,
             "title": "Vườn không nhà trống",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Vườn không nhà trống"
         },
         {
-            "id": 61,
+            "id": 72,
+            "title": "Đường cong học tập",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Đường cong học tập"
+        },
+        {
+            "id": 73,
+            "title": "Markdown Language",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Markdown Language"
+        },
+        {
+            "id": 74,
+            "title": "Cải Cách Kháng Nghị",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Cải Cách Kháng Nghị"
+        },
+        {
+            "id": 75,
             "title": "Lịch sử Trung Quốc",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lịch sử Trung Quốc"
         },
         {
-            "id": 62,
+            "id": 76,
             "title": "Health",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Health"
         },
         {
-            "id": 63,
+            "id": 77,
             "title": "QAnon map",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/QAnon map"
         },
         {
-            "id": 64,
+            "id": 78,
             "title": "Lucifer",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Lucifer"
         },
         {
-            "id": 65,
+            "id": 79,
             "title": "Interests",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Interests"
         },
         {
-            "id": 66,
+            "id": 80,
             "title": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Đền thờ An Dương Vương ở ngoại thành Hà Nội"
         },
         {
-            "id": 67,
+            "id": 81,
             "title": "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít"
         },
         {
-            "id": 68,
+            "id": 82,
+            "title": "Incremental Reading",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Incremental Reading"
+        },
+        {
+            "id": 83,
             "title": "Tin Lành",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Tin Lành"
         },
         {
-            "id": 69,
+            "id": 84,
             "title": "Nhà Lý",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Nhà Lý"
         },
         {
-            "id": 70,
+            "id": 85,
             "title": "Bắc Tống",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Bắc Tống"
         },
         {
-            "id": 71,
+            "id": 86,
             "title": "Chúa Nguyễn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Chúa Nguyễn"
         },
         {
-            "id": 72,
+            "id": 87,
+            "title": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN"
+        },
+        {
+            "id": 88,
+            "title": "Spacing Effect",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Spacing Effect"
+        },
+        {
+            "id": 89,
             "title": "Các chế độ nhịn ăn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Các chế độ nhịn ăn"
         },
         {
-            "id": 73,
+            "id": 90,
             "title": "Chúa Trịnh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Chúa Trịnh"
         },
         {
-            "id": 74,
+            "id": 91,
             "title": "Anders Ericsson",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Anders Ericsson"
         },
         {
-            "id": 75,
+            "id": 92,
+            "title": "Trần Thủ Độ",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/People/Trần Thủ Độ"
+        },
+        {
+            "id": 93,
             "title": "Đức Jesus",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đức Jesus"
         },
         {
-            "id": 76,
+            "id": 94,
             "title": "Ismael",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Ismael"
         },
         {
-            "id": 77,
+            "id": 95,
             "title": "Trần Quang Khải",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Quang Khải"
         },
         {
-            "id": 78,
+            "id": 96,
             "title": "Tần Thủy Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng"
         },
         {
-            "id": 79,
+            "id": 97,
+            "title": "Martin Luther",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/People/Martin Luther"
+        },
+        {
+            "id": 98,
             "title": "Võ Tắc Thiên",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Võ Tắc Thiên"
         },
         {
-            "id": 80,
+            "id": 99,
+            "title": "Trần Trọng Kim",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/People/Trần Trọng Ki"
+        },
+        {
+            "id": 100,
+            "title": "Niklas Luhmann",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/People/Niklas Luhmann"
+        },
+        {
+            "id": 101,
             "title": "Đổng Trác",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đổng Trác"
         },
         {
-            "id": 81,
+            "id": 102,
             "title": "Phục Hi",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Phục Hi"
         },
         {
-            "id": 82,
+            "id": 103,
             "title": "Hạ Vũ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Hạ Vũ"
         },
         {
-            "id": 83,
+            "id": 104,
             "title": "Đế Nghiêu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đế Nghiêu"
         },
         {
-            "id": 84,
+            "id": 105,
             "title": "Thuận Thiên công chúa",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Thuận Thiên công chúa"
         },
         {
-            "id": 85,
+            "id": 106,
             "title": "Đế Thuấn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đế Thuấn"
         },
         {
-            "id": 86,
+            "id": 107,
             "title": "Nguyễn Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Nguyễn Hoàng"
         },
         {
-            "id": 87,
+            "id": 108,
             "title": "Trần Liễu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Liễu"
         },
         {
-            "id": 88,
+            "id": 109,
             "title": "Lã Bố",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Lã Bố"
         },
         {
-            "id": 89,
+            "id": 110,
             "title": "Thánh Phaolo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Thánh Phaolo"
         },
         {
-            "id": 90,
+            "id": 111,
             "title": "Trần Hưng Đạo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Hưng Đạo"
         },
         {
-            "id": 91,
+            "id": 112,
             "title": "Trần Cảnh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Cảnh"
         },
         {
-            "id": 92,
+            "id": 113,
             "title": "Lý Chiêu Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Lý Chiêu Hoàng"
         },
         {
-            "id": 93,
+            "id": 114,
             "title": "Vua David",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Vua Davi"
+        },
+        {
+            "id": 115,
+            "title": "❕ Topics to research",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/Thinking/❕ Topics to research"
         }
     ],
     "links": [
@@ -579,6 +711,41 @@
         {
             "source": "Mấy thứ nhảm nhí mắc cười",
             "target": "Sưu tầm mem chế",
+            "value": 1
+        },
+        {
+            "source": "Programming",
+            "target": "Markdown Language",
+            "value": 1
+        },
+        {
+            "source": "Tóm tắt sách Sáng Thế",
+            "target": "Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac",
+            "value": 1
+        },
+        {
+            "source": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "target": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "value": 1
+        },
+        {
+            "source": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "target": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "value": 1
+        },
+        {
+            "source": "SM-Algorithm",
+            "target": "Đường cong học tập",
+            "value": 1
+        },
+        {
+            "source": "SM-Algorithm",
+            "target": "Đường cong học tập",
+            "value": 1
+        },
+        {
+            "source": "SM-Algorithm",
+            "target": "Đường cong học tập",
             "value": 1
         },
         {
@@ -637,28 +804,48 @@
             "value": 1
         },
         {
-            "source": "Nhà Tần",
-            "target": "Nhà Chu",
+            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "target": "Nhà Nguyên-Mông",
             "value": 1
         },
         {
             "source": "Nhà Tần",
-            "target": "Nhà Chu",
+            "target": "Nam Việt",
+            "value": 1
+        },
+        {
+            "source": "Nhà Tần",
+            "target": "Nam Việt",
+            "value": 1
+        },
+        {
+            "source": "Nhà Tần",
+            "target": "Nam Việt",
             "value": 1
         },
         {
             "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "target": "Âu Lạc",
+            "target": "Nam Việt",
             "value": 1
         },
         {
             "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "target": "Âu Lạc",
+            "target": "Nam Việt",
             "value": 1
         },
         {
             "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "target": "Âu Lạc",
+            "target": "Nam Việt",
+            "value": 1
+        },
+        {
+            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "target": "Nam Việt",
+            "value": 1
+        },
+        {
+            "source": "Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac",
+            "target": "Ismael",
             "value": 1
         },
         {
@@ -674,6 +861,16 @@
         {
             "source": "Lịch sử",
             "target": "Lịch sử Trung Quốc",
+            "value": 1
+        },
+        {
+            "source": "Zettelkasten",
+            "target": "The Second Brain",
+            "value": 1
+        },
+        {
+            "source": "Zettelkasten",
+            "target": "The Second Brain",
             "value": 1
         },
         {
@@ -724,6 +921,11 @@
         {
             "source": "Quốc hiệu VN qua các thời kỳ",
             "target": "Âu Lạc",
+            "value": 1
+        },
+        {
+            "source": "The Second Brain",
+            "target": "Zettelkasten",
             "value": 1
         },
         {
@@ -733,77 +935,102 @@
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
             "value": 1
         },
         {
             "source": "Lịch Sử Việt Nam",
-            "target": "Quốc hiệu VN qua các thời kỳ",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "value": 1
+        },
+        {
+            "source": "Lịch Sử Việt Nam",
+            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "value": 1
+        },
+        {
+            "source": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "target": "Lý Chiêu Hoàng",
             "value": 1
         },
         {
@@ -872,28 +1099,58 @@
             "value": 1
         },
         {
+            "source": "Nhà Trần",
+            "target": "Trần Quang Khải",
+            "value": 1
+        },
+        {
             "source": "Self Improvement",
-            "target": "Zettelkasten",
+            "target": "Kỹ thuật học tập Feymann",
+            "value": 1
+        },
+        {
+            "source": "Self Improvement",
+            "target": "Kỹ thuật học tập Feymann",
+            "value": 1
+        },
+        {
+            "source": "Self Improvement",
+            "target": "Kỹ thuật học tập Feymann",
+            "value": 1
+        },
+        {
+            "source": "Self Improvement",
+            "target": "Kỹ thuật học tập Feymann",
             "value": 1
         },
         {
             "source": "Công Giáo",
-            "target": "Đức Jesus",
+            "target": "Thánh Phaolo",
             "value": 1
         },
         {
             "source": "Công Giáo",
-            "target": "Đức Jesus",
+            "target": "Thánh Phaolo",
             "value": 1
         },
         {
             "source": "Công Giáo",
-            "target": "Đức Jesus",
+            "target": "Thánh Phaolo",
             "value": 1
         },
         {
             "source": "Đế quốc Việt Nam",
             "target": "Bảo Đại",
+            "value": 1
+        },
+        {
+            "source": "Đế quốc Việt Nam",
+            "target": "Bảo Đại",
+            "value": 1
+        },
+        {
+            "source": "Spaced Repetition",
+            "target": "Spacing Effect",
             "value": 1
         },
         {
@@ -914,6 +1171,16 @@
         {
             "source": "Nhà Hậu Lê",
             "target": "Thời Lê trung hưng",
+            "value": 1
+        },
+        {
+            "source": "SuperMemo",
+            "target": "Incremental Reading",
+            "value": 1
+        },
+        {
+            "source": "SuperMemo",
+            "target": "Incremental Reading",
             "value": 1
         },
         {
@@ -939,6 +1206,21 @@
         {
             "source": "Xích Thố",
             "target": "Đổng Trác",
+            "value": 1
+        },
+        {
+            "source": "Đường cong học tập",
+            "target": "Spaced Repetition",
+            "value": 1
+        },
+        {
+            "source": "Cải Cách Kháng Nghị",
+            "target": "Công Giáo",
+            "value": 1
+        },
+        {
+            "source": "Cải Cách Kháng Nghị",
+            "target": "Công Giáo",
             "value": 1
         },
         {
@@ -1062,8 +1344,28 @@
             "value": 1
         },
         {
-            "source": "Chúa Nguyễn",
-            "target": "Nhà Nguyễn",
+            "source": "Incremental Reading",
+            "target": "Spaced Repetition",
+            "value": 1
+        },
+        {
+            "source": "Incremental Reading",
+            "target": "Spaced Repetition",
+            "value": 1
+        },
+        {
+            "source": "Incremental Reading",
+            "target": "Spaced Repetition",
+            "value": 1
+        },
+        {
+            "source": "Tin Lành",
+            "target": "Martin Luther",
+            "value": 1
+        },
+        {
+            "source": "Tin Lành",
+            "target": "Martin Luther",
             "value": 1
         },
         {
@@ -1084,6 +1386,31 @@
         {
             "source": "Chúa Nguyễn",
             "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Chúa Nguyễn",
+            "target": "Nhà Nguyễn",
+            "value": 1
+        },
+        {
+            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "target": "Trần Trọng Kim",
+            "value": 1
+        },
+        {
+            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "target": "Trần Trọng Kim",
+            "value": 1
+        },
+        {
+            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "target": "Trần Trọng Kim",
+            "value": 1
+        },
+        {
+            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "target": "Trần Trọng Kim",
             "value": 1
         },
         {
@@ -1104,6 +1431,16 @@
         {
             "source": "Chúa Trịnh",
             "target": "Thời Lê trung hưng",
+            "value": 1
+        },
+        {
+            "source": "Trần Thủ Độ",
+            "target": "Nhà Trần",
+            "value": 1
+        },
+        {
+            "source": "Trần Thủ Độ",
+            "target": "Nhà Trần",
             "value": 1
         },
         {
@@ -1122,6 +1459,21 @@
             "value": 1
         },
         {
+            "source": "Martin Luther",
+            "target": "Cải Cách Kháng Nghị",
+            "value": 1
+        },
+        {
+            "source": "Trần Trọng Kim",
+            "target": "Đế quốc Việt Nam",
+            "value": 1
+        },
+        {
+            "source": "Niklas Luhmann",
+            "target": "Zettelkasten",
+            "value": 1
+        },
+        {
             "source": "Đổng Trác",
             "target": "Nhà Hậu Hán",
             "value": 1
@@ -1134,6 +1486,11 @@
         {
             "source": "Hạ Vũ",
             "target": "Đế Thuấn",
+            "value": 1
+        },
+        {
+            "source": "Thuận Thiên công chúa",
+            "target": "Trần Quang Khải",
             "value": 1
         },
         {
@@ -1192,6 +1549,11 @@
             "value": 1
         },
         {
+            "source": "Trần Liễu",
+            "target": "Trần Hưng Đạo",
+            "value": 1
+        },
+        {
             "source": "Lã Bố",
             "target": "Đổng Trác",
             "value": 1
@@ -1224,6 +1586,11 @@
         {
             "source": "Trần Cảnh",
             "target": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "value": 1
+        },
+        {
+            "source": "Lý Chiêu Hoàng",
+            "target": "Trần Cảnh",
             "value": 1
         },
         {
