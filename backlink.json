@@ -1,44 +1,40 @@
 {
-    "Chiến tranh trên Thiên Đàng": {
+    "Flask lib": {
         "id": 0,
-        "url": "Zet/Chiến tranh trên Thiên Đàng.md",
-        "outgoing_links": [
-            "Lucifer"
-        ],
-        "backlinks": [
-            "Lucifer"
-        ]
-    },
-    "Vườn không nhà trống": {
-        "id": 1,
-        "url": "Zet/Vườn không nhà trống.md",
+        "url": "Zet/Flask lib.md",
         "outgoing_links": [],
         "backlinks": [
-            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
-            "Chiến tranh Nguyên Mông - Đại Việt lần 1"
+            "Python standard library"
         ]
     },
-    "Các kênh thông tin trái chiều": {
-        "id": 2,
-        "url": "Zet/Các kênh thông tin trái chiều.md",
-        "outgoing_links": [
-            "The Epoch Times"
-        ],
-        "backlinks": []
+    "Hồi Giáo": {
+        "id": 1,
+        "url": "Zet/Hồi Giáo.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Religion"
+        ]
     },
-    "Thời Lê trung hưng": {
-        "id": 3,
-        "url": "Zet/Thời Lê trung hưng.md",
+    "Nhà Chu": {
+        "id": 2,
+        "url": "Zet/Nhà Chu.md",
         "outgoing_links": [
-            "Nhà Hậu Lê",
-            "Thời Lê sơ",
-            "Chúa Trịnh"
+            "Nhà Thương",
+            "Nhà Tần"
         ],
         "backlinks": [
-            "Chúa Nguyễn",
-            "Nhà Hậu Lê",
-            "Lịch Sử Việt Nam",
-            "Chúa Trịnh"
+            "Nhà Tần",
+            "Lịch sử Trung Quốc",
+            "Tần Thủy Hoàng"
+        ]
+    },
+    "Nhà Thương": {
+        "id": 3,
+        "url": "Zet/Nhà Thương.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Nhà Chu",
+            "Lịch sử Trung Quốc"
         ]
     },
     "Mấy thứ nhảm nhí mắc cười": {
@@ -49,273 +45,14 @@
         ],
         "backlinks": []
     },
-    "Tóm tắt sách Sáng Thế": {
+    "Backlink": {
         "id": 5,
-        "url": "Zet/Tóm tắt sách Sáng Thế.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Cựu Ước"
-        ]
-    },
-    "Bắc Tống": {
-        "id": 6,
-        "url": "Zet/Bắc Tống.md",
+        "url": "Zet/Backlink.md",
         "outgoing_links": [],
         "backlinks": []
-    },
-    "Anders Ericsson": {
-        "id": 7,
-        "url": "Zet/Anders Ericsson.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Năm sự thương": {
-        "id": 8,
-        "url": "Zet/Năm sự thương.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Kinh mân côi"
-        ]
-    },
-    "Đàng Ngoài": {
-        "id": 9,
-        "url": "Zet/Đàng Ngoài.md",
-        "outgoing_links": [
-            "Chúa Trịnh"
-        ],
-        "backlinks": [
-            "Chúa Nguyễn",
-            "Chúa Trịnh"
-        ]
-    },
-    "Zettelkasten": {
-        "id": 10,
-        "url": "Zet/Zettelkasten.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Self Improvement"
-        ]
-    },
-    "Toán học": {
-        "id": 11,
-        "url": "Zet/Toán học.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Interests"
-        ]
-    },
-    "Lịch sử Trung Quốc": {
-        "id": 12,
-        "url": "Zet/Lịch sử Trung Quốc.md",
-        "outgoing_links": [
-            "Nhà Tần",
-            "Nhà Hạ",
-            "Nhà Thương",
-            "Nhà Chu",
-            "Nhà Nguyên-Mông",
-            "Nhà Thanh",
-            "Phục Hi",
-            "Đế Nghiêu",
-            "Đế Thuấn",
-            "Hạ Vũ",
-            "Tần Thủy Hoàng",
-            "Đổng Trác",
-            "Võ Tắc Thiên"
-        ],
-        "backlinks": [
-            "index",
-            "Lịch sử"
-        ]
-    },
-    "Language": {
-        "id": 13,
-        "url": "Zet/Language.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Interests"
-        ]
-    },
-    "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ": {
-        "id": 14,
-        "url": "Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ.md",
-        "outgoing_links": [
-            "Tần Thủy Hoàng",
-            "Nhà Tần",
-            "Âu Lạc"
-        ],
-        "backlinks": []
-    },
-    "Nhà Tần": {
-        "id": 15,
-        "url": "Zet/Nhà Tần.md",
-        "outgoing_links": [
-            "Tần Thủy Hoàng",
-            "Nhà Chu"
-        ],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "Nhà Chu",
-            "Tần Thủy Hoàng"
-        ]
-    },
-    "COVID 19": {
-        "id": 16,
-        "url": "Zet/COVID 19.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Sưu tầm mem chế": {
-        "id": 17,
-        "url": "Zet/Sưu tầm mem chế.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Mấy thứ nhảm nhí mắc cười"
-        ]
-    },
-    "Các chế độ nhịn ăn": {
-        "id": 18,
-        "url": "Zet/Các chế độ nhịn ăn.md",
-        "outgoing_links": [
-            "Insulin",
-            "Health"
-        ],
-        "backlinks": [
-            "Health"
-        ]
-    },
-    "Đế quốc Việt Nam": {
-        "id": 19,
-        "url": "Zet/Đế quốc Việt Nam.md",
-        "outgoing_links": [
-            "Bảo Đại"
-        ],
-        "backlinks": [
-            "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít"
-        ]
-    },
-    "Nhà Trần": {
-        "id": 20,
-        "url": "Zet/Nhà Trần.md",
-        "outgoing_links": [
-            "Nhà Lý",
-            "Trần Cảnh",
-            "Lý Chiêu Hoàng",
-            "Trần Hưng Đạo",
-            "Trần Quang Khải"
-        ],
-        "backlinks": [
-            "Chiến tranh Nguyên Mông - Đại Việt lần 1",
-            "Lịch Sử Việt Nam",
-            "Trần Liễu",
-            "Trần Cảnh",
-            "Trần Hưng Đạo"
-        ]
-    },
-    "Chúa Nguyễn": {
-        "id": 21,
-        "url": "Zet/Chúa Nguyễn.md",
-        "outgoing_links": [
-            "Thời Lê trung hưng",
-            "Nguyễn Hoàng",
-            "Chúa Trịnh",
-            "Đàng Ngoài",
-            "Nhà Nguyễn",
-            "Chúa Nguyễn"
-        ],
-        "backlinks": [
-            "Chúa Nguyễn",
-            "Nhà Nguyễn",
-            "Nguyễn Hoàng"
-        ]
-    },
-    "Xích Thố": {
-        "id": 22,
-        "url": "Zet/Xích Thố.md",
-        "outgoing_links": [
-            "Lã Bố",
-            "Nhà Hậu Hán",
-            "Đổng Trác"
-        ],
-        "backlinks": [
-            "Lã Bố"
-        ]
-    },
-    "Âu Lạc": {
-        "id": 23,
-        "url": "Zet/Âu Lạc.md",
-        "outgoing_links": [
-            "An Dương Vương"
-        ],
-        "backlinks": [
-            "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "Quốc hiệu VN qua các thời kỳ",
-            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
-            "Lịch Sử Việt Nam"
-        ]
-    },
-    "Kinh mân côi": {
-        "id": 24,
-        "url": "Zet/Kinh mân côi.md",
-        "outgoing_links": [
-            "Đức Jesus",
-            "Năm sự thương"
-        ],
-        "backlinks": []
-    },
-    "Nhà Thanh": {
-        "id": 25,
-        "url": "Zet/Nhà Thanh.md",
-        "outgoing_links": [
-            "Nhà Thanh"
-        ],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "Nhà Thanh"
-        ]
-    },
-    "Flask lib": {
-        "id": 26,
-        "url": "Zet/Flask lib.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Python standard library"
-        ]
-    },
-    "Quốc hiệu VN qua các thời kỳ": {
-        "id": 27,
-        "url": "Zet/Quốc hiệu VN qua các thời kỳ.md",
-        "outgoing_links": [
-            "An Dương Vương",
-            "Âu Lạc"
-        ],
-        "backlinks": [
-            "Lịch Sử Việt Nam"
-        ]
-    },
-    "Hồi Giáo": {
-        "id": 28,
-        "url": "Zet/Hồi Giáo.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Religion"
-        ]
-    },
-    "Nhà Chu": {
-        "id": 29,
-        "url": "Zet/Nhà Chu.md",
-        "outgoing_links": [
-            "Nhà Thương",
-            "Nhà Tần"
-        ],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "Nhà Tần",
-            "Tần Thủy Hoàng"
-        ]
     },
     "Nhà Hậu Hán": {
-        "id": 30,
+        "id": 6,
         "url": "Zet/Nhà Hậu Hán.md",
         "outgoing_links": [],
         "backlinks": [
@@ -324,181 +61,44 @@
             "Lã Bố"
         ]
     },
-    "Phật Giáo": {
-        "id": 31,
-        "url": "Zet/Phật Giáo.md",
+    "The Epoch Times": {
+        "id": 7,
+        "url": "Zet/The Epoch Times.md",
         "outgoing_links": [],
         "backlinks": [
-            "Religion"
+            "Các kênh thông tin trái chiều"
         ]
     },
-    "Backlink": {
-        "id": 32,
-        "url": "Zet/Backlink.md",
+    "Programming": {
+        "id": 8,
+        "url": "Zet/Programming.md",
         "outgoing_links": [],
         "backlinks": []
     },
+    "Tóm tắt sách Sáng Thế": {
+        "id": 9,
+        "url": "Zet/Tóm tắt sách Sáng Thế.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Cựu Ước"
+        ]
+    },
     "Python standard library": {
-        "id": 33,
+        "id": 10,
         "url": "Zet/Python standard library.md",
         "outgoing_links": [
             "Flask lib"
         ],
         "backlinks": []
     },
-    "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít": {
-        "id": 34,
-        "url": "Zet/Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít.md",
-        "outgoing_links": [
-            "Đế quốc Việt Nam"
-        ],
-        "backlinks": []
-    },
-    "Health": {
-        "id": 35,
-        "url": "Zet/Health.md",
-        "outgoing_links": [
-            "Các chế độ nhịn ăn"
-        ],
-        "backlinks": [
-            "Các chế độ nhịn ăn"
-        ]
-    },
-    "Bếp lò Franklin": {
-        "id": 36,
-        "url": "Zet/Bếp lò Franklin.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thời Lê sơ": {
-        "id": 37,
-        "url": "Zet/Thời Lê sơ.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thời Lê trung hưng",
-            "Nhà Hậu Lê",
-            "Lịch Sử Việt Nam"
-        ]
-    },
-    "Lucifer": {
-        "id": 38,
-        "url": "Zet/Lucifer.md",
-        "outgoing_links": [
-            "Chiến tranh trên Thiên Đàng",
-            "Cựu Ước"
-        ],
-        "backlinks": [
-            "Chiến tranh trên Thiên Đàng",
-            "QAnon map"
-        ]
-    },
-    "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng": {
-        "id": 39,
-        "url": "Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng.md",
-        "outgoing_links": [
-            "Trần Cảnh",
-            "Lý Chiêu Hoàng"
-        ],
-        "backlinks": [
-            "Trần Cảnh"
-        ]
-    },
-    "Programming": {
-        "id": 40,
-        "url": "Zet/Programming.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Amino acid": {
-        "id": 41,
-        "url": "Zet/Amino acid.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Barbell Reading Method": {
-        "id": 42,
-        "url": "Zet/Barbell Reading Method.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Nhà Hạ": {
-        "id": 43,
-        "url": "Zet/Nhà Hạ.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "Hạ Vũ"
-        ]
-    },
-    "Bán đảo Scandinavie": {
-        "id": 44,
-        "url": "Zet/Bán đảo Scandinavie.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Self Improvement": {
-        "id": 45,
-        "url": "Zet/Self Improvement.md",
-        "outgoing_links": [
-            "Zettelkasten"
-        ],
-        "backlinks": [
-            "Interests",
-            "Rat race"
-        ]
-    },
-    "Ngô Đình Diệm": {
-        "id": 46,
-        "url": "Zet/Ngô Đình Diệm.md",
-        "outgoing_links": [
-            "Bảo Đại"
-        ],
-        "backlinks": [
-            "Lịch Sử Việt Nam"
-        ]
-    },
-    "An Dương Vương": {
-        "id": 47,
-        "url": "Zet/An Dương Vương.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Âu Lạc",
-            "Quốc hiệu VN qua các thời kỳ",
-            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
-            "Lịch Sử Việt Nam",
-            "Đền thờ An Dương Vương ở ngoại thành Hà Nội"
-        ]
-    },
-    "Nhà Hậu Lê": {
-        "id": 48,
-        "url": "Zet/Nhà Hậu Lê.md",
-        "outgoing_links": [
-            "Thời Lê sơ",
-            "Thời Lê trung hưng"
-        ],
-        "backlinks": [
-            "Thời Lê trung hưng",
-            "Lịch Sử Việt Nam"
-        ]
-    },
-    "Carbohydrate": {
-        "id": 49,
-        "url": "Zet/Carbohydrate.md",
-        "outgoing_links": [
-            "Carbohydrate"
-        ],
-        "backlinks": [
-            "Carbohydrate"
-        ]
-    },
     "D3js": {
-        "id": 50,
+        "id": 11,
         "url": "Zet/D3js.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần": {
-        "id": 51,
+        "id": 12,
         "url": "Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần.md",
         "outgoing_links": [
             "Tần Thủy Hoàng",
@@ -508,16 +108,34 @@
         ],
         "backlinks": []
     },
-    "QAnon map": {
-        "id": 52,
-        "url": "Zet/QAnon map.md",
+    "Cựu Ước": {
+        "id": 13,
+        "url": "Zet/Cựu Ước.md",
         "outgoing_links": [
+            "Đức Jesus",
+            "Tóm tắt sách Sáng Thế"
+        ],
+        "backlinks": [
+            "Công Giáo",
             "Lucifer"
+        ]
+    },
+    "Rat race": {
+        "id": 14,
+        "url": "Zet/Rat race.md",
+        "outgoing_links": [
+            "Self Improvement"
         ],
         "backlinks": []
     },
+    "COVID 19": {
+        "id": 15,
+        "url": "Zet/COVID 19.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
     "Chiến tranh Nguyên Mông - Đại Việt lần 1": {
-        "id": 53,
+        "id": 16,
         "url": "Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1.md",
         "outgoing_links": [
             "Nhà Trần",
@@ -526,17 +144,84 @@
         ],
         "backlinks": []
     },
-    "index": {
-        "id": 54,
-        "url": "Zet/index.md",
+    "Nhà Tần": {
+        "id": 17,
+        "url": "Zet/Nhà Tần.md",
         "outgoing_links": [
+            "Tần Thủy Hoàng",
+            "Nhà Chu"
+        ],
+        "backlinks": [
+            "Nhà Chu",
+            "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "Lịch sử Trung Quốc",
+            "Tần Thủy Hoàng"
+        ]
+    },
+    "An Dương Vương": {
+        "id": 18,
+        "url": "Zet/An Dương Vương.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Quốc hiệu VN qua các thời kỳ",
             "Lịch Sử Việt Nam",
+            "Âu Lạc",
+            "Đền thờ An Dương Vương ở ngoại thành Hà Nội"
+        ]
+    },
+    "Github workflow": {
+        "id": 19,
+        "url": "Zet/Github workflow.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nhà Thanh": {
+        "id": 20,
+        "url": "Zet/Nhà Thanh.md",
+        "outgoing_links": [
+            "Nhà Thanh"
+        ],
+        "backlinks": [
+            "Nhà Thanh",
             "Lịch sử Trung Quốc"
+        ]
+    },
+    "Năm sự thương": {
+        "id": 21,
+        "url": "Zet/Năm sự thương.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Kinh mân côi"
+        ]
+    },
+    "Nhà Hạ": {
+        "id": 22,
+        "url": "Zet/Nhà Hạ.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Hạ Vũ"
+        ]
+    },
+    "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ": {
+        "id": 23,
+        "url": "Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ.md",
+        "outgoing_links": [
+            "Tần Thủy Hoàng",
+            "Nhà Tần",
+            "Âu Lạc"
         ],
         "backlinks": []
     },
+    "Amino acid": {
+        "id": 24,
+        "url": "Zet/Amino acid.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
     "Lịch sử": {
-        "id": 55,
+        "id": 25,
         "url": "Zet/Lịch sử.md",
         "outgoing_links": [
             "Lịch Sử Việt Nam",
@@ -547,8 +232,96 @@
             "Interests"
         ]
     },
+    "Zettelkasten": {
+        "id": 26,
+        "url": "Zet/Zettelkasten.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Self Improvement"
+        ]
+    },
+    "Religion": {
+        "id": 27,
+        "url": "Zet/Religion.md",
+        "outgoing_links": [
+            "Công Giáo",
+            "Tin Lành",
+            "Hồi Giáo",
+            "Phật Giáo"
+        ],
+        "backlinks": [
+            "Interests"
+        ]
+    },
+    "Bán đảo Scandinavie": {
+        "id": 28,
+        "url": "Zet/Bán đảo Scandinavie.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nhà Nguyễn": {
+        "id": 29,
+        "url": "Zet/Nhà Nguyễn.md",
+        "outgoing_links": [
+            "Chúa Nguyễn",
+            "Bảo Đại"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Bảo Đại",
+            "Chúa Nguyễn",
+            "Nguyễn Hoàng"
+        ]
+    },
+    "Kinh mân côi": {
+        "id": 30,
+        "url": "Zet/Kinh mân côi.md",
+        "outgoing_links": [
+            "Đức Jesus",
+            "Năm sự thương"
+        ],
+        "backlinks": []
+    },
+    "Quốc hiệu VN qua các thời kỳ": {
+        "id": 31,
+        "url": "Zet/Quốc hiệu VN qua các thời kỳ.md",
+        "outgoing_links": [
+            "An Dương Vương",
+            "Âu Lạc"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam"
+        ]
+    },
+    "Language": {
+        "id": 32,
+        "url": "Zet/Language.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Interests"
+        ]
+    },
+    "Đàng Ngoài": {
+        "id": 33,
+        "url": "Zet/Đàng Ngoài.md",
+        "outgoing_links": [
+            "Chúa Trịnh"
+        ],
+        "backlinks": [
+            "Chúa Nguyễn",
+            "Chúa Trịnh"
+        ]
+    },
+    "Lịch Sử Do Thái": {
+        "id": 34,
+        "url": "Zet/Lịch Sử Do Thái.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Lịch sử"
+        ]
+    },
     "Lịch Sử Việt Nam": {
-        "id": 56,
+        "id": 35,
         "url": "Zet/Lịch Sử Việt Nam.md",
         "outgoing_links": [
             "Âu Lạc",
@@ -568,24 +341,317 @@
             "Quốc hiệu VN qua các thời kỳ"
         ],
         "backlinks": [
-            "index",
-            "Lịch sử"
+            "Lịch sử",
+            "index"
         ]
     },
-    "Cựu Ước": {
-        "id": 57,
-        "url": "Zet/Cựu Ước.md",
+    "Thời Lê sơ": {
+        "id": 36,
+        "url": "Zet/Thời Lê sơ.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Thời Lê trung hưng",
+            "Nhà Hậu Lê"
+        ]
+    },
+    "Phật Giáo": {
+        "id": 37,
+        "url": "Zet/Phật Giáo.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Religion"
+        ]
+    },
+    "Carbohydrate": {
+        "id": 38,
+        "url": "Zet/Carbohydrate.md",
         "outgoing_links": [
-            "Đức Jesus",
-            "Tóm tắt sách Sáng Thế"
+            "Carbohydrate"
         ],
         "backlinks": [
-            "Lucifer",
-            "Công Giáo"
+            "Carbohydrate"
+        ]
+    },
+    "Toán học": {
+        "id": 39,
+        "url": "Zet/Toán học.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Interests"
+        ]
+    },
+    "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng": {
+        "id": 40,
+        "url": "Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng.md",
+        "outgoing_links": [
+            "Trần Cảnh",
+            "Lý Chiêu Hoàng"
+        ],
+        "backlinks": [
+            "Trần Cảnh"
+        ]
+    },
+    "Thời Lê trung hưng": {
+        "id": 41,
+        "url": "Zet/Thời Lê trung hưng.md",
+        "outgoing_links": [
+            "Nhà Hậu Lê",
+            "Thời Lê sơ",
+            "Chúa Trịnh"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Nhà Hậu Lê",
+            "Chúa Nguyễn",
+            "Chúa Trịnh"
+        ]
+    },
+    "Sưu tầm mem chế": {
+        "id": 42,
+        "url": "Zet/Sưu tầm mem chế.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Mấy thứ nhảm nhí mắc cười"
+        ]
+    },
+    "Barbell Reading Method": {
+        "id": 43,
+        "url": "Zet/Barbell Reading Method.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Chiến tranh trên Thiên Đàng": {
+        "id": 44,
+        "url": "Zet/Chiến tranh trên Thiên Đàng.md",
+        "outgoing_links": [
+            "Lucifer"
+        ],
+        "backlinks": [
+            "Lucifer"
+        ]
+    },
+    "index": {
+        "id": 45,
+        "url": "Zet/index.md",
+        "outgoing_links": [
+            "Lịch Sử Việt Nam",
+            "Lịch sử Trung Quốc"
+        ],
+        "backlinks": []
+    },
+    "Nhà Trần": {
+        "id": 46,
+        "url": "Zet/Nhà Trần.md",
+        "outgoing_links": [
+            "Nhà Lý",
+            "Trần Cảnh",
+            "Lý Chiêu Hoàng",
+            "Trần Hưng Đạo",
+            "Trần Quang Khải"
+        ],
+        "backlinks": [
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "Lịch Sử Việt Nam",
+            "Trần Liễu",
+            "Trần Hưng Đạo",
+            "Trần Cảnh"
+        ]
+    },
+    "Self Improvement": {
+        "id": 47,
+        "url": "Zet/Self Improvement.md",
+        "outgoing_links": [
+            "Zettelkasten"
+        ],
+        "backlinks": [
+            "Rat race",
+            "Interests"
+        ]
+    },
+    "Bếp lò Franklin": {
+        "id": 48,
+        "url": "Zet/Bếp lò Franklin.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Insulin": {
+        "id": 49,
+        "url": "Zet/Insulin.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Các chế độ nhịn ăn"
+        ]
+    },
+    "Công Giáo": {
+        "id": 50,
+        "url": "Zet/Công Giáo.md",
+        "outgoing_links": [
+            "Cựu Ước",
+            "Thánh Phaolo",
+            "Đức Jesus"
+        ],
+        "backlinks": [
+            "Religion"
+        ]
+    },
+    "Nhà Nguyên-Mông": {
+        "id": 51,
+        "url": "Zet/Nhà Nguyên-Mông.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1",
+            "Lịch sử Trung Quốc"
+        ]
+    },
+    "Đế quốc Việt Nam": {
+        "id": 52,
+        "url": "Zet/Đế quốc Việt Nam.md",
+        "outgoing_links": [
+            "Bảo Đại"
+        ],
+        "backlinks": [
+            "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít"
+        ]
+    },
+    "Ngô Đình Diệm": {
+        "id": 53,
+        "url": "Zet/Ngô Đình Diệm.md",
+        "outgoing_links": [
+            "Bảo Đại"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam"
+        ]
+    },
+    "Các kênh thông tin trái chiều": {
+        "id": 54,
+        "url": "Zet/Các kênh thông tin trái chiều.md",
+        "outgoing_links": [
+            "The Epoch Times"
+        ],
+        "backlinks": []
+    },
+    "Nhà Hậu Lê": {
+        "id": 55,
+        "url": "Zet/Nhà Hậu Lê.md",
+        "outgoing_links": [
+            "Thời Lê sơ",
+            "Thời Lê trung hưng"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Thời Lê trung hưng"
+        ]
+    },
+    "Phim hay": {
+        "id": 56,
+        "url": "Zet/Phim hay.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Bảo Đại": {
+        "id": 57,
+        "url": "Zet/Bảo Đại.md",
+        "outgoing_links": [
+            "Nhà Nguyễn"
+        ],
+        "backlinks": [
+            "Nhà Nguyễn",
+            "Lịch Sử Việt Nam",
+            "Đế quốc Việt Nam",
+            "Ngô Đình Diệm"
+        ]
+    },
+    "Âu Lạc": {
+        "id": 58,
+        "url": "Zet/Âu Lạc.md",
+        "outgoing_links": [
+            "An Dương Vương"
+        ],
+        "backlinks": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "Quốc hiệu VN qua các thời kỳ",
+            "Lịch Sử Việt Nam"
+        ]
+    },
+    "Xích Thố": {
+        "id": 59,
+        "url": "Zet/Xích Thố.md",
+        "outgoing_links": [
+            "Lã Bố",
+            "Nhà Hậu Hán",
+            "Đổng Trác"
+        ],
+        "backlinks": [
+            "Lã Bố"
+        ]
+    },
+    "Vườn không nhà trống": {
+        "id": 60,
+        "url": "Zet/Vườn không nhà trống.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Chiến tranh Nguyên Mông - Đại Việt lần 1"
+        ]
+    },
+    "Lịch sử Trung Quốc": {
+        "id": 61,
+        "url": "Zet/Lịch sử Trung Quốc.md",
+        "outgoing_links": [
+            "Nhà Tần",
+            "Nhà Hạ",
+            "Nhà Thương",
+            "Nhà Chu",
+            "Nhà Nguyên-Mông",
+            "Nhà Thanh",
+            "Phục Hi",
+            "Đế Nghiêu",
+            "Đế Thuấn",
+            "Hạ Vũ",
+            "Tần Thủy Hoàng",
+            "Đổng Trác",
+            "Võ Tắc Thiên"
+        ],
+        "backlinks": [
+            "Lịch sử",
+            "index"
+        ]
+    },
+    "Health": {
+        "id": 62,
+        "url": "Zet/Health.md",
+        "outgoing_links": [
+            "Các chế độ nhịn ăn"
+        ],
+        "backlinks": [
+            "Các chế độ nhịn ăn"
+        ]
+    },
+    "QAnon map": {
+        "id": 63,
+        "url": "Zet/QAnon map.md",
+        "outgoing_links": [
+            "Lucifer"
+        ],
+        "backlinks": []
+    },
+    "Lucifer": {
+        "id": 64,
+        "url": "Zet/Lucifer.md",
+        "outgoing_links": [
+            "Chiến tranh trên Thiên Đàng",
+            "Cựu Ước"
+        ],
+        "backlinks": [
+            "Chiến tranh trên Thiên Đàng",
+            "QAnon map"
         ]
     },
     "Interests": {
-        "id": 58,
+        "id": 65,
         "url": "Zet/Interests.md",
         "outgoing_links": [
             "Religion",
@@ -597,226 +663,158 @@
         "backlinks": []
     },
     "Đền thờ An Dương Vương ở ngoại thành Hà Nội": {
-        "id": 59,
+        "id": 66,
         "url": "Zet/Đền thờ An Dương Vương ở ngoại thành Hà Nội.md",
         "outgoing_links": [
             "An Dương Vương"
         ],
         "backlinks": []
     },
-    "Nhà Nguyễn": {
-        "id": 60,
-        "url": "Zet/Nhà Nguyễn.md",
+    "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít": {
+        "id": 67,
+        "url": "Zet/Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít.md",
         "outgoing_links": [
-            "Chúa Nguyễn",
-            "Bảo Đại"
+            "Đế quốc Việt Nam"
         ],
-        "backlinks": [
-            "Chúa Nguyễn",
-            "Lịch Sử Việt Nam",
-            "Bảo Đại",
-            "Nguyễn Hoàng"
-        ]
-    },
-    "Công Giáo": {
-        "id": 61,
-        "url": "Zet/Công Giáo.md",
-        "outgoing_links": [
-            "Cựu Ước",
-            "Thánh Phaolo",
-            "Đức Jesus"
-        ],
-        "backlinks": [
-            "Religion"
-        ]
-    },
-    "Github workflow": {
-        "id": 62,
-        "url": "Zet/Github workflow.md",
-        "outgoing_links": [],
         "backlinks": []
-    },
-    "Lịch Sử Do Thái": {
-        "id": 63,
-        "url": "Zet/Lịch Sử Do Thái.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Lịch sử"
-        ]
-    },
-    "Nhà Thương": {
-        "id": 64,
-        "url": "Zet/Nhà Thương.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "Nhà Chu"
-        ]
-    },
-    "Phim hay": {
-        "id": 65,
-        "url": "Zet/Phim hay.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Bảo Đại": {
-        "id": 66,
-        "url": "Zet/Bảo Đại.md",
-        "outgoing_links": [
-            "Nhà Nguyễn"
-        ],
-        "backlinks": [
-            "Đế quốc Việt Nam",
-            "Ngô Đình Diệm",
-            "Lịch Sử Việt Nam",
-            "Nhà Nguyễn"
-        ]
     },
     "Tin Lành": {
-        "id": 67,
+        "id": 68,
         "url": "Zet/Tin Lành.md",
         "outgoing_links": [],
         "backlinks": [
             "Religion"
         ]
     },
-    "Nhà Nguyên-Mông": {
-        "id": 68,
-        "url": "Zet/Nhà Nguyên-Mông.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "Chiến tranh Nguyên Mông - Đại Việt lần 1"
-        ]
-    },
-    "Insulin": {
-        "id": 69,
-        "url": "Zet/Insulin.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Các chế độ nhịn ăn"
-        ]
-    },
-    "Rat race": {
-        "id": 70,
-        "url": "Zet/Rat race.md",
-        "outgoing_links": [
-            "Self Improvement"
-        ],
-        "backlinks": []
-    },
-    "The Epoch Times": {
-        "id": 71,
-        "url": "Zet/The Epoch Times.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Các kênh thông tin trái chiều"
-        ]
-    },
-    "Religion": {
-        "id": 72,
-        "url": "Zet/Religion.md",
-        "outgoing_links": [
-            "Công Giáo",
-            "Tin Lành",
-            "Hồi Giáo",
-            "Phật Giáo"
-        ],
-        "backlinks": [
-            "Interests"
-        ]
-    },
     "Nhà Lý": {
-        "id": 73,
+        "id": 69,
         "url": "Zet/Nhà Lý.md",
         "outgoing_links": [],
         "backlinks": [
-            "Nhà Trần",
             "Lịch Sử Việt Nam",
+            "Nhà Trần",
             "Lý Chiêu Hoàng"
         ]
     },
+    "Bắc Tống": {
+        "id": 70,
+        "url": "Zet/Bắc Tống.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Chúa Nguyễn": {
+        "id": 71,
+        "url": "Zet/Chúa Nguyễn.md",
+        "outgoing_links": [
+            "Thời Lê trung hưng",
+            "Nguyễn Hoàng",
+            "Chúa Trịnh",
+            "Đàng Ngoài",
+            "Nhà Nguyễn",
+            "Chúa Nguyễn"
+        ],
+        "backlinks": [
+            "Nhà Nguyễn",
+            "Chúa Nguyễn",
+            "Nguyễn Hoàng"
+        ]
+    },
+    "Các chế độ nhịn ăn": {
+        "id": 72,
+        "url": "Zet/Các chế độ nhịn ăn.md",
+        "outgoing_links": [
+            "Insulin",
+            "Health"
+        ],
+        "backlinks": [
+            "Health"
+        ]
+    },
     "Chúa Trịnh": {
-        "id": 74,
+        "id": 73,
         "url": "Zet/Chúa Trịnh.md",
         "outgoing_links": [
             "Đàng Ngoài",
             "Thời Lê trung hưng"
         ],
         "backlinks": [
-            "Thời Lê trung hưng",
             "Đàng Ngoài",
+            "Thời Lê trung hưng",
             "Chúa Nguyễn"
         ]
     },
-    "Vua David": {
-        "id": 75,
-        "url": "Zet/People/Vua David.md",
+    "Anders Ericsson": {
+        "id": 74,
+        "url": "Zet/Anders Ericsson.md",
         "outgoing_links": [],
         "backlinks": []
     },
-    "Thuận Thiên công chúa": {
-        "id": 76,
-        "url": "Zet/People/Thuận Thiên công chúa.md",
-        "outgoing_links": [
-            "Lý Chiêu Hoàng",
-            "Trần Cảnh",
-            "Trần Liễu",
-            "Trần Quang Khải"
-        ],
-        "backlinks": [
-            "Trần Liễu"
-        ]
-    },
     "Đức Jesus": {
-        "id": 77,
+        "id": 75,
         "url": "Zet/People/Đức Jesus.md",
         "outgoing_links": [],
         "backlinks": [
-            "Kinh mân côi",
             "Cựu Ước",
+            "Kinh mân côi",
             "Công Giáo",
             "Thánh Phaolo"
         ]
     },
-    "Đế Thuấn": {
-        "id": 78,
-        "url": "Zet/People/Đế Thuấn.md",
-        "outgoing_links": [
-            "Đế Nghiêu"
-        ],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "Hạ Vũ"
-        ]
+    "Ismael": {
+        "id": 76,
+        "url": "Zet/People/Ismael.md",
+        "outgoing_links": [],
+        "backlinks": []
     },
     "Trần Quang Khải": {
-        "id": 79,
+        "id": 77,
         "url": "Zet/People/Trần Quang Khải.md",
         "outgoing_links": [
             "Trần Hưng Đạo"
         ],
         "backlinks": [
-            "Nhà Trần",
             "Lịch Sử Việt Nam",
+            "Nhà Trần",
             "Thuận Thiên công chúa"
         ]
     },
-    "Nguyễn Hoàng": {
-        "id": 80,
-        "url": "Zet/People/Nguyễn Hoàng.md",
+    "Tần Thủy Hoàng": {
+        "id": 78,
+        "url": "Zet/People/Tần Thủy Hoàng.md",
         "outgoing_links": [
-            "Chúa Nguyễn",
-            "Nhà Nguyễn"
+            "Nhà Tần",
+            "Nhà Chu"
         ],
         "backlinks": [
-            "Chúa Nguyễn",
-            "Lịch Sử Việt Nam"
+            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
+            "Nhà Tần",
+            "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
+            "Lịch sử Trung Quốc"
         ]
     },
     "Võ Tắc Thiên": {
-        "id": 81,
+        "id": 79,
         "url": "Zet/People/Võ Tắc Thiên.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Lịch sử Trung Quốc"
+        ]
+    },
+    "Đổng Trác": {
+        "id": 80,
+        "url": "Zet/People/Đổng Trác.md",
+        "outgoing_links": [
+            "Nhà Hậu Hán"
+        ],
+        "backlinks": [
+            "Xích Thố",
+            "Lịch sử Trung Quốc",
+            "Lã Bố"
+        ]
+    },
+    "Phục Hi": {
+        "id": 81,
+        "url": "Zet/People/Phục Hi.md",
         "outgoing_links": [],
         "backlinks": [
             "Lịch sử Trung Quốc"
@@ -833,20 +831,53 @@
             "Lịch sử Trung Quốc"
         ]
     },
-    "Đổng Trác": {
+    "Đế Nghiêu": {
         "id": 83,
-        "url": "Zet/People/Đổng Trác.md",
+        "url": "Zet/People/Đế Nghiêu.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Lịch sử Trung Quốc",
+            "Đế Thuấn"
+        ]
+    },
+    "Thuận Thiên công chúa": {
+        "id": 84,
+        "url": "Zet/People/Thuận Thiên công chúa.md",
         "outgoing_links": [
-            "Nhà Hậu Hán"
+            "Lý Chiêu Hoàng",
+            "Trần Cảnh",
+            "Trần Liễu",
+            "Trần Quang Khải"
+        ],
+        "backlinks": [
+            "Trần Liễu"
+        ]
+    },
+    "Đế Thuấn": {
+        "id": 85,
+        "url": "Zet/People/Đế Thuấn.md",
+        "outgoing_links": [
+            "Đế Nghiêu"
         ],
         "backlinks": [
             "Lịch sử Trung Quốc",
-            "Xích Thố",
-            "Lã Bố"
+            "Hạ Vũ"
+        ]
+    },
+    "Nguyễn Hoàng": {
+        "id": 86,
+        "url": "Zet/People/Nguyễn Hoàng.md",
+        "outgoing_links": [
+            "Chúa Nguyễn",
+            "Nhà Nguyễn"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Chúa Nguyễn"
         ]
     },
     "Trần Liễu": {
-        "id": 84,
+        "id": 87,
         "url": "Zet/People/Trần Liễu.md",
         "outgoing_links": [
             "Trần Cảnh",
@@ -861,7 +892,7 @@
         ]
     },
     "Lã Bố": {
-        "id": 85,
+        "id": 88,
         "url": "Zet/People/Lã Bố.md",
         "outgoing_links": [
             "Nhà Hậu Hán",
@@ -870,44 +901,6 @@
         ],
         "backlinks": [
             "Xích Thố"
-        ]
-    },
-    "Tần Thủy Hoàng": {
-        "id": 86,
-        "url": "Zet/People/Tần Thủy Hoàng.md",
-        "outgoing_links": [
-            "Nhà Tần",
-            "Nhà Chu"
-        ],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "Nhà Tần",
-            "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần"
-        ]
-    },
-    "Đế Nghiêu": {
-        "id": 87,
-        "url": "Zet/People/Đế Nghiêu.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Lịch sử Trung Quốc",
-            "Đế Thuấn"
-        ]
-    },
-    "Trần Cảnh": {
-        "id": 88,
-        "url": "Zet/People/Trần Cảnh.md",
-        "outgoing_links": [
-            "Nhà Trần",
-            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng"
-        ],
-        "backlinks": [
-            "Nhà Trần",
-            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
-            "Thuận Thiên công chúa",
-            "Trần Liễu",
-            "Lý Chiêu Hoàng"
         ]
     },
     "Thánh Phaolo": {
@@ -920,45 +913,52 @@
             "Công Giáo"
         ]
     },
-    "Lý Chiêu Hoàng": {
+    "Trần Hưng Đạo": {
         "id": 90,
+        "url": "Zet/People/Trần Hưng Đạo.md",
+        "outgoing_links": [
+            "Nhà Trần"
+        ],
+        "backlinks": [
+            "Lịch Sử Việt Nam",
+            "Nhà Trần",
+            "Trần Quang Khải",
+            "Trần Liễu"
+        ]
+    },
+    "Trần Cảnh": {
+        "id": 91,
+        "url": "Zet/People/Trần Cảnh.md",
+        "outgoing_links": [
+            "Nhà Trần",
+            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng"
+        ],
+        "backlinks": [
+            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "Nhà Trần",
+            "Thuận Thiên công chúa",
+            "Trần Liễu",
+            "Lý Chiêu Hoàng"
+        ]
+    },
+    "Lý Chiêu Hoàng": {
+        "id": 92,
         "url": "Zet/People/Lý Chiêu Hoàng.md",
         "outgoing_links": [
             "Nhà Lý",
             "Trần Cảnh"
         ],
         "backlinks": [
-            "Nhà Trần",
-            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
             "Lịch Sử Việt Nam",
+            "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "Nhà Trần",
             "Thuận Thiên công chúa"
         ]
     },
-    "Phục Hi": {
-        "id": 91,
-        "url": "Zet/People/Phục Hi.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Lịch sử Trung Quốc"
-        ]
-    },
-    "Ismael": {
-        "id": 92,
-        "url": "Zet/People/Ismael.md",
+    "Vua David": {
+        "id": 93,
+        "url": "Zet/People/Vua David.md",
         "outgoing_links": [],
         "backlinks": []
-    },
-    "Trần Hưng Đạo": {
-        "id": 93,
-        "url": "Zet/People/Trần Hưng Đạo.md",
-        "outgoing_links": [
-            "Nhà Trần"
-        ],
-        "backlinks": [
-            "Nhà Trần",
-            "Lịch Sử Việt Nam",
-            "Trần Quang Khải",
-            "Trần Liễu"
-        ]
     }
 }
