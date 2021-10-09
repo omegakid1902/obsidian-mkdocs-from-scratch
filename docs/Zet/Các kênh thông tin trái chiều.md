@@ -16,3 +16,4 @@ publish: True
 - [nguyenthienha blog](https://nguyenthienha.files.wordpress.com)
 - [[The Epoch Times]]: [theepochtimes.com](https://www.theepochtimes.com/)
 - [sirenwarning blog](https://sirenwarning.wordpress.com/blog/)
+- [ntdvn.com](https://www.ntdvn.com/)
