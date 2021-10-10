@@ -17,3 +17,5 @@ publish: True
 - [[The Epoch Times]]: [theepochtimes.com](https://www.theepochtimes.com/)
 - [sirenwarning blog](https://sirenwarning.wordpress.com/blog/)
 - [ntdvn.com](https://www.ntdvn.com/)
+- [tinhhoa.net](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
+	- Dùng search engine của trang này ra khá nhiều bài viết tiếng Việt
