@@ -263,8 +263,8 @@ for node in nodes:
         if node == outgoing:
             continue
 
-        link_info["source"] = node
-        link_info["target"] = outgoing
+        link_info["source"] = nodes[node].id
+        link_info["target"] = nodes[outgoing].id
         link_info["value"] = 1
         graph_nodes["links"].append(link_info)
 
