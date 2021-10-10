@@ -25,7 +25,7 @@ Thông tin về Graphene Oxide
 - [hielscher.com](https://www.hielscher.com/vi/graphene-oxide-ultrasonic-exfoliation-and-dispersion.htm)
 
 Dưới đây là phủ nhận của báo chính thống:
-- [[nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ]]: [link](https://nhandan.vn/factcheck/thong-tin-vaccine-pfizer-biontech-va-moderna-chua-graphene-oxide-gay-doc-hai-la-vo-can-cu-659442/)
+- [[@ nhandan.com.vn, Thông tin vaccine Pfizer-BioNTech và Moderna chứa graphene oxide gây độc hại là vô căn cứ]]: [link](https://nhandan.vn/factcheck/thong-tin-vaccine-pfizer-biontech-va-moderna-chua-graphene-oxide-gay-doc-hai-la-vo-can-cu-659442/)
 - [tinmoiz.com](https://www.tinmoiz.com/co-phai-vac-xin-covid-19-chu-yeu-la-graphene-oxit-khong-day-la-nhung-gi-cac-chuyen-gia-phai-noi-566507/)
 - 
 ## Questions:
