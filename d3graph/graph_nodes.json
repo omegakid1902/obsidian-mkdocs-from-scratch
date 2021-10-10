@@ -741,943 +741,943 @@
     ],
     "links": [
         {
-            "source": "Nhà Chu",
-            "target": "Nhà Tần",
+            "source": 2,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Nhà Chu",
-            "target": "Nhà Tần",
+            "source": 2,
+            "target": 20,
             "value": 1
         },
         {
-            "source": "Mấy thứ nhảm nhí mắc cười",
-            "target": "Sưu tầm mem chế",
+            "source": 4,
+            "target": 54,
             "value": 1
         },
         {
-            "source": "Programming",
-            "target": "Markdown Language",
+            "source": 8,
+            "target": 78,
             "value": 1
         },
         {
-            "source": "Tóm tắt sách Sáng Thế",
-            "target": "Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac",
+            "source": 9,
+            "target": 31,
             "value": 1
         },
         {
-            "source": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
-            "target": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "source": 10,
+            "target": 92,
             "value": 1
         },
         {
-            "source": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
-            "target": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
+            "source": 10,
+            "target": 92,
             "value": 1
         },
         {
-            "source": "SM-Algorithm",
-            "target": "Đường cong học tập",
+            "source": 11,
+            "target": 77,
             "value": 1
         },
         {
-            "source": "SM-Algorithm",
-            "target": "Đường cong học tập",
+            "source": 11,
+            "target": 77,
             "value": 1
         },
         {
-            "source": "SM-Algorithm",
-            "target": "Đường cong học tập",
+            "source": 11,
+            "target": 77,
             "value": 1
         },
         {
-            "source": "Python standard library",
-            "target": "Flask lib",
+            "source": 12,
+            "target": 0,
             "value": 1
         },
         {
-            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
-            "target": "Vườn không nhà trống",
+            "source": 14,
+            "target": 76,
             "value": 1
         },
         {
-            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
-            "target": "Vườn không nhà trống",
+            "source": 14,
+            "target": 76,
             "value": 1
         },
         {
-            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
-            "target": "Vườn không nhà trống",
+            "source": 14,
+            "target": 76,
             "value": 1
         },
         {
-            "source": "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần",
-            "target": "Vườn không nhà trống",
+            "source": 14,
+            "target": 76,
             "value": 1
         },
         {
-            "source": "Vaccine Pfizer",
-            "target": "Phía sau Vaccine Pfizer",
+            "source": 15,
+            "target": 29,
             "value": 1
         },
         {
-            "source": "Cựu Ước",
-            "target": "Tóm tắt sách Sáng Thế",
+            "source": 16,
+            "target": 9,
             "value": 1
         },
         {
-            "source": "Cựu Ước",
-            "target": "Tóm tắt sách Sáng Thế",
+            "source": 16,
+            "target": 9,
             "value": 1
         },
         {
-            "source": "Rat race",
-            "target": "Self Improvement",
+            "source": 17,
+            "target": 59,
             "value": 1
         },
         {
-            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
-            "target": "Nhà Nguyên-Mông",
+            "source": 19,
+            "target": 63,
             "value": 1
         },
         {
-            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
-            "target": "Nhà Nguyên-Mông",
+            "source": 19,
+            "target": 63,
             "value": 1
         },
         {
-            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
-            "target": "Nhà Nguyên-Mông",
+            "source": 19,
+            "target": 63,
             "value": 1
         },
         {
-            "source": "Chiến tranh Nguyên Mông - Đại Việt lần 1",
-            "target": "Nhà Nguyên-Mông",
+            "source": 19,
+            "target": 63,
             "value": 1
         },
         {
-            "source": "Nhà Tần",
-            "target": "Nam Việt",
+            "source": 20,
+            "target": 46,
             "value": 1
         },
         {
-            "source": "Nhà Tần",
-            "target": "Nam Việt",
+            "source": 20,
+            "target": 46,
             "value": 1
         },
         {
-            "source": "Nhà Tần",
-            "target": "Nam Việt",
+            "source": 20,
+            "target": 46,
             "value": 1
         },
         {
-            "source": "Bệnh ung thư",
-            "target": "Các lý thuyết về nguyên nhân gây bệnh ung thư",
+            "source": 26,
+            "target": 49,
             "value": 1
         },
         {
-            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "target": "Nam Việt",
+            "source": 28,
+            "target": 46,
             "value": 1
         },
         {
-            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "target": "Nam Việt",
+            "source": 28,
+            "target": 46,
             "value": 1
         },
         {
-            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "target": "Nam Việt",
+            "source": 28,
+            "target": 46,
             "value": 1
         },
         {
-            "source": "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ",
-            "target": "Nam Việt",
+            "source": 28,
+            "target": 46,
             "value": 1
         },
         {
-            "source": "Phía sau Vaccine Pfizer",
-            "target": "Vaccine Pfizer",
+            "source": 29,
+            "target": 15,
             "value": 1
         },
         {
-            "source": "Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac",
-            "target": "Ismael",
+            "source": 31,
+            "target": 100,
             "value": 1
         },
         {
-            "source": "Lịch sử",
-            "target": "Lịch sử Trung Quốc",
+            "source": 34,
+            "target": 80,
             "value": 1
         },
         {
-            "source": "Lịch sử",
-            "target": "Lịch sử Trung Quốc",
+            "source": 34,
+            "target": 80,
             "value": 1
         },
         {
-            "source": "Lịch sử",
-            "target": "Lịch sử Trung Quốc",
+            "source": 34,
+            "target": 80,
             "value": 1
         },
         {
-            "source": "Zettelkasten",
-            "target": "The Second Brain",
+            "source": 35,
+            "target": 41,
             "value": 1
         },
         {
-            "source": "Zettelkasten",
-            "target": "The Second Brain",
+            "source": 35,
+            "target": 41,
             "value": 1
         },
         {
-            "source": "Religion",
-            "target": "Phật Giáo",
+            "source": 36,
+            "target": 48,
             "value": 1
         },
         {
-            "source": "Religion",
-            "target": "Phật Giáo",
+            "source": 36,
+            "target": 48,
             "value": 1
         },
         {
-            "source": "Religion",
-            "target": "Phật Giáo",
+            "source": 36,
+            "target": 48,
             "value": 1
         },
         {
-            "source": "Religion",
-            "target": "Phật Giáo",
+            "source": 36,
+            "target": 48,
             "value": 1
         },
         {
-            "source": "Nhà Nguyễn",
-            "target": "Bảo Đại",
+            "source": 38,
+            "target": 72,
             "value": 1
         },
         {
-            "source": "Nhà Nguyễn",
-            "target": "Bảo Đại",
+            "source": 38,
+            "target": 72,
             "value": 1
         },
         {
-            "source": "Kinh mân côi",
-            "target": "Năm sự thương",
+            "source": 39,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Kinh mân côi",
-            "target": "Năm sự thương",
+            "source": 39,
+            "target": 25,
             "value": 1
         },
         {
-            "source": "Quốc hiệu VN qua các thời kỳ",
-            "target": "Âu Lạc",
+            "source": 40,
+            "target": 74,
             "value": 1
         },
         {
-            "source": "Quốc hiệu VN qua các thời kỳ",
-            "target": "Âu Lạc",
+            "source": 40,
+            "target": 74,
             "value": 1
         },
         {
-            "source": "The Second Brain",
-            "target": "Zettelkasten",
+            "source": 41,
+            "target": 35,
             "value": 1
         },
         {
-            "source": "Đàng Ngoài",
-            "target": "Chúa Trịnh",
+            "source": 43,
+            "target": 95,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Lịch Sử Việt Nam",
-            "target": "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
+            "source": 45,
+            "target": 10,
             "value": 1
         },
         {
-            "source": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
-            "target": "Lý Chiêu Hoàng",
+            "source": 52,
+            "target": 120,
             "value": 1
         },
         {
-            "source": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
-            "target": "Lý Chiêu Hoàng",
+            "source": 52,
+            "target": 120,
             "value": 1
         },
         {
-            "source": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
-            "target": "Lý Chiêu Hoàng",
+            "source": 52,
+            "target": 120,
             "value": 1
         },
         {
-            "source": "Thời Lê trung hưng",
-            "target": "Chúa Trịnh",
+            "source": 53,
+            "target": 95,
             "value": 1
         },
         {
-            "source": "Thời Lê trung hưng",
-            "target": "Chúa Trịnh",
+            "source": 53,
+            "target": 95,
             "value": 1
         },
         {
-            "source": "Thời Lê trung hưng",
-            "target": "Chúa Trịnh",
+            "source": 53,
+            "target": 95,
             "value": 1
         },
         {
-            "source": "Chiến tranh trên Thiên Đàng",
-            "target": "Lucifer",
+            "source": 56,
+            "target": 83,
             "value": 1
         },
         {
-            "source": "index",
-            "target": "Lịch sử Trung Quốc",
+            "source": 57,
+            "target": 80,
             "value": 1
         },
         {
-            "source": "index",
-            "target": "Lịch sử Trung Quốc",
+            "source": 57,
+            "target": 80,
             "value": 1
         },
         {
-            "source": "Nhà Trần",
-            "target": "Trần Quang Khải",
+            "source": 58,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Nhà Trần",
-            "target": "Trần Quang Khải",
+            "source": 58,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Nhà Trần",
-            "target": "Trần Quang Khải",
+            "source": 58,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Nhà Trần",
-            "target": "Trần Quang Khải",
+            "source": 58,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Nhà Trần",
-            "target": "Trần Quang Khải",
+            "source": 58,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Nhà Trần",
-            "target": "Trần Quang Khải",
+            "source": 58,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Self Improvement",
-            "target": "Kỹ thuật học tập Feymann",
+            "source": 59,
+            "target": 67,
             "value": 1
         },
         {
-            "source": "Self Improvement",
-            "target": "Kỹ thuật học tập Feymann",
+            "source": 59,
+            "target": 67,
             "value": 1
         },
         {
-            "source": "Self Improvement",
-            "target": "Kỹ thuật học tập Feymann",
+            "source": 59,
+            "target": 67,
             "value": 1
         },
         {
-            "source": "Self Improvement",
-            "target": "Kỹ thuật học tập Feymann",
+            "source": 59,
+            "target": 67,
             "value": 1
         },
         {
-            "source": "Công Giáo",
-            "target": "Thánh Phaolo",
+            "source": 62,
+            "target": 117,
             "value": 1
         },
         {
-            "source": "Công Giáo",
-            "target": "Thánh Phaolo",
+            "source": 62,
+            "target": 117,
             "value": 1
         },
         {
-            "source": "Công Giáo",
-            "target": "Thánh Phaolo",
+            "source": 62,
+            "target": 117,
             "value": 1
         },
         {
-            "source": "Đế quốc Việt Nam",
-            "target": "Bảo Đại",
+            "source": 64,
+            "target": 72,
             "value": 1
         },
         {
-            "source": "Đế quốc Việt Nam",
-            "target": "Bảo Đại",
+            "source": 64,
+            "target": 72,
             "value": 1
         },
         {
-            "source": "Spaced Repetition",
-            "target": "Spacing Effect",
+            "source": 65,
+            "target": 93,
             "value": 1
         },
         {
-            "source": "Ngô Đình Diệm",
-            "target": "Bảo Đại",
+            "source": 66,
+            "target": 72,
             "value": 1
         },
         {
-            "source": "Các kênh thông tin trái chiều",
-            "target": "The Epoch Times",
+            "source": 68,
+            "target": 7,
             "value": 1
         },
         {
-            "source": "Nhà Hậu Lê",
-            "target": "Thời Lê trung hưng",
+            "source": 69,
+            "target": 53,
             "value": 1
         },
         {
-            "source": "Nhà Hậu Lê",
-            "target": "Thời Lê trung hưng",
+            "source": 69,
+            "target": 53,
             "value": 1
         },
         {
-            "source": "SuperMemo",
-            "target": "Incremental Reading",
+            "source": 71,
+            "target": 87,
             "value": 1
         },
         {
-            "source": "SuperMemo",
-            "target": "Incremental Reading",
+            "source": 71,
+            "target": 87,
             "value": 1
         },
         {
-            "source": "Bảo Đại",
-            "target": "Nhà Nguyễn",
+            "source": 72,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "The Terrain Theory",
-            "target": "Louis Pasteur",
+            "source": 73,
+            "target": 114,
             "value": 1
         },
         {
-            "source": "Âu Lạc",
-            "target": "An Dương Vương",
+            "source": 74,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Xích Thố",
-            "target": "Đổng Trác",
+            "source": 75,
+            "target": 107,
             "value": 1
         },
         {
-            "source": "Xích Thố",
-            "target": "Đổng Trác",
+            "source": 75,
+            "target": 107,
             "value": 1
         },
         {
-            "source": "Xích Thố",
-            "target": "Đổng Trác",
+            "source": 75,
+            "target": 107,
             "value": 1
         },
         {
-            "source": "Đường cong học tập",
-            "target": "Spaced Repetition",
+            "source": 77,
+            "target": 65,
             "value": 1
         },
         {
-            "source": "Cải Cách Kháng Nghị",
-            "target": "Công Giáo",
+            "source": 79,
+            "target": 62,
             "value": 1
         },
         {
-            "source": "Cải Cách Kháng Nghị",
-            "target": "Công Giáo",
+            "source": 79,
+            "target": 62,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Lịch sử Trung Quốc",
-            "target": "Võ Tắc Thiên",
+            "source": 80,
+            "target": 104,
             "value": 1
         },
         {
-            "source": "Health",
-            "target": "Các chế độ nhịn ăn",
+            "source": 81,
+            "target": 94,
             "value": 1
         },
         {
-            "source": "QAnon map",
-            "target": "Lucifer",
+            "source": 82,
+            "target": 83,
             "value": 1
         },
         {
-            "source": "Lucifer",
-            "target": "Cựu Ước",
+            "source": 83,
+            "target": 16,
             "value": 1
         },
         {
-            "source": "Lucifer",
-            "target": "Cựu Ước",
+            "source": 83,
+            "target": 16,
             "value": 1
         },
         {
-            "source": "Interests",
-            "target": "Lịch sử",
+            "source": 84,
+            "target": 34,
             "value": 1
         },
         {
-            "source": "Interests",
-            "target": "Lịch sử",
+            "source": 84,
+            "target": 34,
             "value": 1
         },
         {
-            "source": "Interests",
-            "target": "Lịch sử",
+            "source": 84,
+            "target": 34,
             "value": 1
         },
         {
-            "source": "Interests",
-            "target": "Lịch sử",
+            "source": 84,
+            "target": 34,
             "value": 1
         },
         {
-            "source": "Interests",
-            "target": "Lịch sử",
+            "source": 84,
+            "target": 34,
             "value": 1
         },
         {
-            "source": "Đền thờ An Dương Vương ở ngoại thành Hà Nội",
-            "target": "An Dương Vương",
+            "source": 85,
+            "target": 22,
             "value": 1
         },
         {
-            "source": "Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít",
-            "target": "Đế quốc Việt Nam",
+            "source": 86,
+            "target": 64,
             "value": 1
         },
         {
-            "source": "Incremental Reading",
-            "target": "Spaced Repetition",
+            "source": 87,
+            "target": 65,
             "value": 1
         },
         {
-            "source": "Incremental Reading",
-            "target": "Spaced Repetition",
+            "source": 87,
+            "target": 65,
             "value": 1
         },
         {
-            "source": "Incremental Reading",
-            "target": "Spaced Repetition",
+            "source": 87,
+            "target": 65,
             "value": 1
         },
         {
-            "source": "Tin Lành",
-            "target": "Martin Luther",
+            "source": 88,
+            "target": 103,
             "value": 1
         },
         {
-            "source": "Tin Lành",
-            "target": "Martin Luther",
+            "source": 88,
+            "target": 103,
             "value": 1
         },
         {
-            "source": "Chúa Nguyễn",
-            "target": "Nhà Nguyễn",
+            "source": 91,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "Chúa Nguyễn",
-            "target": "Nhà Nguyễn",
+            "source": 91,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "Chúa Nguyễn",
-            "target": "Nhà Nguyễn",
+            "source": 91,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "Chúa Nguyễn",
-            "target": "Nhà Nguyễn",
+            "source": 91,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "Chúa Nguyễn",
-            "target": "Nhà Nguyễn",
+            "source": 91,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
-            "target": "Trần Trọng Kim",
+            "source": 92,
+            "target": 105,
             "value": 1
         },
         {
-            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
-            "target": "Trần Trọng Kim",
+            "source": 92,
+            "target": 105,
             "value": 1
         },
         {
-            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
-            "target": "Trần Trọng Kim",
+            "source": 92,
+            "target": 105,
             "value": 1
         },
         {
-            "source": "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN",
-            "target": "Trần Trọng Kim",
+            "source": 92,
+            "target": 105,
             "value": 1
         },
         {
-            "source": "Các chế độ nhịn ăn",
-            "target": "Health",
+            "source": 94,
+            "target": 81,
             "value": 1
         },
         {
-            "source": "Các chế độ nhịn ăn",
-            "target": "Health",
+            "source": 94,
+            "target": 81,
             "value": 1
         },
         {
-            "source": "Chúa Trịnh",
-            "target": "Thời Lê trung hưng",
+            "source": 95,
+            "target": 53,
             "value": 1
         },
         {
-            "source": "Chúa Trịnh",
-            "target": "Thời Lê trung hưng",
+            "source": 95,
+            "target": 53,
             "value": 1
         },
         {
-            "source": "Trần Thủ Độ",
-            "target": "Nhà Trần",
+            "source": 97,
+            "target": 58,
             "value": 1
         },
         {
-            "source": "Trần Thủ Độ",
-            "target": "Nhà Trần",
+            "source": 97,
+            "target": 58,
             "value": 1
         },
         {
-            "source": "Edward Jenner",
-            "target": "The Terrain Theory",
+            "source": 99,
+            "target": 73,
             "value": 1
         },
         {
-            "source": "Trần Quang Khải",
-            "target": "Trần Hưng Đạo",
+            "source": 101,
+            "target": 118,
             "value": 1
         },
         {
-            "source": "Tần Thủy Hoàng",
-            "target": "Nhà Chu",
+            "source": 102,
+            "target": 2,
             "value": 1
         },
         {
-            "source": "Tần Thủy Hoàng",
-            "target": "Nhà Chu",
+            "source": 102,
+            "target": 2,
             "value": 1
         },
         {
-            "source": "Martin Luther",
-            "target": "Cải Cách Kháng Nghị",
+            "source": 103,
+            "target": 79,
             "value": 1
         },
         {
-            "source": "Trần Trọng Kim",
-            "target": "Đế quốc Việt Nam",
+            "source": 105,
+            "target": 64,
             "value": 1
         },
         {
-            "source": "Niklas Luhmann",
-            "target": "Zettelkasten",
+            "source": 106,
+            "target": 35,
             "value": 1
         },
         {
-            "source": "Đổng Trác",
-            "target": "Nhà Hậu Hán",
+            "source": 107,
+            "target": 6,
             "value": 1
         },
         {
-            "source": "Hạ Vũ",
-            "target": "Đế Thuấn",
+            "source": 109,
+            "target": 112,
             "value": 1
         },
         {
-            "source": "Hạ Vũ",
-            "target": "Đế Thuấn",
+            "source": 109,
+            "target": 112,
             "value": 1
         },
         {
-            "source": "Thuận Thiên công chúa",
-            "target": "Trần Quang Khải",
+            "source": 111,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Thuận Thiên công chúa",
-            "target": "Trần Quang Khải",
+            "source": 111,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Thuận Thiên công chúa",
-            "target": "Trần Quang Khải",
+            "source": 111,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Thuận Thiên công chúa",
-            "target": "Trần Quang Khải",
+            "source": 111,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Thuận Thiên công chúa",
-            "target": "Trần Quang Khải",
+            "source": 111,
+            "target": 101,
             "value": 1
         },
         {
-            "source": "Đế Thuấn",
-            "target": "Đế Nghiêu",
+            "source": 112,
+            "target": 110,
             "value": 1
         },
         {
-            "source": "Nguyễn Hoàng",
-            "target": "Nhà Nguyễn",
+            "source": 113,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "Nguyễn Hoàng",
-            "target": "Nhà Nguyễn",
+            "source": 113,
+            "target": 38,
             "value": 1
         },
         {
-            "source": "Louis Pasteur",
-            "target": "Edward Jenner",
+            "source": 114,
+            "target": 99,
             "value": 1
         },
         {
-            "source": "Louis Pasteur",
-            "target": "Edward Jenner",
+            "source": 114,
+            "target": 99,
             "value": 1
         },
         {
-            "source": "Trần Liễu",
-            "target": "Trần Hưng Đạo",
+            "source": 115,
+            "target": 118,
             "value": 1
         },
         {
-            "source": "Trần Liễu",
-            "target": "Trần Hưng Đạo",
+            "source": 115,
+            "target": 118,
             "value": 1
         },
         {
-            "source": "Trần Liễu",
-            "target": "Trần Hưng Đạo",
+            "source": 115,
+            "target": 118,
             "value": 1
         },
         {
-            "source": "Trần Liễu",
-            "target": "Trần Hưng Đạo",
+            "source": 115,
+            "target": 118,
             "value": 1
         },
         {
-            "source": "Trần Liễu",
-            "target": "Trần Hưng Đạo",
+            "source": 115,
+            "target": 118,
             "value": 1
         },
         {
-            "source": "Lã Bố",
-            "target": "Đổng Trác",
+            "source": 116,
+            "target": 107,
             "value": 1
         },
         {
-            "source": "Lã Bố",
-            "target": "Đổng Trác",
+            "source": 116,
+            "target": 107,
             "value": 1
         },
         {
-            "source": "Lã Bố",
-            "target": "Đổng Trác",
+            "source": 116,
+            "target": 107,
             "value": 1
         },
         {
-            "source": "Thánh Phaolo",
-            "target": "Đức Jesus",
+            "source": 117,
+            "target": 98,
             "value": 1
         },
         {
-            "source": "Trần Hưng Đạo",
-            "target": "Nhà Trần",
+            "source": 118,
+            "target": 58,
             "value": 1
         },
         {
-            "source": "Trần Cảnh",
-            "target": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "source": 119,
+            "target": 52,
             "value": 1
         },
         {
-            "source": "Trần Cảnh",
-            "target": "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng",
+            "source": 119,
+            "target": 52,
             "value": 1
         },
         {
-            "source": "Lý Chiêu Hoàng",
-            "target": "Trần Cảnh",
+            "source": 120,
+            "target": 119,
             "value": 1
         },
         {
-            "source": "Lý Chiêu Hoàng",
-            "target": "Trần Cảnh",
+            "source": 120,
+            "target": 119,
             "value": 1
         },
         {
-            "source": "Lý Chiêu Hoàng",
-            "target": "Trần Cảnh",
+            "source": 120,
+            "target": 119,
             "value": 1
         }
     ]
