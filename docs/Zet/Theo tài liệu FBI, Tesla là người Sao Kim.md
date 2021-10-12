@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/FBI
+  - Zet/Akashic records
 title: Theo tài liệu FBI, Tesla là người Sao Kim
 UID: 211011224457
 created: 11-Oct-2021
@@ -30,6 +31,7 @@ Tóm tắt: [[Nicola Tesla]] nhiều lần tiếp xúc với [[Người ngoài h
 - Vậy là người ngoài hành tinh là có thật, và họ sống ngay trong hệ mặt trời?
 - Các lời nói của Tesla về cội nguồn tri thức có đúng không?
 - [[Akashic records]]
+- Một dạng sống vượt qua thể xác vật lý có tồn tại, [[Linh hồn]] có tồn tại?
 
 ## Questions:
 

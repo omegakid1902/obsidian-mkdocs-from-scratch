@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/The Epoch Times
+  - Zet/Kênh youtube giáo dục tự do 1
 title: Các kênh thông tin trái chiều
 UID: 211005231658
 created: 05-Oct-2021
@@ -19,3 +20,10 @@ publish: True
 - [ntdvn.com](https://www.ntdvn.com/)
 - [tinhhoa.net](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
 	- Dùng search engine của trang này ra khá nhiều bài viết tiếng Việt
+- [[Kênh youtube giáo dục tự do 1]]
+
+## Huyền bí
+- [albatross-uav.org](https://albatross-uav.org)
+- [ms Ruby youtuber](https://www.youtube.com/channel/UCU3F2ZrYI68UKPxaw63lrYg) 
+- [mr. X8 youtuber](https://www.youtube.com/channel/UCoBU4P9mOn5Auwb5Mr9GR6w)
+- [thuctinhtamlinh.blogspot.com](https://thuctinhtamlinh.blogspot.com/)
