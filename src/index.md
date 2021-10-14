@@ -3,17 +3,33 @@ title: index
 tags:
   - pages
 ---
-# Welcome to MkDocs
+# Enter the garden
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Chào mừng bạn đã đến với khu vườn ghi chú.
 
-## Commands
+## Nghiên cứu
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Lịch sử
+- [[Lịch Sử Việt Nam]]
+- [[Lịch sử Trung Quốc]]
 
-## Feature checking
+### Tôn giáo
+- [[Công Giáo]]
+- [[Do Thái Giáo]]
+- [[Ấn Độ giáo]]
 
-[Feature checking](feature checking.md)
+### Sinh học
+- [[Health]]
+
+### Personal
+- [[Self Improvement|Phát triển bản thân]]
+- [[❕ Topics to research]]
+
+## Công cụ:
+- [[No file]]
+- [[⏩ Quick note]]
+- [[📑 Bookmark]]
+
+## Giải trí
+- [[Phim hay]]
+
