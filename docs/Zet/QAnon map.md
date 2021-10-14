@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Lucifer
+  - Zet/People/Donald J. Trump
 title: QAnon map
 UID: 210920220953
 created: 20-Sep-2021
