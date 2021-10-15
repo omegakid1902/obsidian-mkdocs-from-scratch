@@ -24,6 +24,9 @@ https://vi.sawakinome.com/articles/science--nature/difference-between-germ-theor
 	3. [sai-lam-cua-louis-pasteur](https://suckhoetoandien.com.vn/sai-lam-cua-louis-pasteur/)
 	4. Lý thuyết được phat triển thêm bởi [[Claude Bernard]]
 		1. [[@ kduoc.com, Nguyên nhân gây ra ung thư]] -> [link bài viết gốc](https://kduoc.com/kien-thuc-chung/kien-thuc-ung-thu/nguyen-nhan-gay-ra-ung-thu/)
+	5. [ban-khong-the-bi-lay-nhiem-vi-trung-vi-khuan-hoac-nam-candida](https://thegreatawakeningvn.wordpress.com/2021/03/17/vaccine-ban-khong-the-bi-lay-nhiem-vi-trung-vi-khuan-hoac-nam-candida/)
+2. Ngay khi hấp hối, Pasteur tuyên bố rằng Bechamp đúng: "Môi trường là tất cả, vi trùng không là gì cả!". Nhưng [[Mafia y tế]] lợi dụng thuyết của Pasteur để trục lợi
+[[Ethel Douglas Hume]] vạch trần [[Louis Pasteur]] bằng quyển sách viết năm 1923
 - Book [[@ Ethel D. Hume, Bechamp or Pasteur - A Lost Chapter in the history of biology]]
 	- [Goodreads](https://www.goodreads.com/book/show/814789.Bechamp_or_Pasteur_)
 - Book [[@ Ethel D. Hume, Pasteur Exposed]]

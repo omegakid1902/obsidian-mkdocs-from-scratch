@@ -21,6 +21,7 @@ publish: True
 - [tinhhoa.net](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
 	- Dùng search engine của trang này ra khá nhiều bài viết tiếng Việt
 - [[Kênh youtube giáo dục tự do 1]]
+- [thegreatawakeningvn.wordpress.com](https://thegreatawakeningvn.wordpress.com/2021/03/17/vaccine-ban-khong-the-bi-lay-nhiem-vi-trung-vi-khuan-hoac-nam-candida/)
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)

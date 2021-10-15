@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Nicola Tesla
 backlinks:
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
 title: Akashic records

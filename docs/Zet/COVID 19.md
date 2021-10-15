@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/The Terrain Theory
 publish: True
 ---
 # COVID 19
@@ -14,3 +16,6 @@ COVID 19 (hay 2019-nCoV) là tên gọi của bệnh viêm đường hô hấp d
 
 ## Questions & thoughts:
 
+
+## Backlinks:
+- [[The Terrain Theory]]

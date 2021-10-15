@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Donald J. Trump
   - Zet/FED
+  - Zet/People/Nicola Tesla
 backlinks:
   - Zet/FED
 title: NESARA
