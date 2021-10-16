@@ -6626,6 +6626,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://omegakid1902.github.io/Zet/Covid-19%20map/</loc>
+         <lastmod>2021-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://omegakid1902.github.io/Zet/Crop%20Circle/</loc>
          <lastmod>2021-10-16</lastmod>
          <changefreq>daily</changefreq>
@@ -6682,6 +6687,11 @@
     </url>
     <url>
          <loc>https://omegakid1902.github.io/Zet/Flask%20lib/</loc>
+         <lastmod>2021-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://omegakid1902.github.io/Zet/Food%20industry%20map/</loc>
          <lastmod>2021-10-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -6896,12 +6906,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://omegakid1902.github.io/Zet/QAnon%20map/</loc>
+         <loc>https://omegakid1902.github.io/Zet/QAnon/</loc>
          <lastmod>2021-10-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://omegakid1902.github.io/Zet/QAnon/</loc>
+         <loc>https://omegakid1902.github.io/Zet/Qmap/</loc>
          <lastmod>2021-10-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -7021,7 +7031,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://omegakid1902.github.io/Zet/T%C3%B3m%20t%E1%BA%AFt%20s%C3%A1ch%20truy%E1%BB%81n%20thuy%E1%BA%BFt%20b%E1%BB%87nh%20l%C3%A2y%20nhi%E1%BB%85m/</loc>
+         <loc>https://omegakid1902.github.io/Zet/T%C3%B3m%20t%E1%BA%AFt%20s%C3%A1ch%20truy%E1%BB%81n%20thuy%E1%BA%BFt%20v%E1%BB%81%20s%E1%BB%B1%20l%C3%A2y%20nhi%E1%BB%85m/</loc>
          <lastmod>2021-10-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
