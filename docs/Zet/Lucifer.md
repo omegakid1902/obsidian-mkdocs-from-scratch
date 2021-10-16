@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Chiến tranh trên Thiên Đàng
   - Zet/Cựu Ước
 backlinks:
+  - Zet/Qmap
   - Zet/Chiến tranh trên Thiên Đàng
-  - Zet/QAnon map
 title: Lucifer
 UID: 210920221128
 created: 20-Sep-2021
@@ -57,5 +57,5 @@ Satan trong hình tượng con rắn cũng được xem là hiện thân của L
 - https://vi.wikipedia.org/wiki/Lucifer
 
 ## Backlinks:
+- [[Qmap]]
 - [[Chiến tranh trên Thiên Đàng]]
-- [[QAnon map]]

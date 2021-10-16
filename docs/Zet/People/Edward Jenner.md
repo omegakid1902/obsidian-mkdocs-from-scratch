@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/The Terrain Theory
 backlinks:
+  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/People/Louis Pasteur
 title: Edward Jenner
 UID: 211010164903
@@ -28,4 +29,5 @@ Edward Jenner là người đầu tiên nghiên cứu [[Vaccine]] và sử dụn
 ## Relate to:
 - [Wiki Tiếng Việt](https://vi.wikipedia.org/wiki/Edward_Jenner)
 ## Backlinks:
+- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
 - [[Louis Pasteur]]
