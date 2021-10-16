@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Louis Pasteur
   - Zet/COVID 19
 backlinks:
+  - Zet/Tóm tắt sách truyền thuyết bệnh lây nhiễm
   - Zet/People/Edward Jenner
 title: The Terrain Theory
 UID: 211010113408
@@ -43,4 +44,5 @@ Theo Bechamp, vi khuẩn là sản phẩm sinh ra từ bệnh chứ không phả
 
 [^hoichung5g]:https://thegreatawakeningvn.wordpress.com/2021/08/05/hoi-chung-covid-5g/
 ## Backlinks:
+- [[Tóm tắt sách truyền thuyết bệnh lây nhiễm]]
 - [[Edward Jenner]]
