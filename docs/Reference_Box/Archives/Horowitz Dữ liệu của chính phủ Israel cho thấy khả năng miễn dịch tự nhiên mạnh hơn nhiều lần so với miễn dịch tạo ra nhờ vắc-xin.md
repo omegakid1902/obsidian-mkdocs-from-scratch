@@ -1,0 +1,44 @@
+![](https://nguyenthienha.files.wordpress.com/2021/07/horowitz-israeli-government-data-shows-natural-immunity-to-infection-is-1024x512-1.jpg?w=1024)
+
+Tất cả những gì các “chuyên gia” y tế công cộng nói về những thiếu sót trong khả năng miễn dịch của con người do lây nhiễm thực sự nghe có vẻ rất thuận lợi cho \[việc phát triển\] vắc-xin. Nếu bạn nói chuyện với bất kỳ người nào trên đường phố, họ sẽ khẳng định với bạn, dựa trên mọi bài báo đã được kiểm duyệt mà họ đọc trực tuyến, rằng vắc xin mạnh hơn virus về mặt miễn dịch. Tuy nhiên dữ liệu mới từ Israel, trung tâm của các cơn cuồng loạn vắc-xin hàng loạt, đã cho thấy điều ngược lại.
+
+Kênh 13 của Israel báo cáo dữ liệu rất sơ bộ cho thấy sự bùng phát trở lại của các ca nhiễm COVID ở Israel hầu như chỉ từ những người chưa từng bị nhiễm bệnh trước đó – cho dù đã tiêm phòng hay không. Trên thực tế, 40% trong số 7.700 trường hợp mắc mới kể từ ngày 1/5 tại quốc gia đã được kiểm tra và truy vết rất nghiêm ngặt đều là những người đã được tiêm chủng đầy đủ.
+
+Tin tức Quốc gia Israel báo cáo rằng dữ liệu này đã được trình bày cho Bộ Y tế Israel và đưa ra bảng phân tích sau đây về các trường hợp “nhiễm bệnh đột phá” ở những người được tiêm chủng so với những người đã bị nhiễm trước đó:
+
+-   Với tổng số 835.792 người Israel được biết là đã khỏi bệnh, 72 trường hợp tái nhiễm chiếm 0,0086% những người đã bị nhiễm COVID.
+-   Ngược lại, những người Israel được tiêm phòng có nguy cơ bị nhiễm bệnh sau khi tiêm cao gấp 6,72 lần so với sau khi lây nhiễm tự nhiên, với hơn 3.000 người trong số 5.193.499 người, tương đương 0,0578%, người Israel đã tiêm phòng bị nhiễm bệnh trong đợt vừa qua.
+
+Với hơn 60% dân số tương ứng của họ hiện đã được tiêm chủng đầy đủ, Israel và Anh là những nghiên cứu điển hình hoàn hảo chứng minh rằng vắc xin không đóng vai trò chủ yếu trong việc làm chậm sự lây lan của vi rút. Nếu bạn so sánh tất cả các quốc gia châu Âu về tỷ lệ mắc bệnh trên một triệu trường hợp gần đây với tỷ lệ tiêm chủng, bạn sẽ thấy mối tương quan bằng 0 và trên thực tế, các quốc gia Đông Âu có tỷ lệ tiêm chủng thấp nhưng dường như có ít trường hợp nhiễm vi rút hơn.
+
+Tiến sĩ Ryan Cole, một nhà nghiên cứu bệnh học được đào tạo tại Mayo Clinic, người điều hành phòng thí nghiệm độc lập lớn nhất của Idaho, đã giải thích cho tôi cách miễn dịch do các trường hợp lây nhiễm hoạt động sâu hơn và rộng hơn nhiều. Tiến sĩ Cole, người đã dành 16 tháng qua để kiểm tra và nuôi cấy SARS-CoV-2 cho biết: _“Sự lây nhiễm tự nhiên tạo ra hàng trăm và hàng trăm kháng thể chống lại tất cả các protein của virus, bao gồm vỏ, màng, nucleocapsid và đỉnh… Hàng chục và hàng chục kháng thể sẽ vô hiệu hóa vi rút khi gặp lại nó. Ngoài ra, do hệ thống miễn dịch tiếp xúc với nhiều protein (biểu mô) này, các tế bào T của chúng ta cũng phát triển trí nhớ mạnh mẽ. Tế bào T là “biển” của hệ thống miễn dịch và là tuyến phòng thủ đầu tiên chống lại các tác nhân gây bệnh. Bộ nhớ tế bào T ở những người bị nhiễm SARSCOV1 là từ lúc 17 tuổi vẫn tiếp tục hoạt động sau đó”._
+
+Tuy nhiên, đối với khả năng miễn dịch do vắc-xin gây ra, theo Cole, _“chúng tôi gắn phản ứng kháng thể chỉ chống lại các đỉnh và các protein cấu thành của n_ó”. Ông giải thích cách này tạo ra các kháng thể trung hòa ít hơn nhiều, và _“bởi vì vi rút luôn ưu tiên đột biến ở mức đỉnh, các protein này sẽ biến đổi có hình dạng khác nhau và các kháng thể không còn có thể “khóa và liên kết” với các dạng_ _mới này”._
+
+Việc các chính phủ trên thế giới đề xuất rằng _“những người có khả năng miễn dịch tự nhiên sâu rộng hơn mạo hiểm với các tác dụng phụ của một loại vắc-xin mà hiệu quả của chúng hiện nay được cho là sẽ suy yếu”_ sẽ được xem là không khác gì một hành vi phạm tội hình sự. Phần lớn trọng tâm hiện nay là nỗi sợ hãi của mọi người về ‘biến thể Delta’, nhưng rất có thể hiệu quả của vắc xin sẽ giảm dần (trái với những gì họ đã dự đoán về một dịch bệnh lây nhiễm tự nhiên) theo thời gian, bất kể là đối với chủng đột biến hay không. Một số quan chức y tế Israel đang suy đoán rằng khả năng miễn dịch do vắc-xin gây ra có thể suy yếu sau sáu tháng, đó là lý do tại sao Pfizer đang thúc đẩy tiêm nhắc lại liều thứ ba mà không rút kinh nghiệm về những trường hợp tử vong và tác dụng phụ không đáng có.
+
+> Mọi người cứ thế chịu đựng rủi ro để đổi lấy khả năng miễn dịch đáng ngờ.
+
+Hãy so sánh giải pháp đó với khả năng miễn dịch sau khi bị lây nhiễm, vốn đã được chứng minh là bền vững trong tất cả các nghiên cứu. Các nhà nghiên cứu Ailen gần đây đã công bố một đánh giá về 11 nghiên cứu với hơn 600.000 bệnh nhân COVID đã phục hồi, những người được theo dõi trong hơn 10 tháng. Họ phát hiện ra rằng _tỷ lệ tái nhiễm chỉ là 0,27%_, và đặc biệt là _“không có nghiên cứu nào cho thấy nguy cơ tái nhiễm gia tăng theo thời gian”._
+
+Ngoài ra, nghiên cứu duy nhất (từ Qatar) đã phân tích ước tính nguy cơ tái nhiễm ở cấp độ dân số dựa trên giải trình tự toàn bộ bộ gen ở một nhóm nhỏ bệnh nhân có bằng chứng tái nhiễm với nguy cơ ước tính là 0,1%. Quan trọng hơn, nghiên cứu không tìm thấy bằng chứng về sự suy giảm khả năng miễn dịch trong hơn bảy tháng theo dõi. Một vài trường hợp tái nhiễm đã xảy ra nhưng _“ít nghiêm trọng hơn so với lần nhiễm bệnh ban đầu_” và _“chỉ có một trường hợp tái nhiễm là nghiêm trọng, hai trường hợp ở mức độ trung bình và không có trường hợp nào nguy kịch hoặc tử_ _vong”._
+
+Bất chấp sự tìm kiếm vô tận của các phương tiện truyền thông về các trường hợp tái nhiễm nặng, họ vẫn không tìm thấy ở những ca từng dương tính. Tiến sĩ Peter McCullough, bác sĩ tim mạch và phó giám đốc y khoa tại Trung tâm Y tế Đại học Baylor ở Dallas, Texas, nói với tôi trong một cuộc phỏng vấn rằng _“chưa bao giờ có ca nhiễm bệnh thứ hai được xác nhận sau 90 ngày với các triệu chứng cơ bản tương tự hoặc tệ hơn và không tìm ra kết quả dương tính khi kiểm tra trình tự trong các trường hợp bệnh nhân có hồ sơ ghi nhận nhiễm bệnh_“. Ông lưu ý rằng hầu hết các nghiên cứu cơ sở dữ liệu cố gắng định lượng sự tái nhiễm đều “_không đủ độ tin cậy để báo cáo về các trường hợp tái phát. Và thường chứa dương tính giả trong một hoặc nhiều trường hợp”_.
+
+McCullough là một trong năm nhà nghiên cứu y khoa được xuất bản nhiều nhất ở Hoa Kỳ, và bài báo của ông trên Tạp chí Y khoa Hoa Kỳ vào tháng 8 năm 2020 [về phác đồ điều trị COVID](https://www.google.com/url?sa=t&source=web&rct=j&url=https://lymediseaseassociation.org/about-lyme/research-articles/peter-a-mccullough-md-mph-covid-19-treatment-protocols/%3Fprint%3Dpdf&ved=2ahUKEwifydvq1uPxAhXoIbcAHffcAIsQFnoECAkQAQ&usg=AOvVaw38EZgicNhVBsEkLAXKZJD_) vẫn là bài báo được tải xuống và sử dụng nhiều nhất trong đại dịch của nhật ký này.
+
+Các phương tiện truyền thông đã liên tục tập trung vào mức độ kháng thể và quan sát rằng chúng thường giảm đi trong nhiều tháng sau khi nhiễm bệnh; tuy nhiên, cũng như các loại virus khác, điều này không cho thấy khả năng miễn dịch giảm. Tiến sĩ Cole giải thích: _“Đúng vậy, mức độ kháng thể của chúng ta giảm theo thời gian, tuy nhiên, về mặt khoa học, người ta đã chứng minh rằng các tế bào B bộ nhớ sẽ tạo ra kháng thể có trong các hạch bạch huyết và tủy xương của chúng ta”_. ^21cfca
+
+Tiến sĩ Cole giải thích: _“Chúng đã được “mồi sẵn” và sẵn sàng tạo ra nhiều loại kháng thể trước khi tiếp xúc với virus. Về mặt sinh lý, năng lượng không thể lúc nào cũng duy trì mức độ kháng thể cao chống lại tất cả các mầm bệnh mà chúng ta thường xuyên tiếp xúc, _nếu hệ miễn dịch bị ép buộc là_m như vậy, chúng ta sẽ giống như kẹo dẻo, lúc nào cũng luôn có hạch bạch huyết sưng vù_“.
+
+_Vào tháng 4, các nhà nghiên cứu tạ_i Đại học Tel Aviv đã kết luận rằng nghiên cứu của họ _“đặt ra câu hỏi có cần thiết phải tiêm phòng cho những người mới bị nhiễm bệnh trước đây_”. Thật không may, có vẻ như chính phủ Israel đã không lắng nghe vấn đề này.
+
+Do đó, trong điều trị các biến thể như “Delta”, bằng cách chỉ tập trung vào các mũi tiêm rủi ro với hiệu quả đáng ngờ là chiến lược phản tác dụng nhất ở mọi thời đại. Dữ liệu rất toàn diện của Vương quốc Anh được cập nhật vào tuần trước chỉ cho thấy tỷ lệ tử vong trong trường hợp là 0,2% đối với Delta và chỉ 0,03% đối với những người dưới 50 tuổi, thấp hơn mức tử vong của bất kỳ biến thể nào khác.
+
+> Nếu vi rút dễ lây lan hơn, nó sẽ ít gây chết người hơn.
+
+Lây nhiễm tự nhiên là hiện tượng duy nhất và cuối cùng sẽ tiêu diệt tất cả các biến thể, và cần nhấn mạnh vào việc điều trị sớm cho người cao tuổi và những người dễ bị tổn thương khác, ngay khi họ gặp các triệu chứng và thậm chí là phác đồ dự phòng bằng ivermectin hoặc hydroxychloroquine, nếu có.
+
+Chỉ cần tưởng tượng nếu tất cả hàng nghìn tỷ đô la chi tiêu cho vắc-xin đã được sử dụng cho các phương pháp điều trị kháng vi-rút và kháng viêm rẻ tiền đã sử dụng bên ngoài bệnh viện. Đây là điều duy nhất đã không được ngó ngàng tới, trong khi mục tiêu duy nhất không gì khác ngoài cứu sống mạng người.
+
+___
