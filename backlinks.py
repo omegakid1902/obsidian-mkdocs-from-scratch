@@ -272,7 +272,7 @@ for node in nodes:
             link_info["target"] = nodes[outgoing]["id"]
         except KeyError:
             link_info["target"] = 0
-            print(outgoing + "node is not exist!)
+            print(outgoing + "node is not exist!")
 
         link_info["value"] = 1
         graph_nodes["links"].append(link_info)
