@@ -230,9 +230,10 @@ for node in nodes:
         nodes[node]["outgoing_links"].remove(node)
 
     nodes[node]["outgoing_links"] = list(dict.fromkeys(nodes[node]["outgoing_links"]))
-
+    print("file name", node)
     for outgoing_idx in range(len(nodes[node]["outgoing_links"])):
 
+        print("target_node_name", target_node_name)
         target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
         nodes[target_node_name]['backlinks'].append(node)
 
