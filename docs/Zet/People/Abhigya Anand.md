@@ -2,6 +2,7 @@
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Các nhà tiên tri
+  - Zet/Thế giới tâm linh
 title: Abhigya Anand
 UID: 211015223315
 tags:
@@ -24,3 +25,4 @@ Chuyên về chiêm tinh học
 ## Backlinks:
 - [[Đại dịch COVID-19]]
 - [[Các nhà tiên tri]]
+- [[Thế giới tâm linh]]

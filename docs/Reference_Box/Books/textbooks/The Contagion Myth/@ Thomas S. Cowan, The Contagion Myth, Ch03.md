@@ -1,4 +1,5 @@
 [[@ Thomas S. Cowan, The Contagion Myth]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch02|<- Chương 2]] | [[@ Thomas S. Cowan, The Contagion Myth, Ch04|Chương 4 ->]]
 
 # CHƯƠNG 3 ĐẠI DỊCH

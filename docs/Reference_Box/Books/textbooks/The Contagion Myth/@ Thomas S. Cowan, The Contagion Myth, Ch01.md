@@ -1,4 +1,5 @@
 [[@ Thomas S. Cowan, The Contagion Myth]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Phần mở đầu|<- Mở đầu]] | [[@ Thomas S. Cowan, The Contagion Myth, Ch02|Chương 2 ->]]
 
 

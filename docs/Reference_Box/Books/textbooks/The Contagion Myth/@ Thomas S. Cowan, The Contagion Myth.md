@@ -12,23 +12,35 @@ tags:
 Phần 1: VẠCH TRẦN THUYẾT VI TRÙNG
 
 [[@ Thomas S. Cowan, The Contagion Myth, Ch01]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch02]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch03]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch04]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch05]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch06]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch07]]
 
 ## PHẦN 2 WHAT CAUSES DISEASE?
 PHẦN 2 NGUYÊN NHÂN BỆNH TẬT LÀ GÌ
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch08]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch09]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch10]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch11]]
 
 ## PHẦN 3 LỰA CHỌN
 [[@ Thomas S. Cowan, The Contagion Myth, Ch12]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch13]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch14]]
 
 

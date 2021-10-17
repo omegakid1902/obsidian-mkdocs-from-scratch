@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Luân xa
   - Zet/Cơ thể con người có 7 luân xa
   - Zet/Luân xa xương cùng
 title: Luân xa rốn
@@ -25,5 +26,6 @@ Luân xa rốn, hay Manipura chakra
 
 
 ## Backlinks:
+- [[Luân xa]]
 - [[Cơ thể con người có 7 luân xa]]
 - [[Luân xa xương cùng]]

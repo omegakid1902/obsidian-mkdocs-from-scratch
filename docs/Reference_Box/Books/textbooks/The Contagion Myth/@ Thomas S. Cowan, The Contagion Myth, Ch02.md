@@ -1,4 +1,5 @@
 [[@ Thomas S. Cowan, The Contagion Myth]]
+
 [[@ Thomas S. Cowan, The Contagion Myth, Ch01|<- Chương 1]] | [[@ Thomas S. Cowan, The Contagion Myth, Ch03|Chương 3 ->]] 
 
 # CHƯƠNG 2 NĂNG LƯỢNG ĐIỆN VÀ BỆNH TẬT

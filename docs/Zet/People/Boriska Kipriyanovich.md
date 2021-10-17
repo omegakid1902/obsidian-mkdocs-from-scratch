@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Các nhà tiên tri
+  - Zet/Thế giới tâm linh
 title: Boriska Kipriyanovich
 UID: 211015223547
 tags:
@@ -35,3 +36,4 @@ Thông điệp:
 ## Backlinks:
 - [[Đại dịch COVID-19]]
 - [[Các nhà tiên tri]]
+- [[Thế giới tâm linh]]

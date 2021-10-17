@@ -1,4 +1,7 @@
 ---
+backlinks:
+  - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
+  - Zet/Thế giới tâm linh
 title: Khủng hoảng hiện sinh
 UID: 
 created: Jan 07, 2021 10:29 PM
@@ -16,12 +19,8 @@ publish: True
 
 
 ## Ideas & thoughts:
-[[Chủ Nghĩa Hiện Sinh]]
-
-## Questions:
-
-
-## Relate to:
+- [[Chủ Nghĩa Hiện Sinh]]
+- [[Thức tỉnh tâm linh]]
 - [[❕ Ý nghĩa cuộc sống]]
 
 ## Reference:
@@ -29,3 +28,7 @@ publish: True
 
 
 
+
+## Backlinks:
+- [[Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh]]
+- [[Thế giới tâm linh]]

@@ -1,3 +1,6 @@
+[[@ Thomas S. Cowan, The Contagion Myth]]
+
+[[@ Thomas S. Cowan, The Contagion Myth, Ch13|<- Chương 13]]
 
 CHƯƠNG 14
 5G AND THE FUTURE OF HUMANITY

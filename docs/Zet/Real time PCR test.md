@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/CDC
+  - Zet/FDA
   - Zet/SARS-COV-2
 backlinks:
   - Zet/Đại dịch COVID-19

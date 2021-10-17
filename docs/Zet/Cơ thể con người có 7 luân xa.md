@@ -1,7 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Luân xa
   - Zet/Luân xa xương cùng
   - Zet/Luân xa rốn
+backlinks:
+  - Zet/Luân xa
 title: Cơ thể con người có 7 luân xa
 UID: 211017144558
 created: 17-Oct-2021
@@ -29,3 +32,6 @@ Cơ thể con người có 7 [[Luân xa]]
 
 ## Reference:
 - [Giới thiệu về 7 luân xa - hay còn gọi là Chakra (luanxa.com.vn)](https://luanxa.com.vn/gioi-thieu-ve-7-luan-xa/)
+
+## Backlinks:
+- [[Luân xa]]
