@@ -55,9 +55,9 @@ jobs:
           cp -rf src/graph_view docs/
           cp -rf src/*.md docs/
           python backlinks.py
-          python mdgraph/mdgraph.py mdgraph/mdgraph_config.json
+          #python mdgraph/mdgraph.py mdgraph/mdgraph_config.json
           make build-docs
-          cp -rf docs/mdgraph site
+          #cp -rf docs/mdgraph site
           echo "ls -a ../"
           ls -a ../
           rm -rf ../site
