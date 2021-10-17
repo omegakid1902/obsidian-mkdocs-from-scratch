@@ -1,10 +1,12 @@
 ---
 outgoing_links:
+  - Zet/People/Antoine Beauchamp
   - Zet/Các lý thuyết về nguyên nhân gây bệnh ung thư
   - Zet/People/Edward Jenner
 backlinks:
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/The Terrain Theory
+  - Zet/People/Antoine Beauchamp
 title: Louis Pasteur
 UID: 211010111029
 tags:
@@ -28,3 +30,4 @@ Louis Pasteur đưa ra [[The Germ theory]]
 ## Backlinks:
 - [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
 - [[The Terrain Theory]]
+- [[Antoine Beauchamp]]

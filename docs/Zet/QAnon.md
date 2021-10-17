@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/People/Bill Gates
   - Zet/People/Donald J. Trump
 title: QAnon
 UID: 210918215753
@@ -22,4 +23,5 @@ publish: True
 ## Related:
 
 ## Backlinks:
+- [[Bill Gates]]
 - [[Donald J. Trump]]

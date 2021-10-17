@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Stephen Hawking
 backlinks:
+  - Zet/Đại dịch COVID-19
   - Zet/Các nhà tiên tri
 title: Boriska Kipriyanovich
 UID: 211015223547
@@ -32,4 +33,5 @@ Thông điệp:
 ## Source:
 - [Cậu Bé Thiên Tài "đến từ Sao Hỏa" và những dự ngôn cho con người Trái Đất - Tinh Hoa TV](https://www.youtube.com/watch?v=jrxy8kp-H3o&t=936s)
 ## Backlinks:
+- [[Đại dịch COVID-19]]
 - [[Các nhà tiên tri]]

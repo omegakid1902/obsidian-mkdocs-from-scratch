@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Mafia y tế
 backlinks:
   - Zet/Các kênh thông tin trái chiều
 title: Kênh youtube giáo dục tự do 1

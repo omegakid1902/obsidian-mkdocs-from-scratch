@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/The Terrain Theory
+  - Zet/People/Antoine Beauchamp
 backlinks:
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/People/Louis Pasteur

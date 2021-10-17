@@ -2,7 +2,11 @@
 outgoing_links:
   - Zet/Bốn nguyên tắc xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
   - Zet/The Terrain Theory
+  - Zet/SARS-COV-2
+  - Zet/MERS-CoV
   - Zet/People/Edward Jenner
+backlinks:
+  - Zet/Đại dịch COVID-19
 title: Tóm tắt sách truyền thuyết bệnh lây nhiễm
 UID: 211016110010
 created: 16-Oct-2021
@@ -41,7 +45,7 @@ publish: True
 - Tàu [[The Diamond Princess]] sử dụng ăng ten thu sóng [[Mạng 5G]]
 - [[EMF]]
 - *"Quan trọng nhất, chúng tôi sẽ chỉ ra rằng các phần tử nhỏ được gọi là vi rút thực sự là các exosomes"*
-- [[exosomes]]
+- [[Exosomes]]
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch03|Chương 3 Đại dịch]]
 - Trong lịch sử, sao chổi xuất hiện là điềm báo cho sự diệt vong của một triều đại, do sự thay đổi, ảnh hưởng sóng trong vũ trụ??
 	- [[Giả thuyết Panspermia]] mối tương quan giữa sao chổi và bệnh tật
@@ -101,3 +105,6 @@ publish: True
 - [[Bệnh Zika]]
 - [[Bệnh dịch tả lợn Châu Phi]] từ đâu?
 - 
+
+## Backlinks:
+- [[Đại dịch COVID-19]]

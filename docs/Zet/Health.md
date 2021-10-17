@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Đại dịch COVID-19
   - Zet/Các chế độ nhịn ăn
 backlinks:
   - Zet/Các chế độ nhịn ăn
@@ -32,7 +33,7 @@ publish: True
 
 ### Các loại bệnh tật
 - [[Cảm cúm]]
-- [[Đại dịch COVID-19 MOC]]
+- [[Đại dịch COVID-19]]
 - [[Bệnh tiểu đường]]
 - [[Táo bón]]
 - [[Bệnh tim mạch]]
