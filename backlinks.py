@@ -303,7 +303,10 @@ for root, dirs, files in os.walk(base_docs_url):
 
             # print(content)
             for link_id in range(len(nodes[file_name_strip]["outgoing_links"])):
-                content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["outgoing_links"][link_id]]["url"].replace(".md", "") + "\n")
+                try:
+                    content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["outgoing_links"][link_id]]["url"].replace(".md", "") + "\n")
+                except KeyError:
+                    print("KeyError", file_name_strip, link_id)
             
             with open(os.path.join(root, file), 'w', encoding="utf-8") as f:
                 content = "".join(content)
