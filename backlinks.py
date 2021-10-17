@@ -233,8 +233,8 @@ for node in nodes:
     print("file name", node)
     for outgoing_idx in range(len(nodes[node]["outgoing_links"])):
 
-        print("target_node_name", target_node_name)
         target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
+        print("target_node_name", target_node_name)
         nodes[target_node_name]['backlinks'].append(node)
 
 for root, dirs, files in os.walk(base_docs_url):
