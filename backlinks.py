@@ -235,7 +235,10 @@ for node in nodes:
 
         target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
         print("target_node_name", target_node_name)
-        nodes[target_node_name]['backlinks'].append(node)
+        try:
+            nodes[target_node_name]['backlinks'].append(node)
+        except KeyError:
+            print(target_node_name + "node is not exist")
 
 for root, dirs, files in os.walk(base_docs_url):
     for file in files:
