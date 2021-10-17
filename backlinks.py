@@ -230,11 +230,11 @@ for node in nodes:
         nodes[node]["outgoing_links"].remove(node)
 
     nodes[node]["outgoing_links"] = list(dict.fromkeys(nodes[node]["outgoing_links"]))
-    print("file name", node)
+    # print("file name", node)
     for outgoing_idx in range(len(nodes[node]["outgoing_links"])):
 
         target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
-        print("target_node_name", target_node_name)
+        # print("target_node_name", target_node_name)
         try:
             nodes[target_node_name]['backlinks'].append(node)
         except KeyError:
@@ -268,7 +268,12 @@ for node in nodes:
             continue
 
         link_info["source"] = nodes[node]["id"]
-        link_info["target"] = nodes[outgoing]["id"]
+        try:
+            link_info["target"] = nodes[outgoing]["id"]
+        except KeyError:
+            link_info["target"] = 0
+            print(outgoing + "node is not exist!)
+
         link_info["value"] = 1
         graph_nodes["links"].append(link_info)
 
