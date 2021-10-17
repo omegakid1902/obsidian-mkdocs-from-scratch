@@ -53,6 +53,7 @@ jobs:
           cp -rf src/javascripts docs/
           cp -rf src/d3graph docs/
           cp -rf src/graph_view docs/
+          cp -rf src/*.md docs/
           python backlinks.py
           python mdgraph/mdgraph.py mdgraph/mdgraph_config.json
           make build-docs

@@ -21,9 +21,10 @@ for file in os.listdir(zet_folder):
             else:
                 pass
 
-release_folders = ["../zettelkasten/Zet"]
-for folder in release_folders:
-    copytree(folder, './docs/Zet')
+release_folders_publish_yaml = ["../zettelkasten/Zet"]
+for folder in release_folders_publish_yaml:
+    newfolder = folder.split("/")
+    copytree(folder, target + newfolder[-1])
 
 for root, dirs, files in os.walk(target):
     for file in files:
@@ -38,6 +39,9 @@ for root, dirs, files in os.walk(target):
                     os.remove(os.path.join(root, file))
 
 
+release_folders_totally = ["../zettelkasten/Spaces/Projects", "../zettelkasten/Reference_Box"]
+for folder in release_folders_totally:
+    newfolder = folder.split("/")
+    copytree(folder, target + newfolder[-1])
 
-folder = "../zettelkasten/Spaces/Projects"
-copytree(folder, './docs/Projects')
+

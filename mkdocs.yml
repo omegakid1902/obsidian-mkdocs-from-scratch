@@ -9,27 +9,13 @@ nav:
       - Phật giáo: Zet/Phật Giáo.md
       - Do Thái giáo: Zet/Do Thái Giáo.md
       - Tin lành: Zet/Tin Lành.md
-      - Kinh Thánh: 
-          - 'Projects/Bible Study Kit/Scripture (BPT)/The Bible.md'
-          - Cựu ước: Zet/Cựu Ước.md
+  - Kinh Thánh: 'Projects/Bible Study Kit/Scripture (BPT)/The Bible.md'
   - Lịch sử:
-      - Lịch sử Việt Nam: 
-          - Zet/Lịch Sử Việt Nam.md
-          - Âu Lạc: Zet/Âu Lạc.md
-          - Nhà Lý: Zet/Nhà Lý.md
-          - Nhà Trần: Zet/Nhà Trần.md
-          - Nhà Hậu Lê: 
-              - Zet/Nhà Hậu Lê.md
-              - Thời Lê sơ: Zet/Thời Lê sơ.md
-              - Thời Lê trung hưng: Zet/Thời Lê trung hưng.md
-          - Nhà Nguyễn: Zet/Nhà Nguyễn.md
-      - Lịch sử Trung Quốc:
-          - Zet/Lịch sử Trung Quốc.md
-          - Nhà Thương: Zet/Nhà Thương.md
-          - Nhà Chu: Zet/Nhà Chu.md
-          - Nhà Thanh: Zet/Nhà Thanh.md
+      - Lịch sử Việt Nam: Zet/Lịch Sử Việt Nam.md
+      - Lịch sử Trung Quốc: Zet/Lịch sử Trung Quốc.md
   - Programming: Zet/Programming.md
   - Zettelkasten: Zet/Zettelkasten.md
+  - Đại dịch COVID 19: Zet/Đại dịch COVID-19.md
 
 theme:
     name: material
