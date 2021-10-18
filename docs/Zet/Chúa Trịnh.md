@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Đàng Ngoài
   - Zet/Thời Lê trung hưng
 backlinks:
+  - Zet/Nhà Tây Sơn
   - Zet/Đàng Ngoài
   - Zet/Thời Lê trung hưng
   - Zet/Chúa Nguyễn
@@ -32,6 +33,7 @@ Dòng dõi chúa Trịnh khởi đi từ [[Trịnh Kiểm]]
 
 
 ## Backlinks:
+- [[Nhà Tây Sơn]]
 - [[Đàng Ngoài]]
 - [[Thời Lê trung hưng]]
 - [[Chúa Nguyễn]]

@@ -5,6 +5,7 @@ outgoing_links:
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Qmap
+  - Zet/Các kênh thông tin trái chiều
   - Zet/People/Bill Gates
 title: Eugenics
 UID: 210919163636
@@ -44,4 +45,5 @@ Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa tr�
 ## Backlinks:
 - [[Đại dịch COVID-19]]
 - [[Qmap]]
+- [[Các kênh thông tin trái chiều]]
 - [[Bill Gates]]

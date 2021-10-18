@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Thời Lê trung hưng
+  - Zet/Nhà Tây Sơn
   - Zet/People/Nguyễn Hoàng
   - Zet/Chúa Trịnh
   - Zet/Đàng Ngoài
@@ -8,6 +9,7 @@ outgoing_links:
   - Zet/Chúa Nguyễn
 backlinks:
   - Zet/Nhà Nguyễn
+  - Zet/Nhà Tây Sơn
   - Zet/Chúa Nguyễn
   - Zet/People/Nguyễn Hoàng
 title: Chúa Nguyễn
@@ -45,5 +47,6 @@ from [[Chúa Nguyễn]]
 ```
 ## Backlinks:
 - [[Nhà Nguyễn]]
+- [[Nhà Tây Sơn]]
 - [[Chúa Nguyễn]]
 - [[Nguyễn Hoàng]]

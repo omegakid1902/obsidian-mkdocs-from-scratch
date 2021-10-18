@@ -20,6 +20,7 @@ outgoing_links:
   - Zet/People/Boriska Kipriyanovich
 backlinks:
   - Zet/Coronavirus
+  - Zet/Các kênh thông tin trái chiều
   - Zet/Health
 title: Đại dịch COVID-19
 tags:
@@ -74,4 +75,5 @@ publish: True
 - https://1000covidstories.com/
 ## Backlinks:
 - [[Coronavirus]]
+- [[Các kênh thông tin trái chiều]]
 - [[Health]]

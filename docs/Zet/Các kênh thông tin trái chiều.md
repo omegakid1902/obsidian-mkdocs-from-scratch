@@ -1,7 +1,10 @@
 ---
 outgoing_links:
   - Zet/The Epoch Times
+  - Zet/Đại dịch COVID-19
   - Zet/Kênh youtube giáo dục tự do 1
+  - Zet/COVID-19
+  - Zet/Eugenics
 title: Các kênh thông tin trái chiều
 UID: 211005231658
 created: 05-Oct-2021
@@ -14,14 +17,16 @@ publish: True
 # Các kênh thông tin trái chiều
 
 ## Notes:
-- [nguyenthienha blog](https://nguyenthienha.files.wordpress.com)
+- [nguyenthienha blog](https://nguyenthienha.files.wordpress.com): các vấn đền về [[Pháp luân công]]
 - [[The Epoch Times]]: [theepochtimes.com](https://www.theepochtimes.com/)
-- [sirenwarning blog](https://sirenwarning.wordpress.com/blog/)
-- [ntdvn.com](https://www.ntdvn.com/)
-- [tinhhoa.net](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
-	- Dùng search engine của trang này ra khá nhiều bài viết tiếng Việt
-- [[Kênh youtube giáo dục tự do 1]]
-- [thegreatawakeningvn.wordpress.com](https://thegreatawakeningvn.wordpress.com)
+- [sirenwarning blog](https://sirenwarning.wordpress.com/blog/): các vấn đền về [[Pháp luân công]]
+- [ntdvn.com](https://www.ntdvn.com/): Các vấn đề thời sự về [[Đại dịch COVID-19]]
+- [tinhhoa.net](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html): Dùng search engine của trang này ra khá nhiều bài viết tiếng Việt
+- [[Kênh youtube giáo dục tự do 1]]: diễn giải các vấn đền về sức khỏe bệnh tật theo một hướng mới.
+- [thegreatawakeningvn.wordpress.com](https://thegreatawakeningvn.wordpress.com): Cung cấp một số bài viết, và các sách liên quan đến [[COVID-19]], [[Vaccine]],...
+- [riseearth.org](https://riseearth.org): về [[Hội Illuminati]], [[UFO]], [[Eugenics|Population control]], [[New World Order]]
+- [christianobserver.net](https://christianobserver.net/) tương tự riseearth.org
+- [abovetopsecret forum](https://www.abovetopsecret.com/forum/index.php) rảnh và mò xem.
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)

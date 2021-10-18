@@ -7,6 +7,7 @@ outgoing_links:
   - Zet/Nhà Hậu Lê
   - Zet/Thời Lê sơ
   - Zet/Thời Lê trung hưng
+  - Zet/Nhà Tây Sơn
   - Zet/Nhà Nguyễn
   - Zet/An Dương Vương
   - Zet/People/Lý Chiêu Hoàng
@@ -95,9 +96,11 @@ publish: True
 - [[@ wiki, Lịch sử Việt Nam]]
 - [[@ wiki, An Dương Vương]]
 - [[@ wiki, Bảo Đại]]
+- [[@ youtube.com, Câu chuyện Nguyễn Ánh và Quang Trung]]
 
 ### Book
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
+- [[@ George J. Veith, Gươm đã tuốt ra nơi miền đất xa xôi]]
 
 ## Backlinks:
 - [[Lịch sử]]
