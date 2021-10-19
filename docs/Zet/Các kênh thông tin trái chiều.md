@@ -27,6 +27,8 @@ publish: True
 - [riseearth.org](https://riseearth.org): về [[Hội Illuminati]], [[UFO]], [[Eugenics|Population control]], [[New World Order]]
 - [christianobserver.net](https://christianobserver.net/) tương tự riseearth.org
 - [abovetopsecret forum](https://www.abovetopsecret.com/forum/index.php) rảnh và mò xem.
+- https://innermostselves.wordpress.com/ tâm linh và [[Deep State]]
+- [humansarefree.com](https://humansarefree.com/) sự kiện thời sự.
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
