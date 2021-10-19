@@ -39,7 +39,8 @@ for root, dirs, files in os.walk(target):
                     os.remove(os.path.join(root, file))
 
 
-release_folders_totally = ["../zettelkasten/Spaces/Projects", "../zettelkasten/Reference_Box"]
+# "../zettelkasten/Reference_Box"
+release_folders_totally = ["../zettelkasten/Spaces/Projects"]
 for folder in release_folders_totally:
     newfolder = folder.split("/")
     copytree(folder, target + newfolder[-1])
