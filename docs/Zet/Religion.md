@@ -14,6 +14,8 @@ tags:
   - 'garden🏡'
   - 'permanent/concept'
   - 'religion'
+aliases:
+  - Tôn giáo
 publish: True
 ---
 # Religion
