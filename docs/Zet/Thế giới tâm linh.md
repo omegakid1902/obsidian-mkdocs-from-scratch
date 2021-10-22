@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Thức tỉnh tâm linh
   - Zet/Khủng hoảng hiện sinh
   - Zet/Luân xa
   - Zet/Các nhà tiên tri

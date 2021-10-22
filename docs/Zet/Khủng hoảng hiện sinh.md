@@ -1,5 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Thức tỉnh tâm linh
 backlinks:
+  - Zet/Bóng tối linh hồn
   - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
   - Zet/Thế giới tâm linh
 title: Khủng hoảng hiện sinh
@@ -31,5 +34,6 @@ publish: True
 
 
 ## Backlinks:
+- [[Bóng tối linh hồn]]
 - [[Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh]]
 - [[Thế giới tâm linh]]
