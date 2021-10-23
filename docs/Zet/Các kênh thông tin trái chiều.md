@@ -29,9 +29,12 @@ publish: True
 - [abovetopsecret forum](https://www.abovetopsecret.com/forum/index.php) rảnh và mò xem.
 - https://innermostselves.wordpress.com/ tâm linh và [[Deep State]]
 - [humansarefree.com](https://humansarefree.com/) sự kiện thời sự.
+- [Extraterrestrial Messages – We are all physically human, but some of us are looking at the stars… (home.blog)](https://extraterrestrialbeing.home.blog/)
+- [etsouls - Index (internetforum.info)](https://etsouls.internetforum.info/)
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
 - [ms Ruby youtuber](https://www.youtube.com/channel/UCU3F2ZrYI68UKPxaw63lrYg) 
 - [mr. X8 youtuber](https://www.youtube.com/channel/UCoBU4P9mOn5Auwb5Mr9GR6w)
 - [thuctinhtamlinh.blogspot.com](https://thuctinhtamlinh.blogspot.com/)
+- [etsouls - Index (internetforum.info)](https://etsouls.internetforum.info/)

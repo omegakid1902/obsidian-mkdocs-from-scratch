@@ -1,5 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Thánh Gioan Thánh giá là học trò của Teresa of Avila
 backlinks:
+  - Zet/Thánh Gioan Thánh giá là học trò của Teresa of Avila
   - Zet/Bóng tối linh hồn
 title: Thánh Gioan Thánh giá
 UID: 211022211249
@@ -19,7 +22,8 @@ publish: True
 ![[Pasted image 20211022211416.png]]
 
 ## Ideas & thoughts:
-- Người hướng dẫn của thánh Gioan Thánh giá là thánh [[Teresa of Avila]]
+- Thánh Gioan Thánh giá là học trò của [[Teresa of Avila]]
+- [[Thánh Gioan Thánh giá là học trò của Teresa of Avila]]
 - Các tác phẩm:
 	- [[@ John of the Cross, Ascent of Mount Carmel]]: Lên Núi Cát Minh
 	- [[@ John of the Cross, Dark Night of the Soul]]: Đêm Tối Linh Hồn
@@ -27,4 +31,5 @@ publish: True
 	- Living Flame of Love: Lửa Sống Yêu Thương
 - _Nếu một người đàn ông muốn chắc chắn về con đường anh ta đang đi thì  anh ta phải nhắm mắt lại và đi trong bóng tối._
 ## Backlinks:
+- [[Thánh Gioan Thánh giá là học trò của Teresa of Avila]]
 - [[Bóng tối linh hồn]]
