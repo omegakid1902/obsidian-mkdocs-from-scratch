@@ -912,7 +912,9 @@
     "Phật Giáo": {
         "id": 85,
         "url": "Zet/Phật Giáo.md",
-        "outgoing_links": [],
+        "outgoing_links": [
+            "Siddhartha Gautama"
+        ],
         "backlinks": [
             "Religion"
         ]
@@ -1655,8 +1657,14 @@
             "Louis Pasteur"
         ]
     },
-    "Ismael": {
+    "Zarathustra": {
         "id": 150,
+        "url": "Zet/People/Zarathustra.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Ismael": {
+        "id": 151,
         "url": "Zet/People/Ismael.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1664,7 +1672,7 @@
         ]
     },
     "Trần Quang Khải": {
-        "id": 151,
+        "id": 152,
         "url": "Zet/People/Trần Quang Khải.md",
         "outgoing_links": [
             "Trần Hưng Đạo"
@@ -1676,7 +1684,7 @@
         ]
     },
     "Tần Thủy Hoàng": {
-        "id": 152,
+        "id": 153,
         "url": "Zet/People/Tần Thủy Hoàng.md",
         "outgoing_links": [
             "Nhà Tần",
@@ -1690,7 +1698,7 @@
         ]
     },
     "Martin Luther": {
-        "id": 153,
+        "id": 154,
         "url": "Zet/People/Martin Luther.md",
         "outgoing_links": [
             "Cải Cách Kháng Nghị"
@@ -1701,7 +1709,7 @@
         ]
     },
     "Võ Tắc Thiên": {
-        "id": 154,
+        "id": 155,
         "url": "Zet/People/Võ Tắc Thiên.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1709,7 +1717,7 @@
         ]
     },
     "Trần Trọng Kim": {
-        "id": 155,
+        "id": 156,
         "url": "Zet/People/Trần Trọng Kim.md",
         "outgoing_links": [
             "Đế quốc Việt Nam"
@@ -1721,7 +1729,7 @@
         ]
     },
     "Stephen Hawking": {
-        "id": 156,
+        "id": 157,
         "url": "Zet/People/Stephen Hawking.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1729,7 +1737,7 @@
         ]
     },
     "Niklas Luhmann": {
-        "id": 157,
+        "id": 158,
         "url": "Zet/People/Niklas Luhmann.md",
         "outgoing_links": [
             "Zettelkasten"
@@ -1739,7 +1747,7 @@
         ]
     },
     "Đổng Trác": {
-        "id": 158,
+        "id": 159,
         "url": "Zet/People/Đổng Trác.md",
         "outgoing_links": [
             "Nhà Hậu Hán"
@@ -1750,8 +1758,16 @@
             "Lã Bố"
         ]
     },
+    "Siddhartha Gautama": {
+        "id": 160,
+        "url": "Zet/People/Siddhartha Gautama.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Phật Giáo"
+        ]
+    },
     "Donald J. Trump": {
-        "id": 159,
+        "id": 161,
         "url": "Zet/People/Donald J. Trump.md",
         "outgoing_links": [
             "QAnon"
@@ -1764,7 +1780,7 @@
         ]
     },
     "Phục Hi": {
-        "id": 160,
+        "id": 162,
         "url": "Zet/People/Phục Hi.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1772,7 +1788,7 @@
         ]
     },
     "Hạ Vũ": {
-        "id": 161,
+        "id": 163,
         "url": "Zet/People/Hạ Vũ.md",
         "outgoing_links": [
             "Nhà Hạ",
@@ -1783,7 +1799,7 @@
         ]
     },
     "Đế Nghiêu": {
-        "id": 162,
+        "id": 164,
         "url": "Zet/People/Đế Nghiêu.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1792,7 +1808,7 @@
         ]
     },
     "Eckhart Tolle": {
-        "id": 163,
+        "id": 165,
         "url": "Zet/People/Eckhart Tolle.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1800,7 +1816,7 @@
         ]
     },
     "Thuận Thiên công chúa": {
-        "id": 164,
+        "id": 166,
         "url": "Zet/People/Thuận Thiên công chúa.md",
         "outgoing_links": [
             "Lý Chiêu Hoàng",
@@ -1814,7 +1830,7 @@
         ]
     },
     "Đế Thuấn": {
-        "id": 165,
+        "id": 167,
         "url": "Zet/People/Đế Thuấn.md",
         "outgoing_links": [
             "Đế Nghiêu"
@@ -1825,7 +1841,7 @@
         ]
     },
     "Nguyễn Hoàng": {
-        "id": 166,
+        "id": 168,
         "url": "Zet/People/Nguyễn Hoàng.md",
         "outgoing_links": [
             "Chúa Nguyễn",
@@ -1837,7 +1853,7 @@
         ]
     },
     "Louis Pasteur": {
-        "id": 167,
+        "id": 169,
         "url": "Zet/People/Louis Pasteur.md",
         "outgoing_links": [
             "Antoine Beauchamp",
@@ -1851,7 +1867,7 @@
         ]
     },
     "Antoine Beauchamp": {
-        "id": 168,
+        "id": 170,
         "url": "Zet/People/Antoine Beauchamp.md",
         "outgoing_links": [
             "Louis Pasteur"
@@ -1865,7 +1881,7 @@
         ]
     },
     "Trần Liễu": {
-        "id": 169,
+        "id": 171,
         "url": "Zet/People/Trần Liễu.md",
         "outgoing_links": [
             "Trần Cảnh",
@@ -1881,7 +1897,7 @@
         ]
     },
     "Lã Bố": {
-        "id": 170,
+        "id": 172,
         "url": "Zet/People/Lã Bố.md",
         "outgoing_links": [
             "Nhà Hậu Hán",
@@ -1893,7 +1909,7 @@
         ]
     },
     "Thánh Phaolo": {
-        "id": 171,
+        "id": 173,
         "url": "Zet/People/Thánh Phaolo.md",
         "outgoing_links": [
             "Đức Jesus"
@@ -1903,7 +1919,7 @@
         ]
     },
     "Boriska Kipriyanovich": {
-        "id": 172,
+        "id": 174,
         "url": "Zet/People/Boriska Kipriyanovich.md",
         "outgoing_links": [
             "Stephen Hawking"
@@ -1915,7 +1931,7 @@
         ]
     },
     "Trần Hưng Đạo": {
-        "id": 173,
+        "id": 175,
         "url": "Zet/People/Trần Hưng Đạo.md",
         "outgoing_links": [
             "Nhà Trần"
@@ -1928,7 +1944,7 @@
         ]
     },
     "Trần Cảnh": {
-        "id": 174,
+        "id": 176,
         "url": "Zet/People/Trần Cảnh.md",
         "outgoing_links": [
             "Nhà Trần",
@@ -1943,7 +1959,7 @@
         ]
     },
     "Lý Chiêu Hoàng": {
-        "id": 175,
+        "id": 177,
         "url": "Zet/People/Lý Chiêu Hoàng.md",
         "outgoing_links": [
             "Nhà Lý",
@@ -1958,7 +1974,7 @@
         ]
     },
     "Thánh Gioan Thánh giá": {
-        "id": 176,
+        "id": 178,
         "url": "Zet/People/Thánh Gioan Thánh giá.md",
         "outgoing_links": [
             "Thánh Gioan Thánh giá là học trò của Teresa of Avila"
@@ -1969,7 +1985,7 @@
         ]
     },
     "Nicola Tesla": {
-        "id": 177,
+        "id": 179,
         "url": "Zet/People/Nicola Tesla.md",
         "outgoing_links": [
             "Theo tài liệu FBI, Tesla là người Sao Kim",
@@ -1984,13 +2000,13 @@
         ]
     },
     "Vua David": {
-        "id": 178,
+        "id": 180,
         "url": "Zet/People/Vua David.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "❕ Topics to research": {
-        "id": 179,
+        "id": 181,
         "url": "Zet/Thinking/❕ Topics to research.md",
         "outgoing_links": [],
         "backlinks": []
