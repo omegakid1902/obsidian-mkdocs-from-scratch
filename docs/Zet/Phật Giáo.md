@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Siddhartha Gautama
 backlinks:
   - Zet/Religion
 title: Phật Giáo

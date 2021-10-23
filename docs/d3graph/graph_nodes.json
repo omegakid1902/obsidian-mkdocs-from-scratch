@@ -902,180 +902,192 @@
         },
         {
             "id": 150,
+            "title": "Zarathustra",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/People/Zarathustra"
+        },
+        {
+            "id": 151,
             "title": "Ismael",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Ismael"
         },
         {
-            "id": 151,
+            "id": 152,
             "title": "Trần Quang Khải",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Quang Khải"
         },
         {
-            "id": 152,
+            "id": 153,
             "title": "Tần Thủy Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Tần Thủy Hoàng"
         },
         {
-            "id": 153,
+            "id": 154,
             "title": "Martin Luther",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Martin Luther"
         },
         {
-            "id": 154,
+            "id": 155,
             "title": "Võ Tắc Thiên",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Võ Tắc Thiên"
         },
         {
-            "id": 155,
+            "id": 156,
             "title": "Trần Trọng Kim",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Trọng Ki"
         },
         {
-            "id": 156,
+            "id": 157,
             "title": "Stephen Hawking",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Stephen Hawking"
         },
         {
-            "id": 157,
+            "id": 158,
             "title": "Niklas Luhmann",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Niklas Luhmann"
         },
         {
-            "id": 158,
+            "id": 159,
             "title": "Đổng Trác",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đổng Trác"
         },
         {
-            "id": 159,
+            "id": 160,
+            "title": "Siddhartha Gautama",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/People/Siddhartha Gautama"
+        },
+        {
+            "id": 161,
             "title": "Donald J. Trump",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Donald J. Trump"
         },
         {
-            "id": 160,
+            "id": 162,
             "title": "Phục Hi",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Phục Hi"
         },
         {
-            "id": 161,
+            "id": 163,
             "title": "Hạ Vũ",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Hạ Vũ"
         },
         {
-            "id": 162,
+            "id": 164,
             "title": "Đế Nghiêu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đế Nghiêu"
         },
         {
-            "id": 163,
+            "id": 165,
             "title": "Eckhart Tolle",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Eckhart Tolle"
         },
         {
-            "id": 164,
+            "id": 166,
             "title": "Thuận Thiên công chúa",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Thuận Thiên công chúa"
         },
         {
-            "id": 165,
+            "id": 167,
             "title": "Đế Thuấn",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Đế Thuấn"
         },
         {
-            "id": 166,
+            "id": 168,
             "title": "Nguyễn Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Nguyễn Hoàng"
         },
         {
-            "id": 167,
+            "id": 169,
             "title": "Louis Pasteur",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Louis Pasteur"
         },
         {
-            "id": 168,
+            "id": 170,
             "title": "Antoine Beauchamp",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Antoine Beauchamp"
         },
         {
-            "id": 169,
+            "id": 171,
             "title": "Trần Liễu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Liễu"
         },
         {
-            "id": 170,
+            "id": 172,
             "title": "Lã Bố",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Lã Bố"
         },
         {
-            "id": 171,
+            "id": 173,
             "title": "Thánh Phaolo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Thánh Phaolo"
         },
         {
-            "id": 172,
+            "id": 174,
             "title": "Boriska Kipriyanovich",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Boriska Kipriyanovich"
         },
         {
-            "id": 173,
+            "id": 175,
             "title": "Trần Hưng Đạo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Hưng Đạo"
         },
         {
-            "id": 174,
+            "id": 176,
             "title": "Trần Cảnh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Trần Cảnh"
         },
         {
-            "id": 175,
+            "id": 177,
             "title": "Lý Chiêu Hoàng",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Lý Chiêu Hoàng"
         },
         {
-            "id": 176,
+            "id": 178,
             "title": "Thánh Gioan Thánh giá",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Thánh Gioan Thánh giá"
         },
         {
-            "id": 177,
+            "id": 179,
             "title": "Nicola Tesla",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Nicola Tesla"
         },
         {
-            "id": 178,
+            "id": 180,
             "title": "Vua David",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/People/Vua Davi"
         },
         {
-            "id": 179,
+            "id": 181,
             "title": "❕ Topics to research",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Thinking/❕ Topics to research"
@@ -1139,12 +1151,12 @@
         },
         {
             "source": 10,
-            "target": 177,
+            "target": 179,
             "value": 1
         },
         {
             "source": 12,
-            "target": 159,
+            "target": 161,
             "value": 1
         },
         {
@@ -1194,7 +1206,7 @@
         },
         {
             "source": 20,
-            "target": 176,
+            "target": 178,
             "value": 1
         },
         {
@@ -1284,22 +1296,22 @@
         },
         {
             "source": 29,
-            "target": 163,
+            "target": 165,
             "value": 1
         },
         {
             "source": 29,
-            "target": 163,
+            "target": 165,
             "value": 1
         },
         {
             "source": 29,
-            "target": 163,
+            "target": 165,
             "value": 1
         },
         {
             "source": 29,
-            "target": 163,
+            "target": 165,
             "value": 1
         },
         {
@@ -1459,7 +1471,7 @@
         },
         {
             "source": 56,
-            "target": 150,
+            "target": 151,
             "value": 1
         },
         {
@@ -1529,92 +1541,92 @@
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 65,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
@@ -1634,17 +1646,17 @@
         },
         {
             "source": 68,
-            "target": 159,
+            "target": 161,
             "value": 1
         },
         {
             "source": 68,
-            "target": 159,
+            "target": 161,
             "value": 1
         },
         {
             "source": 68,
-            "target": 159,
+            "target": 161,
             "value": 1
         },
         {
@@ -1664,12 +1676,12 @@
         },
         {
             "source": 71,
-            "target": 159,
+            "target": 161,
             "value": 1
         },
         {
             "source": 71,
-            "target": 159,
+            "target": 161,
             "value": 1
         },
         {
@@ -1719,157 +1731,162 @@
         },
         {
             "source": 80,
-            "target": 177,
+            "target": 179,
             "value": 1
         },
         {
             "source": 80,
-            "target": 177,
+            "target": 179,
             "value": 1
         },
         {
             "source": 80,
+            "target": 179,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 82,
+            "target": 16,
+            "value": 1
+        },
+        {
+            "source": 85,
+            "target": 160,
+            "value": 1
+        },
+        {
+            "source": 87,
+            "target": 174,
+            "value": 1
+        },
+        {
+            "source": 87,
+            "target": 174,
+            "value": 1
+        },
+        {
+            "source": 89,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 89,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 89,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 91,
             "target": 177,
             "value": 1
         },
         {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 82,
-            "target": 16,
-            "value": 1
-        },
-        {
-            "source": 87,
-            "target": 172,
-            "value": 1
-        },
-        {
-            "source": 87,
-            "target": 172,
-            "value": 1
-        },
-        {
-            "source": 89,
-            "target": 28,
-            "value": 1
-        },
-        {
-            "source": 89,
-            "target": 28,
-            "value": 1
-        },
-        {
-            "source": 89,
-            "target": 28,
+            "source": 91,
+            "target": 177,
             "value": 1
         },
         {
             "source": 91,
-            "target": 175,
-            "value": 1
-        },
-        {
-            "source": 91,
-            "target": 175,
-            "value": 1
-        },
-        {
-            "source": 91,
-            "target": 175,
+            "target": 177,
             "value": 1
         },
         {
@@ -1889,32 +1906,32 @@
         },
         {
             "source": 95,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 95,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 95,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 95,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 95,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
             "source": 95,
-            "target": 172,
+            "target": 174,
             "value": 1
         },
         {
@@ -1924,7 +1941,7 @@
         },
         {
             "source": 98,
-            "target": 177,
+            "target": 179,
             "value": 1
         },
         {
@@ -1939,32 +1956,32 @@
         },
         {
             "source": 100,
-            "target": 151,
+            "target": 152,
             "value": 1
         },
         {
             "source": 100,
-            "target": 151,
+            "target": 152,
             "value": 1
         },
         {
             "source": 100,
-            "target": 151,
+            "target": 152,
             "value": 1
         },
         {
             "source": 100,
-            "target": 151,
+            "target": 152,
             "value": 1
         },
         {
             "source": 100,
-            "target": 151,
+            "target": 152,
             "value": 1
         },
         {
             "source": 100,
-            "target": 151,
+            "target": 152,
             "value": 1
         },
         {
@@ -1994,17 +2011,17 @@
         },
         {
             "source": 105,
-            "target": 171,
+            "target": 173,
             "value": 1
         },
         {
             "source": 105,
-            "target": 171,
+            "target": 173,
             "value": 1
         },
         {
             "source": 105,
-            "target": 171,
+            "target": 173,
             "value": 1
         },
         {
@@ -2184,17 +2201,17 @@
         },
         {
             "source": 122,
-            "target": 158,
+            "target": 159,
             "value": 1
         },
         {
             "source": 122,
-            "target": 158,
+            "target": 159,
             "value": 1
         },
         {
             "source": 122,
-            "target": 158,
+            "target": 159,
             "value": 1
         },
         {
@@ -2214,67 +2231,67 @@
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
             "source": 127,
-            "target": 154,
+            "target": 155,
             "value": 1
         },
         {
@@ -2349,12 +2366,12 @@
         },
         {
             "source": 134,
-            "target": 153,
+            "target": 154,
             "value": 1
         },
         {
             "source": 134,
-            "target": 153,
+            "target": 154,
             "value": 1
         },
         {
@@ -2389,22 +2406,22 @@
         },
         {
             "source": 138,
-            "target": 155,
+            "target": 156,
             "value": 1
         },
         {
             "source": 138,
-            "target": 155,
+            "target": 156,
             "value": 1
         },
         {
             "source": 138,
-            "target": 155,
+            "target": 156,
             "value": 1
         },
         {
             "source": 138,
-            "target": 155,
+            "target": 156,
             "value": 1
         },
         {
@@ -2469,216 +2486,216 @@
         },
         {
             "source": 149,
-            "target": 168,
+            "target": 170,
             "value": 1
         },
         {
             "source": 149,
-            "target": 168,
-            "value": 1
-        },
-        {
-            "source": 151,
-            "target": 173,
+            "target": 170,
             "value": 1
         },
         {
             "source": 152,
-            "target": 2,
+            "target": 175,
             "value": 1
         },
         {
-            "source": 152,
+            "source": 153,
             "target": 2,
             "value": 1
         },
         {
             "source": 153,
+            "target": 2,
+            "value": 1
+        },
+        {
+            "source": 154,
             "target": 126,
             "value": 1
         },
         {
-            "source": 155,
+            "source": 156,
             "target": 107,
             "value": 1
         },
         {
-            "source": 157,
+            "source": 158,
             "target": 61,
             "value": 1
         },
         {
-            "source": 158,
+            "source": 159,
             "target": 11,
             "value": 1
         },
         {
-            "source": 159,
+            "source": 161,
             "target": 77,
             "value": 1
         },
         {
-            "source": 161,
-            "target": 165,
-            "value": 1
-        },
-        {
-            "source": 161,
-            "target": 165,
-            "value": 1
-        },
-        {
-            "source": 164,
-            "target": 151,
-            "value": 1
-        },
-        {
-            "source": 164,
-            "target": 151,
-            "value": 1
-        },
-        {
-            "source": 164,
-            "target": 151,
-            "value": 1
-        },
-        {
-            "source": 164,
-            "target": 151,
-            "value": 1
-        },
-        {
-            "source": 164,
-            "target": 151,
-            "value": 1
-        },
-        {
-            "source": 165,
-            "target": 162,
-            "value": 1
-        },
-        {
-            "source": 166,
-            "target": 66,
-            "value": 1
-        },
-        {
-            "source": 166,
-            "target": 66,
-            "value": 1
-        },
-        {
-            "source": 167,
-            "target": 149,
-            "value": 1
-        },
-        {
-            "source": 167,
-            "target": 149,
-            "value": 1
-        },
-        {
-            "source": 167,
-            "target": 149,
-            "value": 1
-        },
-        {
-            "source": 168,
+            "source": 163,
             "target": 167,
             "value": 1
         },
         {
-            "source": 169,
-            "target": 173,
+            "source": 163,
+            "target": 167,
+            "value": 1
+        },
+        {
+            "source": 166,
+            "target": 152,
+            "value": 1
+        },
+        {
+            "source": 166,
+            "target": 152,
+            "value": 1
+        },
+        {
+            "source": 166,
+            "target": 152,
+            "value": 1
+        },
+        {
+            "source": 166,
+            "target": 152,
+            "value": 1
+        },
+        {
+            "source": 166,
+            "target": 152,
+            "value": 1
+        },
+        {
+            "source": 167,
+            "target": 164,
+            "value": 1
+        },
+        {
+            "source": 168,
+            "target": 66,
+            "value": 1
+        },
+        {
+            "source": 168,
+            "target": 66,
             "value": 1
         },
         {
             "source": 169,
-            "target": 173,
+            "target": 149,
             "value": 1
         },
         {
             "source": 169,
-            "target": 173,
+            "target": 149,
             "value": 1
         },
         {
             "source": 169,
-            "target": 173,
-            "value": 1
-        },
-        {
-            "source": 169,
-            "target": 173,
+            "target": 149,
             "value": 1
         },
         {
             "source": 170,
-            "target": 158,
-            "value": 1
-        },
-        {
-            "source": 170,
-            "target": 158,
-            "value": 1
-        },
-        {
-            "source": 170,
-            "target": 158,
+            "target": 169,
             "value": 1
         },
         {
             "source": 171,
-            "target": 146,
+            "target": 175,
+            "value": 1
+        },
+        {
+            "source": 171,
+            "target": 175,
+            "value": 1
+        },
+        {
+            "source": 171,
+            "target": 175,
+            "value": 1
+        },
+        {
+            "source": 171,
+            "target": 175,
+            "value": 1
+        },
+        {
+            "source": 171,
+            "target": 175,
             "value": 1
         },
         {
             "source": 172,
-            "target": 156,
+            "target": 159,
+            "value": 1
+        },
+        {
+            "source": 172,
+            "target": 159,
+            "value": 1
+        },
+        {
+            "source": 172,
+            "target": 159,
             "value": 1
         },
         {
             "source": 173,
+            "target": 146,
+            "value": 1
+        },
+        {
+            "source": 174,
+            "target": 157,
+            "value": 1
+        },
+        {
+            "source": 175,
             "target": 100,
             "value": 1
         },
         {
-            "source": 174,
+            "source": 176,
             "target": 91,
-            "value": 1
-        },
-        {
-            "source": 174,
-            "target": 91,
-            "value": 1
-        },
-        {
-            "source": 175,
-            "target": 174,
-            "value": 1
-        },
-        {
-            "source": 175,
-            "target": 174,
-            "value": 1
-        },
-        {
-            "source": 175,
-            "target": 174,
             "value": 1
         },
         {
             "source": 176,
+            "target": 91,
+            "value": 1
+        },
+        {
+            "source": 177,
+            "target": 176,
+            "value": 1
+        },
+        {
+            "source": 177,
+            "target": 176,
+            "value": 1
+        },
+        {
+            "source": 177,
+            "target": 176,
+            "value": 1
+        },
+        {
+            "source": 178,
             "target": 20,
             "value": 1
         },
         {
-            "source": 177,
+            "source": 179,
             "target": 98,
             "value": 1
         },
         {
-            "source": 177,
+            "source": 179,
             "target": 98,
             "value": 1
         }
