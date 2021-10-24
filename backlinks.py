@@ -230,15 +230,11 @@ for node in nodes:
         nodes[node]["outgoing_links"].remove(node)
 
     nodes[node]["outgoing_links"] = list(dict.fromkeys(nodes[node]["outgoing_links"]))
-    # print("file name", node)
+
     for outgoing_idx in range(len(nodes[node]["outgoing_links"])):
 
         target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
-        # print("target_node_name", target_node_name)
-        try:
-            nodes[target_node_name]['backlinks'].append(node)
-        except KeyError:
-            print(target_node_name + "node is not exist")
+        nodes[target_node_name]['backlinks'].append(node)
 
 for root, dirs, files in os.walk(base_docs_url):
     for file in files:
@@ -268,12 +264,7 @@ for node in nodes:
             continue
 
         link_info["source"] = nodes[node]["id"]
-        try:
-            link_info["target"] = nodes[outgoing]["id"]
-        except KeyError:
-            link_info["target"] = 0
-            print(outgoing + "node is not exist!")
-
+        link_info["target"] = nodes[outgoing]["id"]
         link_info["value"] = 1
         graph_nodes["links"].append(link_info)
 
@@ -303,10 +294,7 @@ for root, dirs, files in os.walk(base_docs_url):
 
             # print(content)
             for link_id in range(len(nodes[file_name_strip]["outgoing_links"])):
-                try:
-                    content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["outgoing_links"][link_id]]["url"].replace(".md", "") + "\n")
-                except KeyError:
-                    print("KeyError", file_name_strip, link_id)
+                content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["outgoing_links"][link_id]]["url"].replace(".md", "") + "\n")
             
             with open(os.path.join(root, file), 'w', encoding="utf-8") as f:
                 content = "".join(content)
