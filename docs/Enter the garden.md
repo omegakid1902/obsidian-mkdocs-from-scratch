@@ -29,10 +29,6 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 - [[Self Improvement|Phát triển bản thân]]
 - [[❕ Topics to research]]
 
-## Công cụ:
-- [[No file]]
-- [[⏩ Quick note]]
-- [[📑 Bookmark]]
-
-## Giải trí
-- [[Phim hay]]
+### Surfing
+- [[Các kênh thông tin trái chiều]]
+- [[Các nguồn tài liệu tìm hiểu tâm linh]]

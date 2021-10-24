@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/Cựu Ước
   - Zet/People/Thánh Phaolo
+  - Zet/Dòng Tên
 backlinks:
   - Zet/Religion
   - Zet/Cải Cách Kháng Nghị
@@ -50,6 +51,7 @@ publish: True
 - [[Chính thống giáo Đông Phương]]
 - [[Anh giáo]]
 - [[Đức Giáo Hoàng]]
+- [[Dòng Tên]]
 
 ## Backlinks:
 - [[Religion]]

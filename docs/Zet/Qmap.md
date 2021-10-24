@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Lucifer
   - Zet/Eugenics
   - Zet/People/Donald J. Trump
+  - Zet/Dòng Tên
 title: QAnon map
 UID: 210920220953
 created: 20-Sep-2021
@@ -35,6 +36,11 @@ publish: True
 - [[Rothschild bank]]
 - [[Moloch]]
 - [[Adolf Hitler]]
+
+### [[Ignatius of Loyola]]
+- [[Dòng Tên]]
+- [[Black Pope]]
+
 
 ## Ideas & thoughts:
 

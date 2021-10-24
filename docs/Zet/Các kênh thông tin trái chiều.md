@@ -31,6 +31,9 @@ publish: True
 - [humansarefree.com](https://humansarefree.com/) sự kiện thời sự.
 - [Extraterrestrial Messages – We are all physically human, but some of us are looking at the stars… (home.blog)](https://extraterrestrialbeing.home.blog/)
 - [etsouls - Index (internetforum.info)](https://etsouls.internetforum.info/)
+- [prepareforchange.net](https://prepareforchange.net/)
+- http://www.pickle-publishing.com/papers/triple-crown-clement-xiv.htm
+- https://www.bibliotecapleyades.net/esp_vatican.htm#From_Vatican_Assassins
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
