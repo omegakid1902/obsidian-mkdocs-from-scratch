@@ -6,6 +6,7 @@ backlinks:
   - Zet/Akashic records
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Tần số Solfeggio
+  - Zet/Qmap
   - Zet/NESARA
   - Zet/Tháp Wardenclyffe
 title: Nicola Tesla
@@ -45,5 +46,6 @@ publish: True
 - [[Akashic records]]
 - [[Theo tài liệu FBI, Tesla là người Sao Kim]]
 - [[Tần số Solfeggio]]
+- [[Qmap]]
 - [[NESARA]]
 - [[Tháp Wardenclyffe]]

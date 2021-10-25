@@ -40,4 +40,4 @@ publish: True
 - [ms Ruby youtuber](https://www.youtube.com/channel/UCU3F2ZrYI68UKPxaw63lrYg) 
 - [mr. X8 youtuber](https://www.youtube.com/channel/UCoBU4P9mOn5Auwb5Mr9GR6w)
 - [thuctinhtamlinh.blogspot.com](https://thuctinhtamlinh.blogspot.com/)
-- https://www.thoidaitamlinh.top/
+- [thoidaitamlinh.top](https://www.thoidaitamlinh.top/)

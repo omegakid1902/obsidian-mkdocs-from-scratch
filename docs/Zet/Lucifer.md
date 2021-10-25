@@ -9,9 +9,10 @@ title: Lucifer
 UID: 210920221128
 created: 20-Sep-2021
 tags:
-  - '#created/2021/Sep/20'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/20'
+  - 'seed🥜'
+  - 'permanent/concept'
+  - 'Qmap'
 aliases:
   - Thiên Thần mang ánh sáng
 publish: True

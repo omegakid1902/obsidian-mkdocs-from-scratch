@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Do Thái Giáo
 title: Torah
 UID: 210731-1722
 created: 07-Oct-2021

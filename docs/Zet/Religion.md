@@ -3,7 +3,9 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/Tin Lành
   - Zet/Hồi Giáo
+  - Zet/Do Thái Giáo
   - Zet/Phật Giáo
+  - Zet/Ấn Độ giáo
 backlinks:
   - Zet/Interests
 title: Religion
