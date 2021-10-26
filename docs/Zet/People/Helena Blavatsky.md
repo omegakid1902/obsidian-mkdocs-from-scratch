@@ -1,0 +1,38 @@
+---
+outgoing_links:
+  - Zet/Qmap
+backlinks:
+  - Zet/Qmap
+  - Zet/Thông thiên học
+title: Helena Blavatsky
+UID: 211026230536
+tags:
+  - 'created/2021/Oct/26'
+  - 'seed🥜'
+  - 'permanent/people'
+  - 'Qmap'
+aliases:
+  - Madame Blavatsky
+birth: 1831-08-12
+death: 1891-08-05
+publish: True
+---
+# Helena Blavatsky
+
+## Notes:
+Helena Blavatsky (1831-1891) là một nhà [[Thần bí học]] người [[Nga]]
+![[Pasted image 20211026234813.png|300]]
+
+## Ideas & thoughts:
+- [[Henry Steel Olcott]]
+- [[@ Helena Blavatsky, ISIS unveiled]]
+- Helena Blavatsky được nhắc đến trong [[Qmap]]
+
+## Reference:
+- [wiki](https://vi.wikipedia.org/wiki/Helena_Blavatsky)
+- [thongthienhoc.com](http://www.thongthienhoc.com/tieusu.htm)
+- [ichi.pro](https://ichi.pro/vi/madame-blavatsky-va-bi-mat-cua-cac-bac-thay-56349123042371)
+- https://vi.public-welfare.com/3952338-helena-blavatsky-quotsecret-doctrinequot-was-there-a-secret
+## Backlinks:
+- [[Qmap]]
+- [[Thông thiên học]]

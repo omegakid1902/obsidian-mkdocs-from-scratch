@@ -11,6 +11,7 @@ birth:
 death: 
 aliases:
   - Tất-đạt-đa Cồ-đàm
+  - Đức Phật
 publish: True
 ---
 # Siddhartha Gautama

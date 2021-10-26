@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Martin Luther
   - Zet/Công Giáo
+  - Zet/People/Đức Giáo Hoàng
 backlinks:
   - Zet/Tin Lành
   - Zet/People/Martin Luther

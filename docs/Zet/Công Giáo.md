@@ -1,12 +1,14 @@
 ---
 outgoing_links:
   - Zet/People/Đức Jesus
+  - Zet/People/Đức Giáo Hoàng
   - Zet/Cựu Ước
   - Zet/People/Thánh Phaolo
   - Zet/Dòng Tên
 backlinks:
   - Zet/Religion
   - Zet/Cải Cách Kháng Nghị
+  - Zet/People/Đức Giáo Hoàng
 title: Công Giáo
 UID: 210815151214
 tags:
@@ -56,3 +58,4 @@ publish: True
 ## Backlinks:
 - [[Religion]]
 - [[Cải Cách Kháng Nghị]]
+- [[Đức Giáo Hoàng]]

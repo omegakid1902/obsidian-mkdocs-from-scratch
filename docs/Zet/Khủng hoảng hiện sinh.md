@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Bóng tối linh hồn
   - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
+  - Zet/Ba Chân lý của thông thiên học
   - Zet/Thế giới tâm linh
 title: Khủng hoảng hiện sinh
 UID: 
@@ -36,4 +37,5 @@ publish: True
 ## Backlinks:
 - [[Bóng tối linh hồn]]
 - [[Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh]]
+- [[Ba Chân lý của thông thiên học]]
 - [[Thế giới tâm linh]]

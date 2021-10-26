@@ -5,11 +5,15 @@ outgoing_links:
   - Zet/People/Nicola Tesla
   - Zet/Atlantis
   - Zet/People/Plato
+  - Zet/People/Helena Blavatsky
   - Zet/Crop Circle
   - Zet/Dòng Tên
+  - Zet/People/Đức Giáo Hoàng
   - Zet/Eugenics
 backlinks:
   - Zet/People/Plato
+  - Zet/People/Đức Giáo Hoàng
+  - Zet/People/Helena Blavatsky
 title: QAnon map
 UID: 210920220953
 created: 20-Sep-2021
@@ -68,14 +72,33 @@ publish: True
 - [[Chủ Nghĩa Zion]]
 - [[New World Order]]
 - [[Black nobility]]
+- [[Helena Blavatsky]]
 
+
+### Lịch/Thời gian
+- [[Enki]] hay còn gọi là thần Ea -> [[Gold mines of Enki]] 
+- [[Lịch Adam]]
+- [[Stonehenge]]
+
+
+### [[Pharaon]]
+![[Pasted image 20211026232120.png]]
+- [[Nữ thần ISIS]]
+- [[Thần RA]]
+- [[Thuyết nguyên tử|Atonism]]
+
+### [[Elon Musk]]
+- [[Nicola Tesla|Tesla]]
+- [[Paypal]]
+- [[SpaceX]]
+- [[Hyperloop]]
 
 ### Aliens
 - [[Sự kiện Roswell|Roswell 1947]]
 - [[Acient Aliens]]
 - [[Anunnaki]]
 - [[Crop Circle]]
-- 
+
 ### [[Jeff Bezos]]
 - [[Amazon]]
 - [[Wholefoods]]
@@ -145,3 +168,5 @@ click Hitler "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FAdolf%20Hit
 
 ## Backlinks:
 - [[Plato]]
+- [[Đức Giáo Hoàng]]
+- [[Helena Blavatsky]]
