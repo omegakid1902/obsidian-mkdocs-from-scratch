@@ -19,7 +19,8 @@ Chiến tranh trên Thiên Đàng là một cuộc chiến xảy ra giữa [[Luc
 ![[chien-tranh-thien-dang.png]]
 
 ## Ideas & thoughts:
-[[Revelation|Sách Khải Huyền]] [[Rev-12#v7|12:7-12]] có miêu tả lại cuộc chiến tranh này
+- [[Thiên Đàng]]
+- [[Revelation|Sách Khải Huyền]] [[Rev-12#v7|12:7-12]] có miêu tả lại cuộc chiến tranh này
 > ![[Rev-12#v7]]
 ![[Rev-12#v8]]
 ![[Rev-12#v9]]
@@ -27,9 +28,8 @@ Chiến tranh trên Thiên Đàng là một cuộc chiến xảy ra giữa [[Luc
 ![[Rev-12#v11]]
 ![[Rev-12#v12]]
 
-## Questions:
+1 phần 3 ngôi sao trên trời bị ném xuống đất
+- [[Rev-12#v4]]
 
-## Related:
-- [[Thiên Đàng]]
 ## Backlinks:
 - [[Lucifer]]

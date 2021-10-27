@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Hồi Giáo
   - Zet/Torah
   - Zet/Religion
 title: Do Thái Giáo
@@ -21,5 +22,6 @@ publish: True
 
 
 ## Backlinks:
+- [[Hồi Giáo]]
 - [[Torah]]
 - [[Religion]]

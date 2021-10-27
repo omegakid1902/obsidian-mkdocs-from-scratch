@@ -1,16 +1,24 @@
 ---
 outgoing_links:
+  - Zet/QAnon
   - Zet/Lucifer
   - Zet/People/Donald J. Trump
-  - Zet/People/Nicola Tesla
   - Zet/Atlantis
-  - Zet/People/Plato
   - Zet/People/Helena Blavatsky
+  - Zet/Vril
+  - Zet/Akashic records
+  - Zet/Hồi Giáo
+  - Zet/People/Alberto Rivera
+  - Zet/People/Nicola Tesla
+  - Zet/People/Plato
+  - Zet/Plato có nói về Atlantis
   - Zet/Crop Circle
   - Zet/Dòng Tên
   - Zet/People/Đức Giáo Hoàng
   - Zet/Eugenics
 backlinks:
+  - Zet/Vril
+  - Zet/Plato có nói về Atlantis
   - Zet/People/Plato
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Helena Blavatsky
@@ -25,9 +33,11 @@ aliases:
   - Qanon map
 publish: True
 ---
-# QAnon map
+# Qmap
 
 ## Notes:
+Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí ẩn trong lịch sử nhân loại có nguồn gốc từ [[QAnon]].
+
 ![[Pasted image 20211016215716.png]]
 
 ## Un-category:
@@ -50,7 +60,7 @@ publish: True
 - [[Titanic]]
 - [[John D. Rockefeller]]
 - [[The Rockefeller Foundation]]
-- [[Nicola Tesla]]
+
 - [[Walt Disney]]
 - [[Project Blue Book]]
 - [[@ Aldous Huxley, Brave New World]]
@@ -62,7 +72,6 @@ publish: True
 - [[The Cold War]]
 - [[Atlantis]]
 - [[Lục địa Lemuria|Lemuria]]
-- [[Plato]]
 - [[George W. Bush]]
 - [[Sự kiện 11-09]]
 - [[Bill Clinton]]
@@ -73,20 +82,38 @@ publish: True
 - [[New World Order]]
 - [[Black nobility]]
 - [[Helena Blavatsky]]
+- [[Vril]]
+- [[Vị tư tế tối cao của Amun]]
+- [[Kinh Dịch]]
+- [[Akashic records|Thư viện Akashic]]
+- [[Thánh Phê Rô]]
+- [[Janus]]
+- [[Hồi Giáo]] created by [[Vatican]]
+- [[Rev-02#v9]]
+- [[Alberto Rivera]]
+- [[Thư viện Nag Hammadi]]
+## [[Nicola Tesla]]
+- [[Nicola Tesla]] có liên hệ gì với [[Maria Orsic]]
+- [[Maria Orsic]] là ai?
 
+### [[Plato]]
+![[Pasted image 20211027214850.png]]
+- [[Atlantis]]
+- [[Plato có nói về Atlantis]]
 
 ### Lịch/Thời gian
 - [[Enki]] hay còn gọi là thần Ea -> [[Gold mines of Enki]] 
 - [[Lịch Adam]]
 - [[Stonehenge]]
 
-
 ### [[Pharaon]]
 ![[Pasted image 20211026232120.png]]
+
 - [[Nữ thần ISIS]]
 - [[Thần RA]]
 - [[Thuyết nguyên tử|Atonism]]
-
+- [[Biblical Kings]]
+- 
 ### [[Elon Musk]]
 - [[Nicola Tesla|Tesla]]
 - [[Paypal]]
@@ -167,6 +194,8 @@ click Hitler "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FAdolf%20Hit
 ```
 
 ## Backlinks:
+- [[Vril]]
+- [[Plato có nói về Atlantis]]
 - [[Plato]]
 - [[Đức Giáo Hoàng]]
 - [[Helena Blavatsky]]

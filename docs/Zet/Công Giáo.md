@@ -6,8 +6,10 @@ outgoing_links:
   - Zet/People/Thánh Phaolo
   - Zet/Dòng Tên
 backlinks:
+  - Zet/Hồi Giáo
   - Zet/Religion
   - Zet/Cải Cách Kháng Nghị
+  - Zet/People/Alberto Rivera
   - Zet/People/Đức Giáo Hoàng
 title: Công Giáo
 UID: 210815151214
@@ -56,6 +58,8 @@ publish: True
 - [[Dòng Tên]]
 
 ## Backlinks:
+- [[Hồi Giáo]]
 - [[Religion]]
 - [[Cải Cách Kháng Nghị]]
+- [[Alberto Rivera]]
 - [[Đức Giáo Hoàng]]

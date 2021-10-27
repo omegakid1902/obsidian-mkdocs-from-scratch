@@ -52,6 +52,12 @@ Satan trong hình tượng con rắn cũng được xem là hiện thân của L
 - [[Tổng lãnh thiên thần Michael]]
 - [[Grigori]] một thiên thần sa ngã thời [[Cựu Ước]] vì có quan hệ với loài người. [1](https://chuyenbian.com/bi-an-cau-chuyen-ve-grigori-thien-than-sa-nga-xuong-tran-gian-day-doa-loai-nguoi/)
 
+- [[Rev-02#v9]]
+
+Satan trong hình dạng 1 con rắn theo sách khải huyền
+- [[Rev-12#v9]]
+- [[Rev-20#v2]]
+
 ## Questions:
 
 ## Related:

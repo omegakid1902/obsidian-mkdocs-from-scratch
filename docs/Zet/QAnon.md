@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Qmap
   - Zet/People/Bill Gates
   - Zet/People/Donald J. Trump
 title: QAnon
@@ -23,5 +24,6 @@ publish: True
 ## Related:
 
 ## Backlinks:
+- [[Qmap]]
 - [[Bill Gates]]
 - [[Donald J. Trump]]
