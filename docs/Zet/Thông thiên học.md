@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Akashic records
   - Zet/Ba Chân lý của thông thiên học
+  - Zet/Hội thông thiên học
 title: Thông thiên học
 UID: 211026234316
 created: 26-Oct-2021
@@ -29,3 +30,4 @@ Thông thiên học hiện nay được khởi nguồn từ [[Helena Blavatsky|M
 ## Backlinks:
 - [[Akashic records]]
 - [[Ba Chân lý của thông thiên học]]
+- [[Hội thông thiên học]]

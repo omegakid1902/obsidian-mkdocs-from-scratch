@@ -9,6 +9,7 @@ backlinks:
   - Zet/Hồi Giáo
   - Zet/Religion
   - Zet/Cải Cách Kháng Nghị
+  - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/People/Alberto Rivera
   - Zet/People/Đức Giáo Hoàng
 title: Công Giáo
@@ -61,5 +62,6 @@ publish: True
 - [[Hồi Giáo]]
 - [[Religion]]
 - [[Cải Cách Kháng Nghị]]
+- [[Chúa Jesus không sinh ra vào 25-12]]
 - [[Alberto Rivera]]
 - [[Đức Giáo Hoàng]]

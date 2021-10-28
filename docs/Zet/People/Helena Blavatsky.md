@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Qmap
 backlinks:
   - Zet/Qmap
+  - Zet/Hội thông thiên học
   - Zet/Thông thiên học
 title: Helena Blavatsky
 UID: 211026230536
@@ -35,4 +36,5 @@ Helena Blavatsky (1831-1891) là một nhà [[Thần bí học]] người [[Nga]
 - https://vi.public-welfare.com/3952338-helena-blavatsky-quotsecret-doctrinequot-was-there-a-secret
 ## Backlinks:
 - [[Qmap]]
+- [[Hội thông thiên học]]
 - [[Thông thiên học]]

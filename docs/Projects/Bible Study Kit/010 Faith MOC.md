@@ -8,7 +8,7 @@ links: [[000 Home|Home]]
 * [[The bible]]
 * [[God's unified story]]
 * [[Biblical Themes and Images MOC]]
-* [[Tower of Babel]]
+* [[Tháp Babel]]
 * [[Creation account]]
 
 ## Discipleship

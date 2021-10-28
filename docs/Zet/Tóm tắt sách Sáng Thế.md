@@ -49,7 +49,7 @@ Vậy tổng cộng theo [[Genesis|Sáng Thế]], Adam và Eva có 3 người co
 
 [[Gen-05#v1]], [[Gen-05#v1]]: Con trai Thiên Chúa và con gái loài người #todo/research 
 
-[[Theo Cựu Ước, Nephilim là con của trai Thiên Chúa và con gái loài người]] [[Gen-06]]. Thời kỳ trước [[Noe]], các thiên thần ở cùng với con người trên mặt đất. Thiên Chúa nhận thấy con người thì độc ác và [[Thiên Chúa hối hận vì đã tạo ra loài người]]
+[[Theo Cựu Ước, Nephilim là con của trai Thiên Chúa và con gái loài người]] [[Gen-06]]. Thời kỳ trước [[Noah]], các thiên thần ở cùng với con người trên mặt đất. Thiên Chúa nhận thấy con người thì độc ác và [[Thiên Chúa hối hận vì đã tạo ra loài người]]
 
 Thiên Chúa quyết định hủy diệt loài người bằng [[Đại Hồng Thủy]]. [[Gen-06#v7]]
 
