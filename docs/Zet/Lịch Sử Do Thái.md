@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Người Do Thái Ashkenazi
 backlinks:
   - Zet/Lịch sử
 publish: True

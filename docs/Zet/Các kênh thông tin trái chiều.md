@@ -35,6 +35,7 @@ publish: True
 - http://www.pickle-publishing.com/papers/triple-crown-clement-xiv.htm
 - https://www.bibliotecapleyades.net/esp_vatican.htm#From_Vatican_Assassins
 - [Thanh Niên Tin Lành – Live for Him (thanhnientinlanh.org)](https://www.thanhnientinlanh.org/Christian/)
+- [soi.today](http://soi.today/?p=130570)
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)

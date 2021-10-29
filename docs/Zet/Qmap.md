@@ -99,6 +99,13 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[John Pierpont Morgan]]
 - [[Titanic]]
 
+
+## [[Clinton Foundation]] 
+- [[Hillary Clinton]]
+- [[Bill Clinton]]
+- [[Chicago Mob]] Mafia
+
+
 ## [[Nicola Tesla]]
 - [[Nicola Tesla]] có liên hệ gì với [[Maria Orsic]]
 - [[Maria Orsic]] là ai?
