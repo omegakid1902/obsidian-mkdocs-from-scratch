@@ -36,6 +36,7 @@ publish: True
 - https://www.bibliotecapleyades.net/esp_vatican.htm#From_Vatican_Assassins
 - [Thanh Niên Tin Lành – Live for Him (thanhnientinlanh.org)](https://www.thanhnientinlanh.org/Christian/)
 - [soi.today](http://soi.today/?p=130570)
+- [Rothschild Khazarian Mafia (RKM) & Zionists – Brutal Proof](https://brutalproof.net/topic/rothschild-khazarian-mafia-rkm-zionists/)
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)

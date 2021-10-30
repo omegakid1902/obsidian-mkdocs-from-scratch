@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/QAnon
   - Zet/Lucifer
   - Zet/People/Donald J. Trump
+  - Zet/Khazars
   - Zet/Atlantis
   - Zet/People/Helena Blavatsky
   - Zet/Vril
@@ -18,6 +19,7 @@ outgoing_links:
   - Zet/Eugenics
 backlinks:
   - Zet/Vril
+  - Zet/Khazars
   - Zet/Plato có nói về Atlantis
   - Zet/People/Plato
   - Zet/People/Đức Giáo Hoàng
@@ -209,6 +211,7 @@ click Hitler "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FAdolf%20Hit
 
 ## Backlinks:
 - [[Vril]]
+- [[Khazars]]
 - [[Plato có nói về Atlantis]]
 - [[Plato]]
 - [[Đức Giáo Hoàng]]

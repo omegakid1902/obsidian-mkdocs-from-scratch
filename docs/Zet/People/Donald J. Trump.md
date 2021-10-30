@@ -5,6 +5,7 @@ backlinks:
   - Zet/The Epoch Times
   - Zet/Qmap
   - Zet/FED
+  - Zet/QAnon
   - Zet/NESARA
 title: Donald J. Trump
 UID: 210920224100
@@ -34,4 +35,5 @@ Donald J. Trump là tổng thống thứ 45 của [[Hoa Kỳ]]
 - [[The Epoch Times]]
 - [[Qmap]]
 - [[FED]]
+- [[QAnon]]
 - [[NESARA]]

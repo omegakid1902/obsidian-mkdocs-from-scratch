@@ -1,12 +1,15 @@
 ---
 backlinks:
   - Zet/Lịch Sử Do Thái
+  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Người Do Thái Ashkenazi
 created: Jun 19, 2021 7:14 AM
 tags:
   - 'created/2021/Jun/19'
   - 'seed🥜'
   - 'permanent/concept'
+aliases:
+  - Ashkenazi Jews
 publish: True
 ---
 # Người Do Thái Ashkenazi
@@ -27,3 +30,4 @@ Vào thời Trung cổ, người Ashkenazi bị đàn áp và phần lớn phả
 [^1]:[Do Thái Israel và Do Thái Khazaria | Nghiên Cứu Lịch Sử (nghiencuulichsu.com)](https://nghiencuulichsu.com/2013/11/01/do-thai-israel-va-do-thai-khazaria/)
 ## Backlinks:
 - [[Lịch Sử Do Thái]]
+- [[❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người]]
