@@ -38,7 +38,7 @@ publish: True
 - [soi.today](http://soi.today/?p=130570)
 - [Rothschild Khazarian Mafia (RKM) & Zionists – Brutal Proof](https://brutalproof.net/topic/rothschild-khazarian-mafia-rkm-zionists/)
 - [60 Minutes Australia](https://www.youtube.com/channel/UC0L1suV8pVgO4pCAIBNGx5w)
-
+- [nhanchuorg.blogspot.com](http://nhanchuorg.blogspot.com/2014/10/nghi-trinh-21-agenda-21-la-gi.html)
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
