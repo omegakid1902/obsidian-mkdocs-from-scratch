@@ -521,23 +521,23 @@
 <h3 id="common-templates">Common templates</h3>
 <h4 id="fetch-code">Fetch code</h4>
 <p>Fetch all history
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
-2
-3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>- uses: actions/checkout@v2
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>- uses: actions/checkout@v2
   with:
     fetch-depth: 0
 </code></pre></div>
 </td></tr></table></p>
 <h4 id="push-code">Push code</h4>
 <p>Commit and push use TOKEN setup by <code>checkout</code> plugin
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
-2
-3
-4
-5
-6
-7
-8</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>      - uses: actions/checkout@v2
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span>
+<span class="normal">5</span>
+<span class="normal">6</span>
+<span class="normal">7</span>
+<span class="normal">8</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>      - uses: actions/checkout@v2
       - run: |
           date &gt; generated.txt
           git config user.name github-actions
@@ -548,11 +548,11 @@
 </code></pre></div>
 </td></tr></table>
 otherwise, we need to setup Secret token by:
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
-2
-3
-4
-5</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>      - name: Publish gh-pages-obsidian-mkdocs
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span>
+<span class="normal">3</span>
+<span class="normal">4</span>
+<span class="normal">5</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>      - name: Publish gh-pages-obsidian-mkdocs
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -560,32 +560,32 @@ otherwise, we need to setup Secret token by:
 </code></pre></div>
 </td></tr></table></p>
 <p>Note: we can configure author of that commit by set user/email
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
-2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>git config --local user.email &quot;41898282+github-actions[bot]@users.noreply.github.com&quot;
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>git config --local user.email &quot;41898282+github-actions[bot]@users.noreply.github.com&quot;
 git config --local user.name &quot;github-actions[bot]&quot;
 </code></pre></div>
 </td></tr></table></p>
 <h4 id="dispatch-multiple-reposworkflows">Dispatch multiple repos/workflows</h4>
 <p>Send dispatch to other repos/workflows by option <code>repo</code>, <code>owner</code></p>
-<p><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span> 1
- 2
- 3
- 4
- 5
- 6
- 7
- 8
- 9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>name: Alert Some Repos to build
+<p><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"> 1</span>
+<span class="normal"> 2</span>
+<span class="normal"> 3</span>
+<span class="normal"> 4</span>
+<span class="normal"> 5</span>
+<span class="normal"> 6</span>
+<span class="normal"> 7</span>
+<span class="normal"> 8</span>
+<span class="normal"> 9</span>
+<span class="normal">10</span>
+<span class="normal">11</span>
+<span class="normal">12</span>
+<span class="normal">13</span>
+<span class="normal">14</span>
+<span class="normal">15</span>
+<span class="normal">16</span>
+<span class="normal">17</span>
+<span class="normal">18</span>
+<span class="normal">19</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>name: Alert Some Repos to build
 
 on:
   push:
@@ -618,8 +618,8 @@ name: Gatsby garden get</p>
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2</p>
-<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span>1
-2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>  - name: Catch it
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">1</span>
+<span class="normal">2</span></pre></div></td><td class="code"><div class="highlight"><pre><span></span><code>  - name: Catch it
     run: echo &quot;I catched update_zettelkasten signal&quot;
 </code></pre></div>
 </td></tr></table>
