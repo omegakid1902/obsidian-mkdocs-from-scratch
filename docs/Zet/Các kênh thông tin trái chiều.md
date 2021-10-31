@@ -37,6 +37,8 @@ publish: True
 - [Thanh Niên Tin Lành – Live for Him (thanhnientinlanh.org)](https://www.thanhnientinlanh.org/Christian/)
 - [soi.today](http://soi.today/?p=130570)
 - [Rothschild Khazarian Mafia (RKM) & Zionists – Brutal Proof](https://brutalproof.net/topic/rothschild-khazarian-mafia-rkm-zionists/)
+- [60 Minutes Australia](https://www.youtube.com/channel/UC0L1suV8pVgO4pCAIBNGx5w)
+
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
