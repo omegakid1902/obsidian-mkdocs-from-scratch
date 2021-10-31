@@ -1,0 +1,73 @@
+# Nguyên nhân gây ra ung thư
+
+[Nguồn](https://kduoc.com/kien-thuc-chung/kien-thuc-ung-thu/nguyen-nhan-gay-ra-ung-thu/)
+
+_Nhiều người cho rằng nguyên nhân gây ra ung thư là vì môi trường ô nhiễm, có người lại cho rằng do “trời phạt”… Trong bài viết này, K Dược sẽ cố gắng đưa ra những luận điểm khoa học nhất để giải thích cho câu hỏi mà nhiều người bệnh thắc mắc hiện nay: “Nguyên nhân nào gây ra ung thư?”_
+
+### Tế bào ung thư cũng là một tế bào, nhưng là tế bào biến chất
+
+Là một người nghiên cứu về khoa học, tôi không tin vào sự mê tín. Nhưng tôi tin vào Đấng Tối Cao đã tạo ra toàn bộ vũ trụ, và sự sống trên hành tinh nhỏ bé này. 
+
+Đấng Tối Cao đã tạo ra cơ thể chúng ta với hàng nghìn tỷ [tế bào sống](https://vi.wikipedia.org/wiki/T%E1%BA%BF_b%C3%A0o), thật kỳ diệu làm sao! Mỗi tế bào lại là duy nhất, có bản sắc, và thực hiện một nhiệm vụ riêng. Trong cơ thể, hàng nghìn tỷ tế bào này phải khám phá cách tương tác và làm việc cùng nhau để duy trì sức khỏe và sinh lực.
+
+![nguyen-nhan-gay-ra-ung-thu](https://i2.wp.com/media.giphy.com/media/9PnFIyHye1UVmjzNCM/source.gif?resize=600%2C600&ssl=1 "Nguyên nhân gây ra ung thư? [giải thích dễ hiểu] 4")
+
+Có cả 1 thế giới thu nhỏ trong 1 tế bào, thật kỳ diệu!
+
+Tế bào ung thư liên tục được tạo ra trong cơ thể, nhưng Đấng Tối Cao đã thần kỳ tạo ra hệ miễn dịch với khả năng tìm kiếm và tiêu diệt những tế bào này. Tuy nhiên, các khối u bắt đầu phát sinh khi có nhiều tế bào ung thư hơn được tạo ra, lúc mà hệ miễn dịch bị suy giảm phải làm việc quá sức để có thể tiêu diệt được **tế bào ung thư**. Cắt bỏ khối u thường không giải quyết được vấn đề. Hãy nhớ rằng, khối u chỉ là sự tăng trưởng không kiểm soát được của các tế bào, là triệu chứng của ung thư, không phải là nguyên nhân.
+
+Thế nhưng, các khối u lại có khả năng di chuyển đến các bộ phận khác nhau của cơ thể và phát triển không kiểm soát tại đó, vì thế tôi không nói rằng các khối u không liên quan. Chúng có thế chèn ép các cấu trúc xung quanh, và các chất thải của chúng có thế gây độc cho phần còn lại của cơ thể. Vì thế, chúng thường cản trở chức năng của các cơ quan như não, gan, thận và phổi, theo đó dẫn đến tử vong.
+
+Vượt qua ung thư là một quá trình đảo ngược các điều kiện cho phép ung thư phát triển. Điều rất quan trọng cần lưu ý là ung thư là sự mất cân bằng hệ thống. Nói cách khác, đó là vấn đề đối với toàn bộ hệ thống của các bộ phận liên quan trong cơ thể. Vì thế, liệu pháp điều trị thích hợp phải hướng đến toàn bộ môi trường của cơ thể chứ không phải điều trị cục bộ.
+
+### Có rất nhiều lý thuyết khác nhau về những nguyên nhân gây ra ung thư:
+
+1.  Thuyết độc tố bên ngoài – Thuyết này cho rằng sự sinh sôi nhanh chóng của các tế bào ung thư gây ra bởi các độc tố bên ngoài, chẳng hạn như hóa chất và các vật chất khác tạo ra chủ yếu từ công nghiệp và sự bất cẩn. Những hóa chất này đã thấm đẫm vào nước, thực phẩm và chính không khí chúng ta hít thở. Bạn không thể nhìn thấy, cảm nhận, hoặc ngửi nhiều độc tố – ít nhất là không ngay lập tức được. Chúng ta không nhận ra ảnh hưởng của chúng cho đến khi gục ngã với một căn bệnh mãn tính (như ung thư chẳng hạn) sau nhiều năm tiếp xúc. Hơn hai tỷ kg hóa chất độc hại thải ra từ công nghiệp vào môi trường mỗi năm, trong đó các chất được thừa nhận gây ung thư là 35 triệu kg. Sự liên hệ giữa các độc tố bên ngoài và các tế bào ung thư là không thể chối cãi.
+2.  Thuyết vi sinh – Thuyết này cho rằng ung thư sinh ra do vi sinh vật đa hình (thay đổi hình dạng), chẳng hạn như nấm, men, vi khuẩn và ký sinh trùng. Không thể phủ nhận là những vi sinh vật gây bệnh này có liên quan đến ung thư. Một số bệnh nhiễm độc do nấm đã bị chẩn đoán nhầm là ung thư bạch cầu. Nhiều nhà nghiên cứu nổi tiếng trong thế kỷ trước đã quan sát thấy tế bào “đa hình” với sự trợ giúp của kính siêu hiển vi. Tính đa hình được dựa trên quan niệm rằng nấm, nấm mốc, men và vi khuẩn chỉ đơn giản là những giai đoạn khác nhau trong vòng đời của các vi sinh vật.
+3.  Thuyết hệ miễn dịch – Thuyết này giữ vững quan điểm cho rằng ung thư cơ bản là căn bệnh của hệ miễn dịch, và nó bắt đầu nảy sinh khi bạn tiếp xúc với chất gây ô nhiễm quá nhiều và sức mạnh của [hệ miễn dịch](https://kduoc.com/lieu-phap-dieu-tri-ung-thu/cay-aloe-arborescens-dieu-tri-ung-thu/) giảm xuống quá thấp. Như một phần của quá trình chuyển hóa bình thường trong cơ thể, bạn sản xuất cỡ chừng từ vài trăm cho đến khoảng 10.000 **tế bào ung thư** mỗi ngày trong cuộc đời. Nếu hệ miễn dịch hoạt động tốt, nó có khả năng nhận ra từng tế bào trong những tế bào khác thường đó và loại bỏ chúng ra khỏi cơ thể bạn. Lý do mọi người không bị ung thư là do hệ miễn dịch của họ được thiết kế để ngăn chặn ung thư.
+4.  Thuyết thiếu dưỡng khí – Thuyết này, chủ yếu dựa trên các nghiên cứu của bác sĩ Otto Warburg, cho rằng ung thư là do chế độ ăn uống và lối sống không lành mạnh dẫn đến tích tụ chất độc hại, theo đó làm quá tải cơ chế tự làm sạch của cơ thể. Ung thư được cho là biểu hiện của sự kích thích của môi trường và dinh dưỡng lâu ngày cũng như sự thiếu hụt trong hệ miễn dịch, tạo nên thiếu oxy trong tế bào, dẫn đến mất kiểm soát sao chép tế bào. Vì oxy là nguồn lực sống chính của chúng ta, nên cũng dễ hiểu khi cho rằng sự thiếu hụt oxy sẽ gây tổn hại cho các cơ quan và cơ thể của chúng ta. Thực tế này là hiển nhiên.
+5.  Thuyết nổi loạn bên trong – đây là thuyết chủ yếu của Big Medicine. Thuyết này cho rằng sự phát triển bừa bãi quá mức của tế bào ung thư là một loại nổi loạn di truyền trong cơ thể, trong đó tế bào nổi loạn sẽ phá hủy chính cơ thể sản sinh ra chúng. Một cách lôgic, nếu thuyết này đúng, nó chỉ có ý nghĩa trong việc làm bất cứ điều gì cần thiết để chấm dứt sự nổi loạn. Thế nên, các bác sĩ cố gắng cắt bỏ và đốt ung thư, hoặc gây độc ung thư bằng thuốc độc, hoặc đưa phóng xạ vào cơ thể để tiêu diệt các tế bào nổi loạn bên trong. Do y học chính thống bám chặt lấy “thuyết nổi loạn bên trong”, các phác đồ điều trị tập trung vào cắt bỏ, đầu độc, và đốt cháy. ^02394b
+
+![nguyen-nhan-gay-ra-ung-thu](https://i0.wp.com/media.giphy.com/media/fqz0iu4KC7hBaT8jQ8/giphy.gif?resize=480%2C270&ssl=1 "Nguyên nhân gây ra ung thư? [giải thích dễ hiểu] 5")
+
+### Quan điểm của K Dược về nguyên nhân gây ra ung thư
+
+Theo tôi, những nguyên nhân chính gây ra ung thư là hệ miễn dịch bị tổn hại (do quá tải độc tính) cùng với sự thay thế hô hấp oxy trong tế bào bình thường bằng sự lên men đường. Nói cách khác, tình trạng thiếu dưỡng khí (thiếu oxy) ở cấp độ tế bào và suy miễn dịch (thường do độc tính) là nguyên nhân chính của ung thư.
+
+Vi sinh vật chắc chắn có liên quan tới ung thư. Tuy nhiên, chúng là kết quả của tình trạng thiếu oxy và hệ miễn dịch suy yếu do quá tải chất độc hại. Theo bác sĩ Saul Pressman:
+
+> “Nguyên nhân của ung thư rõ ràng là: chế độ ăn, lối sống thiếu lành mạnh và tính thần kém sinh ra tích tụ chất độc hại làm quá tải cơ chế tự làm sạch. Ung thư là biểu hiện của sự kích thích môi trường và dinh dưỡng lâu ngày, làm thiếu oxy trong tế bào, dẫn đến sao chép tế bào không kiểm soát được.”
+
+Trong điều kiện bình thường, tế bào cơ thể người thực hiện chức năng bằng cách đốt cháy đường trong oxy để cung cấp năng lượng. Sản phẩm thải ra là carbon dioxide và nước. Tuy nhiên, nếu không đủ oxy ở cấp độ tế bào, thì đốt cháy sẽ không hoàn toàn, và hô hấp kị khí sẽ bắt đầu, hình thành nên carbon monoxide và axit lactic, hạ thấp pH nội bào của tế bào. Cơ thể không thể dễ dàng tự thoát ra khỏi [carbon monoxide](https://vi.wikipedia.org/wiki/Cacbon_monoxit) vì nó ngăn cản [hemoglobin](https://vi.wikipedia.org/wiki/Hemoglobin) lấy oxy tươi ở phổi và nhiệt độ cơ thể bị hạ thấp. Các axit lactic có thể tăng dần lên trong hệ thống, làm tắc nghẽn các đường tín hiệu thần kinh, cuối cùng là kết tính và gây thoái hóa.
+
+Khi hô hấp kị khí bắt đầu, nó kéo dài mãi và tự củng cố, do thực tế là quá trình này không tạo ra carbon dioxide chịu trách nhiệm hút oxy ra khỏi hemoglobin. Không có oxy, sẽ không có carbon dioxide, dẫn đến không có ô-xy, rồi theo đó lại không có carbon dioxide và chu kỳ cứ tiếp tục. Trong tình trạng thiếu oxy này, **tế bào ung thư** đói oxy nhanh chóng nhân đôi và phát triển ngoài tầm kiểm soát. Nhiều nhà nghiên cứu tín rằng sao chép tế bào xảy ra là kết quả của tổn hại gen p53. Đây có thể là một trong những lý do mà các tế bào ung thư sao chép, nhưng chắc chắn không phải là lý do duy nhất. Theo bác sĩ Stephen Ayre:
+
+> “Tế bào ung thư lấy năng lượng cho mình bằng cách tự tiết ra insulin của chính chúng, và chúng tự kích thích để tăng trưởng bằng cách tự tiết ra yếu tố tăng trưởng dạng insulin (IGF). Đây là những cơ chế của ác tính”.
+
+Nghiên cứu gần đây của bác sĩ Gregg L. Semenza tại Đại học Johns Hopkins ở Baltimore đã chỉ ra rằng các tế bào sao chép không nhất thiết là do có tổn hại ở các gen p53, mà thay vào đó là do tiếp xúc của tế bào ung thư với IGF làm chúng tự kích thích và gây ra biểu hiện của yếu tố sao chép nhân tố cảm ứng-thiếu oxy 1 (HIF-1), nó kiểm soát vận chuyển oxy (thông qua sự hình thành mạch) và cũng thích ứng chuyển hóa giảm oxy (thông qua quá trình lên men). Một số nguyên nhân của tình trạng thiếu oxy bao gồm sự tích tụ các độc tố bên trong và xung quanh các tế bào sẽ ngăn cản và theo đó gây tổn hại cho cơ chế hô hấp oxy của tế bào. Sự hình thành huyết khối làm chậm dòng máu chảy và hạn chế lưu lượng vào các mao mạch, việc này cũng gây tình trạng thiếu oxy. Thậm chí thiếu các khối tạo dựng thích hợp cho thành tế bào (chất béo thiết yếu) sẽ hạn chế sự trao đổi oxy và dẫn đến tình trạng thiếu oxy.
+
+Các nhà nghiên cứu Anh ở Trung tâm Nghiên cứu Ung thư Gray đã kết luận:
+
+> “Các tế bào trải qua một loạt phản ứng sinh học khi đặt trong điều kiện thiếu oxy, kể cả kích hoạt tín hiệu những chuỗi phản ứng hóa sinh điều chỉnh sự gia tăng nhanh, hình thành mạch và chết. Các tế bào ung thư đã thích ứng các chuỗi phản ứng hóa sinh này, cho phép các khối u tồn tại và thậm chí phát triển trong điều kiện thiếu oxy…”
+
+Khi khối u rắn đủ lớn và bệnh tiến triển, ung thư bắt đầu xâm lấn các mô khác. Quá trình này gọi là di căn.
+
+Khối u chỉ là sự hiện hữu thông báo cho chúng ta biết mình đang bị bệnh, nó lại không phải là nguyên nhân chính gây nguy hiểm tới tính mạng. Chính sự di căn mới là nguyên nhân gây ra cái chết của hơn 10 triệu bệnh nhân/năm. Cùng K Dược tìm hiểu cặn kẽ hơn trong bài viết “[Sự nguy hiểm thật sự của ung thư nằm ở đâu?](https://kduoc.com/kien-thuc-ung-thu/su-nguy-hiem-cua-ung-thu/)”
+
+### Cơ sở khoa học của K Dược về nguyên nhân gây ra ung thư
+
+Để hiểu rõ hơn cơ sở khoa học đằng sau thuyết ung thư của K Dược, chúng ta hãy trở lại thời gian những năm 1850 và tìm hiểu về cuộc tranh luận khoa học “tay đôi” giữa hai người Pháp – Louis Pasteur và Antoine Beauchamp. Cả hai người đều có lý thuyết vi khuẩn về bệnh, nhưng họ bất đồng về nguồn gốc và tính chất của vi khuẩn. Họ ít biết rằng người chiến thắng trong cuộc đấu này sẽ ảnh hưởng mãi mãi đến phát triển y học về sau. Pasteur ủng hộ cái gọi là “lý thuyết mầm” của bệnh. Ông đưa ra giả thuyết bệnh phát sinh từ vi sinh vật bên ngoài cơ thể (mầm bệnh). Ông tin rằng mỗi loại vi sinh vật có hình dạng và màu sắc không đổi (tức là đơn hình). Ông cũng tin rằng mỗi bệnh tật là do một loại vi sinh vật duy nhất thâm nhập cơ thể gây ra. Vì vậy, cách duy nhất để chữa bệnh là tiêu diệt kẻ xâm nhập.
+
+Beauchamp ủng hộ “lý thuyết tế bào” của bệnh. Ông đưa ra giả thuyết bệnh nảy sinh từ vi sinh vật trong các tế bào của cơ thể. Vi sinh vật có thể trải qua các giai đoạn khác nhau của sự phát triển và chúng có thể biến đổi dưới những hình thức tăng trưởng khác nhau trong vòng đời. Nói cách khác, ông tin rằng vi sinh vật là đa hình, nghĩa là “nhiều dạng”. Lý thuyết của ông là khi cơ quan chủ (tức người) trở nên mất cân bằng và không thể’ duy trì cân bằng tự nhiên, thì những vi sinh này sẽ biến đổi và gây bệnh. Nói cách khác, tình trạng của cơ quan chủ là nguyên nhân chính gây bệnh. Beauchamp gọi những cơ quan này là “microzymas”, nghĩa là “những con men nhỏ”. Beauchamp tin rằng vi khuẩn, vi sinh, vi-rút và nấm đang bị đổ lỗi là nguyên nhân bệnh tật, thực ra chúng là một phần “đội dọn dẹp” mà Đấng Tối Cao tạo ra, phá vỡ các mô bị bệnh và cuối cùng là phân hủy một cơ thể không còn giá trị sử dụng.
+
+![nguyên nhân gây ra ung thư 2](https://i1.wp.com/media.giphy.com/media/680qJiuIMtNle/source.gif?resize=247%2C247&ssl=1 "Nguyên nhân gây ra ung thư? [giải thích dễ hiểu] 6")
+
+Claude Bernard, một nhà khoa học người Pháp khác, đã tham gia tranh luận với lý thuyết cho rằng thực sự môi trường là yếu tố quyết định sinh bệnh. Ông đồng ý với Beauchamp về niềm tin của ông ấy rằng vi sinh biến đổi, nhưng Bernard khẳng định rằng những biến đổi này hoàn toàn là kết quả của môi trường chúng tiếp xúc. Vì vậy, lý thuyết của Bernard là bệnh trong cơ thể phụ thuộc vào trạng thái sinh học bên trong. Pasteur đã đổ nhiều công sức để’ bác bỏ lý thuyết của Beauchamp và Bernard. Chủ yếu do tiềm lực tài chính và mối quan hệ chính trị, ông đã thuyết phục được cộng đồng khoa học rằng lý thuyết của mình là đúng, mặc dù thực tế ông chưa bao giờ được đào tạo về khoa học! Tuy nhiên, vào lúc lâm chung, Pasteur thừa nhận rằng lý thuyết mầm bệnh của ông có sai sót và Bernard đã đúng. Ông nói:
+
+> “Bernard đã đúng… Môi trường là tất cả”.
+
+Tôi nghĩ rằng lòng tự tôn đã ngăn cản ông thừa nhận Beauchamp cũng đã đúng, vì ông ấy là đối thủ truyền kiếp của Pasteur. Tuy nhiên, điều đó là không đủ và quá muộn màng. Các nhà khoa học chính thống đã bám lấy lý thuyết mầm bệnh đơn hình của ông.
+
+Trong 150 năm kể từ khi ra đời lý thuyết mầm sai lầm của Pasteur, nó đã được chấp nhận rất rộng rãi và thậm chí hiếm khi mang ra thảo luận lại trong giới y tế chính thống hiện nay. Lý thuyết của ông là nguồn gốc của y học liệu pháp đối chứng (chính thống) hiện đại, trong đó tuyên bố rằng mầm bệnh từ một nguồn bên ngoài xâm nhập cơ thể là nguyên nhân đầu tiên của bệnh truyền nhiễm. Lý thuyết về mầm bệnh cũng cho ra đời kỹ thuật tiêm chủng vào năm 1796 bởi Edward Jenner, người đã lấy mủ từ vết thương những con bò bị bệnh và tiêm nó vào trong máu của bệnh nhân. ^644fee
+
+Thật không may, các liệu pháp điều trị ung thư chính thống không chú trọng vào những điều kiện cơ bản của bệnh ung thư, chẳng hạn như độ cân bằng pH, lỗi hệ miễn dịch, và suy giảm oxy (thiếu oxy) ở cấp độ tế bào. Đúng hơn, các phác đồ điều trị ung thư chính thống tập trung vào điều trị các triệu chứng của ung thư, như khối u chẳng hạn. Nếu quyết định theo đuổi liệu pháp điều trị chính thống đối với ung thư nghĩa là bạn đang đánh bạc với sức khỏe bản thân. Cá nhân tôi, tôi muốn sử dụng liệu pháp điều trị ung thư tự nhiên, những phương pháp đã được kiểm chứng được K Dược đăng tải [tại đây](https://kduoc.com/tag/phuong-phap-dieu-tri-ung-thu/).
