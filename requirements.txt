@@ -31,7 +31,7 @@ pyparsing==2.4.7
 python-dateutil==2.8.2
 python-frontmatter==1.0.0
 pyvis==0.1.8.2
-pyyaml==5.4
+pyyaml==6.0
 pyyaml-env-tag==0.1
 six==1.16.0
 traitlets==5.0.5
