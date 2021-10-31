@@ -1,6 +1,6 @@
 backcall==0.2.0
 click==8.0.3
-decorator==4.4.2
+decorator==5.1.0
 ghp-import==2.0.2
 importlib-metadata==4.8.1
 ipython==7.19.0
