@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Coronavirus
   - Zet/COVID-19
+  - Zet/Virus
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 backlinks:
   - Zet/Coronavirus

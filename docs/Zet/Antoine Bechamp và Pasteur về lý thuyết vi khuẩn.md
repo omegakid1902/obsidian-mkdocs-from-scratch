@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Antoine Beauchamp
+  - Zet/Vaccine
   - Zet/People/Louis Pasteur
   - Zet/Mafia y tế
 backlinks:
@@ -20,8 +21,7 @@ publish: True
 # Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 
 ## Notes:
-
-https://vi.sawakinome.com/articles/science--nature/difference-between-germ-theory-and-terrain-theory-2.html
+[vi.sawakinome.com](https://vi.sawakinome.com/articles/science--nature/difference-between-germ-theory-and-terrain-theory-2.html)
 
 ### Ủng hộ Beauchamp
 1. Bài viết ủng hộ [[Antoine Beauchamp|Antoine Bechamp]] -> phủ nhận tác dụng của [[Vaccine]] Covid
@@ -37,18 +37,17 @@ https://vi.sawakinome.com/articles/science--nature/difference-between-germ-theor
 - Book [[@ Ethel D. Hume, Bechamp or Pasteur - A Lost Chapter in the history of biology]]
 	- [Goodreads](https://www.goodreads.com/book/show/814789.Bechamp_or_Pasteur_)
 - Book [[@ Ethel D. Hume, Pasteur Exposed]]
+
 ### Ủng hộ Louis Pasteur
 1. [[The Germ theory]]
-	- https://bktt.vn/Louis_Pasteur
-	- https://www.dkn.tv/khoa-hoc-cong-nghe/louis-pasteur-va-thuyet-mam-benh-cuu-tinh-cua-hang-trieu-nguoi-nho-dau-ong-co-the-lam-duoc-viec-do.html
-
+	- [bktt.vn](https://bktt.vn/Louis_Pasteur)
+	- [dkn.tv](https://www.dkn.tv/khoa-hoc-cong-nghe/louis-pasteur-va-thuyet-mam-benh-cuu-tinh-cua-hang-trieu-nguoi-nho-dau-ong-co-the-lam-duoc-viec-do.html)
 
 ## Ideas & thoughts:
+- Giải thích cách nhiễm độc thay vì lây nhiễm theo thuyết The Terrain Theory #todo/research, tần số ô nhiễm ra biến đổi nội môi?
+- Các vaccine trước giờ thì sao!?
 
-
-## Questions:
-
-
+ 
 ## Backlinks:
 - [[Coronavirus]]
 - [[COVID-19]]

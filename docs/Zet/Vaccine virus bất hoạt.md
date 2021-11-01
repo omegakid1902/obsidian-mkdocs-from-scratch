@@ -1,5 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Vaccine
+  - Zet/Virus
 backlinks:
+  - Zet/Đại dịch COVID-19
   - Zet/Các loại Vaccine COVID 19
 title: Vaccine virus bất hoạt
 UID: 2107100952
@@ -21,4 +25,5 @@ Các virus bị bất hoạt không còn khả năng gây bệnh và sinh sản.
 
 
 ## Backlinks:
+- [[Đại dịch COVID-19]]
 - [[Các loại Vaccine COVID 19]]

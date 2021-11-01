@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/QAnon
 backlinks:
   - Zet/The Epoch Times
+  - Zet/Đại dịch COVID-19
   - Zet/Qmap
   - Zet/FED
   - Zet/QAnon
@@ -33,6 +34,7 @@ Donald J. Trump là tổng thống thứ 45 của [[Hoa Kỳ]]
 
 ## Backlinks:
 - [[The Epoch Times]]
+- [[Đại dịch COVID-19]]
 - [[Qmap]]
 - [[FED]]
 - [[QAnon]]

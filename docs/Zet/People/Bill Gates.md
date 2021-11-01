@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/QAnon
   - Zet/Eugenics
+  - Zet/Vaccine
   - Zet/Vaccine Pfizer
   - Zet/Vaccine Moderna
 backlinks:

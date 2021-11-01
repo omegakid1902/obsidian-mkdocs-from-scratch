@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Đại dịch COVID-19
 backlinks:
   - Zet/Contrails
+  - Zet/Đại dịch COVID-19
 title: Chemtrails
 UID: 211023153816
 created: 23-Oct-2021
@@ -31,3 +32,4 @@ publish: True
 
 ## Backlinks:
 - [[Contrails]]
+- [[Đại dịch COVID-19]]

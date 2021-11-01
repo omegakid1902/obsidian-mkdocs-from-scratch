@@ -7,6 +7,7 @@ outgoing_links:
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 backlinks:
   - Zet/MERS-CoV
+  - Zet/Virus
   - Zet/Beta-Coronavirus
   - Zet/SARS-COV-2
 title: Coronavirus
@@ -46,5 +47,6 @@ Bộ gen của Coronavirus mã hóa được bốn hoặc 5 loại protein cấu
 
 ## Backlinks:
 - [[MERS-CoV]]
+- [[Virus]]
 - [[Beta-Coronavirus]]
 - [[SARS-COV-2]]

@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/SARS-COV-2
+  - Zet/Virus
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 backlinks:
   - Zet/CDC

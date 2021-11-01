@@ -2,10 +2,12 @@
 outgoing_links:
   - Zet/Health
   - Zet/COVID-19
+  - Zet/Vaccine
 backlinks:
   - Zet/CDC
   - Zet/Real time PCR test
   - Zet/Đại dịch COVID-19
+  - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
 title: FDA
 UID: 211005223318
 created: 05-Oct-2021
@@ -32,3 +34,4 @@ FDA, viết tắt của cục quản lý thực phẩm và dược phẩm Hoa K�
 - [[CDC]]
 - [[Real time PCR test]]
 - [[Đại dịch COVID-19]]
+- [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]

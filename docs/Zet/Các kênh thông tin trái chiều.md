@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Đại dịch COVID-19
   - Zet/Kênh youtube giáo dục tự do 1
   - Zet/COVID-19
+  - Zet/Vaccine
   - Zet/Eugenics
 title: Các kênh thông tin trái chiều
 UID: 211005231658

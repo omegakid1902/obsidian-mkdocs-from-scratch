@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Bill Gates
+  - Zet/Vaccine
   - Zet/SARS-COV-2
 backlinks:
   - Zet/Đại dịch COVID-19

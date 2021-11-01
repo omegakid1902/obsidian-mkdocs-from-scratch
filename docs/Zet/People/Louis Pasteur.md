@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/People/Edward Jenner
 backlinks:
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
+  - Zet/Đại dịch COVID-19
   - Zet/The Terrain Theory
   - Zet/People/Antoine Beauchamp
 title: Louis Pasteur
@@ -14,7 +15,9 @@ tags:
   - 'seed🥜'
   - 'permanent/people'
 birth: 
-death: 
+death:
+aliases:
+  - Pasteur
 publish: True
 ---
 # Louis Pasteur
@@ -29,5 +32,6 @@ Louis Pasteur đưa ra [[The Germ theory]]
 - Dựa trên The Germ theory, [[Edward Jenner]] đã đưa ra [[Vaccination]] 
 ## Backlinks:
 - [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
+- [[Đại dịch COVID-19]]
 - [[The Terrain Theory]]
 - [[Antoine Beauchamp]]

@@ -1,8 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Vaccine
   - Zet/The Terrain Theory
   - Zet/People/Antoine Beauchamp
 backlinks:
+  - Zet/Vaccine
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/People/Louis Pasteur
 title: Edward Jenner
@@ -30,5 +32,6 @@ Edward Jenner là người đầu tiên nghiên cứu [[Vaccine]] và sử dụn
 ## Relate to:
 - [Wiki Tiếng Việt](https://vi.wikipedia.org/wiki/Edward_Jenner)
 ## Backlinks:
+- [[Vaccine]]
 - [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
 - [[Louis Pasteur]]
