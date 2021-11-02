@@ -16,10 +16,13 @@ outgoing_links:
   - Zet/Mafia y tế
   - Zet/FDA
   - Zet/CDC
+  - Zet/WHO
+  - Zet/Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ
   - Zet/People/Anthony Fauci
   - Zet/Real time PCR test
   - Zet/People/Kary B. Mullis
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
+  - Zet/Real time PCR test là một trò bịp của Big Pharma
   - Zet/People/Bill Gates
   - Zet/Vaccine Pfizer
   - Zet/Vaccine Moderna
@@ -48,7 +51,8 @@ publish: True
 
 [[COVID-19]] là tên gọi loại bệnh do virus SARS-COV-2 gây ra
 
-[[Các loại Vaccine COVID 19]]
+[[Các loại Vaccine COVID 19]]:
+
 - [[Vaccine mRNA|Công nghệ vaccine mRNA]]
 - [[Vaccine virus bất hoạt]]
 
@@ -73,6 +77,7 @@ publish: True
 	- [[CDC]]
 	- [[WHO|Tổ chức Y tế thế giới]]
 	- [[Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ|NIAID]]
+	- [[NIH]]
 - [[Anthony Fauci]]
 - [[Robert Wallace Malone]] người phát minh ra [[Vaccine mRNA]] lên tiếng phản đối việc ép buộc chích vaccine. Nó chỉ là thử nghiệm
 
@@ -97,10 +102,34 @@ publish: True
 
 ### Tác dụng phụ của Vaccine
 Các bằng chứng về tác dụng phụ:
+
 - [[Các bằng chứng Vaccine Covid gây đột quỵ]]
 
 Các bài báo:
+
 - [[@ benhvien108.vn, Viêm cơ tim – một biến chứng đáng chú ý sau tiêm vắc xin ngừa COVID-19]]
+
+### Các loại thuốc chữa thay thế:
+Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không có thuốc đặc trị.
+
+#### [[Ivermectin]]
+- Ivermectin là một thuốc thông dụng, giá thành thấp
+- [[FDA]] không cấp phép cho Ivermectin là thuốc đặc trị virus [^2][^3]
+	- ![[Pasted image 20211102225709.png]]
+- Indonesia và Ấn Độ đã sử dụng và ngăn chặn dịch.
+- Thế [[Ivermectin]] thực sự chữa trị được [[COVID-19]] không!? mà sao Indonesia và Ấn Độ áp dụng thành công!?
+- Có nghiên cứu gì về hại về mặt lâu dài không, hay mục đích FDA không chấp thuận sử dụng chỉ vì lợi nhuận của nó không nhiều bằng việc triển khai [[Vaccine]]!?
+
+- Đồng thuận: 
+		- [Câu hỏi thường gặp về Ivermectin - FLCCC | Front Line COVID-19 Critical Care Alliance (covid19criticalcare.com)](https://covid19criticalcare.com/vi/ivermectin-trong-covid-19/c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-ivermectin/)
+	![[Pasted image 20211102231216.png]]
+	- [Bản in bài viết | Chống dịch COVID-19, kinh nghiệm từ một số quốc gia (baochinhphu.vn)](http://baochinhphu.vn/Utilities/PrintView.aspx?distributionid=445234)
+			![[Pasted image 20211102231023.png]]
+	- Gạt bỏ:
+		- [Thực hư chuyện dùng thuốc tẩy giun Ivermectin trị COVID-19 | Quốc tế | PLO](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html)
+			![[Pasted image 20211102231302.png]]
+		- [Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)
+-> Đậu phộng nó, mị dân à, Ivermectine đã được phát triển cách đây 40 năm, nó có thể chữa được nhiều bệnh khác rồi[^4] tức đã đảm bảo an toàn về mặt lâu dài, thằng [[FDA]] cũng nói thế. Và giờ đây người ta (Ấn Độ, Indo) áp dụng thành công để chữa trị covid. Thì chẳng có lý do gì mà  [[FDA|nó]] không đồng thuận sử dụng thay vì phải chích cái thứ vaccine mới phát triển cách đây 1 năm. Thế mà bọn [chính thống](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html) còn ăn theo phanh phui thực hư này nọ, chẳng qua cũng chỉ dựa trên cái quyết định của [[FDA]] mà thui. Mị dân, mị dân!!
 
 ## Kiểm soát dân số
 - [[Eugenics|Thuyết ưu sinh]]
@@ -117,6 +146,9 @@ Các bài báo:
 - Khoa học this, khoa học that [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
 
 [^1]: [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
+[^2]: [Ivermectin | COVID-19 Treatment Guidelines (nih.gov)](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/ivermectin/)
+[^3]:[Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)
+[^4]:[Câu hỏi thường gặp về Ivermectin - FLCCC | Front Line COVID-19 Critical Care Alliance (covid19criticalcare.com)](https://covid19criticalcare.com/vi/ivermectin-trong-covid-19/c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-ivermectin/)
 ## Backlinks:
 - [[Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng]]
 - [[Coronavirus]]

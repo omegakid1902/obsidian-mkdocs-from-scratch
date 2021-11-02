@@ -1,5 +1,11 @@
 ---
 outgoing_links:
+  - Zet/Đảng Quốc Xã
+  - Zet/Người Do Thái
+  - Zet/People/Adolf Hitler
+  - Zet/People/Charles Darwin
+  - Zet/Francis Galton là em họ của Charles Darwin
+  - Zet/Người Aryan
   - Zet/People/Bill Gates
   - Zet/Vaccine
   - Zet/SARS-COV-2
@@ -15,6 +21,7 @@ tags:
   - '#created/2021/Sep/19'
   - '#seed🥜'
   - '#permanent/concept'
+  - 'Qmap'
 aliases:
   - Thuyết ưu sinh
   - Phong trào ưu sinh
@@ -37,12 +44,12 @@ Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa tr�
 - [[Adolf Hitler]] và quan điểm [[Người Aryan]] thượng đẳng
 - [[Bill Gates]] thuộc nhóm người ủng hộ thuyết ưu sinh!?
 	- Các vấn đề [[Vaccine]] [[SARS-COV-2]]
-- Một số nhân vật liên quan tới thuyết ưu sinh: [1](https://vi.wikipedia.org/wiki/Thuy%E1%BA%BFt_%C6%B0u_sinh)
+- Một số nhân vật liên quan tới thuyết ưu sinh: [^1]
 	- [[Winston Churchill]]
 	- [[Theodore Roosevelt]]
 	- [[Alexander Graham Bell]]
 
-
+[^1]:[wiki](https://vi.wikipedia.org/wiki/Thuy%E1%BA%BFt_%C6%B0u_sinh)
 ## Backlinks:
 - [[Đại dịch COVID-19]]
 - [[Qmap]]

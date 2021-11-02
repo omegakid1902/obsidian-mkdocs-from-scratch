@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Charles Darwin
 title: Homo Neanderthal
 created: June 27, 2021 10:48 PM
 tags:

@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ
 backlinks:
   - Zet/Đại dịch COVID-19
 title: Anthony Fauci

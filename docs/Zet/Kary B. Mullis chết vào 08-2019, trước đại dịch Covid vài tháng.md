@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Đại dịch COVID-19
 backlinks:
   - Zet/Real time PCR test
+  - Zet/Real time PCR test là một trò bịp của Big Pharma
 title: Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
 UID: 211101233758
 created: 01-Nov-2021
@@ -24,3 +25,4 @@ publish: True
 
 ## Backlinks:
 - [[Real time PCR test]]
+- [[Real time PCR test là một trò bịp của Big Pharma]]

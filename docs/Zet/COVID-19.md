@@ -6,6 +6,7 @@ outgoing_links:
 backlinks:
   - Zet/CDC
   - Zet/Đại dịch COVID-19
+  - Zet/WHO
   - Zet/Các kênh thông tin trái chiều
   - Zet/SARS-COV-2
   - Zet/The Terrain Theory
@@ -31,6 +32,7 @@ COVID 19 (hay 2019-nCoV) là tên gọi của bệnh viêm đường hô hấp d
 ## Backlinks:
 - [[CDC]]
 - [[Đại dịch COVID-19]]
+- [[WHO]]
 - [[Các kênh thông tin trái chiều]]
 - [[SARS-COV-2]]
 - [[The Terrain Theory]]

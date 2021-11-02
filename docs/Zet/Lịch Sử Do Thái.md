@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/Người Do Thái Ashkenazi
+  - Zet/Holocaust
+  - Zet/People/Adolf Hitler
 backlinks:
   - Zet/Lịch sử
 publish: True

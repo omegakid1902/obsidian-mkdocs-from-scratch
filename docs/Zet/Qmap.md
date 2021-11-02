@@ -17,6 +17,7 @@ outgoing_links:
   - Zet/Dòng Tên
   - Zet/People/Đức Giáo Hoàng
   - Zet/Eugenics
+  - Zet/People/Adolf Hitler
 backlinks:
   - Zet/Vril
   - Zet/Khazars

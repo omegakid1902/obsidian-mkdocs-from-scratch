@@ -5,8 +5,10 @@ outgoing_links:
   - Zet/FDA
   - Zet/SARS-COV-2
   - Zet/People/Kary B. Mullis
+  - Zet/Real time PCR test là một trò bịp của Big Pharma
 backlinks:
   - Zet/Đại dịch COVID-19
+  - Zet/Real time PCR test là một trò bịp của Big Pharma
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/People/Kary B. Mullis
 title: Real time PCR test
@@ -39,5 +41,6 @@ publish: True
 
 ## Backlinks:
 - [[Đại dịch COVID-19]]
+- [[Real time PCR test là một trò bịp của Big Pharma]]
 - [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]
 - [[Kary B. Mullis]]

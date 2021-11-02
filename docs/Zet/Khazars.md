@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Người Do Thái
   - Zet/Qmap
 backlinks:
   - Zet/Do Thái Edomite

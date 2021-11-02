@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/Tóm tắt sách Sáng Thế
 backlinks:
+  - Zet/Người Do Thái
   - Zet/Công Giáo
   - Zet/Lucifer
 title: Cựu Ước
@@ -26,5 +27,6 @@ publish: True
 
 
 ## Backlinks:
+- [[Người Do Thái]]
 - [[Công Giáo]]
 - [[Lucifer]]
