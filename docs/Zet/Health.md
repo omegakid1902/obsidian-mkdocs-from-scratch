@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Đại dịch COVID-19
   - Zet/Các chế độ nhịn ăn
 backlinks:
-  - Zet/FDA
   - Zet/Các chế độ nhịn ăn
+  - Zet/FDA
 title: 🏡 Health
 UID: 210903101749
 tags:
@@ -52,5 +52,5 @@ sort file.name asc
 ```
 
 ## Backlinks:
-- [[FDA]]
 - [[Các chế độ nhịn ăn]]
+- [[FDA]]

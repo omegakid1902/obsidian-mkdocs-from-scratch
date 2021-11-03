@@ -22,9 +22,9 @@ backlinks:
   - Zet/Vril
   - Zet/Khazars
   - Zet/Plato có nói về Atlantis
-  - Zet/People/Plato
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Helena Blavatsky
+  - Zet/People/Plato
 title: QAnon map
 UID: 210920220953
 created: 20-Sep-2021
@@ -214,6 +214,6 @@ click Hitler "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FAdolf%20Hit
 - [[Vril]]
 - [[Khazars]]
 - [[Plato có nói về Atlantis]]
-- [[Plato]]
 - [[Đức Giáo Hoàng]]
 - [[Helena Blavatsky]]
+- [[Plato]]

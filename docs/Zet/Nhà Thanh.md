@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nhà Thanh
 backlinks:
-  - Zet/Nhà Thanh
   - Zet/Lịch sử Trung Quốc
+  - Zet/Nhà Thanh
 title: Nhà Thanh
 UID: P-210811-2121
 created: 
@@ -41,5 +41,5 @@ from [[Nhà Thanh]]
 sort file.name asc
 ```
 ## Backlinks:
-- [[Nhà Thanh]]
 - [[Lịch sử Trung Quốc]]
+- [[Nhà Thanh]]

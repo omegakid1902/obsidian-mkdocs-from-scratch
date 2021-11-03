@@ -1,10 +1,10 @@
 ---
 backlinks:
-  - Zet/Bóng tối linh hồn
-  - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
   - Zet/Khủng hoảng hiện sinh
-  - Zet/Hạ thế giới
+  - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
   - Zet/Thế giới tâm linh
+  - Zet/Hạ thế giới
+  - Zet/Bóng tối linh hồn
 title: Thức tỉnh tâm linh
 UID: 211017225545
 created: 17-Oct-2021
@@ -27,8 +27,8 @@ Thức tỉnh tâm linh, hay Spiritual awakening
 
 
 ## Backlinks:
-- [[Bóng tối linh hồn]]
-- [[Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh]]
 - [[Khủng hoảng hiện sinh]]
-- [[Hạ thế giới]]
+- [[Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh]]
 - [[Thế giới tâm linh]]
+- [[Hạ thế giới]]
+- [[Bóng tối linh hồn]]

@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/People/Niklas Luhmann
   - Zet/The Second Brain
 backlinks:
-  - Zet/The Second Brain
   - Zet/Self Improvement
+  - Zet/The Second Brain
   - Zet/People/Niklas Luhmann
 title: Zettelkasten
 UID: 211001214142
@@ -43,6 +43,6 @@ Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian
 
 
 ## Backlinks:
-- [[The Second Brain]]
 - [[Self Improvement]]
+- [[The Second Brain]]
 - [[Niklas Luhmann]]

@@ -4,14 +4,14 @@ outgoing_links:
   - Zet/Virus
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 backlinks:
-  - Zet/CDC
-  - Zet/Đại dịch COVID-19
-  - Zet/WHO
   - Zet/Các kênh thông tin trái chiều
+  - Zet/Đại dịch COVID-19
   - Zet/SARS-COV-2
-  - Zet/The Terrain Theory
   - Zet/Mafia y tế
+  - Zet/The Terrain Theory
+  - Zet/CDC
   - Zet/FDA
+  - Zet/WHO
 title: COVID 19
 UID: 2107101155
 tags:
@@ -30,11 +30,11 @@ COVID 19 (hay 2019-nCoV) là tên gọi của bệnh viêm đường hô hấp d
 - [[Exosomes]]
 
 ## Backlinks:
-- [[CDC]]
-- [[Đại dịch COVID-19]]
-- [[WHO]]
 - [[Các kênh thông tin trái chiều]]
+- [[Đại dịch COVID-19]]
 - [[SARS-COV-2]]
-- [[The Terrain Theory]]
 - [[Mafia y tế]]
+- [[The Terrain Theory]]
+- [[CDC]]
 - [[FDA]]
+- [[WHO]]

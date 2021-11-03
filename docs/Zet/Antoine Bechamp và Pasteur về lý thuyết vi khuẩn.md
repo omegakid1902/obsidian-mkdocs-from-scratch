@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/People/Louis Pasteur
   - Zet/Mafia y tế
 backlinks:
-  - Zet/Coronavirus
-  - Zet/COVID-19
   - Zet/Đại dịch COVID-19
   - Zet/SARS-COV-2
+  - Zet/Coronavirus
+  - Zet/COVID-19
 title: Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 UID: 211010110308
 created: 10-Oct-2021
@@ -49,7 +49,7 @@ publish: True
 
  
 ## Backlinks:
-- [[Coronavirus]]
-- [[COVID-19]]
 - [[Đại dịch COVID-19]]
 - [[SARS-COV-2]]
+- [[Coronavirus]]
+- [[COVID-19]]

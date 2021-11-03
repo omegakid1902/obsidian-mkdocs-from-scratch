@@ -5,15 +5,15 @@ outgoing_links:
   - Zet/Virus
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 backlinks:
-  - Zet/Coronavirus
-  - Zet/MERS-CoV
-  - Zet/Eugenics
-  - Zet/Vaccine AstraZeneca
-  - Zet/COVID-19
   - Zet/Real time PCR test
+  - Zet/Eugenics
   - Zet/Đại dịch COVID-19
   - Zet/Beta-Coronavirus
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/MERS-CoV
+  - Zet/Coronavirus
+  - Zet/COVID-19
+  - Zet/Vaccine AstraZeneca
 title: SARS-COV-2
 UID: 2107101047
 tags:
@@ -37,12 +37,12 @@ Cấu trúc của virus gồm lõi là một gen RNA và bao quanh là vỏ glyc
 - [[Exosomes]]
 
 ## Backlinks:
-- [[Coronavirus]]
-- [[MERS-CoV]]
-- [[Eugenics]]
-- [[Vaccine AstraZeneca]]
-- [[COVID-19]]
 - [[Real time PCR test]]
+- [[Eugenics]]
 - [[Đại dịch COVID-19]]
 - [[Beta-Coronavirus]]
 - [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
+- [[MERS-CoV]]
+- [[Coronavirus]]
+- [[COVID-19]]
+- [[Vaccine AstraZeneca]]

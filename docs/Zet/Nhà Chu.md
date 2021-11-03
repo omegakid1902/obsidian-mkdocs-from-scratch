@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Nhà Thương
   - Zet/Nhà Tần
 backlinks:
-  - Zet/Nhà Tần
   - Zet/Lịch sử Trung Quốc
+  - Zet/Nhà Tần
   - Zet/People/Tần Thủy Hoàng
 title: Nhà Chu
 UID: 210828103407
@@ -26,6 +26,6 @@ Tiền thân của [[Nhà Chu]] là [[Nhà Thương]], kế tục là [[Nhà T�
 
 ## Tham khảo:
 ## Backlinks:
-- [[Nhà Tần]]
 - [[Lịch sử Trung Quốc]]
+- [[Nhà Tần]]
 - [[Tần Thủy Hoàng]]

@@ -4,10 +4,10 @@ outgoing_links:
   - Zet/Thời Lê sơ
   - Zet/Chúa Trịnh
 backlinks:
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Nhà Hậu Lê
   - Zet/Chúa Nguyễn
   - Zet/Chúa Trịnh
+  - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Hậu Lê
 title: Thời Lê trung hưng
 UID: 210712-2141
 tags:
@@ -34,7 +34,7 @@ Thời Lê trung hưng (1533–1789) là thời kỳ sau của triều đại [[
 
 
 ## Backlinks:
-- [[Lịch Sử Việt Nam]]
-- [[Nhà Hậu Lê]]
 - [[Chúa Nguyễn]]
 - [[Chúa Trịnh]]
+- [[Lịch Sử Việt Nam]]
+- [[Nhà Hậu Lê]]

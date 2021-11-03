@@ -9,8 +9,8 @@ outgoing_links:
   - Zet/People/Bill Gates
 backlinks:
   - Zet/Vaccine Pfizer
-  - Zet/Vaccine mRNA
   - Zet/Đại dịch COVID-19
+  - Zet/Vaccine mRNA
 title: Các loại Vaccine COVID 19
 UID: 2107100843
 tags:
@@ -41,5 +41,5 @@ Vaccin COVID-19 được chia làm 3 loại theo công nghệ sản xuất
 
 ## Backlinks:
 - [[Vaccine Pfizer]]
-- [[Vaccine mRNA]]
 - [[Đại dịch COVID-19]]
+- [[Vaccine mRNA]]

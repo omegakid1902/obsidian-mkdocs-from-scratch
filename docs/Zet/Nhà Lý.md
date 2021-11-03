@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Nhà Trần
+  - Zet/Lịch Sử Việt Nam
   - Zet/People/Trần Thủ Độ
   - Zet/People/Lý Chiêu Hoàng
 publish: True
@@ -20,7 +20,7 @@ publish: True
 
 
 ## Backlinks:
-- [[Lịch Sử Việt Nam]]
 - [[Nhà Trần]]
+- [[Lịch Sử Việt Nam]]
 - [[Trần Thủ Độ]]
 - [[Lý Chiêu Hoàng]]

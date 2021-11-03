@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Luân xa rốn
 backlinks:
-  - Zet/Luân xa
   - Zet/Cơ thể con người có 7 luân xa
+  - Zet/Luân xa
 title: Luân xa xương cùng
 UID: 211017145535
 created: 17-Oct-2021
@@ -37,5 +37,5 @@ Luân xa xương cùng, hay Solar Plexus chakra, vị trí nằm ở [[Huyệt T
 
 
 ## Backlinks:
-- [[Luân xa]]
 - [[Cơ thể con người có 7 luân xa]]
+- [[Luân xa]]

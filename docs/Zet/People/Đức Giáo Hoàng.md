@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/Qmap
 backlinks:
-  - Zet/Qmap
   - Zet/Công Giáo
+  - Zet/Qmap
   - Zet/Cải Cách Kháng Nghị
 title: Đức Giáo Hoàng
 UID: 210908194255
@@ -30,6 +30,6 @@ Giáo Hoàng là giám mục [[Giáo phận Roma]], là người đứng đầu 
 
 
 ## Backlinks:
-- [[Qmap]]
 - [[Công Giáo]]
+- [[Qmap]]
 - [[Cải Cách Kháng Nghị]]

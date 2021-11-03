@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/Cựu Ước
   - Zet/Kinh mân côi
   - Zet/Công Giáo
   - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Cựu Ước
   - Zet/People/Thánh Phaolo
 title: Đức Jesus
 UID: P-210731-2219
@@ -38,8 +38,8 @@ publish: True
 
 
 ## Backlinks:
-- [[Cựu Ước]]
 - [[Kinh mân côi]]
 - [[Công Giáo]]
 - [[Chúa Jesus không sinh ra vào 25-12]]
+- [[Cựu Ước]]
 - [[Thánh Phaolo]]

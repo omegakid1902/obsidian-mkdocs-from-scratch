@@ -10,17 +10,17 @@ outgoing_links:
   - Zet/Vaccine
   - Zet/SARS-COV-2
 backlinks:
+  - Zet/Các kênh thông tin trái chiều
   - Zet/Đại dịch COVID-19
   - Zet/Qmap
-  - Zet/Các kênh thông tin trái chiều
   - Zet/People/Bill Gates
 title: Eugenics
 UID: 210919163636
 created: 19-Sep-2021
 tags:
-  - '#created/2021/Sep/19'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/19'
+  - 'seed🥜'
+  - 'permanent/concept'
   - 'Qmap'
 aliases:
   - Thuyết ưu sinh
@@ -51,7 +51,7 @@ Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa tr�
 
 [^1]:[wiki](https://vi.wikipedia.org/wiki/Thuy%E1%BA%BFt_%C6%B0u_sinh)
 ## Backlinks:
+- [[Các kênh thông tin trái chiều]]
 - [[Đại dịch COVID-19]]
 - [[Qmap]]
-- [[Các kênh thông tin trái chiều]]
 - [[Bill Gates]]

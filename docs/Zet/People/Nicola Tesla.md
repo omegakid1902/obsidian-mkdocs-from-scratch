@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Tháp Wardenclyffe
 backlinks:
-  - Zet/Akashic records
-  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Tần số Solfeggio
+  - Zet/Akashic records
   - Zet/Qmap
+  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/NESARA
   - Zet/Tháp Wardenclyffe
 title: Nicola Tesla
@@ -43,9 +43,9 @@ publish: True
 - [Nếu 6 công nghệ này của Nikola Tesla được công bố, lịch sử thế giới có lẽ sẽ phải viết lại! - TinhHoa.Net](https://tinhhoa.net/neu-6-cong-nghe-nay-cua-nikola-tesla-duoc-cong-bo-lich-su-the-gioi-co-le-se-phai-viet-lai.html)
 
 ## Backlinks:
-- [[Akashic records]]
-- [[Theo tài liệu FBI, Tesla là người Sao Kim]]
 - [[Tần số Solfeggio]]
+- [[Akashic records]]
 - [[Qmap]]
+- [[Theo tài liệu FBI, Tesla là người Sao Kim]]
 - [[NESARA]]
 - [[Tháp Wardenclyffe]]

@@ -6,12 +6,12 @@ outgoing_links:
   - Zet/Vaccine Pfizer
   - Zet/Vaccine Moderna
 backlinks:
-  - Zet/Vaccine Moderna
   - Zet/Eugenics
   - Zet/Đại dịch COVID-19
   - Zet/Các loại Vaccine COVID 19
-  - Zet/WHO
+  - Zet/Vaccine Moderna
   - Zet/Mafia y tế
+  - Zet/WHO
 title: Bill Gates
 UID: 210918172501
 tags:
@@ -33,9 +33,9 @@ publish: True
 - [[Bill Gates]] và các vấn đền liên quan đến [[Vaccine]] [[Vaccine Pfizer]], [[Vaccine Moderna]]
 
 ## Backlinks:
-- [[Vaccine Moderna]]
 - [[Eugenics]]
 - [[Đại dịch COVID-19]]
 - [[Các loại Vaccine COVID 19]]
-- [[WHO]]
+- [[Vaccine Moderna]]
 - [[Mafia y tế]]
+- [[WHO]]

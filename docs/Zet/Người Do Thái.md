@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Người Hebrew
   - Zet/Cựu Ước
 backlinks:
-  - Zet/Khazars
-  - Zet/Holocaust
   - Zet/Eugenics
+  - Zet/Holocaust
+  - Zet/Khazars
   - Zet/Người Hebrew
   - Zet/People/Adolf Hitler
 title: Người Do Thái
@@ -25,8 +25,8 @@ Người Do Thái có nguồn gốc từ [[Người Hebrew]] khoảng 4000 năm 
 [[2021 06 21 21 12 note_01]]
 
 ## Backlinks:
-- [[Khazars]]
-- [[Holocaust]]
 - [[Eugenics]]
+- [[Holocaust]]
+- [[Khazars]]
 - [[Người Hebrew]]
 - [[Adolf Hitler]]

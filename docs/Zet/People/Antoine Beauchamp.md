@@ -2,11 +2,11 @@
 outgoing_links:
   - Zet/People/Louis Pasteur
 backlinks:
-  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Đại dịch COVID-19
+  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/The Terrain Theory
-  - Zet/People/Edward Jenner
   - Zet/People/Louis Pasteur
+  - Zet/People/Edward Jenner
 title: Antoine Beauchamp
 UID: 211010110846
 tags:
@@ -47,8 +47,8 @@ Cha đẻ của [[The Terrain Theory]]
 - [Natures-Therapies](https://www.naturalhealthscience.com/article_Natures-Therapies_090624.php)
 - [the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat](https://hitechglitz.com/vietnam/the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat/)
 ## Backlinks:
-- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
 - [[Đại dịch COVID-19]]
+- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
 - [[The Terrain Theory]]
-- [[Edward Jenner]]
 - [[Louis Pasteur]]
+- [[Edward Jenner]]

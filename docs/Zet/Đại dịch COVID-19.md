@@ -28,15 +28,17 @@ outgoing_links:
   - Zet/Vaccine Moderna
   - Zet/Eugenics
   - Zet/People/Donald J. Trump
+  - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
+  - Zet/Khoa học và các cú mị dân
   - Zet/People/Abhigya Anand
   - Zet/People/Boriska Kipriyanovich
 backlinks:
-  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
-  - Zet/Coronavirus
-  - Zet/Chemtrails
-  - Zet/Virus
   - Zet/Các kênh thông tin trái chiều
+  - Zet/Virus
   - Zet/Health
+  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
+  - Zet/Chemtrails
+  - Zet/Coronavirus
 title: Đại dịch COVID-19
 tags:
   - 'created/2021/Jul/10'
@@ -92,6 +94,7 @@ publish: True
 -> [[Real time PCR test là một trò bịp của Big Pharma]]
 -> Đại dịch covid hay đại dich PCR dương tính giả? [^1]
 
+
 ### Nguồn gốc Vaccine
 - [[Bill Gates]] là người có nguồn đầu tư lớn vào [[Vaccine mRNA|Công nghệ vaccine mRNA]] cũng như các công ty vaccine lớn như [[Vaccine Pfizer|Pfizer]] và [[Vaccine Moderna|Moderna]]
 	- Bill Gates là người liên quan mật thiết tới [[Eugenics|Thuyết ưu sinh]]
@@ -129,7 +132,11 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 		- [Thực hư chuyện dùng thuốc tẩy giun Ivermectin trị COVID-19 | Quốc tế | PLO](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html)
 			![[Pasted image 20211102231302.png]]
 		- [Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)
--> Đậu phộng nó, mị dân à, Ivermectine đã được phát triển cách đây 40 năm, nó có thể chữa được nhiều bệnh khác rồi[^4] tức đã đảm bảo an toàn về mặt lâu dài, thằng [[FDA]] cũng nói thế. Và giờ đây người ta (Ấn Độ, Indo) áp dụng thành công để chữa trị covid. Thì chẳng có lý do gì mà  [[FDA|nó]] không đồng thuận sử dụng thay vì phải chích cái thứ vaccine mới phát triển cách đây 1 năm. Thế mà bọn [chính thống](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html) còn ăn theo phanh phui thực hư này nọ, chẳng qua cũng chỉ dựa trên cái quyết định của [[FDA]] mà thui. Mị dân, mị dân!!
+
+[[FDA cấm Ivermectin thú y để chữa trị cho người]] -> ai lại đi lấy thuốc tiêu chảy "thú y" để chữa tiêu chảy ở người nào!? vậy ở đây nên hiểu cấm "thuốc tiêu chảy" hay cấm "thuốc thú y" được dùng ở người 🤣. Ivermectin có 2 loại sản xuất cho người và động vật. Thằng [[FDA]] nó đã cấp phép sử dụng thuốc đó ở người để trị giun sán.
+
+## Sự dối trá của khoa học dưới chính trị
+[[Khoa học và các cú mị dân]]
 
 ## Kiểm soát dân số
 - [[Eugenics|Thuyết ưu sinh]]
@@ -148,11 +155,11 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 [^1]: [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
 [^2]: [Ivermectin | COVID-19 Treatment Guidelines (nih.gov)](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/ivermectin/)
 [^3]:[Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)
-[^4]:[Câu hỏi thường gặp về Ivermectin - FLCCC | Front Line COVID-19 Critical Care Alliance (covid19criticalcare.com)](https://covid19criticalcare.com/vi/ivermectin-trong-covid-19/c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-ivermectin/)
+
 ## Backlinks:
-- [[Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng]]
-- [[Coronavirus]]
-- [[Chemtrails]]
-- [[Virus]]
 - [[Các kênh thông tin trái chiều]]
+- [[Virus]]
 - [[Health]]
+- [[Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng]]
+- [[Chemtrails]]
+- [[Coronavirus]]

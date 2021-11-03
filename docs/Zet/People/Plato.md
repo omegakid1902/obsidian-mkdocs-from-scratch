@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Qmap
 backlinks:
-  - Zet/Plato có nói về Atlantis
   - Zet/Qmap
+  - Zet/Plato có nói về Atlantis
 title: Plato
 UID: 2107102128
 tags:
@@ -24,5 +24,5 @@ Plato là triết gia [[Hy Lạp]] cổ đại, sáng lập trường phái tư 
 - Trong [[Qmap]], Plato có mối liên quan với [[Thuyết Ngộ Đạo|Gnosticism]] #todo/research 
 
 ## Backlinks:
-- [[Plato có nói về Atlantis]]
 - [[Qmap]]
+- [[Plato có nói về Atlantis]]

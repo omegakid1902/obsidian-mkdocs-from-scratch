@@ -21,9 +21,9 @@ outgoing_links:
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
 backlinks:
-  - Zet/Lịch sử
   - Zet/index
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
+  - Zet/Lịch sử
 title: Lịch Sử Việt Nam
 UID: 
 created: 
@@ -103,6 +103,6 @@ publish: True
 - [[@ George J. Veith, Gươm đã tuốt ra nơi miền đất xa xôi]]
 
 ## Backlinks:
-- [[Lịch sử]]
 - [[index]]
 - [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]
+- [[Lịch sử]]

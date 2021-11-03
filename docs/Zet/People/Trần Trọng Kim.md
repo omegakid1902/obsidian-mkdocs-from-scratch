@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Đế quốc Việt Nam
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Đế quốc Việt Nam
+  - Zet/Lịch Sử Việt Nam
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
 title: Trần Trọng Kim
 UID: 210711-1012
@@ -24,6 +24,6 @@ Trần Trọng Kim là một học giả, nhà nghiên cứu sử học, văn h�
 
 
 ## Backlinks:
-- [[Lịch Sử Việt Nam]]
 - [[Đế quốc Việt Nam]]
+- [[Lịch Sử Việt Nam]]
 - [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]

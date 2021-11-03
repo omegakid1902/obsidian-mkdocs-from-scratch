@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Chúa Nguyễn
   - Zet/Chúa Trịnh
 backlinks:
+  - Zet/Chúa Nguyễn
   - Zet/Nhà Nguyễn
   - Zet/Lịch Sử Việt Nam
-  - Zet/Chúa Nguyễn
 title: Nhà Tây Sơn
 UID: 
 created: 
@@ -36,6 +36,6 @@ Nhà Tây Sơn lật đổ tập đoàn phong kiến Vua Lê, [[Chúa Trịnh]],
 	
 
 ## Backlinks:
+- [[Chúa Nguyễn]]
 - [[Nhà Nguyễn]]
 - [[Lịch Sử Việt Nam]]
-- [[Chúa Nguyễn]]

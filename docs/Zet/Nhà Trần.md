@@ -7,12 +7,12 @@ outgoing_links:
   - Zet/People/Trần Hưng Đạo
   - Zet/People/Trần Quang Khải
 backlinks:
-  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/Lịch Sử Việt Nam
+  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Liễu
-  - Zet/People/Trần Hưng Đạo
   - Zet/People/Trần Cảnh
+  - Zet/People/Trần Hưng Đạo
 title: Nhà Trần
 tags:
   - '#created/2021/Jul/09'
@@ -75,9 +75,9 @@ Các trận đánh lớn:
 
 
 ## Backlinks:
-- [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]
 - [[Lịch Sử Việt Nam]]
+- [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]
 - [[Trần Thủ Độ]]
 - [[Trần Liễu]]
-- [[Trần Hưng Đạo]]
 - [[Trần Cảnh]]
+- [[Trần Hưng Đạo]]

@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Thời Lê sơ
   - Zet/Thời Lê trung hưng
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Thời Lê trung hưng
+  - Zet/Lịch Sử Việt Nam
 title: Nhà Hậu Lê
 UID: 
 tags:
@@ -34,5 +34,5 @@ Nhà Hậu Lê là một triều đại kéo dài từ 1428-1789 do [[Lê Lợi]
 
 
 ## Backlinks:
-- [[Lịch Sử Việt Nam]]
 - [[Thời Lê trung hưng]]
+- [[Lịch Sử Việt Nam]]

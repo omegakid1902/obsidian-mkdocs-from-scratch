@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Trần Hưng Đạo
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Nhà Trần
+  - Zet/Lịch Sử Việt Nam
   - Zet/People/Thuận Thiên công chúa
 title: Trần Quang Khải
 UID: 210902132747
@@ -35,6 +35,6 @@ from [[Trần Quang Khải]]
 sort file.name asc
 ```
 ## Backlinks:
-- [[Lịch Sử Việt Nam]]
 - [[Nhà Trần]]
+- [[Lịch Sử Việt Nam]]
 - [[Thuận Thiên công chúa]]

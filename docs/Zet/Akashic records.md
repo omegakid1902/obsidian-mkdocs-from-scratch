@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/People/Nicola Tesla
   - Zet/Thông thiên học
 backlinks:
-  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Qmap
+  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
 title: Akashic records
 UID: 211012230027
 created: 12-Oct-2021
@@ -34,5 +34,5 @@ Thư viện Akashic là nơi lưu trữ toàn bộ dữ liệu về vũ trụ. B
 - [Akashic Record - The Peace Seekers](http://www.thepeaceseekers.org/book_stories/akashic-record)
 - [Thuc Tinh Tam Linh: Thư viện Akashic (Akashic Record) - P1](https://thuctinhtamlinh.blogspot.com/2014/07/thu-vien-akashic-akashic-record-p1.html)
 ## Backlinks:
-- [[Theo tài liệu FBI, Tesla là người Sao Kim]]
 - [[Qmap]]
+- [[Theo tài liệu FBI, Tesla là người Sao Kim]]

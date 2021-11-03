@@ -6,12 +6,12 @@ outgoing_links:
   - Zet/People/Thánh Phaolo
   - Zet/Dòng Tên
 backlinks:
-  - Zet/Hồi Giáo
-  - Zet/Religion
-  - Zet/Cải Cách Kháng Nghị
   - Zet/Chúa Jesus không sinh ra vào 25-12
-  - Zet/People/Alberto Rivera
+  - Zet/Religion
+  - Zet/Hồi Giáo
+  - Zet/Cải Cách Kháng Nghị
   - Zet/People/Đức Giáo Hoàng
+  - Zet/People/Alberto Rivera
 title: Công Giáo
 UID: 210815151214
 tags:
@@ -59,9 +59,9 @@ publish: True
 - [[Dòng Tên]]
 
 ## Backlinks:
-- [[Hồi Giáo]]
-- [[Religion]]
-- [[Cải Cách Kháng Nghị]]
 - [[Chúa Jesus không sinh ra vào 25-12]]
-- [[Alberto Rivera]]
+- [[Religion]]
+- [[Hồi Giáo]]
+- [[Cải Cách Kháng Nghị]]
 - [[Đức Giáo Hoàng]]
+- [[Alberto Rivera]]

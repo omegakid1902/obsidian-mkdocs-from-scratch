@@ -1,8 +1,8 @@
 ---
 backlinks:
+  - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
   - Zet/Nhà Tần
-  - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
 title: Nam Việt
 UID: 210724-1049
 tags:
@@ -22,6 +22,6 @@ Nam Việt (203 TCN -111 TCN) cai trị bởi [[Triệu Đà]], là một nướ
 
 
 ## Backlinks:
+- [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
 - [[Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN]]
 - [[Nhà Tần]]
-- [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]

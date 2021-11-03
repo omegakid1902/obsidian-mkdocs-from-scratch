@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Nhà Tần
   - Zet/Nhà Chu
 backlinks:
-  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
-  - Zet/Nhà Tần
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
+  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
   - Zet/Lịch sử Trung Quốc
+  - Zet/Nhà Tần
 title: Tần Thủy Hoàng
 UID: 210828110531
 tags:
@@ -28,7 +28,7 @@ Tần Thủy Hoàng (18 tháng 2 năm 259 TCN – 11 tháng 7 năm 210 TCN) là 
 ## Related:
 
 ## Backlinks:
-- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
-- [[Nhà Tần]]
 - [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
+- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
 - [[Lịch sử Trung Quốc]]
+- [[Nhà Tần]]

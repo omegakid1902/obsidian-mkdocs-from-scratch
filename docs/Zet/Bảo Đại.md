@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Nhà Nguyễn
 backlinks:
+  - Zet/Đế quốc Việt Nam
   - Zet/Nhà Nguyễn
   - Zet/Lịch Sử Việt Nam
-  - Zet/Đế quốc Việt Nam
   - Zet/Ngô Đình Diệm
 title: "Bảo Đại"
 UID: 2107171330
@@ -32,7 +32,7 @@ Bảo Đại là vị hoàng đế thứ 13, cũng là cuối cùng của [[Nhà
 
 
 ## Backlinks:
+- [[Đế quốc Việt Nam]]
 - [[Nhà Nguyễn]]
 - [[Lịch Sử Việt Nam]]
-- [[Đế quốc Việt Nam]]
 - [[Ngô Đình Diệm]]

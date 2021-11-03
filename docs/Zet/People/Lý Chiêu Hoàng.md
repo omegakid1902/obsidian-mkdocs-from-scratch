@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Cảnh
 backlinks:
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
   - Zet/Nhà Trần
+  - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
+  - Zet/Lịch Sử Việt Nam
   - Zet/People/Thuận Thiên công chúa
 title: Lý Chiêu Hoàng
 UID:  P-210708-2317
@@ -41,7 +41,7 @@ sort file.name asc
 ```
 
 ## Backlinks:
-- [[Lịch Sử Việt Nam]]
-- [[Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng]]
 - [[Nhà Trần]]
+- [[Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng]]
+- [[Lịch Sử Việt Nam]]
 - [[Thuận Thiên công chúa]]

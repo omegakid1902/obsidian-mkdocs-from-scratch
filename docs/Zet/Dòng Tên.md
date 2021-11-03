@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Qmap
   - Zet/Công Giáo
+  - Zet/Qmap
 title: Dòng Tên
 UID: 211024215717
 created: 24-Oct-2021
@@ -45,5 +45,5 @@ publish: True
 [^4]: https://prepareforchange.net/2019/11/05/10-facts-you-must-know-about-the-jesuits/
 [^5]:http://www.pickle-publishing.com/papers/triple-crown-clement-xiv.htm
 ## Backlinks:
-- [[Qmap]]
 - [[Công Giáo]]
+- [[Qmap]]

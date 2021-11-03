@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/Do Thái Giáo
 backlinks:
-  - Zet/Religion
   - Zet/Qmap
+  - Zet/Religion
   - Zet/People/Alberto Rivera
 title: Hồi Giáo
 UID: 201225213853
@@ -31,6 +31,6 @@ Hồi giáo là một nhánh của Kito giáo, bắt ngồn từ tổ phụ Abra
 - [kofc.org](https://www.kofc.org/un/en/resources/cis/cis317.pdf)
 - [linkedin.com](https://www.linkedin.com/pulse/plain-simple-hidden-truth-islam-ernesto-jeshurum-giro)
 ## Backlinks:
-- [[Religion]]
 - [[Qmap]]
+- [[Religion]]
 - [[Alberto Rivera]]

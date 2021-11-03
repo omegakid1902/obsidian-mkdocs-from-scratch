@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Plato có nói về Atlantis
   - Zet/Qmap
+  - Zet/Plato có nói về Atlantis
 title: Atlantis
 UID: 211025220544
 created: 25-Oct-2021
@@ -22,5 +22,5 @@ publish: True
 
 
 ## Backlinks:
-- [[Plato có nói về Atlantis]]
 - [[Qmap]]
+- [[Plato có nói về Atlantis]]

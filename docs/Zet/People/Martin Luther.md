@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Cải Cách Kháng Nghị
 backlinks:
-  - Zet/Cải Cách Kháng Nghị
   - Zet/Tin Lành
+  - Zet/Cải Cách Kháng Nghị
 title: Martin Luther
 tags:
   - 'created/2020/Dec/25'
@@ -26,5 +26,5 @@ Cha của Martin mong ông trở thành một công chức nên gửi ông đi h
 
 
 ## Backlinks:
-- [[Cải Cách Kháng Nghị]]
 - [[Tin Lành]]
+- [[Cải Cách Kháng Nghị]]

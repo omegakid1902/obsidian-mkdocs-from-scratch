@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Coronavirus
   - Zet/SARS-COV-2
 backlinks:
-  - Zet/Coronavirus
   - Zet/Beta-Coronavirus
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Coronavirus
 title: MERS-CoV
 UID: 2107101351
 tags:
@@ -24,6 +24,6 @@ MERS-CoV là một loại [[Coronavirus]] xuất hiện vào năm 2012 tại [[T
 
 
 ## Backlinks:
-- [[Coronavirus]]
 - [[Beta-Coronavirus]]
 - [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
+- [[Coronavirus]]

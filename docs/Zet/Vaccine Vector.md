@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Vaccine AstraZeneca
   - Zet/Các loại Vaccine COVID 19
+  - Zet/Vaccine AstraZeneca
 title: Vaccine Vector
 UID: 210710-0918
 tags:
@@ -25,5 +25,5 @@ Sau đó, [[Hệ miễn dịch]] của cơ thể nhận biết mảnh [[ADN]] đ
 
 
 ## Backlinks:
-- [[Vaccine AstraZeneca]]
 - [[Các loại Vaccine COVID 19]]
+- [[Vaccine AstraZeneca]]

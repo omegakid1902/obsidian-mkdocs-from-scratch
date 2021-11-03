@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Chúa Nguyễn
   - Zet/Nhà Nguyễn
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Chúa Nguyễn
+  - Zet/Lịch Sử Việt Nam
 title: Nguyễn Hoàng
 UID: 
 tags:
@@ -35,5 +35,5 @@ Nguyễn Hoàng (1525-1613) là vị [[Chúa Nguyễn]] đầu tiên, là ngư�
 
 
 ## Backlinks:
-- [[Lịch Sử Việt Nam]]
 - [[Chúa Nguyễn]]
+- [[Lịch Sử Việt Nam]]

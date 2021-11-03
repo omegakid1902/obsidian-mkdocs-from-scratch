@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Hồi Giáo
   - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
+  - Zet/Hồi Giáo
 title: Ismael
 UID: 211006234523
 tags:
@@ -23,5 +23,5 @@ Ismael là con trai của [[Abraham]] và cô nô lệ [[Haga]]
 - Anh trai cùng cha khác mẹ với [[Isaac]]
 
 ## Backlinks:
-- [[Hồi Giáo]]
 - [[Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac]]
+- [[Hồi Giáo]]
