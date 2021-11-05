@@ -1,6 +1,7 @@
 ---
 outgoing_links:
-  - Zet/Bốn nguyên tắc xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+  - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/The Terrain Theory
   - Zet/SARS-COV-2
   - Zet/MERS-CoV
@@ -21,13 +22,13 @@ publish: True
 ## Notes:
 [[@ Thomas S. Cowan, The Contagion Myth]]
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch01|Chương 1 Bệnh lây nhiễm]]
-- [[Bốn nguyên tắc xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]
-- [[6 định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]
+- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
 - Vi khuẩn có chức năng tự nhiên là tiêu hóa và thải độc. Một số vi khuẩn do cơ thể thiếu cân bằng nội môi của cơ thể, khiến chúng phản ứng và sinh ra những chất khác gây ra chất độc, gây ra bệnh -> vậy cũng chính nguồn gốc là môi trường theo [[The Terrain Theory]]
 - *"Không thể nào có độc tố trong sữa"*
 - "Pasteur đã chuyển sổ ghi chép trong phòng thí nghiệm của mình cho những người thừa kế với điều kiện là họ không bao giờ công khai sổ ghi chép." #todo/research #todo/evidence
 - "Trong sổ tay, Pasteur khẳng định rõ ràng rằng ông không thể truyền bệnh bằng cách nuôi cấy vi khuẩn thuần túy" #todo/research #todo/evidence
-	- Idea: Tức Pasteur chỉ thực hiện việc truyền toàn bộ mô nhiễm bệnh từ con vật bị bệnh và con vật không bị bệnh, tức là đem cả môi trường có thể đã bị "nhiễm độc". Xem 2,3 trong [[Bốn nguyên tắc xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]
+	- Idea: Tức Pasteur chỉ thực hiện việc truyền toàn bộ mô nhiễm bệnh từ con vật bị bệnh và con vật không bị bệnh, tức là đem cả môi trường có thể đã bị "nhiễm độc". Xem 2,3 trong [[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]
 - *"Ông (Pasteur) thừa nhận rằng toàn bộ nỗ lực để chứng minh sự lây nhiễm đã thất bại, dẫn đến lời thú nhận nổi tiếng trên giường bệnh của ông: “Mầm bệnh không là gì cả; thể địa là tất cả. ”"*
 
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch02|Chương 2 NĂNG LƯỢNG ĐIỆN VÀ BỆNH TẬT]]
@@ -54,7 +55,7 @@ publish: True
 - *"Phân tích vòng cây chỉ ra rằng khi vật chất đi xuống từ không gian, nó phun ra một lượng lớn hóa chất dựa trên cacbon và nitơ vào tầng bình lưu. Theo Baillie, bệnh tật và cái chết là do nước và không khí bị nhiễm độc khi sao chổi bay trên đầu."*
 - [[Charles A. R. Campbell]] bác bỏ [[Bệnh đậu mùa]] do lây nhiễm
 - [[Virus Variola]]
-- [[Heinrich Hermann Robert Koch]] đã đạt [[Giải Nobel]] về chứng minh một loại trực khuẩn gây ra bệnh lao thỏa "[[Bốn nguyên tắc xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]" mà ông đề ra. Nhưng sự thật ông chưa hề chứng minh được điều đó. Ông tiêm những trực khuẩn này cùng với một loại dung dịch có chất độc khác là kali hydroxit. Vì vậy, không thể khẳng định thứ nào lây bệnh cho người bị chích. Vấn đề tiếp theo, ngày nay người ta đều biết rằng, vi khuẩn lao tồn tại trong mọi người, nhưng chỉ một số người phát bệnh. Như thế, cũng không thỏa được điều kiện đầu tiên trong 4 định đề mà chính ông đưa ra.
+- [[Heinrich Hermann Robert Koch]] đã đạt [[Giải Nobel]] về chứng minh một loại trực khuẩn gây ra bệnh lao thỏa "[[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]" mà ông đề ra. Nhưng sự thật ông chưa hề chứng minh được điều đó. Ông tiêm những trực khuẩn này cùng với một loại dung dịch có chất độc khác là kali hydroxit. Vì vậy, không thể khẳng định thứ nào lây bệnh cho người bị chích. Vấn đề tiếp theo, ngày nay người ta đều biết rằng, vi khuẩn lao tồn tại trong mọi người, nhưng chỉ một số người phát bệnh. Như thế, cũng không thỏa được điều kiện đầu tiên trong 4 định đề mà chính ông đưa ra.
 - 2016, Tòa án Tối cao Liên bang Đức tuyên bố: "không có bằng chứng cho sự tồn tại của virus sởi"
 	- [[Stefan Lanka]] đã thách thức ai đưa ra bằng chứng tồn tại virus sởi, ông sẽ thưởng 100 nghìn Euro
 	- David Bardens cung cấp 6 nghiên cứu, nhưng Lanka cho rằng ko đáp ứng được bằng chứng

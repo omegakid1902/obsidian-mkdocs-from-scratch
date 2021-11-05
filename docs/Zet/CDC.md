@@ -8,6 +8,7 @@ backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/Khoa học và các cú mị dân
+  - Zet/People/Kary B. Mullis
 title: CDC
 UID: 211017224440
 created: 17-Oct-2021
@@ -36,3 +37,4 @@ Centers for Disease Control and Prevention, viết tắt là CDC, tiếng Việt
 - [[Đại dịch COVID-19]]
 - [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]
 - [[Khoa học và các cú mị dân]]
+- [[Kary B. Mullis]]

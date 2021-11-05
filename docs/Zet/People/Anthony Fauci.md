@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ
 backlinks:
   - Zet/Đại dịch COVID-19
+  - Zet/Zidovudin
 title: Anthony Fauci
 UID: 211014235000
 tags:
@@ -26,3 +27,4 @@ Anthony Fauci giám đốc [[Viện dị ứng và bệnh truyền nhiễm quố
 - https://www.ntdvn.com/doi-song/tien-si-fauci-cuoi-cung-cung-lo-mat-184843.html
 ## Backlinks:
 - [[Đại dịch COVID-19]]
+- [[Zidovudin]]

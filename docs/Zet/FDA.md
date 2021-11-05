@@ -11,6 +11,7 @@ backlinks:
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/Khoa học và các cú mị dân
   - Zet/WHO
+  - Zet/People/Kary B. Mullis
 title: FDA
 UID: 211005223318
 created: 05-Oct-2021
@@ -37,3 +38,4 @@ FDA, viết tắt của cục quản lý thực phẩm và dược phẩm Hoa K�
 - [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]
 - [[Khoa học và các cú mị dân]]
 - [[WHO]]
+- [[Kary B. Mullis]]
