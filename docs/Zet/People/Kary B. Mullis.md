@@ -7,6 +7,7 @@ backlinks:
   - Zet/Real time PCR test
   - Zet/Đại dịch COVID-19
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
+  - Zet/Khoa học và các cú mị dân
 title: Kary B. Mullis
 UID: 211101231452
 tags:
@@ -30,3 +31,4 @@ publish: True
 - [[Real time PCR test]]
 - [[Đại dịch COVID-19]]
 - [[Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng]]
+- [[Khoa học và các cú mị dân]]

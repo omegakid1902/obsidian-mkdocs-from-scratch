@@ -137,7 +137,7 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 [[FDA cấm Ivermectin thú y để chữa trị cho người]] -> ai lại đi lấy thuốc tiêu chảy "thú y" để chữa tiêu chảy ở người nào!? vậy ở đây nên hiểu cấm "thuốc tiêu chảy" hay cấm "thuốc thú y" được dùng ở người 🤣. Ivermectin có 2 loại sản xuất cho người và động vật. Thằng [[FDA]] nó đã cấp phép sử dụng thuốc đó ở người để trị giun sán.
 
 ## Sự dối trá của khoa học dưới chính trị
-[[Khoa học và các cú mị dân]]
+- [[Khoa học và các cú mị dân]]
 
 ## Kiểm soát dân số
 - [[Eugenics|Thuyết ưu sinh]]

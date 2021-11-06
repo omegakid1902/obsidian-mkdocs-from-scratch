@@ -10,6 +10,7 @@ backlinks:
   - Zet/Mafia y tế
   - Zet/CDC
   - Zet/FDA
+  - Zet/Khoa học và các cú mị dân
   - Zet/People/Bill Gates
   - Zet/People/Edward Jenner
 title: Vaccine
@@ -41,5 +42,6 @@ publish: True
 - [[Mafia y tế]]
 - [[CDC]]
 - [[FDA]]
+- [[Khoa học và các cú mị dân]]
 - [[Bill Gates]]
 - [[Edward Jenner]]

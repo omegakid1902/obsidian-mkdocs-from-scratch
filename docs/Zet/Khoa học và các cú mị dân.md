@@ -3,7 +3,10 @@ outgoing_links:
   - Zet/CDC
   - Zet/FDA
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
+  - Zet/Vaccine
   - Zet/Real time PCR test là một trò bịp của Big Pharma
+  - Zet/People/Kary B. Mullis
+  - Zet/Real time PCR test
 backlinks:
   - Zet/Đại dịch COVID-19
 title: Khoa học và các cú mị dân
@@ -19,8 +22,11 @@ publish: True
 
 ## Notes:
 Vẫn có khoa học chân thực, nhưng ngày nay nó bị giết chết bởi các tập đoàn [[Big Medicine|Big Pharma]] thao túng truyền thông, thao túng các cơ quan lớn [[CDC]] và [[FDA]]:
-- [[FDA cấm Ivermectin thú y để chữa trị cho người]]
-- [[Real time PCR test là một trò bịp của Big Pharma]]
+
+- [[FDA cấm Ivermectin thú y để chữa trị cho người]]: Cố tình thêm chữ "thú y" phía sau [[Ivermectin]] để đồng hóa với nó chỉ là thuốc thú y. Khi chặn được các phương pháp chữa trị, [[Vaccine]] sẽ đưa ra, nó sẽ được xem là một lựa chọn tốt bất chấp rủi ro cao.
+- [[Real time PCR test là một trò bịp của Big Pharma]]: Xem [[Kary B. Mullis]] nói về [[Real time PCR test|PCR test]] tại đây [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
+- [[Khẩu trang có thể giảm sự lây truyền Virus]]
+- 
 
 
 ## Backlinks:
