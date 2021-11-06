@@ -94,6 +94,7 @@ publish: True
 -> [[Real time PCR test là một trò bịp của Big Pharma]]
 -> Đại dịch covid hay đại dich PCR dương tính giả? [^1]
 - [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
+- [[💬211106-1138|PCR detect sequence of virus, not detect themselves]]
 
 ### Nguồn gốc Vaccine
 - [[Bill Gates]] là người có nguồn đầu tư lớn vào [[Vaccine mRNA|Công nghệ vaccine mRNA]] cũng như các công ty vaccine lớn như [[Vaccine Pfizer|Pfizer]] và [[Vaccine Moderna|Moderna]]

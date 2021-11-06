@@ -8,8 +8,11 @@ tags:
 # Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection
 
 ## Notes:
+[Full 2h30m video](https://www.bitchute.com/video/n0bGKH57vdH9/)
 
-[Nguồn](https://www.youtube.com/watch?app=desktop&v=9vuxibKj4z8)
+[1h video part 2 Youtube](https://www.youtube.com/watch?app=desktop&v=9vuxibKj4z8)
+
+
 
 ### Quan hệ nhân quả giữa virus và bệnh
 Time stamp: [0:16](https://youtu.be/9vuxibKj4z8?t=16)
@@ -60,11 +63,18 @@ The focus of many many aids organizations is pediatric aids because it's kind of
 -> [[Zidovudin|AZT]] là thuốc có độc tính mạnh. Được [[FDA]] phê chuẩn vào 1987 để chữa [[Virus HIV]]
 
 ### PCR
+[49:06](https://youtu.be/9vuxibKj4z8?t=2946)
+> Mullis: > you can find almost anything in anybody...because if you can amplify one single molecule up to a to something that you can really measure which pcr can do. **Then there's just very few molecules that you don't have at least one single one of them in your body**
+
+-> Idea: PCR can detect ADN sequence of virus in test sample, not exactly the free virus!? 
+
+[51:14](https://youtu.be/9vuxibKj4z8?t=3074)
 > Mullis: the measurement for it is not exact at all. it's not as good as our measurement for things like apples. an apple is an apple. ...** if you've got enough things that look kind of like an apple and you stick them all together you might think it as an apple**. but an hiv is like that those tests are all based on things that are invisible and they are the results are inferred in a sense pcr is separate from that it's just a process that's used to make a whole lot of something out of something that's right
 it doesn't tell you that you're sick and it doesn't tell you that the thing you ended up with really was going to hurt you or anything like that
 
-> MC summary: so even if you believe in hiv it (PCR) can't tell the difference between virus particles or active live virus i mean 
+> MC's summary: so even if you believe in hiv it (PCR) can't tell the difference between virus particles or active live virus i mean 
 
 "if you've got enough things that look kind of like an apple and you stick them all together you might think it as an apple".
--> PCR không nói được sự khác nhau giữa các phân tử virus hoặc virus đang sống!?
+
+-> Idea: PCR không nói được sự khác nhau giữa các phân tử/hạt virus hoặc virus đang sống!?
 
