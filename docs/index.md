@@ -2,12 +2,13 @@
 title: index
 tags:
   - pages
+publish: true
 ---
 # Enter the garden
 
-Chào mừng bạn đã đến với khu vườn ghi chú.
+Giới thiệu về website này [[about|tại đây]]
 
-## Nghiên cứu
+## Nghiên cứu:
 
 ### Lịch sử
 - [[Lịch Sử Việt Nam]]
@@ -25,11 +26,4 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 - [[Self Improvement|Phát triển bản thân]]
 - [[❕ Topics to research]]
 
-## Công cụ:
-- [[No file]]
-- [[⏩ Quick note]]
-- [[📑 Bookmark]]
-
-## Giải trí
-- [[Phim hay]]
-
+## [[Đại dịch COVID-19]]
