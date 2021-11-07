@@ -1,10 +1,9 @@
 site_name: The Second Brain
 site_url: https://omegakid1902.github.io/
 nav:
-  - Introduction: about.md
-  - Home: Enter the garden.md
+  - Home: index.md
   - Religion:
-      - Religion.md
+      - Zet/Religion.md
       - Công giáo: Zet/Công Giáo.md
       - Phật giáo: Zet/Phật Giáo.md
       - Do Thái giáo: Zet/Do Thái Giáo.md
@@ -16,6 +15,7 @@ nav:
   - Programming: Zet/Programming.md
   - Zettelkasten: Zet/Zettelkasten.md
   - Đại dịch COVID 19: Zet/Đại dịch COVID-19.md
+  - Introduction: about.md
 
 theme:
     name: material
