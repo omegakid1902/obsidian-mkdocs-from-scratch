@@ -1,10 +1,10 @@
 ---
-title: index
+title: Trang chủ
 tags:
   - pages
 publish: true
 ---
-# Enter the garden
+# Trang chủ
 
 Giới thiệu về website này [[about|tại đây]]
 
@@ -19,11 +19,13 @@ Giới thiệu về website này [[about|tại đây]]
 - [[Do Thái Giáo]]
 - [[Ấn Độ giáo]]
 
+### [[Thế giới tâm linh]]
+
 ### Sinh học
 - [[Health]]
 
 ### Personal
-- [[Self Improvement|Phát triển bản thân]]
+- [[Self Improvement|Phát triển cá nhân]]
 - [[❕ Topics to research]]
 
 ## [[Đại dịch COVID-19]]

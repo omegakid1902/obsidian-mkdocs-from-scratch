@@ -19,12 +19,13 @@ publish: True
 
 ## Notes:
 
-Self
+### Self
+
 - [[Thức tỉnh tâm linh]]
 - [[Khủng hoảng hiện sinh]]
 - [[Luân xa]]
 
-The World
+### The World
 
 [[Các nhà tiên tri]]
 - [[Baba Vanga]]

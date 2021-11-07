@@ -6,5 +6,20 @@ publish: true
 ---
 # About
 
-Trang này được tạo ra dựa trên phương pháp ghi chú [[Zettelkasten]], sử dụng [[Mkdocs]] để xây dựng một static [[Website]]. Mình sử dụng [[Github pages]] để hosting website này
+Trang blog cá nhân này được tạo ra dựa trên phương pháp ghi chú [[Zettelkasten]]. Các ghi chú được viết dưới bằng ngôn ngữ đánh dấu văn bản [[Markdown Language|Markdown]].
 
+Markdown là một dạng văn bản thô, bạn có thể sử dụng notepad để soạn thảo. Tuy nhiên, nó không tối ưu cho việc soạn thảo bằng markdown. Mình sử dụng phần mềm [[Obsidian]], nó vừa tối ưu cho việc soạn thảo, và nó được xây dựng để hỗ trợ phương pháp ghi chú [[Zettelkasten]].
+
+Vì viết bằng văn bản thô định dạng .md, mình có thể sử dụng các công cụ hỗ trợ quản lý lịch sử (version control) như [[Git]]. Giải pháp cho vấn đề này là sử dụng [[Github]], vừa có thể đồng bộ mọi nơi, vừa không lo bị mất dữ liệu.
+
+Đặc biệt, [[Github]] còn có chức năng hosting [[Github pages]]. Từ văn bản [[Markdown Language|Markdown]], mình có thể chuyển đổi qua [[HTML Language|HTML]] với nhiều công cụ. Page này được xây dựng bằng [[Mkdocs]].
+
+Dưới đây là một đặc trưng của phương pháp [[Zettelkasten]]:
+
+![[Pasted image 20211107182048.png]]
+
+Mỗi trang ghi chú đều bao gồm nội dung, và phần metadata ở cuối trang bao gồm các Tags để phân loại ghi chú. Các [[Backlink]] được hiện thực hóa bằng box `Mentioned in` và bên phải là [[Backlink Graph View]], lấy ý tưởng từ [[Obsidian Publish]], và tham khảo rất nhiều từ [bluebook](https://github.com/lyz-code/blue-book). 
+
+Mình bắt đầu ghi chú các chú dựa trên phương pháp này từ khoảng cuối năm 2020 khi mình rơi vào tình trạng gọi là [[Bóng tối linh hồn|The Dark night of the soul]] và không thể tìm được ánh sáng. Sau khi đọc được quyển [[@ Barbara Oakley, Learn how to learn]] và [[@ Sönke Ahrens, How to take smart notes]] vào khoảng tháng 9-10/2020, mình biết đến phương pháp ghi chú [[Zettelkasten]] và [[Obsidian]], mục đích chủ yếu để tìm được ánh sáng trước nỗi vô định của cuộc sống tạo ra và bồi đắp tri thức để giải đáp nhiều băn khoăn. Thời gian đầu, mình chỉ có ý định lưu trữ và tham khảo cá nhân. Tuy nhiên, khoảng tháng 7,8/2021 tình hình dịch bệnh căng thẳng, tin tức bị bị kiểm duyệt lẫn lộn. Mình quyết định nghiên cứu cách để tạo một trang web cá nhân từ những ghi chú này.
+
+Trang này bắt đầu xây dựng từ khoảng tháng 9-10/2021 khi [[Đại dịch COVID-19]] khiến Sài Gòn lockdown từ tháng 6-10. Đây cũng là mục đích chính để mình publish các ghi chú của mình lên internet để mọi người được tiếp cận với những thông tin thời sự đáng được biết mà bị kiểm duyệt bởi truyền thông chính thống. 
