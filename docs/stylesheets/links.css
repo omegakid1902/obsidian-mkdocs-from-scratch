@@ -66,9 +66,7 @@
 
 .md-content a[href*="omegakid1902.github.io"]:hover::after,
 .md-content a[href*="../"]:hover::after,
-.md-content a:not([href*="/Scripture"]):hover::after,
-.md-content a:not([href*="www.facebook.com"]):hover::after,
-.md-content a:not([href*="www.youtube.com"]):hover::after {
+.md-content a:not([href*="/Scripture"]):hover::after {
 	content: ""; 
     color: darkgreen;
     background-image: url("/images/book-open-page-variant.svg");
