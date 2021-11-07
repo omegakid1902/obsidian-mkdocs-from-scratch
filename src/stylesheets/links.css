@@ -65,8 +65,7 @@
     }
 
 .md-content a[href*="omegakid1902.github.io"]:hover::after,
-.md-content a[href*="../"]:hover::after,
-.md-content a:not([href*="/Scripture"]):hover::after {
+.md-content a[href*="../"]:hover::after {
 	content: ""; 
     color: darkgreen;
     background-image: url("/images/book-open-page-variant.svg");
@@ -103,6 +102,7 @@
     background-image: url(/images/bible.svg);
     background-repeat: no-repeat;
     background-size: 0.7em;
+    filter: invert(16%) sepia(19%) saturate(2670%) hue-rotate(333deg) brightness(92%) contrast(85%);
     display: inline-block;
     vertical-align: baseline;
 }
@@ -115,6 +115,7 @@
     content: "";
     background-image: url(/images/bible.svg);
     background-repeat: no-repeat;
+    filter: invert(16%) sepia(19%) saturate(2670%) hue-rotate(333deg) brightness(92%) contrast(85%);
     background-size: 0.7em;
     display: inline-block;
     vertical-align: baseline;
@@ -186,10 +187,10 @@ element.style {
     background-repeat: no-repeat;
     /* WP is used on almost every page, so make an exception and inline it */
     filter: invert(33%) sepia(99%) saturate(355%) hue-rotate(180deg) brightness(98%) contrast(91%);
-    background-size: 0.75em;
+    background-size: 0.9em;
     background-position: right 1px top;
-    width: 0.825em;
-    height: 0.825em;
+    width: 1em;
+    height: 1em;
     display: inline-block;
     vertical-align: baseline;
 }
@@ -203,12 +204,12 @@ element.style {
 	content: ""; 
     background-image: url("/images/youtube.svg");
     background-repeat: no-repeat;
-    /* WP is used on almost every page, so make an exception and inline it */
-    filter: invert(15%) sepia(78%) saturate(6818%) hue-rotate(3deg) brightness(93%) contrast(120%);
-    background-size: 0.75em;
-    background-position: right 1px top;
-    width: 0.825em;
-    height: 0.825em;
+    /* Check codepen.io */
+    filter: invert(15%) sepia(52%) saturate(7423%) hue-rotate(357deg) brightness(98%) contrast(122%);
+    background-size: 0.95em;
+    background-position: right 1px;
+    width: 1em;
+    height: 1em;
     display: inline-block;
     vertical-align: baseline;
 }
@@ -216,6 +217,43 @@ element.style {
 .md-content a[href*="youtube.com"]:hover::after{
     opacity: 0.8;
 }
+
+.md-content a[href*="goodreads.com"]::after {
+	content: ""; 
+    background-image: url("/images/goodreads.svg");
+    background-repeat: no-repeat;
+    /* Check codepen.io */
+    filter: invert(19%) sepia(99%) saturate(419%) hue-rotate(1deg) brightness(97%) contrast(95%);
+    background-size: 0.80em;
+    background-position: right 1px;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+.md-content a[href*="goodreads.com"]:hover::after{
+    opacity: 0.8;
+}
+
+.md-content a[href*="wordpress.com"]::after {
+	content: ""; 
+    background-image: url("/images/wordpress.svg");
+    background-repeat: no-repeat;
+    /* Check codepen.io */
+    filter: invert(22%) sepia(79%) saturate(3039%) hue-rotate(178deg) brightness(90%) contrast(102%);
+    background-size: 0.80em;
+    background-position: right 1px;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+.md-content a[href*="wordpress.com"]:hover::after{
+    opacity: 0.8;
+}
+
 
 /* Ref in https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/?h=icon#with-colors */
 @keyframes heart {
@@ -352,7 +390,6 @@ color: #4267B2;
 .md-content a[href*="fda.gov"]::after,
 .md-content a[href*="filfre.net"]::after,
 .md-content a[href*="gainax.co.jp"]::after,
-.md-content a[href*="goodreads.com"]::after,
 .md-content a[href*="haskell.org"]::after,
 .md-content a[href*="harney.com"]::after,
 .md-content a[href*="justice.gov"]::after,
@@ -565,10 +602,6 @@ color: #4267B2;
 /* PB logo is confusing. A purple question mark...? */
 .md-content a[href*="predictionbook.com"]::after {
     content: "\FE56"; }
-
-/* GoodReads: logo doesn't make sense as a grayscale */
-.md-content a[href*="goodreads.com"]::after {
-    content: "GR"; }
 
 /* Long Now Foundation projects: */
 .md-content a[href*="longbets.org"]::after,
