@@ -39,10 +39,3 @@ publish: True
 
 ## Reference:
 - [(Vietsub) Theo khoa học? (rumble.com)](https://rumble.com/vm1729-vietsub-theo-khoa-hc.html) xem phút 7
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Real time PCR test là một trò bịp của Big Pharma]]
-- [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]
-- [[Khoa học và các cú mị dân]]
-- [[Kary B. Mullis]]

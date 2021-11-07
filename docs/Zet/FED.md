@@ -31,6 +31,3 @@ FED, Federal Reserve System, là ngân hàng trung ương [[Hoa Kỳ]] thành l�
 
 ## Questions:
 
-
-## Backlinks:
-- [[NESARA]]

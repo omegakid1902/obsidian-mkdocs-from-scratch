@@ -20,8 +20,3 @@ publish: True
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Torah]]
-- [[Religion]]
-- [[Hồi Giáo]]

@@ -31,6 +31,3 @@ Một số trích dẫn
 ## Ideas & thoughts:
 
 ## Questions:
-
-## Backlinks:
-- [[Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN]]

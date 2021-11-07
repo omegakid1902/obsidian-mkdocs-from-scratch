@@ -28,6 +28,3 @@ File markdown có phần mở rộng là *.md
 ## Questions:
 
 
-
-## Backlinks:
-- [[Programming]]

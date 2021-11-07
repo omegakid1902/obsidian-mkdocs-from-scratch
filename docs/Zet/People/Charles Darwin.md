@@ -20,8 +20,3 @@ Charles Darwin là cha đẻ [[Thuyết tiến hóa]]
 
 ## Ideas & thoughts:
 
-
-## Backlinks:
-- [[Eugenics]]
-- [[Francis Galton là em họ của Charles Darwin]]
-- [[Homo Neanderthal]]

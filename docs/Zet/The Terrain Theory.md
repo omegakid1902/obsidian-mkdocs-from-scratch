@@ -45,7 +45,3 @@ Theo Bechamp, vi khuẩn là sản phẩm sinh ra từ bệnh chứ không phả
 - https://thegreatawakeningvn.wordpress.com/2021/03/17/vaccine-ban-khong-the-bi-lay-nhiem-vi-trung-vi-khuan-hoac-nam-candida/
 
 [^hoichung5g]:https://thegreatawakeningvn.wordpress.com/2021/08/05/hoi-chung-covid-5g/
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
-- [[Edward Jenner]]

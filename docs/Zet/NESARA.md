@@ -34,5 +34,3 @@ Các công bố chính của đạo luật, xem thêm [[@ fb Khaitridongtam, TÌ
 
 ## Reference:
 - [[@ fb Khaitridongtam, TÌM HIỂU VỀ NESARA VÀ GESARA]]
-## Backlinks:
-- [[FED]]

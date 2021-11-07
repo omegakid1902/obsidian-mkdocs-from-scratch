@@ -22,7 +22,3 @@ publish: True
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Real time PCR test]]
-- [[Real time PCR test là một trò bịp của Big Pharma]]

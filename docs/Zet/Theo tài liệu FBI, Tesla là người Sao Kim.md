@@ -41,5 +41,3 @@ Tóm tắt: [[Nicola Tesla]] nhiều lần tiếp xúc với [[Người ngoài h
 ## Source:
 - [vault.fbi.gov](https://vault.fbi.gov/nikola-tesla)
 - [hello-earth.com/](https://hello-earth.com/)
-## Backlinks:
-- [[Nicola Tesla]]

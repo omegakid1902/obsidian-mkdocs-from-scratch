@@ -44,5 +44,3 @@ Solfeggio bao gồm 6 tần số:
 ## Reference:
 - https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/tim-hieu-ve-tan-so-rung-dong-875.html
 - https://spiralcreator.wordpress.com/2020/02/04/5-tan-so-solfeggio-cac-rung-dong-cua-tam-series-huyen-hoc/
-## Backlinks:
-- [[Các nốt nhạc được lấy theo tên của Solfeggio]]

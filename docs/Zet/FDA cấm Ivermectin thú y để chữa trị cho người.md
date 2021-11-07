@@ -34,7 +34,3 @@ Ivermectine đã được phát triển cách đây 40 năm, nó có thể chữ
 
 [^fda]:[Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19#:~:text=Vi%C3%AAn%20n%C3%A9n%20Ivermectin%20%C4%91%C6%B0%E1%BB%A3c%20FDA,v%E1%BB%81%20da%20nh%C6%B0%20b%E1%BB%87nh%20rosacea.)
 [^4]:[Câu hỏi thường gặp về Ivermectin - FLCCC | Front Line COVID-19 Critical Care Alliance (covid19criticalcare.com)](https://covid19criticalcare.com/vi/ivermectin-trong-covid-19/c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-ivermectin/)
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Khoa học và các cú mị dân]]

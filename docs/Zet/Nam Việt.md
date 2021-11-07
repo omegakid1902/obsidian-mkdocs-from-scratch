@@ -20,8 +20,3 @@ Nam Việt (203 TCN -111 TCN) cai trị bởi [[Triệu Đà]], là một nướ
 
 ## Questions:
 
-
-## Backlinks:
-- [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
-- [[Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN]]
-- [[Nhà Tần]]

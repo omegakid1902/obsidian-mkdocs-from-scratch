@@ -29,6 +29,3 @@ publish: True
 
 
 [^1]:[[@ Trần Trọng Kim, Việt Nam sử lược]]
-
-## Backlinks:
-- [[Lịch Sử Việt Nam]]

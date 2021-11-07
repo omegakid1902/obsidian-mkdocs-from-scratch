@@ -22,8 +22,3 @@ Trần Trọng Kim là một học giả, nhà nghiên cứu sử học, văn h�
 
 ## Ideas & thoughts:
 
-
-## Backlinks:
-- [[Đế quốc Việt Nam]]
-- [[Lịch Sử Việt Nam]]
-- [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]

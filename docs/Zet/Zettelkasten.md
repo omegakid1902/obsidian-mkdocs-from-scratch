@@ -41,8 +41,3 @@ Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
 - [https://leananki.com/zettelkasten-method-smart-notes/](https://leananki.com/zettelkasten-method-smart-notes/)
 
-
-## Backlinks:
-- [[Self Improvement]]
-- [[The Second Brain]]
-- [[Niklas Luhmann]]

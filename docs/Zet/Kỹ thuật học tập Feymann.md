@@ -23,6 +23,3 @@ Phương pháp học tập của Feymann là một kỹ thuật được sáng t
 ## Ideas & thoughts:
 
 ## Questions:
-
-## Backlinks:
-- [[Self Improvement]]

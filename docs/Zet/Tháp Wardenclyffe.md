@@ -25,6 +25,3 @@ Công dụng của tháp Wardenclyffe là truyền tải điện không dây
 
 ## Questions:
 
-
-## Backlinks:
-- [[Nicola Tesla]]

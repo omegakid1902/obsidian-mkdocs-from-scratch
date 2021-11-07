@@ -24,7 +24,3 @@ Sau cuộc cải cách làm phát sinh một số giáo phái như Giáo hội L
 ## Ideas & thoughts:
 
 ## Questions:
-
-## Backlinks:
-- [[Tin Lành]]
-- [[Martin Luther]]

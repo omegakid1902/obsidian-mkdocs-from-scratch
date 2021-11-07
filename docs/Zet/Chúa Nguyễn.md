@@ -45,8 +45,3 @@ Chúa Nguyễn là tên gọi người/dòng họ cai trị xứ [[Đàng Trong]
 list
 from [[Chúa Nguyễn]]
 ```
-## Backlinks:
-- [[Chúa Nguyễn]]
-- [[Nhà Tây Sơn]]
-- [[Nhà Nguyễn]]
-- [[Nguyễn Hoàng]]

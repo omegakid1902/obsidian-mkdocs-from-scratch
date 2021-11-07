@@ -25,10 +25,3 @@ An Dương Vương tên thật là [[Thục Phán]]. [[Thục Phán đánh bại
 ## Questions & thoughts:
 
 ## Related:
-
-## Backlinks:
-- [[Âu Lạc]]
-- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
-- [[Đền thờ An Dương Vương ở ngoại thành Hà Nội]]
-- [[Quốc hiệu VN qua các thời kỳ]]
-- [[Lịch Sử Việt Nam]]

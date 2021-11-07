@@ -39,9 +39,3 @@ list
 from [[Lý Chiêu Hoàng]]
 sort file.name asc
 ```
-
-## Backlinks:
-- [[Nhà Trần]]
-- [[Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng]]
-- [[Lịch Sử Việt Nam]]
-- [[Thuận Thiên công chúa]]

@@ -20,6 +20,3 @@ publish: True
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Thánh Gioan Thánh giá]]

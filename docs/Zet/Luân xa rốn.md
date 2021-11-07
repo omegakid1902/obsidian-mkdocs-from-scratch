@@ -24,8 +24,3 @@ Luân xa rốn, hay Manipura chakra
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Luân xa xương cùng]]
-- [[Cơ thể con người có 7 luân xa]]
-- [[Luân xa]]

@@ -33,9 +33,3 @@ publish: True
 - https://innermostselves.wordpress.com/2019/08/05/khung-hoang-hien-sinh-existential-crisis-9-cach-de-vuot-qua-khoang-thoi-gian-den-toi-nhat-trong-cuoc-doi-ban/
 
 
-
-## Backlinks:
-- [[Ba Chân lý của thông thiên học]]
-- [[Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh]]
-- [[Thế giới tâm linh]]
-- [[Bóng tối linh hồn]]

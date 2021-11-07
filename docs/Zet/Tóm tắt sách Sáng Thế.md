@@ -90,5 +90,3 @@ Cuộc đối thoại với Chúa và Abraham về thành Sodom và thành Gomor
 
 ## Relate to:
 - [[🛠️211003-Tóm tắt sách Sáng Thế]]
-## Backlinks:
-- [[Cựu Ước]]

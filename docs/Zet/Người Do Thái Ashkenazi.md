@@ -28,6 +28,3 @@ Vào thời Trung cổ, người Ashkenazi bị đàn áp và phần lớn phả
 - [[Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả]]
 
 [^1]:[Do Thái Israel và Do Thái Khazaria | Nghiên Cứu Lịch Sử (nghiencuulichsu.com)](https://nghiencuulichsu.com/2013/11/01/do-thai-israel-va-do-thai-khazaria/)
-## Backlinks:
-- [[Lịch Sử Do Thái]]
-- [[❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người]]

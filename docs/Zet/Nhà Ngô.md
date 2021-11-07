@@ -20,6 +20,3 @@ publish: True
 
 ## Questions:
 
-
-## Backlinks:
-- [[Lịch Sử Việt Nam]]

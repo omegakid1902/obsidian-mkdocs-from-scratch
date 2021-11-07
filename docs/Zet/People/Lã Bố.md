@@ -38,5 +38,3 @@ list
 from [[Lã Bố]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Xích Thố]]

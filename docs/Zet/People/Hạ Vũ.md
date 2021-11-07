@@ -38,5 +38,3 @@ list
 from [[Hạ Vũ]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Lịch sử Trung Quốc]]

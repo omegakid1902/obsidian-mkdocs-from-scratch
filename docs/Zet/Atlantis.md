@@ -20,7 +20,3 @@ publish: True
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Qmap]]
-- [[Plato có nói về Atlantis]]

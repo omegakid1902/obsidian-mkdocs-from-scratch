@@ -28,13 +28,3 @@ COVID 19 (hay 2019-nCoV) là tên gọi của bệnh viêm đường hô hấp d
 ## Ideas & thoughts:
 - [[Virus]] và [[Vi khuẩn]]: [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
 - [[Exosomes]]
-
-## Backlinks:
-- [[Các kênh thông tin trái chiều]]
-- [[Đại dịch COVID-19]]
-- [[SARS-COV-2]]
-- [[Mafia y tế]]
-- [[The Terrain Theory]]
-- [[CDC]]
-- [[FDA]]
-- [[WHO]]

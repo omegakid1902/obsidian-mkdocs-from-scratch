@@ -24,7 +24,3 @@ Cha của Martin mong ông trở thành một công chức nên gửi ông đi h
 
 
 
-
-## Backlinks:
-- [[Tin Lành]]
-- [[Cải Cách Kháng Nghị]]

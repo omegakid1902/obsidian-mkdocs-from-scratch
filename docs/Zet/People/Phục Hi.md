@@ -30,5 +30,3 @@ list
 from [[Phục Hi]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Lịch sử Trung Quốc]]

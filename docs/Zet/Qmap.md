@@ -209,11 +209,3 @@ click Ignatius "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FIgnatius%
 
 click Hitler "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FAdolf%20Hitler"
 ```
-
-## Backlinks:
-- [[Vril]]
-- [[Khazars]]
-- [[Plato có nói về Atlantis]]
-- [[Đức Giáo Hoàng]]
-- [[Helena Blavatsky]]
-- [[Plato]]

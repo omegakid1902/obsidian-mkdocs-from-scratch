@@ -33,6 +33,3 @@ list
 from [[Carbohydrate]]
 sort file.name asc
 ```
-
-## Backlinks:
-- [[Carbohydrate]]

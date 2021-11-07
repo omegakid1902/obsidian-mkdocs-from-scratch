@@ -20,6 +20,3 @@ publish: True
 ![[Pasted image 20211023230022.png]]
 
 ## Ideas & thoughts:
-
-## Backlinks:
-- [[Phật Giáo]]

@@ -31,7 +31,3 @@ Edward Jenner là người đầu tiên nghiên cứu [[Vaccine]] và sử dụn
 
 ## Relate to:
 - [Wiki Tiếng Việt](https://vi.wikipedia.org/wiki/Edward_Jenner)
-## Backlinks:
-- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
-- [[Vaccine]]
-- [[Louis Pasteur]]

@@ -17,6 +17,3 @@ Phương pháp Pomodoro (Pomodoro trong tiếng Ý là quả cà chua) được 
 ## Ideas & thoughts:
 
 ## Questions:
-
-## Backlinks:
-- [[Self Improvement]]

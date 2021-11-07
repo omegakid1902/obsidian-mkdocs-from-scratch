@@ -33,7 +33,3 @@ Nguyên tắc được [[Heinrich Hermann Robert Koch]] để xác định một
 [^koch]:[[@ Thomas S. Cowan, The Contagion Myth, Ch01]]
 [^river]:[[@ Thomas S. Cowan, The Contagion Myth, Ch01]]
 
-
-## Backlinks:
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
-- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]

@@ -26,7 +26,3 @@ Thành Thang là vua thành lập nhà Thương. Vua cuối cùng của nhà th�
 
 
 ## Tham khảo:
-
-## Backlinks:
-- [[Lịch sử Trung Quốc]]
-- [[Nhà Chu]]

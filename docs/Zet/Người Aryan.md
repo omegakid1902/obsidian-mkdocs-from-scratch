@@ -19,6 +19,3 @@ Người Aryan được cho là đã xuất hiện ở [[Iran]] thời tiền s�
 ## Reference:
 - [Nguồn gốc của Thảm sát Holocaust (nghiencuuquocte.org)](http://nghiencuuquocte.org/2016/01/25/nguon-goc-va-tac-dong-cua-tham-sat-holocaust/)
 
-
-## Backlinks:
-- [[Eugenics]]

@@ -27,8 +27,3 @@ publish: True
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Real time PCR test]]
-- [[Đại dịch COVID-19]]
-- [[Khoa học và các cú mị dân]]

@@ -29,6 +29,3 @@ Tổ chức Y tế thế giới, World Health Organization, viết tắt WHO, h�
 - [[FDA]]
 - [[COVID-19]]
 
-
-## Backlinks:
-- [[Đại dịch COVID-19]]

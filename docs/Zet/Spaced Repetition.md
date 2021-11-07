@@ -22,9 +22,3 @@ publish: True
 ## Ideas & thoughts:
 
 ## Questions:
-
-## Backlinks:
-- [[SM-Algorithm]]
-- [[Đường cong học tập]]
-- [[SuperMemo]]
-- [[Incremental Reading]]

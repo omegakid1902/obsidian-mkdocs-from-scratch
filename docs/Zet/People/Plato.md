@@ -22,7 +22,3 @@ Plato là triết gia [[Hy Lạp]] cổ đại, sáng lập trường phái tư 
 ## Ideas & thoughts:
 - [[Socrates]]
 - Trong [[Qmap]], Plato có mối liên quan với [[Thuyết Ngộ Đạo|Gnosticism]] #todo/research 
-
-## Backlinks:
-- [[Qmap]]
-- [[Plato có nói về Atlantis]]

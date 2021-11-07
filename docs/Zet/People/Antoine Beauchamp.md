@@ -46,9 +46,3 @@ Cha đẻ của [[The Terrain Theory]]
 ## Relate to:
 - [Natures-Therapies](https://www.naturalhealthscience.com/article_Natures-Therapies_090624.php)
 - [the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat](https://hitechglitz.com/vietnam/the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat/)
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
-- [[The Terrain Theory]]
-- [[Louis Pasteur]]
-- [[Edward Jenner]]

@@ -23,6 +23,3 @@ FBI viết tắt của Federal Bureau of Investigation, cục Điều tra Liên 
 
 ## Questions:
 
-
-## Backlinks:
-- [[Theo tài liệu FBI, Tesla là người Sao Kim]]

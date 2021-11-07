@@ -28,8 +28,3 @@ publish: True
 - [[COVID-19 map]]
 
 
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Các loại Vaccine COVID 19]]
-- [[Bill Gates]]

@@ -45,8 +45,3 @@ list
 from [[Trần Hưng Đạo]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Nhà Trần]]
-- [[Lịch Sử Việt Nam]]
-- [[Trần Quang Khải]]
-- [[Trần Liễu]]

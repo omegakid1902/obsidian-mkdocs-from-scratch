@@ -27,7 +27,3 @@ Trái ngược với chiến thuật [[Lấy chiến tranh nuôi chiến tranh]]
 
 
 ## Related:
-
-## Backlinks:
-- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
-- [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]

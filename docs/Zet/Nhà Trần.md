@@ -73,11 +73,3 @@ Các trận đánh lớn:
 - [[Trận Bạch Đằng]]
 
 
-
-## Backlinks:
-- [[Lịch Sử Việt Nam]]
-- [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]
-- [[Trần Thủ Độ]]
-- [[Trần Liễu]]
-- [[Trần Cảnh]]
-- [[Trần Hưng Đạo]]

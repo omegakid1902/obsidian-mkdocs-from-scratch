@@ -23,6 +23,3 @@ Thánh Phaolo cùng các sứ đồ [[Thánh Phê Rô|Phê Rô]], Gioan, và Gia
 ## Questions & thoughts:
 
 
-
-## Backlinks:
-- [[Công Giáo]]

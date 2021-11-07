@@ -50,8 +50,3 @@ Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa tr�
 	- [[Alexander Graham Bell]]
 
 [^1]:[wiki](https://vi.wikipedia.org/wiki/Thuy%E1%BA%BFt_%C6%B0u_sinh)
-## Backlinks:
-- [[Các kênh thông tin trái chiều]]
-- [[Đại dịch COVID-19]]
-- [[Qmap]]
-- [[Bill Gates]]

@@ -29,7 +29,3 @@ list
 from [[Thời Lê sơ]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Thời Lê trung hưng]]
-- [[Lịch Sử Việt Nam]]
-- [[Nhà Hậu Lê]]

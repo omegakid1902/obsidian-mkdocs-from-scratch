@@ -26,7 +26,3 @@ Ghi chú này xuất phát, và tổng hợp từ bài viết [[@ kduoc.com, Ngu
 
 ## Questions:
 
-
-## Backlinks:
-- [[Bệnh ung thư]]
-- [[Louis Pasteur]]

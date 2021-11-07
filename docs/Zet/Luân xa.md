@@ -33,7 +33,3 @@ Luân xa, hay Chakra, là những trung tâm năng lượng, khí huyết trong 
 
 ## Ideas & thoughts:
 
-
-## Backlinks:
-- [[Cơ thể con người có 7 luân xa]]
-- [[Thế giới tâm linh]]

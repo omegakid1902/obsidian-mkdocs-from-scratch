@@ -25,7 +25,3 @@ Tiền thân của [[Nhà Chu]] là [[Nhà Thương]], kế tục là [[Nhà T�
 ## Questions:
 
 ## Tham khảo:
-## Backlinks:
-- [[Lịch sử Trung Quốc]]
-- [[Nhà Tần]]
-- [[Tần Thủy Hoàng]]

@@ -25,8 +25,3 @@ publish: True
 
 ## Questions & thoughts:
 
-
-## Backlinks:
-- [[Lucifer]]
-- [[Công Giáo]]
-- [[Người Do Thái]]

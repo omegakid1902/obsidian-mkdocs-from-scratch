@@ -21,7 +21,3 @@ Ismael là con trai của [[Abraham]] và cô nô lệ [[Haga]]
 - Ismael được Thiên sứ miêu tả trong [[Gen-16#v12|Sáng Thế]] khi sinh ra mang hình tượng nổi loạn: 
 ![[Gen-16#v12]]
 - Anh trai cùng cha khác mẹ với [[Isaac]]
-
-## Backlinks:
-- [[Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac]]
-- [[Hồi Giáo]]

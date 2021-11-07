@@ -31,10 +31,3 @@ Centers for Disease Control and Prevention, viết tắt là CDC, tiếng Việt
 - [[Vaccine]]
 - [[FDA]]
 
-
-## Backlinks:
-- [[Real time PCR test]]
-- [[Đại dịch COVID-19]]
-- [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]
-- [[Khoa học và các cú mị dân]]
-- [[Kary B. Mullis]]

@@ -22,6 +22,3 @@ publish: True
 - [[Boriska Kipriyanovich]]
 - [[Edgar Cayce]]
 - Trạng Trình [[Nguyễn Bỉnh Khiêm]] cũng được xem là tiên tri, ông có nhiều tiên đoán chính xác
-
-## Backlinks:
-- [[Thế giới tâm linh]]

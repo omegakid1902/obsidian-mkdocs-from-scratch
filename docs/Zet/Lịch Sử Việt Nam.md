@@ -101,8 +101,3 @@ publish: True
 ### Book
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
 - [[@ George J. Veith, Gươm đã tuốt ra nơi miền đất xa xôi]]
-
-## Backlinks:
-- [[index]]
-- [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]
-- [[Lịch sử]]

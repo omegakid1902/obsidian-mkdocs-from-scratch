@@ -28,5 +28,3 @@ publish: True
 
 ## Relate to:
 - [[Mafia y tế]]
-## Backlinks:
-- [[Các kênh thông tin trái chiều]]

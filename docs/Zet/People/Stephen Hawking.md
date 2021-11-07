@@ -21,5 +21,3 @@ Stephen Hawking nhà vật lý, thiên văn học người Anh
 
 ## Reference:
 - [khoahoc.tv](https://khoahoc.tv/nhung-tien-tri-dang-so-cua-thien-tai-stephen-hawking-62717)
-## Backlinks:
-- [[Boriska Kipriyanovich]]

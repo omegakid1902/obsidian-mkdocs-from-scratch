@@ -33,6 +33,3 @@ Thư viện Akashic là nơi lưu trữ toàn bộ dữ liệu về vũ trụ. B
 - [Hồ sơ Akashic: “Bộ nhớ Vũ trụ”](https://thienchualanh.com/chua-phan-loai/ho-so-akashic-bo-nho-vu-tru-luu-giu-tat-ca-su-kien-tung-xay-ra-cua-nhan-loai/)
 - [Akashic Record - The Peace Seekers](http://www.thepeaceseekers.org/book_stories/akashic-record)
 - [Thuc Tinh Tam Linh: Thư viện Akashic (Akashic Record) - P1](https://thuctinhtamlinh.blogspot.com/2014/07/thu-vien-akashic-akashic-record-p1.html)
-## Backlinks:
-- [[Qmap]]
-- [[Theo tài liệu FBI, Tesla là người Sao Kim]]

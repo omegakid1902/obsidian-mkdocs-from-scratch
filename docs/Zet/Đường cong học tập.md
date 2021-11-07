@@ -35,6 +35,3 @@ Ví dụ theo đồ thị:
 
 ## Questions:
 
-
-## Backlinks:
-- [[SM-Algorithm]]

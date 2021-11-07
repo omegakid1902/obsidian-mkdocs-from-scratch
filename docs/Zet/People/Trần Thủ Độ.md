@@ -25,12 +25,3 @@ publish: True
 ## Notes:
 Trần Thủ Độ là một quan lớn dưới thời [[Nhà Lý]], là công thần lập [[Nhà Trần]].
 
-
-## Backlinks:
-- [[Nhà Trần]]
-- [[Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng]]
-- [[Lịch Sử Việt Nam]]
-- [[Chiến tranh Nguyên Mông - Đại Việt lần 1]]
-- [[Thuận Thiên công chúa]]
-- [[Trần Liễu]]
-- [[Lý Chiêu Hoàng]]

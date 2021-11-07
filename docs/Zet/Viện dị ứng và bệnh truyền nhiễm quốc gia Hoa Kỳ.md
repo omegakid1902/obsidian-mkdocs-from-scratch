@@ -21,7 +21,3 @@ Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ, viết tắt 
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Anthony Fauci]]

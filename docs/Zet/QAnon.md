@@ -24,7 +24,3 @@ Tuy nhiên, xét về phương diện khách quan, các phân tích của Q dự
 ## Ideas & thoughts:
 - [[Donald J. Trump|Tổng thống Trump]]
 - [[4Chan]]
-## Backlinks:
-- [[Qmap]]
-- [[Bill Gates]]
-- [[Donald J. Trump]]

@@ -27,7 +27,3 @@ Cha đẻ của công nghệ mRNA là tiến sĩ [[Robert Wallace Malone]]
 - [[Robert Wallace Malone]] đã phản đối việc các chính phủ ép buộc người dân tiêm vaccine mRNA mà không công bố rủi ro mà vaccine gây ra. Vaccine mRNA chỉ là thử nghiệm. [^1]
 
 [^1]: https://www.ntdvn.com/suc-khoe/nha-phat-minh-cong-nghe-vac-xin-covid-19-mrna-toi-co-nguy-co-bi-am-sat-vi-phan-doi-viec-tiem-chung-217990.html
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Các loại Vaccine COVID 19]]

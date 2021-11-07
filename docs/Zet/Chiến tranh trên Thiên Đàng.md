@@ -30,6 +30,3 @@ Chiến tranh trên Thiên Đàng là một cuộc chiến xảy ra giữa [[Luc
 
 1 phần 3 ngôi sao trên trời bị ném xuống đất
 - [[Rev-12#v4]]
-
-## Backlinks:
-- [[Lucifer]]

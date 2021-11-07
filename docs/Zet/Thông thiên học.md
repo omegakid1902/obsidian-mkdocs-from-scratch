@@ -27,7 +27,3 @@ Thông thiên học hiện nay được khởi nguồn từ [[Helena Blavatsky|M
 
 
 [^1]: [[@ Marcel Bohrer, Thông thiên học dẫn giải]]
-## Backlinks:
-- [[Ba Chân lý của thông thiên học]]
-- [[Hội thông thiên học]]
-- [[Akashic records]]

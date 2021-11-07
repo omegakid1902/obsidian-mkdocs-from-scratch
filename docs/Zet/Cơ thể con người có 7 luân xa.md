@@ -32,6 +32,3 @@ Cơ thể con người có 7 [[Luân xa]]
 
 ## Reference:
 - [Giới thiệu về 7 luân xa - hay còn gọi là Chakra (luanxa.com.vn)](https://luanxa.com.vn/gioi-thieu-ve-7-luan-xa/)
-
-## Backlinks:
-- [[Luân xa]]

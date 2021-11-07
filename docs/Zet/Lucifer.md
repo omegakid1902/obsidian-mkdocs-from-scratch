@@ -63,8 +63,3 @@ Satan trong hình dạng 1 con rắn theo sách khải huyền
 
 ## Related:
 - https://vi.wikipedia.org/wiki/Lucifer
-
-## Backlinks:
-- [[Chiến tranh trên Thiên Đàng]]
-- [[Chúa Jesus không sinh ra vào 25-12]]
-- [[Qmap]]

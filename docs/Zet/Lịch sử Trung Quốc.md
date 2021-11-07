@@ -91,7 +91,3 @@ list
 from [[Lịch sử Trung Quốc]]
 sort file.name asc
 ```
-
-## Backlinks:
-- [[index]]
-- [[Lịch sử]]

@@ -30,6 +30,3 @@ publish: True
 	- Spiritual Canticle: Ca Khúc Linh Thiêng
 	- Living Flame of Love: Lửa Sống Yêu Thương
 - _Nếu một người đàn ông muốn chắc chắn về con đường anh ta đang đi thì  anh ta phải nhắm mắt lại và đi trong bóng tối._
-## Backlinks:
-- [[Thánh Gioan Thánh giá là học trò của Teresa of Avila]]
-- [[Bóng tối linh hồn]]

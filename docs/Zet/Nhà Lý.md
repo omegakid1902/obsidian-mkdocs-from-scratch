@@ -18,9 +18,3 @@ publish: True
 
 ## Questions & thoughts:
 
-
-## Backlinks:
-- [[Nhà Trần]]
-- [[Lịch Sử Việt Nam]]
-- [[Trần Thủ Độ]]
-- [[Lý Chiêu Hoàng]]

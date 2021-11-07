@@ -32,9 +32,3 @@ Tiền thân là [[Nhà Chu]], kế tục là [[Nhà Hán]], [[Nam Việt]] và 
 - [ ] [[Thương Ưởng]] gốc từ họ Cơ con cháu của [[Cơ Xương]]. Cơ tức là là họ của [[Cơ Xương]], [[Chu Vũ Vương|Cơ Phát]]
 
 ## Related:
-
-## Backlinks:
-- [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
-- [[Lịch sử Trung Quốc]]
-- [[Nhà Chu]]
-- [[Tần Thủy Hoàng]]

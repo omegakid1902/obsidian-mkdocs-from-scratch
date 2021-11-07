@@ -30,6 +30,3 @@ publish: True
 ## Các định lý 
 [[Định lý Thales]]
 [[Định lý Pythagoras]]
-
-## Backlinks:
-- [[Interests]]

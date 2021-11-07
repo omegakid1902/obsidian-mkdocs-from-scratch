@@ -28,7 +28,3 @@ publish: True
 ## Related:
 
 
-
-## Backlinks:
-- [[Chúa Nguyễn]]
-- [[Chúa Trịnh]]

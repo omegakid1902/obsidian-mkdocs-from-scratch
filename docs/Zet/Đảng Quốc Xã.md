@@ -21,7 +21,3 @@ publish: True
 
 ## Ideas & thoughts:
 [[210620_DQX_01]]
-
-## Backlinks:
-- [[Eugenics]]
-- [[Holocaust]]

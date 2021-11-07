@@ -39,6 +39,3 @@ sort file.name asc
 
 
 
-
-## Backlinks:
-- [[Interests]]

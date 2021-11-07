@@ -44,6 +44,3 @@ publish: True
 [^3]: https://www.thedailybeast.com/pope-francis-is-a-jesuit-seven-things-you-need-to-know-about-the-society-of-jesus
 [^4]: https://prepareforchange.net/2019/11/05/10-facts-you-must-know-about-the-jesuits/
 [^5]:http://www.pickle-publishing.com/papers/triple-crown-clement-xiv.htm
-## Backlinks:
-- [[Công Giáo]]
-- [[Qmap]]

@@ -20,6 +20,3 @@ publish: True
 - [[Zettelkasten]]
 
 ## Questions:
-
-## Backlinks:
-- [[Zettelkasten]]

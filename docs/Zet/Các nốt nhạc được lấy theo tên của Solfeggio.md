@@ -25,6 +25,3 @@ Dịch sang tiếng Anh:
 _“So that your servants may, with loosened voices, resound the wonders of your deeds, clean the guilt from our stained lips, O Saint John.”_
 
 
-
-## Backlinks:
-- [[Tần số Solfeggio]]

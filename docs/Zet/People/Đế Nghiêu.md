@@ -31,6 +31,3 @@ list
 from [[Đế Nghiêu]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Lịch sử Trung Quốc]]
-- [[Đế Thuấn]]

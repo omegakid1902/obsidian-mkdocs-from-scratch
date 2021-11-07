@@ -30,8 +30,3 @@ publish: True
 
 
 ## Ideas & thoughts:
-
-## Backlinks:
-- [[Eugenics]]
-- [[Lịch Sử Do Thái]]
-- [[Qmap]]

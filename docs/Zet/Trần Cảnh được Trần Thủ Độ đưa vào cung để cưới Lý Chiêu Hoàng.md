@@ -26,6 +26,3 @@ publish: True
 ## Questions:
 
 ## Related:
-
-## Backlinks:
-- [[Trần Cảnh]]

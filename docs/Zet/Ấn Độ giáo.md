@@ -29,6 +29,3 @@ Hindu giáo, hay còn gọi là Ấn Độ giáo.
 ## Ideas & thoughts:
 - [[Brahma - Phạm Thiên]]
 
-
-## Backlinks:
-- [[Religion]]

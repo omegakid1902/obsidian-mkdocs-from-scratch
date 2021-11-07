@@ -28,6 +28,3 @@ list
 from [[Nhà Hạ]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Lịch sử Trung Quốc]]
-- [[Hạ Vũ]]

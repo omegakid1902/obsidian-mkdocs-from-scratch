@@ -19,6 +19,3 @@ Eckhart Tolle tác giả của các tác phẩm nổi tiếng.
 - [[@ Eckhart Tolle, Thức tỉnh mục đích sống]]
 
 ## Ideas & thoughts:
-
-## Backlinks:
-- [[Bóng tối linh hồn]]

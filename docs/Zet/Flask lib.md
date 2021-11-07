@@ -37,5 +37,3 @@ def hello_world():
 
 ## Relate to:
 - [[Python]]
-## Backlinks:
-- [[Python standard library]]

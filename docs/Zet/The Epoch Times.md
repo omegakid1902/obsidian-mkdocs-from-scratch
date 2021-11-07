@@ -23,6 +23,3 @@ Link [theepochtimes.com](https://www.theepochtimes.com/)
 ## Questions:
 
 ## Relate to:
-
-## Backlinks:
-- [[Các kênh thông tin trái chiều]]

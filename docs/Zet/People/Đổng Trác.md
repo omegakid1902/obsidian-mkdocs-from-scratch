@@ -35,7 +35,3 @@ list
 from [[Đổng Trác]]
 sort file.name asc
 ```
-## Backlinks:
-- [[Xích Thố]]
-- [[Lịch sử Trung Quốc]]
-- [[Lã Bố]]

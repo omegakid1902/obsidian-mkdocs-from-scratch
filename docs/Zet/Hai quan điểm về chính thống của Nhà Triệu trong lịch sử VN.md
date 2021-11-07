@@ -26,7 +26,3 @@ Có 2 quan điểm xoay quanh nước [[Nam Việt]] của Triệu Đà:
 
 ## Source:
 - [[@ wiki, Lịch sử Việt Nam]]
-
-## Backlinks:
-- [[Lịch Sử Việt Nam]]
-- [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]

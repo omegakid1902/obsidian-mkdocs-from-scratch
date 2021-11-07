@@ -32,16 +32,3 @@ publish: True
 - [[Edward Jenner]]
 
 
-
-## Backlinks:
-- [[Các kênh thông tin trái chiều]]
-- [[Eugenics]]
-- [[Đại dịch COVID-19]]
-- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
-- [[Vaccine virus bất hoạt]]
-- [[Mafia y tế]]
-- [[CDC]]
-- [[FDA]]
-- [[Khoa học và các cú mị dân]]
-- [[Bill Gates]]
-- [[Edward Jenner]]

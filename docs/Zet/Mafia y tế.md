@@ -31,7 +31,3 @@ Mafia y tế là một khái niệm nói về một thế lực xấu đằng sa
 ## Relate to:
 - [GIÁO DỤC TỰ DO 1](https://www.youtube.com/watch?v=NPRaRY7_cw8)
 - [[Robert Young]]
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
-- [[Kênh youtube giáo dục tự do 1]]

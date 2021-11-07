@@ -17,6 +17,3 @@ publish: True
 ***
 ![[Pasted image 20210929224457.png]] 
 ***
-
-## Backlinks:
-- [[Mấy thứ nhảm nhí mắc cười]]

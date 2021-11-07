@@ -40,9 +40,3 @@ Rivers đã loại bỏ định đề đầu tiên của Koch
 
 ## Questions:
 
-
-## Backlinks:
-- [[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]
-- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
-- [[Vaccine Moderna]]
-- [[Coronavirus]]

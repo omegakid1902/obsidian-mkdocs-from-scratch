@@ -36,10 +36,3 @@ publish: True
 - [[Lễ Giáng Sinh]]
 
 
-
-## Backlinks:
-- [[Kinh mân côi]]
-- [[Công Giáo]]
-- [[Chúa Jesus không sinh ra vào 25-12]]
-- [[Cựu Ước]]
-- [[Thánh Phaolo]]

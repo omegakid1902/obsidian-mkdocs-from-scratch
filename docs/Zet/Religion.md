@@ -37,6 +37,3 @@ publish: True
 - [[Phật Giáo]]
 - [[Ấn Độ giáo]]
 
-
-## Backlinks:
-- [[Interests]]

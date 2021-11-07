@@ -19,6 +19,3 @@ Insulin là một hormon giúp điều hòa [[Đường huyết]]. [[Insulin đ�
 
 ## Questions:
 
-
-## Backlinks:
-- [[Các chế độ nhịn ăn]]

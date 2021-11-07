@@ -21,8 +21,3 @@ Chuyên về chiêm tinh học
 ![[Pasted image 20211015223347.png]]
 
 ## Ideas & thoughts:
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Thế giới tâm linh]]
-- [[Các nhà tiên tri]]

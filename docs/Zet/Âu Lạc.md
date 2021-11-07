@@ -24,10 +24,3 @@ publish: True
 
 ## Related:
 - [[An Dương Vương]]
-
-## Backlinks:
-- [[208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ]]
-- [[An Dương Vương thực hiện kế vườn không nhà trống với quân Tần]]
-- [[Quốc hiệu VN qua các thời kỳ]]
-- [[Lịch Sử Việt Nam]]
-- [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]

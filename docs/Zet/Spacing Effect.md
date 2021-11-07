@@ -17,6 +17,3 @@ publish: True
 ## Ideas & thoughts:
 
 ## Questions:
-
-## Backlinks:
-- [[Spaced Repetition]]

@@ -26,5 +26,3 @@ Alberto Rivera là một người chống [[Công Giáo]], ông có nhiều bằ
 
 ## Reference:
 - [tabublog.com](https://tabublog.com/2015/12/27/how-the-vatican-created-islam-by-former-jesuit-priest-alberto-rivera/)
-## Backlinks:
-- [[Qmap]]

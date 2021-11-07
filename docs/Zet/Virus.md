@@ -24,10 +24,3 @@ publish: True
 ## Ideas & thoughts:
 - [[Coronavirus]]
 - [[Đại dịch COVID-19]]
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
-- [[SARS-COV-2]]
-- [[Vaccine virus bất hoạt]]
-- [[COVID-19]]

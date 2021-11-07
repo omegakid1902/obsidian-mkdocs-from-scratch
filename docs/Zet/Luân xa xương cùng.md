@@ -35,7 +35,3 @@ Luân xa xương cùng, hay Solar Plexus chakra, vị trí nằm ở [[Huyệt T
 ## Reference:
 - [Giới thiệu về 7 luân xa - hay còn gọi là Chakra (luanxa.com.vn)](https://luanxa.com.vn/gioi-thieu-ve-7-luan-xa/)
 
-
-## Backlinks:
-- [[Cơ thể con người có 7 luân xa]]
-- [[Luân xa]]

@@ -25,10 +25,3 @@ Thức tỉnh tâm linh, hay Spiritual awakening
 ## Ideas & thoughts:
 
 
-
-## Backlinks:
-- [[Khủng hoảng hiện sinh]]
-- [[Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh]]
-- [[Thế giới tâm linh]]
-- [[Hạ thế giới]]
-- [[Bóng tối linh hồn]]

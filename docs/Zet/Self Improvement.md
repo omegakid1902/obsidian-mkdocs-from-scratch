@@ -39,6 +39,3 @@ publish: True
 ## Ideas & thoughts:
 https://clb100.com/
 ## Questions:
-## Backlinks:
-- [[Rat race]]
-- [[Interests]]

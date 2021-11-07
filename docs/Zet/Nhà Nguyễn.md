@@ -45,9 +45,3 @@ list
 from [[~Nhà Nguyễn]]
 sort file.name asc
 ```
-
-## Backlinks:
-- [[Chúa Nguyễn]]
-- [[Bảo Đại]]
-- [[Lịch Sử Việt Nam]]
-- [[Nguyễn Hoàng]]

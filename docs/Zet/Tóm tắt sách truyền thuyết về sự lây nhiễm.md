@@ -106,6 +106,3 @@ publish: True
 - [[Bệnh Zika]]
 - [[Bệnh dịch tả lợn Châu Phi]] từ đâu?
 - 
-
-## Backlinks:
-- [[Đại dịch COVID-19]]

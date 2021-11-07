@@ -35,14 +35,3 @@ Cấu trúc của virus gồm lõi là một gen RNA và bao quanh là vỏ glyc
 ## Ideas & thoughts:
 - [[Virus]] và [[Vi khuẩn]]: [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
 - [[Exosomes]]
-
-## Backlinks:
-- [[Real time PCR test]]
-- [[Eugenics]]
-- [[Đại dịch COVID-19]]
-- [[Beta-Coronavirus]]
-- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
-- [[MERS-CoV]]
-- [[Coronavirus]]
-- [[COVID-19]]
-- [[Vaccine AstraZeneca]]

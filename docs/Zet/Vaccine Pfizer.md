@@ -28,9 +28,3 @@ publish: True
 ## Ideas & thoughts:
 - [[Các loại Vaccine COVID 19]]
 - [[Phía sau Vaccine Pfizer]]
-
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[Các loại Vaccine COVID 19]]
-- [[Phía sau Vaccine Pfizer]]
-- [[Bill Gates]]

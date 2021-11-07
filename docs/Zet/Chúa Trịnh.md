@@ -31,9 +31,3 @@ Dòng dõi chúa Trịnh khởi đi từ [[Trịnh Kiểm]]
 ## Related:
 
 
-
-## Backlinks:
-- [[Chúa Nguyễn]]
-- [[Đàng Ngoài]]
-- [[Nhà Tây Sơn]]
-- [[Thời Lê trung hưng]]

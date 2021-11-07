@@ -21,6 +21,3 @@ Sau đó đưa mẫu protein này vào một virus cảm lạnh có tên là [[A
 
 ## Ideas & thoughts:
 
-
-## Backlinks:
-- [[Các loại Vaccine COVID 19]]

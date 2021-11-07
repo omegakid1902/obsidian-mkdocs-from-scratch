@@ -23,6 +23,3 @@ Thuật toán [[SuperMemo]] (SM-2,.. SM-17) là một thuật toán lặp lại 
 ## Ideas & thoughts:
 
 ## Questions:
-
-## Backlinks:
-- [[Incremental Reading]]

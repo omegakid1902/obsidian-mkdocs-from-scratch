@@ -24,6 +24,3 @@ publish: True
 ## Ideas & thoughts:
 - Tại sao VIệt nam tới giờ là 1/11/2021 vẫn phung phí tiền cho [[Real time PCR test|RT-PCR]] để xác định dương tính và dương tính là đem đi cách ly!?
 
-
-## Backlinks:
-- [[Đại dịch COVID-19]]

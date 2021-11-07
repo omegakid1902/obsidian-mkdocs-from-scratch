@@ -48,8 +48,3 @@ publish: True
 - Các vaccine trước giờ thì sao!?
 
  
-## Backlinks:
-- [[Đại dịch COVID-19]]
-- [[SARS-COV-2]]
-- [[Coronavirus]]
-- [[COVID-19]]

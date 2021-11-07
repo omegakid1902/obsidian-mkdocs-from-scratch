@@ -22,7 +22,3 @@ SuperMemo là một phần mềm áp dụng các phương pháp đọc và ghi n
 
 ## Questions:
 
-
-## Backlinks:
-- [[SM-Algorithm]]
-- [[Incremental Reading]]

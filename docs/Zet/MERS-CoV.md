@@ -22,8 +22,3 @@ MERS-CoV là một loại [[Coronavirus]] xuất hiện vào năm 2012 tại [[T
 ## Ideas & thoughts:
 - [[SARS-COV-2]]
 
-
-## Backlinks:
-- [[Beta-Coronavirus]]
-- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
-- [[Coronavirus]]
