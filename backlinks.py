@@ -236,15 +236,17 @@ for node in nodes:
         target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
         nodes[target_node_name]['backlinks'].append(node)
 
-for root, dirs, files in os.walk(base_docs_url):
-    for file in files:
-        if file.endswith(".md"):
-            file_name_strip = os.path.basename(file).replace(".md", "")
-            with open(os.path.join(root, file), 'a', encoding="utf-8") as f:
-                if len(nodes[file_name_strip]["backlinks"]):
-                    f.write("\n## Backlinks:\n")
-                    for backlink in nodes[file_name_strip]["backlinks"]:
-                        f.write("- [["+backlink+"]]\n")
+## Insert Backlink at the end of md file
+if 0:
+    for root, dirs, files in os.walk(base_docs_url):
+        for file in files:
+            if file.endswith(".md"):
+                file_name_strip = os.path.basename(file).replace(".md", "")
+                with open(os.path.join(root, file), 'a', encoding="utf-8") as f:
+                    if len(nodes[file_name_strip]["backlinks"]):
+                        f.write("\n## Backlinks:\n")
+                        for backlink in nodes[file_name_strip]["backlinks"]:
+                            f.write("- [["+backlink+"]]\n")
 
 # write json with unicode utf8 character encoding="utf-8", ensure_ascii=False
 with open('docs/backlink.json', 'w', encoding="utf-8") as outfile:

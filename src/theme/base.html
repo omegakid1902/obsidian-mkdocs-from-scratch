@@ -241,6 +241,10 @@
                   <h1>{{ page.title | d(config.site_name, true)}}</h1>
                 {% endif %}
                 {{ page.content }}
+                {% block backlinks %}
+                {% endblock %}
+                {% block yaml_header %}
+                {% endblock %}
                 {% if page and page.meta %}
                   {% if page.meta.git_revision_date_localized or
                         page.meta.revision_date
