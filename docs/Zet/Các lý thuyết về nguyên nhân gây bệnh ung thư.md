@@ -6,7 +6,7 @@ title: Các lý thuyết về nguyên nhân gây bệnh ung thư
 UID: 211010163138
 created: 10-Oct-2021
 tags:
-  - '#created/2021/Oct/10'
+  - 'created/2021/Oct/10'
   - 'garden🏡'
   - 'permanent/linking'
 publish: True

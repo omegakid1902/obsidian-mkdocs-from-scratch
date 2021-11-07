@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/Thức tỉnh tâm linh
+  - Zet/Bóng tối linh hồn
+  - Zet/People/Teresa of Avila
 backlinks:
   - Zet/Ba Chân lý của thông thiên học
   - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
@@ -23,13 +25,14 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[Chủ Nghĩa Hiện Sinh]]
+- [[Chủ nghĩa hiện sinh]]
 - [[Thức tỉnh tâm linh]]
 - [[❕ Ý nghĩa cuộc sống]]
 - Giải pháp cho vấn đề này là [[Thức tỉnh tâm linh|Phát triển tâm linh]]
+- Tương đương với [[Bóng tối linh hồn]] của [[Teresa of Avila]]
 
 ## Reference:
 - [[Sách] [Cẩm Nang Thăng Thiên] Chương 1: Giới thiệu về Zingdad – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/06/01/sach-cam-nang-thang-thien-chuong-1/)
-- https://innermostselves.wordpress.com/2019/08/05/khung-hoang-hien-sinh-existential-crisis-9-cach-de-vuot-qua-khoang-thoi-gian-den-toi-nhat-trong-cuoc-doi-ban/
+- [Khủng hoảng Hiện sinh (Existential Crisis): 9 cách để vượt qua khoảng thời gian đen tối nhất trong cuộc đời bạn | Just BE. (wordpress.com)](https://innermostselves.wordpress.com/2019/08/05/khung-hoang-hien-sinh-existential-crisis-9-cach-de-vuot-qua-khoang-thoi-gian-den-toi-nhat-trong-cuoc-doi-ban/)
 
 

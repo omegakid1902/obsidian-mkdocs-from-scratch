@@ -27,5 +27,5 @@ Vẫn có khoa học chân thực, nhưng ngày nay nó bị giết chết bởi
 - [[FDA cấm Ivermectin thú y để chữa trị cho người]]: Cố tình thêm chữ "thú y" phía sau [[Ivermectin]] để đồng hóa với nó chỉ là thuốc thú y. Khi chặn được các phương pháp chữa trị, [[Vaccine]] sẽ đưa ra, nó sẽ được xem là một lựa chọn tốt bất chấp rủi ro cao.
 - [[Real time PCR test là một trò bịp của Big Pharma]]: Xem [[Kary B. Mullis]] nói về [[Real time PCR test|PCR test]] tại đây [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 - [[Khẩu trang có thể giảm sự lây truyền Virus]]
-- 
+
 

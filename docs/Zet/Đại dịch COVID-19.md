@@ -40,6 +40,7 @@ backlinks:
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/Chemtrails
   - Zet/Coronavirus
+  - Zet/COVID-19
 title: Đại dịch COVID-19
 tags:
   - 'created/2021/Jul/10'

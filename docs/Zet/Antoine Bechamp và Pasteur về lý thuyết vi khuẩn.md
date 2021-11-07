@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Vaccine
   - Zet/People/Louis Pasteur
   - Zet/Mafia y tế
+  - Zet/The Germ theory
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/SARS-COV-2

@@ -4,9 +4,12 @@ outgoing_links:
   - Zet/People/Đức Giáo Hoàng
   - Zet/Cựu Ước
   - Zet/People/Thánh Phaolo
+  - Zet/Chính thống giáo Đông Phương
   - Zet/Dòng Tên
 backlinks:
+  - Zet/God
   - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Chính thống giáo Đông Phương
   - Zet/Religion
   - Zet/Hồi Giáo
   - Zet/Cải Cách Kháng Nghị

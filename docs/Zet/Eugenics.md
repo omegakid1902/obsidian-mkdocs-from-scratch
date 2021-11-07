@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/People/Adolf Hitler
   - Zet/People/Charles Darwin
   - Zet/Francis Galton là em họ của Charles Darwin
+  - Zet/Thuyết tiến hóa
   - Zet/Người Aryan
   - Zet/People/Bill Gates
   - Zet/Vaccine

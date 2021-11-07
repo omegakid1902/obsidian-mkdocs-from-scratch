@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/Do Thái Giáo
 backlinks:
+  - Zet/God
   - Zet/Qmap
   - Zet/Religion
   - Zet/People/Alberto Rivera

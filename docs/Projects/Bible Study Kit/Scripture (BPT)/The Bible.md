@@ -34,7 +34,7 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 - [[2 Chronicles]]
 - [[Ezra]]
 - [[Nehemiah]]
---[[Esther]]
+- [[Esther]]
 
 **Books of Wisdom (or "Poetry")**
 
@@ -67,7 +67,6 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 - [[Zechariah]]
 - [[Malachi]]
 
-***
 **Gospels**
 
 - [[Matthew]] - [[Matthew|Mát-thêu]]
@@ -77,7 +76,7 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 
 **Church History**
 
--[[Acts]]
+- [[Acts]]
 
 **Pauline Epistles**
 
@@ -110,22 +109,5 @@ BPT là ký hiệu của bản dịch [[Vietnamese Bible Easy-To-Read Version]]
 
 - [[Revelation]]
 
-# Phúc Âm
-
-- metadata
-	- UID: P-210731-2208
-	- tags: #created/2021/Jul/31, #permanent/concept 
-	- source: 
-
-## Notes
-
-
-## Questions & thoughts:
-- [ ] [[Kinh thánh]] của [[Công Giáo]]
-
-## Related:
-```dataview
-list
-from [[Phúc Âm]]
-sort file.name asc
-```
+## Ideas & thoughts:
+- [[Kinh thánh]] của [[Công Giáo]]

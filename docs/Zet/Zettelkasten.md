@@ -2,9 +2,17 @@
 outgoing_links:
   - Zet/People/Niklas Luhmann
   - Zet/The Second Brain
+  - Zet/Reference Manager
+  - Zet/Fleeting Note
+  - Zet/Literature Note
+  - Zet/Permanent Note
 backlinks:
+  - Zet/Fleeting Note
+  - Zet/Permanent Note
   - Zet/Self Improvement
   - Zet/The Second Brain
+  - Zet/Literature Note
+  - Zet/Reference Manager
   - Zet/People/Niklas Luhmann
 title: Zettelkasten
 UID: 211001214142

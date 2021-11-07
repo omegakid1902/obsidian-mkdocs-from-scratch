@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Antoine Beauchamp
+  - Zet/The Germ theory
   - Zet/People/Louis Pasteur
   - Zet/COVID-19
 backlinks:
@@ -36,12 +37,10 @@ Theo Bechamp, vi khuẩn là sản phẩm sinh ra từ bệnh chứ không phả
 - Nếu theo thuyết này, nhiều người cho rằng bệnh [[COVID-19]] là sự ảnh hưởng của [[Mạng 5G]] lên cơ thể, hệ vi thể tạo ra những virus để phản ứng lại sự nhiễm độc sinh ra bởi ảnh hưởng của sóng này lên cơ thể[^hoichung5g]
 - [[@ Thomas S. Cowan, The Contagion Myth]]
 
-## Questions:
-
-## Relate to:
+## Reference:
 - [[@ Ethel D. Hume, Bechamp or Pasteur - A Lost Chapter in the history of biology]]
 - [[@ Ethel D. Hume, Pasteur Exposed]]
 - [Ebook Bechamp-or-Pasteur](http://mnwelldir.org/docs/history/biographies/Bechamp-or-Pasteur.pdf)
-- https://thegreatawakeningvn.wordpress.com/2021/03/17/vaccine-ban-khong-the-bi-lay-nhiem-vi-trung-vi-khuan-hoac-nam-candida/
+- [Bạn Không Thể Bị “Lây Nhiễm” Virus, Vi Khuẩn hoặc Nấm Candida. – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/03/17/vaccine-ban-khong-the-bi-lay-nhiem-vi-trung-vi-khuan-hoac-nam-candida/)
 
-[^hoichung5g]:https://thegreatawakeningvn.wordpress.com/2021/08/05/hoi-chung-covid-5g/
+[^hoichung5g]:[Hội Chứng COVID-5G – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/08/05/hoi-chung-covid-5g/)

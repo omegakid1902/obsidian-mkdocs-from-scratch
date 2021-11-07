@@ -2,8 +2,12 @@
 outgoing_links:
   - Zet/Thức tỉnh tâm linh
   - Zet/Khủng hoảng hiện sinh
+  - Zet/Bài Tarot
   - Zet/People/Thánh Gioan Thánh giá
+  - Zet/People/Teresa of Avila
   - Zet/People/Eckhart Tolle
+backlinks:
+  - Zet/Khủng hoảng hiện sinh
 title: Bóng tối linh hồn
 UID: 211022211018
 created: 22-Oct-2021
@@ -12,7 +16,7 @@ tags:
   - 'seed🥜'
   - 'permanent/concept'
 aliases:
-  - The Dark night of the soul
+  - The dark night of the soul
   - Đêm tối của linh hồn
 publish: True
 ---
@@ -34,7 +38,7 @@ Giai đoạn này tương đương với [[Khủng hoảng hiện sinh]] trong t
 - Một quyển sách của [[Thánh Gioan Thánh giá]] có tên là [[@ John of the Cross, Dark Night of the Soul|Dark Night of the Soul]]
 - Tác giả [[Eckhart Tolle]] cũng từng trải nghiệm quá trình này.
 - Câu hỏi ám ảnh ta trong giai đoạn này là: Mục đích cuộc đời ta là gì? [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc sống]]
-- 
+
 ## Quotes:
 - [[💬211022-2109]]
 
@@ -42,7 +46,7 @@ Giai đoạn này tương đương với [[Khủng hoảng hiện sinh]] trong t
 - [The Dark Night of the Soul (Losing Who We Thought We Were)](https://www.youtube.com/watch?v=GXq6YyvA_vM)
 - [[@ youtube.com, The Dark Night of the Soul]]
 - [[@ John of the Cross, Dark Night of the Soul]]
-- http://vietpsychotherapy.blogspot.com/2014/06/em-toi-cua-linh-hon.html
-- https://www.youtube.com/watch?v=lMA43kVVldc
-- http://longchuathuongxot.vn/v2/dem-toi-linh-hon/
-- https://innermostselves.wordpress.com/2017/07/03/dem-den-cua-tam-hon-dark-night-of-the-soul-cau-tra-loi-cho-cau-hoi-muc-dich-cuoc-song-cua-chung-ta-la-gi/
+- [Viet Psychotherapy: Đêm tối của linh hồn](http://vietpsychotherapy.blogspot.com/2014/06/em-toi-cua-linh-hon.html)
+- [The Dark Night of the Soul - YouTube](https://www.youtube.com/watch?v=lMA43kVVldc)
+- [ĐÊM TỐI LINH HỒN – Lòng Chúa thương xót (longchuathuongxot.vn)](http://longchuathuongxot.vn/v2/dem-toi-linh-hon/)
+- [Đêm đen của tâm hồn (Dark Night of the Soul) – Câu trả lời cho câu hỏi “Mục đích cuộc sống của chúng ta là gì?” | Just BE. (wordpress.com)](https://innermostselves.wordpress.com/2017/07/03/dem-den-cua-tam-hon-dark-night-of-the-soul-cau-tra-loi-cho-cau-hoi-muc-dich-cuoc-song-cua-chung-ta-la-gi/)

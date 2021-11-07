@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Thánh Gioan Thánh giá
+  - Zet/People/Teresa of Avila
 backlinks:
   - Zet/People/Thánh Gioan Thánh giá
 title: Thánh Gioan Thánh giá là học trò của Teresa of Avila

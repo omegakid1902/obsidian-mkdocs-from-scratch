@@ -7,6 +7,7 @@ backlinks:
   - Zet/Real time PCR test
   - Zet/Đại dịch COVID-19
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
+  - Zet/Ivermectin
   - Zet/CDC
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/Khoa học và các cú mị dân

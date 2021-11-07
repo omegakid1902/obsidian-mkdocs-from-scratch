@@ -1,7 +1,5 @@
 ---
 title: about
-tags:
-  - pages
 publish: true
 ---
 # About
@@ -18,8 +16,8 @@ Dưới đây là một đặc trưng của phương pháp [[Zettelkasten]]
 
 ![[Pasted image 20211107182048.png]]
 
-Mỗi trang ghi chú đều bao gồm nội dung, và phần metadata ở cuối trang bao gồm các Tags để phân loại ghi chú. Các [[Backlink]] được hiện thực hóa bằng box `Mentioned in` và bên phải là [[Backlink Graph View]], lấy ý tưởng từ [[Obsidian Publish]], và tham khảo rất nhiều từ [bluebook](https://github.com/lyz-code/blue-book). 
+Mỗi trang ghi chú đều bao gồm nội dung, và phần metadata ở cuối trang bao gồm các Tags để phân loại ghi chú. Các [[Backlink]] được hiện thực hóa bằng box `Mentioned in` và bên phải là [[Backlink graph view]], lấy ý tưởng từ [[Obsidian Publish]], và tham khảo rất nhiều từ [bluebook](https://github.com/lyz-code/blue-book). 
 
-Mình bắt đầu ghi chú các chú dựa trên phương pháp này từ khoảng cuối năm 2020 khi mình rơi vào tình trạng gọi là [[Bóng tối linh hồn|The Dark night of the soul]] và không thể tìm được ánh sáng. Sau khi đọc được quyển [[@ Barbara Oakley, Learn how to learn]] và [[@ Sönke Ahrens, How to take smart notes]] vào khoảng tháng 9-10/2020, mình biết đến phương pháp ghi chú [[Zettelkasten]] và [[Obsidian]], mục đích chủ yếu để tìm được ánh sáng trước nỗi vô định của cuộc sống tạo ra và bồi đắp tri thức để giải đáp nhiều băn khoăn. Thời gian đầu, mình chỉ có ý định lưu trữ và tham khảo cá nhân. Tuy nhiên, khoảng tháng 7,8/2021 tình hình dịch bệnh căng thẳng, tin tức bị bị kiểm duyệt lẫn lộn. Mình quyết định nghiên cứu cách để tạo một trang web cá nhân từ những ghi chú này.
+Mình bắt đầu ghi chú dựa trên phương pháp này từ khoảng cuối năm 2020 khi mình rơi vào tình trạng gọi là [[Bóng tối linh hồn|The Dark night of the soul]]. Sau khi đọc được quyển [[@ Barbara Oakley, Learn how to learn]] và [[@ Sönke Ahrens, How to take smart notes]] vào khoảng tháng 9-10/2020, mình biết đến phương pháp ghi chú [[Zettelkasten]] và [[Obsidian]], mục đích chủ yếu để tìm được ánh sáng trước nỗi vô định của cuộc sống tạo ra và bồi đắp tri thức để giải đáp nhiều băn khoăn nảy sinh trong quá trình. Thời gian đầu, mình chỉ có ý định lưu trữ và tham khảo cá nhân. Tuy nhiên, khoảng tháng 7,8/2021 tình hình dịch bệnh căng thẳng, tin tức bị bị kiểm duyệt lẫn lộn. Mình quyết định nghiên cứu cách để tạo một trang web cá nhân từ những ghi chú này.
 
-Trang này bắt đầu xây dựng từ khoảng tháng 9-10/2021 khi [[Đại dịch COVID-19]] khiến Sài Gòn lockdown từ tháng 6-10. Đây cũng là mục đích chính để mình publish các ghi chú của mình lên internet để mọi người được tiếp cận với những thông tin thời sự đáng được biết mà bị kiểm duyệt bởi truyền thông chính thống. 
+Từ khoảng tháng 9-10/2021, trang này bắt đầu xây dựng khi [[Đại dịch COVID-19]] khiến Sài Gòn lockdown. Đây cũng là mục đích chính để mình công khai các ghi chú của mình lên internet để mọi người được tiếp cận với những thông tin thời sự đáng được biết mà bị kiểm duyệt bởi truyền thông chính thống. 
