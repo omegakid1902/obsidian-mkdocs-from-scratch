@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/FDA
+  - Zet/Ivermectin
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Khoa học và các cú mị dân

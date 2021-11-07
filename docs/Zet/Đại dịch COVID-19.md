@@ -28,6 +28,7 @@ outgoing_links:
   - Zet/Vaccine Moderna
   - Zet/Eugenics
   - Zet/People/Donald J. Trump
+  - Zet/Ivermectin
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
   - Zet/Khoa học và các cú mị dân
   - Zet/People/Abhigya Anand
@@ -125,14 +126,19 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 - Có nghiên cứu gì về hại về mặt lâu dài không, hay mục đích FDA không chấp thuận sử dụng chỉ vì lợi nhuận của nó không nhiều bằng việc triển khai [[Vaccine]]!?
 
 - Đồng thuận: 
-		- [Câu hỏi thường gặp về Ivermectin - FLCCC | Front Line COVID-19 Critical Care Alliance (covid19criticalcare.com)](https://covid19criticalcare.com/vi/ivermectin-trong-covid-19/c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-ivermectin/)
+	- [Câu hỏi thường gặp về Ivermectin - FLCCC | Front Line COVID-19 Critical Care Alliance (covid19criticalcare.com)](https://covid19criticalcare.com/vi/ivermectin-trong-covid-19/c%C3%A2u-h%E1%BB%8Fi-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-ivermectin/)
 	![[Pasted image 20211102231216.png]]
 	- [Bản in bài viết | Chống dịch COVID-19, kinh nghiệm từ một số quốc gia (baochinhphu.vn)](http://baochinhphu.vn/Utilities/PrintView.aspx?distributionid=445234)
 			![[Pasted image 20211102231023.png]]
-	- Gạt bỏ:
-		- [Thực hư chuyện dùng thuốc tẩy giun Ivermectin trị COVID-19 | Quốc tế | PLO](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html)
-			![[Pasted image 20211102231302.png]]
-		- [Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)
+	- [suckhoeviet.org.vn](https://suckhoeviet.org.vn/an-do-dung-thuoc-ivermectin-trong-dieu-tri-va-phong-chong-covid-19-co-hieu-qua/)
+	- [phaply.net.vn](https://phaply.net.vn/khong-co-ty-le-tiem-chung-cao-an-do-da-dung-phuong-phap-nao-khac-de-chong-dich-hieu-qua-a253232.html)
+- Gạt bỏ:
+	- [Thực hư chuyện dùng thuốc tẩy giun Ivermectin trị COVID-19 | Quốc tế | PLO](https://plo.vn/quoc-te/thuc-hu-chuyen-dung-thuoc-tay-giun-ivermectin-tri-covid19-1013052.html)
+		![[Pasted image 20211102231302.png]]
+	- [Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)
+	- [canhgiacduoc.org.vn](http://canhgiacduoc.org.vn/CanhGiacDuoc/DiemTin/2027/Health-Canada-ivermectin-khong-duoc-cap-phep-trong-phong-va-dieu-tri-COVID-19.htm)
+	- [Ấn Độ dùng thuốc tẩy giun để điều trị COVID-19 bất chấp cảnh báo | VTV.VN](https://vtv.vn/the-gioi/an-do-dung-thuoc-tay-giun-de-dieu-tri-covid-19-bat-chap-canh-bao-20210514192558648.htm)
+	- [CANH GIAC DUOC - DiemTin](http://canhgiacduoc.org.vn/CanhGiacDuoc/DiemTin/2027/Health-Canada-ivermectin-khong-duoc-cap-phep-trong-phong-va-dieu-tri-COVID-19.htm)
 
 [[FDA cấm Ivermectin thú y để chữa trị cho người]] -> ai lại đi lấy thuốc tiêu chảy "thú y" để chữa tiêu chảy ở người nào!? vậy ở đây nên hiểu cấm "thuốc tiêu chảy" hay cấm "thuốc thú y" được dùng ở người 🤣. Ivermectin có 2 loại sản xuất cho người và động vật. Thằng [[FDA]] nó đã cấp phép sử dụng thuốc đó ở người để trị giun sán.
 
@@ -153,6 +159,7 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 - [Sự dối trá của đại dịch Cô Vy: Kế hoạch chiếm lĩnh thế giới của Hội Tam Điểm (rumble.com)](https://rumble.com/vnkz2o-s-di-tr-ca-i-dch-c-vy-k-hoch-chim-lnh-th-gii-ca-hi-tam-im.html)
 - Khoa học this, khoa học that [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
 - [Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection](https://www.youtube.com/watch?app=desktop&v=9vuxibKj4z8)
+- [Cựu phó chủ tịch Pfizer giải thích chúng ta đang bị lừa như thế nào](https://rumble.com/vmgm99-thng-ip-nhn-nh-cui-cng-michael-yeadon-interview-bn-full.html)
 
 [^1]: [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
 [^2]: [Ivermectin | COVID-19 Treatment Guidelines (nih.gov)](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/ivermectin/)

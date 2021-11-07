@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/CDC
   - Zet/FDA
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
+  - Zet/Ivermectin
   - Zet/Vaccine
   - Zet/Real time PCR test là một trò bịp của Big Pharma
   - Zet/People/Kary B. Mullis
