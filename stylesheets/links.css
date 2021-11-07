@@ -51,11 +51,12 @@
     background-image: url(/images/book-open-blank-variant.svg);
     filter: invert(23%) sepia(21%) saturate(7448%) hue-rotate(95deg) brightness(92%) contrast(105%);
     background-repeat: no-repeat;
-    background-size: 0.99em;
+    background-size: 0.8em;
     width: 1em;
     height: 1em;
     display: inline-block;
     vertical-align: baseline;
+    opacity: 0.8;
 }
 
 .md-content a[href*="omegakid1902.github.io"]::before
@@ -71,12 +72,12 @@
     background-image: url("/images/book-open-page-variant.svg");
     filter: invert(23%) sepia(21%) saturate(7448%) hue-rotate(95deg) brightness(92%) contrast(105%);
     background-repeat: no-repeat;
-    background-size: 0.99em;
+    background-size: 0.8em;
     width: 1em;
     height: 1em;
     display: inline-block;
     vertical-align: baseline;
-    opacity: 0.825;
+    opacity: 0.8;
     }
 
 .md-content a[href*="omegakid1902.github.io"]:hover::before,
@@ -170,14 +171,14 @@ element.style {
     height: 0.825em;
     display: inline-block;
     vertical-align: baseline;
-    opacity: 0.825;
+    opacity: 0.8;
 }
 
 .md-content a[href*="wikipedia.org"]:hover::after,
 .md-content a[href*="wikimedia.org"]:hover::after,
 .md-content a[href*="wikimediafoundation.org"]:hover::after,
 .md-content a[href*="wikisource.org"]:hover::after {
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 /* Facebook */
@@ -193,13 +194,15 @@ element.style {
     height: 1em;
     display: inline-block;
     vertical-align: baseline;
-}
-
-.md-content a[href*="facebook.com"]:hover::after{
     opacity: 0.8;
 }
 
+.md-content a[href*="facebook.com"]:hover::after{
+    opacity: 0.6;
+}
+
 /* Youtube */
+.md-content a[href*="youtu.be"]::after,
 .md-content a[href*="youtube.com"]::after {
 	content: ""; 
     background-image: url("/images/youtube.svg");
@@ -212,10 +215,12 @@ element.style {
     height: 1em;
     display: inline-block;
     vertical-align: baseline;
+    opacity: 0.8;
 }
 
+.md-content a[href*="youtu.be"]:hover::after,
 .md-content a[href*="youtube.com"]:hover::after{
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .md-content a[href*="goodreads.com"]::after {
@@ -230,10 +235,28 @@ element.style {
     height: 1em;
     display: inline-block;
     vertical-align: baseline;
+    opacity: 0.8;
 }
 
 .md-content a[href*="goodreads.com"]:hover::after{
-    opacity: 0.8;
+    opacity: 0.6;
+}
+
+
+.md-content a[href*="rumble.com"]::after {
+	content: ""; 
+    background-image: url("/images/rumble.png");
+    background-repeat: no-repeat;
+    background-size: 1em;
+    background-position: right 1px;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+.md-content a[href*="rumble.com"]:hover::after{
+    opacity: 0.6;
 }
 
 .md-content a[href*="wordpress.com"]::after {
@@ -248,12 +271,32 @@ element.style {
     height: 1em;
     display: inline-block;
     vertical-align: baseline;
-}
-
-.md-content a[href*="wordpress.com"]:hover::after{
     opacity: 0.8;
 }
 
+.md-content a[href*="wordpress.com"]:hover::after{
+    opacity: 0.6;
+}
+
+.md-content a[href*="github.com"]::after {
+	content: ""; 
+    background-image: url("/images/github-square.svg");
+    background-repeat: no-repeat;
+    background-size: 0.80em;
+    background-position: right 1px;
+    display: inline-block;
+    vertical-align: baseline;
+    position: static;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 0.75em;
+    width: 0.75em;
+    margin: 0 0 2px 3px;
+    opacity: 0.8;
+}
+.md-content a[href*="github.com"]:hover::after{
+    opacity: 0.6;
+}
 
 /* Ref in https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/?h=icon#with-colors */
 @keyframes heart {
@@ -1193,25 +1236,6 @@ color: #4267B2;
     height: 0.825em;
     display: inline-block;
     vertical-align: baseline;
-    opacity: 0.60;
-}
-
-/* Github; I exclude github.io because that's blogs */
-.md-content a[href*='github.com']::after {
-    background-image: url("/blue-book/assets/images/github.svg");
-}
-.md-content a[href*='github.com']:hover::after {
-    opacity: 0.3;
-}
-.md-content a[href*='github.com']::after {
-    content: "";
-    display: inline-block;
-    position: static;
-    background-repeat: no-repeat;
-    background-position: bottom center;
-    height: 0.75em;
-    width: 0.75em;
-    margin: 0 0 2px 3px;
     opacity: 0.60;
 }
 
