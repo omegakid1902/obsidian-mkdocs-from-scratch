@@ -66,7 +66,9 @@
 
 .md-content a[href*="omegakid1902.github.io"]:hover::after,
 .md-content a[href*="../"]:hover::after,
-.md-content a:not([href*="/Scripture"]):hover::after {
+.md-content a:not([href*="/Scripture"]):hover::after,
+.md-content a:not([href*="www.facebook.com"]):hover::after,
+.md-content a:not([href*="www.youtube.com"]):hover::after {
 	content: ""; 
     color: darkgreen;
     background-image: url("/images/book-open-page-variant.svg");
@@ -195,6 +197,25 @@ element.style {
 }
 
 .md-content a[href*="facebook.com"]:hover::after{
+    opacity: 0.8;
+}
+
+/* Youtube */
+.md-content a[href*="youtube.com"]::after {
+	content: ""; 
+    background-image: url("/images/youtube.svg");
+    background-repeat: no-repeat;
+    /* WP is used on almost every page, so make an exception and inline it */
+    filter: invert(15%) sepia(78%) saturate(6818%) hue-rotate(3deg) brightness(93%) contrast(120%);
+    background-size: 0.75em;
+    background-position: right 1px top;
+    width: 0.825em;
+    height: 0.825em;
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+.md-content a[href*="youtube.com"]:hover::after{
     opacity: 0.8;
 }
 
@@ -1015,21 +1036,17 @@ color: #4267B2;
     opacity: 0.60;
 }
 
-/* YouTube/Bandcamp/SoundCloud links */
-.md-content a[href*='youtube.com']::after,
-.md-content a[href*='youtu.be']::after,
+/* Bandcamp/SoundCloud links */
 .md-content a[href*='soundcloud.com']::after,
 .md-content a[href*='bandcamp.com']::after {
     background-image: url('/blue-book/assets/images/video.svg');
 }
-.md-content a[href*='youtube.com']:hover::after,
-.md-content a[href*='youtu.be']:hover::after,
+
 .md-content a[href*='soundcloud.com']:hover::after,
 .md-content a[href*='bandcamp.com']:hover::after {
     opacity: 0.3;
 }
-.md-content a[href*='youtube.com']::after,
-.md-content a[href*='youtu.be']::after,
+
 .md-content a[href*='soundcloud.com']::after,
 .md-content a[href*='bandcamp.com']::after {
     content: "";
