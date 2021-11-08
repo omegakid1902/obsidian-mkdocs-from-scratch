@@ -60,7 +60,7 @@ extra:
       name: Dung Tran on Facebook
 
   generator: false                            # Autogenerate copyright 
-  disqus: 'disqus_xf1sbkFVZH'
+# disqus: 'disqus_xf1sbkFVZH'
 
 markdown_extensions:
   - abbr
