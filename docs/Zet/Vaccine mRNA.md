@@ -1,9 +1,12 @@
 ---
 outgoing_links:
+  - Zet/People/Robert Wallace Malone
   - Zet/Các loại Vaccine COVID 19
+  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Các loại Vaccine COVID 19
+  - Zet/People/Robert Wallace Malone
 title: Vaccine mRNA
 UID: 2107100907
 tags:
@@ -25,5 +28,6 @@ Cha đẻ của công nghệ mRNA là tiến sĩ [[Robert Wallace Malone]]
 - Hệ miễn dịch có thể phát hiện protein của virus gây hại trong tế bào không? hay tế bào phải thể hiện nó ra ngoài?? #todo/research 
 - [[Các loại Vaccine COVID 19]]
 - [[Robert Wallace Malone]] đã phản đối việc các chính phủ ép buộc người dân tiêm vaccine mRNA mà không công bố rủi ro mà vaccine gây ra. Vaccine mRNA chỉ là thử nghiệm. [^1]
+- [[Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ]]
 
-[^1]: https://www.ntdvn.com/suc-khoe/nha-phat-minh-cong-nghe-vac-xin-covid-19-mrna-toi-co-nguy-co-bi-am-sat-vi-phan-doi-viec-tiem-chung-217990.html
+[^1]: [Nhà phát minh công nghệ vắc-xin Covid-19 mRNA: Tôi có nguy cơ 'bị ám sát' vì phản đối việc tiêm chủng (ntdvn.com)](https://www.ntdvn.com/suc-khoe/nha-phat-minh-cong-nghe-vac-xin-covid-19-mrna-toi-co-nguy-co-bi-am-sat-vi-phan-doi-viec-tiem-chung-217990.html)

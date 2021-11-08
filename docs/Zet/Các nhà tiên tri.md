@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/People/Baba Vanga
   - Zet/People/Abhigya Anand
   - Zet/People/Boriska Kipriyanovich
 backlinks:

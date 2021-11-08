@@ -5,6 +5,7 @@ backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/The Terrain Theory
+  - Zet/The Germ theory
   - Zet/Vaccination
   - Zet/People/Louis Pasteur
   - Zet/People/Edward Jenner
@@ -44,6 +45,6 @@ Cha đẻ của [[The Terrain Theory]]
 - Thuyết của ông trái ngược với [[Louis Pasteur]]
 - Thuyết của ông được [[Claude Bernard]] tiếp tục phát triển thêm
 
-## Relate to:
-- [Natures-Therapies](https://www.naturalhealthscience.com/article_Natures-Therapies_090624.php)
+## Reference:
+- [Nature's Therapies - The Germ Theory: The Traditional Naturopathic Perspective - Part II (naturalhealthscience.com)](https://www.naturalhealthscience.com/article_Natures-Therapies_090624.php)
 - [Thế kỷ 19 quây cố gắng nói với chúng ta điều gì đó về vi sinh vật (hitechglitz.com)](https://hitechglitz.com/vietnam/the-ky-19-quay-co-gang-noi-voi-chung-ta-dieu-gi-do-ve-vi-sinh-vat/)

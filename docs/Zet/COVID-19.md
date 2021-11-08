@@ -14,6 +14,7 @@ backlinks:
   - Zet/CDC
   - Zet/Vaccination
   - Zet/FDA
+  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
   - Zet/WHO
 title: COVID 19
 UID: 2107101155

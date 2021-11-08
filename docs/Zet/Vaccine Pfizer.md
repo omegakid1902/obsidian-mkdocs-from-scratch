@@ -11,9 +11,9 @@ backlinks:
 title: Vaccine Pfizer
 UID: P-210710-1124
 tags:
-  - '#created/2021/Jul/10'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jul/10'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Vaccine Pfizer
   - Pfizer-BioNTech

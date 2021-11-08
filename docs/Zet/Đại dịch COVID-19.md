@@ -13,12 +13,12 @@ outgoing_links:
   - Zet/Chemtrails
   - Zet/Vaccine
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
-  - Zet/Mafia y tế
   - Zet/FDA
   - Zet/CDC
   - Zet/WHO
   - Zet/Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ
   - Zet/People/Anthony Fauci
+  - Zet/People/Robert Wallace Malone
   - Zet/Real time PCR test
   - Zet/People/Kary B. Mullis
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
@@ -41,6 +41,7 @@ backlinks:
   - Zet/Chemtrails
   - Zet/Coronavirus
   - Zet/COVID-19
+  - Zet/People/Robert Wallace Malone
 title: Đại dịch COVID-19
 tags:
   - 'created/2021/Jul/10'
@@ -51,6 +52,7 @@ publish: True
 # Đại dịch COVID-19
 
 ## Các khái niệm:
+
 [[SARS-COV-2]] là tên gọi [[Virus]] gây ra đại dịch.
 
 [[COVID-19]] là tên gọi loại bệnh do virus SARS-COV-2 gây ra
@@ -64,8 +66,7 @@ publish: True
 
 ## Các kiến thức cơ bản:
 - Nguồn gốc vi khuẩn và virus: 
-	- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
-	- Ai mới là người đúng?
+	- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]: Ai mới là người đúng?
 	- [[Louis Pasteur]] đã không thể chứng minh được lý thuyết của ông đúng. Cuối đời, trước khi chết ông đã xác nhận [[The Terrain Theory]] của [[Antoine Beauchamp]] chính xác: "Môi trường là tất cả, vi trùng không là gì cả!"
 		- Nếu Pasteur chứng minh được, thì tại sao ông phải nói vậy trước khi chết!? #todo/evidence 
 	- Giải thích cách lây nhiễm bằng thuyết Bechamp như thế nào: [[Chemtrails]], sóng điện từ [[Mạng 5G]] và cả [[Vaccine]]!?
@@ -73,7 +74,6 @@ publish: True
 - Cần xem lại sự chính xác của nguồn gốc vi khuẩn và virus qua quyển sách [[@ Thomas S. Cowan, The Contagion Myth]]
 	- Tóm tắt sách [[Tóm tắt sách truyền thuyết về sự lây nhiễm|ở đây]]
 		- Mối liên quan [[Mạng 5G]] và sự bùng nổ [[Đại dịch COVID-19]] toàn cầu.
-        - [[Mafia y tế]]
 
 ## Thông tin/sự kiện:
 - Các cơ quan y tế [[Hoa Kỳ]] liên quan mật thiết đến các vấn đề đại dịch và [[Vaccine]] toàn cầu:
@@ -145,6 +145,8 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 
 ## Sự dối trá của khoa học dưới chính trị
 - [[Khoa học và các cú mị dân]]
+- Một kịch bản diễn lại mấy lần, từng xảy ra với [[Đại dịch H5N1]]: [Đằng sau chiến dịch "đầu độc dư luận" - Tuổi Trẻ Online (tuoitre.vn)](https://tuoitre.vn/dang-sau-chien-dich-dau-doc-du-luan-358180.htm)
+- [Báo Cáo Tử Vong Do Vắc Xin Covid-19 – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/11/03/ban-bao-cao-tu-vong-do-vac-xin-covid-19/)
 
 ## Kiểm soát dân số
 - [[Eugenics|Thuyết ưu sinh]]

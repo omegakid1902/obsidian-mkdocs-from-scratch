@@ -5,6 +5,7 @@ backlinks:
   - Zet/Ba Chân lý của thông thiên học
   - Zet/Hội thông thiên học
   - Zet/Akashic records
+  - Zet/Thế giới tâm linh
 title: Thông thiên học
 UID: 211026234316
 created: 26-Oct-2021

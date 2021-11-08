@@ -7,18 +7,16 @@ backlinks:
 title: Các chế độ nhịn ăn
 UID: 210903083839
 tags:
-  - '#created/2021/Sep/03'
-  - '#garden🏡'
-aliases:
-  -
+  - 'created/2021/Sep/03'
+  - 'garden🏡'
 publish: True
 ---
 # Các chế độ nhịn ăn
 
 ## Notes:
-[[Intermittent Fasting]]
-[[Chế độ Eat-Stop-Eat]]
-[[Chế độ ăn 5-2]]
+- [[Intermittent Fasting]]
+- [[Chế độ Eat-Stop-Eat]]
+- [[Chế độ ăn 5-2]]
 
 Ảnh hưởng của chế độ nhịn ăn lên tế bào và chất
 - Mức độ [[Hormone tăng trưởng]] sản sinh ra nhiều hơn gấp 5 lần
@@ -33,13 +31,12 @@ Lợi ích đối với sức khỏe:
 - [[Chống lão hóa]]
 
 FAQ
-[[Bỏ bữa sáng cũng là một dạng chế độ nhịn ăn]]
-[[Có thể uống nước, trà, cà phê trong khi nhịn ăn]]
-[[Nhịn ăn trong thời gian ngắn giúp tăng kích thích trao đổi chất]]
-[[❕ Intermittent Fasting 16-8 được xem là chế độ nhịn ăn đơn giản và bền vững để thực hiện]]
-[[❕ Bạn có thể bỏ bất kỳ một bữa nào đó cũng là cách đơn giản nhất để thực hiện chế độ nhịn ăn]]
+- [[Bỏ bữa sáng cũng là một dạng chế độ nhịn ăn]]
+- [[Có thể uống nước, trà, cà phê trong khi nhịn ăn]]
+- [[Nhịn ăn trong thời gian ngắn giúp tăng kích thích trao đổi chất]]
+- [[❕ Intermittent Fasting 16-8 được xem là chế độ nhịn ăn đơn giản và bền vững để thực hiện]]
+- [[❕ Bạn có thể bỏ bất kỳ một bữa nào đó cũng là cách đơn giản nhất để thực hiện chế độ nhịn ăn]]
 
 ## Tham khảo:
 - [[Health]]
-
-https://www.healthline.com/nutrition/intermittent-fasting-guide
+- [Intermittent Fasting 101 — The Ultimate Beginner's Guide (healthline.com)](https://www.healthline.com/nutrition/intermittent-fasting-guide)

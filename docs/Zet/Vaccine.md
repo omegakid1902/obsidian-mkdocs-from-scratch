@@ -14,6 +14,7 @@ backlinks:
   - Zet/Vaccination
   - Zet/FDA
   - Zet/Khoa học và các cú mị dân
+  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
   - Zet/People/Bill Gates
   - Zet/People/Edward Jenner
 title: Vaccine

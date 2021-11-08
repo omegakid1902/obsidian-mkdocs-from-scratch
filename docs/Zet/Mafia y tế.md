@@ -4,8 +4,6 @@ outgoing_links:
   - Zet/COVID-19
   - Zet/People/Bill Gates
 backlinks:
-  - Zet/Đại dịch COVID-19
-  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Kênh youtube giáo dục tự do 1
 title: Mafia y tế
 UID: 211004214109

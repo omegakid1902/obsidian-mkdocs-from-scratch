@@ -8,6 +8,7 @@ outgoing_links:
   - Zet/Real time PCR test là một trò bịp của Big Pharma
 backlinks:
   - Zet/Đại dịch COVID-19
+  - Zet/The Terrain Theory
   - Zet/Real time PCR test là một trò bịp của Big Pharma
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/Khoa học và các cú mị dân

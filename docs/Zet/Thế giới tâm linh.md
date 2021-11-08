@@ -1,9 +1,11 @@
 ---
 outgoing_links:
+  - Zet/Thông thiên học
   - Zet/Thức tỉnh tâm linh
   - Zet/Khủng hoảng hiện sinh
   - Zet/Luân xa
   - Zet/Các nhà tiên tri
+  - Zet/People/Baba Vanga
   - Zet/People/Abhigya Anand
   - Zet/People/Boriska Kipriyanovich
 title: Thế giới tâm linh
@@ -18,9 +20,11 @@ publish: True
 # Thế giới tâm linh
 
 ## Notes:
+Thế giới tâm linh là một dạng thức của tôn giáo, nơi mà người ta đi theo tiếng lòng bên trong, hiểu về bản thân và tiếp nhận vũ trụ. Tôn giáo là nơi ta đi theo một lãnh tụ tôn giáo, một dạng thức cao hơn của nhà nước.
 
 ### Self
 
+- [[Thông thiên học]]
 - [[Thức tỉnh tâm linh]]
 - [[Khủng hoảng hiện sinh]]
 - [[Luân xa]]

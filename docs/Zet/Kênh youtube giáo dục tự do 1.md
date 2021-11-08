@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Mafia y tế
 backlinks:
   - Zet/Các kênh thông tin trái chiều
+  - Zet/The Terrain Theory
 title: Kênh youtube giáo dục tự do 1
 UID: 211004220513
 created: 04-Oct-2021
@@ -22,9 +23,4 @@ publish: True
 
 ## Ideas & thoughts:
 - Bệnh tiểu đường chữa trị đơn giản, [[Mafia y tế]] làm cho bệnh tiểu đường làm người bệnh hoang mang, càng uống thuốc. Chỉ cần thay đổi cách ăn uống và lối sống.
-- [[John D. Rockefeller]] ông trùm dâù hỏa
-
-## Questions:
-
-## Relate to:
-- [[Mafia y tế]]
+- [[John D. Rockefeller]] ông trùm dâù hỏa.
