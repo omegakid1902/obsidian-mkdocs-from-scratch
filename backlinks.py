@@ -206,7 +206,8 @@ for base_docs_url in base_docs_urls:
                page_url = os.path.join(root, file)
                # print(f'--debug: Scan File: {page_url}')
                with open(os.path.join(root, file), encoding="utf-8") as f:
-                   try markdown = f.read():
+                   try:
+                       markdown = f.read()
                        markdown = re.sub(ROAMLINK_RE,
                                 RoamLinkDetect(base_docs_url, page_url), markdown)
                    except:
