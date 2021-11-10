@@ -293,11 +293,12 @@ for root, dirs, files in os.walk(base_docs_url):
                 except:
                     continue
             try:
-                if not content[0].startswith("---"):
-                    content.insert(0, "---")
-                    content.insert(1, "---")
+                if not content[0].startswith("---\n"):
+                    content.insert(0, "---\n")
+                    content.insert(1, "---\n")
             except:
-                continue
+                content.insert(0, "---\n")
+                content.insert(1, "---\n")
 
             if range(len(nodes[file_name_strip]["backlinks"])):
                 content.insert(1, "backlinks:\n")
