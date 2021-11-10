@@ -5,6 +5,8 @@ outgoing_links:
   - Zet/People/Donald J. Trump
   - Zet/Khazars
   - Zet/Atlantis
+  - Zet/Tháp Mentmore
+  - Zet/Black nobility
   - Zet/People/Helena Blavatsky
   - Zet/Vril
   - Zet/Akashic records
@@ -13,7 +15,9 @@ outgoing_links:
   - Zet/People/Nicola Tesla
   - Zet/People/Plato
   - Zet/Plato có nói về Atlantis
+  - Zet/Anunnaki
   - Zet/Crop Circle
+  - Zet/People/Ignatius of Loyola
   - Zet/Dòng Tên
   - Zet/People/Đức Giáo Hoàng
   - Zet/Eugenics
@@ -22,6 +26,7 @@ backlinks:
   - Zet/Vril
   - Zet/Khazars
   - Zet/Plato có nói về Atlantis
+  - Zet/Tháp Mentmore
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Helena Blavatsky
   - Zet/People/Plato

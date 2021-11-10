@@ -33,7 +33,6 @@ Antoine Beauchamp
 
 Cha đẻ của [[The Terrain Theory]]
 
-
 ### Tuyên bố của Bechamp
 > “Germs seek their natural habitat – diseased tissue – rather than being the cause of diseased tissue.”
 

@@ -12,12 +12,3 @@
 - [[Thời gian dịch các sách trong Bản bảy mươi]]
 - [[Cựu Ước Bản bảy mươi được dịch bởi 70 hoặc 72 học giả]]
 
-## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[@ wiki, Bản bảy mươi]]
-sort file.name asc
-```

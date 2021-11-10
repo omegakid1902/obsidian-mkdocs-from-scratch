@@ -1,6 +1,10 @@
 ---
+outgoing_links:
+  - Zet/Ngôn ngữ Yiddish
 backlinks:
   - Zet/Lịch Sử Do Thái
+  - Zet/Do Thái Giáo
+  - Zet/Ngôn ngữ Yiddish
   - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Người Do Thái Ashkenazi
 created: Jun 19, 2021 7:14 AM

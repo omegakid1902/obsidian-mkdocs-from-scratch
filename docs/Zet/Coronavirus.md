@@ -26,15 +26,18 @@ Coronavirus là tên gọi một nhóm Virus thuộc phân họ Coronavirinae tr
 
 Coronavirus gây bệnh ở các loài động vật có vú trong đó có người.
 
-Phân họ Coronavirus bao gồm 4 chi
+Phân họ Coronavirus bao gồm 4 chi:
+
 - [[Alpha-Coronavirus]]
 - [[Beta-Coronavirus]]
 - Gamma Coronavirus
 - Delta Coronavirus
 
 Chỉ có 2 chi Alpha và Beta là lây bệnh cho người. Hiện nay, người ta phát hiện ra tổng cộng 7 loại coronavirus thuộc 2 chi này
+
 - Alpha Coronavirus: HCoV-229E và HCoV-NL63.
 - Beta Coronavirus: [[HCoV-HKU1]], [[HCoV-OC43]], [[SARS-CoV]], [[SARS-COV-2]], [[MERS-CoV]]
+
 các virus gần đây [[SARS-CoV]] (2003) gây [[Đại dịch SARS 2003]], MERS-CoV và gần đây nhất là [[SARS-COV-2]] [[Đại dịch COVID-19]].
 
 Bộ gen của Coronavirus mã hóa được bốn hoặc 5 loại protein cấu trúc S, M, N, HE và E.

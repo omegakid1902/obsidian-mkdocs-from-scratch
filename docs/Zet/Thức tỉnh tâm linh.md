@@ -7,8 +7,10 @@ outgoing_links:
 backlinks:
   - Zet/Khủng hoảng hiện sinh
   - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
+  - Zet/Trung thế giới
   - Zet/Thế giới tâm linh
   - Zet/Hạ thế giới
+  - Zet/Starseed
   - Zet/Bóng tối linh hồn
 title: Thức tỉnh tâm linh
 UID: 211017225545

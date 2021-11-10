@@ -29,7 +29,7 @@ publish: True
 
 The Zettelkasten là một từ trong tiếng Đức, có nghĩa là ngăn kéo trượt. Nó giống như các tủ đựng thẻ ghi đầu sách trong thư viện. Nghĩa tiếng Anh là [[Slipbox]]. The Zettelkasten là nơi lưu trữ tất cả các ghi chú của bạn. Bạn có thể dùng giấy viết và ngăn kéo trượt thủ công thực sự để bảo quản thẻ ghi chú giống như Luhman đã làm. Phương pháp này được sáng tạo bởi [[Niklas Luhmann]].
 
-Phương pháp Zettelkasten là một hệ thống quản lý tri thức [[Knowledge Management]]. Hoặc phát triển lên tầm xa hơn nữa thì nó còn được gọi là bộ não thứ 2 ([[The Second Brain]] )
+Phương pháp Zettelkasten là một hệ thống quản lý tri thức [[Knowledge Management]]. Hoặc phát triển lên tầm xa hơn nữa thì nó còn được gọi là bộ não thứ 2 ([[The Second Brain]])
 
 ### Ba phần chính của một hệ thống Zettelkasten
 - Zettelkasten hay còn gọi là Slipbox
@@ -44,6 +44,7 @@ Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian
 - [[Sample of Generate Liturature note]]
 
 ### Tài liệu tham khảo:
+- [[Zettelkasten Workflow]]
 - [[@ Sönke Ahrens, How to take smart notes]]
 - [Zettelkasten note-taking in 10 minutes · Tomas Vik](https://blog.viktomas.com/posts/slip-box/)
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 

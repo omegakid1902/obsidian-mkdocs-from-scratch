@@ -18,6 +18,7 @@ publish: True
 
 ## Notes:
 Nguyên tắc được [[Heinrich Hermann Robert Koch]] để xác định một loại vi khuẩn có liên quan tới một loại bệnh cụ thể nào đó không. Các nguyên tắc này được nhắc đến trong [[@ Thomas S. Cowan, The Contagion Myth, Ch01]]
+
 1. Vi sinh vật phải được tìm thấy nhiều trong tất cả các sinh vật bị bệnh nhưng không có ở sinh vật khỏe mạnh
 2. Vi sinh vật phải được phân lập từ sinh vật bị bệnh và nuôi cấy thuần chủng.
 > Question: điều này nghĩa là sinh vật đó phải sống một cách độc lập với sinh vật bị bệnh, tự phát triển không thông qua vật chủ !?

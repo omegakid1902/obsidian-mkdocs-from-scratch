@@ -1,8 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Việt Nam Cộng Hòa
   - Zet/Bảo Đại
 backlinks:
   - Zet/Lịch Sử Việt Nam
+  - Zet/Việt Nam Cộng Hòa
 title: Ngô Đình Diệm
 UID: 
 created: 12-Dec-2021

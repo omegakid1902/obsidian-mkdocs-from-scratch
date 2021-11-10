@@ -14,7 +14,6 @@ outgoing_links:
   - Zet/People/Đổng Trác
   - Zet/People/Võ Tắc Thiên
 backlinks:
-  - Zet/index
   - Zet/Lịch sử
 title: Lịch sử Trung Quốc
 UID: 

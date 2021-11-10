@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Công Giáo
+  - Zet/Anh giáo
   - Zet/Chính thống giáo Đông Phương
   - Zet/Tin Lành
   - Zet/Hồi Giáo

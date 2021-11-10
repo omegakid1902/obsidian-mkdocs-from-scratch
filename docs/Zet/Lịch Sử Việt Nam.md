@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Văn Lang
   - Zet/Âu Lạc
   - Zet/Nhà Ngô
   - Zet/Nhà Lý
@@ -9,6 +10,7 @@ outgoing_links:
   - Zet/Thời Lê trung hưng
   - Zet/Nhà Tây Sơn
   - Zet/Nhà Nguyễn
+  - Zet/Việt Nam Cộng Hòa
   - Zet/An Dương Vương
   - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Trần Thủ Độ
@@ -21,7 +23,6 @@ outgoing_links:
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
 backlinks:
-  - Zet/index
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
   - Zet/Lịch sử
 title: Lịch Sử Việt Nam

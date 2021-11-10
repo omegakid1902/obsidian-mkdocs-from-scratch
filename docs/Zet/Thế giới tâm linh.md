@@ -32,6 +32,7 @@ Thế giới tâm linh là một dạng thức của tôn giáo, nơi mà ngư�
 ### The World
 
 [[Các nhà tiên tri]]
+
 - [[Baba Vanga]]
 - [[Dato Anthony Cheng]]
 - [[Abhigya Anand]]

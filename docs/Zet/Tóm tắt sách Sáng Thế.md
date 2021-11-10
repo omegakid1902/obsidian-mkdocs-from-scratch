@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/God
   - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 backlinks:
   - Zet/Cựu Ước
@@ -15,7 +16,7 @@ publish: True
 # Tóm tắt sách Sáng Thế
 
 ## Notes:
-Mở đầu cựu ước là sách [[Genesis|Sáng Thế]], [[Thiên Chúa]] tạo dựng trời đất cỏ cây trong bảy ngày.
+Mở đầu cựu ước là sách [[Genesis|Sáng Thế]], [[God]] tạo dựng trời đất cỏ cây trong bảy ngày.
 
 Sau đó Thiên Chúa tạo dựng [[Adam]] và [[Eva]] theo hình ảnh người để sống trong đó. Thiên Chúa cho Adam và Eva tự do làm mọi việc trong vung đất gọi là [[Vườn địa đàng]]. Tuy nhiên, chỉ có một thứ mà hai ông bà không được làm đó là ăn trái cây biết mọi sự, hay còn gọi là [[Trái cấm]]. 
 

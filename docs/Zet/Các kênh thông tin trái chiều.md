@@ -41,7 +41,7 @@ publish: True
 - [60 Minutes Australia](https://www.youtube.com/channel/UC0L1suV8pVgO4pCAIBNGx5w)
 - [nhanchuorg.blogspot.com](http://nhanchuorg.blogspot.com/2014/10/nghi-trinh-21-agenda-21-la-gi.html)
 - [Tin tức thời sự 24h, tin nhanh, tin mới - Chuyện tâm linh, bí ẩn, cuộc sống (tinhhoa.us)](https://tinhhoa.us/)
-
+- [KHOA HỌC - Phúc Nguyễn Blog (phucnguyenblog.com)](https://phucnguyenblog.com/khoa-hoc/)
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)

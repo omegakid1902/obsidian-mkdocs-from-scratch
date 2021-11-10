@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Tôn giáo nhị nguyên
 title: Zarathustra
 UID: 211023222549
 tags:
@@ -17,4 +19,5 @@ publish: True
 Zarathustra, hay Zoroaster, là một [[tiên tri]] [[Ba Tư]] cổ đại. Ông là người sáng lập ra [[Hỏa giáo]]
 
 ![[Pasted image 20211023222946.png]]
+
 ## Ideas & thoughts:

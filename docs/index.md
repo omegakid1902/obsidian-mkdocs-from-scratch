@@ -1,7 +1,5 @@
 ---
 title: Trang chủ
-tags:
-  - pages
 publish: true
 ---
 # Trang chủ

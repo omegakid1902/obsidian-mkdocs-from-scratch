@@ -39,5 +39,3 @@ Rivers đã loại bỏ định đề đầu tiên của Koch
 ## Ideas & thoughts:
 - Phát triển dựa trên [[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]] của [[Heinrich Hermann Robert Koch]]
 
-## Questions:
-

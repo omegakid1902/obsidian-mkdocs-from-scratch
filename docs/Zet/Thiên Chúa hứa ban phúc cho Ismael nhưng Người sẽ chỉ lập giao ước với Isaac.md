@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/God
   - Zet/People/Ismael
 backlinks:
   - Zet/Tóm tắt sách Sáng Thế
@@ -16,7 +17,7 @@ publish: True
 # Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 
 ## Notes:
-[[Thiên Chúa]] hứa ban phúc cho [[Ismael]] nhưng Người sẽ chỉ lập giao ước với [[Isaac]] [^1]
+[[God]] hứa ban phúc cho [[Ismael]] nhưng Người sẽ chỉ lập giao ước với [[Isaac]] [^1]
 
 ## Ideas & thoughts:
 - [[Abraham]]

@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/People/Martin Luther
 backlinks:
   - Zet/God
+  - Zet/Kito Giáo
   - Zet/Religion
 title: Tin Lành
 UID: 201225213624

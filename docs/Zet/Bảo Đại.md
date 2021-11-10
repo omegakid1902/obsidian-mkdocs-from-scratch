@@ -26,7 +26,5 @@ Hoàng đế Bảo Đại (1913-1997), tên thật là Nguyễn Phúc Vĩnh Th�
 
 Bảo Đại là vị hoàng đế thứ 13, cũng là cuối cùng của [[Nhà Nguyễn]], cũng là hoàng đế cuối cùng của chế độ quân chủ trong lịch sử VN.
 
-## Questions & thoughts:
-
-## Related:
+## Ideas & thoughts:
 

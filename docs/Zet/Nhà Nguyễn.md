@@ -15,8 +15,6 @@ tags:
   - '#created/2021/Jul/15'
   - '#garden🏡'
   - '#permanent/nation'
-aliases:
-  - 
 publish: True
 ---
 # Nhà Nguyễn

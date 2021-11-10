@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/The Terrain Theory
+  - Zet/Giải Nobel
   - Zet/SARS-COV-2
   - Zet/MERS-CoV
   - Zet/People/Edward Jenner

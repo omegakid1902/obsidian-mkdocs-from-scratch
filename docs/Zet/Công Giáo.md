@@ -3,11 +3,16 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/People/Đức Giáo Hoàng
   - Zet/Cựu Ước
+  - Zet/Ngũ Kinh Cựu Ước
   - Zet/People/Thánh Phaolo
+  - Zet/Thập Tự Chinh
   - Zet/Chính thống giáo Đông Phương
+  - Zet/Anh giáo
   - Zet/Dòng Tên
 backlinks:
   - Zet/God
+  - Zet/Chúa Giáng Sinh
+  - Zet/Kito Giáo
   - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Chính thống giáo Đông Phương
   - Zet/Religion
@@ -40,19 +45,18 @@ publish: True
 - [[Tân Ước]]
 
 ### Các thánh
--[[Thánh Martino]]
--[[Thánh Phê Rô]]
--[[Thánh Phaolo]]
--[[Thánh Phanxico-Assisi]]
--[[Đức Maria]]
--[[Thánh Cả Giuse]]
+- [[Thánh Martino]]
+- [[Thánh Phê Rô]]
+- [[Thánh Phaolo]]
+- [[Thánh Phanxico-Assisi]]
+- [[Đức Maria]]
+- [[Thánh Cả Giuse]]
 
 ### Các thời kỳ lịch sử
-- 50 - 600 - [[Giáo Hội thời các Tông Đồ và các Giáo Phụ MOC]]
+- 50 - 600 - [[Giáo Hội thời các Tông Đồ và các Giáo Phụ]]
 	- [[Thánh Phê Rô]] Tông đồ cả của Chúa Giê su truyền giáo ở đế quốc La Mã
 	- [[Thánh Phaolo]] 
-- 600 - 1300 - [[Giáo Hội thời Trung cổ MOC]]
-- 
+- 600 - 1300 - [[Giáo Hội thời Trung cổ]]
 
 ## Relate to:
 - [[Thập Tự Chinh]]

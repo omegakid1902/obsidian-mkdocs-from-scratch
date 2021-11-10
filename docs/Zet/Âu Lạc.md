@@ -1,26 +1,27 @@
 ---
 outgoing_links:
   - Zet/An Dương Vương
+  - Zet/Văn Lang
 backlinks:
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Lịch Sử Việt Nam
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
-title: ~Âu Lạc
+title: Âu Lạc
 UID: P-210724-0921
 tags:
-  - '#created/2021/Jul/24'
-  - '#permanent/concept'
+  - 'created/2021/Jul/24'
+  - 'permanent/concept'
 aliases: [Âu Lạc]
 publish: True
 ---
 # Âu Lạc
 
 ## Notes
+[[An Dương Vương]]
 
-## Questions & thoughts:
-- [ ] Thời kỳ tiếp nối nhà nước [[Văn Lang]]
+Thời kỳ tiếp nối nhà nước [[Văn Lang]]
 
-## Related:
-- [[An Dương Vương]]
+## Ideas & thoughts:
+

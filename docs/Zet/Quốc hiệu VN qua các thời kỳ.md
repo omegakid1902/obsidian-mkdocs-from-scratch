@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Văn Lang
   - Zet/An Dương Vương
   - Zet/Âu Lạc
 backlinks:

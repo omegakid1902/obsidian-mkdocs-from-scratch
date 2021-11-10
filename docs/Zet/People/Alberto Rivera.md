@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Công Giáo
+  - Zet/Kito Giáo
   - Zet/Hồi Giáo
 backlinks:
   - Zet/Qmap

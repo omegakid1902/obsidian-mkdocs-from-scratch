@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Zidovudin
+  - Zet/People/Kary B. Mullis
 title: Anthony Fauci
 UID: 211014235000
 tags:

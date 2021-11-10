@@ -5,6 +5,7 @@ outgoing_links:
 backlinks:
   - Zet/Eugenics
   - Zet/Holocaust
+  - Zet/Do Thái Giáo
   - Zet/Khazars
   - Zet/Người Hebrew
   - Zet/People/Adolf Hitler

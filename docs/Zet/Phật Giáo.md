@@ -15,7 +15,6 @@ publish: True
 # Phật Giáo
 	
 ## Định nghĩa
-[[Phật Giáo]]
 Phật giáo là một tôn giáo cũng là một hệ thống các quan điểm triết học, tư tưởng về nhân sinh quan. Phật giáo được truyền bá dựa theo các lời dạy của đức phật [[Siddhartha Gautama]]
 
 ## Các nhánh phật giáo/ Tông phái
@@ -25,6 +24,7 @@ Phật giáo là một tôn giáo cũng là một hệ thống các quan điểm
 
 ## Giáo lý
 Giáo lý được tập trung trong [[Tam Tạng kinh thư]] bao gồm:
+
 - [[Kinh tạng]]
 - [[Luật tạng]]
 - [[Luận tạng]]

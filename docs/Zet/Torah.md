@@ -1,6 +1,11 @@
 ---
 outgoing_links:
   - Zet/Do Thái Giáo
+  - Zet/Năm sách trong Ngũ Kinh Cựu Ước
+backlinks:
+  - Zet/Ngũ Kinh Cựu Ước
+  - Zet/Thời gian dịch các sách trong Bản bảy mươi
+  - Zet/Do Thái Giáo
 title: Torah
 UID: 210731-1722
 created: 07-Oct-2021
@@ -13,10 +18,7 @@ publish: True
 # Torah
 
 ## Notes:
-
+Torah là bản kinh thánh chính của [[Do Thái Giáo]]. [[Torah tương đương với Cựu Ước của Kito giáo]]
 
 ## Ideas & thoughts:
--  Bản kinh thánh của [[Do Thái Giáo]]
 - [[Năm sách trong Ngũ Kinh Cựu Ước]]
-
-## Questions:

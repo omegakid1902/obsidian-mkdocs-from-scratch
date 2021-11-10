@@ -1,6 +1,11 @@
 ---
 outgoing_links:
   - Zet/Thức tỉnh tâm linh
+  - Zet/Trung thế giới
+  - Zet/Thượng thế giới
+  - Zet/Kito Giáo
+backlinks:
+  - Zet/Trung thế giới
 title: Hạ thế giới
 UID: 211019231001
 created: 19-Oct-2021
@@ -19,7 +24,8 @@ publish: True
 Hạ thế giới, Ukhu Pacha, là một cõi/không gian trong [[Thức tỉnh tâm linh|Phát triển tâm linh]], mục đích để khám phá linh hồn
 
 Các kỹ thuật để khám phá cõi này bao gồm[^1]
-- [[Soul work]]
+
+- [[Soulwork]]
 - [[Lucid dream]] giấc mơ sáng suốt
 - [[Shadow work]]
 
@@ -29,6 +35,6 @@ Các kỹ thuật để khám phá cõi này bao gồm[^1]
 - Các ngành khám phá Hạ thế giới:
 	- Triết học kỳ bí [[Hermeticism]]
 	- Giả kim thuật [[Alchemy]]
-- Khái niệm này tương đượng với [[Địa ngục]] trong [[Cơ Đốc giáo]].[^1]
+- Khái niệm này tương đượng với [[Địa ngục]] trong [[Kito Giáo]].[^1]
 
-[^1]: https://innermostselves.wordpress.com/2021/06/16/lam-the-nao-de-bat-dau-hanh-trinh-tam-linh-cua-ban/
+[^1]: [How Do I Start Soulwork? ⋆ LonerWolf](https://lonerwolf.com/how-do-i-start-soulwork/)
