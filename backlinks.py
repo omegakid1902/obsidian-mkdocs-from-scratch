@@ -204,11 +204,13 @@ for base_docs_url in base_docs_urls:
        for file in files:
            if file.endswith(".md"):
                page_url = os.path.join(root, file)
-               #print(f'--debug: Scan File: {page_url}')
+               # print(f'--debug: Scan File: {page_url}')
                with open(os.path.join(root, file), encoding="utf-8") as f:
-                   markdown = f.read()
-                   markdown = re.sub(ROAMLINK_RE,
-                             RoamLinkDetect(base_docs_url, page_url), markdown)
+                   try markdown = f.read():
+                       markdown = re.sub(ROAMLINK_RE,
+                                RoamLinkDetect(base_docs_url, page_url), markdown)
+                   except:
+                       print(f'--debug: Scan File: {page_url}')
 
 
 '''
