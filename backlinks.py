@@ -294,7 +294,7 @@ for root, dirs, files in os.walk(base_docs_url):
                     content.insert(0, "---")
                     content.insert(1, "---")
             except:
-                print("content")
+                continue
 
             if range(len(nodes[file_name_strip]["backlinks"])):
                 content.insert(1, "backlinks:\n")
@@ -308,7 +308,10 @@ for root, dirs, files in os.walk(base_docs_url):
 
             # print(content)
             for link_id in range(len(nodes[file_name_strip]["outgoing_links"])):
-                content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["outgoing_links"][link_id]]["url"].replace(".md", "") + "\n")
+                try:
+                    content.insert(link_id + 2, "  - " + nodes[nodes[file_name_strip]["outgoing_links"][link_id]]["url"].replace(".md", "") + "\n")
+                except:
+                    continue
             
             with open(os.path.join(root, file), 'w', encoding="utf-8") as f:
                 content = "".join(content)
