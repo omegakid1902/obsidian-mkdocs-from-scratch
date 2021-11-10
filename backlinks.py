@@ -288,7 +288,10 @@ for root, dirs, files in os.walk(base_docs_url):
             file_name_strip = os.path.basename(file).replace(".md", "")
             # print(file_name_strip)
             with open(os.path.join(root, file), 'r', encoding="utf-8") as f:
-                content = f.readlines()
+                try:
+                    content = f.readlines()
+                except:
+                    continue
             try:
                 if not content[0].startswith("---"):
                     content.insert(0, "---")
