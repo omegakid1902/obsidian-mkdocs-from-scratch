@@ -237,11 +237,11 @@ for node in nodes:
 
     for outgoing_idx in range(len(nodes[node]["outgoing_links"])):
  
-           target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
+        target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
         try:
-           nodes[target_node_name]['backlinks'].append(node)
+            nodes[target_node_name]['backlinks'].append(node)
         except KeyError:
-           print("KeyError")
+            print("KeyError")
 
 ## Insert Backlink at the end of md file
 if 0:
