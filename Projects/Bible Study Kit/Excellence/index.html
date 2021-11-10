@@ -69,11 +69,6 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
-        
-        <a href="#excellence" class="md-skip">
-          Skip to content
-        </a>
-      
     </div>
     <div data-md-component="announce">
       
@@ -436,80 +431,24 @@
               </div>
             
             
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    <div id="graph" style="background: darkseagreen; height: 300px; width: 300px; overflow: hidden; opacity:1; border-radius: 8px; border-style: outset;" scrolling="no" height="300px" width="300px">
-                      <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
-                      <script>
-                        const rootId = 0;
-                        const gData = {
-                          nodes: [
-                            
-                            
-                            {"id": 0, title: "", url: "https://omegakid1902.github.io/Zet/", collapsed: false, childLinks: [], group: 0}
-                            ],
-                          links: [
-                            
-                            
-                            { source: 0, target: 1, curvature: 0.5 }
-                          ]
-                        };
-                        // link parent/children
-                        const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
-                        gData.links.forEach(link => {
-                          nodesById[link.source].childLinks.push(link);
-                        });
-                        
-                        const getPrunedTree = () => {
-                          const visibleNodes = [];
-                          const visibleLinks = [];
-
-                          (function traverseTree(node = nodesById[rootId]) {
-                            visibleNodes.push(node);
-                            if (node.collapsed) return;
-                            visibleLinks.push(...node.childLinks);
-                            node.childLinks
-                              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
-                              .forEach(traverseTree);
-                          })(); // IIFE
-
-                          return { nodes: visibleNodes, links: visibleLinks };
-                        };
-
-                        const elem = document.getElementById('graph');
-                        const Graph = ForceGraph()(elem)
-                          .graphData(getPrunedTree())
-                          .onNodeHover(node => elem.style.cursor = node && node.childLinks.length ? 'pointer' : null)
-                          .onNodeRightClick(node => {
-                            if (node.childLinks.length) {
-                              node.collapsed = !node.collapsed; // toggle collapse state
-                              Graph.graphData(getPrunedTree());
-                            }
-                          })
-                          .onNodeClick(node => window.open(`${node.url}`, '_parent'))
-                          .nodeRelSize(4)
-                          .nodeLabel(node => `${node.title}`)
-                          .linkDirectionalParticles(1)
-                          .linkDirectionalParticleWidth(2.5)
-                          .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
-                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
-                      </script>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
                 
                 
-                <h1 id="excellence">Excellence</h1>
-<p>We are called to do our work with an authentic love for excellence. Jesus' work was superlative. Wherever he went, he amazed people. So is God's Creation. It's not junky or patched together. It is excellent, flowing out of abundant loving generosity.</p>
+                  <h1>Excellence</h1>
+                
+                <ul>
+<li>Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-12
+backlinks:</li>
+<li>Projects/Bible Study Kit/010 Faith MOC</li>
+<li>Projects/Bible Study Kit/Book Note</li>
+<li>Projects/Bible Study Kit/Note Example - Design</li>
+<li>Projects/Bible Study Kit/040 Productivity MOC
+---# Excellence
+We are called to do our work with an authentic love for excellence. Jesus' work was superlative. Wherever he went, he amazed people. So is God's Creation. It's not junky or patched together. It is excellent, flowing out of abundant loving generosity.</li>
+</ul>
 <blockquote>
 <p>The church's approach to an intelligent carpenter is usually confined to exhorting him to not be drunk and disorderly in his leisure hours and to come to church on Sunday. What the church should be telling him is this: that the very first demand that his religion makes upon him is that he should make good tables.
 – <em>Dorothy Sayers</em></p>

@@ -16,7 +16,7 @@
     
     
       
-        <title>Deuteronomy 18 - The Second Brain</title>
+        <title>Deut 18 - The Second Brain</title>
       
     
     
@@ -69,11 +69,6 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
-        
-        <a href="#deuteronomy-18" class="md-skip">
-          Skip to content
-        </a>
-      
     </div>
     <div data-md-component="announce">
       
@@ -101,7 +96,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Deuteronomy 18
+              Deut 18
             
           </span>
         </div>
@@ -436,79 +431,23 @@
               </div>
             
             
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    <div id="graph" style="background: darkseagreen; height: 300px; width: 300px; overflow: hidden; opacity:1; border-radius: 8px; border-style: outset;" scrolling="no" height="300px" width="300px">
-                      <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
-                      <script>
-                        const rootId = 0;
-                        const gData = {
-                          nodes: [
-                            
-                            
-                            {"id": 0, title: "", url: "https://omegakid1902.github.io/Zet/", collapsed: false, childLinks: [], group: 0}
-                            ],
-                          links: [
-                            
-                            
-                            { source: 0, target: 1, curvature: 0.5 }
-                          ]
-                        };
-                        // link parent/children
-                        const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
-                        gData.links.forEach(link => {
-                          nodesById[link.source].childLinks.push(link);
-                        });
-                        
-                        const getPrunedTree = () => {
-                          const visibleNodes = [];
-                          const visibleLinks = [];
-
-                          (function traverseTree(node = nodesById[rootId]) {
-                            visibleNodes.push(node);
-                            if (node.collapsed) return;
-                            visibleLinks.push(...node.childLinks);
-                            node.childLinks
-                              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
-                              .forEach(traverseTree);
-                          })(); // IIFE
-
-                          return { nodes: visibleNodes, links: visibleLinks };
-                        };
-
-                        const elem = document.getElementById('graph');
-                        const Graph = ForceGraph()(elem)
-                          .graphData(getPrunedTree())
-                          .onNodeHover(node => elem.style.cursor = node && node.childLinks.length ? 'pointer' : null)
-                          .onNodeRightClick(node => {
-                            if (node.childLinks.length) {
-                              node.collapsed = !node.collapsed; // toggle collapse state
-                              Graph.graphData(getPrunedTree());
-                            }
-                          })
-                          .onNodeClick(node => window.open(`${node.url}`, '_parent'))
-                          .nodeRelSize(4)
-                          .nodeLabel(node => `${node.title}`)
-                          .linkDirectionalParticles(1)
-                          .linkDirectionalParticleWidth(2.5)
-                          .centerAt(200, 60, 1) // Center at box size
-                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
-                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
-                      </script>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
                 
                 
-                <h1 id="deuteronomy-18">Deuteronomy 18</h1>
+                  <h1>Deut 18</h1>
+                
+                <ul>
+<li>Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-17</li>
+<li>Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy</li>
+<li>Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-19
+backlinks:</li>
+<li>Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-19</li>
+<li>Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-17
+---# Deuteronomy 18</li>
+</ul>
 <p><a href="../Deut-17/">← Deuteronomy 17</a> | <a href="../Deuteronomy/">Deuteronomy</a> | <a href="../Deut-19/">Deuteronomy 19 →</a></p>
 <hr />
 <h6 id="v1">v1</h6>
