@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/Công Giáo
-  - Zet/Kito Giáo
+  - Zet/Cơ Đốc Giáo
   - Zet/Hồi Giáo
 backlinks:
   - Zet/Qmap
@@ -18,7 +18,7 @@ publish: True
 # Alberto Rivera
 
 ## Notes:
-Alberto Rivera là một người chống [[Công Giáo]], ông có nhiều bằng chứng [[Thuyết âm mưu]] của tin mừng [[Kito Giáo]]
+Alberto Rivera là một người chống [[Công Giáo]], ông có nhiều bằng chứng [[Thuyết âm mưu]] của tin mừng [[Cơ Đốc Giáo]]
 
 Ông cho rằng [[Công Giáo]] có lỗi trong việc sinh ra các học thuyết [[Chủ nghĩa phát xít]], [[Chủ nghĩa Cộng sản]] và các vụ ám sát tổng thống.
 

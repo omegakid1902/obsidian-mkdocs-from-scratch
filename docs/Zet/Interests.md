@@ -28,7 +28,7 @@ Others: [[Posture MOC]] and [[Hormesis MOC]] and [[Breathing Exercises MOC]]. [[
 
 ### Philosophy 🤔 & Psychology 🧠; Spirituality 🙏 & Religion ㊪
 [[Triết học|Triết học]] 
-[[Stoicism - Chủ nghĩa khắc kỷ]] 
+[[Chủ nghĩa khắc kỷ]] 
 [[Religion]] 
 [[Psychology]]
 [[Self Improvement]]
@@ -115,7 +115,7 @@ For those that want to maintain an alphabetical "Map of Maps" list, here's an in
 	- [[Latin Language MOC]]
 - [[Văn học]]
 - [[Rhetoric MOC]]
-- [[Stoicism - Chủ nghĩa khắc kỷ]]
+- [[Chủ nghĩa khắc kỷ]]
 - [[Vocals MOC]]
 - [[Words MOC]]
 

@@ -6,19 +6,21 @@ outgoing_links:
   - Zet/Tin Lành
 backlinks:
   - Zet/God
+  - Zet/Hiệp sĩ Đền Thánh
   - Zet/Hạ thế giới
+  - Zet/Do Thái Giáo
   - Zet/People/Thánh Phaolo
   - Zet/People/Alberto Rivera
-title: Kito Giáo
+title: Cơ Đốc giáo
 tags:
   - 'created/2021/Jul/31'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:
-  - Cơ Đốc giáo
+  - Kito Giáo
 publish: True
 ---
-# Kito Giáo
+# Cơ Đốc giáo
 
 ## Notes:
 Kito Giáo là một tên gọi để chỉ một số tôn giáo tôn thờ Chúa Giêsu người Nadareth, người được gọi là Đấng Kito

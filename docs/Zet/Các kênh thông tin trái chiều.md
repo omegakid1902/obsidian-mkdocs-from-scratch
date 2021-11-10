@@ -5,12 +5,13 @@ outgoing_links:
   - Zet/Kênh youtube giáo dục tự do 1
   - Zet/COVID-19
   - Zet/Vaccine
+  - Zet/Hội Illuminati
   - Zet/Eugenics
 title: Các kênh thông tin trái chiều
 UID: 211005231658
 created: 05-Oct-2021
 tags:
-  - '#created/2021/Oct/05'
+  - 'created/2021/Oct/05'
   - 'garden🏡'
   - 'permanent/linking'
 publish: True
@@ -41,7 +42,7 @@ publish: True
 - [60 Minutes Australia](https://www.youtube.com/channel/UC0L1suV8pVgO4pCAIBNGx5w)
 - [nhanchuorg.blogspot.com](http://nhanchuorg.blogspot.com/2014/10/nghi-trinh-21-agenda-21-la-gi.html)
 - [Tin tức thời sự 24h, tin nhanh, tin mới - Chuyện tâm linh, bí ẩn, cuộc sống (tinhhoa.us)](https://tinhhoa.us/)
-- [KHOA HỌC - Phúc Nguyễn Blog (phucnguyenblog.com)](https://phucnguyenblog.com/khoa-hoc/)
+
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)

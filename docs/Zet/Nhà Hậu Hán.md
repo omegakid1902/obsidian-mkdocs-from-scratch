@@ -3,6 +3,7 @@ backlinks:
   - Zet/Xích Thố
   - Zet/People/Lã Bố
   - Zet/People/Đổng Trác
+  - Zet/People/Viên Thiệu
 title: Nhà Hậu Hán
 UID: 210822235104
 tags:
@@ -20,14 +21,3 @@ publish: True
 Nhà Hậu Hán hay còn gọi là Đông Hán, lập lên bởi [[Hán Quang Võ]]
 
 ## Ideas & thoughts:
-
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Nhà Hậu Hán]]
-sort file.name asc
-```

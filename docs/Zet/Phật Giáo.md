@@ -23,6 +23,7 @@ Phật giáo là một tôn giáo cũng là một hệ thống các quan điểm
 - [[Phật giáo Mật Tông]]
 
 ## Giáo lý
+
 Giáo lý được tập trung trong [[Tam Tạng kinh thư]] bao gồm:
 
 - [[Kinh tạng]]

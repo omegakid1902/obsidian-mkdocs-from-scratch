@@ -5,10 +5,8 @@ outgoing_links:
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Hưng Đạo
-  - Zet/People/Trần Liễu
 backlinks:
   - Zet/People/Thuận Thiên công chúa
-  - Zet/People/Trần Liễu
 title: Trần Liễu
 UID: 210902130250
 tags:
@@ -30,13 +28,3 @@ Năm 1237, vợ của ông là [[Thuận Thiên công chúa]] bị [[Trần Th�
 Trần Liễu là cha của [[Trần Hưng Đạo]], [[Trần Quốc Tung]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Trần Liễu]]
-sort file.name asc
-```

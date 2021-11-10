@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Người Do Thái Ashkenazi
+  - Zet/People/Theodor Herzl
   - Zet/Holocaust
   - Zet/People/Adolf Hitler
 backlinks:

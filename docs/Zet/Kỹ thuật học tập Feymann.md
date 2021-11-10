@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Richard Feymann
 backlinks:
   - Zet/Self Improvement
 title: Kỹ thuật học tập Feymann

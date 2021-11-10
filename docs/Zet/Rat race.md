@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/People/Albert Camus
   - Zet/Self Improvement
 backlinks:
   - Zet/Thức tỉnh tâm linh

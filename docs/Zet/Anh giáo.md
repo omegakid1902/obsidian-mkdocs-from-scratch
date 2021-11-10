@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/People/Đức Giáo Hoàng
 backlinks:
   - Zet/Công Giáo
-  - Zet/Kito Giáo
+  - Zet/Cơ Đốc Giáo
   - Zet/Religion
   - Zet/Cải Cách Kháng Nghị
 title: Anh giáo

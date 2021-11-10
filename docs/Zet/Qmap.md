@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Lucifer
   - Zet/People/Donald J. Trump
   - Zet/Khazars
+  - Zet/Hiệp sĩ Đền Thánh
   - Zet/Atlantis
   - Zet/Tháp Mentmore
   - Zet/Black nobility
@@ -74,7 +75,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[@ Aldous Huxley, Brave New World]]
 - [[Henry Ford]]
 - [[Israel]]
-- [[Knights Templar]]
+- [[Hiệp sĩ Đền Thánh]]
 - [[Mahattan Project]]
 - [[Hiroshima và Nagasaki]]
 - [[The Cold War]]

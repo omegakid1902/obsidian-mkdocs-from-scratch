@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Pythagoras
 backlinks:
   - Zet/Interests
 title: Toán học

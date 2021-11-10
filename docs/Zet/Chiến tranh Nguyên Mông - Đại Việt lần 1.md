@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Mông Kha
   - Zet/Nhà Trần
   - Zet/People/Trần Thủ Độ
   - Zet/Vườn không nhà trống

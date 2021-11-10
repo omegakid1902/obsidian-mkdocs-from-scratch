@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Kito Giáo
+  - Zet/Cơ Đốc Giáo
   - Zet/Công Giáo
   - Zet/Tin Lành
   - Zet/Chính thống giáo Đông Phương
@@ -13,6 +13,7 @@ backlinks:
   - Zet/Cựu Ước
   - Zet/People/Thánh Phaolo
   - Zet/People/Đức Jesus
+  - Zet/People/Thánh Justino
 title: God
 UID: 211107214433
 created: 07-Nov-2021
@@ -33,7 +34,8 @@ publish: True
 
 ## Notes:
 God tương đương với các định nghĩa
-  - Thiên Chúa trong [[Kito Giáo]] bao gồm [[Công Giáo]], [[Tin Lành]], [[Chính thống giáo Đông Phương]]
+
+  - Thiên Chúa trong [[Cơ Đốc Giáo]] bao gồm [[Công Giáo]], [[Tin Lành]], [[Chính thống giáo Đông Phương]]
   - Alah trong [[Hồi Giáo]]
   - Chúa
   - Thần

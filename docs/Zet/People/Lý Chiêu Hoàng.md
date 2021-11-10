@@ -3,11 +3,14 @@ outgoing_links:
   - Zet/Nhà Lý
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Cảnh
+  - Zet/People/Lý Huệ Tông
 backlinks:
   - Zet/Nhà Trần
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
   - Zet/Lịch Sử Việt Nam
   - Zet/People/Thuận Thiên công chúa
+  - Zet/People/Lý Huệ Tông
+  - Zet/People/Linh Từ Quốc mẫu
 title: Lý Chiêu Hoàng
 UID:  P-210708-2317
 tags:
@@ -29,13 +32,3 @@ Lý Chiêu Hoàng (1218-1278) là hoàng đế cuối cùng của [[Nhà Lý]]. 
 Lý Chiêu Hoàng có [[Các tên gọi của vua Lý Chiêu Hoàng|nhiều tên gọi khác nhau]].
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Lý Chiêu Hoàng]]
-sort file.name asc
-```

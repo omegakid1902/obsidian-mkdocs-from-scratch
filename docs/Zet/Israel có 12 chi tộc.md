@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
 title: Israel có 12 chi tộc
 UID: 211029235040
 created: 29-Oct-2021
@@ -16,6 +18,5 @@ publish: True
 Các bộ lạc bao gồm: Judah, Issachar, Zebulun, Reuben, Simeon, Gad, Dan, Asher, Naphtali, Benjamin, Ephraim, Manasseh.
 
 ## Ideas & thoughts:
-
-[[💥 Từ Jew để chỉ chi tộc Judah]]
+- [[💥 Từ Jew để chỉ chi tộc Judah]]
 

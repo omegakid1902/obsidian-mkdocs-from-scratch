@@ -5,6 +5,7 @@ outgoing_links:
 backlinks:
   - Zet/Lịch Sử Việt Nam
   - Zet/Việt Nam Cộng Hòa
+  - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
 title: Ngô Đình Diệm
 UID: 
 created: 12-Dec-2021

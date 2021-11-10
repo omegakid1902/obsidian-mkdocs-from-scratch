@@ -2,6 +2,8 @@
 backlinks:
   - Zet/Nhà Trần
   - Zet/Lịch Sử Việt Nam
+  - Zet/People/Lý Huệ Tông
+  - Zet/People/Linh Từ Quốc mẫu
   - Zet/People/Trần Thủ Độ
   - Zet/People/Lý Chiêu Hoàng
 publish: True

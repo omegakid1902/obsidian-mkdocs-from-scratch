@@ -12,12 +12,13 @@ outgoing_links:
 backlinks:
   - Zet/God
   - Zet/Chúa Giáng Sinh
-  - Zet/Kito Giáo
+  - Zet/Cơ Đốc Giáo
   - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Chính thống giáo Đông Phương
   - Zet/Religion
   - Zet/Hồi Giáo
   - Zet/Cải Cách Kháng Nghị
+  - Zet/Đại ly giáo Đông Tây
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Alberto Rivera
 title: Công Giáo

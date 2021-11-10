@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
   - Zet/Người Do Thái Ashkenazi
 title: ❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 UID: 211030150807

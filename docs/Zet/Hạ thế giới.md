@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/Thức tỉnh tâm linh
   - Zet/Trung thế giới
   - Zet/Thượng thế giới
-  - Zet/Kito Giáo
+  - Zet/Cơ Đốc Giáo
 backlinks:
   - Zet/Trung thế giới
 title: Hạ thế giới
@@ -35,6 +35,6 @@ Các kỹ thuật để khám phá cõi này bao gồm[^1]
 - Các ngành khám phá Hạ thế giới:
 	- Triết học kỳ bí [[Hermeticism]]
 	- Giả kim thuật [[Alchemy]]
-- Khái niệm này tương đượng với [[Địa ngục]] trong [[Kito Giáo]].[^1]
+- Khái niệm này tương đượng với [[Địa ngục]] trong [[Cơ Đốc Giáo]].[^1]
 
 [^1]: [How Do I Start Soulwork? ⋆ LonerWolf](https://lonerwolf.com/how-do-i-start-soulwork/)

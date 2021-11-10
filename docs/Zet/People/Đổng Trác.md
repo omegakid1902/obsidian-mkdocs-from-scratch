@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Nhà Hậu Hán
+  - Zet/People/Viên Thiệu
 backlinks:
   - Zet/Xích Thố
   - Zet/Lịch sử Trung Quốc
@@ -11,8 +12,6 @@ tags:
   - '#created/2021/Aug/28'
   - '#seed🥜'
   - '#permanent/people'
-aliases:
-  - 
 publish: True
 ---
 # Đổng Trác

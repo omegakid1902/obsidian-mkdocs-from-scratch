@@ -11,8 +11,12 @@ outgoing_links:
   - Zet/People/Đế Thuấn
   - Zet/People/Hạ Vũ
   - Zet/People/Tần Thủy Hoàng
+  - Zet/People/Thương Ưởng
   - Zet/People/Đổng Trác
+  - Zet/People/Viên Thiệu
+  - Zet/People/Lưu Bị
   - Zet/People/Võ Tắc Thiên
+  - Zet/People/Lý Thế Dân
 backlinks:
   - Zet/Lịch sử
 title: Lịch sử Trung Quốc

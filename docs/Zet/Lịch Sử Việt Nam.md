@@ -12,11 +12,15 @@ outgoing_links:
   - Zet/Nhà Nguyễn
   - Zet/Việt Nam Cộng Hòa
   - Zet/An Dương Vương
+  - Zet/People/Nguyễn Bặc
   - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Hưng Đạo
   - Zet/People/Trần Quang Khải
+  - Zet/People/Ngô Sĩ Liên
   - Zet/People/Nguyễn Hoàng
+  - Zet/People/Trịnh Kiểm
+  - Zet/People/Nguyễn Huệ
   - Zet/Bảo Đại
   - Zet/People/Trần Trọng Kim
   - Zet/Ngô Đình Diệm

@@ -9,6 +9,7 @@ backlinks:
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/NESARA
   - Zet/Tháp Wardenclyffe
+  - Zet/People/Albert Einstein
 title: Nicola Tesla
 UID: 211011224701
 tags:

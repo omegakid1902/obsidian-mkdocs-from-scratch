@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Albert Camus
 title: Jean Paul Sartre
 created: Nov 07, 2020 11:14 PM
 tags:

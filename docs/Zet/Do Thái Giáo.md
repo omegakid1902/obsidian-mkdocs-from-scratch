@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Người Do Thái Ashkenazi
   - Zet/God
   - Zet/People/Đức Jesus
+  - Zet/Cơ Đốc Giáo
 backlinks:
   - Zet/Ngũ Kinh Cựu Ước
   - Zet/Torah
@@ -22,7 +23,7 @@ publish: True
 # Do Thái Giáo
 
 ## Notes:
-Do Thái Giáo là một tôn giáo cổ ở Trung Đông có nguồn gốc từ [[Abraham]]. Do Thái giáo dựa trên quyển kinh [[Torah]]. Do Thái giáo là tôn giáo của người Do Thái, nó vừa mang nghĩa tôn giáo, vừa mang tính dân tộc.
+Do Thái Giáo là một tôn giáo cổ ở Trung Đông có nguồn gốc từ [[Abraham]]. Do Thái giáo dựa trên quyển kinh [[Torah]]. Do Thái giáo là tôn giáo của người Do Thái, nó vừa mang nghĩa tôn giáo, vừa mang tính dân tộc. Do Thái Giáo gắn liền với lịch sử của dân tộc [[Người Do Thái]].
 
 Sau 2000 năm lưu lạc, [[Người Do Thái]] chia thành nhiều sắc tộc khác nhau:
 
@@ -35,5 +36,7 @@ Thế kỷ 20, với sự ra đời của [[Chủ Nghĩa Zion|Chủ nghĩa p
 ## Ideas & thoughts:
 - [[Torah tương đương với Cựu Ước của Kito giáo]]
 - [[Hebrew]]
-- [[Người Do Thái]] kết tội và đóng đinh [[Đức Jesus]] trên [[Thập giá]]
+- [[Người Do Thái]] kết tội và đóng đinh [[Đức Jesus]] trên [[Thập giá]]. Phát sinh ra [[Cơ Đốc Giáo]]
+- 
+
 
