@@ -16,7 +16,7 @@
     
     
       
-        <title>Dan 10 - The Second Brain</title>
+        <title>Daniel 10 - The Second Brain</title>
       
     
     
@@ -69,6 +69,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#daniel-10" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -96,7 +101,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Dan 10
+              Daniel 10
             
           </span>
         </div>
@@ -431,23 +436,79 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <div id="graph" style="background: darkseagreen; height: 300px; width: 300px; overflow: hidden; opacity:1; border-radius: 8px; border-style: outset;" scrolling="no" height="300px" width="300px">
+                      <!-- .onNodeClick(node => window.open(`${node.url}`, '_blank')) -->
+                      <script>
+                        const rootId = 0;
+                        const gData = {
+                          nodes: [
+                            
+                            
+                            {"id": 0, title: "", url: "https://omegakid1902.github.io/Zet/", collapsed: false, childLinks: [], group: 0}
+                            ],
+                          links: [
+                            
+                            
+                            { source: 0, target: 1, curvature: 0.5 }
+                          ]
+                        };
+                        // link parent/children
+                        const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
+                        gData.links.forEach(link => {
+                          nodesById[link.source].childLinks.push(link);
+                        });
+                        
+                        const getPrunedTree = () => {
+                          const visibleNodes = [];
+                          const visibleLinks = [];
+
+                          (function traverseTree(node = nodesById[rootId]) {
+                            visibleNodes.push(node);
+                            if (node.collapsed) return;
+                            visibleLinks.push(...node.childLinks);
+                            node.childLinks
+                              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
+                              .forEach(traverseTree);
+                          })(); // IIFE
+
+                          return { nodes: visibleNodes, links: visibleLinks };
+                        };
+
+                        const elem = document.getElementById('graph');
+                        const Graph = ForceGraph()(elem)
+                          .graphData(getPrunedTree())
+                          .onNodeHover(node => elem.style.cursor = node && node.childLinks.length ? 'pointer' : null)
+                          .onNodeRightClick(node => {
+                            if (node.childLinks.length) {
+                              node.collapsed = !node.collapsed; // toggle collapse state
+                              Graph.graphData(getPrunedTree());
+                            }
+                          })
+                          .onNodeClick(node => window.open(`${node.url}`, '_parent'))
+                          .nodeRelSize(4)
+                          .nodeLabel(node => `${node.title}`)
+                          .linkDirectionalParticles(1)
+                          .linkDirectionalParticleWidth(2.5)
+                          .centerAt(200, 60, 1) // Center at box size
+                          .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
+                          //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
+                      </script>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content" data-md-component="content">
             <article class="md-content__inner md-typeset">
               
                 
                 
-                  <h1>Dan 10</h1>
-                
-                <ul>
-<li>Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-09</li>
-<li>Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Daniel</li>
-<li>Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-11
-backlinks:</li>
-<li>Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-11</li>
-<li>Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-09
----# Daniel 10</li>
-</ul>
+                <h1 id="daniel-10">Daniel 10</h1>
 <p><a href="../Dan-09/">← Daniel 09</a> | <a href="../Daniel/">Daniel</a> | <a href="../Dan-11/">Daniel 11 →</a></p>
 <hr />
 <h6 id="v1">v1</h6>
