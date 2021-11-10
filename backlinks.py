@@ -289,10 +289,13 @@ for root, dirs, files in os.walk(base_docs_url):
             # print(file_name_strip)
             with open(os.path.join(root, file), 'r', encoding="utf-8") as f:
                 content = f.readlines()
+            try:
+                if not content[0].startswith("---"):
+                    content.insert(0, "---")
+                    content.insert(1, "---")
+            except:
+                print("content")
 
-            if not content[0].startswith("---"):
-                content.insert(0, "---")
-                content.insert(1, "---")
             if range(len(nodes[file_name_strip]["backlinks"])):
                 content.insert(1, "backlinks:\n")
 
