@@ -236,9 +236,11 @@ for node in nodes:
     nodes[node]["outgoing_links"] = list(dict.fromkeys(nodes[node]["outgoing_links"]))
 
     for outgoing_idx in range(len(nodes[node]["outgoing_links"])):
-
-        target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
-        nodes[target_node_name]['backlinks'].append(node)
+        try:
+           target_node_name = nodes[node]['outgoing_links'][outgoing_idx]
+           nodes[target_node_name]['backlinks'].append(node)
+        except KeyError:
+           print("KeyError", backlinks, outgoing_links)
 
 ## Insert Backlink at the end of md file
 if 0:
