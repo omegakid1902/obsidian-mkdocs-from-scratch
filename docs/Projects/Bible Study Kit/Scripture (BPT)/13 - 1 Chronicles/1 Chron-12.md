@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-11
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-13
-backlinks:
-  - Projects/Bible Study Kit/020 Interests MOC
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-13
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-11
----# 1 Chronicles 12
+# 1 Chronicles 12
 
 [[1 Chron-11|← 1 Chronicles 11]] | [[1 Chronicles]] | [[1 Chron-13|1 Chronicles 13 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-22
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-24
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-24
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-22
----# Joshua 23
+# Joshua 23
 
 [[Josh-22|← Joshua 22]] | [[Joshua]] | [[Josh-24|Joshua 24 →]]
 ***

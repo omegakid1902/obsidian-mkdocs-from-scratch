@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-01
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-03
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-03
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-01
----# Deuteronomy 2
+# Deuteronomy 2
 
 [[Deut-01|← Deuteronomy 01]] | [[Deuteronomy]] | [[Deut-03|Deuteronomy 03 →]]
 ***

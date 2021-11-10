@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/People/Charles Darwin
+backlinks:
+  - Zet/Eugenics
+  - Zet/Homo Neanderthal
+  - Zet/People/Charles Darwin
 title: Thuyết tiến hóa
 UID: 211011231044
 created: 11-Oct-2021

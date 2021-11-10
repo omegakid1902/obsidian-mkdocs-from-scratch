@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-31
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-33
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-31
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-33
----# Isaiah 32
+# Isaiah 32
 
 [[Isa-31|← Isaiah 31]] | [[Isaiah]] | [[Isa-33|Isaiah 33 →]]
 ***

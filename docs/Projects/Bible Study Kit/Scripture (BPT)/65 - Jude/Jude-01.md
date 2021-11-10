@@ -1,8 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/65 - Jude/Jude
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/65 - Jude/Jude
----# Jude 1
+# Jude 1
 
 [[Jude]]
 ***

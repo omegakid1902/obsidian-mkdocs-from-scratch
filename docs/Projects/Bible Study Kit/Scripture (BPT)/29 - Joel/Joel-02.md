@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/29 - Joel/Joel-01
-  - Projects/Bible Study Kit/Scripture (BPT)/29 - Joel/Joel
-  - Projects/Bible Study Kit/Scripture (BPT)/29 - Joel/Joel-03
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/29 - Joel/Joel-03
-  - Projects/Bible Study Kit/Scripture (BPT)/29 - Joel/Joel-01
----# Joel 2
+# Joel 2
 
 [[Joel-01|← Joel 01]] | [[Joel]] | [[Joel-03|Joel 03 →]]
 ***

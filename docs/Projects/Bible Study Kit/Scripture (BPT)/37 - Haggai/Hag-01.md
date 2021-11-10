@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/37 - Haggai/Haggai
-  - Projects/Bible Study Kit/Scripture (BPT)/37 - Haggai/Hag-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/37 - Haggai/Hag-02
-  - Projects/Bible Study Kit/Scripture (BPT)/37 - Haggai/Haggai
----# Haggai 1
+# Haggai 1
 
 [[Haggai]] | [[Hag-02|Haggai 02 →]]
 ***

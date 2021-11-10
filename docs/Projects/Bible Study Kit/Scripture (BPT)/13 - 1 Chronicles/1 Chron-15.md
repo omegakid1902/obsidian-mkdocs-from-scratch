@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-14
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-16
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-14
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-16
----# 1 Chronicles 15
+# 1 Chronicles 15
 
 [[1 Chron-14|← 1 Chronicles 14]] | [[1 Chronicles]] | [[1 Chron-16|1 Chronicles 16 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-27
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-29
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-29
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-27
----# 2 Chronicles 28
+# 2 Chronicles 28
 
 [[2 Chron-27|← 2 Chronicles 27]] | [[2 Chronicles]] | [[2 Chron-29|2 Chronicles 29 →]]
 ***

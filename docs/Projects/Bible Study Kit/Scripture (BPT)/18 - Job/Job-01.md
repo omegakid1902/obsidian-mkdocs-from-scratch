@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-02
----# Job 1
+# Job 1
 
 [[Job]] | [[Job-02|Job 02 →]]
 ***

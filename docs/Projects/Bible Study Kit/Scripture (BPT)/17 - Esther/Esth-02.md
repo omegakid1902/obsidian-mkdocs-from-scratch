@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/17 - Esther/Esth-01
-  - Projects/Bible Study Kit/Scripture (BPT)/17 - Esther/Esther
-  - Projects/Bible Study Kit/Scripture (BPT)/17 - Esther/Esth-03
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/17 - Esther/Esth-01
-  - Projects/Bible Study Kit/Scripture (BPT)/17 - Esther/Esth-03
----# Esther 2
+# Esther 2
 
 [[Esth-01|← Esther 01]] | [[Esther]] | [[Esth-03|Esther 03 →]]
 ***

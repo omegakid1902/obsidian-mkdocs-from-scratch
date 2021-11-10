@@ -1,13 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-03
-backlinks:
-  - Projects/Bible Study Kit/Book Note
-  - Projects/Bible Study Kit/Note Example - Design
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-03
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
----# Genesis 2
+# Genesis 2
 
 [[Gen-01|← Genesis 01]] | [[Genesis]] | [[Gen-03|Genesis 03 →]]
 ***

@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/FBI
+  - Zet/People/Nicola Tesla
+  - Zet/Akashic records
+backlinks:
+  - Zet/People/Nicola Tesla
 title: Theo tài liệu FBI, Tesla là người Sao Kim
 UID: 211011224457
 created: 11-Oct-2021

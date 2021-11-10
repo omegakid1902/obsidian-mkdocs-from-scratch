@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-34
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-36
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-34
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-36
----# 2 Chronicles 35
+# 2 Chronicles 35
 
 [[2 Chron-34|← 2 Chronicles 34]] | [[2 Chronicles]] | [[2 Chron-36|2 Chronicles 36 →]]
 ***

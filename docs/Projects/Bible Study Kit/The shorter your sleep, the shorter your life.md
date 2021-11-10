@@ -1,6 +1,4 @@
----backlinks:
-  - Projects/Bible Study Kit/Sleep
----# The shorter your sleep, the shorter your life
+# The shorter your sleep, the shorter your life
 Sleep is also crucial for physical health on nearly every aspect.
 
 > Routinely sleeping less than six or seven hours a night demolishes your immune system, more than doubling your risk of cancer.

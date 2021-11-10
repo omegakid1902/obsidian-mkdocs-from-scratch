@@ -1,15 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-02
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-31
-  - Projects/Bible Study Kit/Scripture (BPT)/46 - 1 Corinthians/1 Cor-10
-  - Projects/Bible Study Kit/Excellence
-backlinks:
-  - Projects/Bible Study Kit/Book Note
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Start connecting Scripture
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
----links: [[Examples of deductive note-taking]]
+links: [[Examples of deductive note-taking]]
 # Design
 ## God values beauty
 [[Gen-02#v9]]. He created them "pleasing to the eye". The first person filled with the Holy Spirit was a designer ([[Exod-31#v2]]).

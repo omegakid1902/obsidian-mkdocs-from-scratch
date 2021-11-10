@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Ngô Đình Diệm
+backlinks:
+  - Zet/Lịch Sử Việt Nam
+  - Zet/Ngô Đình Diệm
 title: Việt Nam Cộng Hòa
 tags:
   - 'created/2021/Jun/22'

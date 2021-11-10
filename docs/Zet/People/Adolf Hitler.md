@@ -1,4 +1,11 @@
 ---
+outgoing_links:
+  - Zet/Holocaust
+  - Zet/Người Do Thái
+backlinks:
+  - Zet/Eugenics
+  - Zet/Lịch Sử Do Thái
+  - Zet/Qmap
 title: Adolf Hitler
 UID: 211025220400
 created: Jun 19, 2021 9:08 PM

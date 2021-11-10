@@ -1,17 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/Financial Policy
-backlinks:
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/+Start here
-  - Projects/Bible Study Kit/Financial Policy
-  - Projects/Bible Study Kit/BibleGateway-to-Obsidian Script
----links: [[+Overview|Overview]]
+links: [[+Overview|Overview]]
 # About me
 Hi! 👋 My name is Joschua. I am from Germany but am currently living in the Swedish forest 🇸🇪.
 

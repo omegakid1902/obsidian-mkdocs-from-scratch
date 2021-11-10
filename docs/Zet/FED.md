@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/NESARA
+  - Zet/People/Donald J. Trump
+backlinks:
+  - Zet/NESARA
 title: FED
 UID: 211014231145
 created: 14-Oct-2021

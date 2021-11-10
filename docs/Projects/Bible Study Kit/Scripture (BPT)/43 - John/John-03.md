@@ -1,16 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-02
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-04
-backlinks:
-  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
-  - Projects/Bible Study Kit/Split Thinking
-  - Projects/Bible Study Kit/Examples of inductive note-taking
-  - Projects/Bible Study Kit/What is the Gospel
-  - Projects/Bible Study Kit/Connecting simplifies retrieving
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-02
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-04
----# John 3
+# John 3
 
 [[John-02|← John 02]] | [[John]] | [[John-04|John 04 →]]
 ***

@@ -1,4 +1,12 @@
 ---
+outgoing_links:
+  - Zet/Zettelkasten
+  - Zet/People/Niklas Luhmann
+  - Zet/Citation
+backlinks:
+  - Zet/Citation
+  - Zet/Reference Manager Software
+  - Zet/Zettelkasten
 title: Reference Manager
 created: Oct 21, 2020 10:16 PM
 tags:

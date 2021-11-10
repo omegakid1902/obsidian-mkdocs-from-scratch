@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/An Dương Vương
 title: Đền thờ An Dương Vương ở ngoại thành Hà Nội
 UID: P-210724-0933
 created: 

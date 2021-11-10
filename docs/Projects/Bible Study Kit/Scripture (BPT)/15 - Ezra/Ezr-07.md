@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-06
-  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezra
-  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-08
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-08
-  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-06
----# Ezra 7
+# Ezra 7
 
 [[Ezr-06|← Ezra 06]] | [[Ezra]] | [[Ezr-08|Ezra 08 →]]
 ***

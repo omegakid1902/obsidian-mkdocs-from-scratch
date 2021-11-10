@@ -1,16 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-03
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-19
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-28
-backlinks:
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/Examples of inductive note-taking
-  - Projects/Bible Study Kit/010 Faith MOC
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
----# Split Thinking
+# Split Thinking
 The idea that there is a divide between the "Holy" and the "Secular".
 
 The idea of a dichotomy between the "physical" and the "spiritual" has been around at least as long as Plato. It has also affected the world widely with the understanding that some parts of life are "for God" and others are not.

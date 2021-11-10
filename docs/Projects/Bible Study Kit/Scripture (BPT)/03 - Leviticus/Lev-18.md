@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-17
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-19
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-19
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-17
----# Leviticus 18
+# Leviticus 18
 
 [[Lev-17|← Leviticus 17]] | [[Leviticus]] | [[Lev-19|Leviticus 19 →]]
 ***

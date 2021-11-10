@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/People/Lã Bố
+  - Zet/Nhà Hậu Hán
+  - Zet/People/Đổng Trác
+backlinks:
+  - Zet/People/Lã Bố
 title: Xích Thố
 UID: 210828140126
 tags:

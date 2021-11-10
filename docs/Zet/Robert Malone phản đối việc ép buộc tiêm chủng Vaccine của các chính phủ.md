@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/People/Robert Wallace Malone
+  - Zet/Vaccine
+  - Zet/COVID-19
+backlinks:
+  - Zet/Vaccine mRNA
 title: Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
 UID: 211108235326
 created: 08-Nov-2021

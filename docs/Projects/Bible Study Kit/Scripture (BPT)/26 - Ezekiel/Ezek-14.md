@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-13
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-15
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-15
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-13
----# Ezekiel 14
+# Ezekiel 14
 
 [[Ezek-13|← Ezekiel 13]] | [[Ezekiel]] | [[Ezek-15|Ezekiel 15 →]]
 ***

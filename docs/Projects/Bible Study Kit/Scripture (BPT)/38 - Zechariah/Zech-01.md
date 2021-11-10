@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zechariah
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-02
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zechariah
----# Zechariah 1
+# Zechariah 1
 
 [[Zechariah]] | [[Zech-02|Zechariah 02 →]]
 ***

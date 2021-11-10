@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-28
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-30
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-30
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-28
----# Job 29
+# Job 29
 
 [[Job-28|← Job 28]] | [[Job]] | [[Job-30|Job 30 →]]
 ***

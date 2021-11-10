@@ -1,44 +1,4 @@
----outgoing_links:
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-01
-  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-01
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-24
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-08
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-07
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-20
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-11
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-33
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-25
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-06
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-17
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-18
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-02
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-23
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-32
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-29
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-19
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-09
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-13
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-34
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-05
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-21
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-35
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-36
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-27
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-10
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-04
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-26
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-14
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-03
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-12
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-22
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-15
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-16
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-28
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-31
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-30
----links: [[The bible]]
+links: [[The bible]]
 # 2 Chronicles
 
 [[2 Chron-01|Start Reading →]]

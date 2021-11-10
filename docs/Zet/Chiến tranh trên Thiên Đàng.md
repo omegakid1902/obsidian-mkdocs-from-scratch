@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Lucifer
+backlinks:
+  - Zet/Lucifer
 title: Chiến tranh trên Thiên Đàng
 UID: 210920222905
 created: 20-Sep-2021

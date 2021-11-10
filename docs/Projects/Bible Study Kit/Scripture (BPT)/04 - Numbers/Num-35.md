@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-34
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-36
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-36
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-34
----# Numbers 35
+# Numbers 35
 
 [[Num-34|← Numbers 34]] | [[Numbers]] | [[Num-36|Numbers 36 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-06
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-08
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-08
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-06
----# 2 Kings 7
+# 2 Kings 7
 
 [[2 Kings-06|← 2 Kings 06]] | [[2 Kings]] | [[2 Kings-08|2 Kings 08 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-11
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-13
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-11
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-13
----# Leviticus 12
+# Leviticus 12
 
 [[Lev-11|← Leviticus 11]] | [[Leviticus]] | [[Lev-13|Leviticus 13 →]]
 ***

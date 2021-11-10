@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Cải Cách Kháng Nghị
+backlinks:
+  - Zet/Tin Lành
+  - Zet/Cải Cách Kháng Nghị
 title: Martin Luther
 tags:
   - 'created/2020/Dec/25'

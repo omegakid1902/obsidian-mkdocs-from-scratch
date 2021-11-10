@@ -1,4 +1,13 @@
 ---
+outgoing_links:
+  - Zet/Các loại Vaccine COVID 19
+  - Zet/Phía sau Vaccine Pfizer
+backlinks:
+  - Zet/Đại dịch COVID-19
+  - Zet/Các loại Vaccine COVID 19
+  - Zet/Vaccination
+  - Zet/Phía sau Vaccine Pfizer
+  - Zet/People/Bill Gates
 title: Vaccine Pfizer
 UID: P-210710-1124
 tags:

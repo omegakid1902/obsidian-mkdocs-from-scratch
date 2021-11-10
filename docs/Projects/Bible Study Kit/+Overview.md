@@ -1,29 +1,4 @@
 ---
-outgoing_links:
-  - Projects/Bible Study Kit/+Start here
-  - Projects/Bible Study Kit/About me
-  - Projects/Bible Study Kit/What is the Gospel
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
-  - Projects/Bible Study Kit/The Basics of connecting
-  - Projects/Bible Study Kit/Start connecting Scripture
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
-  - Projects/Bible Study Kit/Examples of inductive note-taking
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
-  - Projects/Bible Study Kit/BibleGateway-to-Obsidian Script
-  - Projects/Bible Study Kit/CSS tweaks
-  - Projects/Bible Study Kit/Settings, queries and plugins
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/Split Thinking
-  - Projects/Bible Study Kit/Glossary
-  - Projects/Bible Study Kit/Release Notes
-  - Projects/Bible Study Kit/Financial Policy
-backlinks:
-  - Projects/Bible Study Kit/About me
-  - Projects/Bible Study Kit/Release Notes
-  - Projects/Bible Study Kit/+Start here
 aliases: [Overview]
 ---
 # Overview

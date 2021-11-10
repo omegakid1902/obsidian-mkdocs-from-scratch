@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-03
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-05
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-03
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-05
----# Genesis 4
+# Genesis 4
 
 [[Gen-03|← Genesis 03]] | [[Genesis]] | [[Gen-05|Genesis 05 →]]
 ***

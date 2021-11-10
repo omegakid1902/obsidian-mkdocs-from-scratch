@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/59 - James/James
-  - Projects/Bible Study Kit/Scripture (BPT)/59 - James/James-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/59 - James/James
-  - Projects/Bible Study Kit/Scripture (BPT)/59 - James/James-02
----# James 1
+# James 1
 
 [[James]] | [[James-02|James 02 →]]
 ***

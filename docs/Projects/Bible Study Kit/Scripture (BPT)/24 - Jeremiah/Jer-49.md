@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-48
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-50
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-48
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-50
----# Jeremiah 49
+# Jeremiah 49
 
 [[Jer-48|← Jeremiah 48]] | [[Jeremiah]] | [[Jer-50|Jeremiah 50 →]]
 ***

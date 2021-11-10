@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/Công Giáo
+  - Zet/Kito Giáo
+  - Zet/Hồi Giáo
+backlinks:
+  - Zet/Qmap
 title: Alberto Rivera
 UID: 211027225951
 tags:

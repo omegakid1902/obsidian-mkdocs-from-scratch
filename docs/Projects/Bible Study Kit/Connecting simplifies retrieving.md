@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-03
-  - Projects/Bible Study Kit/Connecting strengthens remembering
-backlinks:
-  - Projects/Bible Study Kit/The Basics of connecting
-  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
----links: [[Benefits of Connected Biblical Thinking]]
+links: [[Benefits of Connected Biblical Thinking]]
 # Connecting simplifies retrieving
 This is the main [[The shortcomings of common note-taking practices|shortcoming]] in common note-taking practices while studying Scripture. I have a lot of great thoughts *somewhere* but when looking at a specific topic or passage, they aren't available to me.
 

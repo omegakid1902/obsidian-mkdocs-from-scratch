@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-02
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
----# Jeremiah 1
+# Jeremiah 1
 
 [[Jeremiah]] | [[Jer-02|Jeremiah 02 →]]
 ***

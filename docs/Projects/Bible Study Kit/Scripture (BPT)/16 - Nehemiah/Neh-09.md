@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-08
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-08
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-10
----# Nehemiah 9
+# Nehemiah 9
 
 [[Neh-08|← Nehemiah 08]] | [[Nehemiah]] | [[Neh-10|Nehemiah 10 →]]
 ***

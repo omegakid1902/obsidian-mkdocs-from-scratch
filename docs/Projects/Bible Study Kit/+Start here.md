@@ -1,23 +1,4 @@
 ---
-outgoing_links:
-  - Projects/Bible Study Kit/About me
-  - Projects/Bible Study Kit/What is the Gospel
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-18
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/000 Home
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
-  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/Start connecting Scripture
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
-  - Projects/Bible Study Kit/CSS tweaks
-  - Projects/Bible Study Kit/Settings, queries and plugins
-  - Projects/Bible Study Kit/Glossary
-  - Projects/Bible Study Kit/nickmilo
-backlinks:
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/What is the Gospel
 aliases: [Start here]
 ---
 # Start here

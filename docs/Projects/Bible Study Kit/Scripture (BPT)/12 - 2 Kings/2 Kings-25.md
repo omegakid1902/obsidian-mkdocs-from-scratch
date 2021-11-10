@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-24
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-24
----# 2 Kings 25
+# 2 Kings 25
 
 [[2 Kings-24|← 2 Kings 24]] | [[2 Kings]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-63
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-65
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-65
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-63
----# Isaiah 64
+# Isaiah 64
 
 [[Isa-63|← Isaiah 63]] | [[Isaiah]] | [[Isa-65|Isaiah 65 →]]
 ***

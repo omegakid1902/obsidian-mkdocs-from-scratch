@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-12
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-12
----# Nehemiah 13
+# Nehemiah 13
 
 [[Neh-12|← Nehemiah 12]] | [[Nehemiah]]
 ***

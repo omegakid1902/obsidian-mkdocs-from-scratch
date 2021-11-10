@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-27
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-29
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-29
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-27
----# Ezekiel 28
+# Ezekiel 28
 
 [[Ezek-27|← Ezekiel 27]] | [[Ezekiel]] | [[Ezek-29|Ezekiel 29 →]]
 ***

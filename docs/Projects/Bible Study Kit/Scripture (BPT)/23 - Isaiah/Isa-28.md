@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-27
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-29
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-27
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-29
----# Isaiah 28
+# Isaiah 28
 
 [[Isa-27|← Isaiah 27]] | [[Isaiah]] | [[Isa-29|Isaiah 29 →]]
 ***

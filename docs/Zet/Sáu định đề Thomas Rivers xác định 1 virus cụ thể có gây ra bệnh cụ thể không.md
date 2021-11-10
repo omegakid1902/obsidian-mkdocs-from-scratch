@@ -1,4 +1,13 @@
 ---
+outgoing_links:
+  - Zet/Virus
+  - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+backlinks:
+  - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Vaccine Moderna
+  - Zet/The Germ theory
+  - Zet/Coronavirus
 title: Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 UID: 211016110917
 created: 16-Oct-2021

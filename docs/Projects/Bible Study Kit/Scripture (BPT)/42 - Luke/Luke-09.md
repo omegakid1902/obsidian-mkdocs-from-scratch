@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-08
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-08
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-10
----# Luke 9
+# Luke 9
 
 [[Luke-08|← Luke 08]] | [[Luke]] | [[Luke-10|Luke 10 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-35
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-37
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-35
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-37
----# Genesis 36
+# Genesis 36
 
 [[Gen-35|← Genesis 35]] | [[Genesis]] | [[Gen-37|Genesis 37 →]]
 ***

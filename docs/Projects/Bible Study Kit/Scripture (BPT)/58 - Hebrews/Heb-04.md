@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-03
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Hebrews
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-05
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-03
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-05
----# Hebrews 4
+# Hebrews 4
 
 [[Heb-03|← Hebrews 03]] | [[Hebrews]] | [[Heb-05|Hebrews 05 →]]
 ***

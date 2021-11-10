@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-13
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-15
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-15
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-13
----# Exodus 14
+# Exodus 14
 
 [[Exod-13|← Exodus 13]] | [[Exodus]] | [[Exod-15|Exodus 15 →]]
 ***

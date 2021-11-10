@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-45
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-47
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-45
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-47
----# Ezekiel 46
+# Ezekiel 46
 
 [[Ezek-45|← Ezekiel 45]] | [[Ezekiel]] | [[Ezek-47|Ezekiel 47 →]]
 ***

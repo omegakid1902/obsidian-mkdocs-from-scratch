@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Anthony Fauci
 title: Zidovudin
 UID: 211105234951
 created: 05-Nov-2021

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-12
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Revelation
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-14
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-12
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-14
----# Revelation 13
+# Revelation 13
 
 [[Rev-12|← Revelation 12]] | [[Revelation]] | [[Rev-14|Revelation 14 →]]
 ***

@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Obsidian Publish
 title: Github
 UID: 2107171023
 created: 07-Nov-2021

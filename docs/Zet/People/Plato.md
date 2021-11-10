@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Qmap
+backlinks:
+  - Zet/Qmap
+  - Zet/Plato có nói về Atlantis
 title: Plato
 UID: 2107102128
 tags:

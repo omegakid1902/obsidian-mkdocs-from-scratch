@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Reference Manager
+backlinks:
+  - Zet/Literature Note
 title: Reference Manager Software
 created: Oct 21, 2020 10:16 PM
 tags:

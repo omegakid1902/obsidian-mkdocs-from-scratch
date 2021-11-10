@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-08
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-08
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-10
----# Numbers 9
+# Numbers 9
 
 [[Num-08|← Numbers 08]] | [[Numbers]] | [[Num-10|Numbers 10 →]]
 ***

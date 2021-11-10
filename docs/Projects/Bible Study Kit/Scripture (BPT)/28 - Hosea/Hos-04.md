@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-03
-  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hosea
-  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-05
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-03
-  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-05
----# Hosea 4
+# Hosea 4
 
 [[Hos-03|← Hosea 03]] | [[Hosea]] | [[Hos-05|Hosea 05 →]]
 ***

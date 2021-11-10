@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-20
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-22
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-20
-  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-22
----# 2 Chronicles 21
+# 2 Chronicles 21
 
 [[2 Chron-20|← 2 Chronicles 20]] | [[2 Chronicles]] | [[2 Chron-22|2 Chronicles 22 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-10
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-12
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-10
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-12
----# Genesis 11
+# Genesis 11
 
 [[Gen-10|← Genesis 10]] | [[Genesis]] | [[Gen-12|Genesis 12 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-21
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-23
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-21
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-23
----# Acts 22
+# Acts 22
 
 [[Acts-21|← Acts 21]] | [[Acts]] | [[Acts-23|Acts 23 →]]
 ***

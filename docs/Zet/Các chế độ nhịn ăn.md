@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Insulin
+  - Zet/Health
+backlinks:
+  - Zet/Health
 title: Các chế độ nhịn ăn
 UID: 210903083839
 tags:

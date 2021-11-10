@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-06
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-08
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-06
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-08
----# Isaiah 7
+# Isaiah 7
 
 [[Isa-06|← Isaiah 06]] | [[Isaiah]] | [[Isa-08|Isaiah 08 →]]
 ***

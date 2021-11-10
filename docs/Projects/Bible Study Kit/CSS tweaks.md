@@ -1,13 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
-backlinks:
-  - Projects/Bible Study Kit/The Basics of connecting
-  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/030 PKM MOC
-  - Projects/Bible Study Kit/Settings, queries and plugins
-  - Projects/Bible Study Kit/+Start here
----links: [[Set up your Obsidian for Bible Study]]
+links: [[Set up your Obsidian for Bible Study]]
 # CSS tweaks
 ## Bible verses in preview
 Add this code into your `snippets.css` file to move h6 headers to the side for a cleaner reading experience when in preview mode.

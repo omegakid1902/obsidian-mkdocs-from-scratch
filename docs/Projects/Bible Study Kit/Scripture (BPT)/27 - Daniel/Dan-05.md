@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-04
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Daniel
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-06
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-04
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-06
----# Daniel 5
+# Daniel 5
 
 [[Dan-04|← Daniel 04]] | [[Daniel]] | [[Dan-06|Daniel 06 →]]
 ***

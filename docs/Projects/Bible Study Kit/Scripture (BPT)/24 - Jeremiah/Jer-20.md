@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-19
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-21
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-21
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-19
----# Jeremiah 20
+# Jeremiah 20
 
 [[Jer-19|← Jeremiah 19]] | [[Jeremiah]] | [[Jer-21|Jeremiah 21 →]]
 ***

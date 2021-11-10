@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-34
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-36
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-36
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-34
----# Ezekiel 35
+# Ezekiel 35
 
 [[Ezek-34|← Ezekiel 34]] | [[Ezekiel]] | [[Ezek-36|Ezekiel 36 →]]
 ***

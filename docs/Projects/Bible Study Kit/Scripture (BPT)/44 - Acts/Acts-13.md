@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-12
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-14
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-12
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-14
----# Acts 13
+# Acts 13
 
 [[Acts-12|← Acts 12]] | [[Acts]] | [[Acts-14|Acts 14 →]]
 ***

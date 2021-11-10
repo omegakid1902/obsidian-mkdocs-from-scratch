@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-07
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-09
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-09
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-07
----# Genesis 8
+# Genesis 8
 
 [[Gen-07|← Genesis 07]] | [[Genesis]] | [[Gen-09|Genesis 09 →]]
 ***

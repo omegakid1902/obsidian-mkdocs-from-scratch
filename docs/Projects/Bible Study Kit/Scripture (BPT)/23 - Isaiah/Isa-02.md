@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-01
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-03
-backlinks:
-  - Projects/Bible Study Kit/Chaotic Waters (Image)
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-01
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-03
----# Isaiah 2
+# Isaiah 2
 
 [[Isa-01|← Isaiah 01]] | [[Isaiah]] | [[Isa-03|Isaiah 03 →]]
 ***

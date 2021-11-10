@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-05
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-07
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-07
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-05
----# 1 Chronicles 6
+# 1 Chronicles 6
 
 [[1 Chron-05|← 1 Chronicles 05]] | [[1 Chronicles]] | [[1 Chron-07|1 Chronicles 07 →]]
 ***

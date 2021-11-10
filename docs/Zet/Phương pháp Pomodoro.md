@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Self Improvement
 title: Phương pháp Pomodoro
 created: Oct 22, 2020 12:06 AM
 tags:

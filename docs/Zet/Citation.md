@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Reference Manager
+backlinks:
+  - Zet/Literature Note
+  - Zet/Reference Manager
 title: Citation
 created: Oct 21, 2020 10:13 PM
 tags:

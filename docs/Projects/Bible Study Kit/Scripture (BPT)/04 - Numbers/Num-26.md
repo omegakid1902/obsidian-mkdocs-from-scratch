@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-25
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-27
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-27
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-25
----# Numbers 26
+# Numbers 26
 
 [[Num-25|← Numbers 25]] | [[Numbers]] | [[Num-27|Numbers 27 →]]
 ***

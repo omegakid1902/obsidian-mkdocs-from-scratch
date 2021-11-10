@@ -1,4 +1,47 @@
 ---
+outgoing_links:
+  - Zet/SARS-COV-2
+  - Zet/Virus
+  - Zet/COVID-19
+  - Zet/Các loại Vaccine COVID 19
+  - Zet/Vaccine mRNA
+  - Zet/Vaccine virus bất hoạt
+  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
+  - Zet/People/Louis Pasteur
+  - Zet/The Terrain Theory
+  - Zet/People/Antoine Beauchamp
+  - Zet/Chemtrails
+  - Zet/Vaccine
+  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/FDA
+  - Zet/CDC
+  - Zet/WHO
+  - Zet/Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ
+  - Zet/People/Anthony Fauci
+  - Zet/People/Robert Wallace Malone
+  - Zet/Real time PCR test
+  - Zet/People/Kary B. Mullis
+  - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
+  - Zet/Real time PCR test là một trò bịp của Big Pharma
+  - Zet/People/Bill Gates
+  - Zet/Vaccine Pfizer
+  - Zet/Vaccine Moderna
+  - Zet/Eugenics
+  - Zet/People/Donald J. Trump
+  - Zet/Ivermectin
+  - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
+  - Zet/Khoa học và các cú mị dân
+  - Zet/People/Abhigya Anand
+  - Zet/People/Boriska Kipriyanovich
+backlinks:
+  - Zet/Các kênh thông tin trái chiều
+  - Zet/Virus
+  - Zet/Health
+  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
+  - Zet/Chemtrails
+  - Zet/Coronavirus
+  - Zet/COVID-19
+  - Zet/People/Robert Wallace Malone
 title: Đại dịch COVID-19
 tags:
   - 'created/2021/Jul/10'

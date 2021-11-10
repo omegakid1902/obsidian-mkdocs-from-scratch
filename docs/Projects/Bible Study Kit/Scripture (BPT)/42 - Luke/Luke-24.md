@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-23
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
-backlinks:
-  - Projects/Bible Study Kit/Examples of inductive note-taking
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-23
----# Luke 24
+# Luke 24
 
 [[Luke-23|← Luke 23]] | [[Luke]]
 ***

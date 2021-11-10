@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-26
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-28
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-28
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-26
----# Deuteronomy 27
+# Deuteronomy 27
 
 [[Deut-26|← Deuteronomy 26]] | [[Deuteronomy]] | [[Deut-28|Deuteronomy 28 →]]
 ***

@@ -1,27 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
-  - Projects/Bible Study Kit/Start connecting Scripture
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-03
-  - Projects/Bible Study Kit/Split Thinking
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
-  - Projects/Bible Study Kit/Creation account
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-24
-  - Projects/Bible Study Kit/Scripture (BPT)/55 - 2 Timothy/2 Tim-03
-  - Projects/Bible Study Kit/God's unified story
-  - Projects/Bible Study Kit/Connecting strengthens remembering
-  - Projects/Bible Study Kit/Biblical Themes and Images MOC
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-04
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Start connecting Scripture
-  - Projects/Bible Study Kit/Sleep
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
----links: [[Examples of Connected Biblical Thinking]]
+links: [[Examples of Connected Biblical Thinking]]
 # Examples of inductive note-taking
 When we [[Start connecting Scripture]] we can connect in two ways: Inductively or deductively. This outlines *inductive* note-taking from Scripture. Have a look at [[Examples of deductive note-taking]]. 
 

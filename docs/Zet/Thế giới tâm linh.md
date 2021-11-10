@@ -1,4 +1,13 @@
 ---
+outgoing_links:
+  - Zet/Thông thiên học
+  - Zet/Thức tỉnh tâm linh
+  - Zet/Khủng hoảng hiện sinh
+  - Zet/Luân xa
+  - Zet/Các nhà tiên tri
+  - Zet/People/Baba Vanga
+  - Zet/People/Abhigya Anand
+  - Zet/People/Boriska Kipriyanovich
 title: Thế giới tâm linh
 UID: 211017225815
 created: 17-Oct-2021

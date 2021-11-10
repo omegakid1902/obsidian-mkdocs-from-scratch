@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Markdown Language
+  - Zet/Backlink
+backlinks:
+  - Zet/Obsidian Publish
 title: Obsidian
 UID: 211107211929
 created: June 28, 2021 11:27 PM

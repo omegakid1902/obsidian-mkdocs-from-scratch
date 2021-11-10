@@ -1,4 +1,13 @@
 ---
+outgoing_links:
+  - Zet/Zettelkasten
+  - Zet/Permanent Note
+  - Zet/Literature Note
+  - Zet/People/Niklas Luhmann
+backlinks:
+  - Zet/Permanent Note
+  - Zet/Zettelkasten
+  - Zet/Literature Note
 title: Fleeting Note
 created: Oct 21, 2020 10:09 PM 
 tags:

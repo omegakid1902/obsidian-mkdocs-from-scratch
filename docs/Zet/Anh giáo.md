@@ -1,4 +1,11 @@
 ---
+outgoing_links:
+  - Zet/People/Đức Giáo Hoàng
+backlinks:
+  - Zet/Công Giáo
+  - Zet/Kito Giáo
+  - Zet/Religion
+  - Zet/Cải Cách Kháng Nghị
 title: Anh giáo
 UID: 211109222225
 created: Dec 25, 2020 11:07 AM

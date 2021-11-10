@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-21
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-23
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-21
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-23
----# Luke 22
+# Luke 22
 
 [[Luke-21|← Luke 21]] | [[Luke]] | [[Luke-23|Luke 23 →]]
 ***

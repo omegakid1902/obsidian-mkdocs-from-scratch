@@ -1,19 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Start connecting Scripture
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/CSS tweaks
-  - Projects/Bible Study Kit/BibleGateway-to-Obsidian Script
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-03
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
-  - Projects/Bible Study Kit/CSS tweaks
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/030 PKM MOC
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/Connecting makes you engage Scripture
-  - Projects/Bible Study Kit/+Start here
----# Set up your Obsidian for Bible Study
+# Set up your Obsidian for Bible Study
 If your Obsidian is already set up, it's time to [[Start connecting Scripture]] and practice [[Connected Biblical Thinking]].
 
 ## Step 1: The Basics

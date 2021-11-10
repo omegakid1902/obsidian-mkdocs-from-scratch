@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-24
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-26
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-24
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-26
----# Jeremiah 25
+# Jeremiah 25
 
 [[Jer-24|← Jeremiah 24]] | [[Jeremiah]] | [[Jer-26|Jeremiah 26 →]]
 ***

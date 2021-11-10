@@ -1,4 +1,12 @@
 ---
+outgoing_links:
+  - Zet/People/Edward Jenner
+  - Zet/Vaccination
+  - Zet/Vaccine
+  - Zet/People/Louis Pasteur
+backlinks:
+  - Zet/Vaccination
+  - Zet/People/Edward Jenner
 title: Edward Jenner là cha đẻ của phương pháp Vaccination
 UID: 211010165800
 created: 10-Oct-2021

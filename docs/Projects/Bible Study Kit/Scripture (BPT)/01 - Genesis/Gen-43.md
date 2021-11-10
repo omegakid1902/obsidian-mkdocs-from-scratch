@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-42
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-44
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-42
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-44
----# Genesis 43
+# Genesis 43
 
 [[Gen-42|← Genesis 42]] | [[Genesis]] | [[Gen-44|Genesis 44 →]]
 ***

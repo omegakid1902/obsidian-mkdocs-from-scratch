@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-14
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-16
-backlinks:
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-16
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-14
----# John 15
+# John 15
 
 [[John-14|← John 14]] | [[John]] | [[John-16|John 16 →]]
 ***

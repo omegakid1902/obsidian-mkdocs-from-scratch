@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Nhà Thanh
+backlinks:
+  - Zet/Lịch sử Trung Quốc
+  - Zet/Nhà Thanh
 title: Nhà Thanh
 UID: P-210811-2121
 created: 

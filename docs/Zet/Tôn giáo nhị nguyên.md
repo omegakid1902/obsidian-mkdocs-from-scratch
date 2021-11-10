@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Zarathustra
 title: Tôn giáo nhị nguyên
 UID: 211023221859
 created: 23-Oct-2021

@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-16
-backlinks:
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
----links: [[Examples of deductive note-taking]]
+links: [[Examples of deductive note-taking]]
 # Journal Note
 ## Sun, Jan 31
 I am working on a project currently that I feel like God has called me into. It's not moving forward quickly though, a bit tough and a test of patience. 

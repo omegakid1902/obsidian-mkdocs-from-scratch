@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-03
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-05
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-05
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-03
----# John 4
+# John 4
 
 [[John-03|← John 03]] | [[John]] | [[John-05|John 05 →]]
 ***

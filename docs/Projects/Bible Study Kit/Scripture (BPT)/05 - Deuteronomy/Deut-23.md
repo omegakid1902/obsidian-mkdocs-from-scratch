@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-22
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-24
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-22
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-24
----# Deuteronomy 23
+# Deuteronomy 23
 
 [[Deut-22|← Deuteronomy 22]] | [[Deuteronomy]] | [[Deut-24|Deuteronomy 24 →]]
 ***

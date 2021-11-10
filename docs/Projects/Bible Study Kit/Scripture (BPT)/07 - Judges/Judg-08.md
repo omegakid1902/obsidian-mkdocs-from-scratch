@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-07
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judges
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-09
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-07
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-09
----# Judges 8
+# Judges 8
 
 [[Judg-07|← Judges 07]] | [[Judges]] | [[Judg-09|Judges 09 →]]
 ***

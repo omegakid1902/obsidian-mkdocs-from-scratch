@@ -1,25 +1,4 @@
 ---
-outgoing_links:
-  - Projects/Bible Study Kit/nickmilo
-  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
-  - Projects/Bible Study Kit/Connecting makes you engage Scripture
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/About me
-backlinks:
-  - Projects/Bible Study Kit/The Basics of connecting
-  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/030 PKM MOC
-  - Projects/Bible Study Kit/Examples of inductive note-taking
-  - Projects/Bible Study Kit/010 Faith MOC
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/Connecting makes you engage Scripture
-  - Projects/Bible Study Kit/About me
-  - Projects/Bible Study Kit/+Start here
-  - Projects/Bible Study Kit/Sleep
 aliases: [CBS]
 ---
 # Connected Biblical Thinking

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-11
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Hebrews
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-13
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-11
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-13
----# Hebrews 12
+# Hebrews 12
 
 [[Heb-11|← Hebrews 11]] | [[Hebrews]] | [[Heb-13|Hebrews 13 →]]
 ***

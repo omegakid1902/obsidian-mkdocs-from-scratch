@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-08
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zechariah
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-08
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-10
----# Zechariah 9
+# Zechariah 9
 
 [[Zech-08|← Zechariah 08]] | [[Zechariah]] | [[Zech-10|Zechariah 10 →]]
 ***

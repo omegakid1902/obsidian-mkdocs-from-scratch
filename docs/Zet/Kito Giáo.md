@@ -1,4 +1,14 @@
 ---
+outgoing_links:
+  - Zet/Công Giáo
+  - Zet/Chính thống giáo Đông Phương
+  - Zet/Anh giáo
+  - Zet/Tin Lành
+backlinks:
+  - Zet/God
+  - Zet/Hạ thế giới
+  - Zet/People/Thánh Phaolo
+  - Zet/People/Alberto Rivera
 title: Kito Giáo
 tags:
   - 'created/2021/Jul/31'

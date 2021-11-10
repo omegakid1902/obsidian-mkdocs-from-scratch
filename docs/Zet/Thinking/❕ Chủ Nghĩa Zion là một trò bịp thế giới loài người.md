@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Người Do Thái Ashkenazi
 title: ❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 UID: 211030150807
 created: 30-Oct-2021

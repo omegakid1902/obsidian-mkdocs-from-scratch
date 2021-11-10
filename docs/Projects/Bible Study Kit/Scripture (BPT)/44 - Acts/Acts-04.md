@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-03
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-05
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-05
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-03
----# Acts 4
+# Acts 4
 
 [[Acts-03|← Acts 03]] | [[Acts]] | [[Acts-05|Acts 05 →]]
 ***

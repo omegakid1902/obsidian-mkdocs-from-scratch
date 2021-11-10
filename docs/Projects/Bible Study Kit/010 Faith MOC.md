@@ -1,23 +1,4 @@
 ---
-outgoing_links:
-  - Projects/Bible Study Kit/000 Home
-  - Projects/Bible Study Kit/Scripture (BPT)/19 - Psalms/Ps-01
-backlinks:
-  - Projects/Bible Study Kit/God's unified story
-  - Projects/Bible Study Kit/Biblical Themes and Images MOC
-  - Projects/Bible Study Kit/Creation account
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/Split Thinking
-  - Projects/Bible Study Kit/Excellence
-  - Projects/Bible Study Kit/Work is broken
-  - Projects/Bible Study Kit/Work is a blessing
-  - Projects/Bible Study Kit/000 Home
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
-  - Projects/Bible Study Kit/020 Interests MOC
-  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
 aliases: [Faith MOC]
 ---
 links: [[000 Home|Home]]

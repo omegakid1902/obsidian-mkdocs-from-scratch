@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-03
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-05
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-05
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-03
----# Isaiah 4
+# Isaiah 4
 
 [[Isa-03|← Isaiah 03]] | [[Isaiah]] | [[Isa-05|Isaiah 05 →]]
 ***

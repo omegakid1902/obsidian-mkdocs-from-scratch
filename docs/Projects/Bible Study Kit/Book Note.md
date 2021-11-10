@@ -1,20 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Creation account
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
-  - Projects/Bible Study Kit/Work is a blessing
-  - Projects/Bible Study Kit/Work is broken
-  - Projects/Bible Study Kit/Excellence
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-22
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-12
-  - Projects/Bible Study Kit/Note Example - Design
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-02
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-31
-backlinks:
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Creation account
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
----links: [[Examples of deductive note-taking]]
+links: [[Examples of deductive note-taking]]
 # Garden City: Work, Rest, and the Art of Being Human.
 ![pic|150](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442843359l/23403781._SX98_.jpg)
 * Author: John Mark Comer

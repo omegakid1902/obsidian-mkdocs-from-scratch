@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-07
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-09
-backlinks:
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-07
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-09
----# John 8
+# John 8
 
 [[John-07|← John 07]] | [[John]] | [[John-09|John 09 →]]
 ***

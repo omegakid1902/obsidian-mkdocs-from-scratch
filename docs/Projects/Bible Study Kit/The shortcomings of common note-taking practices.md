@@ -1,18 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
-  - Projects/Bible Study Kit/nickmilo
-  - Projects/Bible Study Kit/Split Thinking
-  - Projects/Bible Study Kit/040 Productivity MOC
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/God-centered life
-  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
-backlinks:
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/030 PKM MOC
-  - Projects/Bible Study Kit/Connecting simplifies retrieving
-  - Projects/Bible Study Kit/About me
-  - Projects/Bible Study Kit/+Start here
----links: [[Benefits of Connected Biblical Thinking]]
+links: [[Benefits of Connected Biblical Thinking]]
 # The shortcomings of common note-taking practices
 
 As dedicated disciples of Jesus, we come across what can seem like endless information, input and ideas. We go to camps and conferences, we listen to podcasts and sermons, read articles and books, not to mention our own personal time in prayer and Scripture. There's no shortage of thoughts or insight, but storing and accessing it can be tricky.

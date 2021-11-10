@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/56 - Titus/Titus-02
-  - Projects/Bible Study Kit/Scripture (BPT)/56 - Titus/Titus
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/56 - Titus/Titus-02
----# Titus 3
+# Titus 3
 
 [[Titus-02|← Titus 02]] | [[Titus]]
 ***

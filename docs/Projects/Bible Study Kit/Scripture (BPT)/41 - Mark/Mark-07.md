@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-06
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-08
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-06
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-08
----# Mark 7
+# Mark 7
 
 [[Mark-06|← Mark 06]] | [[Mark]] | [[Mark-08|Mark 08 →]]
 ***

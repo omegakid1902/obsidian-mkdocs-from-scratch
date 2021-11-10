@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-10
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-12
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-12
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-10
----# Deuteronomy 11
+# Deuteronomy 11
 
 [[Deut-10|← Deuteronomy 10]] | [[Deuteronomy]] | [[Deut-12|Deuteronomy 12 →]]
 ***

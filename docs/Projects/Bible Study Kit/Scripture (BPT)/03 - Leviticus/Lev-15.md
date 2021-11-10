@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-14
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-16
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-14
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-16
----# Leviticus 15
+# Leviticus 15
 
 [[Lev-14|← Leviticus 14]] | [[Leviticus]] | [[Lev-16|Leviticus 16 →]]
 ***

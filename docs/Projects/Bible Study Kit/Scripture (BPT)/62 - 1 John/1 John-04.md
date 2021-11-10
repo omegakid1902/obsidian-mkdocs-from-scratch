@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/62 - 1 John/1 John-03
-  - Projects/Bible Study Kit/Scripture (BPT)/62 - 1 John/1 John
-  - Projects/Bible Study Kit/Scripture (BPT)/62 - 1 John/1 John-05
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/62 - 1 John/1 John-03
-  - Projects/Bible Study Kit/Scripture (BPT)/62 - 1 John/1 John-05
----# 1 John 4
+# 1 John 4
 
 [[1 John-03|← 1 John 03]] | [[1 John]] | [[1 John-05|1 John 05 →]]
 ***

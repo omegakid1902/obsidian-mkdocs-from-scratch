@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-02
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-04
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-02
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-04
----# Joshua 3
+# Joshua 3
 
 [[Josh-02|← Joshua 02]] | [[Joshua]] | [[Josh-04|Joshua 04 →]]
 ***

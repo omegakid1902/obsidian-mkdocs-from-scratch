@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-04
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Revelation
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-06
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-06
-  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-04
----# Revelation 5
+# Revelation 5
 
 [[Rev-04|← Revelation 04]] | [[Revelation]] | [[Rev-06|Revelation 06 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-04
-  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah
-  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-06
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-04
-  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-06
----# Micah 5
+# Micah 5
 
 [[Micah-04|← Micah 04]] | [[Micah]] | [[Micah-06|Micah 06 →]]
 ***

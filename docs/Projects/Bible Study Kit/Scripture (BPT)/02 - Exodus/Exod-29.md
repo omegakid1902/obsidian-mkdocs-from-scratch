@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-28
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-30
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-28
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-30
----# Exodus 29
+# Exodus 29
 
 [[Exod-28|← Exodus 28]] | [[Exodus]] | [[Exod-30|Exodus 30 →]]
 ***

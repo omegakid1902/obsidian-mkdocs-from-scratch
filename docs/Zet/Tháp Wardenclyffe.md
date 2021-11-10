@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/People/Nicola Tesla
+backlinks:
+  - Zet/People/Nicola Tesla
 title: Tháp Wardenclyffe
 UID: 211015225041
 created: 15-Oct-2021

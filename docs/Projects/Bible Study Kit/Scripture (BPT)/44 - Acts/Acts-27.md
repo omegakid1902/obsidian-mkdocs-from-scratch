@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-26
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-28
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-26
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-28
----# Acts 27
+# Acts 27
 
 [[Acts-26|← Acts 26]] | [[Acts]] | [[Acts-28|Acts 28 →]]
 ***

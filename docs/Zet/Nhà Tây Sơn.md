@@ -1,4 +1,11 @@
 ---
+outgoing_links:
+  - Zet/Chúa Nguyễn
+  - Zet/Chúa Trịnh
+backlinks:
+  - Zet/Chúa Nguyễn
+  - Zet/Nhà Nguyễn
+  - Zet/Lịch Sử Việt Nam
 title: Nhà Tây Sơn
 UID: 
 created: 

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-12
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zechariah
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-14
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-12
-  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-14
----# Zechariah 13
+# Zechariah 13
 
 [[Zech-12|← Zechariah 12]] | [[Zechariah]] | [[Zech-14|Zechariah 14 →]]
 ***

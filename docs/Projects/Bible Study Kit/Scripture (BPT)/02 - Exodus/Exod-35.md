@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-34
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-36
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-34
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-36
----# Exodus 35
+# Exodus 35
 
 [[Exod-34|← Exodus 34]] | [[Exodus]] | [[Exod-36|Exodus 36 →]]
 ***

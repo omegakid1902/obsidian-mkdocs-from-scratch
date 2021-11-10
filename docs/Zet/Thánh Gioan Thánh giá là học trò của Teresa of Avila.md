@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/People/Thánh Gioan Thánh giá
+  - Zet/People/Teresa of Avila
+backlinks:
+  - Zet/People/Thánh Gioan Thánh giá
 title: Thánh Gioan Thánh giá là học trò của Teresa of Avila
 UID: 211023115323
 created: 23-Oct-2021

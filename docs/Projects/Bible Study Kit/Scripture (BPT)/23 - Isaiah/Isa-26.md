@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-25
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-27
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-27
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-25
----# Isaiah 26
+# Isaiah 26
 
 [[Isa-25|← Isaiah 25]] | [[Isaiah]] | [[Isa-27|Isaiah 27 →]]
 ***

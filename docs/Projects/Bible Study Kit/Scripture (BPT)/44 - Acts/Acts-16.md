@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-15
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-17
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-15
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-17
----# Acts 16
+# Acts 16
 
 [[Acts-15|← Acts 15]] | [[Acts]] | [[Acts-17|Acts 17 →]]
 ***

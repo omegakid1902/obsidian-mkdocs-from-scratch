@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-15
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Romans
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-15
----# Romans 16
+# Romans 16
 
 [[Rom-15|← Romans 15]] | [[Romans]]
 ***

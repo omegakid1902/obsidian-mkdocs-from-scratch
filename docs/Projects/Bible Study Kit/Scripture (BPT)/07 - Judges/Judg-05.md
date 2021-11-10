@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-04
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judges
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-06
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-04
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-06
----# Judges 5
+# Judges 5
 
 [[Judg-04|← Judges 04]] | [[Judges]] | [[Judg-06|Judges 06 →]]
 ***

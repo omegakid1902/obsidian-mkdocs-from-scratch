@@ -1,4 +1,17 @@
 ---
+outgoing_links:
+  - Zet/Thời Lê trung hưng
+  - Zet/Nhà Tây Sơn
+  - Zet/People/Nguyễn Hoàng
+  - Zet/Chúa Trịnh
+  - Zet/Đàng Ngoài
+  - Zet/Nhà Nguyễn
+  - Zet/Chúa Nguyễn
+backlinks:
+  - Zet/Chúa Nguyễn
+  - Zet/Nhà Tây Sơn
+  - Zet/Nhà Nguyễn
+  - Zet/People/Nguyễn Hoàng
 title: Chúa Nguyễn
 UID: 2107140826
 tags:

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-38
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-40
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-40
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-38
----# Exodus 39
+# Exodus 39
 
 [[Exod-38|← Exodus 38]] | [[Exodus]] | [[Exod-40|Exodus 40 →]]
 ***

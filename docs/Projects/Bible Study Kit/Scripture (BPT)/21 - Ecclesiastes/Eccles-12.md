@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-11
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Ecclesiastes
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-11
----# Ecclesiastes 12
+# Ecclesiastes 12
 
 [[Eccles-11|← Ecclesiastes 11]] | [[Ecclesiastes]]
 ***

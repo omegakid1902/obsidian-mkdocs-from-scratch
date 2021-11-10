@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-14
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-16
-backlinks:
-  - Projects/Bible Study Kit/Chaotic Waters (Image)
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-14
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-16
----# Exodus 15
+# Exodus 15
 
 [[Exod-14|← Exodus 14]] | [[Exodus]] | [[Exod-16|Exodus 16 →]]
 ***

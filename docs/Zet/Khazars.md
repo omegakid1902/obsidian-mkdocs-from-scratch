@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/Người Do Thái
+  - Zet/Qmap
+backlinks:
+  - Zet/Do Thái Edomite
+  - Zet/Qmap
 title: Khazars
 UID: 211029233335
 created: 29-Oct-2021

@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Chemtrails
+backlinks:
+  - Zet/Chemtrails
 title: Contrails
 UID: 211023154100
 created: 23-Oct-2021

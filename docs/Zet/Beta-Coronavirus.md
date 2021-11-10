@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/Coronavirus
+  - Zet/SARS-COV-2
+  - Zet/MERS-CoV
+backlinks:
+  - Zet/Coronavirus
 title: Beta-Coronavirus
 UID: 2107101320
 tags:

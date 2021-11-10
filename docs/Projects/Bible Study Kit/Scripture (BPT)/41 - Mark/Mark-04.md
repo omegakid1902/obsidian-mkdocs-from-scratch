@@ -1,13 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-03
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-05
-backlinks:
-  - Projects/Bible Study Kit/Examples of inductive note-taking
-  - Projects/Bible Study Kit/Sleep
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-05
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-03
----# Mark 4
+# Mark 4
 
 [[Mark-03|← Mark 03]] | [[Mark]] | [[Mark-05|Mark 05 →]]
 ***

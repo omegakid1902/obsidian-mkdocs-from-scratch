@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-08
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Ecclesiastes
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-10
-backlinks:
-  - Projects/Bible Study Kit/040 Productivity MOC
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-10
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-08
----# Ecclesiastes 9
+# Ecclesiastes 9
 
 [[Eccles-08|← Ecclesiastes 08]] | [[Ecclesiastes]] | [[Eccles-10|Ecclesiastes 10 →]]
 ***

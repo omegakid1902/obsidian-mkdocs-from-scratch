@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/Financial Policy
-  - Projects/Bible Study Kit/What is the Gospel
-backlinks:
-  - Projects/Bible Study Kit/+Overview
----links: [[+Overview|Overview]]
+links: [[+Overview|Overview]]
 # Release Notes
 ## Releases
 * v1 (2021-02-06): First release

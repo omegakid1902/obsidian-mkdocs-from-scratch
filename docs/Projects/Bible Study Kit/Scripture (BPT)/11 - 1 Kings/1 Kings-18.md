@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-17
-  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings
-  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-19
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-17
-  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-19
----# 1 Kings 18
+# 1 Kings 18
 
 [[1 Kings-17|← 1 Kings 17]] | [[1 Kings]] | [[1 Kings-19|1 Kings 19 →]]
 ***

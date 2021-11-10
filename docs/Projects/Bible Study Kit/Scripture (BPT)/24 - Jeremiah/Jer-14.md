@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-13
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-15
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-15
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-13
----# Jeremiah 14
+# Jeremiah 14
 
 [[Jer-13|← Jeremiah 13]] | [[Jeremiah]] | [[Jer-15|Jeremiah 15 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-16
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-18
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-16
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-18
----# Isaiah 17
+# Isaiah 17
 
 [[Isa-16|← Isaiah 16]] | [[Isaiah]] | [[Isa-18|Isaiah 18 →]]
 ***

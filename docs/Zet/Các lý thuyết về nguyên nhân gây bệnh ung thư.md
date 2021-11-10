@@ -1,4 +1,7 @@
 ---
+backlinks:
+  - Zet/Bệnh ung thư
+  - Zet/People/Louis Pasteur
 title: Các lý thuyết về nguyên nhân gây bệnh ung thư
 UID: 211010163138
 created: 10-Oct-2021

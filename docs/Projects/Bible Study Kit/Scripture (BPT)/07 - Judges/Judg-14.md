@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-13
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judges
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-15
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-13
-  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-15
----# Judges 14
+# Judges 14
 
 [[Judg-13|← Judges 13]] | [[Judges]] | [[Judg-15|Judges 15 →]]
 ***

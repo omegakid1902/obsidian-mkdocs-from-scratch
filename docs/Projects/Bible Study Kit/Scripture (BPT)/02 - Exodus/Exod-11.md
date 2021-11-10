@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-10
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-12
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-10
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-12
----# Exodus 11
+# Exodus 11
 
 [[Exod-10|← Exodus 10]] | [[Exodus]] | [[Exod-12|Exodus 12 →]]
 ***

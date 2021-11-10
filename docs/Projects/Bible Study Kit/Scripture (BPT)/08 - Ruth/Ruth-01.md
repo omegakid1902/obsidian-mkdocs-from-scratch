@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/08 - Ruth/Ruth
-  - Projects/Bible Study Kit/Scripture (BPT)/08 - Ruth/Ruth-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/08 - Ruth/Ruth
-  - Projects/Bible Study Kit/Scripture (BPT)/08 - Ruth/Ruth-02
----# Ruth 1
+# Ruth 1
 
 [[Ruth]] | [[Ruth-02|Ruth 02 →]]
 ***

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-08
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-10
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-08
----# Ezekiel 9
+# Ezekiel 9
 
 [[Ezek-08|← Ezekiel 08]] | [[Ezekiel]] | [[Ezek-10|Ezekiel 10 →]]
 ***

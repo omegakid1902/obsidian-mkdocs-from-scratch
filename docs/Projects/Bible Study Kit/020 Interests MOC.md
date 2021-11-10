@@ -1,16 +1,4 @@
 ---
-outgoing_links:
-  - Projects/Bible Study Kit/000 Home
-  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-12
-  - Projects/Bible Study Kit/030 PKM MOC
-  - Projects/Bible Study Kit/Glossary
-  - Projects/Bible Study Kit/Sleep
-  - Projects/Bible Study Kit/010 Faith MOC
-backlinks:
-  - Projects/Bible Study Kit/000 Home
-  - Projects/Bible Study Kit/Examples of deductive note-taking
-  - Projects/Bible Study Kit/Connecting makes you engage Scripture
-  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
 aliases: [Interests MOC]
 ---
 links: [[000 Home|Home]]

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-20
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-22
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-22
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-20
----# Job 21
+# Job 21
 
 [[Job-20|← Job 20]] | [[Job]] | [[Job-22|Job 22 →]]
 ***

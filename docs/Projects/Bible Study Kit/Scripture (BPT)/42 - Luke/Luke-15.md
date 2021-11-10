@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-14
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-16
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-14
-  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-16
----# Luke 15
+# Luke 15
 
 [[Luke-14|← Luke 14]] | [[Luke]] | [[Luke-16|Luke 16 →]]
 ***

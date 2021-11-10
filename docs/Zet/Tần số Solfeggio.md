@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/People/Nicola Tesla
+  - Zet/Các nốt nhạc được lấy theo tên của Solfeggio
+backlinks:
+  - Zet/Các nốt nhạc được lấy theo tên của Solfeggio
 title: Tần số Solfeggio
 UID: 211020224914
 created: 20-Oct-2021

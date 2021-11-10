@@ -1,4 +1,9 @@
 ---
+backlinks:
+  - Zet/Nhà Trần
+  - Zet/Lịch Sử Việt Nam
+  - Zet/People/Trần Thủ Độ
+  - Zet/People/Lý Chiêu Hoàng
 publish: True
 ---
 # Nhà Lý MOC

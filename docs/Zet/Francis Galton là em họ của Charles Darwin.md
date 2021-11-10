@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/People/Charles Darwin
+backlinks:
+  - Zet/Eugenics
 title: Francis Galton là em họ của Charles Darwin
 UID: 210919170745
 created: 19-Sep-2021

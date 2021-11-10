@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-11
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Daniel
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-11
----# Daniel 12
+# Daniel 12
 
 [[Dan-11|← Daniel 11]] | [[Daniel]]
 ***

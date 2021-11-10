@@ -1,4 +1,15 @@
 ---
+outgoing_links:
+  - Zet/Công Giáo
+  - Zet/Anh giáo
+  - Zet/Chính thống giáo Đông Phương
+  - Zet/Tin Lành
+  - Zet/Hồi Giáo
+  - Zet/Do Thái Giáo
+  - Zet/Phật Giáo
+  - Zet/Ấn Độ giáo
+backlinks:
+  - Zet/Interests
 title: Religion
 UID: 211001213145
 created: 01-Oct-2021

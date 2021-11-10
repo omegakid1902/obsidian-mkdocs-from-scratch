@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-13
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-15
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-13
-  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-15
----# Numbers 14
+# Numbers 14
 
 [[Num-13|← Numbers 13]] | [[Numbers]] | [[Num-15|Numbers 15 →]]
 ***

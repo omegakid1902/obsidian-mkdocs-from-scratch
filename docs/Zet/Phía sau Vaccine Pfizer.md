@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Vaccine Pfizer
+backlinks:
+  - Zet/Vaccine Pfizer
 title: Phía sau Vaccine Pfizer
 UID: 211008224618
 created: 08-Oct-2021

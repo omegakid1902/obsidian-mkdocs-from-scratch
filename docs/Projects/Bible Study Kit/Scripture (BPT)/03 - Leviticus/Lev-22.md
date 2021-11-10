@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-21
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-23
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-21
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-23
----# Leviticus 22
+# Leviticus 22
 
 [[Lev-21|← Leviticus 21]] | [[Leviticus]] | [[Lev-23|Leviticus 23 →]]
 ***

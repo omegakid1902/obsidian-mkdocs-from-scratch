@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-20
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-22
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-22
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-20
----# Ezekiel 21
+# Ezekiel 21
 
 [[Ezek-20|← Ezekiel 20]] | [[Ezekiel]] | [[Ezek-22|Ezekiel 22 →]]
 ***

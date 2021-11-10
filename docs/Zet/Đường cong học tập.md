@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Spaced Repetition
+backlinks:
+  - Zet/SM-Algorithm
 title: Learning Curl - Đường cong học tập
 created: Nov 21, 2020 12:43 AM
 tags:

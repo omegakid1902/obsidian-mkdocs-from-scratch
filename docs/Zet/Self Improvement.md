@@ -1,4 +1,12 @@
 ---
+outgoing_links:
+  - Zet/Phương pháp Pomodoro
+  - Zet/Zettelkasten
+  - Zet/Incremental Reading
+  - Zet/Kỹ thuật học tập Feymann
+backlinks:
+  - Zet/Rat race
+  - Zet/Interests
 title: Self Improvement
 tags:
   - 'created/2021/Aug/10'

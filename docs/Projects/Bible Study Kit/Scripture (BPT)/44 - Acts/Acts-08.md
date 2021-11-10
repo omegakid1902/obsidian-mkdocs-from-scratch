@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-07
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-09
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-07
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-09
----# Acts 8
+# Acts 8
 
 [[Acts-07|← Acts 07]] | [[Acts]] | [[Acts-09|Acts 09 →]]
 ***

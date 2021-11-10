@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-05
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-07
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-07
-  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-05
----# Leviticus 6
+# Leviticus 6
 
 [[Lev-05|← Leviticus 05]] | [[Leviticus]] | [[Lev-07|Leviticus 07 →]]
 ***

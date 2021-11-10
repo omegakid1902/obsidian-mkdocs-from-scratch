@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-12
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-14
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-14
-  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-12
----# Deuteronomy 13
+# Deuteronomy 13
 
 [[Deut-12|← Deuteronomy 12]] | [[Deuteronomy]] | [[Deut-14|Deuteronomy 14 →]]
 ***

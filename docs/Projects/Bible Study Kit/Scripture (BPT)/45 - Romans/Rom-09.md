@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-08
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Romans
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-10
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-08
----# Romans 9
+# Romans 9
 
 [[Rom-08|← Romans 08]] | [[Romans]] | [[Rom-10|Romans 10 →]]
 ***

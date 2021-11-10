@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-19
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-21
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-19
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-21
----# Joshua 20
+# Joshua 20
 
 [[Josh-19|← Joshua 19]] | [[Joshua]] | [[Josh-21|Joshua 21 →]]
 ***

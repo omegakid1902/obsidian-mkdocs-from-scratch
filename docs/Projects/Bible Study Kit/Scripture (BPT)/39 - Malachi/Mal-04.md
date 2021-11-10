@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/39 - Malachi/Mal-03
-  - Projects/Bible Study Kit/Scripture (BPT)/39 - Malachi/Malachi
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/39 - Malachi/Mal-03
----# Malachi 4
+# Malachi 4
 
 [[Mal-03|← Malachi 03]] | [[Malachi]]
 ***

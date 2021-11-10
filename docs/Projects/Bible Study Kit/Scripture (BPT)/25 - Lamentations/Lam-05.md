@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lam-04
-  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lamentations
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lam-04
----# Lamentations 5
+# Lamentations 5
 
 [[Lam-04|← Lamentations 04]] | [[Lamentations]]
 ***

@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/HTML Language
+backlinks:
+  - Zet/Programming
+  - Zet/Obsidian
 title: Markdown Language
 UID: 2107052127
 created: July 5, 2021 9:27 PM

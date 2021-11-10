@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-28
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-30
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-28
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-30
----# Genesis 29
+# Genesis 29
 
 [[Gen-28|← Genesis 28]] | [[Genesis]] | [[Gen-30|Genesis 30 →]]
 ***

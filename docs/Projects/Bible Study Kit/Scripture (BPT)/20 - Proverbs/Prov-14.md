@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-13
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-15
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-15
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-13
----# Proverbs 14
+# Proverbs 14
 
 [[Prov-13|← Proverbs 13]] | [[Proverbs]] | [[Prov-15|Proverbs 15 →]]
 ***

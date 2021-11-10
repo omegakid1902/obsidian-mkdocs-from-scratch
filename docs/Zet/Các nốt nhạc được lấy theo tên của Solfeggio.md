@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Tần số Solfeggio
+backlinks:
+  - Zet/Tần số Solfeggio
 title: Các nốt nhạc được lấy theo tên của Solfeggio
 UID: 211021221419
 created: 21-Oct-2021

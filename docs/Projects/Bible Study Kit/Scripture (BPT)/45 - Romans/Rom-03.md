@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-02
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Romans
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-04
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-02
-  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-04
----# Romans 3
+# Romans 3
 
 [[Rom-02|← Romans 02]] | [[Romans]] | [[Rom-04|Romans 04 →]]
 ***

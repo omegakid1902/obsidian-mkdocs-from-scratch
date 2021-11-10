@@ -1,21 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/010 Faith MOC
-  - Projects/Bible Study Kit/Split Thinking
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-15
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-08
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-backlinks:
-  - Projects/Bible Study Kit/+Overview
-  - Projects/Bible Study Kit/Split Thinking
-  - Projects/Bible Study Kit/Examples of inductive note-taking
-  - Projects/Bible Study Kit/010 Faith MOC
-  - Projects/Bible Study Kit/Connected Biblical Thinking
-  - Projects/Bible Study Kit/Start connecting Scripture
-  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
-  - Projects/Bible Study Kit/Connecting makes you engage Scripture
-  - Projects/Bible Study Kit/About me
-  - Projects/Bible Study Kit/Sleep
----links: [[010 Faith MOC|Faith MOC]]
+links: [[010 Faith MOC|Faith MOC]]
 # God-centered life
 > “Mack, I don’t want to be first among a list of values; I want to be at the center of everything. […] 
 > 

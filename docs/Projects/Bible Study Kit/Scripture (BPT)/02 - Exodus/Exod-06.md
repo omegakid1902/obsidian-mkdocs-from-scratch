@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-05
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-07
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-05
-  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-07
----# Exodus 6
+# Exodus 6
 
 [[Exod-05|← Exodus 05]] | [[Exodus]] | [[Exod-07|Exodus 07 →]]
 ***

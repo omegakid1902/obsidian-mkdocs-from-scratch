@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-01
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Ecclesiastes
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-03
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-03
-  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-01
----# Ecclesiastes 2
+# Ecclesiastes 2
 
 [[Eccles-01|← Ecclesiastes 01]] | [[Ecclesiastes]] | [[Eccles-03|Ecclesiastes 03 →]]
 ***

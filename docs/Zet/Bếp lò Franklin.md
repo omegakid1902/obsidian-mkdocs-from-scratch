@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Benjamin Franklin
 publish: True
 ---
 # Bếp lò Franklin

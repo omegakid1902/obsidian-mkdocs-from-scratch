@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-08
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Hebrews
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-08
-  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-10
----# Hebrews 9
+# Hebrews 9
 
 [[Heb-08|← Hebrews 08]] | [[Hebrews]] | [[Heb-10|Hebrews 10 →]]
 ***

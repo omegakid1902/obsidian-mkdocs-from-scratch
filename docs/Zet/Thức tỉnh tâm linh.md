@@ -1,4 +1,17 @@
 ---
+outgoing_links:
+  - Zet/People/Thánh Gioan Thánh giá
+  - Zet/Bóng tối linh hồn
+  - Zet/Khủng hoảng hiện sinh
+  - Zet/Rat race
+backlinks:
+  - Zet/Khủng hoảng hiện sinh
+  - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
+  - Zet/Trung thế giới
+  - Zet/Thế giới tâm linh
+  - Zet/Hạ thế giới
+  - Zet/Starseed
+  - Zet/Bóng tối linh hồn
 title: Thức tỉnh tâm linh
 UID: 211017225545
 created: 17-Oct-2021

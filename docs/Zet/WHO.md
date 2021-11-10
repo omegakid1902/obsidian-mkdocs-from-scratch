@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/People/Bill Gates
+  - Zet/FDA
+  - Zet/COVID-19
+backlinks:
+  - Zet/Đại dịch COVID-19
 title: WHO
 UID: 211017224634
 created: 17-Oct-2021

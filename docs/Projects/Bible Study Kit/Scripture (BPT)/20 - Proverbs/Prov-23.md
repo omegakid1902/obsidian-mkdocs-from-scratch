@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-22
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-24
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-24
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-22
----# Proverbs 23
+# Proverbs 23
 
 [[Prov-22|← Proverbs 22]] | [[Proverbs]] | [[Prov-24|Proverbs 24 →]]
 ***

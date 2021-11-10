@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Galatians
-  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-02
-  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Galatians
----# Galatians 1
+# Galatians 1
 
 [[Galatians]] | [[Gal-02|Galatians 02 →]]
 ***

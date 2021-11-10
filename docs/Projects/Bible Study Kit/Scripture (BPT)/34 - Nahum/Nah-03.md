@@ -1,9 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/34 - Nahum/Nah-02
-  - Projects/Bible Study Kit/Scripture (BPT)/34 - Nahum/Nahum
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/34 - Nahum/Nah-02
----# Nahum 3
+# Nahum 3
 
 [[Nah-02|← Nahum 02]] | [[Nahum]]
 ***

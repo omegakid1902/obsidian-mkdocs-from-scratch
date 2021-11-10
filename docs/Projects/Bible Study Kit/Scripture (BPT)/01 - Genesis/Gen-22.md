@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-21
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-23
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-21
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-23
----# Genesis 22
+# Genesis 22
 
 [[Gen-21|← Genesis 21]] | [[Genesis]] | [[Gen-23|Genesis 23 →]]
 ***

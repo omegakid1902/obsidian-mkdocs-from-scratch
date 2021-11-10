@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-12
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-14
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-12
-  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-14
----# John 13
+# John 13
 
 [[John-12|← John 12]] | [[John]] | [[John-14|John 14 →]]
 ***

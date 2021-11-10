@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-21
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-23
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-21
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-23
----# Matthew 22
+# Matthew 22
 
 [[Matt-21|← Matthew 21]] | [[Matthew]] | [[Matt-23|Matthew 23 →]]
 ***

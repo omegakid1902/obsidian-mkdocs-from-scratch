@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Flask lib
 title: Python standard library
 UID: 2107072353
 tags:

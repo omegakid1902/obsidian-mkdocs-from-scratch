@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-01
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-03
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-01
-  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-03
----# Ezekiel 2
+# Ezekiel 2
 
 [[Ezek-01|← Ezekiel 01]] | [[Ezekiel]] | [[Ezek-03|Ezekiel 03 →]]
 ***

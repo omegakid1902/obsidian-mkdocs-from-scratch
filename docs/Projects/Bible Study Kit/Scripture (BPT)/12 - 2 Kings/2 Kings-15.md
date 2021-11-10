@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-14
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-16
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-14
-  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-16
----# 2 Kings 15
+# 2 Kings 15
 
 [[2 Kings-14|← 2 Kings 14]] | [[2 Kings]] | [[2 Kings-16|2 Kings 16 →]]
 ***

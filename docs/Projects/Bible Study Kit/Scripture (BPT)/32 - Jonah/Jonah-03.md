@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah-02
-  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah
-  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah-04
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah-04
-  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah-02
----# Jonah 3
+# Jonah 3
 
 [[Jonah-02|← Jonah 02]] | [[Jonah]] | [[Jonah-04|Jonah 04 →]]
 ***

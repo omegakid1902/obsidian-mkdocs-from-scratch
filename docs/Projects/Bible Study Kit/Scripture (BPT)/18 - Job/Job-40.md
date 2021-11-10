@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-39
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-41
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-41
-  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-39
----# Job 40
+# Job 40
 
 [[Job-39|← Job 39]] | [[Job]] | [[Job-41|Job 41 →]]
 ***

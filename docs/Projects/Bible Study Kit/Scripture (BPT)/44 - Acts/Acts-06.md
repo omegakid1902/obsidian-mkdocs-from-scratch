@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-05
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-07
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-05
-  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-07
----# Acts 6
+# Acts 6
 
 [[Acts-05|← Acts 05]] | [[Acts]] | [[Acts-07|Acts 07 →]]
 ***

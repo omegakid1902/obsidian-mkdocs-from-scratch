@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/People/Trần Hưng Đạo
+backlinks:
+  - Zet/Nhà Trần
+  - Zet/Lịch Sử Việt Nam
+  - Zet/People/Thuận Thiên công chúa
 title: Trần Quang Khải
 UID: 210902132747
 tags:

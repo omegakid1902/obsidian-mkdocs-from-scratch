@@ -1,4 +1,10 @@
 ---
+outgoing_links:
+  - Zet/Nhà Hậu Hán
+backlinks:
+  - Zet/Xích Thố
+  - Zet/Lịch sử Trung Quốc
+  - Zet/People/Lã Bố
 title: Đổng Trác
 UID: 210828112625
 tags:

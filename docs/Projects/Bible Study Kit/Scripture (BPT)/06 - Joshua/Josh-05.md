@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-04
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-06
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-04
-  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-06
----# Joshua 5
+# Joshua 5
 
 [[Josh-04|← Joshua 04]] | [[Joshua]] | [[Josh-06|Joshua 06 →]]
 ***

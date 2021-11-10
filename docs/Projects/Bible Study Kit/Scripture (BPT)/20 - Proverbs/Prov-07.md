@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-06
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-08
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-08
-  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-06
----# Proverbs 7
+# Proverbs 7
 
 [[Prov-06|← Proverbs 06]] | [[Proverbs]] | [[Prov-08|Proverbs 08 →]]
 ***

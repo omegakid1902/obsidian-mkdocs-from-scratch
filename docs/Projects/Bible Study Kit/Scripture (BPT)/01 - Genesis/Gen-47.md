@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-46
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-48
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-46
-  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-48
----# Genesis 47
+# Genesis 47
 
 [[Gen-46|← Genesis 46]] | [[Genesis]] | [[Gen-48|Genesis 48 →]]
 ***

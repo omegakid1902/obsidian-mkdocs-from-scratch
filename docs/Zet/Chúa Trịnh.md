@@ -1,4 +1,12 @@
 ---
+outgoing_links:
+  - Zet/Đàng Ngoài
+  - Zet/Thời Lê trung hưng
+backlinks:
+  - Zet/Chúa Nguyễn
+  - Zet/Đàng Ngoài
+  - Zet/Nhà Tây Sơn
+  - Zet/Thời Lê trung hưng
 title: Chúa Trịnh
 UID: P-210712-2120
 created: 

@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-17
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-19
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-17
-  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-19
----# Jeremiah 18
+# Jeremiah 18
 
 [[Jer-17|← Jeremiah 17]] | [[Jeremiah]] | [[Jer-19|Jeremiah 19 →]]
 ***

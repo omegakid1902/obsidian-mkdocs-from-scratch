@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-11
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-13
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-13
-  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-11
----# Isaiah 12
+# Isaiah 12
 
 [[Isa-11|← Isaiah 11]] | [[Isaiah]] | [[Isa-13|Isaiah 13 →]]
 ***

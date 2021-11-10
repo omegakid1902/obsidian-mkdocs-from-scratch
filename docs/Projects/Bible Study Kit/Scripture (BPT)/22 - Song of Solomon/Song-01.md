@@ -1,10 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song of Solomon
-  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-02
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song of Solomon
-  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-02
----# Song of Solomon 1
+# Song of Solomon 1
 
 [[Song of Solomon]] | [[Song-02|Song of Solomon 02 →]]
 ***

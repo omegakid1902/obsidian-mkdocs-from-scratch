@@ -1,12 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-05
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-07
-backlinks:
-  - Projects/Bible Study Kit/Chaotic Waters (Image)
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-07
-  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-05
----# Mark 6
+# Mark 6
 
 [[Mark-05|← Mark 05]] | [[Mark]] | [[Mark-07|Mark 07 →]]
 ***

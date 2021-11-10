@@ -1,4 +1,4 @@
-------# Markdown for Obsidian MOC
+# Markdown for Obsidian MOC
 %% - metadata:
 	- tags: #MOC #project %% 
 

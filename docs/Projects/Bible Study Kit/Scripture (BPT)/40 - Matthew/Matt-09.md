@@ -1,11 +1,4 @@
----outgoing_links:
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-08
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-10
-backlinks:
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-08
-  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-10
----# Matthew 9
+# Matthew 9
 
 [[Matt-08|← Matthew 08]] | [[Matthew]] | [[Matt-10|Matthew 10 →]]
 ***
