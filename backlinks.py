@@ -271,11 +271,13 @@ for node in nodes:
         
         if node == outgoing:
             continue
-
-        link_info["source"] = nodes[node]["id"]
-        link_info["target"] = nodes[outgoing]["id"]
-        link_info["value"] = 1
-        graph_nodes["links"].append(link_info)
+        try:
+            link_info["source"] = nodes[node]["id"]
+            link_info["target"] = nodes[outgoing]["id"]
+            link_info["value"] = 1
+            graph_nodes["links"].append(link_info)
+        except:
+            print("Error")
 
 with open('docs/d3graph/graph_nodes.json', 'w', encoding="utf-8") as outfile:
     json.dump(graph_nodes, outfile, indent=4, ensure_ascii=False)
