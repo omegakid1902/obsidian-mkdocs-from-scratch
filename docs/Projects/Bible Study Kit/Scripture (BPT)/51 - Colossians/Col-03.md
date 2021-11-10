@@ -1,4 +1,11 @@
-# Colossians 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/51 - Colossians/Col-02
+  - Projects/Bible Study Kit/Scripture (BPT)/51 - Colossians/Colossians
+  - Projects/Bible Study Kit/Scripture (BPT)/51 - Colossians/Col-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/51 - Colossians/Col-02
+  - Projects/Bible Study Kit/Scripture (BPT)/51 - Colossians/Col-04
+---# Colossians 3
 
 [[Col-02|← Colossians 02]] | [[Colossians]] | [[Col-04|Colossians 04 →]]
 ***

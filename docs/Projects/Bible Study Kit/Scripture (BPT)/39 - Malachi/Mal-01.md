@@ -1,4 +1,10 @@
-# Malachi 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/39 - Malachi/Malachi
+  - Projects/Bible Study Kit/Scripture (BPT)/39 - Malachi/Mal-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/39 - Malachi/Malachi
+  - Projects/Bible Study Kit/Scripture (BPT)/39 - Malachi/Mal-02
+---# Malachi 1
 
 [[Malachi]] | [[Mal-02|Malachi 02 →]]
 ***

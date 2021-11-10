@@ -1,4 +1,13 @@
-# Ephesians 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-01
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephesians
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-03
+backlinks:
+  - Projects/Bible Study Kit/What is the Gospel
+  - Projects/Bible Study Kit/Financial Policy
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-03
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-01
+---# Ephesians 2
 
 [[Ephes-01|← Ephesians 01]] | [[Ephesians]] | [[Ephes-03|Ephesians 03 →]]
 ***

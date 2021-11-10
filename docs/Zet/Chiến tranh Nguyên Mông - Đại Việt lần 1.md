@@ -1,9 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Nhà Trần
-  - Zet/People/Trần Thủ Độ
-  - Zet/Vườn không nhà trống
-  - Zet/Nhà Nguyên-Mông
 title: "Chiến tranh Nguyên Mông - Đại Việt lần 1"
 UID: 210817221428
 tags:

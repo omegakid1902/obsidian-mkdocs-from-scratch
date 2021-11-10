@@ -1,4 +1,11 @@
-# Jeremiah 31
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-30
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-32
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-32
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-30
+---# Jeremiah 31
 
 [[Jer-30|← Jeremiah 30]] | [[Jeremiah]] | [[Jer-32|Jeremiah 32 →]]
 ***

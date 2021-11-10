@@ -1,4 +1,11 @@
-# Numbers 23
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-22
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-24
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-22
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-24
+---# Numbers 23
 
 [[Num-22|← Numbers 22]] | [[Numbers]] | [[Num-24|Numbers 24 →]]
 ***

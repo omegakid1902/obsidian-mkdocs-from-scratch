@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Luân xa
-  - Zet/Luân xa xương cùng
-  - Zet/Luân xa rốn
-backlinks:
-  - Zet/Luân xa
 title: Cơ thể con người có 7 luân xa
 UID: 211017144558
 created: 17-Oct-2021

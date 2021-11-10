@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Khủng hoảng hiện sinh
-  - Zet/Thức tỉnh tâm linh
 title: Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
 UID: 211017144038
 created: 17-Oct-2021

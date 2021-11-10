@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/CDC
-  - Zet/FDA
-  - Zet/Real time PCR test
-backlinks:
-  - Zet/Đại dịch COVID-19
 title: CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
 UID: 211101224459
 created: 01-Nov-2021

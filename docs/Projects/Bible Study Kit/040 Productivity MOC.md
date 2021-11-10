@@ -1,4 +1,15 @@
 ---
+outgoing_links:
+  - Projects/Bible Study Kit/000 Home
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-09
+  - Projects/Bible Study Kit/Work is a blessing
+  - Projects/Bible Study Kit/Excellence
+  - Projects/Bible Study Kit/Work is broken
+backlinks:
+  - Projects/Bible Study Kit/000 Home
+  - Projects/Bible Study Kit/Examples of deductive note-taking
+  - Projects/Bible Study Kit/The shortcomings of common note-taking practices
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
 aliases: [Productivity MOC]
 ---
 links: [[000 Home|Home]]

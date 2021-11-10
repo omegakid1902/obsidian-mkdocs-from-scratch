@@ -1,4 +1,11 @@
-# Luke 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-16
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-18
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-16
+---# Luke 17
 
 [[Luke-16|← Luke 16]] | [[Luke]] | [[Luke-18|Luke 18 →]]
 ***

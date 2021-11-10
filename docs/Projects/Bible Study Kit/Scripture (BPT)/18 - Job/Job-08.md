@@ -1,4 +1,11 @@
-# Job 8
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-07
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-09
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-09
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-07
+---# Job 8
 
 [[Job-07|← Job 07]] | [[Job]] | [[Job-09|Job 09 →]]
 ***

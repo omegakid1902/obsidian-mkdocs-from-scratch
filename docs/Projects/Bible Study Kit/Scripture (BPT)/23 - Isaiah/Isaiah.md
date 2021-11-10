@@ -1,4 +1,74 @@
-links: [[The bible]]
+---outgoing_links:
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-01
+  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-48
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-16
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-09
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-34
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-52
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-01
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-06
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-64
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-61
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-32
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-59
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-24
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-15
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-56
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-05
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-21
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-07
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-42
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-14
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-27
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-43
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-60
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-47
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-45
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-20
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-35
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-41
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-62
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-55
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-30
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-25
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-31
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-04
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-51
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-53
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-54
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-26
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-02
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-46
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-29
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-50
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-19
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-66
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-49
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-39
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-13
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-33
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-12
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-38
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-03
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-44
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-11
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-23
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-17
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-36
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-08
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-28
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-10
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-40
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-37
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-65
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-63
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-22
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-57
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-18
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-58
+---links: [[The bible]]
 # Isaiah
 
 [[Isa-01|Start Reading →]]

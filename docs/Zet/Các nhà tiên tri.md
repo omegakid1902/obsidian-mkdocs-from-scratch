@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Baba Vanga
-  - Zet/People/Abhigya Anand
-  - Zet/People/Boriska Kipriyanovich
-backlinks:
-  - Zet/Thế giới tâm linh
 title: Các nhà tiên tri
 UID: 211015223755
 created: 15-Oct-2021

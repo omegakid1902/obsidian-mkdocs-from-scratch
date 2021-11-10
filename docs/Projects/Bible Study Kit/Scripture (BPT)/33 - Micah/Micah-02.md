@@ -1,4 +1,11 @@
-# Micah 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-01
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-03
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-01
+---# Micah 2
 
 [[Micah-01|← Micah 01]] | [[Micah]] | [[Micah-03|Micah 03 →]]
 ***

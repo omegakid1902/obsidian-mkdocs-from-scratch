@@ -1,4 +1,11 @@
-# Ezekiel 44
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-43
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-45
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-45
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-43
+---# Ezekiel 44
 
 [[Ezek-43|← Ezekiel 43]] | [[Ezekiel]] | [[Ezek-45|Ezekiel 45 →]]
 ***

@@ -1,4 +1,9 @@
-# John 21
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-20
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-20
+---# John 21
 
 [[John-20|← John 20]] | [[John]]
 ***

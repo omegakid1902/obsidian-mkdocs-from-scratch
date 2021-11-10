@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Obsidian
 publish: True
 ---
 # Backlink

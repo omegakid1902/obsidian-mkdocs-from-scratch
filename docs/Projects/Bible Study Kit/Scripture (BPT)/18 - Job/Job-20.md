@@ -1,4 +1,11 @@
-# Job 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-19
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-19
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-21
+---# Job 20
 
 [[Job-19|← Job 19]] | [[Job]] | [[Job-21|Job 21 →]]
 ***

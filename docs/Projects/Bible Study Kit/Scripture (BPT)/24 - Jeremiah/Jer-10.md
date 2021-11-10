@@ -1,4 +1,11 @@
-# Jeremiah 10
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-09
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-11
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-11
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-09
+---# Jeremiah 10
 
 [[Jer-09|← Jeremiah 09]] | [[Jeremiah]] | [[Jer-11|Jeremiah 11 →]]
 ***

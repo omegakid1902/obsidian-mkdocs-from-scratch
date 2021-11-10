@@ -1,4 +1,11 @@
-# Deuteronomy 28
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-27
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-29
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-29
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-27
+---# Deuteronomy 28
 
 [[Deut-27|← Deuteronomy 27]] | [[Deuteronomy]] | [[Deut-29|Deuteronomy 29 →]]
 ***

@@ -1,4 +1,11 @@
-# John 9
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-08
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-10
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-10
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-08
+---# John 9
 
 [[John-08|← John 08]] | [[John]] | [[John-10|John 10 →]]
 ***

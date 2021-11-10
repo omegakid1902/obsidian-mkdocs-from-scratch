@@ -1,4 +1,10 @@
-# Numbers 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-02
+---# Numbers 1
 
 [[Numbers]] | [[Num-02|Numbers 02 →]]
 ***

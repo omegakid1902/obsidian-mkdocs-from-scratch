@@ -1,4 +1,11 @@
-# Hebrews 7
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-06
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Hebrews
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-08
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-08
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-06
+---# Hebrews 7
 
 [[Heb-06|← Hebrews 06]] | [[Hebrews]] | [[Heb-08|Hebrews 08 →]]
 ***

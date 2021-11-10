@@ -1,4 +1,11 @@
-# Genesis 24
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-23
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-25
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-23
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-25
+---# Genesis 24
 
 [[Gen-23|← Genesis 23]] | [[Genesis]] | [[Gen-25|Genesis 25 →]]
 ***

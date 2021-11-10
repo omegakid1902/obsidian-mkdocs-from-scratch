@@ -1,14 +1,4 @@
 ---
-outgoing_links:
-  - Zet/God
-  - Zet/People/Đức Jesus
-  - Zet/Tóm tắt sách Sáng Thế
-backlinks:
-  - Zet/Bản bảy mươi
-  - Zet/Lucifer
-  - Zet/Công Giáo
-  - Zet/Ngũ Kinh Cựu Ước
-  - Zet/Người Do Thái
 title: Cựu Ước
 UID: 2107311703
 created: 22-Sep-2021

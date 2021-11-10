@@ -1,4 +1,11 @@
-# Isaiah 43
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-42
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-44
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-42
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-44
+---# Isaiah 43
 
 [[Isa-42|← Isaiah 42]] | [[Isaiah]] | [[Isa-44|Isaiah 44 →]]
 ***

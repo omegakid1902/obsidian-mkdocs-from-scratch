@@ -1,11 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Nhà Trần
-backlinks:
-  - Zet/Nhà Trần
-  - Zet/Lịch Sử Việt Nam
-  - Zet/People/Trần Quang Khải
-  - Zet/People/Trần Liễu
 title: Trần Hưng Đạo
 UID: 210902131110
 tags:

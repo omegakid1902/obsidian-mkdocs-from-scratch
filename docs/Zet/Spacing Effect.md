@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Spaced Repetition
 title: Spacing Effect
 created: Nov 21, 2020 12:38 AM
 tags:

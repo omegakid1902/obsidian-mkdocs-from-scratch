@@ -1,4 +1,11 @@
-# Acts 24
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-23
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-25
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-25
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-23
+---# Acts 24
 
 [[Acts-23|← Acts 23]] | [[Acts]] | [[Acts-25|Acts 25 →]]
 ***

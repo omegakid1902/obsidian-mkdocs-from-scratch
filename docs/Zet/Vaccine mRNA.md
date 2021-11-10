@@ -1,12 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Robert Wallace Malone
-  - Zet/Các loại Vaccine COVID 19
-  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
-backlinks:
-  - Zet/Đại dịch COVID-19
-  - Zet/Các loại Vaccine COVID 19
-  - Zet/People/Robert Wallace Malone
 title: Vaccine mRNA
 UID: 2107100907
 tags:

@@ -1,4 +1,11 @@
-# Job 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-02
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-04
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-02
+---# Job 3
 
 [[Job-02|← Job 02]] | [[Job]] | [[Job-04|Job 04 →]]
 ***

@@ -1,4 +1,11 @@
-# Joshua 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-16
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-18
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-16
+---# Joshua 17
 
 [[Josh-16|← Joshua 16]] | [[Joshua]] | [[Josh-18|Joshua 18 →]]
 ***

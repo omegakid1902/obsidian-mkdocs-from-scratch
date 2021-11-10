@@ -1,4 +1,11 @@
-# John 12
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-11
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-13
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-11
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-13
+---# John 12
 
 [[John-11|← John 11]] | [[John]] | [[John-13|John 13 →]]
 ***

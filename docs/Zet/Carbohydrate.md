@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Carbohydrate
-backlinks:
-  - Zet/Carbohydrate
 publish: True
 ---
 # Carbohydrate

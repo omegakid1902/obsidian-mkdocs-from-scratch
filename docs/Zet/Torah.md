@@ -1,11 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Do Thái Giáo
-  - Zet/Năm sách trong Ngũ Kinh Cựu Ước
-backlinks:
-  - Zet/Ngũ Kinh Cựu Ước
-  - Zet/Thời gian dịch các sách trong Bản bảy mươi
-  - Zet/Do Thái Giáo
 title: Torah
 UID: 210731-1722
 created: 07-Oct-2021

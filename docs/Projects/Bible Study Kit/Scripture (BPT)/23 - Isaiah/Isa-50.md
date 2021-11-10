@@ -1,4 +1,11 @@
-# Isaiah 50
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-49
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-51
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-51
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-49
+---# Isaiah 50
 
 [[Isa-49|← Isaiah 49]] | [[Isaiah]] | [[Isa-51|Isaiah 51 →]]
 ***

@@ -1,4 +1,9 @@
-# Habakkuk 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/35 - Habakkuk/Hab-02
+  - Projects/Bible Study Kit/Scripture (BPT)/35 - Habakkuk/Habakkuk
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/35 - Habakkuk/Hab-02
+---# Habakkuk 3
 
 [[Hab-02|← Habakkuk 02]] | [[Habakkuk]]
 ***

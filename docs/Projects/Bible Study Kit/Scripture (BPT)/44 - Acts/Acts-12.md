@@ -1,4 +1,11 @@
-# Acts 12
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-11
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-13
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-11
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-13
+---# Acts 12
 
 [[Acts-11|← Acts 11]] | [[Acts]] | [[Acts-13|Acts 13 →]]
 ***

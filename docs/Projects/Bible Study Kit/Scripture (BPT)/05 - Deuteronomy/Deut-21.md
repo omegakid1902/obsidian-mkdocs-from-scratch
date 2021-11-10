@@ -1,4 +1,11 @@
-# Deuteronomy 21
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-20
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-22
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-22
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-20
+---# Deuteronomy 21
 
 [[Deut-20|← Deuteronomy 20]] | [[Deuteronomy]] | [[Deut-22|Deuteronomy 22 →]]
 ***

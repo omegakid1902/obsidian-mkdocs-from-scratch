@@ -1,4 +1,11 @@
-# Proverbs 30
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-29
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-31
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-31
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-29
+---# Proverbs 30
 
 [[Prov-29|← Proverbs 29]] | [[Proverbs]] | [[Prov-31|Proverbs 31 →]]
 ***

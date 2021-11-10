@@ -1,4 +1,48 @@
-links: [[The bible]]
+---outgoing_links:
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-01
+  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-19
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-03
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-10
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-05
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-26
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-07
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-39
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-04
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-28
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-14
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-01
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-27
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-15
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-20
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-16
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-22
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-29
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-02
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-40
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-34
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-32
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-17
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-24
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-33
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-38
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-36
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-37
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-12
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-23
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-11
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-30
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-31
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-06
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-09
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-35
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-18
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-13
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-08
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-25
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-21
+---links: [[The bible]]
 # Exodus
 
 [[Exod-01|Start Reading →]]

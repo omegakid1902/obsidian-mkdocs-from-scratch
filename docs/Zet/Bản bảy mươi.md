@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Cựu Ước
-backlinks:
-  - Zet/Thời gian dịch các sách trong Bản bảy mươi
 title: Bản bảy mươi
 UID: 2107312115
 tags:

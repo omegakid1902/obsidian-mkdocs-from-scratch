@@ -1,4 +1,11 @@
-# Deuteronomy 24
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-23
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-25
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-23
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-25
+---# Deuteronomy 24
 
 [[Deut-23|← Deuteronomy 23]] | [[Deuteronomy]] | [[Deut-25|Deuteronomy 25 →]]
 ***

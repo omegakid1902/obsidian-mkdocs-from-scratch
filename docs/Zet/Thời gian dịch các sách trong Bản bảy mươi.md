@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Bản bảy mươi
-  - Zet/Torah
-  - Zet/Ngũ Kinh Cựu Ước
 title: Thời gian dịch các sách trong Bản bảy mươi
 UID: 2107311633
 tags:

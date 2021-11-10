@@ -1,14 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
-  - Zet/The Terrain Theory
-  - Zet/Giải Nobel
-  - Zet/SARS-COV-2
-  - Zet/MERS-CoV
-  - Zet/People/Edward Jenner
-backlinks:
-  - Zet/Đại dịch COVID-19
 title: Tóm tắt sách truyền thuyết bệnh lây nhiễm
 UID: 211016110010
 created: 16-Oct-2021

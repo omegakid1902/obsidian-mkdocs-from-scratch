@@ -1,20 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Nhà Tần
-  - Zet/Nhà Hạ
-  - Zet/Nhà Thương
-  - Zet/Nhà Chu
-  - Zet/Nhà Nguyên-Mông
-  - Zet/Nhà Thanh
-  - Zet/People/Phục Hi
-  - Zet/People/Đế Nghiêu
-  - Zet/People/Đế Thuấn
-  - Zet/People/Hạ Vũ
-  - Zet/People/Tần Thủy Hoàng
-  - Zet/People/Đổng Trác
-  - Zet/People/Võ Tắc Thiên
-backlinks:
-  - Zet/Lịch sử
 title: Lịch sử Trung Quốc
 UID: 
 created: 

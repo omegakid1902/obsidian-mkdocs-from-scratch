@@ -1,4 +1,11 @@
-# Job 15
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-14
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-16
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-14
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-16
+---# Job 15
 
 [[Job-14|← Job 14]] | [[Job]] | [[Job-16|Job 16 →]]
 ***

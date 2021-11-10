@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Qmap
-backlinks:
-  - Zet/Qmap
 title: Vril
 UID: 211027220031
 created: 27-Oct-2021

@@ -1,4 +1,11 @@
-# Ezekiel 12
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-11
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-13
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-13
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-11
+---# Ezekiel 12
 
 [[Ezek-11|← Ezekiel 11]] | [[Ezekiel]] | [[Ezek-13|Ezekiel 13 →]]
 ***

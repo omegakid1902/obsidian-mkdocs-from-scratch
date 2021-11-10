@@ -1,7 +1,4 @@
 ---
-backlinks:
-  - Zet/Lịch sử Trung Quốc
-  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
 title: Nhà Nguyên - Mông
 UID: 210817212126
 tags:

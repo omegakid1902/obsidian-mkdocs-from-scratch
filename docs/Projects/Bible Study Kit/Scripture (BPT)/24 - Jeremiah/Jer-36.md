@@ -1,4 +1,11 @@
-# Jeremiah 36
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-35
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-37
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-35
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-37
+---# Jeremiah 36
 
 [[Jer-35|← Jeremiah 35]] | [[Jeremiah]] | [[Jer-37|Jeremiah 37 →]]
 ***

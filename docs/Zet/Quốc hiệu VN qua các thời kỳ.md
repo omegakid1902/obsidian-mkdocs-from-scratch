@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Văn Lang
-  - Zet/An Dương Vương
-  - Zet/Âu Lạc
-backlinks:
-  - Zet/Lịch Sử Việt Nam
 title: Quốc hiệu VN qua các thời kỳ
 UID: 210926155940
 created: 26-Sep-2021

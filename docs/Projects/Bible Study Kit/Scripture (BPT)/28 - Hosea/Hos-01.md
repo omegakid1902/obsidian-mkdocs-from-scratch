@@ -1,4 +1,10 @@
-# Hosea 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hosea
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hosea
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-02
+---# Hosea 1
 
 [[Hosea]] | [[Hos-02|Hosea 02 →]]
 ***

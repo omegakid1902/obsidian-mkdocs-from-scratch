@@ -1,12 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Martin Luther
-  - Zet/Công Giáo
-  - Zet/People/Đức Giáo Hoàng
-  - Zet/Anh giáo
-backlinks:
-  - Zet/Tin Lành
-  - Zet/People/Martin Luther
 title: Cải Cách Kháng Nghị
 created: Dec 06, 2020 10:47 PM
 tags:

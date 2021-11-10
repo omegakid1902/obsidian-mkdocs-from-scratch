@@ -1,4 +1,9 @@
-# 1 Thessalonians 5
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thess-04
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thessalonians
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thess-04
+---# 1 Thessalonians 5
 
 [[1 Thess-04|← 1 Thessalonians 04]] | [[1 Thessalonians]]
 ***

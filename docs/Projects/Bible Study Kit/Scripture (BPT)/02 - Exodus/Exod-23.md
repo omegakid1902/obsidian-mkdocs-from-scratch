@@ -1,4 +1,11 @@
-# Exodus 23
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-22
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-24
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-22
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-24
+---# Exodus 23
 
 [[Exod-22|← Exodus 22]] | [[Exodus]] | [[Exod-24|Exodus 24 →]]
 ***

@@ -1,4 +1,11 @@
-# John 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-16
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-18
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-16
+---# John 17
 
 [[John-16|← John 16]] | [[John]] | [[John-18|John 18 →]]
 ***

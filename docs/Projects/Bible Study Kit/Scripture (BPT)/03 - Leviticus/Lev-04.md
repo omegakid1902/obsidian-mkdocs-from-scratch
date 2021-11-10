@@ -1,4 +1,11 @@
-# Leviticus 4
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-03
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-05
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-03
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-05
+---# Leviticus 4
 
 [[Lev-03|← Leviticus 03]] | [[Leviticus]] | [[Lev-05|Leviticus 05 →]]
 ***

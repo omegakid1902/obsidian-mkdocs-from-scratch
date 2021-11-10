@@ -1,4 +1,11 @@
-# Nehemiah 6
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-05
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-07
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-07
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-05
+---# Nehemiah 6
 
 [[Neh-05|← Nehemiah 05]] | [[Nehemiah]] | [[Neh-07|Nehemiah 07 →]]
 ***

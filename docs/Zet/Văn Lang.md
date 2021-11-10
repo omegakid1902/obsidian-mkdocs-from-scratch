@@ -1,9 +1,4 @@
 ---
-backlinks:
-  - Zet/Âu Lạc
-  - Zet/Quốc hiệu VN qua các thời kỳ
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
 title: Văn Lang
 tags:
   - 'created/2021/Jul/24'

@@ -1,4 +1,11 @@
-# Isaiah 19
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-18
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-20
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-20
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-18
+---# Isaiah 19
 
 [[Isa-18|← Isaiah 18]] | [[Isaiah]] | [[Isa-20|Isaiah 20 →]]
 ***

@@ -1,25 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Đức Jesus
-  - Zet/People/Đức Giáo Hoàng
-  - Zet/Cựu Ước
-  - Zet/Ngũ Kinh Cựu Ước
-  - Zet/People/Thánh Phaolo
-  - Zet/Thập Tự Chinh
-  - Zet/Chính thống giáo Đông Phương
-  - Zet/Anh giáo
-  - Zet/Dòng Tên
-backlinks:
-  - Zet/God
-  - Zet/Chúa Giáng Sinh
-  - Zet/Kito Giáo
-  - Zet/Chúa Jesus không sinh ra vào 25-12
-  - Zet/Chính thống giáo Đông Phương
-  - Zet/Religion
-  - Zet/Hồi Giáo
-  - Zet/Cải Cách Kháng Nghị
-  - Zet/People/Đức Giáo Hoàng
-  - Zet/People/Alberto Rivera
 title: Công Giáo
 UID: 210815151214
 tags:

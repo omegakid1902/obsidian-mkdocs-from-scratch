@@ -1,4 +1,11 @@
-# Jeremiah 45
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-44
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-46
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-44
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-46
+---# Jeremiah 45
 
 [[Jer-44|← Jeremiah 44]] | [[Jeremiah]] | [[Jer-46|Jeremiah 46 →]]
 ***

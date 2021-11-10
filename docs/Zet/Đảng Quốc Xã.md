@@ -1,7 +1,4 @@
 ---
-backlinks:
-  - Zet/Eugenics
-  - Zet/Holocaust
 title: Đảng Quốc Xã
 UID: 
 created: Jun 20, 2021 2:42 PM

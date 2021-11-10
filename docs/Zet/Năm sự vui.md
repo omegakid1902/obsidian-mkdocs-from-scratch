@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Đức Jesus
-backlinks:
-  - Zet/Kinh mân côi
 title: Năm sự vui
 UID: 210929222419
 created: 29-Sep-2021

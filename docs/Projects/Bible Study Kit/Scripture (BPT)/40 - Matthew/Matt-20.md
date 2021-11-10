@@ -1,4 +1,11 @@
-# Matthew 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-19
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-21
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-19
+---# Matthew 20
 
 [[Matt-19|← Matthew 19]] | [[Matthew]] | [[Matt-21|Matthew 21 →]]
 ***

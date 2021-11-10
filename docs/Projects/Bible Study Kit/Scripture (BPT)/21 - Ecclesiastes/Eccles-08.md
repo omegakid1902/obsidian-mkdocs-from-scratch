@@ -1,4 +1,11 @@
-# Ecclesiastes 8
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-07
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Ecclesiastes
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-09
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-09
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-07
+---# Ecclesiastes 8
 
 [[Eccles-07|← Ecclesiastes 07]] | [[Ecclesiastes]] | [[Eccles-09|Ecclesiastes 09 →]]
 ***

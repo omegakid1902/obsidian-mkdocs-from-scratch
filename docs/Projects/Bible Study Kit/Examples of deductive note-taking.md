@@ -1,4 +1,25 @@
-links: [[Examples of Connected Biblical Thinking]]
+---outgoing_links:
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/Connected Biblical Thinking
+  - Projects/Bible Study Kit/Journal Note
+  - Projects/Bible Study Kit/Book Note
+  - Projects/Bible Study Kit/Note Example - Design
+  - Projects/Bible Study Kit/Sleep
+  - Projects/Bible Study Kit/000 Home
+  - Projects/Bible Study Kit/010 Faith MOC
+  - Projects/Bible Study Kit/020 Interests MOC
+  - Projects/Bible Study Kit/030 PKM MOC
+  - Projects/Bible Study Kit/040 Productivity MOC
+backlinks:
+  - Projects/Bible Study Kit/+Overview
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/Book Note
+  - Projects/Bible Study Kit/Start connecting Scripture
+  - Projects/Bible Study Kit/Note Example - Design
+  - Projects/Bible Study Kit/Journal Note
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
+---links: [[Examples of Connected Biblical Thinking]]
 # Examples of deductive note-taking
 As [[Examples of inductive note-taking]] take place on different orders of structure, deductive note-taking can happen on different layers of *Emergence*.
 

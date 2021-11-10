@@ -1,4 +1,16 @@
-links: [[God's unified story]]
+---outgoing_links:
+  - Projects/Bible Study Kit/God's unified story
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
+  - Projects/Bible Study Kit/Chaotic Waters (Image)
+  - Projects/Bible Study Kit/Book Note
+backlinks:
+  - Projects/Bible Study Kit/God's unified story
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/010 Faith MOC
+  - Projects/Bible Study Kit/What is the Gospel
+  - Projects/Bible Study Kit/Book Note
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
+---links: [[God's unified story]]
 # Creation narrative
 ➡️ Jump in: [[Gen-01#v3]]
 ***

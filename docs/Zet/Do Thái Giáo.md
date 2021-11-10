@@ -1,15 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Torah
-  - Zet/Người Do Thái
-  - Zet/Người Do Thái Ashkenazi
-  - Zet/God
-  - Zet/People/Đức Jesus
-backlinks:
-  - Zet/Ngũ Kinh Cựu Ước
-  - Zet/Torah
-  - Zet/Religion
-  - Zet/Hồi Giáo
 title: Do Thái Giáo
 UID: 211025233526
 created: 25-Oct-2021

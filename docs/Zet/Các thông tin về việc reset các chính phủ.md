@@ -1,6 +1,4 @@
 ---
-outgoing_links:
-  - Zet/NESARA
 title: Các thông tin về việc reset các chính phủ
 UID: 211107221510
 created: 07-Nov-2021

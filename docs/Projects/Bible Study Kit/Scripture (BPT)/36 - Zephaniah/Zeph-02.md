@@ -1,4 +1,11 @@
-# Zephaniah 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/36 - Zephaniah/Zeph-01
+  - Projects/Bible Study Kit/Scripture (BPT)/36 - Zephaniah/Zephaniah
+  - Projects/Bible Study Kit/Scripture (BPT)/36 - Zephaniah/Zeph-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/36 - Zephaniah/Zeph-03
+  - Projects/Bible Study Kit/Scripture (BPT)/36 - Zephaniah/Zeph-01
+---# Zephaniah 2
 
 [[Zeph-01|← Zephaniah 01]] | [[Zephaniah]] | [[Zeph-03|Zephaniah 03 →]]
 ***

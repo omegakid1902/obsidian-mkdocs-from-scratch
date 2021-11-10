@@ -1,4 +1,11 @@
-# Revelation 10
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-09
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Revelation
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-11
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-09
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-11
+---# Revelation 10
 
 [[Rev-09|← Revelation 09]] | [[Revelation]] | [[Rev-11|Revelation 11 →]]
 ***

@@ -1,4 +1,11 @@
-# 2 Chronicles 12
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-11
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-13
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-11
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-13
+---# 2 Chronicles 12
 
 [[2 Chron-11|← 2 Chronicles 11]] | [[2 Chronicles]] | [[2 Chron-13|2 Chronicles 13 →]]
 ***

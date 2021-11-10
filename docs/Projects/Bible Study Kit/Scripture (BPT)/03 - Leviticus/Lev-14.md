@@ -1,4 +1,11 @@
-# Leviticus 14
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-13
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-15
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-15
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-13
+---# Leviticus 14
 
 [[Lev-13|← Leviticus 13]] | [[Leviticus]] | [[Lev-15|Leviticus 15 →]]
 ***

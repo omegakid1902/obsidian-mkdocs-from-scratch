@@ -1,4 +1,11 @@
-# Jeremiah 23
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-22
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-24
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-24
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-22
+---# Jeremiah 23
 
 [[Jer-22|← Jeremiah 22]] | [[Jeremiah]] | [[Jer-24|Jeremiah 24 →]]
 ***

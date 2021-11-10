@@ -1,11 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Cơ thể con người có 7 luân xa
-  - Zet/Luân xa xương cùng
-  - Zet/Luân xa rốn
-backlinks:
-  - Zet/Cơ thể con người có 7 luân xa
-  - Zet/Thế giới tâm linh
 title: Luân xa
 UID: 211017144348
 created: 17-Oct-2021

@@ -1,4 +1,11 @@
-links: [[About me]]
+---outgoing_links:
+  - Projects/Bible Study Kit/About me
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-02
+backlinks:
+  - Projects/Bible Study Kit/+Overview
+  - Projects/Bible Study Kit/About me
+  - Projects/Bible Study Kit/Release Notes
+---links: [[About me]]
 # Financial Policy
 > [[Ephes-02#v8]] For by **grace** you have been saved through faith; and that not of yourselves, it is the **gift of God**; 
 

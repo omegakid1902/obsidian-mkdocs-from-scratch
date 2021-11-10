@@ -1,4 +1,10 @@
-# Proverbs 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-02
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
+---# Proverbs 1
 
 [[Proverbs]] | [[Prov-02|Proverbs 02 →]]
 ***

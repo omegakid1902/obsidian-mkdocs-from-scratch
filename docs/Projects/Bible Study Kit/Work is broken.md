@@ -1,4 +1,10 @@
-links: [[God's unified story#The Fall 🆘]]
+---outgoing_links:
+  - Projects/Bible Study Kit/God's unified story
+backlinks:
+  - Projects/Bible Study Kit/010 Faith MOC
+  - Projects/Bible Study Kit/Book Note
+  - Projects/Bible Study Kit/040 Productivity MOC
+---links: [[God's unified story#The Fall 🆘]]
 # Work is broken
 Whenever we uncouple our Work from God, it becomes a god. It is what we look forward to for identity and significance.
 

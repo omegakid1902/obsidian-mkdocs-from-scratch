@@ -1,4 +1,11 @@
-# Acts 15
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-14
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-16
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-14
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-16
+---# Acts 15
 
 [[Acts-14|← Acts 14]] | [[Acts]] | [[Acts-16|Acts 16 →]]
 ***

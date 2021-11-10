@@ -1,4 +1,11 @@
-# 1 Kings 21
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-20
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-22
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-20
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-22
+---# 1 Kings 21
 
 [[1 Kings-20|← 1 Kings 20]] | [[1 Kings]] | [[1 Kings-22|1 Kings 22 →]]
 ***

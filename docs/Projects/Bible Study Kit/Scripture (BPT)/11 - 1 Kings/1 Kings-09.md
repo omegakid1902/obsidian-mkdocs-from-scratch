@@ -1,4 +1,11 @@
-# 1 Kings 9
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-08
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-10
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-08
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-10
+---# 1 Kings 9
 
 [[1 Kings-08|← 1 Kings 08]] | [[1 Kings]] | [[1 Kings-10|1 Kings 10 →]]
 ***

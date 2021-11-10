@@ -1,4 +1,18 @@
 ---
+outgoing_links:
+  - Projects/Bible Study Kit/+Start here
+  - Projects/Bible Study Kit/Creation account
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-03
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-53
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-10
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-05
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-10
+  - Projects/Bible Study Kit/Scripture (BPT)/60 - 1 Peter/1 Pet-03
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-02
+backlinks:
+  - Projects/Bible Study Kit/+Overview
+  - Projects/Bible Study Kit/Release Notes
+  - Projects/Bible Study Kit/+Start here
 aliases: [What is the Gospel]
 ---
 links: [[+Start here|Start here]]

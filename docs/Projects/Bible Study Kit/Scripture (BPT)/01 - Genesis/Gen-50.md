@@ -1,4 +1,9 @@
-# Genesis 50
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-49
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-49
+---# Genesis 50
 
 [[Gen-49|← Genesis 49]] | [[Genesis]]
 ***

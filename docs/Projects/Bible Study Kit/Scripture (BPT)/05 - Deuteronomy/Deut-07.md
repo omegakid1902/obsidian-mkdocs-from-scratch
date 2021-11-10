@@ -1,4 +1,11 @@
-# Deuteronomy 7
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-06
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-08
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-06
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-08
+---# Deuteronomy 7
 
 [[Deut-06|← Deuteronomy 06]] | [[Deuteronomy]] | [[Deut-08|Deuteronomy 08 →]]
 ***

@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Phật Giáo
 title: Siddhartha Gautama
 UID: 211023225928
 tags:

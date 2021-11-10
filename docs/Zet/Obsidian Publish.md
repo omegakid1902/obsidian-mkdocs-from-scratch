@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Obsidian
-  - Zet/Github
 title: Obsidian Publish
 UID: 210922230707
 created: 22-Sep-2021

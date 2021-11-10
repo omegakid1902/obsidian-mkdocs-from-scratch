@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Zettelkasten
-backlinks:
-  - Zet/Zettelkasten
 title: The Second Brain
 created: Oct 21, 2020 10:23 PM
 tags:

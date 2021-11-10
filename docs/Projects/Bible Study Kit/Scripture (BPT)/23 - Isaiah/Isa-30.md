@@ -1,4 +1,11 @@
-# Isaiah 30
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-29
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-31
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-31
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-29
+---# Isaiah 30
 
 [[Isa-29|← Isaiah 29]] | [[Isaiah]] | [[Isa-31|Isaiah 31 →]]
 ***

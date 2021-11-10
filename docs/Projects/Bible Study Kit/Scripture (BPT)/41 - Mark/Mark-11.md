@@ -1,4 +1,11 @@
-# Mark 11
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-10
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-12
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-10
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-12
+---# Mark 11
 
 [[Mark-10|← Mark 10]] | [[Mark]] | [[Mark-12|Mark 12 →]]
 ***

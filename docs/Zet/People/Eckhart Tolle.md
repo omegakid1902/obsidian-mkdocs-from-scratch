@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Bóng tối linh hồn
 title: Eckhart Tolle
 UID: 211022220317
 tags:

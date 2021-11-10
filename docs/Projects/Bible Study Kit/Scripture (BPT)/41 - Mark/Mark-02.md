@@ -1,4 +1,11 @@
-# Mark 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-01
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-03
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-01
+---# Mark 2
 
 [[Mark-01|← Mark 01]] | [[Mark]] | [[Mark-03|Mark 03 →]]
 ***

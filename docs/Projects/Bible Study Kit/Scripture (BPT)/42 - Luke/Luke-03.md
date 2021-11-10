@@ -1,4 +1,11 @@
-# Luke 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-02
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-02
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-04
+---# Luke 3
 
 [[Luke-02|← Luke 02]] | [[Luke]] | [[Luke-04|Luke 04 →]]
 ***

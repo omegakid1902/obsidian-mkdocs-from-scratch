@@ -1,14 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
-  - Zet/Tháp Wardenclyffe
-backlinks:
-  - Zet/Tần số Solfeggio
-  - Zet/Akashic records
-  - Zet/Qmap
-  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
-  - Zet/NESARA
-  - Zet/Tháp Wardenclyffe
 title: Nicola Tesla
 UID: 211011224701
 tags:

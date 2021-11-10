@@ -1,4 +1,11 @@
-# Proverbs 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-02
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-02
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-04
+---# Proverbs 3
 
 [[Prov-02|← Proverbs 02]] | [[Proverbs]] | [[Prov-04|Proverbs 04 →]]
 ***

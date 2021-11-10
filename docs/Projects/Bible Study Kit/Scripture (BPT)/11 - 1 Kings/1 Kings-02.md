@@ -1,4 +1,11 @@
-# 1 Kings 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-01
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-03
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-01
+---# 1 Kings 2
 
 [[1 Kings-01|← 1 Kings 01]] | [[1 Kings]] | [[1 Kings-03|1 Kings 03 →]]
 ***

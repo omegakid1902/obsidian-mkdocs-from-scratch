@@ -1,9 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Đế Nghiêu
-backlinks:
-  - Zet/Lịch sử Trung Quốc
-  - Zet/People/Hạ Vũ
 title: Đế Thuấn
 UID: 210905222344
 tags:

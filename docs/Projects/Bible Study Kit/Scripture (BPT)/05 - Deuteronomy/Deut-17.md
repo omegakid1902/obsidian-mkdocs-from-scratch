@@ -1,4 +1,11 @@
-# Deuteronomy 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-16
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-16
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-18
+---# Deuteronomy 17
 
 [[Deut-16|← Deuteronomy 16]] | [[Deuteronomy]] | [[Deut-18|Deuteronomy 18 →]]
 ***

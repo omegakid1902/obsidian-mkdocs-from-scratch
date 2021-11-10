@@ -1,4 +1,9 @@
-# Galatians 6
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-05
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Galatians
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-05
+---# Galatians 6
 
 [[Gal-05|← Galatians 05]] | [[Galatians]]
 ***

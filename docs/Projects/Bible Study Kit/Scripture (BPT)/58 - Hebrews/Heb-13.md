@@ -1,4 +1,9 @@
-# Hebrews 13
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-12
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Hebrews
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-12
+---# Hebrews 13
 
 [[Heb-12|← Hebrews 12]] | [[Hebrews]]
 ***

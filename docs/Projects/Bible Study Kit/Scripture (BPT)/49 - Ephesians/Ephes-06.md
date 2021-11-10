@@ -1,4 +1,9 @@
-# Ephesians 6
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-05
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephesians
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-05
+---# Ephesians 6
 
 [[Ephes-05|← Ephesians 05]] | [[Ephesians]]
 ***

@@ -1,4 +1,8 @@
-# Philemon 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/57 - Philemon/Philemon
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/57 - Philemon/Philemon
+---# Philemon 1
 
 [[Philemon]]
 ***

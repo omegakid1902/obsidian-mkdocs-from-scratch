@@ -1,4 +1,10 @@
-# Hebrews 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Hebrews
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Hebrews
+  - Projects/Bible Study Kit/Scripture (BPT)/58 - Hebrews/Heb-02
+---# Hebrews 1
 
 [[Hebrews]] | [[Heb-02|Hebrews 02 →]]
 ***

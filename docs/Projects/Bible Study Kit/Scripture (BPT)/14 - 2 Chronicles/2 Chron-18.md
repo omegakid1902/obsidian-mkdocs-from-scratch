@@ -1,4 +1,11 @@
-# 2 Chronicles 18
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-17
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-19
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-17
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-19
+---# 2 Chronicles 18
 
 [[2 Chron-17|← 2 Chronicles 17]] | [[2 Chronicles]] | [[2 Chron-19|2 Chronicles 19 →]]
 ***

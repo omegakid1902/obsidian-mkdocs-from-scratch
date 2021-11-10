@@ -1,4 +1,12 @@
-# Matthew 14
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-13
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-15
+backlinks:
+  - Projects/Bible Study Kit/Chaotic Waters (Image)
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-15
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-13
+---# Matthew 14
 
 [[Matt-13|← Matthew 13]] | [[Matthew]] | [[Matt-15|Matthew 15 →]]
 ***

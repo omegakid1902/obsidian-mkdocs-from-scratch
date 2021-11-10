@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Mấy thứ nhảm nhí mắc cười
 title: Sưu tầm mem chế
 UID: 210929225902
 created: 29-Sep-2021

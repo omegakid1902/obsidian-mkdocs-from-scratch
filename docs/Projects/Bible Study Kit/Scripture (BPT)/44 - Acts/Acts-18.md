@@ -1,4 +1,11 @@
-# Acts 18
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-17
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-19
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-17
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-19
+---# Acts 18
 
 [[Acts-17|← Acts 17]] | [[Acts]] | [[Acts-19|Acts 19 →]]
 ***

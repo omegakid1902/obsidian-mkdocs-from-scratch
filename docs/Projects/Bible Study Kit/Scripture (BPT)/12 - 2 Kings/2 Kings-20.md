@@ -1,4 +1,11 @@
-# 2 Kings 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-19
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-19
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-21
+---# 2 Kings 20
 
 [[2 Kings-19|← 2 Kings 19]] | [[2 Kings]] | [[2 Kings-21|2 Kings 21 →]]
 ***

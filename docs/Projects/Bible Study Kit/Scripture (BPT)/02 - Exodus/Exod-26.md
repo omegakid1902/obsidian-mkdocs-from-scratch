@@ -1,4 +1,11 @@
-# Exodus 26
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-25
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-27
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-27
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-25
+---# Exodus 26
 
 [[Exod-25|← Exodus 25]] | [[Exodus]] | [[Exod-27|Exodus 27 →]]
 ***

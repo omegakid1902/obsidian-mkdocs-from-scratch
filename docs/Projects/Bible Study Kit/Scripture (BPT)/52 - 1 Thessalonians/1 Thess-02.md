@@ -1,4 +1,11 @@
-# 1 Thessalonians 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thess-01
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thessalonians
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thess-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thess-01
+  - Projects/Bible Study Kit/Scripture (BPT)/52 - 1 Thessalonians/1 Thess-03
+---# 1 Thessalonians 2
 
 [[1 Thess-01|← 1 Thessalonians 01]] | [[1 Thessalonians]] | [[1 Thess-03|1 Thessalonians 03 →]]
 ***

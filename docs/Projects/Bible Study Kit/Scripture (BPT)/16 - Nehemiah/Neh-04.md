@@ -1,4 +1,11 @@
-# Nehemiah 4
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-03
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-05
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-03
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-05
+---# Nehemiah 4
 
 [[Neh-03|← Nehemiah 03]] | [[Nehemiah]] | [[Neh-05|Nehemiah 05 →]]
 ***

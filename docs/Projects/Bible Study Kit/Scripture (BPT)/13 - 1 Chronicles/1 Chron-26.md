@@ -1,4 +1,11 @@
-# 1 Chronicles 26
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-25
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-27
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-25
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-27
+---# 1 Chronicles 26
 
 [[1 Chron-25|← 1 Chronicles 25]] | [[1 Chronicles]] | [[1 Chron-27|1 Chronicles 27 →]]
 ***

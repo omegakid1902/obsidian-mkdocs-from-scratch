@@ -1,9 +1,4 @@
 ---
-outgoing_links:
-  - Zet/God
-  - Zet/People/Ismael
-backlinks:
-  - Zet/Tóm tắt sách Sáng Thế
 title: Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 UID: 211007223753
 created: 07-Oct-2021

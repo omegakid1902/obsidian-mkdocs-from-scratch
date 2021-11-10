@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Trần Trọng Kim
-  - Zet/Bảo Đại
-backlinks:
-  - Zet/Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít
-  - Zet/People/Trần Trọng Kim
 title: Đế quốc Việt Nam
 UID: P-210711-1014
 created: 11-Sep-2021

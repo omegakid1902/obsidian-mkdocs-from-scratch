@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Religion
 title: Ấn Độ giáo
 UID: P-210704-1610
 tags:

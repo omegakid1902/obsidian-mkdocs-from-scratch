@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Qmap
-backlinks:
-  - Zet/Qmap
 title: Tháp Mentmore
 UID: 211025215617
 created: 25-Oct-2021

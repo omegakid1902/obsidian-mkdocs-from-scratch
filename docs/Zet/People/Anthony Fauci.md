@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ
-backlinks:
-  - Zet/Đại dịch COVID-19
-  - Zet/Zidovudin
-  - Zet/People/Kary B. Mullis
 title: Anthony Fauci
 UID: 211014235000
 tags:

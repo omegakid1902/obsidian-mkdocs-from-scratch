@@ -1,4 +1,11 @@
-# Genesis 18
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-17
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-19
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-19
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-17
+---# Genesis 18
 
 [[Gen-17|← Genesis 17]] | [[Genesis]] | [[Gen-19|Genesis 19 →]]
 ***

@@ -1,4 +1,10 @@
-# BibleGateway-to-Obsidian Script
+---outgoing_links:
+  - Projects/Bible Study Kit/About me
+backlinks:
+  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
+  - Projects/Bible Study Kit/+Overview
+  - Projects/Bible Study Kit/030 PKM MOC
+---# BibleGateway-to-Obsidian Script
 👉 Download the script to import on [github](https://github.com/selfire1/BibleGateway-to-Obsidian). There you can also find the most recent documentation.
 
 I simplified and documented usage as much as possible. So even if you are not familiar with scripting, you will be walked through it. If you run into issues, feel free to [[About me#Get in contact]]. If you receive value from, consider to join in [[About me#Support 🤝]].

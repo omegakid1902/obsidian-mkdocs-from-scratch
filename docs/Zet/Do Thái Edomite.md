@@ -1,6 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Khazars
 title: Do Thái Edomite
 UID: 211029232812
 created: 29-Oct-2021

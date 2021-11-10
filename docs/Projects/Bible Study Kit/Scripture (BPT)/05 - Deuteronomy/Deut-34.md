@@ -1,4 +1,9 @@
-# Deuteronomy 34
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-33
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-33
+---# Deuteronomy 34
 
 [[Deut-33|← Deuteronomy 33]] | [[Deuteronomy]]
 ***

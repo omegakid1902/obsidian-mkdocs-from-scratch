@@ -1,4 +1,11 @@
-# 2 Chronicles 24
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-23
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-25
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-25
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-23
+---# 2 Chronicles 24
 
 [[2 Chron-23|← 2 Chronicles 23]] | [[2 Chronicles]] | [[2 Chron-25|2 Chronicles 25 →]]
 ***

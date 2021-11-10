@@ -1,4 +1,11 @@
-# Proverbs 12
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-11
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-13
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-13
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-11
+---# Proverbs 12
 
 [[Prov-11|← Proverbs 11]] | [[Proverbs]] | [[Prov-13|Proverbs 13 →]]
 ***

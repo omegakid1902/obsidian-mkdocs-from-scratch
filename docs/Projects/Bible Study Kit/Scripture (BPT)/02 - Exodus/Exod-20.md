@@ -1,4 +1,11 @@
-# Exodus 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-19
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-19
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-21
+---# Exodus 20
 
 [[Exod-19|← Exodus 19]] | [[Exodus]] | [[Exod-21|Exodus 21 →]]
 ***

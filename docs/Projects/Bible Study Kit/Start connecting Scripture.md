@@ -1,4 +1,22 @@
-# Start connecting Scripture
+---outgoing_links:
+  - Projects/Bible Study Kit/The Basics of connecting
+  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
+  - Projects/Bible Study Kit/God-centered life
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/Connecting makes you engage Scripture
+  - Projects/Bible Study Kit/Note Example - Design
+  - Projects/Bible Study Kit/Sleep
+  - Projects/Bible Study Kit/Examples of deductive note-taking
+backlinks:
+  - Projects/Bible Study Kit/The Basics of connecting
+  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
+  - Projects/Bible Study Kit/+Overview
+  - Projects/Bible Study Kit/030 PKM MOC
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/+Start here
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
+---# Start connecting Scripture
 If you are unfamiliar with linking in Obsidian (or simply want a refresher), have a look at [[The Basics of connecting]].
 
 Connecting is where the magic happens. This is where the [[Benefits of Connected Biblical Thinking]] come in and you move more towards a [[God-centered life]].

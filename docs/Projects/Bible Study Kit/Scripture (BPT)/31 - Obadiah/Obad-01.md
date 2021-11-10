@@ -1,4 +1,8 @@
-# Obadiah 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/31 - Obadiah/Obadiah
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/31 - Obadiah/Obadiah
+---# Obadiah 1
 
 [[Obadiah]]
 ***

@@ -1,4 +1,11 @@
-# 2 Chronicles 31
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-30
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-32
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-32
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-30
+---# 2 Chronicles 31
 
 [[2 Chron-30|← 2 Chronicles 30]] | [[2 Chronicles]] | [[2 Chron-32|2 Chronicles 32 →]]
 ***

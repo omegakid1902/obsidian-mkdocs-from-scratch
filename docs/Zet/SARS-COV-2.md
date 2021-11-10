@@ -1,19 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Coronavirus
-  - Zet/COVID-19
-  - Zet/Virus
-  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
-backlinks:
-  - Zet/Real time PCR test
-  - Zet/Eugenics
-  - Zet/Đại dịch COVID-19
-  - Zet/Beta-Coronavirus
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
-  - Zet/MERS-CoV
-  - Zet/Coronavirus
-  - Zet/COVID-19
-  - Zet/Vaccine AstraZeneca
 title: SARS-COV-2
 UID: 2107101047
 tags:

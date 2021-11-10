@@ -1,4 +1,16 @@
 ---
+outgoing_links:
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/Connected Biblical Thinking
+  - Projects/Bible Study Kit/The shorter your sleep, the shorter your life
+  - Projects/Bible Study Kit/God-centered life
+  - Projects/Bible Study Kit/Scripture (BPT)/46 - 1 Corinthians/1 Cor-06
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-04
+backlinks:
+  - Projects/Bible Study Kit/Examples of deductive note-taking
+  - Projects/Bible Study Kit/Start connecting Scripture
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
+  - Projects/Bible Study Kit/020 Interests MOC
 aliases: [MOC Example]
 ---
 

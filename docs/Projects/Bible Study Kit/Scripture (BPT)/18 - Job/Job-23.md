@@ -1,4 +1,11 @@
-# Job 23
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-22
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-24
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-22
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-24
+---# Job 23
 
 [[Job-22|← Job 22]] | [[Job]] | [[Job-24|Job 24 →]]
 ***

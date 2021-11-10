@@ -1,4 +1,11 @@
-# Ezra 4
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-03
+  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezra
+  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-05
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-03
+  - Projects/Bible Study Kit/Scripture (BPT)/15 - Ezra/Ezr-05
+---# Ezra 4
 
 [[Ezr-03|← Ezra 03]] | [[Ezra]] | [[Ezr-05|Ezra 05 →]]
 ***

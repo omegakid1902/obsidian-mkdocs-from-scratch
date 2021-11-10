@@ -1,4 +1,11 @@
-# Deuteronomy 30
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-29
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deuteronomy
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-31
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-29
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-31
+---# Deuteronomy 30
 
 [[Deut-29|← Deuteronomy 29]] | [[Deuteronomy]] | [[Deut-31|Deuteronomy 31 →]]
 ***

@@ -1,4 +1,11 @@
-# Nehemiah 11
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-10
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-12
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-12
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-10
+---# Nehemiah 11
 
 [[Neh-10|← Nehemiah 10]] | [[Nehemiah]] | [[Neh-12|Nehemiah 12 →]]
 ***

@@ -1,4 +1,11 @@
-links: [[030 PKM MOC|PKM MOC]]
+---outgoing_links:
+  - Projects/Bible Study Kit/030 PKM MOC
+  - Projects/Bible Study Kit/CSS tweaks
+backlinks:
+  - Projects/Bible Study Kit/+Overview
+  - Projects/Bible Study Kit/030 PKM MOC
+  - Projects/Bible Study Kit/+Start here
+---links: [[030 PKM MOC|PKM MOC]]
 
 # Settings, queries and plugins
 

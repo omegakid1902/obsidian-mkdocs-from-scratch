@@ -1,4 +1,60 @@
-links: [[The bible]]
+---outgoing_links:
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-01
+  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-27
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-33
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-40
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-10
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-42
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-15
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-14
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-47
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-12
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-43
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-51
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-04
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-01
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-32
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-07
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-13
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-21
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-30
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-17
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-29
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-16
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-25
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-36
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-35
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-52
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-19
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-41
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-06
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-11
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-24
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-18
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-02
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-44
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-39
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-34
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-49
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-48
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-50
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-22
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-26
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-08
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-20
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-31
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-09
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-38
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-45
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-23
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-28
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-37
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-03
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-05
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-46
+---links: [[The bible]]
 # Jeremiah
 
 [[Jer-01|Start Reading →]]

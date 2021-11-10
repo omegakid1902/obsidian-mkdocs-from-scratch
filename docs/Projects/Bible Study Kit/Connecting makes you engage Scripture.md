@@ -1,4 +1,15 @@
-links: [[Benefits of Connected Biblical Thinking]]
+---outgoing_links:
+  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
+  - Projects/Bible Study Kit/020 Interests MOC
+  - Projects/Bible Study Kit/God-centered life
+  - Projects/Bible Study Kit/Connected Biblical Thinking
+  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
+backlinks:
+  - Projects/Bible Study Kit/Connected Biblical Thinking
+  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
+  - Projects/Bible Study Kit/Start connecting Scripture
+  - Projects/Bible Study Kit/Connecting strengthens remembering
+---links: [[Benefits of Connected Biblical Thinking]]
 # Connecting makes you engage Scripture
 This is the game-changer. In connecting our Study notes we are forced to **evaluate every thought against the backdrop of Scripture**. This makes us engage with Scripture in a holistic way.
 

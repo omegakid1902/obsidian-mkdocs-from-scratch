@@ -1,4 +1,11 @@
-# Ezekiel 5
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-04
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-06
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-06
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-04
+---# Ezekiel 5
 
 [[Ezek-04|← Ezekiel 04]] | [[Ezekiel]] | [[Ezek-06|Ezekiel 06 →]]
 ***

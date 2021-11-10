@@ -1,4 +1,11 @@
-# Ephesians 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-02
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephesians
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-02
+  - Projects/Bible Study Kit/Scripture (BPT)/49 - Ephesians/Ephes-04
+---# Ephesians 3
 
 [[Ephes-02|← Ephesians 02]] | [[Ephesians]] | [[Ephes-04|Ephesians 04 →]]
 ***

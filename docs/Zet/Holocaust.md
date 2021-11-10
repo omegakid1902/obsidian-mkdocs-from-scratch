@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Đảng Quốc Xã
-  - Zet/Người Do Thái
-backlinks:
-  - Zet/Lịch Sử Do Thái
-  - Zet/People/Adolf Hitler
 title: Holocaust
 UID: 2106192059
 created: Jun 19, 2021 8:57 PM 

@@ -1,4 +1,8 @@
-# 2 John 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/63 - 2 John/2 John
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/63 - 2 John/2 John
+---# 2 John 1
 
 [[2 John]]
 ***

@@ -1,4 +1,11 @@
-# Numbers 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-16
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-16
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-18
+---# Numbers 17
 
 [[Num-16|← Numbers 16]] | [[Numbers]] | [[Num-18|Numbers 18 →]]
 ***

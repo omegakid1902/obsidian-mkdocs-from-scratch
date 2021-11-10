@@ -1,4 +1,11 @@
-# Leviticus 26
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-25
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-27
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-25
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-27
+---# Leviticus 26
 
 [[Lev-25|← Leviticus 25]] | [[Leviticus]] | [[Lev-27|Leviticus 27 →]]
 ***

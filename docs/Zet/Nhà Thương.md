@@ -1,7 +1,4 @@
 ---
-backlinks:
-  - Zet/Lịch sử Trung Quốc
-  - Zet/Nhà Chu
 title: Nhà Thương
 UID: 210828094012
 tags:

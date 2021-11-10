@@ -1,4 +1,9 @@
-# Song of Solomon 8
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-07
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song of Solomon
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-07
+---# Song of Solomon 8
 
 [[Song-07|← Song of Solomon 07]] | [[Song of Solomon]]
 ***

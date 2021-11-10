@@ -1,4 +1,11 @@
-# 2 Chronicles 7
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-06
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-08
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-08
+  - Projects/Bible Study Kit/Scripture (BPT)/14 - 2 Chronicles/2 Chron-06
+---# 2 Chronicles 7
 
 [[2 Chron-06|← 2 Chronicles 06]] | [[2 Chronicles]] | [[2 Chron-08|2 Chronicles 08 →]]
 ***

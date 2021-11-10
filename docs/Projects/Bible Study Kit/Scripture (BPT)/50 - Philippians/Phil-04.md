@@ -1,4 +1,9 @@
-# Philippians 4
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Phil-03
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Philippians
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Phil-03
+---# Philippians 4
 
 [[Phil-03|← Philippians 03]] | [[Philippians]]
 ***

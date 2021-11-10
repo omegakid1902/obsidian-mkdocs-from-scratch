@@ -1,4 +1,44 @@
-links: [[The bible]]
+---outgoing_links:
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-01
+  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-23
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-28
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-32
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-16
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-21
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-04
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-31
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-07
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-02
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-29
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-05
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-36
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-12
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-13
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-18
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-15
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-35
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-27
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-14
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-22
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-08
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-26
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-30
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-24
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-33
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-25
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-03
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-06
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-20
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-19
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-34
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-17
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-09
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-10
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-01
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-11
+---links: [[The bible]]
 # Numbers
 
 [[Num-01|Start Reading →]]

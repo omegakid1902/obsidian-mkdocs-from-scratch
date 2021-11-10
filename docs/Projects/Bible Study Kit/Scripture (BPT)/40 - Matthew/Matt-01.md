@@ -1,4 +1,10 @@
-# Matthew 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-02
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+---# Matthew 1
 
 [[Matthew]] | [[Matt-02|Matthew 02 →]]
 ***

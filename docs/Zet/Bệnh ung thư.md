@@ -1,6 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Các lý thuyết về nguyên nhân gây bệnh ung thư
 title: Bệnh ung thư
 UID: 211010170612
 created: 10-Oct-2021

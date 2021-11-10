@@ -1,4 +1,11 @@
-# 2 Kings 13
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-12
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-14
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-14
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-12
+---# 2 Kings 13
 
 [[2 Kings-12|← 2 Kings 12]] | [[2 Kings]] | [[2 Kings-14|2 Kings 14 →]]
 ***

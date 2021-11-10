@@ -1,4 +1,11 @@
-# Acts 26
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-25
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-27
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-27
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-25
+---# Acts 26
 
 [[Acts-25|← Acts 25]] | [[Acts]] | [[Acts-27|Acts 27 →]]
 ***

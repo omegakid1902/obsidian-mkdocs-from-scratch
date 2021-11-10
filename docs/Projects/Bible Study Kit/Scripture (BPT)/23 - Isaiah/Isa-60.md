@@ -1,4 +1,11 @@
-# Isaiah 60
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-59
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-61
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-61
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-59
+---# Isaiah 60
 
 [[Isa-59|← Isaiah 59]] | [[Isaiah]] | [[Isa-61|Isaiah 61 →]]
 ***

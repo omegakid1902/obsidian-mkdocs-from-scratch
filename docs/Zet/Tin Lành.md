@@ -1,11 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Cải Cách Kháng Nghị
-  - Zet/People/Martin Luther
-backlinks:
-  - Zet/God
-  - Zet/Kito Giáo
-  - Zet/Religion
 title: Tin Lành
 UID: 201225213624
 created: 25-Dec-2020

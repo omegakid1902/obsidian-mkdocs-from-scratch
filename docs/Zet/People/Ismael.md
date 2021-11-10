@@ -1,7 +1,4 @@
 ---
-backlinks:
-  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
-  - Zet/Hồi Giáo
 title: Ismael
 UID: 211006234523
 tags:

@@ -1,4 +1,10 @@
-# Nehemiah 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-02
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
+---# Nehemiah 1
 
 [[Nehemiah]] | [[Neh-02|Nehemiah 02 →]]
 ***

@@ -1,4 +1,11 @@
-# Jeremiah 47
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-46
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-48
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-48
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-46
+---# Jeremiah 47
 
 [[Jer-46|← Jeremiah 46]] | [[Jeremiah]] | [[Jer-48|Jeremiah 48 →]]
 ***

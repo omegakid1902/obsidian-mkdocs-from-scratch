@@ -1,4 +1,11 @@
-# Daniel 10
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-09
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Daniel
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-11
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-11
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-09
+---# Daniel 10
 
 [[Dan-09|← Daniel 09]] | [[Daniel]] | [[Dan-11|Daniel 11 →]]
 ***

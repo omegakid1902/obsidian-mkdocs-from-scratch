@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Helena Blavatsky
-  - Zet/Thông thiên học
 title: Hội thông thiên học
 UID: 211028224247
 created: 28-Oct-2021

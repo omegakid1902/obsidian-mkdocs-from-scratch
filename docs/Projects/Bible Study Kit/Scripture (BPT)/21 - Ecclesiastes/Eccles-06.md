@@ -1,4 +1,11 @@
-# Ecclesiastes 6
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-05
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Ecclesiastes
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-07
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-05
+  - Projects/Bible Study Kit/Scripture (BPT)/21 - Ecclesiastes/Eccles-07
+---# Ecclesiastes 6
 
 [[Eccles-05|← Ecclesiastes 05]] | [[Ecclesiastes]] | [[Eccles-07|Ecclesiastes 07 →]]
 ***

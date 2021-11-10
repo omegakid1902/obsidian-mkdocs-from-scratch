@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Vaccine
-  - Zet/COVID-19
-  - Zet/People/Bill Gates
-backlinks:
-  - Zet/Kênh youtube giáo dục tự do 1
 title: Mafia y tế
 UID: 211004214109
 created: 04-Oct-2021

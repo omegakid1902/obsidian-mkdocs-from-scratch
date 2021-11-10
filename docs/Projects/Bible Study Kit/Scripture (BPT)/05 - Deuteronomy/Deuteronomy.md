@@ -1,4 +1,42 @@
-links: [[The bible]]
+---outgoing_links:
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-01
+  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-30
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-28
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-29
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-02
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-22
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-23
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-03
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-32
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-24
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-07
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-11
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-19
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-09
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-14
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-13
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-05
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-15
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-04
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-16
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-34
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-27
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-20
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-01
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-12
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-17
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-31
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-06
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-18
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-33
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-10
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-25
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-21
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-26
+  - Projects/Bible Study Kit/Scripture (BPT)/05 - Deuteronomy/Deut-08
+---links: [[The bible]]
 # Deuteronomy
 
 [[Deut-01|Start Reading →]]

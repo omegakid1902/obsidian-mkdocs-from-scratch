@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Thánh Gioan Thánh giá
-  - Zet/God
 title: Gioan Thánh giá gọi Chúa là nada
 UID: 211022215448
 created: 22-Oct-2021

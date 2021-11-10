@@ -1,4 +1,11 @@
-# Isaiah 10
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-09
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-11
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-09
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-11
+---# Isaiah 10
 
 [[Isa-09|← Isaiah 09]] | [[Isaiah]] | [[Isa-11|Isaiah 11 →]]
 ***

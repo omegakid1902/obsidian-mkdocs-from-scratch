@@ -1,4 +1,8 @@
-# 3 John 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/64 - 3 John/3 John
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/64 - 3 John/3 John
+---# 3 John 1
 
 [[3 John]]
 ***

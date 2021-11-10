@@ -1,4 +1,11 @@
-# Matthew 25
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-24
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-26
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-24
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-26
+---# Matthew 25
 
 [[Matt-24|← Matthew 24]] | [[Matthew]] | [[Matt-26|Matthew 26 →]]
 ***

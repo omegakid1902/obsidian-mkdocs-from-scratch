@@ -1,4 +1,10 @@
-# 2 Kings 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-02
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
+---# 2 Kings 1
 
 [[2 Kings]] | [[2 Kings-02|2 Kings 02 →]]
 ***

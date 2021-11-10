@@ -1,4 +1,11 @@
-# Job 33
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-32
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-34
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-32
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-34
+---# Job 33
 
 [[Job-32|← Job 32]] | [[Job]] | [[Job-34|Job 34 →]]
 ***

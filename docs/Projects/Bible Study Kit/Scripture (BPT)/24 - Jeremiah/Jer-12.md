@@ -1,4 +1,11 @@
-# Jeremiah 12
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-11
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-13
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-13
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-11
+---# Jeremiah 12
 
 [[Jer-11|← Jeremiah 11]] | [[Jeremiah]] | [[Jer-13|Jeremiah 13 →]]
 ***

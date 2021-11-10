@@ -1,4 +1,11 @@
-# Jeremiah 41
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-40
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jeremiah
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-42
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-40
+  - Projects/Bible Study Kit/Scripture (BPT)/24 - Jeremiah/Jer-42
+---# Jeremiah 41
 
 [[Jer-40|← Jeremiah 40]] | [[Jeremiah]] | [[Jer-42|Jeremiah 42 →]]
 ***

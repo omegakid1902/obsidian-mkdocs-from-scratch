@@ -1,4 +1,11 @@
-# Leviticus 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-19
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-21
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-19
+---# Leviticus 20
 
 [[Lev-19|← Leviticus 19]] | [[Leviticus]] | [[Lev-21|Leviticus 21 →]]
 ***

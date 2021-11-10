@@ -1,4 +1,11 @@
-# John 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-19
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-19
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-21
+---# John 20
 
 [[John-19|← John 19]] | [[John]] | [[John-21|John 21 →]]
 ***

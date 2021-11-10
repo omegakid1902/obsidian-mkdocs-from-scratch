@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Donald J. Trump
-backlinks:
-  - Zet/Các kênh thông tin trái chiều
 title: The Epoch Times
 UID: 211005231757
 created: 05-Oct-2021

@@ -1,4 +1,17 @@
-links: [[Start connecting Scripture]]
+---outgoing_links:
+  - Projects/Bible Study Kit/Start connecting Scripture
+  - Projects/Bible Study Kit/Connected Biblical Thinking
+  - Projects/Bible Study Kit/Benefits of Connected Biblical Thinking
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-02
+  - Projects/Bible Study Kit/CSS tweaks
+  - Projects/Bible Study Kit/Connecting simplifies retrieving
+backlinks:
+  - Projects/Bible Study Kit/+Overview
+  - Projects/Bible Study Kit/030 PKM MOC
+  - Projects/Bible Study Kit/Start connecting Scripture
+---links: [[Start connecting Scripture]]
 # The Basics of connecting
 You can connect Scripture in three ways: Linking, embedding and back links.
 

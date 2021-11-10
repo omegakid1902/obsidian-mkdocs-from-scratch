@@ -1,4 +1,10 @@
-# Jonah 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah
+  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah-02
+  - Projects/Bible Study Kit/Scripture (BPT)/32 - Jonah/Jonah
+---# Jonah 1
 
 [[Jonah]] | [[Jonah-02|Jonah 02 →]]
 ***

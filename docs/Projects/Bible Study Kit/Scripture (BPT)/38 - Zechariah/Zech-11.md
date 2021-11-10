@@ -1,4 +1,11 @@
-# Zechariah 11
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-10
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zechariah
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-12
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-12
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-10
+---# Zechariah 11
 
 [[Zech-10|← Zechariah 10]] | [[Zechariah]] | [[Zech-12|Zechariah 12 →]]
 ***

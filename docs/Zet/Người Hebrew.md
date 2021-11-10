@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Người Do Thái
-backlinks:
-  - Zet/Người Do Thái
 title: Người Hebrew
 UID: 2106212116
 created: Jun 21, 2021 9:16 PM

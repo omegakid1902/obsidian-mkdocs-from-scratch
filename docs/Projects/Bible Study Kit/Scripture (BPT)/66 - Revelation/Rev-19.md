@@ -1,4 +1,11 @@
-# Revelation 19
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-18
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Revelation
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-20
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-20
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-18
+---# Revelation 19
 
 [[Rev-18|← Revelation 18]] | [[Revelation]] | [[Rev-20|Revelation 20 →]]
 ***

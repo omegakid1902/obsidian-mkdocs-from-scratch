@@ -1,4 +1,11 @@
-# Nehemiah 7
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-06
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Nehemiah
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-08
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-08
+  - Projects/Bible Study Kit/Scripture (BPT)/16 - Nehemiah/Neh-06
+---# Nehemiah 7
 
 [[Neh-06|← Nehemiah 06]] | [[Nehemiah]] | [[Neh-08|Nehemiah 08 →]]
 ***

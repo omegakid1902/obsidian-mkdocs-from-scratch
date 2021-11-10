@@ -1,17 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Antoine Beauchamp
-  - Zet/The Germ theory
-  - Zet/People/Louis Pasteur
-  - Zet/COVID-19
-  - Zet/People/Kary B. Mullis
-  - Zet/Real time PCR test
-  - Zet/Kênh youtube giáo dục tự do 1
-backlinks:
-  - Zet/Đại dịch COVID-19
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
-  - Zet/The Germ theory
-  - Zet/People/Edward Jenner
 title: The Terrain Theory
 UID: 211010113408
 created: 10-Oct-2021

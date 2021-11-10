@@ -1,4 +1,11 @@
-# Matthew 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-02
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-02
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-04
+---# Matthew 3
 
 [[Matt-02|← Matthew 02]] | [[Matthew]] | [[Matt-04|Matthew 04 →]]
 ***

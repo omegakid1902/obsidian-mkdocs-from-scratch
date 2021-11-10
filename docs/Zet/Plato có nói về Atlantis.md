@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Plato
-  - Zet/Atlantis
-  - Zet/Qmap
-backlinks:
-  - Zet/Qmap
 title: Plato có nói về Atlantis
 UID: 211027215101
 created: 27-Oct-2021

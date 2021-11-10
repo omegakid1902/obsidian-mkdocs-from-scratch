@@ -1,4 +1,11 @@
-# Genesis 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-16
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-18
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-16
+---# Genesis 17
 
 [[Gen-16|← Genesis 16]] | [[Genesis]] | [[Gen-18|Genesis 18 →]]
 ***

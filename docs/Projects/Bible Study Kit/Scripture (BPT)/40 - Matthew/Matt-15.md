@@ -1,4 +1,11 @@
-# Matthew 15
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-14
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-16
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-14
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-16
+---# Matthew 15
 
 [[Matt-14|← Matthew 14]] | [[Matthew]] | [[Matt-16|Matthew 16 →]]
 ***

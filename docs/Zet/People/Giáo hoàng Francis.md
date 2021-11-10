@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Dòng Tên
-backlinks:
-  - Zet/Dòng Tên
 title: Giáo hoàng Francis
 UID: 211024223150
 tags:

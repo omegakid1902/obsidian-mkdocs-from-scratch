@@ -1,4 +1,11 @@
-# Galatians 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-02
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Galatians
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-02
+  - Projects/Bible Study Kit/Scripture (BPT)/48 - Galatians/Gal-04
+---# Galatians 3
 
 [[Gal-02|← Galatians 02]] | [[Galatians]] | [[Gal-04|Galatians 04 →]]
 ***

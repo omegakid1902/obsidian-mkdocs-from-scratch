@@ -1,4 +1,11 @@
-# Isaiah 24
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-23
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-25
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-25
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-23
+---# Isaiah 24
 
 [[Isa-23|← Isaiah 23]] | [[Isaiah]] | [[Isa-25|Isaiah 25 →]]
 ***

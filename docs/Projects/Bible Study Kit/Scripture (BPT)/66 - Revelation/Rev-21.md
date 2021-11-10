@@ -1,4 +1,11 @@
-# Revelation 21
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-20
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Revelation
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-22
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-20
+  - Projects/Bible Study Kit/Scripture (BPT)/66 - Revelation/Rev-22
+---# Revelation 21
 
 [[Rev-20|← Revelation 20]] | [[Revelation]] | [[Rev-22|Revelation 22 →]]
 ***

@@ -1,13 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Niklas Luhmann
-  - Zet/Zettelkasten
-  - Zet/Literature Note
-  - Zet/Fleeting Note
-backlinks:
-  - Zet/Fleeting Note
-  - Zet/Zettelkasten
-  - Zet/Literature Note
 title: Permanent Note
 created: Oct 21, 2020 10:09 PM
 tags:

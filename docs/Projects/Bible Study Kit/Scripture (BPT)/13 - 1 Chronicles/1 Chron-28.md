@@ -1,4 +1,11 @@
-# 1 Chronicles 28
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-27
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-29
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-27
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-29
+---# 1 Chronicles 28
 
 [[1 Chron-27|← 1 Chronicles 27]] | [[1 Chronicles]] | [[1 Chron-29|1 Chronicles 29 →]]
 ***

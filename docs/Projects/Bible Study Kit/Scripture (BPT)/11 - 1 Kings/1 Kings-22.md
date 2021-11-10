@@ -1,4 +1,9 @@
-# 1 Kings 22
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-21
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/11 - 1 Kings/1 Kings-21
+---# 1 Kings 22
 
 [[1 Kings-21|← 1 Kings 21]] | [[1 Kings]]
 ***

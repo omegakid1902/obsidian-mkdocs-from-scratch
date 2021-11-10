@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Stephen Hawking
-backlinks:
-  - Zet/Đại dịch COVID-19
-  - Zet/Thế giới tâm linh
-  - Zet/Các nhà tiên tri
 title: Boriska Kipriyanovich
 UID: 211015223547
 tags:

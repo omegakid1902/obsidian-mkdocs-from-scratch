@@ -1,4 +1,11 @@
-# Isaiah 37
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-36
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-38
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-38
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-36
+---# Isaiah 37
 
 [[Isa-36|← Isaiah 36]] | [[Isaiah]] | [[Isa-38|Isaiah 38 →]]
 ***

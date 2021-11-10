@@ -1,11 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Donald J. Trump
-  - Zet/FED
-  - Zet/People/Nicola Tesla
-backlinks:
-  - Zet/FED
-  - Zet/Các thông tin về việc reset các chính phủ
 title: NESARA
 UID: 211014230423
 created: 14-Oct-2021

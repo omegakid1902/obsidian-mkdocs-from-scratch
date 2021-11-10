@@ -1,4 +1,11 @@
-# Zechariah 6
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-05
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zechariah
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-07
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-07
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-05
+---# Zechariah 6
 
 [[Zech-05|← Zechariah 05]] | [[Zechariah]] | [[Zech-07|Zechariah 07 →]]
 ***

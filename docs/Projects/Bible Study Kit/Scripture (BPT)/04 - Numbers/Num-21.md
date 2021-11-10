@@ -1,4 +1,11 @@
-# Numbers 21
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-20
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-22
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-22
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-20
+---# Numbers 21
 
 [[Num-20|← Numbers 20]] | [[Numbers]] | [[Num-22|Numbers 22 →]]
 ***

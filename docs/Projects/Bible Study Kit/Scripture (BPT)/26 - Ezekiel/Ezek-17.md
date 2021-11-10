@@ -1,4 +1,11 @@
-# Ezekiel 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-16
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-18
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-16
+---# Ezekiel 17
 
 [[Ezek-16|← Ezekiel 16]] | [[Ezekiel]] | [[Ezek-18|Ezekiel 18 →]]
 ***

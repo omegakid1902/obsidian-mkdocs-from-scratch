@@ -1,9 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Công Giáo
-  - Zet/Chúa Jesus không sinh ra vào 25-12
-backlinks:
-  - Zet/People/Đức Jesus
 title: Chúa Giáng Sinh
 UID: 2107111601
 tags:

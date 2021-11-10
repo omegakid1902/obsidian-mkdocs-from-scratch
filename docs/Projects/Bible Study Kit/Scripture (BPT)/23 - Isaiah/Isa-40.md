@@ -1,4 +1,11 @@
-# Isaiah 40
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-39
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-41
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-41
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-39
+---# Isaiah 40
 
 [[Isa-39|← Isaiah 39]] | [[Isaiah]] | [[Isa-41|Isaiah 41 →]]
 ***

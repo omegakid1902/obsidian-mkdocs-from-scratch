@@ -1,4 +1,13 @@
-links: [[The bible]]
+---outgoing_links:
+backlinks:
+  - Projects/Bible Study Kit/Creation account
+  - Projects/Bible Study Kit/Work is broken
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/010 Faith MOC
+  - Projects/Bible Study Kit/Creation account
+  - Projects/Bible Study Kit/Examples of Connected Biblical Thinking
+  - Projects/Bible Study Kit/Scripture (BPT)/The Bible
+---links: [[The bible]]
 # God's unified story
 An example for an overview note for the whole Bible. This would link to a lot of different Biblical events and concepts. It is way of keeping the meta-narrative in mind.
 

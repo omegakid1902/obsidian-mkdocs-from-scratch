@@ -1,4 +1,11 @@
-# Luke 7
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-06
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-08
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-08
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-06
+---# Luke 7
 
 [[Luke-06|← Luke 06]] | [[Luke]] | [[Luke-08|Luke 08 →]]
 ***

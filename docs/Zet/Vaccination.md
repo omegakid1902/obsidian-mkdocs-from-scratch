@@ -1,18 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Vaccine
-  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
-  - Zet/People/Edward Jenner
-  - Zet/People/Louis Pasteur
-  - Zet/People/Antoine Beauchamp
-  - Zet/COVID-19
-  - Zet/Vaccine Pfizer
-  - Zet/Vaccine Moderna
-  - Zet/Vaccine AstraZeneca
-backlinks:
-  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
-  - Zet/Vaccine
-  - Zet/People/Louis Pasteur
 title: Vaccination
 UID: 211010165940
 created: 10-Oct-2021

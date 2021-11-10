@@ -1,4 +1,10 @@
-# Daniel 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Daniel
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Dan-02
+  - Projects/Bible Study Kit/Scripture (BPT)/27 - Daniel/Daniel
+---# Daniel 1
 
 [[Daniel]] | [[Dan-02|Daniel 02 →]]
 ***

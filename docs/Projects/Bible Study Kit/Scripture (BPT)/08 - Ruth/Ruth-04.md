@@ -1,4 +1,9 @@
-# Ruth 4
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/08 - Ruth/Ruth-03
+  - Projects/Bible Study Kit/Scripture (BPT)/08 - Ruth/Ruth
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/08 - Ruth/Ruth-03
+---# Ruth 4
 
 [[Ruth-03|← Ruth 03]] | [[Ruth]]
 ***

@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Donald J. Trump
-backlinks:
-  - Zet/Qmap
-  - Zet/People/Bill Gates
-  - Zet/People/Donald J. Trump
 title: QAnon
 UID: 210918215753
 created: 18-Sep-2021

@@ -1,15 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Citation
-  - Zet/Reference Manager Software
-  - Zet/Fleeting Note
-  - Zet/Permanent Note
-  - Zet/Zettelkasten
-  - Zet/People/Niklas Luhmann
-backlinks:
-  - Zet/Fleeting Note
-  - Zet/Permanent Note
-  - Zet/Zettelkasten
 title: Literature Note
 created: Oct 21, 2020 10:09 PM
 tags:

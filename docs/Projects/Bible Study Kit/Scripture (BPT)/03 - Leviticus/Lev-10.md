@@ -1,4 +1,11 @@
-# Leviticus 10
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-09
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-11
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-11
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-09
+---# Leviticus 10
 
 [[Lev-09|← Leviticus 09]] | [[Leviticus]] | [[Lev-11|Leviticus 11 →]]
 ***

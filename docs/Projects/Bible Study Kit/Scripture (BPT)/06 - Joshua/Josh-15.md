@@ -1,4 +1,11 @@
-# Joshua 15
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-14
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-16
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-14
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-16
+---# Joshua 15
 
 [[Josh-14|← Joshua 14]] | [[Joshua]] | [[Josh-16|Joshua 16 →]]
 ***

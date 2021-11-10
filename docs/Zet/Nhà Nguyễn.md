@@ -1,13 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Chúa Nguyễn
-  - Zet/Nhà Tây Sơn
-  - Zet/Bảo Đại
-backlinks:
-  - Zet/Chúa Nguyễn
-  - Zet/Bảo Đại
-  - Zet/Lịch Sử Việt Nam
-  - Zet/People/Nguyễn Hoàng
 title: Nhà Nguyễn
 UID: 
 created: 

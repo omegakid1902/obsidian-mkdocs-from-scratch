@@ -1,12 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Văn Lang
-  - Zet/Âu Lạc
-  - Zet/People/Trần Trọng Kim
-backlinks:
-  - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
 title: Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
 UID: 2107251023
 tags:

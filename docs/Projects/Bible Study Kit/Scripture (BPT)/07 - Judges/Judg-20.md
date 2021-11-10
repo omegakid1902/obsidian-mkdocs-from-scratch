@@ -1,4 +1,11 @@
-# Judges 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-19
+  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judges
+  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-19
+  - Projects/Bible Study Kit/Scripture (BPT)/07 - Judges/Judg-21
+---# Judges 20
 
 [[Judg-19|← Judges 19]] | [[Judges]] | [[Judg-21|Judges 21 →]]
 ***

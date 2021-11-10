@@ -1,4 +1,11 @@
-# Joshua 7
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-06
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-08
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-08
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-06
+---# Joshua 7
 
 [[Josh-06|← Joshua 06]] | [[Joshua]] | [[Josh-08|Joshua 08 →]]
 ***

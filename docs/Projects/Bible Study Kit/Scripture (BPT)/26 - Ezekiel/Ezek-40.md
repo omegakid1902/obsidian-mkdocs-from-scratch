@@ -1,4 +1,11 @@
-# Ezekiel 40
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-39
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-41
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-39
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-41
+---# Ezekiel 40
 
 [[Ezek-39|← Ezekiel 39]] | [[Ezekiel]] | [[Ezek-41|Ezekiel 41 →]]
 ***

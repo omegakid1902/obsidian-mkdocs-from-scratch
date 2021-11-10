@@ -1,4 +1,11 @@
-# Matthew 13
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-12
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-14
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-14
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-12
+---# Matthew 13
 
 [[Matt-12|← Matthew 12]] | [[Matthew]] | [[Matt-14|Matthew 14 →]]
 ***

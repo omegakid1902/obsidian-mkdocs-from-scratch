@@ -1,4 +1,10 @@
-# Luke 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-02
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke-02
+  - Projects/Bible Study Kit/Scripture (BPT)/42 - Luke/Luke
+---# Luke 1
 
 [[Luke]] | [[Luke-02|Luke 02 →]]
 ***

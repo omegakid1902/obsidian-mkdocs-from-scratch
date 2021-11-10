@@ -1,4 +1,11 @@
-# Leviticus 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-01
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Leviticus
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-03
+  - Projects/Bible Study Kit/Scripture (BPT)/03 - Leviticus/Lev-01
+---# Leviticus 2
 
 [[Lev-01|← Leviticus 01]] | [[Leviticus]] | [[Lev-03|Leviticus 03 →]]
 ***

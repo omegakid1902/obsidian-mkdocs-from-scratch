@@ -1,4 +1,11 @@
-# Romans 14
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-13
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Romans
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-15
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-15
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-13
+---# Romans 14
 
 [[Rom-13|← Romans 13]] | [[Romans]] | [[Rom-15|Romans 15 →]]
 ***

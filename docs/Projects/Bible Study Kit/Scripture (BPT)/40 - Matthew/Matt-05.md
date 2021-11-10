@@ -1,4 +1,11 @@
-# Matthew 5
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-04
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-06
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-06
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-04
+---# Matthew 5
 
 [[Matt-04|← Matthew 04]] | [[Matthew]] | [[Matt-06|Matthew 06 →]]
 ***

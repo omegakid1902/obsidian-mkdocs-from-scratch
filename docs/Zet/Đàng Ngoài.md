@@ -1,9 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Chúa Trịnh
-backlinks:
-  - Zet/Chúa Nguyễn
-  - Zet/Chúa Trịnh
 title: Đàng Ngoài
 UID: P-210714-0818
 created: 

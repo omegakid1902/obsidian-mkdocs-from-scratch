@@ -1,11 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Chiến tranh trên Thiên Đàng
-  - Zet/Cựu Ước
-backlinks:
-  - Zet/Chiến tranh trên Thiên Đàng
-  - Zet/Chúa Jesus không sinh ra vào 25-12
-  - Zet/Qmap
 title: Lucifer
 UID: 210920221128
 created: 20-Sep-2021

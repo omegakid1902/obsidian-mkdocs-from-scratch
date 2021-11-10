@@ -1,12 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Thuyết tiến hóa
-backlinks:
-  - Zet/Eugenics
-  - Zet/Francis Galton là em họ của Charles Darwin
-  - Zet/Thuyết tiến hóa
-  - Zet/Homo Neanderthal
-  - Zet/Hội tam điểm
 title: Charles Darwin
 UID: 210908201024
 tags:

@@ -1,4 +1,12 @@
-# Romans 5
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-04
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Romans
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-06
+backlinks:
+  - Projects/Bible Study Kit/What is the Gospel
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-06
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-04
+---# Romans 5
 
 [[Rom-04|← Romans 04]] | [[Romans]] | [[Rom-06|Romans 06 →]]
 ***

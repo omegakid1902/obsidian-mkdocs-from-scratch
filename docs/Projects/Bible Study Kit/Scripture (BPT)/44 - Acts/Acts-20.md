@@ -1,4 +1,11 @@
-# Acts 20
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-19
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-21
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-21
+  - Projects/Bible Study Kit/Scripture (BPT)/44 - Acts/Acts-19
+---# Acts 20
 
 [[Acts-19|← Acts 19]] | [[Acts]] | [[Acts-21|Acts 21 →]]
 ***

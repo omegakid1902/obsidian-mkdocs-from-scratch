@@ -1,17 +1,4 @@
 ---
-outgoing_links:
-  - Zet/QAnon
-  - Zet/Eugenics
-  - Zet/Vaccine
-  - Zet/Vaccine Pfizer
-  - Zet/Vaccine Moderna
-backlinks:
-  - Zet/Eugenics
-  - Zet/Đại dịch COVID-19
-  - Zet/Các loại Vaccine COVID 19
-  - Zet/Vaccine Moderna
-  - Zet/Mafia y tế
-  - Zet/WHO
 title: Bill Gates
 UID: 210918172501
 tags:

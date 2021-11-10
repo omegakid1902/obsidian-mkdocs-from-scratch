@@ -1,4 +1,11 @@
-# Joshua 11
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-10
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Joshua
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-12
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-10
+  - Projects/Bible Study Kit/Scripture (BPT)/06 - Joshua/Josh-12
+---# Joshua 11
 
 [[Josh-10|← Joshua 10]] | [[Joshua]] | [[Josh-12|Joshua 12 →]]
 ***

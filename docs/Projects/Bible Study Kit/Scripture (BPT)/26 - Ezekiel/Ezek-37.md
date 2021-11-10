@@ -1,4 +1,11 @@
-# Ezekiel 37
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-36
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-38
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-36
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-38
+---# Ezekiel 37
 
 [[Ezek-36|← Ezekiel 36]] | [[Ezekiel]] | [[Ezek-38|Ezekiel 38 →]]
 ***

@@ -1,4 +1,11 @@
-# Numbers 5
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-04
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Numbers
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-06
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-04
+  - Projects/Bible Study Kit/Scripture (BPT)/04 - Numbers/Num-06
+---# Numbers 5
 
 [[Num-04|← Numbers 04]] | [[Numbers]] | [[Num-06|Numbers 06 →]]
 ***

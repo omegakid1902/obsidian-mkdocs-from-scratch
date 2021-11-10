@@ -1,11 +1,4 @@
 ---
-outgoing_links:
-  - Zet/SuperMemo
-  - Zet/SM-Algorithm
-  - Zet/Spaced Repetition
-backlinks:
-  - Zet/SuperMemo
-  - Zet/Self Improvement
 title: Incremental Reading
 created: Nov 12, 2020 1:36 AM 
 tags:

@@ -1,4 +1,11 @@
-# 2 Kings 17
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-16
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-18
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-16
+  - Projects/Bible Study Kit/Scripture (BPT)/12 - 2 Kings/2 Kings-18
+---# 2 Kings 17
 
 [[2 Kings-16|← 2 Kings 16]] | [[2 Kings]] | [[2 Kings-18|2 Kings 18 →]]
 ***

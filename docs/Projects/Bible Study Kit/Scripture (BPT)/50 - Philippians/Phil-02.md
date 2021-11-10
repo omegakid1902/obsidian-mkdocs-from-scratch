@@ -1,4 +1,11 @@
-# Philippians 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Phil-01
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Philippians
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Phil-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Phil-01
+  - Projects/Bible Study Kit/Scripture (BPT)/50 - Philippians/Phil-03
+---# Philippians 2
 
 [[Phil-01|← Philippians 01]] | [[Philippians]] | [[Phil-03|Philippians 03 →]]
 ***

@@ -1,4 +1,10 @@
-# Zechariah 14
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-13
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zechariah
+backlinks:
+  - Projects/Bible Study Kit/Chaotic Waters (Image)
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-13
+---# Zechariah 14
 
 [[Zech-13|← Zechariah 13]] | [[Zechariah]]
 ***

@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Benjamin Franklin
-  - Zet/People/Charles Darwin
-  - Zet/People/Trần Trọng Kim
 title: Hội tam điểm
 UID: 211109231052
 created: 09-Nov-2021

@@ -1,4 +1,11 @@
-# Job 11
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-10
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-12
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-12
+  - Projects/Bible Study Kit/Scripture (BPT)/18 - Job/Job-10
+---# Job 11
 
 [[Job-10|← Job 10]] | [[Job]] | [[Job-12|Job 12 →]]
 ***

@@ -1,4 +1,11 @@
-# Lamentations 2
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lam-01
+  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lamentations
+  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lam-03
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lam-01
+  - Projects/Bible Study Kit/Scripture (BPT)/25 - Lamentations/Lam-03
+---# Lamentations 2
 
 [[Lam-01|← Lamentations 01]] | [[Lamentations]] | [[Lam-03|Lamentations 03 →]]
 ***

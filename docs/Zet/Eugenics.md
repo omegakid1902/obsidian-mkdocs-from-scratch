@@ -1,20 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Đảng Quốc Xã
-  - Zet/Người Do Thái
-  - Zet/People/Adolf Hitler
-  - Zet/People/Charles Darwin
-  - Zet/Francis Galton là em họ của Charles Darwin
-  - Zet/Thuyết tiến hóa
-  - Zet/Người Aryan
-  - Zet/People/Bill Gates
-  - Zet/Vaccine
-  - Zet/SARS-COV-2
-backlinks:
-  - Zet/Các kênh thông tin trái chiều
-  - Zet/Đại dịch COVID-19
-  - Zet/Qmap
-  - Zet/People/Bill Gates
 title: Eugenics
 UID: 210919163636
 created: 19-Sep-2021

@@ -1,4 +1,11 @@
-# Song of Solomon 4
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-03
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song of Solomon
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-05
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-03
+  - Projects/Bible Study Kit/Scripture (BPT)/22 - Song of Solomon/Song-05
+---# Song of Solomon 4
 
 [[Song-03|← Song of Solomon 03]] | [[Song of Solomon]] | [[Song-05|Song of Solomon 05 →]]
 ***

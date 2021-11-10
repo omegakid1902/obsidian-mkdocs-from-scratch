@@ -1,18 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Nhà Lý
-  - Zet/People/Trần Cảnh
-  - Zet/People/Trần Thủ Độ
-  - Zet/People/Lý Chiêu Hoàng
-  - Zet/People/Trần Hưng Đạo
-  - Zet/People/Trần Quang Khải
-backlinks:
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
-  - Zet/People/Trần Thủ Độ
-  - Zet/People/Trần Liễu
-  - Zet/People/Trần Cảnh
-  - Zet/People/Trần Hưng Đạo
 title: Nhà Trần
 tags:
   - '#created/2021/Jul/09'

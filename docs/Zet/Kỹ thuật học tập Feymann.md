@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Self Improvement
 title: Kỹ thuật học tập Feymann
 created: Oct 22, 2020 5:50 AM
 tags:

@@ -1,6 +1,4 @@
 ---
-backlinks:
-  - Zet/Tôn giáo nhị nguyên
 title: Zarathustra
 UID: 211023222549
 tags:

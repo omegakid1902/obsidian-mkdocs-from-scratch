@@ -1,4 +1,11 @@
-# Matthew 27
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-26
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matthew
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-28
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-26
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-28
+---# Matthew 27
 
 [[Matt-26|← Matthew 26]] | [[Matthew]] | [[Matt-28|Matthew 28 →]]
 ***

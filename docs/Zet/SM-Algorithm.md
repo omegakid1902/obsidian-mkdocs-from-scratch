@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/SuperMemo
-  - Zet/Spaced Repetition
-  - Zet/Đường cong học tập
-backlinks:
-  - Zet/Incremental Reading
 title: SM-Algorithm
 created: Nov 20, 2020 11:54 PM
 tags:

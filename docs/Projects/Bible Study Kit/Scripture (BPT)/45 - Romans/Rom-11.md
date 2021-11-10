@@ -1,4 +1,11 @@
-# Romans 11
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-10
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Romans
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-12
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-10
+  - Projects/Bible Study Kit/Scripture (BPT)/45 - Romans/Rom-12
+---# Romans 11
 
 [[Rom-10|← Romans 10]] | [[Romans]] | [[Rom-12|Romans 12 →]]
 ***

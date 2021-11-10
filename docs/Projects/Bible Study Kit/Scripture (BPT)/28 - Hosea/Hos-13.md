@@ -1,4 +1,11 @@
-# Hosea 13
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-12
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hosea
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-14
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-14
+  - Projects/Bible Study Kit/Scripture (BPT)/28 - Hosea/Hos-12
+---# Hosea 13
 
 [[Hos-12|← Hosea 12]] | [[Hosea]] | [[Hos-14|Hosea 14 →]]
 ***

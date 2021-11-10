@@ -1,4 +1,11 @@
-# Exodus 4
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-03
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-05
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-03
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-05
+---# Exodus 4
 
 [[Exod-03|← Exodus 03]] | [[Exodus]] | [[Exod-05|Exodus 05 →]]
 ***

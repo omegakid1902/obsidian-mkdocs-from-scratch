@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Dòng Tên
-backlinks:
-  - Zet/Qmap
 title: Ignatius of Loyola
 UID: 211024215353
 tags:

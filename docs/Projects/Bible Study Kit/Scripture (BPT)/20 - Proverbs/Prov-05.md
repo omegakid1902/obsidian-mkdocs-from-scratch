@@ -1,4 +1,11 @@
-# Proverbs 5
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-04
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Proverbs
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-06
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-04
+  - Projects/Bible Study Kit/Scripture (BPT)/20 - Proverbs/Prov-06
+---# Proverbs 5
 
 [[Prov-04|← Proverbs 04]] | [[Proverbs]] | [[Prov-06|Proverbs 06 →]]
 ***

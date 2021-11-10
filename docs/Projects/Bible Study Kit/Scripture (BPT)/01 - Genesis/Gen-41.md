@@ -1,4 +1,11 @@
-# Genesis 41
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-40
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-42
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-42
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-40
+---# Genesis 41
 
 [[Gen-40|← Genesis 40]] | [[Genesis]] | [[Gen-42|Genesis 42 →]]
 ***

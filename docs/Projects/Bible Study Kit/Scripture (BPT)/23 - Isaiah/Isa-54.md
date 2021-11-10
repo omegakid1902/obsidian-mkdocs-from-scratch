@@ -1,4 +1,11 @@
-# Isaiah 54
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-53
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isaiah
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-55
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-55
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-53
+---# Isaiah 54
 
 [[Isa-53|← Isaiah 53]] | [[Isaiah]] | [[Isa-55|Isaiah 55 →]]
 ***

@@ -1,4 +1,11 @@
-# Exodus 18
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-17
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exodus
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-19
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-19
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-17
+---# Exodus 18
 
 [[Exod-17|← Exodus 17]] | [[Exodus]] | [[Exod-19|Exodus 19 →]]
 ***

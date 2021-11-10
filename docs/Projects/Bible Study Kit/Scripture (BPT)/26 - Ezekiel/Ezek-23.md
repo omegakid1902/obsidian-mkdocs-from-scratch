@@ -1,4 +1,11 @@
-# Ezekiel 23
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-22
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezekiel
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-24
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-22
+  - Projects/Bible Study Kit/Scripture (BPT)/26 - Ezekiel/Ezek-24
+---# Ezekiel 23
 
 [[Ezek-22|← Ezekiel 22]] | [[Ezekiel]] | [[Ezek-24|Ezekiel 24 →]]
 ***

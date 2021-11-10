@@ -1,7 +1,4 @@
 ---
-backlinks:
-  - Zet/Lịch sử Trung Quốc
-  - Zet/People/Đế Thuấn
 title: Đế Nghiêu
 UID: 210905222312
 tags:

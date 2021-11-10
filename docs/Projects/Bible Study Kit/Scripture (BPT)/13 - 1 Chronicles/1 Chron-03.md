@@ -1,4 +1,11 @@
-# 1 Chronicles 3
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-02
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-04
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-04
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-02
+---# 1 Chronicles 3
 
 [[1 Chron-02|← 1 Chronicles 02]] | [[1 Chronicles]] | [[1 Chron-04|1 Chronicles 04 →]]
 ***

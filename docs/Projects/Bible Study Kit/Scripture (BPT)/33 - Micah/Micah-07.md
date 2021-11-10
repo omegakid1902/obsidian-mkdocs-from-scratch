@@ -1,4 +1,9 @@
-# Micah 7
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-06
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/33 - Micah/Micah-06
+---# Micah 7
 
 [[Micah-06|← Micah 06]] | [[Micah]]
 ***

@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Thông thiên học
-  - Zet/Khủng hoảng hiện sinh
 title: Ba Chân lý của thông thiên học
 UID: 211026235444
 created: 26-Oct-2021

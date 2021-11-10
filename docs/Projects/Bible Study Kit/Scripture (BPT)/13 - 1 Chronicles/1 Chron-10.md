@@ -1,4 +1,11 @@
-# 1 Chronicles 10
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-09
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-11
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-09
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-11
+---# 1 Chronicles 10
 
 [[1 Chron-09|← 1 Chronicles 09]] | [[1 Chronicles]] | [[1 Chron-11|1 Chronicles 11 →]]
 ***

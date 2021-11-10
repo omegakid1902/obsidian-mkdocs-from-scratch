@@ -1,4 +1,11 @@
-# Mark 14
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-13
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-15
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-13
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-15
+---# Mark 14
 
 [[Mark-13|← Mark 13]] | [[Mark]] | [[Mark-15|Mark 15 →]]
 ***

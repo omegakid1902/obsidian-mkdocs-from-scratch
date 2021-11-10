@@ -1,4 +1,17 @@
-links: [[Biblical Themes and Images MOC]]
+---outgoing_links:
+  - Projects/Bible Study Kit/Biblical Themes and Images MOC
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-01
+  - Projects/Bible Study Kit/Scripture (BPT)/02 - Exodus/Exod-15
+  - Projects/Bible Study Kit/Scripture (BPT)/19 - Psalms/Ps-18
+  - Projects/Bible Study Kit/Scripture (BPT)/23 - Isaiah/Isa-02
+  - Projects/Bible Study Kit/Scripture (BPT)/38 - Zechariah/Zech-14
+  - Projects/Bible Study Kit/Scripture (BPT)/40 - Matthew/Matt-14
+  - Projects/Bible Study Kit/Scripture (BPT)/43 - John/John-06
+  - Projects/Bible Study Kit/Scripture (BPT)/41 - Mark/Mark-06
+backlinks:
+  - Projects/Bible Study Kit/Biblical Themes and Images MOC
+  - Projects/Bible Study Kit/Creation account
+---links: [[Biblical Themes and Images MOC]]
 # Chaotic Waters (Image)
 This is the first image that is given in the Bible ([[Gen-01#v2]]) . It’s meant to convey a state of un-creation, a state that is uninhabitable and unwelcoming of life.
 

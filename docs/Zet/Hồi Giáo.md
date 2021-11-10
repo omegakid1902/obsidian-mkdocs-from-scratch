@@ -1,15 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Ismael
-  - Zet/Công Giáo
-  - Zet/Do Thái Giáo
-  - Zet/Kinh Koran
-backlinks:
-  - Zet/God
-  - Zet/Kinh Koran
-  - Zet/Qmap
-  - Zet/Religion
-  - Zet/People/Alberto Rivera
 title: Hồi Giáo
 UID: 201225213853
 created: 25-Dec-2021

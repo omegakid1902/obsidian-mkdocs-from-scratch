@@ -1,4 +1,11 @@
-# 1 Chronicles 19
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-18
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chronicles
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-20
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-18
+  - Projects/Bible Study Kit/Scripture (BPT)/13 - 1 Chronicles/1 Chron-20
+---# 1 Chronicles 19
 
 [[1 Chron-18|← 1 Chronicles 18]] | [[1 Chronicles]] | [[1 Chron-20|1 Chronicles 20 →]]
 ***

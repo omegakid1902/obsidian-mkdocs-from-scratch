@@ -1,4 +1,17 @@
-# Genesis 1
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-02
+backlinks:
+  - Projects/Bible Study Kit/The Basics of connecting
+  - Projects/Bible Study Kit/Set up your Obsidian for Bible Study
+  - Projects/Bible Study Kit/Chaotic Waters (Image)
+  - Projects/Bible Study Kit/Examples of inductive note-taking
+  - Projects/Bible Study Kit/Book Note
+  - Projects/Bible Study Kit/+Start here
+  - Projects/Bible Study Kit/Creation account
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-02
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+---# Genesis 1
 
 [[Genesis]] | [[Gen-02|Genesis 02 →]]
 ***

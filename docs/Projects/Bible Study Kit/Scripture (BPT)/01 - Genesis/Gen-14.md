@@ -1,4 +1,11 @@
-# Genesis 14
+---outgoing_links:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-13
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Genesis
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-15
+backlinks:
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-15
+  - Projects/Bible Study Kit/Scripture (BPT)/01 - Genesis/Gen-13
+---# Genesis 14
 
 [[Gen-13|← Genesis 13]] | [[Genesis]] | [[Gen-15|Genesis 15 →]]
 ***
