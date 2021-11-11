@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/UFO
 backlinks:
   - Zet/Qmap
 title: Crop Circle

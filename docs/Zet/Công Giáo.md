@@ -12,6 +12,7 @@ outgoing_links:
 backlinks:
   - Zet/God
   - Zet/Chúa Giáng Sinh
+  - Zet/Rửa tội
   - Zet/Cơ Đốc Giáo
   - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Chính thống giáo Đông Phương

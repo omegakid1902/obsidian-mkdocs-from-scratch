@@ -1,6 +1,9 @@
 ---
 outgoing_links:
   - Zet/God
+  - Zet/Cain sinh lòng đố kị và ghen ghét Abel
+  - Zet/Cain sát hại Abel
+  - Zet/People/Abraham
   - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 backlinks:
   - Zet/Cựu Ước
@@ -18,9 +21,9 @@ publish: True
 ## Notes:
 Mở đầu cựu ước là sách [[Genesis|Sáng Thế]], [[God]] tạo dựng trời đất cỏ cây trong bảy ngày.
 
-Sau đó Thiên Chúa tạo dựng [[Adam]] và [[Eva]] theo hình ảnh người để sống trong đó. Thiên Chúa cho Adam và Eva tự do làm mọi việc trong vung đất gọi là [[Vườn địa đàng]]. Tuy nhiên, chỉ có một thứ mà hai ông bà không được làm đó là ăn trái cây biết mọi sự, hay còn gọi là [[Trái cấm]]. 
+Sau đó Thiên Chúa tạo dựng [[Adam và Eva]] và [[Eva]] theo hình ảnh người để sống trong đó. Thiên Chúa cho Adam và Eva tự do làm mọi việc trong vung đất gọi là [[Vườn địa đàng]]. Tuy nhiên, chỉ có một thứ mà hai ông bà không được làm đó là ăn trái cây biết mọi sự, hay còn gọi là [[Trái cấm]]. 
 
-Rồi một ngày, con rắn cám dỗ [[Eva]] ăn trái cây đó. Bà cũng rủ cả [[Adam]] ăn. Khi ăn xong, hai ông bà liền biết mình trần truồng. [[Gen-03#v1|Sáng thế 3, 1]]
+Rồi một ngày, con rắn cám dỗ [[Eva]] ăn trái cây đó. Bà cũng rủ cả [[Adam và Eva]] ăn. Khi ăn xong, hai ông bà liền biết mình trần truồng. [[Gen-03#v1|Sáng thế 3, 1]]
 
 Thiên Chúa đặt thiên thần cầm gươm lửa canh gác phía đông [[Vườn địa đàng]] để con người không lại gần [[Cây sự sống]] đó [[Gen-03#v24|Sáng thế 3, 24]]
 

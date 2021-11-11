@@ -1,8 +1,9 @@
 ---
 outgoing_links:
+backlinks:
   - Zet/Giải Nobel
   - Zet/People/Friedrich Nietzsche
-backlinks:
+  - Zet/Chủ nghĩa Hư vô
   - Zet/Rat race
   - Zet/Jean Paul Sartre
 title: Albert Camus

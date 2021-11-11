@@ -1,7 +1,10 @@
 ---
 outgoing_links:
   - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
+  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Người Do Thái Ashkenazi
+backlinks:
+  - Zet/Do Thái Giáo
 title: ❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 UID: 211030150807
 created: 30-Oct-2021
@@ -9,6 +12,8 @@ tags:
   - 'created/2021/Oct/30'
   - 'seed🥜'
   - 'permanent/think'
+aliases:
+  - Chủ nghĩa phục quốc Do Thái lừa bịp thế giới
 publish: True
 ---
 # ❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người

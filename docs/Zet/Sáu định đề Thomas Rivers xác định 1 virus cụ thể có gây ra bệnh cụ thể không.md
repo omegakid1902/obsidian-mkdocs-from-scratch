@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/People/Heinrich Hermann Robert Koch
   - Zet/Virus
   - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
 backlinks:

@@ -29,7 +29,7 @@ Lucifer được Thiên Chúa tạo ra trước cả Adam và Eva
 
 Lucifer có phẩm vị [[Seraphim]]
 
-Lucifer được Thiên Chúa rất yêu quý cho tới khi Người tạo ra [[Adam]] và [[Eva]].
+Lucifer được Thiên Chúa rất yêu quý cho tới khi Người tạo ra [[Adam và Eva]] và [[Eva]].
 
 Thiên Chúa ra lệnh cho Lucifer phải phục tùng con người.
 

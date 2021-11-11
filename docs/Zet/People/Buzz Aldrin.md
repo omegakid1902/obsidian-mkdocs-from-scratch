@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/UFO
 title: Buzz Aldrin
 UID: 211110232836
 tags:

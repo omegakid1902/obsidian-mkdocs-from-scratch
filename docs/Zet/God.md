@@ -7,11 +7,15 @@ outgoing_links:
   - Zet/Hồi Giáo
 backlinks:
   - Zet/Gioan Thánh giá gọi Chúa là nada
+  - Zet/Xung đột Israel - Palestine
   - Zet/Tóm tắt sách Sáng Thế
   - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
   - Zet/Do Thái Giáo
+  - Zet/Hồi Giáo
+  - Zet/Người Do Thái
   - Zet/Cựu Ước
   - Zet/People/Thánh Phaolo
+  - Zet/People/Abraham
   - Zet/People/Đức Jesus
   - Zet/People/Thánh Justino
 title: God
@@ -23,7 +27,7 @@ tags:
   - 'permanent/concept'
 aliases:
   - Thiên Chúa
-  - Alah
+  - Allah
   - Chúa
   - Thần
   - Đấng tạo hóa

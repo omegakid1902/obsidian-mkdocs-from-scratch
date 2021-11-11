@@ -5,7 +5,9 @@ outgoing_links:
 backlinks:
   - Zet/Lịch Sử Do Thái
   - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
+  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Do Thái Giáo
+  - Zet/Người Do Thái
   - Zet/Ngôn ngữ Yiddish
   - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
   - Zet/People/Theodor Herzl

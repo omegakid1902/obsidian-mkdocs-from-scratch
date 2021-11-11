@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Richard Feymann
 backlinks:
+  - Zet/Phương pháp con vịt cao su
   - Zet/Self Improvement
 title: Kỹ thuật học tập Feymann
 created: Oct 22, 2020 5:50 AM
@@ -23,5 +24,3 @@ Phương pháp học tập của Feymann là một kỹ thuật được sáng t
 - Đơn giản hóa ngôn ngữ biểu đạt.
 
 ## Ideas & thoughts:
-
-## Questions:

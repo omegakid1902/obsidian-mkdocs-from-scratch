@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Pythagoras
+  - Zet/Định lý Thales
 backlinks:
   - Zet/Interests
 title: Toán học

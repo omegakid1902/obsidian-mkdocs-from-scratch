@@ -33,5 +33,3 @@ Ví dụ theo đồ thị:
 
 ## Ideas & thoughts:
 
-## Questions:
-

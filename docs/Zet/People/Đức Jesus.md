@@ -2,12 +2,14 @@
 outgoing_links:
   - Zet/God
   - Zet/Chúa Giáng Sinh
+  - Zet/Lễ Giáng Sinh
 backlinks:
   - Zet/Kinh mân côi
   - Zet/Công Giáo
   - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Do Thái Giáo
   - Zet/Năm sự vui
+  - Zet/Lễ Giáng Sinh
   - Zet/Cựu Ước
   - Zet/People/Thánh Phaolo
 title: Đức Jesus

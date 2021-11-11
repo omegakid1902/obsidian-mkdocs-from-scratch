@@ -1,10 +1,13 @@
 ---
+outgoing_links:
+  - Zet/Thục Phán đánh bại Văn Lang lập Âu Việt
 backlinks:
   - Zet/Âu Lạc
   - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
   - Zet/Đền thờ An Dương Vương ở ngoại thành Hà Nội
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Lịch Sử Việt Nam
+  - Zet/Thục Phán đánh bại Văn Lang lập Âu Việt
 title: An Dương Vương
 UID: 2107240810
 created: 
@@ -20,6 +23,6 @@ publish: True
 # An Dương Vương
 
 ## Notes
-An Dương Vương tên thật là [[Thục Phán]]. [[Thục Phán đánh bại Văn Lang lập Âu Việt]]
+An Dương Vương tên thật là Thục Phán]]. [[Thục Phán đánh bại Văn Lang lập Âu Việt]]
 
 ## Questions & thoughts:

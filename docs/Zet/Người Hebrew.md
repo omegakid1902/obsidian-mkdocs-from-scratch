@@ -23,7 +23,6 @@ Người Israel là hậu duệ của Jacob, hậu duệ đời thứ 8 của Eb
 
 ## Ideas & thoughts:
 
-
 [^1]:[[@ Lịch sử thăng trầm 4000 năm của người Do Thái (P.1)#Quote 3]]
 [^2]:[[@ Lịch sử thăng trầm 4000 năm của người Do Thái (P.1)#Quote 2]]
 

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/People/Heinrich Hermann Robert Koch
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 backlinks:
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không

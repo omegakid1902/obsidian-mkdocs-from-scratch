@@ -9,7 +9,10 @@
 A-đam ăn ở với vợ là Ê-va. Nàng thụ thai và sinh ra Ca-in . Ê-va nói, "Nhờ CHÚA giúp đỡ tôi tạo ra được một người." 
 
 ###### v2 
-Sau đó, Ê-va sinh ra em của Ca-in là A-bên. A-bên lo chăn nuôi, còn Ca-in thì làm ruộng. ###### 3-4 Ít lâu sau, Ca-in mang hoa lợi do đất sinh sản dâng cho CHÚA. Còn A-bên thì mang những con tốt nhất trong các con đầu lòng của bầy gia súc dâng cho CHÚA. Ngài nhận lễ vật của A-bên, 
+Sau đó, Ê-va sinh ra em của Ca-in là A-bên. A-bên lo chăn nuôi, còn Ca-in thì làm ruộng. 
+
+###### v3-4 
+Ít lâu sau, Ca-in mang hoa lợi do đất sinh sản dâng cho CHÚA. Còn A-bên thì mang những con tốt nhất trong các con đầu lòng của bầy gia súc dâng cho CHÚA. Ngài nhận lễ vật của A-bên, 
 
 ###### v5 
 nhưng Ngài không nhận lễ vật của Ca-in. Vì thế Ca-in lấy làm tức giận, cảm thấy như bị ruồng bỏ. 

@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/People/Đức Giáo Hoàng
   - Zet/Anh giáo
+  - Zet/Anabaptist
 backlinks:
   - Zet/Tin Lành
   - Zet/People/Martin Luther

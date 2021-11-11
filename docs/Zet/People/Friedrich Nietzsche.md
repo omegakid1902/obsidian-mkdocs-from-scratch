@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Chủ Nghĩa Hiện Sinh
   - Zet/People/Albert Camus
 title: Friedrich Nietzsche
 UID: 210815204255
@@ -10,7 +11,6 @@ tags:
 aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
 publish: True
 ---
-
 # Friedrich Nietzsche
 
 ## Notes

@@ -24,5 +24,3 @@ Phần mềm phổ biến nhất hỗ trợ phương pháp IR là [[SuperMemo]].
 ## Ideas & thoughts:
 -  [[SuperMemo]]
 -  [[Spaced Repetition]]
-
-## Questions:

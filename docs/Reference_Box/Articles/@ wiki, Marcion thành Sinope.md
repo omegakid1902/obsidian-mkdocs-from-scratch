@@ -12,7 +12,7 @@ Quan điểm của Maricon tương đồng với thuyết Trí Huệ
 Quan điểm của Maricon bị xem là dị giáo
 Công giáo Roma dứt phép thông công của Maricon năm 144
 Giáo thuyết của Maricon bị loại bỏ chính thức tại [[Công đồng Nicea I]]
-[[Thuyết Trí Huệ]]
+[[Thuyết Ngộ Đạo]]
 ## Questions and thoughts
 
 

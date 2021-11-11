@@ -6,9 +6,7 @@ outgoing_links:
   - Zet/Chúa Trịnh
   - Zet/Đàng Ngoài
   - Zet/Nhà Nguyễn
-  - Zet/Chúa Nguyễn
 backlinks:
-  - Zet/Chúa Nguyễn
   - Zet/Nhà Tây Sơn
   - Zet/Nhà Nguyễn
   - Zet/People/Nguyễn Hoàng
@@ -39,9 +37,3 @@ Chúa Nguyễn là tên gọi người/dòng họ cai trị xứ [[Đàng Trong]
 	- Phúc -> Phước
 	- Cảnh -> Kiểng
 	- ...
-
-## Related:
-```dataview
-list
-from [[Chúa Nguyễn]]
-```

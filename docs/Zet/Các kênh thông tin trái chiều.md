@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/COVID-19
   - Zet/Vaccine
   - Zet/Hội Illuminati
+  - Zet/UFO
   - Zet/Eugenics
 title: Các kênh thông tin trái chiều
 UID: 211005231658

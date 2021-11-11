@@ -1,6 +1,8 @@
 ---
 outgoing_links:
+backlinks:
   - Zet/People/Albert Camus
+  - Zet/Chủ Nghĩa Hiện Sinh
 title: Jean Paul Sartre
 created: Nov 07, 2020 11:14 PM
 tags:

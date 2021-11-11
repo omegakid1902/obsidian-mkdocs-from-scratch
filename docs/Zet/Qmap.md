@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/Khazars
   - Zet/Hiệp sĩ Đền Thánh
   - Zet/Atlantis
+  - Zet/Thuyết Ngộ Đạo
   - Zet/Tháp Mentmore
   - Zet/Black nobility
   - Zet/People/Helena Blavatsky

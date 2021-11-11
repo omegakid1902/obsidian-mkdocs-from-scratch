@@ -1,9 +1,12 @@
 ---
 outgoing_links:
   - Zet/Phương pháp Pomodoro
+  - Zet/Deliberate Practice
   - Zet/Zettelkasten
   - Zet/Incremental Reading
+  - Zet/Phương pháp con vịt cao su
   - Zet/Kỹ thuật học tập Feymann
+  - Zet/Dopamine detox
 backlinks:
   - Zet/Rat race
   - Zet/Interests
@@ -38,4 +41,3 @@ publish: True
 
 ## Ideas & thoughts:
 https://clb100.com/
-## Questions:

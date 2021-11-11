@@ -1,11 +1,15 @@
 ---
 outgoing_links:
+  - Zet/People/Abraham
   - Zet/Torah
   - Zet/Người Do Thái
   - Zet/Người Do Thái Ashkenazi
+  - Zet/Người Do Thái Ethiopia
   - Zet/God
+  - Zet/Xung đột Israel - Palestine
   - Zet/People/Đức Jesus
   - Zet/Cơ Đốc Giáo
+  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 backlinks:
   - Zet/Ngũ Kinh Cựu Ước
   - Zet/Torah
@@ -30,6 +34,7 @@ Sau 2000 năm lưu lạc, [[Người Do Thái]] chia thành nhiều sắc tô
 - [[Người Do Thái Ashkenazi]]
 - [[Người Do Thái Ethiopia]]
 - [[Người Do Thái Sephardi]]
+- [[Người Do Thái Mizrahi]]
 
 Thế kỷ 20, với sự ra đời của [[Chủ Nghĩa Zion|Chủ nghĩa phục quốc Do Thái]], người Do Thái khắp nơi trên thế giới quay về vùng đất họ được [[God|Thiên Chúa]] hứa ban. Thành lập nước [[Israel]]. Sự kiện này nếu xem xét lại, nó hoàn toàn sai trái. Không có một dân tộc nào sau bao nhiêu năm lưu lạc khắp nơi rồi một ngày về đòi đất và đuổi những người đang sống trên mảnh đất đó đi nơi khác, trong trường hợp này là người [[Palestine]]. Sự kiện này dẫn đến cuộc xung đột không hồi kết [[Xung đột Israel - Palestine]].
 
@@ -37,6 +42,7 @@ Thế kỷ 20, với sự ra đời của [[Chủ Nghĩa Zion|Chủ nghĩa p
 - [[Torah tương đương với Cựu Ước của Kito giáo]]
 - [[Hebrew]]
 - [[Người Do Thái]] kết tội và đóng đinh [[Đức Jesus]] trên [[Thập giá]]. Phát sinh ra [[Cơ Đốc Giáo]]
-- 
+- [[❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người]]
+
 
 

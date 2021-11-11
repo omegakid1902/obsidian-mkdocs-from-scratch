@@ -1,8 +1,11 @@
 ---
 outgoing_links:
+  - Zet/People/Socrates
   - Zet/Qmap
+  - Zet/Thuyết Ngộ Đạo
 backlinks:
   - Zet/Qmap
+  - Zet/Bảy nhà hiền triết Hy Lạp theo Plato
   - Zet/Plato có nói về Atlantis
 title: Plato
 UID: 2107102128

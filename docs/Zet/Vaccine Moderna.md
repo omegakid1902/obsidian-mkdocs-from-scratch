@@ -22,7 +22,6 @@ publish: True
 
 ## Notes:
 
-
 ## Ideas & thoughts:
 - [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
 - [[Bill Gates]]

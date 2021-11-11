@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Qmap
 backlinks:
   - Zet/Do Thái Edomite
+  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Qmap
 title: Khazars
 UID: 211029233335
