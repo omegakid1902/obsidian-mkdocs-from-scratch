@@ -5,7 +5,7 @@ title: Cain sát hại Abel
 UID: 211003163911
 created: 03-Oct-2021
 tags:
-  - '#created/2021/Oct/03'
+  - 'created/2021/Oct/03'
   - 'seed🥜'
   - 'permanent/fact'
   - 'religion'
@@ -17,4 +17,5 @@ publish: True
 
 ## Notes:
 Cain sát hại Abel.
+
 > Một hôm Ca-in bảo em là A-bên rằng, "Chúng mình hãy ra đồng đi." Trong khi hai người đang ở ngoài đồng thì Ca-in cãi nhau với A-bên. Ca-in liền xông tới giết A-bên, em mình. [[Gen-04#v8]]

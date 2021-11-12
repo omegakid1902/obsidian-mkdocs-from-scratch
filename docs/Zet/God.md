@@ -8,9 +8,14 @@ outgoing_links:
 backlinks:
   - Zet/Gioan Thánh giá gọi Chúa là nada
   - Zet/Xung đột Israel - Palestine
+  - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/Tóm tắt sách Sáng Thế
+  - Zet/Gabriel có nghĩa là người của Thiên Chúa
+  - Zet/Micael không phải tổng lãnh thiên thần
   - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
   - Zet/Do Thái Giáo
+  - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
+  - Zet/Thiên thần Micael
   - Zet/Hồi Giáo
   - Zet/Người Do Thái
   - Zet/Cựu Ước

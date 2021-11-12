@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Chiến tranh trên Thiên Đàng
+  - Zet/Thiên thần Micael
   - Zet/Cựu Ước
 backlinks:
   - Zet/Chiến tranh trên Thiên Đàng
@@ -38,6 +39,9 @@ Lucifer chống lại yêu cầu đó, Lucifer triệu tập những thiên th�
 ## Ideas & thoughts:
 - [[Chiến tranh trên Thiên Đàng]]
 - Lucifer được nhắc đến trong sách
+
+- [[Job-01#v6]] - [[Job-01#v12]]
+
 [[Isaiah]]
 ![[Isa-14#v12]]
 ![[Isa-14#v13]]
@@ -50,16 +54,24 @@ Lucifer chống lại yêu cầu đó, Lucifer triệu tập những thiên th�
 Satan trong hình tượng con rắn cũng được xem là hiện thân của Lucifer
 
 ![[Gen-03#v1]]
-- [[Tổng lãnh thiên thần Michael]]
+
+- [[Thiên thần Micael]]
 - [[Grigori]] một thiên thần sa ngã thời [[Cựu Ước]] vì có quan hệ với loài người. [1](https://chuyenbian.com/bi-an-cau-chuyen-ve-grigori-thien-than-sa-nga-xuong-tran-gian-day-doa-loai-nguoi/)
 
+- [[Rom-16#v20]]
+	- ![[Rom-16#v20]]
+- [[Rev-03#v9]]
+	- ![[Rev-03#v9]]
 - [[Rev-02#v9]]
+	- ![[Rev-02#v9]]
 
 Satan trong hình dạng 1 con rắn theo sách khải huyền
+
 - [[Rev-12#v9]]
+	- ![[Rev-12#v9]]
 - [[Rev-20#v2]]
+	- ![[Rev-12#v9]]
 
-## Questions:
-
-## Related:
+## Reference:
 - https://vi.wikipedia.org/wiki/Lucifer
+- [20 Bible Verses about Lucifer - Advisory Scripture Quotes (biblestudytools.com)](https://www.biblestudytools.com/topical-verses/bible-verses-about-lucifer/)
