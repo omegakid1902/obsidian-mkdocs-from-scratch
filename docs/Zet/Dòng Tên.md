@@ -3,8 +3,11 @@ outgoing_links:
   - Zet/People/Giáo hoàng Francis
   - Zet/Bồ Đào Nha
 backlinks:
+  - Zet/Descartes theo học trường dòng Tên
+  - Zet/Adam Weishaupt học tại một trường dòng Tên
   - Zet/Công Giáo
   - Zet/Qmap
+  - Zet/People/Johann Adam Weishaupt
   - Zet/People/Giáo hoàng Francis
   - Zet/People/Ignatius of Loyola
 title: Dòng Tên

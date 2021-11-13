@@ -222,15 +222,18 @@ Thật không may ông ta đã nói đúng và 102 năm sau Rothschild đã tài
 - [[Hessian là tên gọi binh lính Đức đánh thuê]]
 - [[Mayer Rothschild làm quen General von Estorff để tiếp cận Hoàng tộc William IX]]
 - [[Mayer A. Rothschild giao phó Adam Weishaupt thành lập Illuminati]]
-- [[Adam Weishaupt]]
+- [[Johann Adam Weishaupt]]
 - [[Adam Weishaupt thành lập Illuminati 1776]]
-- [[Adam Weishaupt]] dưới sự chỉ đạo của Mayer A. Rothschild
+- [[Johann Adam Weishaupt]] dưới sự chỉ đạo của Mayer A. Rothschild
 - [[Adam Weishaupt gia nhập vào hội tam điểm]]
-- [[Adam Weishaupt]] đưa ra chỉ thị về cách mạng Pháp cho Maximilien Robespierre. Phụ tá của ông gửi bản thảo một quyển sách cho Robespierre nhưng bị [[Chính quyền Bavaria]] phát hiện.
+- [[Johann Adam Weishaupt]] đưa ra chỉ thị về cách mạng Pháp cho Maximilien Robespierre. Phụ tá của ông gửi bản thảo một quyển sách cho Robespierre nhưng bị [[Chính quyền Bavaria]] phát hiện.
 	- [[Chính quyền Bavaria]] đặt [[Hội Illuminati|Illuminati]] ngoài vòng pháp luật, đóng cửa các cơ sở [[Hội tam điểm]] ở Bavaria
 - [[Karl Marx là Do thái Ashkenazi]]
 - Mayer Amschel Rothschild nói, “Hãy để tôi phát hành và kiểm soát tiền tệ quốc gia và tôi chẳng cần biết kẻ nào viết ra các điều luật.”
 - [[John Robison]] xuất bản sách vạch trần âm mưu của [[Hội Illuminati|Illuminati]] và [[Hội tam điểm]].
-
+- [[Công ước Viena 1814]] nhằm hình thành một hình thái cai trị của [[Gia tộc Rothschild]]
+	- [[Sa hoàng Nga Alexander I không chấp thuận Công ước Viena 1814]]
+	- [[Nathan Mayer Rothschild]] tài trợ [[Bolsheviks]] lật đổ Sa hoàng
+	- 
 
 [[📑 Bookmark]]

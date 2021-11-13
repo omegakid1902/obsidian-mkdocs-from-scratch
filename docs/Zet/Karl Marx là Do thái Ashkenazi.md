@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/People/Karl Marx
+backlinks:
+  - Zet/People/Karl Marx
 title: Karl Marx là Do thái Ashkenazi
 UID: 211113102918
 created: 13-Nov-2021
