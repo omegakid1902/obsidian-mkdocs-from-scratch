@@ -15,6 +15,7 @@ outgoing_links:
   - Zet/Akashic records
   - Zet/Hồi Giáo
   - Zet/People/Alberto Rivera
+  - Zet/Các cuộn sách biển Chết
   - Zet/People/Nicola Tesla
   - Zet/People/Plato
   - Zet/Plato có nói về Atlantis
@@ -108,7 +109,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Nimrod]]
 - [[Tháp Babel]]
 - [[Thời kỳ Vệ Đà]]
-- [[Cuộn sách biển chết]]
+- [[Các cuộn sách biển Chết]]
 - [[John Pierpont Morgan]]
 - [[Titanic]]
 

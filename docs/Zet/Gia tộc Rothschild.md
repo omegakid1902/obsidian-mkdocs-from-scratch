@@ -30,8 +30,6 @@ publish: True
 ## Notes:
 Người khởi đầu lịch sử Gia tộc Rothschild là [[Mayer Amschel Bauer]]. Sau khi [[Mayer Amschel Bauer đổi họ Bauer sang Rothschild]] theo những ký hiệu màu đỏ mà [[Moses Amschel Bauer|cha của ông]] để lại trên những ngôi nhà của mình. [[Rothschild nghĩa là dấu hiệu đỏ]].
 
-
-
 ## Ideas & thoughts:
 - Kiểm soát hệ thống ngân hàng thế giới
 	- [[FED]] không thuộc Mỹ

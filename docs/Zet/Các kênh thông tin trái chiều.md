@@ -44,6 +44,7 @@ publish: True
 - [nhanchuorg.blogspot.com](http://nhanchuorg.blogspot.com/2014/10/nghi-trinh-21-agenda-21-la-gi.html)
 - [Tin tức thời sự 24h, tin nhanh, tin mới - Chuyện tâm linh, bí ẩn, cuộc sống (tinhhoa.us)](https://tinhhoa.us/)
 - [Vô vàn kiến thức (vovankienthuc.com)](https://vovankienthuc.com/)
+- [Trang chủ :: ChúngTa.com (chungta.com)](https://www.chungta.com/index.html) -> [[Nguyễn Trần Bạt]]
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
@@ -52,3 +53,4 @@ publish: True
 - [thuctinhtamlinh.blogspot.com](https://thuctinhtamlinh.blogspot.com/)
 - [thoidaitamlinh.top](https://www.thoidaitamlinh.top/)
 - [ancient-origins.net](https://www.ancient-origins.net/ancient-places-africa/adam-s-calendar-oldest-megalithic-site-world-003160)
+- [10 điều mà bạn không nên biết về hội kín illuminati - MysTown](https://mystown.com/2016/08/10-ieu-ma-ban-khong-nen-biet-ve-hoi-kin/)
