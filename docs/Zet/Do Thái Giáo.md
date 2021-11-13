@@ -5,6 +5,9 @@ outgoing_links:
   - Zet/Người Do Thái
   - Zet/Người Do Thái Ashkenazi
   - Zet/Người Do Thái Ethiopia
+  - Zet/Người Do Thái Sephardi
+  - Zet/Người Do Thái Mizrahi
+  - Zet/Chủ Nghĩa Zion
   - Zet/God
   - Zet/Xung đột Israel - Palestine
   - Zet/People/Đức Jesus

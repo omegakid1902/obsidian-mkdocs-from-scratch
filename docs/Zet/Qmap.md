@@ -8,6 +8,7 @@ outgoing_links:
   - Zet/Atlantis
   - Zet/Thuyết Ngộ Đạo
   - Zet/Tháp Mentmore
+  - Zet/Chủ Nghĩa Zion
   - Zet/Black nobility
   - Zet/People/Helena Blavatsky
   - Zet/Vril
@@ -25,10 +26,12 @@ outgoing_links:
   - Zet/Eugenics
   - Zet/People/Adolf Hitler
 backlinks:
+  - Zet/Gia tộc Rothschild
   - Zet/Vril
   - Zet/Khazars
   - Zet/Plato có nói về Atlantis
   - Zet/Tháp Mentmore
+  - Zet/Chủ Nghĩa Zion
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Helena Blavatsky
   - Zet/People/Plato

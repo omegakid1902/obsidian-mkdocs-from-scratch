@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Người Do Thái Ashkenazi
+  - Zet/Chủ Nghĩa Zion
 backlinks:
   - Zet/Lịch Sử Do Thái
 title: Theodor Herzl

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Chủ Nghĩa Zion
   - Zet/Người Do Thái
   - Zet/God
   - Zet/Torah

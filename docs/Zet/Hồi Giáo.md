@@ -9,6 +9,7 @@ outgoing_links:
 backlinks:
   - Zet/God
   - Zet/Kinh Koran
+  - Zet/Người Do Thái Sephardi
   - Zet/Qmap
   - Zet/Religion
   - Zet/People/Alberto Rivera
@@ -28,7 +29,7 @@ publish: True
 # Hồi Giáo
 
 ## Notes:
-Hồi giáo là một nhánh của Kito giáo, bắt ngồn từ tổ phụ Abraham.
+Hồi giáo là một nhánh của [[Thiên Chúa giáo]], bắt ngồn từ tổ phụ Abraham.
 
 [[Abraham]] có hai người con, là [[Isaac]] và [[Ishmael]]. [[Công Giáo]] và [[Do Thái Giáo]] có nguồn gốc từ Isaac trong khi đó Hồi giáo bắt nguồn từ Ismael. Họ cùng chung niềm tin vào [[God|Thiên Chúa]] (Chúa trong Hồi giáo là [[God|Allah]]). Sách kinh thánh chính là kinh Qur'an ([[Kinh Koran]]) được người Hồi giáo xem là nguyên văn lời Chúa.
 

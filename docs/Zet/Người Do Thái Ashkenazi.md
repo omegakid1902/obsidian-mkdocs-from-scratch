@@ -8,6 +8,7 @@ backlinks:
   - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Do Thái Giáo
   - Zet/Người Do Thái
+  - Zet/Khazars tự nhận mình là do thái Ashkenazi
   - Zet/Ngôn ngữ Yiddish
   - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
   - Zet/People/Theodor Herzl

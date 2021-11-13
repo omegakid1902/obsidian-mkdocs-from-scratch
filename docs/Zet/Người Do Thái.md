@@ -6,8 +6,11 @@ outgoing_links:
   - Zet/God
   - Zet/Người Do Thái Ashkenazi
   - Zet/Người Do Thái Ethiopia
+  - Zet/Người Do Thái Sephardi
+  - Zet/Người Do Thái Mizrahi
 backlinks:
   - Zet/Eugenics
+  - Zet/Người Do Thái Sephardi
   - Zet/Holocaust
   - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
   - Zet/Xung đột Israel - Palestine
@@ -15,6 +18,8 @@ backlinks:
   - Zet/Do Thái Giáo
   - Zet/Khazars
   - Zet/Người Hebrew
+  - Zet/Ngôi sao David
+  - Zet/Chủ Nghĩa Zion
   - Zet/People/Henry Alfred Kissinger
   - Zet/People/Abraham
   - Zet/People/Adolf Hitler

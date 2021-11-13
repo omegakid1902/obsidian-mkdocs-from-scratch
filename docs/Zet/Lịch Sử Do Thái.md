@@ -1,23 +1,34 @@
 ---
 outgoing_links:
+  - Zet/Phân chia thời kỳ lịch sử Do Thái
   - Zet/Người Do Thái Ashkenazi
+  - Zet/Người Do Thái Sephardi
   - Zet/Người Do Thái Ethiopia
+  - Zet/Người Do Thái Mizrahi
+  - Zet/Chủ Nghĩa Zion
   - Zet/People/Theodor Herzl
   - Zet/Holocaust
   - Zet/People/Adolf Hitler
 backlinks:
   - Zet/Lịch sử
+title: Lịch Sử Do Thái
+UID: 211113091335
+created: 13-Nov-2021
+tags:
+  - 'created/2021/Nov/13'
+  - 'garden🏡'
+  - 'permanent/fact'
 publish: True
 ---
-# Lịch Sử Do Thái MOC
+# Lịch Sử Do Thái
 
-%% - metadata:
-	- tags: #MOC %%
+## Notes:
 
 ### Khái quát các thời kỳ
 - [[Phân chia thời kỳ lịch sử Do Thái]]
 
 - [[Các sắc tộc Do Thái]]
+
 	- [[Người Do Thái Ashkenazi]]
 	- [[Người Do Thái Sephardi]]
 	- [[Người Do Thái Ethiopia]]

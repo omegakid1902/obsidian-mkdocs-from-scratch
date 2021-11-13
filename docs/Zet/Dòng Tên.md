@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Giáo hoàng Francis
+  - Zet/Bồ Đào Nha
 backlinks:
   - Zet/Công Giáo
   - Zet/Qmap
