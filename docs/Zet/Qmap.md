@@ -4,6 +4,8 @@ outgoing_links:
   - Zet/Lucifer
   - Zet/People/Donald J. Trump
   - Zet/Khazars
+  - Zet/Chiến tranh Việt Nam
+  - Zet/Titanic
   - Zet/Hiệp sĩ Đền Thánh
   - Zet/Atlantis
   - Zet/Thuyết Ngộ Đạo
@@ -13,6 +15,7 @@ outgoing_links:
   - Zet/People/Helena Blavatsky
   - Zet/Vril
   - Zet/Akashic records
+  - Zet/Janus
   - Zet/Hồi Giáo
   - Zet/People/Alberto Rivera
   - Zet/Các cuộn sách biển Chết
@@ -28,6 +31,7 @@ outgoing_links:
   - Zet/People/Adolf Hitler
 backlinks:
   - Zet/Gia tộc Rothschild
+  - Zet/Janus
   - Zet/Vril
   - Zet/Khazars
   - Zet/Plato có nói về Atlantis

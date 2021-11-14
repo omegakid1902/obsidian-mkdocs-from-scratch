@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Người Do Thái
   - Zet/Đảng Quốc Xã
+  - Zet/Chiến tranh Việt Nam
 title: Henry Alfred Kissinger
 UID: 211009095616
 tags:

@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Giáo hoàng Francis
   - Zet/Bồ Đào Nha
+  - Zet/Chiến tranh Việt Nam
 backlinks:
   - Zet/Descartes theo học trường dòng Tên
   - Zet/Adam Weishaupt học tại một trường dòng Tên

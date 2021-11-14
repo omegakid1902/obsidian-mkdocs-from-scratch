@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Nhà Thương
   - Zet/Nhà Chu
   - Zet/Nhà Nguyên-Mông
+  - Zet/Nhà Đại Lý
   - Zet/Nhà Thanh
   - Zet/People/Phục Hi
   - Zet/People/Đế Nghiêu
@@ -18,6 +19,7 @@ outgoing_links:
   - Zet/People/Võ Tắc Thiên
   - Zet/People/Lý Thế Dân
 backlinks:
+  - Zet/Nhà Đại Lý
   - Zet/Lịch sử
 title: Lịch sử Trung Quốc
 UID: 

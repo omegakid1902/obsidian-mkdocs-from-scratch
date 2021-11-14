@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Virus
   - Zet/COVID-19
   - Zet/Các loại Vaccine COVID 19
+  - Zet/Vaccine Vector
   - Zet/Vaccine mRNA
   - Zet/Vaccine virus bất hoạt
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
@@ -59,6 +60,7 @@ publish: True
 
 [[Các loại Vaccine COVID 19]]:
 
+- [[Vaccine Vector]]
 - [[Vaccine mRNA|Công nghệ vaccine mRNA]]
 - [[Vaccine virus bất hoạt]]
 

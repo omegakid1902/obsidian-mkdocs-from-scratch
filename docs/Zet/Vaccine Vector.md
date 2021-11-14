@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Đại dịch COVID-19
   - Zet/Các loại Vaccine COVID 19
   - Zet/Vaccine AstraZeneca
 title: Vaccine Vector

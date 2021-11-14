@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Đế Quốc Mông Cổ
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
@@ -26,13 +28,3 @@ Thời kỳ [[Bắc Nguyên]]: bắt đầu từ 1402 khi Quỷ Lực Xích sát
 
 ## Ideas & thoughts:
 
-
-## Questions:
-
-
-## Related:
-```dataview
-list
-from [[Nhà Nguyên]]
-sort file.name asc
-```
