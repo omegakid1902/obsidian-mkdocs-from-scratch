@@ -45,6 +45,7 @@ publish: True
 - [Tin tức thời sự 24h, tin nhanh, tin mới - Chuyện tâm linh, bí ẩn, cuộc sống (tinhhoa.us)](https://tinhhoa.us/)
 - [Vô vàn kiến thức (vovankienthuc.com)](https://vovankienthuc.com/)
 - [Trang chủ :: ChúngTa.com (chungta.com)](https://www.chungta.com/index.html) -> [[Nguyễn Trần Bạt]]
+- [Diễn Đàn Trái Chiều (diendantraichieu.blogspot.com)](https://diendantraichieu.blogspot.com/)
 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)

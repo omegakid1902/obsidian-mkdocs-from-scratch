@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Việt Nam Cộng Hòa
   - Zet/Bảo Đại
 backlinks:
+  - Zet/John F. Kennedy và Chiến tranh Việt Nam
   - Zet/Lịch Sử Việt Nam
   - Zet/Việt Nam Cộng Hòa
   - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
