@@ -275,7 +275,7 @@ for node in nodes:
         except:
             print("Error")
 
-with open('docs/d3graph/graph_nodes.json', 'w', encoding="utf-8") as outfile:
+with open('docs/graph_view/graph_nodes.json', 'w', encoding="utf-8") as outfile:
     json.dump(graph_nodes, outfile, indent=4, ensure_ascii=False)
 
 for root, dirs, files in os.walk(base_docs_url):
