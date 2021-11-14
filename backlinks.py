@@ -4,7 +4,7 @@ import frontmatter
 from shutil import *
 import json
 
-base_docs_url = "./docs"
+base_docs_url = "./docs/Zet"
 
 
 # For Regex, match groups are:
