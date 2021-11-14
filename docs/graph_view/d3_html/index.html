@@ -1,0 +1,44 @@
+<head>
+  <style> body { margin: 0; } </style>
+
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/three/examples/js/renderers/CSS2DRenderer.js"></script>
+
+  <script src="//unpkg.com/3d-force-graph"></script>
+<!--  <script src="../../dist/3d-force-graph.js"></script>-->
+<!--  background-color: rgba(255,255,255,0.2); -->
+
+  <style>
+    .node-label {
+      font-size: 12px;
+      padding: 1px 4px;
+      border-radius: 4px;
+      user-select: none;
+      color:rgba(255,255,0,0.3);
+    }
+  </style>
+</head>
+
+<body>
+  <div id="3d-graph"></div>
+
+  <script>
+    const Graph = ForceGraph3D({
+      extraRenderers: [new THREE.CSS2DRenderer()]
+    })
+    (document.getElementById('3d-graph'))
+      .jsonUrl('../graph_nodes.json')
+      .nodeAutoColorBy('group')
+      .nodeLabel(node => `${node.title}`)
+      .onNodeClick(node => window.open(`${node.url}`, '_blank'))
+      .nodeThreeObject(node => {
+        const nodeEl = document.createElement('div');
+        nodeEl.textContent = node.title;
+        nodeEl.style.color = node.color;
+        nodeEl.className = 'node-label';
+        return new THREE.CSS2DObject(nodeEl);
+      })
+      .nodeThreeObjectExtend(true)
+    ;
+  </script>
+</body>
