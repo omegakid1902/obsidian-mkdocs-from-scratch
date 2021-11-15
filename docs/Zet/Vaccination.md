@@ -9,6 +9,7 @@ outgoing_links:
   - Zet/Vaccine Pfizer
   - Zet/Vaccine Moderna
   - Zet/Vaccine AstraZeneca
+  - Zet/Big Medicine
 backlinks:
   - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/Vaccine

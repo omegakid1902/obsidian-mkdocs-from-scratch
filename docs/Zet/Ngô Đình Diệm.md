@@ -4,7 +4,9 @@ outgoing_links:
   - Zet/Bảo Đại
 backlinks:
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
+  - Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
   - Zet/Lịch Sử Việt Nam
+  - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
   - Zet/Việt Nam Cộng Hòa
   - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
 title: Ngô Đình Diệm

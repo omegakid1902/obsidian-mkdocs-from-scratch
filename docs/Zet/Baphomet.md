@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Các biểu tượng của Illuminati
 title: Baphomet
 UID: 211113223452
 created: 13-Nov-2021

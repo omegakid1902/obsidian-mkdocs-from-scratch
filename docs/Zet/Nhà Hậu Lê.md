@@ -2,9 +2,11 @@
 outgoing_links:
   - Zet/Thời Lê sơ
   - Zet/Thời Lê trung hưng
+  - Zet/People/Nguyễn Kim
   - Zet/People/Trịnh Kiểm
 backlinks:
   - Zet/Thời Lê trung hưng
+  - Zet/Vụ án Lệ Chi Viên
   - Zet/Lịch Sử Việt Nam
   - Zet/People/Ngô Sĩ Liên
   - Zet/People/Trịnh Kiểm

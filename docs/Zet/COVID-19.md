@@ -7,8 +7,8 @@ outgoing_links:
 backlinks:
   - Zet/Các kênh thông tin trái chiều
   - Zet/Đại dịch COVID-19
+  - Zet/Big Medicine
   - Zet/SARS-COV-2
-  - Zet/Mafia y tế
   - Zet/The Terrain Theory
   - Zet/Ivermectin
   - Zet/CDC

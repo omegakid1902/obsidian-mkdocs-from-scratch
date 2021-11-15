@@ -6,9 +6,9 @@ backlinks:
   - Zet/Các kênh thông tin trái chiều
   - Zet/Eugenics
   - Zet/Đại dịch COVID-19
+  - Zet/Big Medicine
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Vaccine virus bất hoạt
-  - Zet/Mafia y tế
   - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/CDC
   - Zet/Vaccination

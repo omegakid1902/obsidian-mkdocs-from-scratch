@@ -5,6 +5,7 @@ outgoing_links:
 backlinks:
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
+  - Zet/An Dương Vương thống nhất hai bộ tộc Âu Lạc và Lạc Việt lập nên Âu Lạc
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Lịch Sử Việt Nam
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN

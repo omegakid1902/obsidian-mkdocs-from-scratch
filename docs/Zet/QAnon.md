@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Donald J. Trump
 backlinks:
+  - Zet/Big Medicine
   - Zet/Qmap
   - Zet/People/Bill Gates
   - Zet/People/Donald J. Trump

@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Văn Lang
   - Zet/An Dương Vương
   - Zet/Âu Lạc
+  - Zet/Nhà Đinh
 backlinks:
   - Zet/Lịch Sử Việt Nam
 title: Quốc hiệu VN qua các thời kỳ

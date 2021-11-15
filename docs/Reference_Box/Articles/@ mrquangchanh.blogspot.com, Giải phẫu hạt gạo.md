@@ -34,14 +34,3 @@
 [[❕ Điểm yếu của Whole grain là về mặt bảo quản và chế biến]]
 [[❕ Whole grain vượt trội với gạo tinh chế về mặt dinh dưỡng và lợi ích sức khỏe]]
 
-
-
-## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ mrquangchanh.blogspot.com, Giải phẫu hạt gạo]]
-sort file.name asc
-```

@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/Các lý thuyết về nguyên nhân gây bệnh ung thư
+backlinks:
+  - Zet/Big Medicine
 title: Bệnh ung thư
 UID: 211010170612
 created: 10-Oct-2021

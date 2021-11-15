@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/People/Trần Trọng Kim
   - Zet/Hội tam điểm có những biểu tượng, nghi lễ huyền bí và tư tưởng bắt nguồn từ Hiệp sĩ Dòng Đền
 backlinks:
+  - Zet/Benjamin Franklin là thành viên Hội tam điểm
   - Zet/Hội tam điểm có những biểu tượng, nghi lễ huyền bí và tư tưởng bắt nguồn từ Hiệp sĩ Dòng Đền
   - Zet/Adam Weishaupt thành lập Illuminati 1776
 title: Hội tam điểm

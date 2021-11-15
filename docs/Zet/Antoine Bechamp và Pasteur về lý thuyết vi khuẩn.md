@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Antoine Beauchamp
   - Zet/Vaccine
   - Zet/People/Louis Pasteur
+  - Zet/Big Medicine
   - Zet/The Germ theory
 backlinks:
   - Zet/Đại dịch COVID-19

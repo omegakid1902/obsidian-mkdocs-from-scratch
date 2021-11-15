@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Big Medicine
 backlinks:
   - Zet/Bệnh ung thư
   - Zet/People/Louis Pasteur

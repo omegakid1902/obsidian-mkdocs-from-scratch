@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Johann Adam Weishaupt
+  - Zet/Các biểu tượng của Illuminati
 backlinks:
   - Zet/Các kênh thông tin trái chiều
   - Zet/Karl Marx hidden hand

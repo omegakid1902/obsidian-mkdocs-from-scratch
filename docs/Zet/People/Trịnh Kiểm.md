@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Chúa Trịnh
+  - Zet/People/Nguyễn Kim
   - Zet/Nhà Hậu Lê
 backlinks:
   - Zet/Chúa Trịnh

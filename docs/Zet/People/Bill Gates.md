@@ -8,9 +8,9 @@ outgoing_links:
 backlinks:
   - Zet/Eugenics
   - Zet/Đại dịch COVID-19
+  - Zet/Big Medicine
   - Zet/Các loại Vaccine COVID 19
   - Zet/Vaccine Moderna
-  - Zet/Mafia y tế
   - Zet/WHO
 title: Bill Gates
 UID: 210918172501

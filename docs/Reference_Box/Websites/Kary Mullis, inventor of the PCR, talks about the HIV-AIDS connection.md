@@ -12,8 +12,6 @@ tags:
 
 [1h video part 2 Youtube](https://www.youtube.com/watch?app=desktop&v=9vuxibKj4z8)
 
-
-
 ### Quan hệ nhân quả giữa virus và bệnh
 Time stamp: [0:16](https://youtu.be/9vuxibKj4z8?t=16)
 

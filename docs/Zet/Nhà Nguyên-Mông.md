@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
 title: Nhà Nguyên - Mông
 UID: 210817212126
 tags:

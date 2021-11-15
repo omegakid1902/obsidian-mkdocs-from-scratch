@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Các Đại Hãn Mông Cổ
 backlinks:
   - Zet/Nhà Nguyên-Mông
 title: Đế Quốc Mông Cổ

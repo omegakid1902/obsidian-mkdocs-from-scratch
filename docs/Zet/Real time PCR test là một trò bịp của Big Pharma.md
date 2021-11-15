@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Real time PCR test
+  - Zet/Big Medicine
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
 backlinks:
   - Zet/Real time PCR test
@@ -23,6 +24,8 @@ publish: True
 [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html) xem phút 7
 
 [[Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng]]
+
+[[💬211106-1138|PCR detect sequence of virus, not detect themselves]]
 
 ## Ideas & thoughts:
 

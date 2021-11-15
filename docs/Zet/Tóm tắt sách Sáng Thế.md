@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/God
+  - Zet/People/Abel
   - Zet/Cain sinh lòng đố kị và ghen ghét Abel
   - Zet/Cain sát hại Abel
   - Zet/People/Abraham

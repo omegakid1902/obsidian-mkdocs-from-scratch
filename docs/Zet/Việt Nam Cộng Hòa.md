@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Lịch Sử Việt Nam
   - Zet/Ngô Đình Diệm
+  - Zet/Lấy chiến tranh nuôi chiến tranh
 title: Việt Nam Cộng Hòa
 tags:
   - 'created/2021/Jun/22'

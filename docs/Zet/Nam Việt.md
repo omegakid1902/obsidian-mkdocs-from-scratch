@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
+  - Zet/Triệu Đà truyền ngôi cho con của Trọng Thủy
   - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
   - Zet/Nhà Tần
 title: Nam Việt

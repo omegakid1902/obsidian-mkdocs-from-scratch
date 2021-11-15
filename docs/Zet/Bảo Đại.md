@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Nhà Nguyễn
 backlinks:
+  - Zet/Bảo Đại bỏ các phép tắc lễ nghi cũ trong triều
   - Zet/Đế quốc Việt Nam
   - Zet/Nhà Nguyễn
   - Zet/Lịch Sử Việt Nam

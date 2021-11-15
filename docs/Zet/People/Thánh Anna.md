@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Ngụy thư Giacobe
   - Zet/Hồi Giáo
   - Zet/Kinh Koran
 title: Thánh Anna
@@ -22,6 +23,5 @@ Các sách **Kinh thánh Tân Ước kinh điển** không nhắc đến tên b�
 Thánh Anna cũng được tôn kính trong [[Hồi Giáo]], trong [[Kinh Koran]] bà được nhắc đến là con của **Faqud**. 
 
 Em gái của Anna là Sobe, là mẹ của Elizabeth. **Elizabeth** là người chị họ của Maria được nhắc đến trong Kinh thánh tân ước, và là mẹ của thánh **Gioan Baotixita**.
-
 
 ## Ideas & thoughts:

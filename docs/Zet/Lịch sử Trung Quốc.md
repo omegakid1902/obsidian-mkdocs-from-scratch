@@ -18,6 +18,7 @@ outgoing_links:
   - Zet/People/Lưu Bị
   - Zet/People/Võ Tắc Thiên
   - Zet/People/Lý Thế Dân
+  - Zet/People/Lý Tự Thành
 backlinks:
   - Zet/Nhà Đại Lý
   - Zet/Lịch sử
@@ -89,10 +90,3 @@ publish: True
 - [[Lý Tự Thành]]
 - [[Từ Hi Thái Hậu]]
 - [[Hồng Tú Toàn]]
-
-## Related:
-```dataview
-list
-from [[Lịch sử Trung Quốc]]
-sort file.name asc
-```

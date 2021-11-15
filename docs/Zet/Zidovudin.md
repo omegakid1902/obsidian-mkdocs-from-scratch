@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/People/Anthony Fauci
+backlinks:
+  - Zet/Đại dịch COVID-19
 title: Zidovudin
 UID: 211105234951
 created: 05-Nov-2021

@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Lịch Sử Việt Nam
   - Zet/Văn Lang
   - Zet/Âu Lạc
+  - Zet/People/Nguyễn Trãi
   - Zet/People/Ngô Sĩ Liên
   - Zet/People/Trần Trọng Kim
 backlinks:

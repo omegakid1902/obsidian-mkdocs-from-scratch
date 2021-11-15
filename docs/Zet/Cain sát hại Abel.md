@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/Tóm tắt sách Sáng Thế
+  - Zet/People/Abel
 title: Cain sát hại Abel
 UID: 211003163911
 created: 03-Oct-2021

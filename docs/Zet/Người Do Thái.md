@@ -24,6 +24,7 @@ backlinks:
   - Zet/People/Abraham
   - Zet/People/Karl Marx
   - Zet/People/Adolf Hitler
+  - Zet/People/Baruch Spinoza
 title: Người Do Thái
 created: Jun 19, 2021 9:05 PM
 tags:

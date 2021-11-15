@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
 backlinks:
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
+  - Zet/Các đời tổng thống Hoa Kỳ
   - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
   - Zet/Chiến tranh Việt Nam
 title: John F. Kennedy

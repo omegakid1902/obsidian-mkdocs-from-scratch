@@ -2,7 +2,7 @@
 outgoing_links:
   - Zet/Mặc dù Benjamin Franklin không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD
 backlinks:
-  - Zet/Bếp lò Franklin
+  - Zet/Benjamin Franklin là thành viên Hội tam điểm
   - Zet/Hội tam điểm
   - Zet/Mặc dù Benjamin Franklin không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD
 title: Benjamin Franklin
