@@ -22,6 +22,11 @@ QAnon là một cộng đồng những người theo dõi/ủng hộ [[Nhân v�
 
 Tuy nhiên, xét về phương diện khách quan, các phân tích của Q dựa trên những sự kiện có thực và thường được phương tiện truyền thông chính thống bóp méo hoặc che giấu.
 
+Từ Anon là một từ tiếng Anh mang nghĩa là 
 ## Ideas & thoughts:
 - [[Donald J. Trump|Tổng thống Trump]]
 - [[4Chan]]
+- Theo [[Fbker Huy Phạm]], [[Nhân vật Q]] là tên gọi một nhóm người, một tổ chức, không phải 1 một cá nhân đơn lẻ.
+- 
+## Ref:
+- [[VÁN BÀI LỊCH SỬ - Lá bài số 4 - Bí ẩn Qanon]]

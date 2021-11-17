@@ -5,6 +5,7 @@ outgoing_links:
 backlinks:
   - Zet/Giao Châu thất hùng
   - Zet/Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít người tưởng nhớ
+  - Zet/Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé
   - Zet/Lịch Sử Việt Nam
 title: Nguyễn Bặc
 UID: 2107142104

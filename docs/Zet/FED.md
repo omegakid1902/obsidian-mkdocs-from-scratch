@@ -31,5 +31,5 @@ FED, Federal Reserve System, là ngân hàng trung ương [[Hoa Kỳ]] thành l�
 - Bị xem là ngân hàng bất hợp pháp! #todo/research 
 - Đạo luật [[NESARA]] do [[Donald J. Trump]] ký xóa bỏ các khoản nợ thế chấp của ngân hàng bất hợp pháp này
 
-## Questions:
-
+## Ref:
+- [[VÁN BÀI LỊCH SỬ - Lá bài số 1 - Tài chính]]

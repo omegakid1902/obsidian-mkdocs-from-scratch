@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Đinh Bộ Lĩnh
 backlinks:
+  - Zet/Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Lịch Sử Việt Nam
   - Zet/People/Đinh Bộ Lĩnh
