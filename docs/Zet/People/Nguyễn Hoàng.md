@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Nhà Nguyễn
   - Zet/People/Nguyễn Kim
 backlinks:
-  - Zet/Chúa Nguyễn
   - Zet/Lịch Sử Việt Nam
+  - Zet/Chúa Nguyễn
 title: Nguyễn Hoàng
 UID: 
 tags:

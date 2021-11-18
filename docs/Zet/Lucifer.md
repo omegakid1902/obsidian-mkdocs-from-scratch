@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Thiên thần Micael
   - Zet/Cựu Ước
 backlinks:
-  - Zet/Chiến tranh trên Thiên Đàng
   - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Chiến tranh trên Thiên Đàng
   - Zet/Qmap
 title: Lucifer
 UID: 210920221128

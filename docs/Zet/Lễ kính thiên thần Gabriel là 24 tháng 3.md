@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/Lễ kính thiên thần Micael là 29 tháng 9
   - Zet/Lễ kính thiên thần Raphael là 24 tháng 10
 backlinks:
-  - Zet/Lễ kính thiên thần Micael là 29 tháng 9
-  - Zet/Thiên thần Gabriel
   - Zet/Lễ kính thiên thần Raphael là 24 tháng 10
+  - Zet/Thiên thần Gabriel
+  - Zet/Lễ kính thiên thần Micael là 29 tháng 9
 title: Lễ kính thiên thần Gabriel là 24 tháng 3
 UID: 211112232710
 created: 12-Nov-2021

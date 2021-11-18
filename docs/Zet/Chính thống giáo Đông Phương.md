@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/Đại ly giáo Đông Tây
 backlinks:
   - Zet/God
-  - Zet/Công Giáo
   - Zet/Cơ Đốc Giáo
+  - Zet/Công Giáo
   - Zet/Religion
   - Zet/Đại ly giáo Đông Tây
 title: Chính thống giáo Đông Phương

@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/Bồ Đào Nha
   - Zet/Hồi Giáo
 backlinks:
-  - Zet/Lịch Sử Do Thái
-  - Zet/Do Thái Giáo
   - Zet/Người Do Thái
   - Zet/Người Do Thái Mizrahi
+  - Zet/Do Thái Giáo
+  - Zet/Lịch Sử Do Thái
 title: Người Do Thái Sephardi
 created: Jun 19, 2021 7:26 AM
 tags:

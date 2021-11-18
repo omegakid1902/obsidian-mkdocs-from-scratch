@@ -10,11 +10,11 @@ backlinks:
   - Zet/Nhà Đại Lý
   - Zet/Lịch Sử Việt Nam
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
-  - Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
   - Zet/People/Trần Thủ Độ
-  - Zet/People/Trần Liễu
   - Zet/People/Trần Cảnh
+  - Zet/People/Trần Liễu
   - Zet/People/Trần Hưng Đạo
+  - Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
 title: Nhà Trần
 tags:
   - '#created/2021/Jul/09'

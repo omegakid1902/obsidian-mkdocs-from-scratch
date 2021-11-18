@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Anton Lavey
+  - Zet/Satanism
 backlinks:
   - Zet/Anton Lavey thành lập nhà thờ Satan 1966
   - Zet/People/Anton Lavey

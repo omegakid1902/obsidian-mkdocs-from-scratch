@@ -6,11 +6,11 @@ outgoing_links:
   - Zet/Tin Lành
 backlinks:
   - Zet/God
-  - Zet/Hiệp sĩ Đền Thánh
-  - Zet/Rửa tội
   - Zet/Hạ thế giới
   - Zet/Do Thái Giáo
   - Zet/Lễ Giáng Sinh
+  - Zet/Rửa tội
+  - Zet/Hiệp sĩ Đền Thánh
   - Zet/People/Thánh Phaolo
   - Zet/People/Alberto Rivera
 title: Cơ Đốc giáo

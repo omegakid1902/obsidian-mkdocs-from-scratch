@@ -11,14 +11,14 @@ outgoing_links:
   - Zet/Dòng Tên
 backlinks:
   - Zet/God
-  - Zet/Chúa Giáng Sinh
-  - Zet/Rửa tội
+  - Zet/Cải Cách Kháng Nghị
   - Zet/Cơ Đốc Giáo
+  - Zet/Hồi Giáo
+  - Zet/Chúa Giáng Sinh
+  - Zet/Religion
   - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Chính thống giáo Đông Phương
-  - Zet/Religion
-  - Zet/Hồi Giáo
-  - Zet/Cải Cách Kháng Nghị
+  - Zet/Rửa tội
   - Zet/Đại ly giáo Đông Tây
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Alberto Rivera

@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Chúa Nguyễn
   - Zet/Chúa Trịnh
 backlinks:
+  - Zet/Lịch Sử Việt Nam
   - Zet/Chúa Nguyễn
   - Zet/Nhà Nguyễn
-  - Zet/Lịch Sử Việt Nam
   - Zet/People/Nguyễn Huệ
 title: Nhà Tây Sơn
 UID: 

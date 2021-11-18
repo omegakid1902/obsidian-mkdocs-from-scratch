@@ -2,11 +2,13 @@
 outgoing_links:
   - Zet/People/Johann Adam Weishaupt
   - Zet/Các biểu tượng của Illuminati
+  - Zet/Satanism
 backlinks:
-  - Zet/Các kênh thông tin trái chiều
-  - Zet/Karl Marx hidden hand
-  - Zet/Owl of Minerva
   - Zet/Adam Weishaupt thành lập Illuminati 1776
+  - Zet/Satanism
+  - Zet/Owl of Minerva
+  - Zet/Karl Marx hidden hand
+  - Zet/Các kênh thông tin trái chiều
   - Zet/People/Johann Adam Weishaupt
 title: Hội Illuminati
 UID: 211010224808

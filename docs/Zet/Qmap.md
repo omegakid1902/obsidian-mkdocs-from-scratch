@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/QAnon
   - Zet/Lucifer
+  - Zet/Satanism
   - Zet/People/Donald J. Trump
   - Zet/Khazars
   - Zet/Chiến tranh Việt Nam
@@ -24,22 +25,23 @@ outgoing_links:
   - Zet/Plato có nói về Atlantis
   - Zet/Anunnaki
   - Zet/Crop Circle
+  - Zet/Cách mạng tháng 10 Nga
   - Zet/People/Ignatius of Loyola
   - Zet/Dòng Tên
   - Zet/People/Đức Giáo Hoàng
   - Zet/Eugenics
   - Zet/People/Adolf Hitler
 backlinks:
-  - Zet/Gia tộc Rothschild
-  - Zet/Janus
-  - Zet/Vril
+  - Zet/Chủ Nghĩa Zion
   - Zet/Khazars
   - Zet/Plato có nói về Atlantis
+  - Zet/Gia tộc Rothschild
+  - Zet/Janus
   - Zet/Tháp Mentmore
-  - Zet/Chủ Nghĩa Zion
+  - Zet/Vril
   - Zet/People/Đức Giáo Hoàng
-  - Zet/People/Helena Blavatsky
   - Zet/People/Plato
+  - Zet/People/Helena Blavatsky
 title: QAnon map
 UID: 210920220953
 created: 20-Sep-2021
@@ -170,7 +172,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Lenin]]
 - [[Stalin]]
 - [[Marxism]]
-- [[Cách mạng tháng 10]]
+- [[Cách mạng tháng 10 Nga]]
 
 ### [[Ignatius of Loyola]]
 - [[Dòng Tên]]

@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/People/Lý Chiêu Hoàng
 backlinks:
   - Zet/People/Thuận Thiên công chúa
-  - Zet/People/Linh Từ Quốc mẫu
   - Zet/People/Lý Chiêu Hoàng
+  - Zet/People/Linh Từ Quốc mẫu
 title: Lý Huệ Tông
 UID: 210902154142
 tags:

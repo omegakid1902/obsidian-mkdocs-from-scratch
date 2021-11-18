@@ -5,17 +5,17 @@ outgoing_links:
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Đại dịch COVID-19
 backlinks:
-  - Zet/Các kênh thông tin trái chiều
-  - Zet/Đại dịch COVID-19
-  - Zet/Big Medicine
-  - Zet/SARS-COV-2
   - Zet/The Terrain Theory
-  - Zet/Ivermectin
-  - Zet/CDC
   - Zet/Vaccination
+  - Zet/CDC
+  - Zet/Ivermectin
   - Zet/FDA
+  - Zet/Big Medicine
   - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
+  - Zet/SARS-COV-2
+  - Zet/Các kênh thông tin trái chiều
   - Zet/WHO
+  - Zet/Đại dịch COVID-19
 title: COVID 19
 UID: 2107101155
 tags:

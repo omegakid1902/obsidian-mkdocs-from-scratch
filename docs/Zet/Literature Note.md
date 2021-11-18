@@ -7,9 +7,9 @@ outgoing_links:
   - Zet/Zettelkasten
   - Zet/People/Niklas Luhmann
 backlinks:
-  - Zet/Fleeting Note
   - Zet/Permanent Note
   - Zet/Zettelkasten
+  - Zet/Fleeting Note
 title: Literature Note
 created: Oct 21, 2020 10:09 PM
 tags:

@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/People/Heinrich Hermann Robert Koch
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 backlinks:
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/The Germ theory
+  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 title: Bốn định đề Robert Koch xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
 UID: 211016104248
 created: 16-Oct-2021

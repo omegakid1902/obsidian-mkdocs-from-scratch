@@ -7,9 +7,9 @@ outgoing_links:
   - Zet/People/Anthony Fauci
 backlinks:
   - Zet/Real time PCR test
-  - Zet/Đại dịch COVID-19
-  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/The Terrain Theory
+  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
+  - Zet/Đại dịch COVID-19
   - Zet/Khoa học và các cú mị dân
   - Zet/People/Kary B. Mullis
 title: Kary B. Mullis

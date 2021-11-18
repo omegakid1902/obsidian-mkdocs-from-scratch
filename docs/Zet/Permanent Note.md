@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/Literature Note
   - Zet/Fleeting Note
 backlinks:
-  - Zet/Fleeting Note
   - Zet/Zettelkasten
+  - Zet/Fleeting Note
   - Zet/Literature Note
 title: Permanent Note
 created: Oct 21, 2020 10:09 PM

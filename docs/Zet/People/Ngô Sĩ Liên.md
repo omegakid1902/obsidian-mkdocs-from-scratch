@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nhà Hậu Lê
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
+  - Zet/Lịch Sử Việt Nam
 title: Ngô Sĩ Liên
 UID: 2107152343
 tags:

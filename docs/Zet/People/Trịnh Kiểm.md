@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/People/Nguyễn Kim
   - Zet/Nhà Hậu Lê
 backlinks:
-  - Zet/Chúa Trịnh
   - Zet/Lịch Sử Việt Nam
+  - Zet/Chúa Trịnh
   - Zet/Nhà Hậu Lê
 title: Trịnh Kiểm
 UID: 2107122127

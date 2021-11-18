@@ -11,9 +11,9 @@ outgoing_links:
   - Zet/Vaccine
   - Zet/SARS-COV-2
 backlinks:
+  - Zet/Qmap
   - Zet/Các kênh thông tin trái chiều
   - Zet/Đại dịch COVID-19
-  - Zet/Qmap
   - Zet/People/Bill Gates
 title: Eugenics
 UID: 210919163636

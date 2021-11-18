@@ -7,13 +7,13 @@ outgoing_links:
   - Zet/God
   - Zet/Kinh Koran
 backlinks:
+  - Zet/Người Do Thái Sephardi
   - Zet/God
   - Zet/Kinh Koran
-  - Zet/Người Do Thái Sephardi
-  - Zet/Qmap
   - Zet/Religion
-  - Zet/People/Alberto Rivera
+  - Zet/Qmap
   - Zet/People/Thánh Anna
+  - Zet/People/Alberto Rivera
 title: Hồi Giáo
 UID: 201225213853
 created: 25-Dec-2021

@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/FDA
   - Zet/Ivermectin
 backlinks:
-  - Zet/Đại dịch COVID-19
   - Zet/American Thought Leaders phỏng vấn Robert Wallace Malone về đại dịch covid 19
+  - Zet/Đại dịch COVID-19
   - Zet/Khoa học và các cú mị dân
 title: FDA cấm Ivermectin thú y để chữa trị cho người
 UID: 211103225606

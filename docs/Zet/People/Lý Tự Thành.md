@@ -1,8 +1,8 @@
 ---
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Tuyết sơn phi hồ
   - Zet/Lý Tự Thành được hư cấu hóa trong các tiểu thuyết Kim Dung
+  - Zet/Lịch sử Trung Quốc
 title: Lý Tự Thành
 tags:
   - 'created/2021/Aug/12'

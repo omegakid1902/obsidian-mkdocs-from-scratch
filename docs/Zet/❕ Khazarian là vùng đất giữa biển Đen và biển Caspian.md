@@ -1,8 +1,8 @@
 ---
 outgoing_links:
-  - Zet/Khazarian
+  - Zet/Khazaria
 backlinks:
-  - Zet/Khazarian
+  - Zet/Khazaria
 title: Khazarian là vùng đất giữa biển Đen và biển Caspian
 UID: 211113092505
 created: 13-Nov-2021
@@ -15,7 +15,7 @@ publish: True
 # Khazarian là vùng đất giữa biển Đen và biển Caspian
 
 ## Notes:
-[[Khazarian]] là vùng đất giữa [[Biển Đen]] và [[Biển Caspian]]. Hiện nay, vung đất đó chính là một phần của Georgia, Azecbaijan thuộc nước Nga.
+[[Khazaria]] là vùng đất giữa [[Biển Đen]] và [[Biển Caspian]]. Hiện nay, vung đất đó chính là một phần của Georgia, Azecbaijan thuộc nước Nga.
 
 ## Ideas & thoughts:
 - [[Tất cả tổng thống Israel đều là do thái Ashkenazi❓]]

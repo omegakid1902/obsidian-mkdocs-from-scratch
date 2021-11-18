@@ -38,13 +38,13 @@ outgoing_links:
   - Zet/Kênh youtube giáo dục tự do 1
   - Zet/Big Medicine
 backlinks:
-  - Zet/Các kênh thông tin trái chiều
   - Zet/Virus
-  - Zet/Health
-  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/Chemtrails
+  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/Coronavirus
+  - Zet/Health
   - Zet/COVID-19
+  - Zet/Các kênh thông tin trái chiều
   - Zet/People/Robert Wallace Malone
 title: Đại dịch COVID-19
 tags:
@@ -130,7 +130,7 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 - [[FDA]] không cấp phép cho Ivermectin là thuốc đặc trị virus [^2][^3]
 	- ![[Pasted image 20211102225709.png]]
 - Indonesia và Ấn Độ đã sử dụng và ngăn chặn dịch.
-- Thế [[Ivermectin]] thực sự chữa trị được [[COVID-19]] không!? mà sao Indonesia và Ấn Độ áp dụng thành công!?
+- Thế [[Ivermectin]] thực sự chữa trị được [[COVID-19]] không!? mà sao Indonesia, Phillipin và một số bang của Ấn Độ áp dụng thành công!?
 - Có nghiên cứu gì về hại về mặt lâu dài không, hay mục đích FDA không chấp thuận sử dụng chỉ vì lợi nhuận của nó không nhiều bằng việc triển khai [[Vaccine]]!?
 
 - Đồng thuận: 

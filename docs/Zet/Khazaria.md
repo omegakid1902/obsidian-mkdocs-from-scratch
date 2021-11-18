@@ -5,8 +5,9 @@ outgoing_links:
 backlinks:
   - Zet/❕ Khazarian là vùng đất giữa biển Đen và biển Caspian
   - Zet/Khazars
+  - Zet/Khazarian Mafia
   - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
-title: Khazarian
+title: Khazaria
 UID: 211030141845
 created: 30-Oct-2021
 tags:
@@ -15,7 +16,7 @@ tags:
   - 'permanent/nation'
 publish: True
 ---
-# Khazarian
+# Khazaria
 
 ## Notes:
 ![[Pasted image 20211030141847.png]]

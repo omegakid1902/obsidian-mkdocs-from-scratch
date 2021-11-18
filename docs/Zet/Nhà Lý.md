@@ -1,11 +1,11 @@
 ---
 backlinks:
-  - Zet/Nhà Trần
   - Zet/Lịch Sử Việt Nam
-  - Zet/People/Lý Huệ Tông
-  - Zet/People/Linh Từ Quốc mẫu
-  - Zet/People/Trần Thủ Độ
+  - Zet/Nhà Trần
   - Zet/People/Lý Chiêu Hoàng
+  - Zet/People/Lý Huệ Tông
+  - Zet/People/Trần Thủ Độ
+  - Zet/People/Linh Từ Quốc mẫu
 publish: True
 ---
 # Nhà Lý MOC

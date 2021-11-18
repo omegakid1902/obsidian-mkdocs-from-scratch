@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Thế giới tâm linh
   - Zet/Các nhà tiên tri
+  - Zet/Thế giới tâm linh
 title: Baba Vanga
 UID: 211015223859
 tags:

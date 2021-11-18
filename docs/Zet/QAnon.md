@@ -4,8 +4,8 @@ outgoing_links:
 backlinks:
   - Zet/Big Medicine
   - Zet/Qmap
-  - Zet/People/Bill Gates
   - Zet/People/Donald J. Trump
+  - Zet/People/Bill Gates
 title: QAnon
 UID: 210918215753
 created: 18-Sep-2021

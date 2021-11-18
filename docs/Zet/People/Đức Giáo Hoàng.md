@@ -3,13 +3,13 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/Qmap
 backlinks:
-  - Zet/Công Giáo
-  - Zet/Hiệp sĩ Đền Thánh
-  - Zet/Black nobility
-  - Zet/Qmap
   - Zet/Thập Tự Chinh
-  - Zet/Chính thống giáo Đông Phương
+  - Zet/Black nobility
   - Zet/Cải Cách Kháng Nghị
+  - Zet/Công Giáo
+  - Zet/Chính thống giáo Đông Phương
+  - Zet/Qmap
+  - Zet/Hiệp sĩ Đền Thánh
   - Zet/Đại ly giáo Đông Tây
   - Zet/Anh giáo
 title: Đức Giáo Hoàng

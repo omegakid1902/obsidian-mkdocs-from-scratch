@@ -1,18 +1,19 @@
 ---
 outgoing_links:
   - Zet/Người Do Thái
-  - Zet/Khazarian
+  - Zet/Khazaria
   - Zet/Qmap
+  - Zet/Khazarian Mafia
   - Zet/Gia tộc Rothschild
   - Zet/Chủ Nghĩa Zion
   - Zet/Khazars tự nhận mình là do thái Ashkenazi
 backlinks:
-  - Zet/Do Thái Edomite
-  - Zet/Khazarian
+  - Zet/Chủ Nghĩa Zion
+  - Zet/Khazaria
   - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
+  - Zet/Do Thái Edomite
   - Zet/Qmap
   - Zet/Khazars tự nhận mình là do thái Ashkenazi
-  - Zet/Chủ Nghĩa Zion
 title: Khazars
 UID: 211029233335
 created: 29-Oct-2021
@@ -25,7 +26,7 @@ publish: True
 # Khazars
 
 ## Notes:
-Khazars là chi tộc [[Người Do Thái]] thứ 13. Vương quốc của họ là [[Khazarian]].
+Khazars là chi tộc [[Người Do Thái]] thứ 13. Vương quốc của họ là [[Khazaria]].
 
 ## Ideas & thoughts:
 - Trong [[Qmap]], hay [[Thuyết âm mưu]], Khazars là nguồn gốc của [[Khazarian Mafia]], [[Gia tộc Rothschild]]. Hậu duệ của Khazars cũng chính là những người xây dựng [[Chủ Nghĩa Zion]]

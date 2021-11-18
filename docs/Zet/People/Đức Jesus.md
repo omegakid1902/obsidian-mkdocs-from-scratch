@@ -4,14 +4,14 @@ outgoing_links:
   - Zet/Chúa Giáng Sinh
   - Zet/Lễ Giáng Sinh
 backlinks:
-  - Zet/Kinh mân côi
-  - Zet/Công Giáo
-  - Zet/Chúa Jesus không sinh ra vào 25-12
-  - Zet/Do Thái Giáo
-  - Zet/Năm sự vui
-  - Zet/Ngụy thư Giacobe
-  - Zet/Lễ Giáng Sinh
   - Zet/Cựu Ước
+  - Zet/Kinh mân côi
+  - Zet/Ngụy thư Giacobe
+  - Zet/Công Giáo
+  - Zet/Năm sự vui
+  - Zet/Do Thái Giáo
+  - Zet/Lễ Giáng Sinh
+  - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/People/Thánh Phaolo
 title: Đức Jesus
 UID: P-210731-2219

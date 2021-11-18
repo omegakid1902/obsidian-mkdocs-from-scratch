@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/People/Trần Cảnh
   - Zet/People/Lý Huệ Tông
 backlinks:
+  - Zet/Lịch Sử Việt Nam
   - Zet/Nhà Trần
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
-  - Zet/Lịch Sử Việt Nam
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Lý Huệ Tông
   - Zet/People/Linh Từ Quốc mẫu

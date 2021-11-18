@@ -9,20 +9,20 @@ outgoing_links:
   - Zet/Người Do Thái Sephardi
   - Zet/Người Do Thái Mizrahi
 backlinks:
-  - Zet/Eugenics
-  - Zet/Người Do Thái Sephardi
-  - Zet/Holocaust
-  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
   - Zet/Xung đột Israel - Palestine
-  - Zet/Người Do Thái Ethiopia
-  - Zet/Do Thái Giáo
-  - Zet/Khazars
-  - Zet/Người Hebrew
-  - Zet/Ngôi sao David
+  - Zet/Người Do Thái Sephardi
   - Zet/Chủ Nghĩa Zion
-  - Zet/People/Henry Alfred Kissinger
-  - Zet/People/Abraham
+  - Zet/Khazars
+  - Zet/Holocaust
+  - Zet/Người Hebrew
+  - Zet/Người Do Thái Ethiopia
+  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
+  - Zet/Do Thái Giáo
+  - Zet/Eugenics
+  - Zet/Ngôi sao David
   - Zet/People/Karl Marx
+  - Zet/People/Abraham
+  - Zet/People/Henry Alfred Kissinger
   - Zet/People/Adolf Hitler
   - Zet/People/Baruch Spinoza
 title: Người Do Thái

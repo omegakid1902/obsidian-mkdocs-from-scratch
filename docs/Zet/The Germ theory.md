@@ -7,8 +7,8 @@ outgoing_links:
   - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 backlinks:
-  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/The Terrain Theory
+  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/People/Louis Pasteur
 title: The Germ theory
 UID: 211010164438

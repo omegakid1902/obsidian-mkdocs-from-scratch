@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/People/Helena Blavatsky
 backlinks:
-  - Zet/Ba Chân lý của thông thiên học
   - Zet/Hội thông thiên học
   - Zet/Akashic records
+  - Zet/Ba Chân lý của thông thiên học
   - Zet/Thế giới tâm linh
 title: Thông thiên học
 UID: 211026234316

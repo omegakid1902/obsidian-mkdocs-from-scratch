@@ -4,10 +4,10 @@ outgoing_links:
   - Zet/Tháp Wardenclyffe
 backlinks:
   - Zet/Tần số Solfeggio
-  - Zet/Akashic records
-  - Zet/Qmap
-  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/NESARA
+  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
+  - Zet/Qmap
+  - Zet/Akashic records
   - Zet/Tháp Wardenclyffe
   - Zet/People/Albert Einstein
 title: Nicola Tesla

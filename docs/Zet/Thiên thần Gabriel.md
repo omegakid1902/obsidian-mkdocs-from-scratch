@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Gabriel có nghĩa là người của Thiên Chúa
   - Zet/Lễ kính thiên thần Gabriel là 24 tháng 3
 backlinks:
-  - Zet/Gabriel có nghĩa là người của Thiên Chúa
-  - Zet/Sau Vaticanô II, lễ kính của Raphael, Gabriel và Micael gộp thành một
   - Zet/Lễ kính thiên thần Gabriel là 24 tháng 3
+  - Zet/Gabriel có nghĩa là người của Thiên Chúa
   - Zet/Thiên thần Micael
+  - Zet/Sau Vaticanô II, lễ kính của Raphael, Gabriel và Micael gộp thành một
 title: Thiên thần Gabriel
 UID: 211112231632
 created: 12-Nov-2021
