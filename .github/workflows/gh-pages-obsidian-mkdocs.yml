@@ -57,7 +57,7 @@ jobs:
           python backlinks.py
           #python mdgraph/mdgraph.py mdgraph/mdgraph_config.json
           make build-docs
-          cp -rf src/graph_view docs/
+          cp -rf src/graph_view site
           #cp -rf docs/mdgraph site
           echo "ls -a ../"
           ls -a ../
