@@ -258,9 +258,9 @@ with open('docs/backlink.json', 'w', encoding="utf-8") as outfile:
 graph_nodes = {"nodes" : [], "links": []}
 for node in nodes:
     node_url = "https://omegakid1902.github.io/" + nodes[node]["url"].strip(".md")
-    if nodes[node]["url"].contains("People"):
+    if "People" in nodes[node]["url"]:
         group = 2
-    elif nodes[node]["url"].contains("Thinking"):
+    elif "Thinking" in nodes[node]["url"]:
         group = 3
     else:
         group = 1
