@@ -4,7 +4,7 @@ publish: true
 ---
 # Trang chủ
 
-Giới thiệu về website này [[about|tại đây]]
+Giới thiệu về website này [[about|tại đây]] và [[d3_html|Site map]]
 
 ## Nghiên cứu:
 
@@ -27,3 +27,5 @@ Giới thiệu về website này [[about|tại đây]]
 - [[❕ Topics to research]]
 
 ## [[Đại dịch COVID-19]]
+
+
