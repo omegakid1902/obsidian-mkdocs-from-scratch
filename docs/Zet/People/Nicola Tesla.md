@@ -8,6 +8,7 @@ backlinks:
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Qmap
   - Zet/Akashic records
+  - Zet/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
   - Zet/Tháp Wardenclyffe
   - Zet/People/Albert Einstein
 title: Nicola Tesla

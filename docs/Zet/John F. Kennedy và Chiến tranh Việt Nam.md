@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Chiến tranh Việt Nam
   - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
   - Zet/Ngô Đình Diệm
+  - Zet/CIA
 backlinks:
   - Zet/Chiến tranh Việt Nam
   - Zet/People/John F. Kennedy

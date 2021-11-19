@@ -20,11 +20,18 @@ outgoing_links:
   - Zet/Hồi Giáo
   - Zet/People/Alberto Rivera
   - Zet/Các cuộn sách biển Chết
+  - Zet/People/John Pierpont Morgan
+  - Zet/Gia tộc Rothschild
+  - Zet/Khazarian Mafia
+  - Zet/FED
   - Zet/People/Nicola Tesla
   - Zet/People/Plato
   - Zet/Plato có nói về Atlantis
+  - Zet/Nữ thần ISIS
+  - Zet/Thần Ra
   - Zet/Anunnaki
   - Zet/Crop Circle
+  - Zet/People/Joseph Stalin
   - Zet/Cách mạng tháng 10 Nga
   - Zet/People/Ignatius of Loyola
   - Zet/Dòng Tên
@@ -118,6 +125,14 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Các cuộn sách biển Chết]]
 - [[John Pierpont Morgan]]
 - [[Titanic]]
+- [[John Pierpont Morgan]]
+
+
+## [[Gia tộc Rothschild|Rothschild]]
+- [[Khazarian Mafia]]
+- [[Tháp Mentmore|Mentmore tower]]
+- [[FED|Federal Reserve System - FED]]
+
 
 
 ## [[Clinton Foundation]] 
@@ -144,7 +159,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 ![[Pasted image 20211026232120.png]]
 
 - [[Nữ thần ISIS]]
-- [[Thần RA]]
+- [[Thần Ra]]
 - [[Thuyết nguyên tử|Atonism]]
 - [[Biblical Kings]]
 - 
@@ -170,7 +185,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 
 ### [[USSR]]
 - [[Lenin]]
-- [[Stalin]]
+- [[Joseph Stalin]]
 - [[Marxism]]
 - [[Cách mạng tháng 10 Nga]]
 

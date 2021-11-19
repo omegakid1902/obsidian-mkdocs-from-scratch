@@ -233,7 +233,7 @@ Thật không may ông ta đã nói đúng và 102 năm sau Rothschild đã tài
 - [[John Robison]] xuất bản sách vạch trần âm mưu của [[Hội Illuminati|Illuminati]] và [[Hội tam điểm]].
 - [[Công ước Viena 1814]] nhằm hình thành một hình thái cai trị của [[Gia tộc Rothschild]]
 	- [[Sa hoàng Nga Alexander I không chấp thuận Công ước Viena 1814]]
-	- [[Nathan Mayer Rothschild]] tài trợ [[Bolsheviks]] lật đổ Sa hoàng
+	- [[Nathan Mayer Rothschild]] tài trợ [[Bolshevik]] lật đổ Sa hoàng
 	- 
 
 [[📑 Bookmark]]

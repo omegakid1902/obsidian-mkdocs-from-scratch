@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/Tin Lành
 backlinks:
   - Zet/God
+  - Zet/Người Gruzia
   - Zet/Hạ thế giới
   - Zet/Do Thái Giáo
   - Zet/Lễ Giáng Sinh

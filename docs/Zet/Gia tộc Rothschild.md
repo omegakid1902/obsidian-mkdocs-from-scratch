@@ -12,6 +12,7 @@ backlinks:
   - Zet/Rothschild nghĩa là dấu hiệu đỏ
   - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Tháp Mentmore
+  - Zet/Qmap
   - Zet/People/Mayer Amschel Bauer
 title: Gia tộc Rothschild
 UID: 211010232721
