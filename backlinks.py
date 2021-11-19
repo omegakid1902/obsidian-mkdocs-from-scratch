@@ -258,7 +258,13 @@ with open('docs/backlink.json', 'w', encoding="utf-8") as outfile:
 graph_nodes = {"nodes" : [], "links": []}
 for node in nodes:
     node_url = "https://omegakid1902.github.io/" + nodes[node]["url"].strip(".md")
-    graph_node = { "id": nodes[node]["id"], "title": node, "group": 1, "url": node_url}
+    if nodes[node]["url"].contains("People"):
+        group = 2
+    elif nodes[node]["url"].contains("Thinking"):
+        group = 3
+    else:
+        group = 1
+    graph_node = { "id": nodes[node]["id"], "title": node, "group": group, "url": node_url}
     # graph_node["id"] = node
     # graph_node["group"] = 1
     graph_nodes["nodes"].append(graph_node)
