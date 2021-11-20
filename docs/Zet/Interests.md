@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Sách đã đọc
   - Zet/Religion
   - Zet/Self Improvement
   - Zet/Language
