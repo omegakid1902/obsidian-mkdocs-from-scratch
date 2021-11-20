@@ -12,7 +12,6 @@ backlinks:
   - Zet/Gabriel có nghĩa là người của Thiên Chúa
   - Zet/Người Do Thái
   - Zet/Hồi Giáo
-  - Zet/Tóm tắt sách Sáng Thế
   - Zet/Gioan Thánh giá gọi Chúa là nada
   - Zet/Thiên thần Micael
   - Zet/Do Thái Giáo
@@ -23,6 +22,7 @@ backlinks:
   - Zet/People/Thánh Justino
   - Zet/People/Thánh Phaolo
   - Zet/People/Đức Jesus
+  - Zet/Writing/Tóm tắt sách Sáng Thế
 title: God
 UID: 211107214433
 created: 07-Nov-2021

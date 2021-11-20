@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/People/Theodore Roosevelt
   - Zet/People/John F. Kennedy
 title: Các đời tổng thống Hoa Kỳ
 tags:

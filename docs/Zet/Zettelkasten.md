@@ -14,6 +14,7 @@ backlinks:
   - Zet/Self Improvement
   - Zet/Literature Note
   - Zet/People/Niklas Luhmann
+  - Zet/Writing/Danh sách các bài viết
 title: Zettelkasten
 UID: 211001214142
 created: 01-Oct-2021

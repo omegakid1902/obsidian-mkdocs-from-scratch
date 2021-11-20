@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Benjamin Franklin
+  - Zet/People/Theodore Roosevelt
   - Zet/People/Charles Darwin
   - Zet/People/Pythagoras
   - Zet/People/Trần Trọng Kim

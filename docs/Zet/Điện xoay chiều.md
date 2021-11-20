@@ -1,6 +1,6 @@
 ---
 backlinks:
-  - Zet/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
+  - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
 title: Điện xoay chiều
 UID: 211120150140
 created: 20-Nov-2021

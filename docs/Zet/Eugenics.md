@@ -10,6 +10,7 @@ outgoing_links:
   - Zet/People/Bill Gates
   - Zet/Vaccine
   - Zet/SARS-COV-2
+  - Zet/People/Theodore Roosevelt
 backlinks:
   - Zet/Qmap
   - Zet/Các kênh thông tin trái chiều
