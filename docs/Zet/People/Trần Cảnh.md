@@ -3,6 +3,8 @@ outgoing_links:
   - Zet/Nhà Trần
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
 backlinks:
+  - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
+  - Zet/Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh
   - Zet/Nhà Trần
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
   - Zet/People/Thuận Thiên công chúa

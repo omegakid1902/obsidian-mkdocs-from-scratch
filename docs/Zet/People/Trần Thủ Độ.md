@@ -5,6 +5,7 @@ outgoing_links:
 backlinks:
   - Zet/Lịch Sử Việt Nam
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
   - Zet/Nhà Trần
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
   - Zet/People/Thuận Thiên công chúa

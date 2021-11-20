@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Nam Việt
+  - Zet/Thinking/❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
 backlinks:
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
@@ -17,7 +18,7 @@ publish: True
 
 ## Notes:
 Có 2 quan điểm xoay quanh nước [[Nam Việt]] của Triệu Đà:
-- [[Quan điểm cho rằng Nhà Triệu là ngoại xâm]]
+- [[❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm]]
 - [[Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN]]
 
 ## Ideas & thoughts:

@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Đại dịch COVID-19
   - Zet/Các chế độ nhịn ăn
+  - Zet/Intermittent Fasting
 backlinks:
   - Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ
   - Zet/FDA

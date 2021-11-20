@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden state
 title: Phim hay
 UID: 210901221242
 tags:

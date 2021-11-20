@@ -19,6 +19,7 @@ backlinks:
   - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
   - Zet/Do Thái Giáo
   - Zet/Eugenics
+  - Zet/Bức tường than khóc
   - Zet/Ngôi sao David
   - Zet/People/Karl Marx
   - Zet/People/Abraham

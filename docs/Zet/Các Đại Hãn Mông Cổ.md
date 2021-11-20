@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Đại Hãn
   - Zet/Mông Kha
 backlinks:
   - Zet/Đế Quốc Mông Cổ

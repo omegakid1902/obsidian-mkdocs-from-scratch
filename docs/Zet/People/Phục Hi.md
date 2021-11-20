@@ -1,6 +1,8 @@
 ---
 backlinks:
+  - Zet/Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng
   - Zet/Lịch sử Trung Quốc
+  - Zet/Tam Hoàng Trung Hoa
 title: Phục Hi
 UID: 210905212938
 tags:
@@ -9,8 +11,6 @@ tags:
   - '#permanent/people'
 birth: 
 death: 
-aliases:
-  - 
 publish: True
 ---
 # Phục Hi
@@ -20,13 +20,3 @@ publish: True
 
 ## Ideas & thoughts:
 [[Kinh Dịch]]
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[Phục Hi]]
-sort file.name asc
-```

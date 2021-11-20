@@ -1,9 +1,9 @@
 ---
 outgoing_links:
   - Zet/Nhà Hạ
-  - Zet/People/Đế Thuấn
 backlinks:
   - Zet/Lịch sử Trung Quốc
+  - Zet/Tam Vương Trung Hoa
 title: Hạ Vũ
 UID: 210905222429
 tags:
@@ -27,14 +27,3 @@ Hạ Vũ tên thật là Hạ Tử Thành, là một vị vua truyền thuyết 
 
 ## Ideas & thoughts:
 [[Nhà Hạ]]
-
-## Questions:
-
-
-## Tham khảo:
-- [[Đế Thuấn]]
-```dataview
-list
-from [[Hạ Vũ]]
-sort file.name asc
-```

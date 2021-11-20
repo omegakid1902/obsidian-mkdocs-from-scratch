@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Siddhartha Gautama
 backlinks:
   - Zet/Religion
+  - Zet/Angkor Wat
   - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
 title: Phật Giáo
 UID: 211001213956

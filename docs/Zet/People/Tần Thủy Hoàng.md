@@ -7,6 +7,7 @@ backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Nhà Tần
+  - Zet/Sau khi bị Tần Thủy Hoàng thiêu hủy sách, Đạo Khổng sau đó phục hồi còn Mặc gia suy tàn
 title: Tần Thủy Hoàng
 UID: 210828110531
 tags:

@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Lịch sử Trung Quốc
+  - Zet/Nhà Tống
   - Zet/Nhà Trần
   - Zet/Đoàn Dự
 backlinks:

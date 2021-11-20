@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Ngũ đế Trung Hoa
   - Zet/Lịch sử Trung Quốc
   - Zet/People/Đế Thuấn
 title: Đế Nghiêu

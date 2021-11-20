@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
+  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
   - Zet/Triệu Đà truyền ngôi cho con của Trọng Thủy
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Nhà Tần

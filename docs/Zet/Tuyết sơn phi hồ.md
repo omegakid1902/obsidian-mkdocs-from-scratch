@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Lý Tự Thành
 backlinks:
+  - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung
   - Zet/Lý Tự Thành được hư cấu hóa trong các tiểu thuyết Kim Dung
 title: Tuyết sơn phi hồ
 UID: 2108120819

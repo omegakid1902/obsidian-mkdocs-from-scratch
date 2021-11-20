@@ -8,8 +8,10 @@ backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/Nhà Chu
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
+  - Zet/Tiên Tần
   - Zet/People/Tần Thủy Hoàng
   - Zet/People/Thương Ưởng
+  - Zet/Thinking/❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm
 title: Nhà Tần
 UID: 210828103407
 tags:

@@ -4,7 +4,9 @@ outgoing_links:
   - Zet/Bảo Đại
 backlinks:
   - Zet/Việt Nam Cộng Hòa
+  - Zet/Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
   - Zet/Lịch Sử Việt Nam
+  - Zet/1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại
   - Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
   - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận

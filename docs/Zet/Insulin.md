@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Insulin resistance
   - Zet/Các chế độ nhịn ăn
 title: Insulin
 UID: 210903092337
@@ -16,6 +17,3 @@ publish: True
 Insulin là một hormon giúp điều hòa [[Đường huyết]]. [[Insulin được tiết ra ở tuyến tụy]] giúp tế bào hấp thụ [[Glucose|Glucose]] từ máu.
 
 ## Ideas & thoughts:
-
-## Questions:
-

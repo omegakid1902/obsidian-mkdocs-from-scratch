@@ -7,6 +7,7 @@ backlinks:
   - Zet/Người Do Thái
   - Zet/Công Giáo
   - Zet/Ngũ Kinh Cựu Ước
+  - Zet/Grigori
   - Zet/Lucifer
   - Zet/Bản bảy mươi
 title: Cựu Ước

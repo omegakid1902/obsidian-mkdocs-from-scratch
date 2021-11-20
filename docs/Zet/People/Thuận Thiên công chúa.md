@@ -8,6 +8,7 @@ outgoing_links:
   - Zet/People/Trần Liễu
   - Zet/People/Trần Quang Khải
 backlinks:
+  - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
   - Zet/People/Lý Huệ Tông
   - Zet/People/Linh Từ Quốc mẫu
   - Zet/People/Trần Liễu

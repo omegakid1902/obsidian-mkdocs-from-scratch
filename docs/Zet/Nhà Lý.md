@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/Lịch Sử Việt Nam
+  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
   - Zet/Nhà Trần
   - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Lý Huệ Tông

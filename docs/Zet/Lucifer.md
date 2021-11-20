@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Chiến tranh trên Thiên Đàng
   - Zet/Thiên thần Micael
+  - Zet/Grigori
   - Zet/Cựu Ước
 backlinks:
   - Zet/Chúa Jesus không sinh ra vào 25-12

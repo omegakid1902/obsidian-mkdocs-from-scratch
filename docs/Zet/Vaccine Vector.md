@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Kháng thể
 backlinks:
   - Zet/Vaccine AstraZeneca
   - Zet/Các loại Vaccine COVID 19

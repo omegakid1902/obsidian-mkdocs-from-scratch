@@ -2,7 +2,9 @@
 outgoing_links:
   - Zet/Đế Quốc Mông Cổ
 backlinks:
+  - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
   - Zet/Lịch sử Trung Quốc
   - Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
 title: Nhà Nguyên - Mông

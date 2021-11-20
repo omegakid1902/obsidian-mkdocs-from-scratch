@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Esperanto - Quốc tế  ngữ
 backlinks:
   - Zet/Interests
 title: Language

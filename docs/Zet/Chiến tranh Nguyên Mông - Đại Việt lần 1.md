@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Mông Kha
+  - Zet/Nhà Tống
   - Zet/Nhà Đại Lý
   - Zet/Nhà Trần
   - Zet/People/Trần Thủ Độ

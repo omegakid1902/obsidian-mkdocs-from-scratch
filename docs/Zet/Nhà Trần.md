@@ -10,6 +10,8 @@ backlinks:
   - Zet/Nhà Đại Lý
   - Zet/Lịch Sử Việt Nam
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
+  - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Cảnh
   - Zet/People/Trần Liễu

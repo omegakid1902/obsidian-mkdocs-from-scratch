@@ -28,8 +28,3 @@ Dòng dõi chúa Trịnh khởi đi từ [[Trịnh Kiểm]]
 
 ## Ideas & thoughts:
 
-## Questions:
-
-## Related:
-
-

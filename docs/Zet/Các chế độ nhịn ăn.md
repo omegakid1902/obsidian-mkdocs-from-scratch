@@ -1,6 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Intermittent Fasting
+  - Zet/Chế độ ăn 5-2
   - Zet/Insulin
+  - Zet/Autophagy
+  - Zet/Insulin resistance
   - Zet/Health
 backlinks:
   - Zet/Health

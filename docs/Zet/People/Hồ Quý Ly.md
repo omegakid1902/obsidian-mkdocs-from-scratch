@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/Lịch Sử Việt Nam
+  - Zet/Hồ Quý Ly còn được gọi là Lê Quý Ly
 title: Hồ Quý Ly
 tags:
   - 'created/2021/Jul/15'
