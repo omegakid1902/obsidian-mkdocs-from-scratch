@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-Thể loại [[Health]]
+Thể loại [[Sức khỏe]]
 
 
 ## Questions and thoughts

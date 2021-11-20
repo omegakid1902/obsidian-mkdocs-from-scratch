@@ -14,7 +14,9 @@ tags:
   - 'seed🥜'
   - 'permanent/people'
 birth: 
-death: 
+death:
+aliases:
+  - Luhmann
 publish: True
 ---
 # Niklas Luhmann

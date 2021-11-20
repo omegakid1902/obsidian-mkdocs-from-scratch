@@ -1,4 +1,16 @@
 ---
+outgoing_links:
+  - Zet/Cựu Ước
+  - Zet/God
+  - Zet/People/Abel
+  - Zet/Cain sinh lòng đố kị và ghen ghét Abel
+  - Zet/Cain sát hại Abel
+backlinks:
+  - Zet/Lucifer
+  - Zet/Rửa tội
+  - Zet/People/Enoch
+  - Zet/People/Abel
+  - Zet/Writing/Tóm tắt sách Sáng Thế
 title: Adam và Eva
 UID: 2108142139
 tags:

@@ -20,6 +20,7 @@ backlinks:
   - Zet/Ngũ Kinh Cựu Ước
   - Zet/Khazarian Mafia
   - Zet/Religion
+  - Zet/People/Moses
 title: Do Thái Giáo
 UID: 211025233526
 created: 25-Oct-2021

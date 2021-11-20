@@ -1,8 +1,10 @@
 ---
 outgoing_links:
+  - Zet/People/Adam và Eva
   - Zet/Cain sát hại Abel
 backlinks:
   - Zet/Cain sinh lòng đố kị và ghen ghét Abel
+  - Zet/People/Adam và Eva
   - Zet/Writing/Tóm tắt sách Sáng Thế
 title: Abel
 tags:

@@ -20,9 +20,10 @@ tags:
   - 'religion'
 aliases:
   - Tôn giáo
+  - Religion
 publish: True
 ---
-# Religion
+# Tôn giáo
 
 ## Thiên Chúa Giáo
 ### Nhánh Kito giáo

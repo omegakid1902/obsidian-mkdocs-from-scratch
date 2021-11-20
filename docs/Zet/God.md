@@ -9,6 +9,7 @@ backlinks:
   - Zet/Xung đột Israel - Palestine
   - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
   - Zet/Cựu Ước
+  - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
   - Zet/Gabriel có nghĩa là người của Thiên Chúa
   - Zet/Người Do Thái
   - Zet/Hồi Giáo
@@ -18,6 +19,8 @@ backlinks:
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/Micael không phải tổng lãnh thiên thần
   - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
+  - Zet/People/Adam và Eva
+  - Zet/People/Moses
   - Zet/People/Abraham
   - Zet/People/Thánh Justino
   - Zet/People/Thánh Phaolo

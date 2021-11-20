@@ -23,6 +23,7 @@ backlinks:
   - Zet/Đại ly giáo Đông Tây
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Thánh Jerome
+  - Zet/People/Ngô Đình Thục
   - Zet/People/Alberto Rivera
 title: Công Giáo
 UID: 210815151214
@@ -62,9 +63,13 @@ publish: True
 	- [[Thánh Phaolo]] 
 - 600 - 1300 - [[Giáo Hội thời Trung cổ]]
 
-## Relate to:
+## Tham khảo thêm:
 - [[Thập Tự Chinh]]
 - [[Chính thống giáo Đông Phương]]
 - [[Anh giáo]]
 - [[Đức Giáo Hoàng]]
 - [[Dòng Tên]]
+
+## Sách:
+- [[@ Alan Schreck, The Compact History of the Catholic Church]]
+- [[@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]]

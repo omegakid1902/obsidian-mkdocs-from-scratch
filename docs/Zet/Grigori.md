@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Cựu Ước
+  - Zet/People/Enoch
 backlinks:
   - Zet/Lucifer
 title: Grigori

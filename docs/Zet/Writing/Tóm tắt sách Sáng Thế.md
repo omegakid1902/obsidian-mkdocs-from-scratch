@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/God
+  - Zet/People/Adam và Eva
   - Zet/People/Abel
   - Zet/Cain sinh lòng đố kị và ghen ghét Abel
   - Zet/Cain sát hại Abel
@@ -34,9 +35,7 @@ Thiên Chúa biết hai ông bà không vâng lời Ngài và đã trừng phạ
 Adam và Eva sinh được 2 người con là [[Cain]] và [[Abel]].
 [[Cain là anh Abel]]. [[Cain làm nghề trồng trọt]]. [[Abel làm nghề chăn nuôi súc vật]]. [[Gen-04#v2|Sáng thế 4, 2]] 
 
-Khi hiến tế của lễ cho Thiên Chúa, Ngài lại thích lễ vật của Abel hơn của Cain. [[Cain sinh lòng đố kị và ghen ghét Abel]]. Biết được việc đó, Chúa mới hỏi Cain: (chỗ này chưa hiểu ý Chúa lắm #todo/research)
->![[Gen-04#v6]]
->![[Gen-04#v7]]
+Khi hiến tế của lễ cho Thiên Chúa, Ngài lại thích lễ vật của Abel hơn của Cain. [[Cain sinh lòng đố kị và ghen ghét Abel]]. Biết được việc đó, Chúa mới hỏi Cain: (chỗ này chưa hiểu ý Chúa lắm #todo/research) [[Gen-04#v6|Sáng thế 4, 6]], [[Gen-04#v7|Sáng thế 4, 7]]
 
 [[Cain sát hại Abel]]. [[Gen-04#v8]]
 
@@ -47,6 +46,7 @@ Tuy vậy, Chúa vẫn bảo vệ Cain và ban cho Cain dấu ấn riêng để 
 Adam và Eva sinh thêm 1 người con nữa là Sết [[Gen-04#v25]]
 
 Vậy tổng cộng theo [[Genesis|Sáng Thế]], Adam và Eva có 3 người con.
+
 - [[Gen-04#v1]] Cain
 - [[Gen-04#v2]] Aben
 - [[Gen-04#v25]] Set

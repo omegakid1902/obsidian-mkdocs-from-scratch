@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Backlink Graph View
   - Zet/Obsidian
 publish: True
 ---

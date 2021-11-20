@@ -9,6 +9,7 @@ backlinks:
   - Zet/Chủ Nghĩa Zion
   - Zet/FED
   - Zet/Khazars
+  - Zet/13 gia tộc kiểm soát thế giới loài người
   - Zet/Rothschild nghĩa là dấu hiệu đỏ
   - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Tháp Mentmore

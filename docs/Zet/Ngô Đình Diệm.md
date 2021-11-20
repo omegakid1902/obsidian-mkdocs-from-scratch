@@ -11,6 +11,7 @@ backlinks:
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
   - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
   - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
+  - Zet/People/Ngô Đình Thục
 title: Ngô Đình Diệm
 UID: 
 created: 12-Dec-2021
@@ -19,7 +20,7 @@ tags:
   - '#seed🥜'
   - '#permanent/concept'
 aliases:
-  - Ngô Đình Diệm
+  - Tổng thống Ngô Đình Diệm
 publish: True
 ---
 # Ngô Đình Diệm

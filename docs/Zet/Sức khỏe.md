@@ -7,7 +7,7 @@ backlinks:
   - Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ
   - Zet/FDA
   - Zet/Các chế độ nhịn ăn
-title: 🏡 Health
+title: Sức khỏe
 UID: 210903101749
 tags:
   - '#created/2021/Sep/03'
@@ -15,7 +15,7 @@ tags:
   - '#permanent/concept'
 publish: True
 ---
-# 🏡 Health
+# Sức khỏe
 
 ## Notes:
 

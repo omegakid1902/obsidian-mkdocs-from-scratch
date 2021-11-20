@@ -1,7 +1,9 @@
 ---
 outgoing_links:
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
+  - Zet/People/Thomas Edison
   - Zet/Tháp Wardenclyffe
+  - Zet/People/John Pierpont Morgan
 backlinks:
   - Zet/Tần số Solfeggio
   - Zet/NESARA
@@ -9,6 +11,7 @@ backlinks:
   - Zet/Qmap
   - Zet/Akashic records
   - Zet/Tháp Wardenclyffe
+  - Zet/People/Thomas Edison
   - Zet/People/Albert Einstein
   - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
 title: Nicola Tesla
@@ -28,6 +31,8 @@ publish: True
 ## Notes:
 [[Theo tài liệu FBI, Tesla là người Sao Kim]]
 
+![[Pasted image 20211120203028.png]]
+
 ## Ideas & thoughts:
 - Câu chuyện về [[Thomas Edison]] bắt chẹt các phát minh của Nicola Tesla có thực không?
 - Công ty của [[Elon Musk]] là mang tên Tesla
@@ -35,7 +40,7 @@ publish: True
 - Khám phá ra điện xoay chiều, ý tưởng đi trước thời đại 
 - Radio, tủ lạnh,
 - [[Death Ray]] - Vũ khí chùm hạt tương
-- [[Tháp Wardenclyffe]] là một trạm truyền năng lượng không dây được tài trợ từ tập đoàn JP Morgan
+- [[Tháp Wardenclyffe]] là một trạm truyền năng lượng không dây được tài trợ từ tập đoàn [[John Pierpont Morgan|JP Morgan]]
 - Máy tạo động đất
 
 - [[📝21-10-11]]

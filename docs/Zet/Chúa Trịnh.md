@@ -7,6 +7,7 @@ backlinks:
   - Zet/Đàng Ngoài
   - Zet/Chúa Nguyễn
   - Zet/Thời Lê trung hưng
+  - Zet/Nguyễn Ánh
   - Zet/Nhà Tây Sơn
   - Zet/People/Trịnh Kiểm
 title: Chúa Trịnh

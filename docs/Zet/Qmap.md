@@ -53,9 +53,9 @@ title: QAnon map
 UID: 210920220953
 created: 20-Sep-2021
 tags:
-  - '#created/2021/Sep/20'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Sep/20'
+  - 'garden🏡'
+  - 'permanent/concept'
 aliases:
   - Qanon map
 publish: True

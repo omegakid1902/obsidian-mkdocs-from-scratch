@@ -23,7 +23,7 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 - [[Ấn Độ giáo]]
 
 ### Sinh học
-- [[Health]]
+- [[Sức khỏe]]
 
 ### Personal
 - [[Self Improvement|Phát triển bản thân]]

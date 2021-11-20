@@ -12,6 +12,7 @@ backlinks:
   - Zet/Lễ Giáng Sinh
   - Zet/Rửa tội
   - Zet/Hiệp sĩ Đền Thánh
+  - Zet/People/Moses
   - Zet/People/Thánh Phaolo
   - Zet/People/Alberto Rivera
 title: Cơ Đốc giáo

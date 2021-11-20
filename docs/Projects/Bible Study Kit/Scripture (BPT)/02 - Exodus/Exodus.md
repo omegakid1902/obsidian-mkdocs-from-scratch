@@ -1,3 +1,8 @@
+---
+aliases:
+  - Xuất hành
+  - Xuất Ai Cập
+---
 links: [[The bible]]
 # Exodus
 

@@ -7,6 +7,7 @@ backlinks:
   - Zet/Thời gian dịch các sách trong Bản bảy mươi
   - Zet/Ngũ Kinh Cựu Ước
   - Zet/Do Thái Giáo
+  - Zet/People/Moses
 title: Torah
 UID: 210731-1722
 created: 07-Oct-2021

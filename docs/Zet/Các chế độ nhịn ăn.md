@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/Insulin
   - Zet/Autophagy
   - Zet/Insulin resistance
-  - Zet/Health
+  - Zet/Sức khỏe
 backlinks:
-  - Zet/Health
+  - Zet/Sức khỏe
 title: Các chế độ nhịn ăn
 UID: 210903083839
 tags:
@@ -42,5 +42,5 @@ FAQ
 - [[❕ Bạn có thể bỏ bất kỳ một bữa nào đó cũng là cách đơn giản nhất để thực hiện chế độ nhịn ăn]]
 
 ## Tham khảo:
-- [[Health]]
+- [[Sức khỏe]]
 - [Intermittent Fasting 101 — The Ultimate Beginner's Guide (healthline.com)](https://www.healthline.com/nutrition/intermittent-fasting-guide)

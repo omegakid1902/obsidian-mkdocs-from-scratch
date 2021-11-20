@@ -27,6 +27,7 @@ outgoing_links:
   - Zet/People/Nguyễn Hoàng
   - Zet/People/Trịnh Kiểm
   - Zet/People/Nguyễn Huệ
+  - Zet/Nguyễn Ánh
   - Zet/Bảo Đại
   - Zet/People/Trần Trọng Kim
   - Zet/Ngô Đình Diệm

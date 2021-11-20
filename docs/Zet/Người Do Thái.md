@@ -19,13 +19,16 @@ backlinks:
   - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
   - Zet/Do Thái Giáo
   - Zet/Eugenics
+  - Zet/Moses thuộc chi tộc Levi
   - Zet/Bức tường than khóc
   - Zet/Ngôi sao David
   - Zet/People/Karl Marx
+  - Zet/People/Moses
   - Zet/People/Abraham
   - Zet/People/Henry Alfred Kissinger
   - Zet/People/Adolf Hitler
   - Zet/People/Baruch Spinoza
+  - Zet/Writing/Tiểu sử tiên tri Moses
 title: Người Do Thái
 created: Jun 19, 2021 9:05 PM
 tags:

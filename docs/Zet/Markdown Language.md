@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/HTML Language
 backlinks:
+  - Zet/Backlink Graph View
   - Zet/Programming
   - Zet/Obsidian
 title: Markdown Language

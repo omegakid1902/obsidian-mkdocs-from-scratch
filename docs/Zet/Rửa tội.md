@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Cơ Đốc Giáo
+  - Zet/People/Adam và Eva
   - Zet/Công Giáo
 backlinks:
   - Zet/Anabaptist

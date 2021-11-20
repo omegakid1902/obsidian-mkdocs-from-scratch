@@ -10,6 +10,8 @@ backlinks:
   - Zet/Grigori
   - Zet/Lucifer
   - Zet/Bản bảy mươi
+  - Zet/People/Adam và Eva
+  - Zet/People/Moses
 title: Cựu Ước
 UID: 2107311703
 created: 22-Sep-2021

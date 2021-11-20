@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/John Pierpont Morgan
+  - Zet/People/Thomas Edison
   - Zet/People/Nicola Tesla
   - Zet/Điện xoay chiều
 backlinks:

@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Health
+  - Zet/Sức khỏe
   - Zet/COVID-19
   - Zet/Vaccine
 backlinks:
@@ -28,6 +28,6 @@ publish: True
 FDA, viết tắt của cục quản lý thực phẩm và dược phẩm Hoa Kỳ
 
 ## Ideas & thoughts:
-- [[Health]]
+- [[Sức khỏe]]
 - [[COVID-19]]
 - [[Vaccine]]

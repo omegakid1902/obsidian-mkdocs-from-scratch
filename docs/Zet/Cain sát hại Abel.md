@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/People/Adam và Eva
   - Zet/People/Abel
   - Zet/Writing/Tóm tắt sách Sáng Thế
 title: Cain sát hại Abel

@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/Thiên thần Raphael
   - Zet/Thiên thần Gabriel
   - Zet/Micael không phải tổng lãnh thiên thần
+  - Zet/People/Moses
   - Zet/Chiến tranh trên Thiên Đàng
 backlinks:
   - Zet/Lễ kính thiên thần Micael là 29 tháng 9
@@ -47,7 +48,7 @@ publish: True
 - [[Josh-05#v13]], [[Josh-05#v14]], [[Josh-05#v15]] nói đến Micael là đội trưởng đội quân của [[God|Thiên Chúa]]!?
 - Các thiên thần thường được nhắc đến cùng [[Thiên thần Raphael]], [[Thiên thần Gabriel]]
 - [[Micael không phải tổng lãnh thiên thần]]
-- Micae tranh giành xác [[Moise]] với ma quỉ trong [[Jude-01#v9]]
+- Micae tranh giành xác [[Moses]] với ma quỉ trong [[Jude-01#v9]]
 - [[Jude-01#v9]] và [[1 Thess-04#v16]] là sao chép của nhau?
 - [[Chiến tranh trên Thiên Đàng]] được kể lại trong sách [[Tân Ước]] - [[Revelation|Sách Khải Huyền]] ([wiki](https://vi.wikipedia.org/wiki/T%E1%BB%95ng_l%C3%A3nh_thi%C3%AAn_th%E1%BA%A7n_Micae))
 - [Archangel Michael in the Bible - Scripture Quotes and Prayer (biblestudytools.com)](https://www.biblestudytools.com/topical-verses/archangel-michael-in-the-bible/)

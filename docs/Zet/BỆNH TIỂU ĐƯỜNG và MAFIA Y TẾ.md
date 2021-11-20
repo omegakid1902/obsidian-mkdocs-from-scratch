@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Health
+  - Zet/Sức khỏe
   - Zet/Big Medicine
 backlinks:
   - Zet/Kênh youtube giáo dục tự do 1
@@ -38,6 +38,6 @@ Các chỉ số xét nghiệm cận trên cận dưới theo quy ước là khô
 - Chỉ số đường huyết của người mang bầu thấp hơn người thường vì thể tích máu của họ nhiều hơn. !?
 
 ## Relate to:
-- [[Health]]
+- [[Sức khỏe]]
 - [[Big Medicine]]
 - [Thực dưỡng hiện đại](https://thucduonghiendai.com/)

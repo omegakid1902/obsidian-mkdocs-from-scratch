@@ -5,8 +5,10 @@ outgoing_links:
   - Zet/People/Nguyễn Hoàng
   - Zet/Chúa Trịnh
   - Zet/Đàng Ngoài
+  - Zet/Nguyễn Ánh
   - Zet/Nhà Nguyễn
 backlinks:
+  - Zet/Nguyễn Ánh
   - Zet/Nhà Nguyễn
   - Zet/Nhà Tây Sơn
   - Zet/People/Nguyễn Hoàng

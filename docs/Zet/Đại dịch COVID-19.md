@@ -42,8 +42,8 @@ backlinks:
   - Zet/Chemtrails
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/Coronavirus
-  - Zet/Health
   - Zet/COVID-19
+  - Zet/Sức khỏe
   - Zet/Các kênh thông tin trái chiều
   - Zet/People/Robert Wallace Malone
 title: Đại dịch COVID-19

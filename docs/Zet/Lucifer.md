@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/People/Adam và Eva
   - Zet/Chiến tranh trên Thiên Đàng
   - Zet/Thiên thần Micael
   - Zet/Grigori

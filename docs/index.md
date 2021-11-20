@@ -19,12 +19,13 @@ Giới thiệu về website này [[about|tại đây]] và [[d3_html|Site ma
 
 ### [[Thế giới tâm linh]]
 
-### Sinh học
-- [[Health]]
+### [[Sức khỏe]]
 
-### Personal
+### Cá nhân
 - [[Self Improvement|Phát triển cá nhân]]
 - [[❕ Topics to research]]
+- [[Sách đã đọc|Đọc sách]]
+- [[Danh sách các bài viết|Viết]]
 
 ## [[Đại dịch COVID-19]]
 
