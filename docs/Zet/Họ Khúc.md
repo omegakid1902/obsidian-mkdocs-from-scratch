@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Nhà Đường
 backlinks:
   - Zet/Dương Đình Nghệ
 title: Họ Khúc

@@ -2,19 +2,10 @@
 outgoing_links:
   - Zet/Coronavirus
   - Zet/COVID-19
+  - Zet/SARS-CoV
   - Zet/Virus
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
-backlinks:
-  - Zet/Real time PCR test
-  - Zet/Vaccine AstraZeneca
-  - Zet/MERS-CoV
-  - Zet/Beta-Coronavirus
-  - Zet/Coronavirus
-  - Zet/COVID-19
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
-  - Zet/Eugenics
-  - Zet/Đại dịch COVID-19
-title: SARS-COV-2
+title: SARS-CoV-2
 UID: 2107101047
 tags:
   - 'created/2021/Jul/10'
@@ -25,10 +16,10 @@ aliases:
   - Virus cúm Tàu
 publish: True
 ---
-# SARS-COV-2
+# SARS-CoV-2
 
 ## Notes
-SARS-COVID-2 là một loại [[Coronavirus]] gây ra bệnh viêm đường hô hấp [[COVID-19]]. SARS-COVID-2 được [[Ủy ban quốc tế về phân loại Virus]] lấy làm tên gọi chính thức vào tháng 2/2020. SARS-COVID-2 là biến gần với [[SARS-CoV]] từng gây ra đại dịch SARS 2003
+SARS-CoV-2 là một loại [[Coronavirus]] gây ra bệnh viêm đường hô hấp [[COVID-19]]. SARS-CoV-2 được [[Ủy ban quốc tế về phân loại Virus]] lấy làm tên gọi chính thức vào tháng 2/2020. SARS-COVID-2 là biến gần với [[SARS-CoV]] từng gây ra đại dịch SARS 2003
 
 Cấu trúc của virus gồm lõi là một gen RNA và bao quanh là vỏ glycoprotein hay còn gọi là [[Spike Protein]] vì nó có hình gai nhọn.
 

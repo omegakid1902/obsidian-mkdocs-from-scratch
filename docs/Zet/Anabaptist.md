@@ -1,8 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Mennonite
   - Zet/Bí tích rửa tội
 backlinks:
   - Zet/Cải Cách Kháng Nghị
+  - Zet/Mennonite
   - Zet/People/William Penn
 title: Anabaptist
 created: Nov 06, 2020 9:59 PM

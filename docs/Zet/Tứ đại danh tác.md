@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Thủy Hử
+  - Zet/Tây Du Ký
   - Zet/Hồng Lâu Mộng
 title: Tứ đại danh tác
 UID: 210906225735

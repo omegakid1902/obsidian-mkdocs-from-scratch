@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/The Terrain Theory
   - Zet/People/Heinrich Hermann Robert Koch
   - Zet/Giải Nobel
-  - Zet/SARS-COV-2
+backlinks:
+  - Zet/SARS-CoV
   - Zet/MERS-CoV
   - Zet/People/Edward Jenner
-backlinks:
   - Zet/Đại dịch COVID-19
 title: Tóm tắt sách truyền thuyết bệnh lây nhiễm
 UID: 211016110010
@@ -71,7 +71,7 @@ publish: True
 - ![[@ Thomas S. Cowan, The Contagion Myth, Ch04#^88e99e]]
 - "Xét nghiệm dùng để chẩn đoán bệnh [[AIDS]] không bao giờ có thể xác định được nguyên nhân"
 - Xét nghiệm AIDS - [[Xét nghiệm PCR]] - tìm thấy phần tử di truyền (đoạn ADN của virus, hoặc các kháng thể ở trong) trong máu ở mức độ cao hơn
-	- theo lập luận này, nghĩa là việc test PCR để xác định [[SARS-COV-2]] là không chính xác. Nó chỉ xác định được trong mẫu xét nghiệm nhiều đoạn mã di truyền tự do!?
+	- theo lập luận này, nghĩa là việc test PCR để xác định [[SARS-CoV-2]] là không chính xác. Nó chỉ xác định được trong mẫu xét nghiệm nhiều đoạn mã di truyền tự do!?
 	- *"Nếu bạn đầu độc một sinh vật bằng bất kỳ loại độc tố nào làm suy giảm tế bào của bạn (mà hầu hết các chất độc đều vậy, bao gồm cả chất độc EMF6), thì sẽ có thể tìm thấy nhiều vật chất di truyền hơn trong máu của bạn và xét nghiệm PCR sẽ phát hiện ra điều này. Điều này có nghĩa là bạn đang bị bệnh. Điều này cũng áp dụng cho các kháng thể: bạn càng bị nhiễm độc, bạn càng có xu hướng sản xuất nhiều kháng thể để tự bảo vệ mình. Thực tế đơn giản này giải thích tại sao tất cả các xét nghiệm PCR và kháng thể, bao gồm cả xét nghiệm HIV và virus corona, có xu hướng cho thấy “tải lượng vi rút” cao hơn (không phải là vi rút mà là vật chất di truyền) và dương tính hơn ở những người bệnh nặng hơn. Nó không có nghĩa là họ bị nhiễm virus; nó có nghĩa là họ bị bệnh. Đây là lý do tại sao tờ hướng dẫn xét nghiệm PCR và kháng thể cho cả HIV và virus corona nói rằng bạn có thể bị dương tính giả nếu người đó có một trong khoảng bốn mươi điều kiện. Chúng bao gồm viêm họng liên cầu khuẩn, "nhiễm vi-rút", bệnh tự miễn, ung thư, mang thai hoặc cho con bú"*
 
 - Thuốc [[Azidothymidine - AZT]] điều trị [[AIDS]] -> AZT thực chất có nhiều độc tính.

@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Vatican
 title: Nhà nguyện Sistine
 UID: 210908194433
 created: Nov 07, 2020 11:13 PM

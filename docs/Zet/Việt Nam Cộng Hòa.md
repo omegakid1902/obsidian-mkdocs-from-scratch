@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Ngô Đình Diệm
+  - Zet/Đảo chính VNCH 1963
 backlinks:
   - Zet/Lấy chiến tranh nuôi chiến tranh
   - Zet/Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
@@ -17,5 +18,7 @@ publish: True
 
 ## Notes:
 Người lãnh đạo thời kỳ đầu - [[Đệ Nhất Cộng Hòa]]-  là [[Ngô Đình Diệm]]
+
+[[Đảo chính VNCH 1963]]
 
 ## Ideas & thoughts:

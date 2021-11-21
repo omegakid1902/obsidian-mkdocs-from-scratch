@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Qmap
 backlinks:
   - Zet/Thập Tự Chinh
+  - Zet/Vatican
   - Zet/Black nobility
   - Zet/Cải Cách Kháng Nghị
   - Zet/Vạ Tuyệt thông

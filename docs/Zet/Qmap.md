@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/QAnon
   - Zet/Lucifer
   - Zet/Satanism
+  - Zet/Vatican
   - Zet/People/Donald J. Trump
   - Zet/Khazars
   - Zet/Chiến tranh Việt Nam
@@ -12,6 +13,7 @@ outgoing_links:
   - Zet/Thuyết Ngộ Đạo
   - Zet/Tháp Mentmore
   - Zet/Chủ Nghĩa Zion
+  - Zet/New World Order
   - Zet/Black nobility
   - Zet/People/Helena Blavatsky
   - Zet/Vril
@@ -19,6 +21,7 @@ outgoing_links:
   - Zet/Janus
   - Zet/Hồi Giáo
   - Zet/People/Alberto Rivera
+  - Zet/Thư viện Nag Hammadi
   - Zet/Các cuộn sách biển Chết
   - Zet/People/John Pierpont Morgan
   - Zet/Gia tộc Rothschild

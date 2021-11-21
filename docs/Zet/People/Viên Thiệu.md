@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Nhà Hậu Hán
+  - Zet/Tam Quốc
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/People/Đổng Trác

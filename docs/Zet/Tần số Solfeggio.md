@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Các nốt nhạc được lấy theo tên của Solfeggio
 backlinks:
   - Zet/Các nốt nhạc được lấy theo tên của Solfeggio
+  - Zet/Tần số rung động
 title: Tần số Solfeggio
 UID: 211020224914
 created: 20-Oct-2021

@@ -5,6 +5,8 @@ outgoing_links:
   - Zet/God
   - Zet/People/Đức Jesus
   - Zet/Bí tích rửa tội
+backlinks:
+  - Zet/Writing/Danh sách các bài viết
 title: Sự khác biệt giữa Công giáo và Tin lành
 UID: 211121110401
 created: 21-Nov-2021

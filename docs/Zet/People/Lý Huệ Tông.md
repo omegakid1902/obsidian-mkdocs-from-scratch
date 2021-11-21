@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Lý Chiêu Hoàng
 backlinks:
+  - Zet/Trần Thủ Độ bức chết Lý Huệ Tông
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Linh Từ Quốc mẫu

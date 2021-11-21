@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/SARS-COV-2
+backlinks:
   - Zet/Virus
   - Zet/COVID-19
   - Zet/Các loại Vaccine COVID 19
@@ -37,7 +37,6 @@ outgoing_links:
   - Zet/Khoa học và các cú mị dân
   - Zet/Kênh youtube giáo dục tự do 1
   - Zet/Big Medicine
-backlinks:
   - Zet/Virus
   - Zet/Chemtrails
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
@@ -57,7 +56,7 @@ publish: True
 
 ## Các khái niệm:
 
-[[SARS-COV-2]] là tên gọi [[Virus]] gây ra đại dịch.
+[[SARS-CoV-2]] là tên gọi [[Virus]] gây ra đại dịch.
 
 [[COVID-19]] là tên gọi loại bệnh do virus SARS-COV-2 gây ra
 
@@ -93,7 +92,7 @@ publish: True
 	
 ### [[Real time PCR test]]
 - [[Kary B. Mullis]] - [[Kary B. Mullis là người phát minh ra PCR|người phát minh ra PCR]]
-- [[Real time PCR test]] không phân biệt được [[SARS-COV-2]] và các virus cảm cúm khác. Đơn giản PCR chỉ xác định trong cơ thể bạn đang có nhiều vật chất di truyền tự do, và mã di truyền giống với vi rút, và nó cũng có thể là các kháng thể do cơ thể tạo ra. Trong hội thảo [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]], Kary Mullis chỉ ra rằng PCR test thể phân biệt được đoạn mã và virus tự do. Bạn có thể tìm được bất cứ đoạn mã nào trong cơ thể của bạn.
+- [[Real time PCR test]] không phân biệt được [[SARS-CoV-2]] và các virus cảm cúm khác. Đơn giản PCR chỉ xác định trong cơ thể bạn đang có nhiều vật chất di truyền tự do, và mã di truyền giống với vi rút, và nó cũng có thể là các kháng thể do cơ thể tạo ra. Trong hội thảo [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]], Kary Mullis chỉ ra rằng PCR test thể phân biệt được đoạn mã và virus tự do. Bạn có thể tìm được bất cứ đoạn mã nào trong cơ thể của bạn.
 - Kết quả dương tính PCR tỉ lệ thuận với số vòng khuếch đại vật chất di truyền.
 	- Vậy hoàn toàn có thể dùng PCR để điều khiển đại dịch!?
 - [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]

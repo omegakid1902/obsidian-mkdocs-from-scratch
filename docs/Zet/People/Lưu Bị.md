@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Tam Quốc
   - Zet/People/Trương Phi
 backlinks:
   - Zet/Lịch sử Trung Quốc

@@ -16,13 +16,3 @@
 
 ## Summary
 
-
-## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[Peak - textbook]]
-sort file.name asc
-```

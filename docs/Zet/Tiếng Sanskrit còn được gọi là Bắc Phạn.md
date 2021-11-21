@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Tiếng Sanskrit
+backlinks:
+  - Zet/Tiếng Sanskrit
 title: Tiếng Sanskrit còn được gọi là Bắc Phạn
 UID: 210907215405
 tags:

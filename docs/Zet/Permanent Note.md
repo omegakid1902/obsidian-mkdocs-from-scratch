@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Literature Note
   - Zet/Fleeting Note
 backlinks:
+  - Zet/The Luhmann Notes
   - Zet/Zettelkasten
   - Zet/Fleeting Note
   - Zet/Literature Note

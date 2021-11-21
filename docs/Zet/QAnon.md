@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Thuyết âm mưu
   - Zet/People/Donald J. Trump
 backlinks:
   - Zet/Big Medicine

@@ -7,6 +7,7 @@ backlinks:
   - Zet/Cựu Ước
   - Zet/Kinh mân côi
   - Zet/Ngụy thư Giacobe
+  - Zet/Theotokos
   - Zet/Công Giáo
   - Zet/Năm sự vui
   - Zet/Do Thái Giáo

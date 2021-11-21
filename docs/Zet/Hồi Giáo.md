@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/Do Thái Giáo
   - Zet/God
   - Zet/Kinh Koran
+  - Zet/Thuyết âm mưu
 backlinks:
   - Zet/Người Do Thái Sephardi
   - Zet/God

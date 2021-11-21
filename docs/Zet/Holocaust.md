@@ -12,11 +12,15 @@ tags:
   - 'created/2021/Jun/19'
   - 'seed🥜'
   - 'permanent/concept'
+aliases:
+  - Shoah
 publish: True
 ---
 # Holocaust
 
 ## Notes:
 **Holocaust** là một cuộc diệt chủng lớn mà [[Đảng Quốc Xã]] Đức đã tiến hành cướp đi sinh mạng của 6 triệu người [[Người Do Thái]] vào thập niên 1930-1940
+
+**Shoah** là một tên gọi khác của [[Holocaust]]
 
 ## Ideas & thoughts:

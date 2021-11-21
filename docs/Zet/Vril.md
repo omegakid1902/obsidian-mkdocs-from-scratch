@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Thuyết âm mưu
   - Zet/Qmap
 backlinks:
   - Zet/Qmap

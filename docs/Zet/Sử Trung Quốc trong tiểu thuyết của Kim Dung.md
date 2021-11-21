@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Nhà Nguyên-Mông
+  - Zet/Nhà Đường
   - Zet/Bắc Tống
   - Zet/Nhà Thanh
   - Zet/Tuyết sơn phi hồ

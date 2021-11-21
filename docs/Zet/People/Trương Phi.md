@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Tam Quốc
 backlinks:
   - Zet/Ngũ hổ tướng
   - Zet/People/Lưu Bị

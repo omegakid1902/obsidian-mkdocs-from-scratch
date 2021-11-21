@@ -23,6 +23,7 @@ publish: True
 Luân xa, hay Chakra, là những trung tâm năng lượng, khí huyết trong con người.
 
 [[Cơ thể con người có 7 luân xa]]
+
 - [[Luân xa gốc]]
 - [[Luân xa xương cùng]]
 - [[Luân xa rốn]]

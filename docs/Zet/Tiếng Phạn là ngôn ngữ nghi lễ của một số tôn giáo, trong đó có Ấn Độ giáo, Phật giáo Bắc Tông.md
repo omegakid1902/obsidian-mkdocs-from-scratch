@@ -1,6 +1,9 @@
 ---
 outgoing_links:
+  - Zet/Tiếng Sanskrit
   - Zet/Ấn Độ giáo
+backlinks:
+  - Zet/Tiếng Sanskrit
 title: Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
 UID: 210907215648
 tags:

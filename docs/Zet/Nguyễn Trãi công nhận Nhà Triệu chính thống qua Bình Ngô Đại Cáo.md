@@ -1,9 +1,11 @@
 ---
 outgoing_links:
+  - Zet/Nhà Triệu
   - Zet/Nam Việt
   - Zet/People/Nguyễn Trãi
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
   - Zet/Nhà Đinh
+  - Zet/Nhà Đường
   - Zet/Nhà Lý
   - Zet/Nhà Tống
   - Zet/Nhà Trần

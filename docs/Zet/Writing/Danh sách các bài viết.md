@@ -9,6 +9,7 @@ outgoing_links:
   - Zet/Writing/Tóm tắt sách - How to take smart notes
   - Zet/Thinking/Tóm tắt sách Sáng Thế
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Danh sách các bài viết
 UID: 211120161539
 created: 20-Nov-2021
@@ -30,3 +31,4 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Tóm tắt sách - How to take smart notes]]
 - [[Tóm tắt sách Sáng Thế]]
 - [[❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người]]
+- [[Sự khác biệt giữa Công giáo và Tin lành]]

@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Đinh Bộ Lĩnh
   - Zet/People/Nguyễn Bặc
+  - Zet/Nhà Tiền Lê
   - Zet/Vụ án Lệ Chi Viên
 title: Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít người tưởng nhớ
 UID: 2107142114

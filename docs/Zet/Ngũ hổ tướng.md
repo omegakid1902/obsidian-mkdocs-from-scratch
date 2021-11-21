@@ -15,6 +15,7 @@ publish: True
 
 ## Notes:
 Ngũ hổ tướng là tên gọi hư cấu dùng để chỉ 5 vị tướng nổi tiếng dưới thời [[Thục Hán]]:
+
 - [[Quan Vũ]]
 - [[Trương Phi]]
 - [[Triệu Vân]]

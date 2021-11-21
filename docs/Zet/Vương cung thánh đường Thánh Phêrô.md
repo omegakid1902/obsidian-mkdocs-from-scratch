@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Vatican
 backlinks:
   - Zet/Đại vương cung thánh đường
 title: Vương cung thánh đường Thánh Phêrô

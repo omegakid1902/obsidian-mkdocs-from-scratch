@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
+  - Zet/Nhà Triệu
   - Zet/Lịch Sử Việt Nam
   - Zet/Văn Lang
   - Zet/Âu Lạc

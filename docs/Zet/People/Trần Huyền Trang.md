@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Nhà Đường
+  - Zet/Tiếng Sanskrit
+backlinks:
+  - Zet/Tây Du Ký
 title: Trần Huyền Trang
 UID: 210906230319
 tags:

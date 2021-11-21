@@ -9,9 +9,8 @@ outgoing_links:
   - Zet/Người Aryan
   - Zet/People/Bill Gates
   - Zet/Vaccine
-  - Zet/SARS-COV-2
-  - Zet/People/Theodore Roosevelt
 backlinks:
+  - Zet/People/Theodore Roosevelt
   - Zet/Qmap
   - Zet/Các kênh thông tin trái chiều
   - Zet/Đại dịch COVID-19
@@ -45,7 +44,7 @@ Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa tr�
 - Dựa trên [[Thuyết tiến hóa]] của [[Charles Darwin]], người ta mới cho rằng sẽ cải thiện gen của loài người bằng việc loại bỏ những gen xấu, thông qua việc triệt sản, diệt chủng những giống người bị xem là hạ đẳng
 - [[Adolf Hitler]] và quan điểm [[Người Aryan]] thượng đẳng
 - [[Bill Gates]] thuộc nhóm người ủng hộ thuyết ưu sinh!?
-	- Các vấn đề [[Vaccine]] [[SARS-COV-2]]
+	- Các vấn đề [[Vaccine]] [[SARS-CoV-2]]
 - Một số nhân vật liên quan tới thuyết ưu sinh: [^1]
 	- [[Winston Churchill]]
 	- [[Theodore Roosevelt]]

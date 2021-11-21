@@ -10,6 +10,7 @@ backlinks:
   - Zet/Tên gọi Kháng Nghị và Tin Lành
   - Zet/God
   - Zet/Cơ Đốc Giáo
+  - Zet/Cộng Đoàn Taize
   - Zet/Religion
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Tin Lành
@@ -33,4 +34,3 @@ Tin Lành chỉ công nhận hai bí tích được [[Đức Jesus|Chúa Jesus]]
 - [[Bí tích rửa tội]]
 - [[Bí tích thánh thể]]
 
-## Ref:

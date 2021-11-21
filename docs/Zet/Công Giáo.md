@@ -10,22 +10,30 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Dòng Tên
 backlinks:
+  - Zet/Vatican
+  - Zet/The Quaker
   - Zet/Phong trào Tinh Lành
   - Zet/Bí tích rửa tội
   - Zet/God
+  - Zet/Phong trào Phản Cải cách
   - Zet/Cải Cách Kháng Nghị
   - Zet/Cơ Đốc Giáo
   - Zet/Vạ Tuyệt thông
   - Zet/Hồi Giáo
   - Zet/Tổng lãnh vương cung thánh đường
   - Zet/Chúa Giáng Sinh
+  - Zet/Mennonite
+  - Zet/Cộng Đoàn Taize
   - Zet/Hang đá Giáng Sinh
   - Zet/Religion
   - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Chính thống giáo Đông Phương
+  - Zet/Dòng Tên
   - Zet/Đại ly giáo Đông Tây
+  - Zet/People/Pope Damasus I
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Thánh Jerome
+  - Zet/People/Thomas More
   - Zet/People/Ngô Đình Thục
   - Zet/People/Alberto Rivera
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành

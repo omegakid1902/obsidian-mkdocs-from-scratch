@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Literature Note
   - Zet/People/Niklas Luhmann
 backlinks:
+  - Zet/The Luhmann Notes
   - Zet/Permanent Note
   - Zet/Zettelkasten
   - Zet/Literature Note

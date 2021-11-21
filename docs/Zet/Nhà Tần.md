@@ -35,4 +35,3 @@ Tiền thân là [[Nhà Chu]], kế tục là [[Nhà Hán]], [[Nam Việt]] và 
 - [ ] Nhà Tần là một thế lực mạnh nhờ cải cách của [[Thương Ưởng]]
 - [ ] [[Thương Ưởng]] gốc từ họ Cơ con cháu của [[Cơ Xương]]. Cơ tức là là họ của [[Cơ Xương]], [[Chu Vũ Vương|Cơ Phát]]
 
-## Related:

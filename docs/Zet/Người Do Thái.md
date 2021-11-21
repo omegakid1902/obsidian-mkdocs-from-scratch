@@ -16,6 +16,7 @@ backlinks:
   - Zet/Holocaust
   - Zet/Người Hebrew
   - Zet/Người Do Thái Ethiopia
+  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
   - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
   - Zet/Do Thái Giáo
   - Zet/Eugenics

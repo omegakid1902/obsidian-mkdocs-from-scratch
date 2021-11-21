@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Người Do Thái
   - Zet/Khazaria
   - Zet/Qmap
+  - Zet/Thuyết âm mưu
   - Zet/Khazarian Mafia
   - Zet/Gia tộc Rothschild
   - Zet/Chủ Nghĩa Zion
@@ -12,6 +13,7 @@ backlinks:
   - Zet/Khazaria
   - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Do Thái Edomite
+  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
   - Zet/Qmap
   - Zet/Khazars tự nhận mình là do thái Ashkenazi
 title: Khazars

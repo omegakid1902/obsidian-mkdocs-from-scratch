@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Nhà Hậu Hán
+  - Zet/Tam Quốc
   - Zet/People/Viên Thiệu
 backlinks:
   - Zet/Xích Thố

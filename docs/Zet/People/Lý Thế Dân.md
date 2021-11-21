@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Nhà Đường
 backlinks:
   - Zet/Lịch sử Trung Quốc
   - Zet/People/Võ Tắc Thiên

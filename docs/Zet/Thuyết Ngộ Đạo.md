@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/Qmap
+  - Zet/Thư viện Nag Hammadi
   - Zet/People/Plato
 title: Thuyết Ngộ Đạo
 UID: 211025215130

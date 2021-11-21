@@ -5,6 +5,7 @@ backlinks:
   - Zet/Triệu Đà truyền ngôi cho con của Trọng Thủy
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Nhà Tần
+  - Zet/Nhà Triệu
 title: Nam Việt
 UID: 210724-1049
 tags:
@@ -19,6 +20,3 @@ publish: True
 Nam Việt (203 TCN -111 TCN) cai trị bởi [[Triệu Đà]], là một nước thuộc vùng phía nam lãnh thổ [[Trung Quốc]] và phía bắc Việt Nam.
 
 ## Ideas & thoughts:
-
-## Questions:
-

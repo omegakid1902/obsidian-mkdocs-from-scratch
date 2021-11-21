@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Nhà Triệu
   - Zet/Nhà Tần
   - Zet/Âu Lạc
   - Zet/An Dương Vương

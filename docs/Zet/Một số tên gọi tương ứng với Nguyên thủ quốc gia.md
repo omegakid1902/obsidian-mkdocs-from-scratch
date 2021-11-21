@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Đức Giáo Hoàng
+  - Zet/Vatican
 title: Một số tên gọi tương ứng với Nguyên thủ quốc gia
 UID: 2107171409
 created: 20-Nov-2021

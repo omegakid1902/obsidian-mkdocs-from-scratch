@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Nhà Hạ
   - Zet/Nhà Thương
   - Zet/Nhà Chu
+  - Zet/Nhà Đường
   - Zet/Nhà Võ Chu
   - Zet/Nhà Tống
   - Zet/Nhà Nguyên-Mông

@@ -23,7 +23,5 @@ Có 2 quan điểm xoay quanh nước [[Nam Việt]] của Triệu Đà:
 
 ## Ideas & thoughts:
 
-## Questions:
-
 ## Source:
 - [[@ wiki, Lịch sử Việt Nam]]

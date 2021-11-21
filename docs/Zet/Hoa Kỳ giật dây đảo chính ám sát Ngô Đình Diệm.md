@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Ngô Đình Diệm
   - Zet/Việt Nam Cộng Hòa
+  - Zet/Đảo chính VNCH 1963
 title: Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
 UID: 2107182231
 tags:

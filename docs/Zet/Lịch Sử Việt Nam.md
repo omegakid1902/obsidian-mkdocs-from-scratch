@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Âu Lạc
   - Zet/Nhà Ngô
   - Zet/Nhà Đinh
+  - Zet/Nhà Tiền Lê
   - Zet/Nhà Lý
   - Zet/Nhà Trần
   - Zet/Nhà Hậu Lê

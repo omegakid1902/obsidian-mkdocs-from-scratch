@@ -1,10 +1,9 @@
 ---
 outgoing_links:
-  - Zet/SARS-COV-2
+backlinks:
   - Zet/Virus
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Đại dịch COVID-19
-backlinks:
   - Zet/The Terrain Theory
   - Zet/Vaccination
   - Zet/CDC
@@ -27,7 +26,7 @@ publish: True
 # COVID 19
 
 ## Notes
-COVID 19 (hay 2019-nCoV) là tên gọi của bệnh viêm đường hô hấp do chủng virus [[SARS-COV-2]] gây ra ở người.
+COVID 19 (hay 2019-nCoV) là tên gọi của bệnh viêm đường hô hấp do chủng virus [[SARS-CoV-2]] gây ra ở người.
 
 ## Ideas & thoughts:
 - [[Virus]] và [[Vi khuẩn]]: [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]

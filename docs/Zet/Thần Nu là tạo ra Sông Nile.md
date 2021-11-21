@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Thần Nu
+  - Zet/Sông Nile
 backlinks:
   - Zet/Thần Nu
 title: Thần Nu là tạo ra Sông Nile

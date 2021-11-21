@@ -6,6 +6,7 @@ backlinks:
   - Zet/Zettelkasten
   - Zet/Reference Manager
   - Zet/Fleeting Note
+  - Zet/Hub note
   - Zet/Literature Note
 title: Niklas Luhmann
 created: Oct 21, 2020 9:30 PM

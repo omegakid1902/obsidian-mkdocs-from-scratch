@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Pope Gregory XIII
+  - Zet/Thuyết âm mưu
 backlinks:
   - Zet/People/Pope Gregory XIII
 title: Lịch Gregorian

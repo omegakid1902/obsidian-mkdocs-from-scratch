@@ -34,7 +34,7 @@ Tiểu dẫn:  Bài này có một phần được dịch từ trang nhà của 
 ### Quote 4
 > Trong riêng Tarot, 5 hình mẫu này đại diện cho các lá bài, mỗi lá bài có thể chứa đồng thời, hay duy nhất một hình mẫu. Ví dụ: lá The Sun thể hiện The Seft, lá The Devil thể hiện The Shadow, lá High Priestess thể hiện The Anima, lá The Fool hay The World thể hiện The Senex... Một phần quà bất ngờ cho ai nói đúng được cả 78 lá bài.
 
-Các lá [[Bài Tarot]] thể hiện các [[Jungian Archetypes - Nguyên mẫu của Jung|Nguyên mẫu của Jung]]
+Các lá [[Bài Tarot]] thể hiện các [[Nguyên mẫu của Jung|Nguyên mẫu của Jung]]
 
 ### Quote 5
 > 

@@ -13,6 +13,7 @@ publish: True
 
 ## Notes:
 Giao Châu thất hùng là danh sách 7 vị anh hùng người [[Giao Châu]] được nhắc đến trong [[Việt sử tân biên]], danh sách này bao gồm:
+
 - [[Đinh Bộ Lĩnh]]
 - [[Đinh Liễn]]
 - [[Lê Hoàn]]

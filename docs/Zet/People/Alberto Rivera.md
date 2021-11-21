@@ -1,7 +1,9 @@
 ---
 outgoing_links:
   - Zet/Công Giáo
+  - Zet/Thuyết âm mưu
   - Zet/Cơ Đốc Giáo
+  - Zet/Vatican
   - Zet/Hồi Giáo
 backlinks:
   - Zet/Qmap

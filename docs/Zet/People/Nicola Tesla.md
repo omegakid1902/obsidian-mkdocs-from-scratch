@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Tháp Wardenclyffe
   - Zet/People/John Pierpont Morgan
 backlinks:
+  - Zet/Tần số rung động
   - Zet/Tần số Solfeggio
   - Zet/NESARA
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim

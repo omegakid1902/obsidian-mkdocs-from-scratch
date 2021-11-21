@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Zettelkasten
   - Zet/Obsidian
 backlinks:
+  - Zet/Hub note
   - Zet/Writing/Danh sách các bài viết
 title: LYT Framework
 UID: 211120162122

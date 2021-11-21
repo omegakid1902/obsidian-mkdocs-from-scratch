@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Sông Nile
 backlinks:
   - Zet/Nữ thần Nut
   - Zet/Nữ thần Tefnut
