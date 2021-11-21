@@ -2,7 +2,9 @@
 outgoing_links:
   - Zet/People/Jacob
   - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
 backlinks:
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/Israel có 12 chi tộc
   - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
   - Zet/People/Vua David
@@ -21,6 +23,8 @@ publish: True
 Judah là con trai cả của [[Jacob]].
 
 [[Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi]]
+
+[[Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah]]
 
 ## Ideas & thoughts:
 - [[💥 Từ Jew để chỉ chi tộc Judah]]

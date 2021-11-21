@@ -2,6 +2,8 @@
 outgoing_links:
   - Zet/Chi tộc Judah
   - Zet/Ngôi sao David
+backlinks:
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
 title: Vua David
 created: Jun 21, 2021 10:35 PM
 tags:

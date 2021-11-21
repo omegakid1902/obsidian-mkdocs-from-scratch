@@ -43,6 +43,7 @@ Các bộ lạc bao gồm: (Xem thêm [[Gen-46]])
 - [[Chi tộc Levi]] sống rải rác không được chia đất riêng. [[Chi tộc Levi không có đất]]
 - [[Mormon giáo có nguồn gốc từ chi tộc Joseph]]
 
+![[Pasted image 20211121155118.png]]
 
 ## Ideas & thoughts:
 - [[💥 Từ Jew để chỉ chi tộc Judah]]

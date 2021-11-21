@@ -1,9 +1,11 @@
 ---
 outgoing_links:
   - Zet/God
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/Chúa Giáng Sinh
   - Zet/Lễ Giáng Sinh
 backlinks:
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/Cựu Ước
   - Zet/Kinh mân côi
   - Zet/Ngụy thư Giacobe
@@ -37,6 +39,8 @@ publish: True
 Đức Jesus, Chúa Jesus, là con [[God|Thiên Chúa]] xuống thế làm người, hạ sinh bởi [[Đức Maria]], chịu đóng đinh trên [[Thập giá]] để cứu chuộc nhân loại.
 
 ![[Pasted image 20211028232026.png|300]]
+
+[[Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah]]
 
 ## Ideas & thoughts:
 - [[Đức Maria]]

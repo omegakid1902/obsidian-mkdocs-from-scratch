@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Gabriel có nghĩa là người của Thiên Chúa
   - Zet/Lễ kính thiên thần Gabriel là 24 tháng 3
 backlinks:
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/Lễ kính thiên thần Gabriel là 24 tháng 3
   - Zet/Gabriel có nghĩa là người của Thiên Chúa
   - Zet/Thiên thần Micael

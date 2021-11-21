@@ -1,11 +1,11 @@
 ---
 outgoing_links:
+  - Zet/Hồi Giáo
+  - Zet/Do Thái Giáo
   - Zet/Công Giáo
   - Zet/Anh giáo
   - Zet/Chính thống giáo Đông Phương
   - Zet/Tin Lành
-  - Zet/Hồi Giáo
-  - Zet/Do Thái Giáo
   - Zet/Phật Giáo
   - Zet/Ấn Độ giáo
 backlinks:
@@ -26,15 +26,20 @@ publish: True
 # Tôn giáo
 
 ## Thiên Chúa Giáo
+
+![[Pasted image 20211121155118.png]]
+
+### Khởi nguồn từ Abraham
+- [[Hồi Giáo]]
+- [[Do Thái Giáo]]
+
 ### Nhánh Kito giáo
 - [[Công Giáo]]
 - [[Anh giáo]]
 - [[Chính thống giáo Đông Phương]]
 - [[Tin Lành]]
 
-### Khởi nguồn từ Abraham
-- [[Hồi Giáo]]
-- [[Do Thái Giáo]]
+
 
 ## Tôn giáo khác
 - [[Phật Giáo]]

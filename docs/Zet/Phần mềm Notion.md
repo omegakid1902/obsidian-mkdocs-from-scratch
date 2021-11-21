@@ -2,9 +2,8 @@
 outgoing_links:
   - Zet/Backlink
   - Zet/Zettelkasten
-  - Zet/Backlink Graph View
-  - Zet/Obsidian
 backlinks:
+  - Zet/Obsidian
   - Zet/Personal Knowledge Management
   - Zet/Zettelkasten
 title: Notion
@@ -25,7 +24,7 @@ Mình đã chuyển toàn bộ ghi chú từ [[Evernote]] qua Notion, va�
 
 Tuy nhiên, cách tổ chức cơ sở dữ liệu đôi khi sẽ làm bạn rối loạn. Notion đặc biệt hữu ích cho ai muốn ghi chú, nhật ký, quản lý công việc cá nhân. Nếu bạn là người có khả năng lập trình hoặc chuyên các công cụ exel thì bạn nên khám phá và sử dụng Notion.
 
-Mình từng sử dụng Notion để triển khai phương pháp ghi chú [[Zettelkasten]], tuy nhiên có một điều bất tiện là nó không có [[Backlink Graph View]] và khi liên kết ghi chú thì hơi lâu xíu so với [[Obsidian]]. Một khi tốc độ tạo liên kết ghi chú mới nhanh hơn nhiều so với tốc độ đợi hiển thị gợi ý liên kết của Notion thì đó quả là một vấn đề lớn.
+Mình từng sử dụng Notion để triển khai phương pháp ghi chú [[Zettelkasten]], tuy nhiên có một điều bất tiện là nó không có [[Backlink graph view]] và khi liên kết ghi chú thì hơi lâu xíu so với [[Obsidian]]. Một khi tốc độ tạo liên kết ghi chú mới nhanh hơn nhiều so với tốc độ đợi hiển thị gợi ý liên kết của Notion thì đó quả là một vấn đề lớn.
 
 Sau một thời gian sử dụng song song [[Phần mềm Notion]] và [[Obsidian]] để ghi chú theo [[Zettelkasten]], mình đã chuyển hẳn sang [[Obsidian]]. [[Obsidian được xây dựng dành riêng cho Zettelkasten]], vì thế Obsidian tối ưu cho Zettelkasten và cộng đồng của Obsidian chính là cộng đồng Zettelkasten. Notion thì không phải vậy.
 

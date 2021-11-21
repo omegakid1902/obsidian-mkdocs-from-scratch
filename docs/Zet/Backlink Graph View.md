@@ -4,8 +4,6 @@ outgoing_links:
   - Zet/Obsidian
   - Zet/Backlink
   - Zet/D3js
-backlinks:
-  - Zet/Phần mềm Notion
 title: Backlink graph view
 created: Oct 21, 2020 10:07 PM 
 tags:

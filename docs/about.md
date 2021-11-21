@@ -16,7 +16,7 @@ Dưới đây là một đặc trưng của phương pháp [[Zettelkasten]]
 
 ![[Pasted image 20211107182048.png]]
 
-Mỗi trang ghi chú đều bao gồm nội dung, và phần metadata ở cuối trang bao gồm các Tags để phân loại ghi chú. Các [[Backlink]] được hiện thực hóa bằng box `Mentioned in` và bên phải là [[Backlink graph View]], lấy ý tưởng từ [[Obsidian Publish]]. Trang web này mình tham khảo rất nhiều từ một repo mang tên là [bluebook](https://github.com/lyz-code/blue-book). 
+Mỗi trang ghi chú đều bao gồm nội dung, và phần metadata ở cuối trang bao gồm các Tags để phân loại ghi chú. Các [[Backlink]] được hiện thực hóa bằng box `Mentioned in` và bên phải là [[Backlink graph view]], lấy ý tưởng từ [[Obsidian Publish]]. Trang web này mình tham khảo rất nhiều từ một repo mang tên là [bluebook](https://github.com/lyz-code/blue-book). 
 
 - Khoảng tháng 9-10/2020, sau khi đọc được quyển [[@ Barbara Oakley, Learn how to learn]] và [[@ Sönke Ahrens, How to take smart notes]], mình biết đến phương pháp ghi chú [[Zettelkasten]] và [[Obsidian]], mục đích chủ yếu để tìm được ánh sáng trước nỗi vô định của cuộc sống tạo ra và bồi đắp tri thức để giải đáp nhiều băn khoăn nảy sinh trong quá trình. Thời gian này, mình chỉ có ý định lưu trữ và tham khảo cá nhân. 
 
