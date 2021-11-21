@@ -4,7 +4,7 @@ outgoing_links:
   - Zet/Khazars
   - Zet/Gia tộc Rothschild
 backlinks:
-  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
 UID: 211030145718
 created: 30-Oct-2021

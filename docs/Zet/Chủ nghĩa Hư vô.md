@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/People/Albert Camus
+  - Zet/Writing/So sánh giữa Existentialism và Nihilism
   - Zet/Thinking/❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh
 title: Chủ nghĩa Hư vô
 UID: 210831220447

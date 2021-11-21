@@ -12,11 +12,3 @@ publish: True
 Scandinavie là một bán đảo nằm ở phía bắc Châu Âu. Diện tích Scandinavie là 800 nghìn km2. Diện tích của bán đảo thuộc ba nước Na Uy, Thụy Điển và Phần Lan.
 
 ## Questions & thoughts:
-
-
-## Related:
-```dataview
-list
-from [[Bán đảo Scandinavie]]
-sort file.name asc
-```

@@ -2,7 +2,7 @@
 outgoing_links:
   - Zet/God
   - Zet/People/Đức Jesus
-  - Zet/Writing/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/Tóm tắt sách Sáng Thế
 backlinks:
   - Zet/Người Do Thái
   - Zet/Công Giáo

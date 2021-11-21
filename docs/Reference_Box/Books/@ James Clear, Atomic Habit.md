@@ -1,10 +1,11 @@
+---
+title: '@ James Clear, Atomic Habit'
+UID: 2108112028
+tags:
+  - 'created/2021/Aug/11'
+  - 'source/book'
+---
 # @ James Clear, Atomic Habit
-
-
-- metadata
-	- UID: L-210811-2028
-	- tags: #created/2021/Aug/11, #literature-notes 
-	- source: 
 
 ## Summary
 
@@ -13,10 +14,3 @@
 - [ ] [[Qui luật của Goodhart]] 
 - [ ] [[Nguyên-tắc-Cardinal]] 
 - [ ] [[Thoreau New Economics]]
-
-## Related:
-```dataview
-list
-from [[@ James Clear, Atomic Habit]]
-sort file.name asc
-```

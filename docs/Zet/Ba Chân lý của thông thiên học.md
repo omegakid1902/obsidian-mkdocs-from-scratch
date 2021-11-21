@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Thông thiên học
+  - Zet/Thinking/❕ Ý nghĩa cuộc sống
   - Zet/Khủng hoảng hiện sinh
 title: Ba Chân lý của thông thiên học
 UID: 211026235444

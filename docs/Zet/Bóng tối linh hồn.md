@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/People/Thánh Gioan Thánh giá
   - Zet/People/Teresa of Avila
   - Zet/People/Eckhart Tolle
+  - Zet/Thinking/❕ Ý nghĩa cuộc sống
 backlinks:
   - Zet/Thức tỉnh tâm linh
   - Zet/Khủng hoảng hiện sinh

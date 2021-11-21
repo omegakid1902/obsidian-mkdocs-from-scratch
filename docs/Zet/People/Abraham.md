@@ -10,7 +10,7 @@ backlinks:
   - Zet/Do Thái Giáo
   - Zet/Khazarian Mafia
   - Zet/People/Ishmael
-  - Zet/Writing/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: Abraham
 UID: 211111235421
 tags:

@@ -47,5 +47,7 @@ Bộ chín vĩ đại của Heliopolis bao gồm:
 - [[Thần Seth]]
 - [[Thần Nephythys]]
 
+![[Zet/Images/Bộ chín vĩ đại của Heliopolis_2021-11-21 08.20.37.excalidraw.md]]
+
 ## Ideas & thoughts:
 - [[Geb và Nut là hai anh em song sinh]]

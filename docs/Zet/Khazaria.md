@@ -1,12 +1,12 @@
 ---
 outgoing_links:
   - Zet/Khazars
-  - Zet/❕ Khazarian là vùng đất giữa biển Đen và biển Caspian
+  - Zet/Khazarian là vùng đất giữa biển Đen và biển Caspian
 backlinks:
-  - Zet/❕ Khazarian là vùng đất giữa biển Đen và biển Caspian
   - Zet/Khazars
   - Zet/Khazarian Mafia
-  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Khazarian là vùng đất giữa biển Đen và biển Caspian
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Khazaria
 UID: 211030141845
 created: 30-Oct-2021
@@ -23,7 +23,7 @@ publish: True
 
 Khazarian là vương quốc của người [[Khazars]].
 
-[[❕ Khazarian là vùng đất giữa biển Đen và biển Caspian]]
+[[Khazarian là vùng đất giữa biển Đen và biển Caspian]]
 
 ## Ideas & thoughts:
 

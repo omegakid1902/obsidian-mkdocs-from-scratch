@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Ngô Đình Diệm
   - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
 backlinks:
+  - Zet/Ngô Đình Thục từng bị phạt vạ tuyệt thông
   - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
 title: Ngô Đình Thục
 created: Dec 09, 2020 5:24 AM

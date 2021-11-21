@@ -6,6 +6,8 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Anabaptist
 backlinks:
+  - Zet/Tên gọi Kháng Nghị và Tin Lành
+  - Zet/Phong trào Tinh Lành
   - Zet/Tin Lành
   - Zet/People/Martin Luther
 title: Cải Cách Kháng Nghị

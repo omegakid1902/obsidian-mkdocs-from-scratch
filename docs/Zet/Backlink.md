@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/Backlink Graph View
+  - Zet/Phần mềm Notion
   - Zet/Obsidian
 publish: True
 ---

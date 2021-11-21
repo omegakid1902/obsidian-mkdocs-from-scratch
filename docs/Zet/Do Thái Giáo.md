@@ -12,7 +12,7 @@ outgoing_links:
   - Zet/Xung đột Israel - Palestine
   - Zet/People/Đức Jesus
   - Zet/Cơ Đốc Giáo
-  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 backlinks:
   - Zet/Torah
   - Zet/Giáo phái Essenes

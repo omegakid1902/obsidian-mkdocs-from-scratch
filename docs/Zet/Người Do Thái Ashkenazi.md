@@ -11,7 +11,7 @@ backlinks:
   - Zet/Lịch Sử Do Thái
   - Zet/Khazars tự nhận mình là do thái Ashkenazi
   - Zet/People/Theodor Herzl
-  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Người Do Thái Ashkenazi
 created: Jun 19, 2021 7:14 AM
 tags:

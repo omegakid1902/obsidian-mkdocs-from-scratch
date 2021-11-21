@@ -4,7 +4,7 @@ outgoing_links:
   - Zet/Qmap
   - Zet/Gia tộc Rothschild
   - Zet/Khazars
-  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 backlinks:
   - Zet/Xung đột Israel - Palestine
   - Zet/Khazars
@@ -13,7 +13,7 @@ backlinks:
   - Zet/Lịch Sử Do Thái
   - Zet/Qmap
   - Zet/People/Theodor Herzl
-  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Chủ Nghĩa Zion
 created: Jun 18, 2021 10:34 PM
 tags:

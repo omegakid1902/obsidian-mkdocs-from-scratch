@@ -28,6 +28,7 @@ backlinks:
   - Zet/People/Henry Alfred Kissinger
   - Zet/People/Adolf Hitler
   - Zet/People/Baruch Spinoza
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
   - Zet/Writing/Tiểu sử tiên tri Moses
 title: Người Do Thái
 created: Jun 19, 2021 9:05 PM

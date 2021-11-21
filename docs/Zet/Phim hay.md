@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Thinking/❕ Ý nghĩa cuộc sống
   - Zet/Garden state
 title: Phim hay
 UID: 210901221242

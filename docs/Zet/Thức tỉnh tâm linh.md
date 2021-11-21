@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Thánh Gioan Thánh giá
   - Zet/Bóng tối linh hồn
   - Zet/Khủng hoảng hiện sinh
+  - Zet/Thinking/❕ Ý nghĩa cuộc sống
   - Zet/Rat race
 backlinks:
   - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh

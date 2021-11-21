@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/Torah
 backlinks:
   - Zet/Do Thái Giáo
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Xung đột Israel - Palestine
 UID: 211109223316
 created: 09-Nov-2021

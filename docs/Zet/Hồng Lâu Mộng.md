@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/Nhà Thanh
+backlinks:
+  - Zet/Tứ đại danh tác
 title: Hồng Lâu Mộng
 UID: 210906224835
 tags:

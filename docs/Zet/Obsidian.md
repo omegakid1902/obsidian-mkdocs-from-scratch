@@ -3,7 +3,10 @@ outgoing_links:
   - Zet/Markdown Language
   - Zet/Backlink
 backlinks:
+  - Zet/LYT framework
   - Zet/Backlink Graph View
+  - Zet/Phần mềm Notion
+  - Zet/Zettelkasten
   - Zet/Obsidian Publish
 title: Obsidian
 UID: 211107211929

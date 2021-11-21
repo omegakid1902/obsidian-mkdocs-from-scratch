@@ -11,7 +11,9 @@ backlinks:
   - Zet/Cựu Ước
   - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
   - Zet/Gabriel có nghĩa là người của Thiên Chúa
+  - Zet/cosmos
   - Zet/Người Do Thái
+  - Zet/Vạ Tuyệt thông
   - Zet/Hồi Giáo
   - Zet/Gioan Thánh giá gọi Chúa là nada
   - Zet/Thiên thần Micael
@@ -25,7 +27,7 @@ backlinks:
   - Zet/People/Thánh Justino
   - Zet/People/Thánh Phaolo
   - Zet/People/Đức Jesus
-  - Zet/Writing/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: God
 UID: 211107214433
 created: 07-Nov-2021

@@ -4,7 +4,7 @@ outgoing_links:
   - Zet/Israel có 12 chi tộc
 backlinks:
   - Zet/Người Do Thái Ashkenazi
-  - Zet/Thinking/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
 UID: 211029234855
 created: 29-Oct-2021

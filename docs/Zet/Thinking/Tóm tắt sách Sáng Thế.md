@@ -22,15 +22,15 @@ publish: True
 # Tóm tắt sách Sáng Thế
 
 ## Notes:
-Mở đầu cựu ước là sách [[Genesis|Sáng Thế]], [[God]] tạo dựng trời đất cỏ cây trong bảy ngày.
+Mở đầu cựu ước là sách [[Genesis|Sáng Thế]], [[God|Thiên Chúa]] tạo dựng trời đất cỏ cây trong sáu ngày.
 
-Sau đó Thiên Chúa tạo dựng [[Adam và Eva]] và [[Eva]] theo hình ảnh người để sống trong đó. Thiên Chúa cho Adam và Eva tự do làm mọi việc trong vung đất gọi là [[Vườn địa đàng]]. Tuy nhiên, chỉ có một thứ mà hai ông bà không được làm đó là ăn trái cây biết mọi sự, hay còn gọi là [[Trái cấm]]. 
+Sau đó Thiên Chúa tạo dựng [[Adam và Eva]] theo hình ảnh người để sống trong đó. Thiên Chúa cho Adam và Eva tự do làm mọi việc trong vung đất gọi là [[Vườn địa đàng]]. Tuy nhiên, chỉ có một thứ mà hai ông bà không được làm đó là ăn trái cây biết mọi sự, hay còn gọi là [[Trái cấm]]. #task/todo 
 
-Rồi một ngày, con rắn cám dỗ [[Eva]] ăn trái cây đó. Bà cũng rủ cả [[Adam và Eva]] ăn. Khi ăn xong, hai ông bà liền biết mình trần truồng. [[Gen-03#v1|Sáng thế 3, 1]]
+Rồi một ngày, con rắn cám dỗ [[Adam và Eva|Eva]] ăn trái cây đó. Bà cũng rủ cả [[Adam và Eva|Adam]] ăn. Khi ăn xong, hai ông bà liền biết mình trần truồng. [[Gen-03#v1|Sáng thế 3, 1]]
 
 Thiên Chúa đặt thiên thần cầm gươm lửa canh gác phía đông [[Vườn địa đàng]] để con người không lại gần [[Cây sự sống]] đó [[Gen-03#v24|Sáng thế 3, 24]]
 
-Thiên Chúa biết hai ông bà không vâng lời Ngài và đã trừng phạt. Ngài đuổi hai ông bà ra khỏi [[Vườn địa đàng]]. Riêng [[Eva]] phải chịu mang nặng đẻ đau chín tháng 10 ngày. [[Gen-03#v15|Sáng thế 3, 15-16]] 
+Thiên Chúa biết hai ông bà không vâng lời Ngài và đã trừng phạt. Ngài đuổi hai ông bà ra khỏi [[Vườn địa đàng]]. Riêng [[Adam và Eva|Eva]] phải chịu mang nặng đẻ đau chín tháng 10 ngày. [[Gen-03#v15|Sáng thế 3, 15-16]] 
 
 Adam và Eva sinh được 2 người con là [[Cain]] và [[Abel]].
 [[Cain là anh Abel]]. [[Cain làm nghề trồng trọt]]. [[Abel làm nghề chăn nuôi súc vật]]. [[Gen-04#v2|Sáng thế 4, 2]] 

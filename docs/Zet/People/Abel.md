@@ -5,7 +5,7 @@ outgoing_links:
 backlinks:
   - Zet/Cain sinh lòng đố kị và ghen ghét Abel
   - Zet/People/Adam và Eva
-  - Zet/Writing/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: Abel
 tags:
   - 'created/2021/Aug/14'

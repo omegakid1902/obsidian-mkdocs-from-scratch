@@ -6,7 +6,9 @@ backlinks:
   - Zet/Thập Tự Chinh
   - Zet/Black nobility
   - Zet/Cải Cách Kháng Nghị
+  - Zet/Vạ Tuyệt thông
   - Zet/Công Giáo
+  - Zet/Một số tên gọi tương ứng với Nguyên thủ quốc gia
   - Zet/Chính thống giáo Đông Phương
   - Zet/Qmap
   - Zet/Hiệp sĩ Đền Thánh

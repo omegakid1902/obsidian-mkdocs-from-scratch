@@ -42,6 +42,7 @@ publish: True
 	- [Louis Pasteur – Bách khoa Toàn thư Việt Nam (bktt.vn)](https://bktt.vn/Louis_Pasteur)
 	- [Louis Pasteur và thuyết mầm bệnh: 'Cứu tinh' của hàng triệu người, nhờ đâu ông có thể làm được việc đó? - DKN News](https://www.dkn.tv/khoa-hoc-cong-nghe/louis-pasteur-va-thuyet-mam-benh-cuu-tinh-cua-hang-trieu-nguoi-nho-dau-ong-co-the-lam-duoc-viec-do.html)
 
+
 ## Ideas & thoughts:
 - Giải thích cách nhiễm độc thay vì lây nhiễm theo thuyết The Terrain Theory #todo/research, tần số ô nhiễm ra biến đổi nội môi?
 - Các vaccine trước giờ thì sao!?

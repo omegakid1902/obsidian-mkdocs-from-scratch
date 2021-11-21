@@ -10,10 +10,13 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Dòng Tên
 backlinks:
+  - Zet/Phong trào Tinh Lành
   - Zet/God
   - Zet/Cải Cách Kháng Nghị
   - Zet/Cơ Đốc Giáo
+  - Zet/Vạ Tuyệt thông
   - Zet/Hồi Giáo
+  - Zet/Tổng lãnh vương cung thánh đường
   - Zet/Chúa Giáng Sinh
   - Zet/Hang đá Giáng Sinh
   - Zet/Religion

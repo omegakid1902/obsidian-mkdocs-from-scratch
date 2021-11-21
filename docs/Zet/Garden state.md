@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Thinking/❕ Ý nghĩa cuộc sống
 backlinks:
   - Zet/Phim hay
 title: Garden state

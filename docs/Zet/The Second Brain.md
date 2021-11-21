@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Zettelkasten
+  - Zet/Personal Knowledge Management
 backlinks:
   - Zet/Zettelkasten
 title: The Second Brain
@@ -18,5 +19,4 @@ publish: True
 
 ## Ideas & thoughts:
 - [[Zettelkasten]]
-
-## Questions:
+- [[Personal Knowledge Management]]

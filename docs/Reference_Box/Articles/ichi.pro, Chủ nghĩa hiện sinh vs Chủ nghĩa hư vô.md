@@ -43,7 +43,7 @@ Gần đây, một nhà bình luận đã hỏi tôi sự khác biệt giữa ch
 > Nếu chúng ta chọn sống mà không theo đuổi tự do và ý nghĩa của chính mình, thì chúng ta là thứ mà ông ấy gọi là 'sống trong đức tin xấu.' Niềm tin xấu là hiện tượng chấp nhận rằng chúng ta là một con đường nhất định, và sau đó từ chối theo đuổi các lựa chọn thay thế.
 
 Bad faith : đức tin xấu
-[[❕ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình để làm những việc ta muốn thì ta đang sống trong bad faith]]
+[[❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith]]
 
 ### Quote 6
 > Trong khi chủ nghĩa hư vô hiện sinh đề cập đến ý tưởng rằng không có ý nghĩa nội tại ở bất kỳ đâu trong vũ trụ, thì thuyết hiện sinh đề cập đến các cách giải quyết vấn đề này. Mục tiêu cuối cùng của chủ nghĩa hiện sinh, đó là chủ nghĩa hiện sinh của Sartre, là sự sáng tạo ra bản chất và ý nghĩa chủ quan của một người.

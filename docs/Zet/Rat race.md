@@ -1,9 +1,11 @@
 ---
 outgoing_links:
+  - Zet/Thinking/❕ Ý nghĩa cuộc sống
   - Zet/People/Albert Camus
   - Zet/Self Improvement
 backlinks:
   - Zet/Thức tỉnh tâm linh
+  - Zet/Thinking/❕ Ý nghĩa cuộc sống
 title: Rat race
 UID: 211006214135
 created: 06-Oct-2021
@@ -35,5 +37,6 @@ Con người bị kéo vào Rat race cũng vì tiêu chuẩn xã hội, khuân m
 - https://cafebiz.vn/8-ted-talk-ban-nen-nghe-de-cuoc-song-them-can-bang-va-hanh-phuc-20190506151955636.chn
 - https://clb100.com/cach-kiem-100-ti/pha-bo-rat-race-2021-139.html
 - https://clb100.com/
+
 ## Questions:
 

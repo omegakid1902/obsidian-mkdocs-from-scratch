@@ -2,9 +2,11 @@
 outgoing_links:
   - Zet/Insulin
   - Zet/Lượng mỡ máu cao là nguyên gây kháng insulin
+  - Zet/Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin
 backlinks:
   - Zet/Các chế độ nhịn ăn
   - Zet/Lượng mỡ máu cao là nguyên gây kháng insulin
+  - Zet/Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin
 title: Insulin resistance
 UID: 210903094122
 tags:

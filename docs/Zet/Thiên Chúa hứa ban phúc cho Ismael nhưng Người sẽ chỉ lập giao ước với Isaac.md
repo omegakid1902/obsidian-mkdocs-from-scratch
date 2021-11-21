@@ -4,7 +4,7 @@ outgoing_links:
   - Zet/People/Ishmael
   - Zet/People/Abraham
 backlinks:
-  - Zet/Writing/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 UID: 211007223753
 created: 07-Oct-2021

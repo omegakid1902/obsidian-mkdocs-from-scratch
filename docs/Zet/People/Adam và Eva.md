@@ -10,7 +10,7 @@ backlinks:
   - Zet/Rửa tội
   - Zet/People/Enoch
   - Zet/People/Abel
-  - Zet/Writing/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: Adam và Eva
 UID: 2108142139
 tags:
@@ -19,6 +19,9 @@ tags:
   - 'permanent/people'
 birth: 
 death: 
+aliases:
+  - Adam
+  - Eva
 publish: True
 ---
 # Adam và Eva
