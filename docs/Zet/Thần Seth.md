@@ -17,6 +17,7 @@ publish: True
 
 ## Notes:
 Thần Seth là thần bão tố và hỗn loạn của [[Ai Cập Cổ Đại]]
+
 ![[Pasted image 20211119232654.png]]
 
 ## Ideas & thoughts:

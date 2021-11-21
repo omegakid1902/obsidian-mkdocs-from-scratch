@@ -23,6 +23,7 @@ publish: True
 
 ## Notes:
 Thần Ra là biểu tượng của thần mặt trời.
+
 ![[Pasted image 20211119231519.png]]
 
 ## Ideas & thoughts:

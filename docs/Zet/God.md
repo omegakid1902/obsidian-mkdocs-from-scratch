@@ -27,6 +27,7 @@ backlinks:
   - Zet/People/Thánh Justino
   - Zet/People/Thánh Phaolo
   - Zet/People/Đức Jesus
+  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
   - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: God
 UID: 211107214433

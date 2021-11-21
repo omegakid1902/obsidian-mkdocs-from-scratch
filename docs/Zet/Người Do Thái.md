@@ -21,6 +21,7 @@ backlinks:
   - Zet/Eugenics
   - Zet/Moses thuộc chi tộc Levi
   - Zet/Bức tường than khóc
+  - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
   - Zet/Ngôi sao David
   - Zet/People/Karl Marx
   - Zet/People/Moses

@@ -5,12 +5,12 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Tin Lành
 backlinks:
+  - Zet/Bí tích rửa tội
   - Zet/God
   - Zet/Người Gruzia
   - Zet/Hạ thế giới
   - Zet/Do Thái Giáo
   - Zet/Lễ Giáng Sinh
-  - Zet/Rửa tội
   - Zet/Hiệp sĩ Đền Thánh
   - Zet/People/Moses
   - Zet/People/Thánh Phaolo

@@ -5,7 +5,9 @@ outgoing_links:
   - Zet/Công Giáo
 backlinks:
   - Zet/Anabaptist
-title: Rửa tội
+  - Zet/Tin Lành
+  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
+title: Bí tích rửa tội
 UID: 211112000843
 created: 12-Nov-2021
 tags:
@@ -15,9 +17,10 @@ tags:
 aliases:
   - Báp têm
   - baptême
+  - bí tích rửa tội
 publish: True
 ---
-# Rửa tội
+# Bí tích rửa tội
 
 ## Notes:
 Rửa tội, hay còn gọi là Báp têm phiên âm từ tiếng Pháp baptême, là một nghi thức trong [[Cơ Đốc Giáo]].
@@ -25,8 +28,6 @@ Rửa tội, hay còn gọi là Báp têm phiên âm từ tiếng Pháp baptême
 Nghi thức này gọi là nghi thức thanh tẩy tội tổ tông, tội được truyền từ ông bà [[Adam và Eva]].
 
 Rửa tội là một bí tích trong [[Công Giáo]].
-
-
 
 ## Ideas & thoughts:
 

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Chi tộc Judah
   - Zet/Ngôi sao David
 title: Vua David
 created: Jun 21, 2021 10:35 PM

@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Moses thuộc chi tộc Levi
   - Zet/Israel có 12 chi tộc
+  - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
 title: Chi tộc Levi
 UID: 211120211919
 created: 20-Nov-2021

@@ -9,6 +9,7 @@ backlinks:
   - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
   - Zet/Do Thái Giáo
   - Zet/Khazarian Mafia
+  - Zet/People/Jacob
   - Zet/People/Ishmael
   - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: Abraham

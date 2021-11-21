@@ -19,6 +19,7 @@ publish: True
 
 ## Notes:
 Thần Shu là thần gió của người [[Ai Cập Cổ Đại]]
+
 ![[Pasted image 20211119232857.png]]
 
 ## Ideas & thoughts:
