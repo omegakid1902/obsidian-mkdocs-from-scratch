@@ -8,6 +8,7 @@ backlinks:
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
   - Zet/Qmap
   - Zet/Dòng Tên
+  - Zet/Chiến tranh lạnh
   - Zet/People/Henry Alfred Kissinger
 title: Chiến tranh Việt Nam
 UID: 211009095953

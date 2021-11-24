@@ -4,6 +4,7 @@ outgoing_links:
 backlinks:
   - Zet/Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika
   - Zet/Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991
+  - Zet/Chiến tranh lạnh
 title: Mikhail Gorbachev
 UID: 211122214505
 tags:

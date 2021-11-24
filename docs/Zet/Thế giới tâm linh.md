@@ -4,6 +4,9 @@ outgoing_links:
   - Zet/Thức tỉnh tâm linh
   - Zet/Khủng hoảng hiện sinh
   - Zet/Luân xa
+  - Zet/Kỷ nguyên Bảo Bình
+  - Zet/Cung hoàng đạo
+  - Zet/Chiêm tinh học
   - Zet/Các nhà tiên tri
   - Zet/People/Baba Vanga
   - Zet/People/Abhigya Anand
@@ -28,6 +31,9 @@ Thế giới tâm linh là một dạng thức của tôn giáo, nơi mà ngư�
 - [[Thức tỉnh tâm linh]]
 - [[Khủng hoảng hiện sinh]]
 - [[Luân xa]]
+- [[Kỷ nguyên Bảo Bình]]
+- [[Cung hoàng đạo]]
+- [[Chiêm tinh học]]
 
 ### The World
 

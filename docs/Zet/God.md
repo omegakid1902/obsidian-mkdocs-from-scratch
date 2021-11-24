@@ -20,6 +20,7 @@ backlinks:
   - Zet/Do Thái Giáo
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/Micael không phải tổng lãnh thiên thần
+  - Zet/Kỷ nguyên Bảo Bình
   - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
   - Zet/People/Adam và Eva
   - Zet/People/Moses

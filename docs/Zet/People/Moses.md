@@ -35,6 +35,7 @@ Hình ảnh Moses rẽ nước biển dẫn Người Do thái chạy khỏi Ai C
 Xem chi tiết [[Tiểu sử tiên tri Moses]]
 
 ## Ideas & thoughts:
+- Trong cựu ước, Moses đã chỉ huy đạo quân người Do thái đánh thắng quân đội hùng mạnh của kẻ địch, ông giang tay cầu nguyện với [[God|Thiên Chúa]], khi mỏi tay ông hạ xuống thì người Do Thái thất thế, ông phải nhờ [[Aharon]] giữ giùm tay mình. Đến chiều, người Do Thái thắng trận.
 
 ## Ref:
 - [Tiểu sử Thánh Môi-se (Do thái giáo) - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/van-hoa-xa-hoi/tieu-su-thanh-moi-se-do-thai-giao-1520.html)

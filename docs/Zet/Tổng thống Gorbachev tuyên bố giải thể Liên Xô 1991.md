@@ -3,6 +3,9 @@ outgoing_links:
   - Zet/Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika
   - Zet/People/Mikhail Gorbachev
   - Zet/People/Boris Yeltsin
+  - Zet/Chiến tranh lạnh
+backlinks:
+  - Zet/Chiến tranh lạnh
 title: Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991
 UID: 211122213925
 created: 22-Nov-2021

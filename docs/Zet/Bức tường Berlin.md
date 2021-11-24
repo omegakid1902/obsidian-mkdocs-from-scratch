@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Chiến tranh lạnh
 title: Bức tường Berlin
 UID: 211122215029
 created: 22-Nov-2021
