@@ -11,11 +11,13 @@ backlinks:
   - Zet/Cựu Ước
   - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
   - Zet/Gabriel có nghĩa là người của Thiên Chúa
+  - Zet/The Hammer of Witches
   - Zet/cosmos
   - Zet/Người Do Thái
   - Zet/Vạ Tuyệt thông
   - Zet/Hồi Giáo
   - Zet/Gioan Thánh giá gọi Chúa là nada
+  - Zet/Phù thủy trung cổ
   - Zet/Thiên thần Micael
   - Zet/Do Thái Giáo
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
@@ -44,6 +46,7 @@ aliases:
   - Thần
   - Đấng tạo hóa
   - Đức Chúa Trời
+  - Thượng Đế
 publish: True
 ---
 # God

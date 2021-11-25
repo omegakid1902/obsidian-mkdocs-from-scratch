@@ -8,6 +8,7 @@ backlinks:
   - Zet/1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại
   - Zet/Nhà Nguyễn
   - Zet/Bảo Đại bỏ các phép tắc lễ nghi cũ trong triều
+  - Zet/People/Nam Phương hoàng hậu
 title: "Bảo Đại"
 UID: 2107171330
 tags:

@@ -12,6 +12,7 @@ backlinks:
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
   - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
+  - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Cảnh
   - Zet/People/Trần Liễu
@@ -29,6 +30,9 @@ publish: True
 ## Sơ lược
 Tiền thân là [[Nhà Lý]], kế tục là nhà [[Nhà Hồ]]
 [[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung, và ép [[Lý Chiêu Hoàng]] nhường ngôi, lập ra nhà Trần, chấm dứt [[Nhà Lý]]
+
+![[Pasted image 20211125203753.png]]
+
 
 ## Các đời vua
 

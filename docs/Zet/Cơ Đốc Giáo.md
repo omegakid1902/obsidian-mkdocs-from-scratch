@@ -9,6 +9,7 @@ backlinks:
   - Zet/God
   - Zet/Người Gruzia
   - Zet/Hạ thế giới
+  - Zet/Phù thủy trung cổ
   - Zet/Do Thái Giáo
   - Zet/Lễ Giáng Sinh
   - Zet/Hiệp sĩ Đền Thánh

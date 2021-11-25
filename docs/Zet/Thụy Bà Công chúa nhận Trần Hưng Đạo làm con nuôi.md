@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/People/Trần Cảnh
   - Zet/People/Trần Hưng Đạo
 title: Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi
 UID: 210902163021
@@ -12,6 +13,6 @@ publish: True
 # Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi
 
 ## Notes:
-[[Thụy Bà Công chúa]] nhận [[Trần Hưng Đạo]] làm con nuôi
+Thụy Bà công chúa là chị ruột [[Trần Cảnh]], cô của [[Trần Hưng Đạo]]. [[Thụy Bà Công chúa]] nhận [[Trần Hưng Đạo]] làm con nuôi.
 
 ## Ideas & thoughts:
