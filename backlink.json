@@ -47,14 +47,25 @@
             "Thần Nu"
         ]
     },
-    "zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina": {
+    "Khủng hoảng tên lửa Cuba": {
         "id": 5,
+        "url": "Zet/Khủng hoảng tên lửa Cuba.md",
+        "outgoing_links": [
+            "Chiến tranh Lạnh",
+            "John F. Kennedy"
+        ],
+        "backlinks": [
+            "Chiến tranh lạnh"
+        ]
+    },
+    "zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina": {
+        "id": 6,
         "url": "Zet/zsh là là phần mềm shell mặc định của hệ điều hành MacOS từ phiên bản Catalina.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Anton Lavey thành lập nhà thờ Satan 1966": {
-        "id": 6,
+        "id": 7,
         "url": "Zet/Anton Lavey thành lập nhà thờ Satan 1966.md",
         "outgoing_links": [
             "Anton Lavey",
@@ -65,7 +76,7 @@
         ]
     },
     "Real time PCR test": {
-        "id": 7,
+        "id": 8,
         "url": "Zet/Real time PCR test.md",
         "outgoing_links": [
             "Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng",
@@ -85,13 +96,13 @@
         ]
     },
     "Barbell Reading Method": {
-        "id": 8,
+        "id": 9,
         "url": "Zet/Barbell Reading Method.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Nữ thần Nut": {
-        "id": 9,
+        "id": 10,
         "url": "Zet/Nữ thần Nut.md",
         "outgoing_links": [
             "Ai Cập Cổ Đại",
@@ -102,7 +113,7 @@
         ]
     },
     "Python standard library": {
-        "id": 10,
+        "id": 11,
         "url": "Zet/Python standard library.md",
         "outgoing_links": [
             "Flask lib"
@@ -110,7 +121,7 @@
         "backlinks": []
     },
     "Nhà Đại Lý": {
-        "id": 11,
+        "id": 12,
         "url": "Zet/Nhà Đại Lý.md",
         "outgoing_links": [
             "Lịch sử Trung Quốc",
@@ -125,7 +136,7 @@
         ]
     },
     "Vương cung thánh đường": {
-        "id": 12,
+        "id": 13,
         "url": "Zet/Vương cung thánh đường.md",
         "outgoing_links": [
             "Đại vương cung thánh đường"
@@ -133,7 +144,7 @@
         "backlinks": []
     },
     "Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN": {
-        "id": 13,
+        "id": 14,
         "url": "Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN.md",
         "outgoing_links": [
             "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN",
@@ -151,7 +162,7 @@
         ]
     },
     "Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah": {
-        "id": 14,
+        "id": 15,
         "url": "Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah.md",
         "outgoing_links": [
             "Đức Jesus",
@@ -166,7 +177,7 @@
         ]
     },
     "Hiệp định Geneve 1954": {
-        "id": 15,
+        "id": 16,
         "url": "Zet/Hiệp định Geneve 1954.md",
         "outgoing_links": [],
         "backlinks": [
@@ -174,7 +185,7 @@
         ]
     },
     "Bolshevik": {
-        "id": 16,
+        "id": 17,
         "url": "Zet/Bolshevik.md",
         "outgoing_links": [
             "Menshevik",
@@ -191,7 +202,7 @@
         ]
     },
     "Operation Paperclip": {
-        "id": 17,
+        "id": 18,
         "url": "Zet/Operation Paperclip.md",
         "outgoing_links": [],
         "backlinks": [
@@ -199,7 +210,7 @@
         ]
     },
     "Đảo chính VNCH 1963": {
-        "id": 18,
+        "id": 19,
         "url": "Zet/Đảo chính VNCH 1963.md",
         "outgoing_links": [
             "Ngô Đình Diệm"
@@ -210,7 +221,7 @@
         ]
     },
     "Dương Đình Nghệ": {
-        "id": 19,
+        "id": 20,
         "url": "Zet/Dương Đình Nghệ.md",
         "outgoing_links": [
             "Họ Khúc"
@@ -218,7 +229,7 @@
         "backlinks": []
     },
     "Đế quốc Việt Nam": {
-        "id": 20,
+        "id": 21,
         "url": "Zet/Đế quốc Việt Nam.md",
         "outgoing_links": [
             "Trần Trọng Kim",
@@ -230,7 +241,7 @@
         ]
     },
     "Stalin là nhà cách mạng thuộc phe Bolshevik": {
-        "id": 21,
+        "id": 22,
         "url": "Zet/Stalin là nhà cách mạng thuộc phe Bolshevik.md",
         "outgoing_links": [
             "Joseph Stalin",
@@ -242,7 +253,7 @@
         ]
     },
     "Vatican": {
-        "id": 22,
+        "id": 23,
         "url": "Zet/Vatican.md",
         "outgoing_links": [
             "Công Giáo",
@@ -258,7 +269,7 @@
         ]
     },
     "Đàng Ngoài": {
-        "id": 23,
+        "id": 24,
         "url": "Zet/Đàng Ngoài.md",
         "outgoing_links": [
             "Chúa Trịnh"
@@ -269,7 +280,7 @@
         ]
     },
     "The Quaker": {
-        "id": 24,
+        "id": 25,
         "url": "Zet/The Quaker.md",
         "outgoing_links": [
             "Công Giáo"
@@ -279,13 +290,14 @@
         ]
     },
     "Xung đột Israel - Palestine": {
-        "id": 25,
+        "id": 26,
         "url": "Zet/Xung đột Israel - Palestine.md",
         "outgoing_links": [
             "Chủ Nghĩa Zion",
             "Người Do Thái",
             "God",
             "Torah",
+            "Harry S. Truman",
             "Tổ chức giải phóng Palestine"
         ],
         "backlinks": [
@@ -294,7 +306,7 @@
         ]
     },
     "Người Do Thái Ashkenazi": {
-        "id": 26,
+        "id": 27,
         "url": "Zet/Người Do Thái Ashkenazi.md",
         "outgoing_links": [
             "Ngôn ngữ Yiddish",
@@ -313,7 +325,7 @@
         ]
     },
     "Người Aryan": {
-        "id": 27,
+        "id": 28,
         "url": "Zet/Người Aryan.md",
         "outgoing_links": [],
         "backlinks": [
@@ -322,7 +334,7 @@
         ]
     },
     "An Dương Vương thực hiện kế vườn không nhà trống với quân Tần": {
-        "id": 28,
+        "id": 29,
         "url": "Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần.md",
         "outgoing_links": [
             "Tần Thủy Hoàng",
@@ -333,7 +345,7 @@
         "backlinks": []
     },
     "Người Do Thái Sephardi": {
-        "id": 29,
+        "id": 30,
         "url": "Zet/Người Do Thái Sephardi.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -349,7 +361,7 @@
         ]
     },
     "Việt Nam Cộng Hòa": {
-        "id": 30,
+        "id": 31,
         "url": "Zet/Việt Nam Cộng Hòa.md",
         "outgoing_links": [
             "Ngô Đình Diệm",
@@ -363,7 +375,7 @@
         ]
     },
     "Atlantis": {
-        "id": 31,
+        "id": 32,
         "url": "Zet/Atlantis.md",
         "outgoing_links": [],
         "backlinks": [
@@ -372,7 +384,7 @@
         ]
     },
     "Personal Knowledge Management": {
-        "id": 32,
+        "id": 33,
         "url": "Zet/Personal Knowledge Management.md",
         "outgoing_links": [
             "Phần mềm Notion",
@@ -384,7 +396,7 @@
         ]
     },
     "Các nhà tiên tri": {
-        "id": 33,
+        "id": 34,
         "url": "Zet/Các nhà tiên tri.md",
         "outgoing_links": [
             "Baba Vanga",
@@ -396,7 +408,7 @@
         ]
     },
     "Chi tộc Judah": {
-        "id": 34,
+        "id": 35,
         "url": "Zet/Chi tộc Judah.md",
         "outgoing_links": [
             "Jacob",
@@ -411,7 +423,7 @@
         ]
     },
     "Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng": {
-        "id": 35,
+        "id": 36,
         "url": "Zet/Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng.md",
         "outgoing_links": [
             "Lý Huệ Tông",
@@ -422,13 +434,13 @@
         ]
     },
     "Thiên hà Andromedan": {
-        "id": 36,
+        "id": 37,
         "url": "Zet/Thiên hà Andromedan.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Bài Tarot": {
-        "id": 37,
+        "id": 38,
         "url": "Zet/Bài Tarot.md",
         "outgoing_links": [],
         "backlinks": [
@@ -436,7 +448,7 @@
         ]
     },
     "Chủ Nghĩa Zion": {
-        "id": 38,
+        "id": 39,
         "url": "Zet/Chủ Nghĩa Zion.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -457,7 +469,7 @@
         ]
     },
     "Lấy chiến tranh nuôi chiến tranh": {
-        "id": 39,
+        "id": 40,
         "url": "Zet/Lấy chiến tranh nuôi chiến tranh.md",
         "outgoing_links": [
             "Việt Nam Cộng Hòa",
@@ -469,7 +481,7 @@
         ]
     },
     "Đại dịch AIDS": {
-        "id": 40,
+        "id": 41,
         "url": "Zet/Đại dịch AIDS.md",
         "outgoing_links": [],
         "backlinks": [
@@ -477,7 +489,7 @@
         ]
     },
     "Các thông tin về việc reset các chính phủ": {
-        "id": 41,
+        "id": 42,
         "url": "Zet/Các thông tin về việc reset các chính phủ.md",
         "outgoing_links": [
             "NESARA"
@@ -485,7 +497,7 @@
         "backlinks": []
     },
     "Chi tộc Joseph": {
-        "id": 42,
+        "id": 43,
         "url": "Zet/Chi tộc Joseph.md",
         "outgoing_links": [
             "Jacob",
@@ -500,7 +512,7 @@
         ]
     },
     "Thức tỉnh tâm linh": {
-        "id": 43,
+        "id": 44,
         "url": "Zet/Thức tỉnh tâm linh.md",
         "outgoing_links": [
             "Thánh Gioan Thánh giá",
@@ -520,7 +532,7 @@
         ]
     },
     "Nợ như Chúa Chổm": {
-        "id": 44,
+        "id": 45,
         "url": "Zet/Nợ như Chúa Chổm.md",
         "outgoing_links": [
             "Chúa Chổm"
@@ -529,8 +541,20 @@
             "Chúa Chổm"
         ]
     },
+    "Thuyết Truman": {
+        "id": 46,
+        "url": "Zet/Thuyết Truman.md",
+        "outgoing_links": [
+            "Harry S. Truman",
+            "Thuyết Domino"
+        ],
+        "backlinks": [
+            "Chiến tranh lạnh",
+            "Harry S. Truman"
+        ]
+    },
     "Tuyết sơn phi hồ": {
-        "id": 45,
+        "id": 47,
         "url": "Zet/Tuyết sơn phi hồ.md",
         "outgoing_links": [
             "Lý Tự Thành"
@@ -541,7 +565,7 @@
         ]
     },
     "Moses nghĩa là được đưa ra khỏi nước": {
-        "id": 46,
+        "id": 48,
         "url": "Zet/Moses nghĩa là được đưa ra khỏi nước.md",
         "outgoing_links": [
             "Moses"
@@ -551,7 +575,7 @@
         ]
     },
     "Vaccine mRNA": {
-        "id": 47,
+        "id": 49,
         "url": "Zet/Vaccine mRNA.md",
         "outgoing_links": [
             "Robert Wallace Malone",
@@ -565,7 +589,7 @@
         ]
     },
     "Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac": {
-        "id": 48,
+        "id": 50,
         "url": "Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac.md",
         "outgoing_links": [
             "God",
@@ -577,7 +601,7 @@
         ]
     },
     "FED": {
-        "id": 49,
+        "id": 51,
         "url": "Zet/FED.md",
         "outgoing_links": [
             "Gia tộc Rothschild",
@@ -591,7 +615,7 @@
         ]
     },
     "Thánh địa Mỹ Sơn": {
-        "id": 50,
+        "id": 52,
         "url": "Zet/Thánh địa Mỹ Sơn.md",
         "outgoing_links": [
             "Ấn Độ giáo",
@@ -603,7 +627,7 @@
         ]
     },
     "Cựu Ước": {
-        "id": 51,
+        "id": 53,
         "url": "Zet/Cựu Ước.md",
         "outgoing_links": [
             "God",
@@ -622,7 +646,7 @@
         ]
     },
     "Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít người tưởng nhớ": {
-        "id": 52,
+        "id": 54,
         "url": "Zet/Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít người tưởng nhớ.md",
         "outgoing_links": [
             "Đinh Bộ Lĩnh",
@@ -633,7 +657,7 @@
         "backlinks": []
     },
     "Tên gọi Kháng Nghị và Tin Lành": {
-        "id": 53,
+        "id": 55,
         "url": "Zet/Tên gọi Kháng Nghị và Tin Lành.md",
         "outgoing_links": [
             "Tin Lành",
@@ -645,13 +669,13 @@
         ]
     },
     "Các bộ tộc Bách Việt": {
-        "id": 54,
+        "id": 56,
         "url": "Zet/Các bộ tộc Bách Việt.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "The Luhmann Notes": {
-        "id": 55,
+        "id": 57,
         "url": "Zet/The Luhmann Notes.md",
         "outgoing_links": [
             "Fleeting Note",
@@ -664,7 +688,7 @@
         ]
     },
     "Quan hệ huyết thống nhà Trần - Lý": {
-        "id": 56,
+        "id": 58,
         "url": "Zet/Quan hệ huyết thống nhà Trần - Lý.md",
         "outgoing_links": [
             "Trần Thủ Huy",
@@ -680,7 +704,7 @@
         ]
     },
     "Joseph là con của Jacob và Rachel": {
-        "id": 57,
+        "id": 59,
         "url": "Zet/Joseph là con của Jacob và Rachel.md",
         "outgoing_links": [
             "Chi tộc Joseph",
@@ -692,7 +716,7 @@
         ]
     },
     "Phong trào Tinh Lành": {
-        "id": 58,
+        "id": 60,
         "url": "Zet/Phong trào Tinh Lành.md",
         "outgoing_links": [
             "Cải Cách Kháng Nghị",
@@ -705,7 +729,7 @@
         ]
     },
     "Trần Thủ Độ là em họ Linh Từ Quốc Mẫu": {
-        "id": 59,
+        "id": 61,
         "url": "Zet/Trần Thủ Độ là em họ Linh Từ Quốc Mẫu.md",
         "outgoing_links": [
             "Trần Thủ Độ",
@@ -716,7 +740,7 @@
         ]
     },
     "Đảng Quốc Xã": {
-        "id": 60,
+        "id": 62,
         "url": "Zet/Đảng Quốc Xã.md",
         "outgoing_links": [],
         "backlinks": [
@@ -726,7 +750,7 @@
         ]
     },
     "Sử Trung Quốc trong tiểu thuyết của Kim Dung": {
-        "id": 61,
+        "id": 63,
         "url": "Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung.md",
         "outgoing_links": [
             "Nhà Nguyên-Mông",
@@ -738,7 +762,7 @@
         "backlinks": []
     },
     "UFO": {
-        "id": 62,
+        "id": 64,
         "url": "Zet/UFO.md",
         "outgoing_links": [],
         "backlinks": [
@@ -749,7 +773,7 @@
         ]
     },
     "Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm": {
-        "id": 63,
+        "id": 65,
         "url": "Zet/Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm.md",
         "outgoing_links": [
             "Ngô Đình Diệm",
@@ -759,7 +783,7 @@
         "backlinks": []
     },
     "Insulin": {
-        "id": 64,
+        "id": 66,
         "url": "Zet/Insulin.md",
         "outgoing_links": [],
         "backlinks": [
@@ -768,7 +792,7 @@
         ]
     },
     "Phim hay": {
-        "id": 65,
+        "id": 67,
         "url": "Zet/Phim hay.md",
         "outgoing_links": [
             "❕ Ý nghĩa cuộc sống",
@@ -777,7 +801,7 @@
         "backlinks": []
     },
     "The Terrain Theory": {
-        "id": 66,
+        "id": 68,
         "url": "Zet/The Terrain Theory.md",
         "outgoing_links": [
             "Antoine Beauchamp",
@@ -796,7 +820,7 @@
         ]
     },
     "Lý Tự Thành được hư cấu hóa trong các tiểu thuyết Kim Dung": {
-        "id": 67,
+        "id": 69,
         "url": "Zet/Lý Tự Thành được hư cấu hóa trong các tiểu thuyết Kim Dung.md",
         "outgoing_links": [
             "Lý Tự Thành",
@@ -805,7 +829,7 @@
         "backlinks": []
     },
     "BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ": {
-        "id": 68,
+        "id": 70,
         "url": "Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ.md",
         "outgoing_links": [
             "Sức khỏe",
@@ -816,7 +840,7 @@
         ]
     },
     "Thời Lê sơ": {
-        "id": 69,
+        "id": 71,
         "url": "Zet/Thời Lê sơ.md",
         "outgoing_links": [],
         "backlinks": [
@@ -826,7 +850,7 @@
         ]
     },
     "Thời gian dịch các sách trong Bản bảy mươi": {
-        "id": 70,
+        "id": 72,
         "url": "Zet/Thời gian dịch các sách trong Bản bảy mươi.md",
         "outgoing_links": [
             "Bản bảy mươi",
@@ -836,7 +860,7 @@
         "backlinks": []
     },
     "Lễ kính thiên thần Raphael là 24 tháng 10": {
-        "id": 71,
+        "id": 73,
         "url": "Zet/Lễ kính thiên thần Raphael là 24 tháng 10.md",
         "outgoing_links": [
             "Thiên thần Raphael",
@@ -851,7 +875,7 @@
         ]
     },
     "Lịch Sử Việt Nam": {
-        "id": 72,
+        "id": 74,
         "url": "Zet/Lịch Sử Việt Nam.md",
         "outgoing_links": [
             "Văn Lang",
@@ -895,7 +919,7 @@
         ]
     },
     "Sông Nile là con sông dài nhất thế giới": {
-        "id": 73,
+        "id": 75,
         "url": "Zet/Sông Nile là con sông dài nhất thế giới.md",
         "outgoing_links": [
             "Sông Nile"
@@ -905,7 +929,7 @@
         ]
     },
     "Cơ thể con người có 7 luân xa": {
-        "id": 74,
+        "id": 76,
         "url": "Zet/Cơ thể con người có 7 luân xa.md",
         "outgoing_links": [
             "Luân xa",
@@ -917,7 +941,7 @@
         ]
     },
     "Khazars": {
-        "id": 75,
+        "id": 77,
         "url": "Zet/Khazars.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -940,7 +964,7 @@
         ]
     },
     "Vaccine virus bất hoạt": {
-        "id": 76,
+        "id": 78,
         "url": "Zet/Vaccine virus bất hoạt.md",
         "outgoing_links": [
             "Vaccine",
@@ -952,7 +976,7 @@
         ]
     },
     "Chiến tranh Nguyên Mông - Đại Việt lần 1": {
-        "id": 77,
+        "id": 79,
         "url": "Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1.md",
         "outgoing_links": [
             "Mông Kha",
@@ -967,7 +991,7 @@
         "backlinks": []
     },
     "Bảo Đại": {
-        "id": 78,
+        "id": 80,
         "url": "Zet/Bảo Đại.md",
         "outgoing_links": [
             "Nhà Nguyễn"
@@ -983,7 +1007,7 @@
         ]
     },
     "Cain sát hại Abel": {
-        "id": 79,
+        "id": 81,
         "url": "Zet/Cain sát hại Abel.md",
         "outgoing_links": [],
         "backlinks": [
@@ -993,7 +1017,7 @@
         ]
     },
     "Hội thông thiên học": {
-        "id": 80,
+        "id": 82,
         "url": "Zet/Hội thông thiên học.md",
         "outgoing_links": [
             "Helena Blavatsky",
@@ -1002,7 +1026,7 @@
         "backlinks": []
     },
     "Markdown Language": {
-        "id": 81,
+        "id": 83,
         "url": "Zet/Markdown Language.md",
         "outgoing_links": [
             "HTML Language"
@@ -1014,7 +1038,7 @@
         ]
     },
     "Mormon giáo": {
-        "id": 82,
+        "id": 84,
         "url": "Zet/Mormon giáo.md",
         "outgoing_links": [
             "Chi tộc Joseph"
@@ -1022,7 +1046,7 @@
         "backlinks": []
     },
     "Tích Mỵ Châu Trọng Thủy nói về sự kiện sụp đổ Âu Lạc": {
-        "id": 83,
+        "id": 85,
         "url": "Zet/Tích Mỵ Châu Trọng Thủy nói về sự kiện sụp đổ Âu Lạc.md",
         "outgoing_links": [
             "Âu Lạc",
@@ -1031,7 +1055,7 @@
         "backlinks": []
     },
     "Vaccine Vector": {
-        "id": 84,
+        "id": 86,
         "url": "Zet/Vaccine Vector.md",
         "outgoing_links": [
             "Kháng thể"
@@ -1043,7 +1067,7 @@
         ]
     },
     "Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh": {
-        "id": 85,
+        "id": 87,
         "url": "Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh.md",
         "outgoing_links": [
             "Khủng hoảng hiện sinh",
@@ -1052,7 +1076,7 @@
         "backlinks": []
     },
     "Bắc Tống": {
-        "id": 86,
+        "id": 88,
         "url": "Zet/Bắc Tống.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1062,7 +1086,7 @@
         ]
     },
     "Jacob có hai vợ chính và 2 vợ lẽ": {
-        "id": 87,
+        "id": 89,
         "url": "Zet/Jacob có hai vợ chính và 2 vợ lẽ.md",
         "outgoing_links": [
             "Jacob",
@@ -1073,7 +1097,7 @@
         ]
     },
     "Holocaust": {
-        "id": 88,
+        "id": 90,
         "url": "Zet/Holocaust.md",
         "outgoing_links": [
             "Đảng Quốc Xã",
@@ -1085,7 +1109,7 @@
         ]
     },
     "Insulin resistance": {
-        "id": 89,
+        "id": 91,
         "url": "Zet/Insulin resistance.md",
         "outgoing_links": [
             "Insulin",
@@ -1099,7 +1123,7 @@
         ]
     },
     "Crop Circle": {
-        "id": 90,
+        "id": 92,
         "url": "Zet/Crop Circle.md",
         "outgoing_links": [
             "UFO"
@@ -1109,7 +1133,7 @@
         ]
     },
     "Adam Weishaupt thành lập Illuminati 1776": {
-        "id": 91,
+        "id": 93,
         "url": "Zet/Adam Weishaupt thành lập Illuminati 1776.md",
         "outgoing_links": [
             "Johann Adam Weishaupt",
@@ -1122,7 +1146,7 @@
         ]
     },
     "Torah": {
-        "id": 92,
+        "id": 94,
         "url": "Zet/Torah.md",
         "outgoing_links": [
             "Do Thái Giáo",
@@ -1137,7 +1161,7 @@
         ]
     },
     "Phông chữ kiểu Serif": {
-        "id": 93,
+        "id": 95,
         "url": "Zet/Phông chữ kiểu Serif.md",
         "outgoing_links": [
             "Phông chữ Sans Serif"
@@ -1147,7 +1171,7 @@
         ]
     },
     "American Thought Leaders phỏng vấn Robert Wallace Malone về đại dịch covid 19": {
-        "id": 94,
+        "id": 96,
         "url": "Zet/American Thought Leaders phỏng vấn Robert Wallace Malone về đại dịch covid 19.md",
         "outgoing_links": [
             "FDA cấm Ivermectin thú y để chữa trị cho người",
@@ -1158,7 +1182,7 @@
         ]
     },
     "Giáo phái Essenes được cho là chủ nhân những cuộn sách biển Chết": {
-        "id": 95,
+        "id": 97,
         "url": "Zet/Giáo phái Essenes được cho là chủ nhân những cuộn sách biển Chết.md",
         "outgoing_links": [
             "Giáo phái Essenes",
@@ -1169,7 +1193,7 @@
         ]
     },
     "Real time PCR test là một trò bịp của Big Pharma": {
-        "id": 96,
+        "id": 98,
         "url": "Zet/Real time PCR test là một trò bịp của Big Pharma.md",
         "outgoing_links": [
             "Real time PCR test",
@@ -1183,7 +1207,7 @@
         ]
     },
     "Dopamine detox": {
-        "id": 97,
+        "id": 99,
         "url": "Zet/Dopamine detox.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1191,7 +1215,7 @@
         ]
     },
     "Đường cong học tập": {
-        "id": 98,
+        "id": 100,
         "url": "Zet/Đường cong học tập.md",
         "outgoing_links": [
             "Spaced Repetition"
@@ -1201,7 +1225,7 @@
         ]
     },
     "Lễ kính thiên thần Gabriel là 24 tháng 3": {
-        "id": 99,
+        "id": 101,
         "url": "Zet/Lễ kính thiên thần Gabriel là 24 tháng 3.md",
         "outgoing_links": [
             "Thiên thần Gabriel",
@@ -1216,7 +1240,7 @@
         ]
     },
     "Khazaria": {
-        "id": 100,
+        "id": 102,
         "url": "Zet/Khazaria.md",
         "outgoing_links": [
             "Khazars",
@@ -1230,7 +1254,7 @@
         ]
     },
     "Vaccination": {
-        "id": 101,
+        "id": 103,
         "url": "Zet/Vaccination.md",
         "outgoing_links": [
             "Vaccine",
@@ -1251,7 +1275,7 @@
         ]
     },
     "Virus": {
-        "id": 102,
+        "id": 104,
         "url": "Zet/Virus.md",
         "outgoing_links": [
             "Coronavirus",
@@ -1266,13 +1290,13 @@
         ]
     },
     "Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau": {
-        "id": 103,
+        "id": 105,
         "url": "Zet/Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "SARS-CoV": {
-        "id": 104,
+        "id": 106,
         "url": "Zet/SARS-CoV.md",
         "outgoing_links": [
             "Coronavirus"
@@ -1285,7 +1309,7 @@
         ]
     },
     "Black nobility": {
-        "id": 105,
+        "id": 107,
         "url": "Zet/Black nobility.md",
         "outgoing_links": [
             "Đức Giáo Hoàng"
@@ -1295,7 +1319,7 @@
         ]
     },
     "Moise được cho là đã viết Ngũ Kinh Cựu Ước": {
-        "id": 106,
+        "id": 108,
         "url": "Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước.md",
         "outgoing_links": [
             "Moses",
@@ -1305,7 +1329,7 @@
         "backlinks": []
     },
     "Các cuộn sách biển Chết": {
-        "id": 107,
+        "id": 109,
         "url": "Zet/Các cuộn sách biển Chết.md",
         "outgoing_links": [
             "Giáo phái Essenes"
@@ -1316,7 +1340,7 @@
         ]
     },
     "Các di sản thế giới tại Việt Nam": {
-        "id": 108,
+        "id": 110,
         "url": "Zet/Các di sản thế giới tại Việt Nam.md",
         "outgoing_links": [
             "Phố cổ Hội An",
@@ -1325,7 +1349,7 @@
         "backlinks": []
     },
     "Gabriel có nghĩa là người của Thiên Chúa": {
-        "id": 109,
+        "id": 111,
         "url": "Zet/Gabriel có nghĩa là người của Thiên Chúa.md",
         "outgoing_links": [
             "Thiên thần Gabriel",
@@ -1340,7 +1364,7 @@
         ]
     },
     "Vaccine AstraZeneca": {
-        "id": 110,
+        "id": 112,
         "url": "Zet/Vaccine AstraZeneca.md",
         "outgoing_links": [
             "Vaccine Vector",
@@ -1352,7 +1376,7 @@
         ]
     },
     "Dịch hạch": {
-        "id": 111,
+        "id": 113,
         "url": "Zet/Dịch hạch.md",
         "outgoing_links": [
             "Alexandre Yersin",
@@ -1364,7 +1388,7 @@
         ]
     },
     "Xích Thố": {
-        "id": 112,
+        "id": 114,
         "url": "Zet/Xích Thố.md",
         "outgoing_links": [
             "Lã Bố",
@@ -1376,7 +1400,7 @@
         ]
     },
     "Tiếng Sanskrit còn được gọi là Bắc Phạn": {
-        "id": 113,
+        "id": 115,
         "url": "Zet/Tiếng Sanskrit còn được gọi là Bắc Phạn.md",
         "outgoing_links": [
             "Tiếng Sanskrit"
@@ -1386,7 +1410,7 @@
         ]
     },
     "The Hammer of Witches": {
-        "id": 114,
+        "id": 116,
         "url": "Zet/The Hammer of Witches.md",
         "outgoing_links": [
             "Phù thủy trung cổ",
@@ -1397,7 +1421,7 @@
         ]
     },
     "Nữ thần Tefnut": {
-        "id": 115,
+        "id": 117,
         "url": "Zet/Nữ thần Tefnut.md",
         "outgoing_links": [
             "Ai Cập Cổ Đại"
@@ -1409,7 +1433,7 @@
         ]
     },
     "Chi tộc Levi": {
-        "id": 116,
+        "id": 118,
         "url": "Zet/Chi tộc Levi.md",
         "outgoing_links": [
             "Israel có 12 chi tộc"
@@ -1421,7 +1445,7 @@
         ]
     },
     "cosmos": {
-        "id": 117,
+        "id": 119,
         "url": "Zet/cosmos.md",
         "outgoing_links": [
             "God"
@@ -1431,7 +1455,7 @@
         ]
     },
     "Đạo Giáo": {
-        "id": 118,
+        "id": 120,
         "url": "Zet/Đạo Giáo.md",
         "outgoing_links": [
             "Lão Tử"
@@ -1442,7 +1466,7 @@
         ]
     },
     "Ngô Đình Diệm": {
-        "id": 119,
+        "id": 121,
         "url": "Zet/Ngô Đình Diệm.md",
         "outgoing_links": [
             "Việt Nam Cộng Hòa",
@@ -1462,7 +1486,7 @@
         ]
     },
     "13 gia tộc kiểm soát thế giới loài người": {
-        "id": 120,
+        "id": 122,
         "url": "Zet/13 gia tộc kiểm soát thế giới loài người.md",
         "outgoing_links": [
             "Gia tộc Rothschild"
@@ -1470,7 +1494,7 @@
         "backlinks": []
     },
     "Khủng hoảng hiện sinh": {
-        "id": 121,
+        "id": 123,
         "url": "Zet/Khủng hoảng hiện sinh.md",
         "outgoing_links": [
             "Chủ nghĩa hiện sinh",
@@ -1488,7 +1512,7 @@
         ]
     },
     "Các nốt nhạc được lấy theo tên của Solfeggio": {
-        "id": 122,
+        "id": 124,
         "url": "Zet/Các nốt nhạc được lấy theo tên của Solfeggio.md",
         "outgoing_links": [
             "Tần số Solfeggio"
@@ -1498,7 +1522,7 @@
         ]
     },
     "Operation Mockingbird": {
-        "id": 123,
+        "id": 125,
         "url": "Zet/Operation Mockingbird.md",
         "outgoing_links": [
             "Frank Church đã công bố sự thật về chiến dịch Mockingbird giữa thập niên 1970"
@@ -1509,7 +1533,7 @@
         ]
     },
     "Vụ ám sát John F. Kennedy": {
-        "id": 124,
+        "id": 126,
         "url": "Zet/Vụ ám sát John F. Kennedy.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1517,7 +1541,7 @@
         ]
     },
     "Plato có nói về Atlantis": {
-        "id": 125,
+        "id": 127,
         "url": "Zet/Plato có nói về Atlantis.md",
         "outgoing_links": [
             "Plato",
@@ -1529,15 +1553,17 @@
         ]
     },
     "Bức tường Berlin": {
-        "id": 126,
+        "id": 128,
         "url": "Zet/Bức tường Berlin.md",
-        "outgoing_links": [],
+        "outgoing_links": [
+            "Hội Quốc Liên"
+        ],
         "backlinks": [
             "Chiến tranh lạnh"
         ]
     },
     "MERS-CoV": {
-        "id": 127,
+        "id": 129,
         "url": "Zet/MERS-CoV.md",
         "outgoing_links": [
             "Coronavirus",
@@ -1550,7 +1576,7 @@
         ]
     },
     "SuperMemo": {
-        "id": 128,
+        "id": 130,
         "url": "Zet/SuperMemo.md",
         "outgoing_links": [
             "Spaced Repetition",
@@ -1562,7 +1588,7 @@
         ]
     },
     "The Germ theory": {
-        "id": 129,
+        "id": 131,
         "url": "Zet/The Germ theory.md",
         "outgoing_links": [
             "Louis Pasteur",
@@ -1579,7 +1605,7 @@
         ]
     },
     "CDC": {
-        "id": 130,
+        "id": 132,
         "url": "Zet/CDC.md",
         "outgoing_links": [
             "COVID-19",
@@ -1595,7 +1621,7 @@
         ]
     },
     "Trần Thủ Độ bức chết Lý Huệ Tông": {
-        "id": 131,
+        "id": 133,
         "url": "Zet/Trần Thủ Độ bức chết Lý Huệ Tông.md",
         "outgoing_links": [
             "Lý Huệ Tông",
@@ -1604,7 +1630,7 @@
         "backlinks": []
     },
     "Nhà Tống": {
-        "id": 132,
+        "id": 134,
         "url": "Zet/Nhà Tống.md",
         "outgoing_links": [
             "Lịch sử Trung Quốc",
@@ -1619,7 +1645,7 @@
         ]
     },
     "Interests": {
-        "id": 133,
+        "id": 135,
         "url": "Zet/Interests.md",
         "outgoing_links": [
             "Sách đã đọc",
@@ -1632,7 +1658,7 @@
         "backlinks": []
     },
     "Beta-Coronavirus": {
-        "id": 134,
+        "id": 136,
         "url": "Zet/Beta-Coronavirus.md",
         "outgoing_links": [
             "Coronavirus",
@@ -1645,7 +1671,7 @@
         ]
     },
     "Tần số rung động": {
-        "id": 135,
+        "id": 137,
         "url": "Zet/Tần số rung động.md",
         "outgoing_links": [
             "Tần số Solfeggio",
@@ -1654,13 +1680,13 @@
         "backlinks": []
     },
     "Đền thờ Salomon": {
-        "id": 136,
+        "id": 138,
         "url": "Zet/Đền thờ Salomon.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Satanism": {
-        "id": 137,
+        "id": 139,
         "url": "Zet/Satanism.md",
         "outgoing_links": [
             "Anton Lavey",
@@ -1673,7 +1699,7 @@
         ]
     },
     "Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN": {
-        "id": 138,
+        "id": 140,
         "url": "Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN.md",
         "outgoing_links": [
             "Nam Việt",
@@ -1686,7 +1712,7 @@
         ]
     },
     "Các loại Vaccine COVID 19": {
-        "id": 139,
+        "id": 141,
         "url": "Zet/Các loại Vaccine COVID 19.md",
         "outgoing_links": [
             "Vaccine mRNA",
@@ -1704,7 +1730,7 @@
         ]
     },
     "Kinh mân côi": {
-        "id": 140,
+        "id": 142,
         "url": "Zet/Kinh mân côi.md",
         "outgoing_links": [
             "Đức Jesus",
@@ -1714,7 +1740,7 @@
         "backlinks": []
     },
     "Tổ chức giải phóng Palestine": {
-        "id": 141,
+        "id": 143,
         "url": "Zet/Tổ chức giải phóng Palestine.md",
         "outgoing_links": [
             "Yasser Arafat"
@@ -1725,7 +1751,7 @@
         ]
     },
     "Descartes theo học trường dòng Tên": {
-        "id": 142,
+        "id": 144,
         "url": "Zet/Descartes theo học trường dòng Tên.md",
         "outgoing_links": [
             "René Descartes",
@@ -1736,7 +1762,7 @@
         ]
     },
     "Chúa Nguyễn": {
-        "id": 143,
+        "id": 145,
         "url": "Zet/Chúa Nguyễn.md",
         "outgoing_links": [
             "Thời Lê trung hưng",
@@ -1755,7 +1781,7 @@
         ]
     },
     "Phía sau Vaccine Pfizer": {
-        "id": 144,
+        "id": 146,
         "url": "Zet/Phía sau Vaccine Pfizer.md",
         "outgoing_links": [
             "Vaccine Pfizer"
@@ -1765,13 +1791,13 @@
         ]
     },
     "Amino acid": {
-        "id": 145,
+        "id": 147,
         "url": "Zet/Amino acid.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Phương pháp Pomodoro": {
-        "id": 146,
+        "id": 148,
         "url": "Zet/Phương pháp Pomodoro.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1779,7 +1805,7 @@
         ]
     },
     "Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo": {
-        "id": 147,
+        "id": 149,
         "url": "Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo.md",
         "outgoing_links": [
             "Nhà Triệu",
@@ -1796,7 +1822,7 @@
         "backlinks": []
     },
     "Gia tộc Rothschild": {
-        "id": 148,
+        "id": 150,
         "url": "Zet/Gia tộc Rothschild.md",
         "outgoing_links": [
             "Mayer Amschel Bauer",
@@ -1818,7 +1844,7 @@
         ]
     },
     "LYT framework": {
-        "id": 149,
+        "id": 151,
         "url": "Zet/LYT framework.md",
         "outgoing_links": [
             "Zettelkasten",
@@ -1830,7 +1856,7 @@
         ]
     },
     "Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng": {
-        "id": 150,
+        "id": 152,
         "url": "Zet/Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng.md",
         "outgoing_links": [
             "Phục Hi",
@@ -1839,7 +1865,7 @@
         "backlinks": []
     },
     "Giáo phái Essenes": {
-        "id": 151,
+        "id": 153,
         "url": "Zet/Giáo phái Essenes.md",
         "outgoing_links": [
             "Do Thái Giáo",
@@ -1851,7 +1877,7 @@
         ]
     },
     "Bí tích rửa tội": {
-        "id": 152,
+        "id": 154,
         "url": "Zet/Bí tích rửa tội.md",
         "outgoing_links": [
             "Cơ Đốc Giáo",
@@ -1865,7 +1891,7 @@
         ]
     },
     "God": {
-        "id": 153,
+        "id": 155,
         "url": "Zet/God.md",
         "outgoing_links": [
             "Cơ Đốc Giáo",
@@ -1904,13 +1930,15 @@
         ]
     },
     "Harry S. Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ": {
-        "id": 154,
+        "id": 156,
         "url": "Zet/Harry S. Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ.md",
-        "outgoing_links": [],
+        "outgoing_links": [
+            "Harry S. Truman"
+        ],
         "backlinks": []
     },
     "Chúa Chổm": {
-        "id": 155,
+        "id": 157,
         "url": "Zet/Chúa Chổm.md",
         "outgoing_links": [
             "Nhà Hậu Lê",
@@ -1921,13 +1949,13 @@
         ]
     },
     "Hội chứng FOMO": {
-        "id": 156,
+        "id": 158,
         "url": "Zet/Hội chứng FOMO.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Phong trào Phản Cải cách": {
-        "id": 157,
+        "id": 159,
         "url": "Zet/Phong trào Phản Cải cách.md",
         "outgoing_links": [
             "Công Giáo",
@@ -1937,7 +1965,7 @@
         "backlinks": []
     },
     "Kỷ nguyên Song Ngư": {
-        "id": 158,
+        "id": 160,
         "url": "Zet/Kỷ nguyên Song Ngư.md",
         "outgoing_links": [
             "Kỷ nguyên Bảo Bình"
@@ -1948,7 +1976,7 @@
         ]
     },
     "Tứ đại danh tác": {
-        "id": 159,
+        "id": 161,
         "url": "Zet/Tứ đại danh tác.md",
         "outgoing_links": [
             "Thủy Hử",
@@ -1958,13 +1986,13 @@
         "backlinks": []
     },
     "Không dung nạp Gluten": {
-        "id": 160,
+        "id": 162,
         "url": "Zet/Không dung nạp Gluten.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Nhà Lý": {
-        "id": 161,
+        "id": 163,
         "url": "Zet/Nhà Lý.md",
         "outgoing_links": [],
         "backlinks": [
@@ -1978,7 +2006,7 @@
         ]
     },
     "Triệu Đà truyền ngôi cho con của Trọng Thủy": {
-        "id": 162,
+        "id": 164,
         "url": "Zet/Triệu Đà truyền ngôi cho con của Trọng Thủy.md",
         "outgoing_links": [
             "Nam Việt"
@@ -1986,7 +2014,7 @@
         "backlinks": []
     },
     "Ngô Đình Thục từng bị phạt vạ tuyệt thông": {
-        "id": 163,
+        "id": 165,
         "url": "Zet/Ngô Đình Thục từng bị phạt vạ tuyệt thông.md",
         "outgoing_links": [
             "Ngô Đình Thục",
@@ -1995,19 +2023,19 @@
         "backlinks": []
     },
     "Thập nhị tứ hiếu kể về 24 sự tích tấm gương hiếu thảo": {
-        "id": 164,
+        "id": 166,
         "url": "Zet/Thập nhị tứ hiếu kể về 24 sự tích tấm gương hiếu thảo.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Chất dự trữ trong tế bào nấm là glycogen": {
-        "id": 165,
+        "id": 167,
         "url": "Zet/Chất dự trữ trong tế bào nấm là glycogen.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Tần số Solfeggio": {
-        "id": 166,
+        "id": 168,
         "url": "Zet/Tần số Solfeggio.md",
         "outgoing_links": [
             "Nicola Tesla",
@@ -2019,7 +2047,7 @@
         ]
     },
     "Tam Quốc": {
-        "id": 167,
+        "id": 169,
         "url": "Zet/Tam Quốc.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2030,7 +2058,7 @@
         ]
     },
     "Người Hebrew": {
-        "id": 168,
+        "id": 170,
         "url": "Zet/Người Hebrew.md",
         "outgoing_links": [
             "Người Do Thái"
@@ -2040,7 +2068,7 @@
         ]
     },
     "Homo Neanderthal": {
-        "id": 169,
+        "id": 171,
         "url": "Zet/Homo Neanderthal.md",
         "outgoing_links": [
             "Thuyết tiến hóa",
@@ -2049,7 +2077,7 @@
         "backlinks": []
     },
     "Cải Cách Kháng Nghị": {
-        "id": 170,
+        "id": 172,
         "url": "Zet/Cải Cách Kháng Nghị.md",
         "outgoing_links": [
             "Martin Luther",
@@ -2068,7 +2096,7 @@
         ]
     },
     "Lịch Gregorian": {
-        "id": 171,
+        "id": 173,
         "url": "Zet/Lịch Gregorian.md",
         "outgoing_links": [
             "Pope Gregory XIII",
@@ -2079,7 +2107,7 @@
         ]
     },
     "SM-Algorithm": {
-        "id": 172,
+        "id": 174,
         "url": "Zet/SM-Algorithm.md",
         "outgoing_links": [
             "SuperMemo",
@@ -2091,7 +2119,7 @@
         ]
     },
     "Phương pháp con vịt cao su": {
-        "id": 173,
+        "id": 175,
         "url": "Zet/Phương pháp con vịt cao su.md",
         "outgoing_links": [
             "Kỹ thuật học tập Feymann"
@@ -2101,7 +2129,7 @@
         ]
     },
     "Đạo Bà La Môn": {
-        "id": 174,
+        "id": 176,
         "url": "Zet/Đạo Bà La Môn.md",
         "outgoing_links": [
             "Thần Brahma"
@@ -2111,7 +2139,7 @@
         ]
     },
     "Chemtrails": {
-        "id": 175,
+        "id": 177,
         "url": "Zet/Chemtrails.md",
         "outgoing_links": [
             "Contrails",
@@ -2123,7 +2151,7 @@
         ]
     },
     "Cơ Đốc Giáo": {
-        "id": 176,
+        "id": 178,
         "url": "Zet/Cơ Đốc Giáo.md",
         "outgoing_links": [
             "Công Giáo",
@@ -2146,7 +2174,7 @@
         ]
     },
     "Theo Đại việt sử ký toàn thư, Thần Nông là tổ tiên của người Việt": {
-        "id": 177,
+        "id": 179,
         "url": "Zet/Theo Đại việt sử ký toàn thư, Thần Nông là tổ tiên của người Việt.md",
         "outgoing_links": [
             "Thần Nông"
@@ -2154,7 +2182,7 @@
         "backlinks": []
     },
     "Người Do Thái": {
-        "id": 178,
+        "id": 180,
         "url": "Zet/Người Do Thái.md",
         "outgoing_links": [
             "Người Hebrew",
@@ -2193,7 +2221,7 @@
         ]
     },
     "Vạ Tuyệt thông": {
-        "id": 179,
+        "id": 181,
         "url": "Zet/Vạ Tuyệt thông.md",
         "outgoing_links": [
             "Công Giáo",
@@ -2207,7 +2235,7 @@
         ]
     },
     "Người Samari": {
-        "id": 180,
+        "id": 182,
         "url": "Zet/Người Samari.md",
         "outgoing_links": [
             "Chi tộc Joseph"
@@ -2215,7 +2243,7 @@
         "backlinks": []
     },
     "Carbohydrate": {
-        "id": 181,
+        "id": 183,
         "url": "Zet/Carbohydrate.md",
         "outgoing_links": [
             "Carbohydrate"
@@ -2226,7 +2254,7 @@
         ]
     },
     "Backlink Graph View": {
-        "id": 182,
+        "id": 184,
         "url": "Zet/Backlink Graph View.md",
         "outgoing_links": [
             "Markdown Language",
@@ -2237,7 +2265,7 @@
         "backlinks": []
     },
     "Chiêm tinh học": {
-        "id": 183,
+        "id": 185,
         "url": "Zet/Chiêm tinh học.md",
         "outgoing_links": [
             "Cung hoàng đạo",
@@ -2248,13 +2276,13 @@
         ]
     },
     "Hiệu ứng Pygmalion": {
-        "id": 184,
+        "id": 186,
         "url": "Zet/Hiệu ứng Pygmalion.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Các Đại Hãn Mông Cổ": {
-        "id": 185,
+        "id": 187,
         "url": "Zet/Các Đại Hãn Mông Cổ.md",
         "outgoing_links": [
             "Đại Hãn",
@@ -2265,7 +2293,7 @@
         ]
     },
     "FBI": {
-        "id": 186,
+        "id": 188,
         "url": "Zet/FBI.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2274,7 +2302,7 @@
         ]
     },
     "Autophagy": {
-        "id": 187,
+        "id": 189,
         "url": "Zet/Autophagy.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2282,7 +2310,7 @@
         ]
     },
     "Giải Nobel": {
-        "id": 188,
+        "id": 190,
         "url": "Zet/Giải Nobel.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2293,7 +2321,7 @@
         ]
     },
     "Người Gruzia": {
-        "id": 189,
+        "id": 191,
         "url": "Zet/Người Gruzia.md",
         "outgoing_links": [
             "Cơ Đốc Giáo"
@@ -2303,7 +2331,7 @@
         ]
     },
     "Thuyết tiến hóa": {
-        "id": 190,
+        "id": 192,
         "url": "Zet/Thuyết tiến hóa.md",
         "outgoing_links": [
             "Charles Darwin"
@@ -2315,7 +2343,7 @@
         ]
     },
     "Kỷ nguyên chiêm tinh": {
-        "id": 191,
+        "id": 193,
         "url": "Zet/Kỷ nguyên chiêm tinh.md",
         "outgoing_links": [
             "Năm vũ trụ"
@@ -2326,7 +2354,7 @@
         ]
     },
     "Anton Lavey được xem là cha đẻ của Satan giáo": {
-        "id": 192,
+        "id": 194,
         "url": "Zet/Anton Lavey được xem là cha đẻ của Satan giáo.md",
         "outgoing_links": [
             "Anton Lavey",
@@ -2338,7 +2366,7 @@
         ]
     },
     "Thánh Gioan Thánh giá là học trò của Teresa of Avila": {
-        "id": 193,
+        "id": 195,
         "url": "Zet/Thánh Gioan Thánh giá là học trò của Teresa of Avila.md",
         "outgoing_links": [
             "Thánh Gioan Thánh giá",
@@ -2349,7 +2377,7 @@
         ]
     },
     "1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại": {
-        "id": 194,
+        "id": 196,
         "url": "Zet/1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại.md",
         "outgoing_links": [
             "Ngô Đình Diệm",
@@ -2358,7 +2386,7 @@
         "backlinks": []
     },
     "Hồi Giáo": {
-        "id": 195,
+        "id": 197,
         "url": "Zet/Hồi Giáo.md",
         "outgoing_links": [
             "Abraham",
@@ -2381,7 +2409,7 @@
         ]
     },
     "Ngụy thư Giacobe": {
-        "id": 196,
+        "id": 198,
         "url": "Zet/Ngụy thư Giacobe.md",
         "outgoing_links": [
             "Đức Jesus"
@@ -2392,7 +2420,7 @@
         ]
     },
     "Phố cổ Hội An": {
-        "id": 197,
+        "id": 199,
         "url": "Zet/Phố cổ Hội An.md",
         "outgoing_links": [
             "Chùa Cầu"
@@ -2403,7 +2431,7 @@
         ]
     },
     "Bộ chín vĩ đại của Heliopolis": {
-        "id": 198,
+        "id": 200,
         "url": "Zet/Bộ chín vĩ đại của Heliopolis.md",
         "outgoing_links": [
             "Thần Ra",
@@ -2424,7 +2452,7 @@
         ]
     },
     "New World Order": {
-        "id": 199,
+        "id": 201,
         "url": "Zet/New World Order.md",
         "outgoing_links": [
             "Hội Illuminati"
@@ -2435,7 +2463,7 @@
         ]
     },
     "Phần mềm Notion": {
-        "id": 200,
+        "id": 202,
         "url": "Zet/Phần mềm Notion.md",
         "outgoing_links": [
             "Backlink",
@@ -2449,7 +2477,7 @@
         ]
     },
     "Hồ Quý Ly còn được gọi là Lê Quý Ly": {
-        "id": 201,
+        "id": 203,
         "url": "Zet/Hồ Quý Ly còn được gọi là Lê Quý Ly.md",
         "outgoing_links": [
             "Hồ Quý Ly"
@@ -2457,7 +2485,7 @@
         "backlinks": []
     },
     "Tổng lãnh vương cung thánh đường": {
-        "id": 202,
+        "id": 204,
         "url": "Zet/Tổng lãnh vương cung thánh đường.md",
         "outgoing_links": [
             "Đại vương cung thánh đường",
@@ -2466,7 +2494,7 @@
         "backlinks": []
     },
     "Permanent Note": {
-        "id": 203,
+        "id": 205,
         "url": "Zet/Permanent Note.md",
         "outgoing_links": [
             "Niklas Luhmann",
@@ -2482,7 +2510,7 @@
         ]
     },
     "Toán học": {
-        "id": 204,
+        "id": 206,
         "url": "Zet/Toán học.md",
         "outgoing_links": [
             "Pythagoras",
@@ -2493,7 +2521,7 @@
         ]
     },
     "Language": {
-        "id": 205,
+        "id": 207,
         "url": "Zet/Language.md",
         "outgoing_links": [
             "Esperanto - Quốc tế  ngữ"
@@ -2503,7 +2531,7 @@
         ]
     },
     "Area 51": {
-        "id": 206,
+        "id": 208,
         "url": "Zet/Area 51.md",
         "outgoing_links": [
             "UFO"
@@ -2511,7 +2539,7 @@
         "backlinks": []
     },
     "Zettelkasten": {
-        "id": 207,
+        "id": 209,
         "url": "Zet/Zettelkasten.md",
         "outgoing_links": [
             "Niklas Luhmann",
@@ -2539,13 +2567,13 @@
         ]
     },
     "Theo các nghiên cứu sử học, thời đại các vua Hùng chỉ tồn khoảng 300 năm chứ không đến 2000 năm": {
-        "id": 208,
+        "id": 210,
         "url": "Zet/Theo các nghiên cứu sử học, thời đại các vua Hùng chỉ tồn khoảng 300 năm chứ không đến 2000 năm.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử": {
-        "id": 209,
+        "id": 211,
         "url": "Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử.md",
         "outgoing_links": [
             "CIA",
@@ -2556,7 +2584,7 @@
         "backlinks": []
     },
     "Thiên thần Gabriel": {
-        "id": 210,
+        "id": 212,
         "url": "Zet/Thiên thần Gabriel.md",
         "outgoing_links": [
             "Gabriel có nghĩa là người của Thiên Chúa",
@@ -2571,7 +2599,7 @@
         ]
     },
     "Shell": {
-        "id": 211,
+        "id": 213,
         "url": "Zet/Shell.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2579,7 +2607,7 @@
         ]
     },
     "Rothschild nghĩa là dấu hiệu đỏ": {
-        "id": 212,
+        "id": 214,
         "url": "Zet/Rothschild nghĩa là dấu hiệu đỏ.md",
         "outgoing_links": [
             "Gia tộc Rothschild",
@@ -2591,7 +2619,7 @@
         ]
     },
     "Thần Shu": {
-        "id": 213,
+        "id": 215,
         "url": "Zet/Thần Shu.md",
         "outgoing_links": [
             "Ai Cập Cổ Đại",
@@ -2604,7 +2632,7 @@
         ]
     },
     "Đại vương cung thánh đường": {
-        "id": 214,
+        "id": 216,
         "url": "Zet/Đại vương cung thánh đường.md",
         "outgoing_links": [
             "Vương cung thánh đường Thánh Phêrô"
@@ -2615,7 +2643,7 @@
         ]
     },
     "Obsidian Publish": {
-        "id": 215,
+        "id": 217,
         "url": "Zet/Obsidian Publish.md",
         "outgoing_links": [
             "Obsidian",
@@ -2625,7 +2653,7 @@
         "backlinks": []
     },
     "Phim Thiên mệnh anh hùng": {
-        "id": 216,
+        "id": 218,
         "url": "Zet/Phim Thiên mệnh anh hùng.md",
         "outgoing_links": [
             "Vụ án Lệ Chi Viên",
@@ -2635,7 +2663,7 @@
         "backlinks": []
     },
     "Điện xoay chiều": {
-        "id": 217,
+        "id": 219,
         "url": "Zet/Điện xoay chiều.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2643,7 +2671,7 @@
         ]
     },
     "Hồng Lâu Mộng": {
-        "id": 218,
+        "id": 220,
         "url": "Zet/Hồng Lâu Mộng.md",
         "outgoing_links": [
             "Nhà Thanh"
@@ -2653,7 +2681,7 @@
         ]
     },
     "Nhà Hậu Hán": {
-        "id": 219,
+        "id": 221,
         "url": "Zet/Nhà Hậu Hán.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2664,7 +2692,7 @@
         ]
     },
     "Thần Shiva": {
-        "id": 220,
+        "id": 222,
         "url": "Zet/Thần Shiva.md",
         "outgoing_links": [
             "Tam thần Ấn giáo",
@@ -2676,7 +2704,7 @@
         ]
     },
     "Ngũ đế Trung Hoa": {
-        "id": 221,
+        "id": 223,
         "url": "Zet/Ngũ đế Trung Hoa.md",
         "outgoing_links": [
             "Đế Nghiêu",
@@ -2687,7 +2715,7 @@
         ]
     },
     "Jean Paul Sartre": {
-        "id": 222,
+        "id": 224,
         "url": "Zet/Jean Paul Sartre.md",
         "outgoing_links": [
             "Chủ nghĩa hiện sinh",
@@ -2698,7 +2726,7 @@
         ]
     },
     "Nữ thần ISIS": {
-        "id": 223,
+        "id": 225,
         "url": "Zet/Nữ thần ISIS.md",
         "outgoing_links": [
             "Ai Cập Cổ Đại",
@@ -2710,7 +2738,7 @@
         ]
     },
     "Chúa Trịnh": {
-        "id": 224,
+        "id": 226,
         "url": "Zet/Chúa Trịnh.md",
         "outgoing_links": [
             "Đàng Ngoài",
@@ -2727,13 +2755,13 @@
         ]
     },
     "Cộng hưởng Schumann": {
-        "id": 225,
+        "id": 227,
         "url": "Zet/Cộng hưởng Schumann.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Thần Nu": {
-        "id": 226,
+        "id": 228,
         "url": "Zet/Thần Nu.md",
         "outgoing_links": [
             "Ai Cập Cổ Đại",
@@ -2745,7 +2773,7 @@
         ]
     },
     "Bách gia Chư tử": {
-        "id": 227,
+        "id": 229,
         "url": "Zet/Bách gia Chư tử.md",
         "outgoing_links": [
             "Lão Tử",
@@ -2755,7 +2783,7 @@
         "backlinks": []
     },
     "Thảm họa Chernobyl": {
-        "id": 228,
+        "id": 230,
         "url": "Zet/Thảm họa Chernobyl.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2763,7 +2791,7 @@
         ]
     },
     "Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé": {
-        "id": 229,
+        "id": 231,
         "url": "Zet/Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé.md",
         "outgoing_links": [
             "Đinh Bộ Lĩnh",
@@ -2773,7 +2801,7 @@
         "backlinks": []
     },
     "Thục Phán đánh bại Văn Lang lập Âu Việt": {
-        "id": 230,
+        "id": 232,
         "url": "Zet/Thục Phán đánh bại Văn Lang lập Âu Việt.md",
         "outgoing_links": [
             "An Dương Vương",
@@ -2785,7 +2813,7 @@
         ]
     },
     "Thời Lê trung hưng": {
-        "id": 231,
+        "id": 233,
         "url": "Zet/Thời Lê trung hưng.md",
         "outgoing_links": [
             "Nhà Hậu Lê",
@@ -2800,7 +2828,7 @@
         ]
     },
     "John F. Kennedy phản đối chiến tranh Việt Nam": {
-        "id": 232,
+        "id": 234,
         "url": "Zet/John F. Kennedy phản đối chiến tranh Việt Nam.md",
         "outgoing_links": [
             "John F. Kennedy",
@@ -2811,7 +2839,7 @@
         ]
     },
     "Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng": {
-        "id": 233,
+        "id": 235,
         "url": "Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng.md",
         "outgoing_links": [
             "Kary B. Mullis",
@@ -2823,13 +2851,13 @@
         ]
     },
     "How to use Bibliography": {
-        "id": 234,
+        "id": 236,
         "url": "Zet/How to use Bibliography.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Vườn không nhà trống": {
-        "id": 235,
+        "id": 237,
         "url": "Zet/Vườn không nhà trống.md",
         "outgoing_links": [
             "Lấy chiến tranh nuôi chiến tranh"
@@ -2841,7 +2869,7 @@
         ]
     },
     "Trần Liễu có mối hận với em trai mình là Trần Cảnh": {
-        "id": 236,
+        "id": 238,
         "url": "Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh.md",
         "outgoing_links": [
             "Trần Liễu",
@@ -2855,7 +2883,7 @@
         ]
     },
     "Andrew Hitchcock cho rằng Ashkenazi chính là Khazars": {
-        "id": 237,
+        "id": 239,
         "url": "Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars.md",
         "outgoing_links": [
             "Người Do Thái Ashkenazi",
@@ -2867,7 +2895,7 @@
         ]
     },
     "Hoa Hạ": {
-        "id": 238,
+        "id": 240,
         "url": "Zet/Hoa Hạ.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2875,7 +2903,7 @@
         ]
     },
     "Các định đề Robert Koch": {
-        "id": 239,
+        "id": 241,
         "url": "Zet/Các định đề Robert Koch.md",
         "outgoing_links": [
             "Heinrich Hermann Robert Koch",
@@ -2889,7 +2917,7 @@
         ]
     },
     "Programming": {
-        "id": 240,
+        "id": 242,
         "url": "Zet/Programming.md",
         "outgoing_links": [
             "Markdown Language",
@@ -2898,7 +2926,7 @@
         "backlinks": []
     },
     "Kháng thể": {
-        "id": 241,
+        "id": 243,
         "url": "Zet/Kháng thể.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2906,7 +2934,7 @@
         ]
     },
     "Tiếng Sanskrit": {
-        "id": 242,
+        "id": 244,
         "url": "Zet/Tiếng Sanskrit.md",
         "outgoing_links": [
             "Người Aryan",
@@ -2920,7 +2948,7 @@
         ]
     },
     "Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ": {
-        "id": 243,
+        "id": 245,
         "url": "Zet/Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2929,7 +2957,7 @@
         ]
     },
     "Nhà Thương": {
-        "id": 244,
+        "id": 246,
         "url": "Zet/Nhà Thương.md",
         "outgoing_links": [],
         "backlinks": [
@@ -2941,7 +2969,7 @@
         ]
     },
     "Nhà Hạ": {
-        "id": 245,
+        "id": 247,
         "url": "Zet/Nhà Hạ.md",
         "outgoing_links": [
             "Hoa Hạ"
@@ -2954,7 +2982,7 @@
         ]
     },
     "Anabaptist": {
-        "id": 246,
+        "id": 248,
         "url": "Zet/Anabaptist.md",
         "outgoing_links": [
             "Mennonite",
@@ -2967,7 +2995,7 @@
         ]
     },
     "Vương cung thánh đường Thánh Phêrô": {
-        "id": 247,
+        "id": 249,
         "url": "Zet/Vương cung thánh đường Thánh Phêrô.md",
         "outgoing_links": [
             "Vatican"
@@ -2977,7 +3005,7 @@
         ]
     },
     "Mông Kha là cháu nội Thành Cát Tư Hãn": {
-        "id": 248,
+        "id": 250,
         "url": "Zet/Mông Kha là cháu nội Thành Cát Tư Hãn.md",
         "outgoing_links": [
             "Mông Kha"
@@ -2985,7 +3013,7 @@
         "backlinks": []
     },
     "Chùa Cầu": {
-        "id": 249,
+        "id": 251,
         "url": "Zet/Chùa Cầu.md",
         "outgoing_links": [
             "Phố cổ Hội An",
@@ -2997,7 +3025,7 @@
         ]
     },
     "Theotokos": {
-        "id": 250,
+        "id": 252,
         "url": "Zet/Theotokos.md",
         "outgoing_links": [
             "Đức Jesus"
@@ -3005,7 +3033,7 @@
         "backlinks": []
     },
     "Intermittent Fasting": {
-        "id": 251,
+        "id": 253,
         "url": "Zet/Intermittent Fasting.md",
         "outgoing_links": [
             "Chế độ ăn 5-2"
@@ -3016,7 +3044,7 @@
         ]
     },
     "Nhà nguyện Sistine": {
-        "id": 252,
+        "id": 254,
         "url": "Zet/Nhà nguyện Sistine.md",
         "outgoing_links": [
             "Vatican"
@@ -3024,7 +3052,7 @@
         "backlinks": []
     },
     "Năm vũ trụ": {
-        "id": 253,
+        "id": 255,
         "url": "Zet/Năm vũ trụ.md",
         "outgoing_links": [
             "Kỷ nguyên Bảo Bình",
@@ -3036,7 +3064,7 @@
         ]
     },
     "Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần": {
-        "id": 254,
+        "id": 256,
         "url": "Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần.md",
         "outgoing_links": [
             "Trần Liễu",
@@ -3050,7 +3078,7 @@
         ]
     },
     "Luân xa rốn": {
-        "id": 255,
+        "id": 257,
         "url": "Zet/Luân xa rốn.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3060,7 +3088,7 @@
         ]
     },
     "Coronavirus": {
-        "id": 256,
+        "id": 258,
         "url": "Zet/Coronavirus.md",
         "outgoing_links": [
             "Beta-Coronavirus",
@@ -3080,13 +3108,13 @@
         ]
     },
     "Triết lý Ho’oponopono": {
-        "id": 257,
+        "id": 259,
         "url": "Zet/Triết lý Ho’oponopono.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Garden state": {
-        "id": 258,
+        "id": 260,
         "url": "Zet/Garden state.md",
         "outgoing_links": [
             "❕ Ý nghĩa cuộc sống",
@@ -3097,7 +3125,7 @@
         ]
     },
     "Các lý thuyết về nguyên nhân gây bệnh ung thư": {
-        "id": 259,
+        "id": 261,
         "url": "Zet/Các lý thuyết về nguyên nhân gây bệnh ung thư.md",
         "outgoing_links": [
             "Big Medicine"
@@ -3108,7 +3136,7 @@
         ]
     },
     "Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika": {
-        "id": 260,
+        "id": 262,
         "url": "Zet/Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika.md",
         "outgoing_links": [
             "Mikhail Gorbachev"
@@ -3119,7 +3147,7 @@
         ]
     },
     "Đoàn Dự": {
-        "id": 261,
+        "id": 263,
         "url": "Zet/Đoàn Dự.md",
         "outgoing_links": [
             "Nhà Đại Lý"
@@ -3130,7 +3158,7 @@
         ]
     },
     "Đền thờ An Dương Vương ở ngoại thành Hà Nội": {
-        "id": 262,
+        "id": 264,
         "url": "Zet/Đền thờ An Dương Vương ở ngoại thành Hà Nội.md",
         "outgoing_links": [
             "An Dương Vương"
@@ -3138,7 +3166,7 @@
         "backlinks": []
     },
     "Incremental Reading": {
-        "id": 263,
+        "id": 265,
         "url": "Zet/Incremental Reading.md",
         "outgoing_links": [
             "SuperMemo",
@@ -3151,7 +3179,7 @@
         ]
     },
     "Người Do Thái Ethiopia": {
-        "id": 264,
+        "id": 266,
         "url": "Zet/Người Do Thái Ethiopia.md",
         "outgoing_links": [
             "Người Do Thái"
@@ -3163,7 +3191,7 @@
         ]
     },
     "13 đức hạnh theo Benjamin Franklin": {
-        "id": 265,
+        "id": 267,
         "url": "Zet/13 đức hạnh theo Benjamin Franklin.md",
         "outgoing_links": [
             "Benjamin Franklin"
@@ -3171,7 +3199,7 @@
         "backlinks": []
     },
     "Các tên gọi của vua Lý Chiêu Hoàng": {
-        "id": 266,
+        "id": 268,
         "url": "Zet/Các tên gọi của vua Lý Chiêu Hoàng.md",
         "outgoing_links": [
             "Lý Chiêu Hoàng",
@@ -3183,7 +3211,7 @@
         ]
     },
     "Hội tam điểm có những biểu tượng, nghi lễ huyền bí và tư tưởng bắt nguồn từ Hiệp sĩ Dòng Đền": {
-        "id": 267,
+        "id": 269,
         "url": "Zet/Hội tam điểm có những biểu tượng, nghi lễ huyền bí và tư tưởng bắt nguồn từ Hiệp sĩ Dòng Đền.md",
         "outgoing_links": [
             "Hội tam điểm",
@@ -3195,7 +3223,7 @@
         ]
     },
     "Bồ Đào Nha": {
-        "id": 268,
+        "id": 270,
         "url": "Zet/Bồ Đào Nha.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3206,7 +3234,7 @@
         ]
     },
     "Nguyễn Ánh": {
-        "id": 269,
+        "id": 271,
         "url": "Zet/Nguyễn Ánh.md",
         "outgoing_links": [
             "Chúa Nguyễn",
@@ -3224,7 +3252,7 @@
         ]
     },
     "Thảm họa Fukushima": {
-        "id": 270,
+        "id": 272,
         "url": "Zet/Thảm họa Fukushima.md",
         "outgoing_links": [
             "Thảm họa hạt nhân"
@@ -3234,7 +3262,7 @@
         ]
     },
     "Will Durant cho rằng, Mặc Tử là một trong những lý luận gia lí sự vô lý": {
-        "id": 271,
+        "id": 273,
         "url": "Zet/Will Durant cho rằng, Mặc Tử là một trong những lý luận gia lí sự vô lý.md",
         "outgoing_links": [
             "Mặc Tử"
@@ -3242,7 +3270,7 @@
         "backlinks": []
     },
     "Chúa Giáng Sinh": {
-        "id": 272,
+        "id": 274,
         "url": "Zet/Chúa Giáng Sinh.md",
         "outgoing_links": [
             "Công Giáo",
@@ -3254,7 +3282,7 @@
         ]
     },
     "Rat race": {
-        "id": 273,
+        "id": 275,
         "url": "Zet/Rat race.md",
         "outgoing_links": [
             "❕ Ý nghĩa cuộc sống",
@@ -3267,7 +3295,7 @@
         ]
     },
     "Bệnh ung thư": {
-        "id": 274,
+        "id": 276,
         "url": "Zet/Bệnh ung thư.md",
         "outgoing_links": [
             "Các lý thuyết về nguyên nhân gây bệnh ung thư"
@@ -3277,7 +3305,7 @@
         ]
     },
     "Nhà Nguyễn": {
-        "id": 275,
+        "id": 277,
         "url": "Zet/Nhà Nguyễn.md",
         "outgoing_links": [
             "Chúa Nguyễn",
@@ -3294,7 +3322,7 @@
         ]
     },
     "Ivermectin": {
-        "id": 276,
+        "id": 278,
         "url": "Zet/Ivermectin.md",
         "outgoing_links": [
             "COVID-19",
@@ -3308,7 +3336,7 @@
         ]
     },
     "Benjamin Franklin là thành viên Hội tam điểm": {
-        "id": 277,
+        "id": 279,
         "url": "Zet/Benjamin Franklin là thành viên Hội tam điểm.md",
         "outgoing_links": [
             "Benjamin Franklin",
@@ -3317,13 +3345,13 @@
         "backlinks": []
     },
     "Tiếng Việt và Mường cùng một chi trong ngữ hệ Nam Á": {
-        "id": 278,
+        "id": 280,
         "url": "Zet/Tiếng Việt và Mường cùng một chi trong ngữ hệ Nam Á.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "FDA": {
-        "id": 279,
+        "id": 281,
         "url": "Zet/FDA.md",
         "outgoing_links": [
             "Sức khỏe",
@@ -3343,13 +3371,13 @@
         ]
     },
     "Apochrypha - Ngụy thư kinh thánh": {
-        "id": 280,
+        "id": 282,
         "url": "Zet/Apochrypha - Ngụy thư kinh thánh.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Hạ thế giới": {
-        "id": 281,
+        "id": 283,
         "url": "Zet/Hạ thế giới.md",
         "outgoing_links": [
             "Thức tỉnh tâm linh",
@@ -3362,7 +3390,7 @@
         ]
     },
     "Thần Ra": {
-        "id": 282,
+        "id": 284,
         "url": "Zet/Thần Ra.md",
         "outgoing_links": [
             "Thần Ra có hai người con là Shu và Tefnut",
@@ -3377,7 +3405,7 @@
         ]
     },
     "Contrails": {
-        "id": 283,
+        "id": 285,
         "url": "Zet/Contrails.md",
         "outgoing_links": [
             "Chemtrails"
@@ -3387,7 +3415,7 @@
         ]
     },
     "Cung hoàng đạo": {
-        "id": 284,
+        "id": 286,
         "url": "Zet/Cung hoàng đạo.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3396,7 +3424,7 @@
         ]
     },
     "Phong trào khai sáng": {
-        "id": 285,
+        "id": 287,
         "url": "Zet/Phong trào khai sáng.md",
         "outgoing_links": [
             "René Descartes"
@@ -3404,7 +3432,7 @@
         "backlinks": []
     },
     "Chủ Nghĩa Hiện Sinh": {
-        "id": 286,
+        "id": 288,
         "url": "Zet/Chủ Nghĩa Hiện Sinh.md",
         "outgoing_links": [
             "Jean Paul Sartre",
@@ -3414,13 +3442,13 @@
         "backlinks": []
     },
     "Chất béo bão hòa": {
-        "id": 287,
+        "id": 289,
         "url": "Zet/Chất béo bão hòa.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Vạ tuyệt thông tiền kết": {
-        "id": 288,
+        "id": 290,
         "url": "Zet/Vạ tuyệt thông tiền kết.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3428,7 +3456,7 @@
         ]
     },
     "Công Giáo": {
-        "id": 289,
+        "id": 291,
         "url": "Zet/Công Giáo.md",
         "outgoing_links": [
             "Đức Jesus",
@@ -3473,7 +3501,7 @@
         ]
     },
     "An Dương Vương": {
-        "id": 290,
+        "id": 292,
         "url": "Zet/An Dương Vương.md",
         "outgoing_links": [
             "Thục Phán đánh bại Văn Lang lập Âu Việt"
@@ -3491,7 +3519,7 @@
         ]
     },
     "Do Thái Edomite": {
-        "id": 291,
+        "id": 293,
         "url": "Zet/Do Thái Edomite.md",
         "outgoing_links": [
             "Khazars"
@@ -3499,7 +3527,7 @@
         "backlinks": []
     },
     "Bảo Đại bỏ các phép tắc lễ nghi cũ trong triều": {
-        "id": 292,
+        "id": 294,
         "url": "Zet/Bảo Đại bỏ các phép tắc lễ nghi cũ trong triều.md",
         "outgoing_links": [
             "Bảo Đại"
@@ -3507,7 +3535,7 @@
         "backlinks": []
     },
     "Big Medicine": {
-        "id": 293,
+        "id": 295,
         "url": "Zet/Big Medicine.md",
         "outgoing_links": [
             "QAnon",
@@ -3528,7 +3556,7 @@
         ]
     },
     "Lễ kính thiên thần Micael là 29 tháng 9": {
-        "id": 294,
+        "id": 296,
         "url": "Zet/Lễ kính thiên thần Micael là 29 tháng 9.md",
         "outgoing_links": [
             "Thiên thần Micael",
@@ -3543,7 +3571,7 @@
         ]
     },
     "Mennonite": {
-        "id": 295,
+        "id": 297,
         "url": "Zet/Mennonite.md",
         "outgoing_links": [
             "Anabaptist",
@@ -3554,7 +3582,7 @@
         ]
     },
     "Citation": {
-        "id": 296,
+        "id": 298,
         "url": "Zet/Citation.md",
         "outgoing_links": [
             "Reference Manager"
@@ -3565,7 +3593,7 @@
         ]
     },
     "Lịch sử Trung Quốc": {
-        "id": 297,
+        "id": 299,
         "url": "Zet/Lịch sử Trung Quốc.md",
         "outgoing_links": [
             "Nhà Tần",
@@ -3603,7 +3631,7 @@
         ]
     },
     "Chủ nghĩa hư vô chủ động": {
-        "id": 298,
+        "id": 300,
         "url": "Zet/Chủ nghĩa hư vô chủ động.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3611,7 +3639,7 @@
         ]
     },
     "Janus": {
-        "id": 299,
+        "id": 301,
         "url": "Zet/Janus.md",
         "outgoing_links": [
             "Qmap"
@@ -3621,7 +3649,7 @@
         ]
     },
     "Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái": {
-        "id": 300,
+        "id": 302,
         "url": "Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -3630,7 +3658,7 @@
         "backlinks": []
     },
     "The Second Brain": {
-        "id": 301,
+        "id": 303,
         "url": "Zet/The Second Brain.md",
         "outgoing_links": [
             "Zettelkasten",
@@ -3641,7 +3669,7 @@
         ]
     },
     "Spacing Effect": {
-        "id": 302,
+        "id": 304,
         "url": "Zet/Spacing Effect.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3649,7 +3677,7 @@
         ]
     },
     "Gioan Thánh giá gọi Chúa là nada": {
-        "id": 303,
+        "id": 305,
         "url": "Zet/Gioan Thánh giá gọi Chúa là nada.md",
         "outgoing_links": [
             "Thánh Gioan Thánh giá",
@@ -3658,7 +3686,7 @@
         "backlinks": []
     },
     "Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh": {
-        "id": 304,
+        "id": 306,
         "url": "Zet/Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh.md",
         "outgoing_links": [
             "Trần Liễu",
@@ -3667,7 +3695,7 @@
         "backlinks": []
     },
     "Reference Manager": {
-        "id": 305,
+        "id": 307,
         "url": "Zet/Reference Manager.md",
         "outgoing_links": [
             "Zettelkasten",
@@ -3681,7 +3709,7 @@
         ]
     },
     "COVID-19": {
-        "id": 306,
+        "id": 308,
         "url": "Zet/COVID-19.md",
         "outgoing_links": [
             "SARS-CoV-2",
@@ -3704,7 +3732,7 @@
         ]
     },
     "Chiến tranh Việt Nam": {
-        "id": 307,
+        "id": 309,
         "url": "Zet/Chiến tranh Việt Nam.md",
         "outgoing_links": [
             "John F. Kennedy và Chiến tranh Việt Nam",
@@ -3721,7 +3749,7 @@
         ]
     },
     "Tam Hoàng Ngũ Đế": {
-        "id": 308,
+        "id": 310,
         "url": "Zet/Tam Hoàng Ngũ Đế.md",
         "outgoing_links": [
             "Tam Hoàng Trung Hoa",
@@ -3730,7 +3758,7 @@
         "backlinks": []
     },
     "Vaccine Moderna": {
-        "id": 309,
+        "id": 311,
         "url": "Zet/Vaccine Moderna.md",
         "outgoing_links": [
             "Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không",
@@ -3744,7 +3772,7 @@
         ]
     },
     "Ai Cập Cổ Đại": {
-        "id": 310,
+        "id": 312,
         "url": "Zet/Ai Cập Cổ Đại.md",
         "outgoing_links": [
             "Sông Nile"
@@ -3760,7 +3788,7 @@
         ]
     },
     "Một số tên gọi tương ứng với Nguyên thủ quốc gia": {
-        "id": 311,
+        "id": 313,
         "url": "Zet/Một số tên gọi tương ứng với Nguyên thủ quốc gia.md",
         "outgoing_links": [
             "Đức Giáo Hoàng",
@@ -3769,7 +3797,7 @@
         "backlinks": []
     },
     "Kinh Koran": {
-        "id": 312,
+        "id": 314,
         "url": "Zet/Kinh Koran.md",
         "outgoing_links": [
             "Hồi Giáo"
@@ -3780,7 +3808,7 @@
         ]
     },
     "Các chế độ nhịn ăn": {
-        "id": 313,
+        "id": 315,
         "url": "Zet/Các chế độ nhịn ăn.md",
         "outgoing_links": [
             "Intermittent Fasting",
@@ -3795,7 +3823,7 @@
         ]
     },
     "Cain sinh lòng đố kị và ghen ghét Abel": {
-        "id": 314,
+        "id": 316,
         "url": "Zet/Cain sinh lòng đố kị và ghen ghét Abel.md",
         "outgoing_links": [
             "Abel"
@@ -3806,7 +3834,7 @@
         ]
     },
     "Năm sự vui": {
-        "id": 315,
+        "id": 317,
         "url": "Zet/Năm sự vui.md",
         "outgoing_links": [
             "Đức Jesus"
@@ -3816,7 +3844,7 @@
         ]
     },
     "Phù thủy trung cổ": {
-        "id": 316,
+        "id": 318,
         "url": "Zet/Phù thủy trung cổ.md",
         "outgoing_links": [
             "Cơ Đốc Giáo",
@@ -3829,7 +3857,7 @@
         ]
     },
     "John F. Kennedy và Chiến tranh Việt Nam": {
-        "id": 317,
+        "id": 319,
         "url": "Zet/John F. Kennedy và Chiến tranh Việt Nam.md",
         "outgoing_links": [
             "John F. Kennedy",
@@ -3844,7 +3872,7 @@
         ]
     },
     "QAnon": {
-        "id": 318,
+        "id": 320,
         "url": "Zet/QAnon.md",
         "outgoing_links": [
             "Thuyết âm mưu",
@@ -3858,7 +3886,7 @@
         ]
     },
     "Cộng Đoàn Taize": {
-        "id": 319,
+        "id": 321,
         "url": "Zet/Cộng Đoàn Taize.md",
         "outgoing_links": [
             "Công Giáo",
@@ -3867,7 +3895,7 @@
         "backlinks": []
     },
     "An Dương Vương thống nhất hai bộ tộc Âu Lạc và Lạc Việt lập nên Âu Lạc": {
-        "id": 320,
+        "id": 322,
         "url": "Zet/An Dương Vương thống nhất hai bộ tộc Âu Lạc và Lạc Việt lập nên Âu Lạc.md",
         "outgoing_links": [
             "An Dương Vương",
@@ -3876,7 +3904,7 @@
         "backlinks": []
     },
     "Họ Khúc": {
-        "id": 321,
+        "id": 323,
         "url": "Zet/Họ Khúc.md",
         "outgoing_links": [
             "Nhà Đường"
@@ -3886,7 +3914,7 @@
         ]
     },
     "Nhà Chu": {
-        "id": 322,
+        "id": 324,
         "url": "Zet/Nhà Chu.md",
         "outgoing_links": [
             "Nhà Thương",
@@ -3901,7 +3929,7 @@
         ]
     },
     "Baphomet": {
-        "id": 323,
+        "id": 325,
         "url": "Zet/Baphomet.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3909,7 +3937,7 @@
         ]
     },
     "Bóng tối linh hồn": {
-        "id": 324,
+        "id": 326,
         "url": "Zet/Bóng tối linh hồn.md",
         "outgoing_links": [
             "Thức tỉnh tâm linh",
@@ -3926,7 +3954,7 @@
         ]
     },
     "Nhà Nguyên-Mông": {
-        "id": 325,
+        "id": 327,
         "url": "Zet/Nhà Nguyên-Mông.md",
         "outgoing_links": [
             "Đế Quốc Mông Cổ"
@@ -3940,7 +3968,7 @@
         ]
     },
     "Chủ nghĩa Stalin phát triển lý thuyết của Lenin": {
-        "id": 326,
+        "id": 328,
         "url": "Zet/Chủ nghĩa Stalin phát triển lý thuyết của Lenin.md",
         "outgoing_links": [
             "Chủ nghĩa Stalin",
@@ -3950,7 +3978,7 @@
         "backlinks": []
     },
     "Định lý Thales": {
-        "id": 327,
+        "id": 329,
         "url": "Zet/Định lý Thales.md",
         "outgoing_links": [],
         "backlinks": [
@@ -3958,7 +3986,7 @@
         ]
     },
     "Phật Giáo": {
-        "id": 328,
+        "id": 330,
         "url": "Zet/Phật Giáo.md",
         "outgoing_links": [
             "Siddhartha Gautama"
@@ -3970,7 +3998,7 @@
         ]
     },
     "Thiên thần Micael": {
-        "id": 329,
+        "id": 331,
         "url": "Zet/Thiên thần Micael.md",
         "outgoing_links": [
             "Micael có nghĩa là Ai bằng Thiên Chúa❓",
@@ -3991,7 +4019,7 @@
         ]
     },
     "Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế": {
-        "id": 330,
+        "id": 332,
         "url": "Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -4000,7 +4028,7 @@
         "backlinks": []
     },
     "Tam Hoàng Trung Hoa": {
-        "id": 331,
+        "id": 333,
         "url": "Zet/Tam Hoàng Trung Hoa.md",
         "outgoing_links": [
             "Phục Hi",
@@ -4013,7 +4041,7 @@
         ]
     },
     "Mayer Rothschild làm quen General von Estorff để tiếp cận Hoàng tộc William IX": {
-        "id": 332,
+        "id": 334,
         "url": "Zet/Mayer Rothschild làm quen General von Estorff để tiếp cận Hoàng tộc William IX.md",
         "outgoing_links": [
             "Mayer Amschel Bauer"
@@ -4021,7 +4049,7 @@
         "backlinks": []
     },
     "Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ": {
-        "id": 333,
+        "id": 335,
         "url": "Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ.md",
         "outgoing_links": [
             "Robert Wallace Malone",
@@ -4033,7 +4061,7 @@
         ]
     },
     "Phông chữ Sans Serif": {
-        "id": 334,
+        "id": 336,
         "url": "Zet/Phông chữ Sans Serif.md",
         "outgoing_links": [
             "Phông chữ kiểu Serif"
@@ -4043,7 +4071,7 @@
         ]
     },
     "Thần Osiris": {
-        "id": 335,
+        "id": 337,
         "url": "Zet/Thần Osiris.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4051,7 +4079,7 @@
         ]
     },
     "Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả": {
-        "id": 336,
+        "id": 338,
         "url": "Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả.md",
         "outgoing_links": [
             "Người Do Thái Ashkenazi",
@@ -4063,7 +4091,7 @@
         ]
     },
     "Build back better": {
-        "id": 337,
+        "id": 339,
         "url": "Zet/Build back better.md",
         "outgoing_links": [
             "Thuyết âm mưu"
@@ -4071,13 +4099,13 @@
         "backlinks": []
     },
     "Quy luật 2 phút": {
-        "id": 338,
+        "id": 340,
         "url": "Zet/Quy luật 2 phút.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Chế độ ăn 5-2": {
-        "id": 339,
+        "id": 341,
         "url": "Zet/Chế độ ăn 5-2.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4086,15 +4114,23 @@
         ]
     },
     "Mấy thứ nhảm nhí mắc cười": {
-        "id": 340,
+        "id": 342,
         "url": "Zet/Mấy thứ nhảm nhí mắc cười.md",
         "outgoing_links": [
             "Sưu tầm mem chế"
         ],
         "backlinks": []
     },
+    "Hội Quốc Liên": {
+        "id": 343,
+        "url": "Zet/Hội Quốc Liên.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Bức tường Berlin"
+        ]
+    },
     "Ngũ Kinh Cựu Ước": {
-        "id": 341,
+        "id": 344,
         "url": "Zet/Ngũ Kinh Cựu Ước.md",
         "outgoing_links": [
             "Cựu Ước",
@@ -4110,7 +4146,7 @@
         ]
     },
     "Titanic": {
-        "id": 342,
+        "id": 345,
         "url": "Zet/Titanic.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4118,7 +4154,7 @@
         ]
     },
     "Người Do Thái Mizrahi": {
-        "id": 343,
+        "id": 346,
         "url": "Zet/Người Do Thái Mizrahi.md",
         "outgoing_links": [
             "Người Do Thái Sephardi"
@@ -4130,7 +4166,7 @@
         ]
     },
     "Hội tam điểm": {
-        "id": 344,
+        "id": 347,
         "url": "Zet/Hội tam điểm.md",
         "outgoing_links": [
             "Benjamin Franklin",
@@ -4147,13 +4183,13 @@
         ]
     },
     "Where We Go One We Go All": {
-        "id": 345,
+        "id": 348,
         "url": "Zet/Where We Go One We Go All.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Reference Manager Software": {
-        "id": 346,
+        "id": 349,
         "url": "Zet/Reference Manager Software.md",
         "outgoing_links": [
             "Reference Manager"
@@ -4163,7 +4199,7 @@
         ]
     },
     "Do Thái Giáo": {
-        "id": 347,
+        "id": 350,
         "url": "Zet/Do Thái Giáo.md",
         "outgoing_links": [
             "Abraham",
@@ -4191,7 +4227,7 @@
         ]
     },
     "Khazarian Mafia": {
-        "id": 348,
+        "id": 351,
         "url": "Zet/Khazarian Mafia.md",
         "outgoing_links": [
             "Khazaria",
@@ -4209,7 +4245,7 @@
         ]
     },
     "Bolshevik và Menshevik": {
-        "id": 349,
+        "id": 352,
         "url": "Zet/Bolshevik và Menshevik.md",
         "outgoing_links": [
             "Bolshevik",
@@ -4223,7 +4259,7 @@
         ]
     },
     "NESARA": {
-        "id": 350,
+        "id": 353,
         "url": "Zet/NESARA.md",
         "outgoing_links": [
             "Donald J. Trump",
@@ -4236,7 +4272,7 @@
         ]
     },
     "Thần Vishnu": {
-        "id": 351,
+        "id": 354,
         "url": "Zet/Thần Vishnu.md",
         "outgoing_links": [
             "Ấn Độ giáo",
@@ -4249,13 +4285,13 @@
         ]
     },
     "Hệ số ELO": {
-        "id": 352,
+        "id": 355,
         "url": "Zet/Hệ số ELO.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Vaccine Pfizer": {
-        "id": 353,
+        "id": 356,
         "url": "Zet/Vaccine Pfizer.md",
         "outgoing_links": [
             "Các loại Vaccine COVID 19",
@@ -4270,7 +4306,7 @@
         ]
     },
     "Vaccine": {
-        "id": 354,
+        "id": 357,
         "url": "Zet/Vaccine.md",
         "outgoing_links": [
             "Vaccination",
@@ -4294,7 +4330,7 @@
         ]
     },
     "Luân xa xương cùng": {
-        "id": 355,
+        "id": 358,
         "url": "Zet/Luân xa xương cùng.md",
         "outgoing_links": [
             "Luân xa rốn"
@@ -4305,13 +4341,13 @@
         ]
     },
     "Node package manager": {
-        "id": 356,
+        "id": 359,
         "url": "Zet/Node package manager.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Lịch sử": {
-        "id": 357,
+        "id": 360,
         "url": "Zet/Lịch sử.md",
         "outgoing_links": [
             "Lịch Sử Việt Nam",
@@ -4324,7 +4360,7 @@
         ]
     },
     "Kỹ thuật học tập Feymann": {
-        "id": 358,
+        "id": 361,
         "url": "Zet/Kỹ thuật học tập Feymann.md",
         "outgoing_links": [
             "Richard Feymann"
@@ -4335,7 +4371,7 @@
         ]
     },
     "Karl Marx là người khai sinh Chủ nghĩa Marx": {
-        "id": 359,
+        "id": 362,
         "url": "Zet/Karl Marx là người khai sinh Chủ nghĩa Marx.md",
         "outgoing_links": [
             "Karl Marx"
@@ -4345,7 +4381,7 @@
         ]
     },
     "Chùa Cầu còn được gọi là Cầu Nhật Bản": {
-        "id": 360,
+        "id": 363,
         "url": "Zet/Chùa Cầu còn được gọi là Cầu Nhật Bản.md",
         "outgoing_links": [
             "Chùa Cầu"
@@ -4355,7 +4391,7 @@
         ]
     },
     "Bảy nhà hiền triết Hy Lạp theo Plato": {
-        "id": 361,
+        "id": 364,
         "url": "Zet/Bảy nhà hiền triết Hy Lạp theo Plato.md",
         "outgoing_links": [
             "Plato"
@@ -4363,7 +4399,7 @@
         "backlinks": []
     },
     "Ngôn ngữ Yiddish": {
-        "id": 362,
+        "id": 365,
         "url": "Zet/Ngôn ngữ Yiddish.md",
         "outgoing_links": [
             "Người Do Thái Ashkenazi"
@@ -4373,7 +4409,7 @@
         ]
     },
     "Tóm tắt sách truyền thuyết về sự lây nhiễm": {
-        "id": 363,
+        "id": 366,
         "url": "Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm.md",
         "outgoing_links": [
             "Các định đề Robert Koch",
@@ -4391,7 +4427,7 @@
         ]
     },
     "Nhà Đinh": {
-        "id": 364,
+        "id": 367,
         "url": "Zet/Nhà Đinh.md",
         "outgoing_links": [
             "Đinh Bộ Lĩnh"
@@ -4407,20 +4443,20 @@
         ]
     },
     "Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991": {
-        "id": 365,
+        "id": 368,
         "url": "Zet/Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991.md",
         "outgoing_links": [
             "Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika",
             "Mikhail Gorbachev",
             "Boris Yeltsin",
-            "Chiến tranh lạnh"
+            "Chiến tranh Lạnh"
         ],
         "backlinks": [
             "Chiến tranh lạnh"
         ]
     },
     "Grigori": {
-        "id": 366,
+        "id": 369,
         "url": "Zet/Grigori.md",
         "outgoing_links": [
             "Cựu Ước",
@@ -4432,7 +4468,7 @@
         ]
     },
     "Tin Lành": {
-        "id": 367,
+        "id": 370,
         "url": "Zet/Tin Lành.md",
         "outgoing_links": [
             "Cải Cách Kháng Nghị",
@@ -4452,7 +4488,7 @@
         ]
     },
     "Tây Du Ký": {
-        "id": 368,
+        "id": 371,
         "url": "Zet/Tây Du Ký.md",
         "outgoing_links": [
             "Trần Huyền Trang"
@@ -4462,7 +4498,7 @@
         ]
     },
     "Cách mạng tháng 10 Nga": {
-        "id": 369,
+        "id": 372,
         "url": "Zet/Cách mạng tháng 10 Nga.md",
         "outgoing_links": [
             "Khazarian Mafia"
@@ -4473,7 +4509,7 @@
         ]
     },
     "FDA cấm Ivermectin thú y để chữa trị cho người": {
-        "id": 370,
+        "id": 373,
         "url": "Zet/FDA cấm Ivermectin thú y để chữa trị cho người.md",
         "outgoing_links": [
             "FDA",
@@ -4486,7 +4522,7 @@
         ]
     },
     "Các biểu tượng của Illuminati": {
-        "id": 371,
+        "id": 374,
         "url": "Zet/Các biểu tượng của Illuminati.md",
         "outgoing_links": [
             "Baphomet",
@@ -4498,7 +4534,7 @@
         ]
     },
     "Raphael có nghĩa là Thiên Chúa cứu chữa": {
-        "id": 372,
+        "id": 375,
         "url": "Zet/Raphael có nghĩa là Thiên Chúa cứu chữa.md",
         "outgoing_links": [
             "Thiên thần Raphael",
@@ -4513,7 +4549,7 @@
         ]
     },
     "Thông thiên học": {
-        "id": 373,
+        "id": 376,
         "url": "Zet/Thông thiên học.md",
         "outgoing_links": [
             "Helena Blavatsky"
@@ -4526,7 +4562,7 @@
         ]
     },
     "Edward Jenner là cha đẻ của phương pháp Vaccination": {
-        "id": 374,
+        "id": 377,
         "url": "Zet/Edward Jenner là cha đẻ của phương pháp Vaccination.md",
         "outgoing_links": [
             "Edward Jenner",
@@ -4540,7 +4576,7 @@
         ]
     },
     "Hang đá Giáng Sinh": {
-        "id": 375,
+        "id": 378,
         "url": "Zet/Hang đá Giáng Sinh.md",
         "outgoing_links": [
             "Chúa Giáng Sinh",
@@ -4549,7 +4585,7 @@
         "backlinks": []
     },
     "Nephilim": {
-        "id": 376,
+        "id": 379,
         "url": "Zet/Nephilim.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4557,7 +4593,7 @@
         ]
     },
     "Vạ tuyệt thông hậu kết": {
-        "id": 377,
+        "id": 380,
         "url": "Zet/Vạ tuyệt thông hậu kết.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4565,7 +4601,7 @@
         ]
     },
     "Frank Church đã công bố sự thật về chiến dịch Mockingbird giữa thập niên 1970": {
-        "id": 378,
+        "id": 381,
         "url": "Zet/Frank Church đã công bố sự thật về chiến dịch Mockingbird giữa thập niên 1970.md",
         "outgoing_links": [
             "Operation Mockingbird"
@@ -4575,7 +4611,7 @@
         ]
     },
     "Trung thế giới": {
-        "id": 379,
+        "id": 382,
         "url": "Zet/Trung thế giới.md",
         "outgoing_links": [
             "Thức tỉnh tâm linh",
@@ -4587,7 +4623,7 @@
         ]
     },
     "Ngũ hổ tướng": {
-        "id": 380,
+        "id": 383,
         "url": "Zet/Ngũ hổ tướng.md",
         "outgoing_links": [
             "Trương Phi"
@@ -4595,7 +4631,7 @@
         "backlinks": []
     },
     "Tháp Mentmore": {
-        "id": 381,
+        "id": 384,
         "url": "Zet/Tháp Mentmore.md",
         "outgoing_links": [
             "Gia tộc Rothschild",
@@ -4606,7 +4642,7 @@
         ]
     },
     "Kênh youtube giáo dục tự do 1": {
-        "id": 382,
+        "id": 385,
         "url": "Zet/Kênh youtube giáo dục tự do 1.md",
         "outgoing_links": [
             "BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ",
@@ -4619,7 +4655,7 @@
         ]
     },
     "Thủy Hử": {
-        "id": 383,
+        "id": 386,
         "url": "Zet/Thủy Hử.md",
         "outgoing_links": [
             "Bắc Tống"
@@ -4629,7 +4665,7 @@
         ]
     },
     "Eugenics": {
-        "id": 384,
+        "id": 387,
         "url": "Zet/Eugenics.md",
         "outgoing_links": [
             "Đảng Quốc Xã",
@@ -4652,7 +4688,7 @@
         ]
     },
     "Owl of Minerva": {
-        "id": 385,
+        "id": 388,
         "url": "Zet/Owl of Minerva.md",
         "outgoing_links": [
             "Hội Illuminati"
@@ -4662,7 +4698,7 @@
         ]
     },
     "Tôn giáo nhị nguyên": {
-        "id": 386,
+        "id": 389,
         "url": "Zet/Tôn giáo nhị nguyên.md",
         "outgoing_links": [
             "Zarathustra"
@@ -4670,7 +4706,7 @@
         "backlinks": []
     },
     "Lễ Giáng Sinh": {
-        "id": 387,
+        "id": 390,
         "url": "Zet/Lễ Giáng Sinh.md",
         "outgoing_links": [
             "Cơ Đốc Giáo",
@@ -4682,7 +4718,7 @@
         ]
     },
     "Chu Vũ Vương sau khi lật đổ nhà Thương, muốn làm hình ảnh của Đế Tân trở nên xấu xa, nên đã đặt tên là Trụ Vương": {
-        "id": 388,
+        "id": 391,
         "url": "Zet/Chu Vũ Vương sau khi lật đổ nhà Thương, muốn làm hình ảnh của Đế Tân trở nên xấu xa, nên đã đặt tên là Trụ Vương.md",
         "outgoing_links": [
             "Nhà Thương"
@@ -4690,7 +4726,7 @@
         "backlinks": []
     },
     "Sách đã đọc": {
-        "id": 389,
+        "id": 392,
         "url": "Zet/Sách đã đọc.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4698,7 +4734,7 @@
         ]
     },
     "Chủ nghĩa Stalin": {
-        "id": 390,
+        "id": 393,
         "url": "Zet/Chủ nghĩa Stalin.md",
         "outgoing_links": [
             "Joseph Stalin"
@@ -4709,7 +4745,7 @@
         ]
     },
     "Menshevik": {
-        "id": 391,
+        "id": 394,
         "url": "Zet/Menshevik.md",
         "outgoing_links": [
             "Vladimir Lenin",
@@ -4721,7 +4757,7 @@
         ]
     },
     "Francis Galton là em họ của Charles Darwin": {
-        "id": 392,
+        "id": 395,
         "url": "Zet/Francis Galton là em họ của Charles Darwin.md",
         "outgoing_links": [
             "Charles Darwin"
@@ -4731,7 +4767,7 @@
         ]
     },
     "Thuyết âm mưu": {
-        "id": 393,
+        "id": 396,
         "url": "Zet/Thuyết âm mưu.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4745,13 +4781,13 @@
         ]
     },
     "Tô Hiến Thành tiến cử Trần Trung Tá giúp nước": {
-        "id": 394,
+        "id": 397,
         "url": "Zet/Tô Hiến Thành tiến cử Trần Trung Tá giúp nước.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Trotsky mâu thuẫn chia rẽ với Lenin": {
-        "id": 395,
+        "id": 398,
         "url": "Zet/Trotsky mâu thuẫn chia rẽ với Lenin.md",
         "outgoing_links": [
             "Lev Davidovich Trotsky",
@@ -4763,7 +4799,7 @@
         ]
     },
     "Fleeting Note": {
-        "id": 396,
+        "id": 399,
         "url": "Zet/Fleeting Note.md",
         "outgoing_links": [
             "Zettelkasten",
@@ -4779,13 +4815,13 @@
         ]
     },
     "Cherubim": {
-        "id": 397,
+        "id": 400,
         "url": "Zet/Cherubim.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Spaced Repetition": {
-        "id": 398,
+        "id": 401,
         "url": "Zet/Spaced Repetition.md",
         "outgoing_links": [
             "Spacing Effect"
@@ -4798,13 +4834,13 @@
         ]
     },
     "An Tư công chúa": {
-        "id": 399,
+        "id": 402,
         "url": "Zet/An Tư công chúa.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Nhà Đường": {
-        "id": 400,
+        "id": 403,
         "url": "Zet/Nhà Đường.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4817,7 +4853,7 @@
         ]
     },
     "Luân xa": {
-        "id": 401,
+        "id": 404,
         "url": "Zet/Luân xa.md",
         "outgoing_links": [
             "Cơ thể con người có 7 luân xa",
@@ -4830,7 +4866,7 @@
         ]
     },
     "Starseed": {
-        "id": 402,
+        "id": 405,
         "url": "Zet/Starseed.md",
         "outgoing_links": [
             "Thức tỉnh tâm linh"
@@ -4838,7 +4874,7 @@
         "backlinks": []
     },
     "Đế Quốc Mông Cổ": {
-        "id": 403,
+        "id": 406,
         "url": "Zet/Đế Quốc Mông Cổ.md",
         "outgoing_links": [
             "Các Đại Hãn Mông Cổ"
@@ -4848,7 +4884,7 @@
         ]
     },
     "Sức khỏe": {
-        "id": 404,
+        "id": 407,
         "url": "Zet/Sức khỏe.md",
         "outgoing_links": [
             "Đại dịch COVID-19",
@@ -4862,7 +4898,7 @@
         ]
     },
     "Religion": {
-        "id": 405,
+        "id": 408,
         "url": "Zet/Religion.md",
         "outgoing_links": [
             "Hồi Giáo",
@@ -4879,7 +4915,7 @@
         ]
     },
     "Chúa Jesus không sinh ra vào 25-12": {
-        "id": 406,
+        "id": 409,
         "url": "Zet/Chúa Jesus không sinh ra vào 25-12.md",
         "outgoing_links": [
             "Đức Jesus",
@@ -4892,7 +4928,7 @@
         ]
     },
     "Anunnaki": {
-        "id": 407,
+        "id": 410,
         "url": "Zet/Anunnaki.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4900,7 +4936,7 @@
         ]
     },
     "Karl Marx là Do thái Ashkenazi": {
-        "id": 408,
+        "id": 411,
         "url": "Zet/Karl Marx là Do thái Ashkenazi.md",
         "outgoing_links": [
             "Karl Marx",
@@ -4911,7 +4947,7 @@
         ]
     },
     "Nhà Hậu Lê": {
-        "id": 409,
+        "id": 412,
         "url": "Zet/Nhà Hậu Lê.md",
         "outgoing_links": [
             "Thời Lê sơ",
@@ -4929,7 +4965,7 @@
         ]
     },
     "Bán Đảo Iberia": {
-        "id": 410,
+        "id": 413,
         "url": "Zet/Bán Đảo Iberia.md",
         "outgoing_links": [
             "Bồ Đào Nha"
@@ -4939,7 +4975,7 @@
         ]
     },
     "Ấn Độ giáo": {
-        "id": 411,
+        "id": 414,
         "url": "Zet/Ấn Độ giáo.md",
         "outgoing_links": [
             "Tam thần Ấn giáo",
@@ -4959,7 +4995,7 @@
         ]
     },
     "D3js": {
-        "id": 412,
+        "id": 415,
         "url": "Zet/D3js.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4967,19 +5003,19 @@
         ]
     },
     "Bán đảo Scandinavie": {
-        "id": 413,
+        "id": 416,
         "url": "Zet/Bán đảo Scandinavie.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Từ Mahatma trong tên Gandhi được người Ấn đặt để thể hiện sự kính trọng": {
-        "id": 414,
+        "id": 417,
         "url": "Zet/Từ Mahatma trong tên Gandhi được người Ấn đặt để thể hiện sự kính trọng.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Phân chia thời kỳ lịch sử Do Thái": {
-        "id": 415,
+        "id": 418,
         "url": "Zet/Phân chia thời kỳ lịch sử Do Thái.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4987,7 +5023,7 @@
         ]
     },
     "Nhà Ngô": {
-        "id": 416,
+        "id": 419,
         "url": "Zet/Nhà Ngô.md",
         "outgoing_links": [],
         "backlinks": [
@@ -4995,15 +5031,16 @@
         ]
     },
     "Thuyết Domino": {
-        "id": 417,
+        "id": 420,
         "url": "Zet/Thuyết Domino.md",
         "outgoing_links": [],
         "backlinks": [
+            "Thuyết Truman",
             "Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử"
         ]
     },
     "Thần Seth": {
-        "id": 418,
+        "id": 421,
         "url": "Zet/Thần Seth.md",
         "outgoing_links": [
             "Ai Cập Cổ Đại",
@@ -5014,13 +5051,13 @@
         ]
     },
     "Tiếng Pali": {
-        "id": 419,
+        "id": 422,
         "url": "Zet/Tiếng Pali.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Chủ nghĩa Hư vô": {
-        "id": 420,
+        "id": 423,
         "url": "Zet/Chủ nghĩa Hư vô.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5030,7 +5067,7 @@
         ]
     },
     "Adam Weishaupt học tại một trường dòng Tên": {
-        "id": 421,
+        "id": 424,
         "url": "Zet/Adam Weishaupt học tại một trường dòng Tên.md",
         "outgoing_links": [
             "Johann Adam Weishaupt",
@@ -5041,13 +5078,13 @@
         ]
     },
     "Nguyên mẫu của Jung": {
-        "id": 422,
+        "id": 425,
         "url": "Zet/Nguyên mẫu của Jung.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021": {
-        "id": 423,
+        "id": 426,
         "url": "Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021.md",
         "outgoing_links": [
             "CDC",
@@ -5059,7 +5096,7 @@
         ]
     },
     "208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ": {
-        "id": 424,
+        "id": 427,
         "url": "Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ.md",
         "outgoing_links": [
             "Tần Thủy Hoàng",
@@ -5070,7 +5107,7 @@
         "backlinks": []
     },
     "Tiêu Phong": {
-        "id": 425,
+        "id": 428,
         "url": "Zet/Tiêu Phong.md",
         "outgoing_links": [
             "Tiêu Viễn Sơn",
@@ -5081,7 +5118,7 @@
         ]
     },
     "Theo tài liệu FBI, Tesla là người Sao Kim": {
-        "id": 426,
+        "id": 429,
         "url": "Zet/Theo tài liệu FBI, Tesla là người Sao Kim.md",
         "outgoing_links": [
             "FBI",
@@ -5093,7 +5130,7 @@
         ]
     },
     "Moses thuộc chi tộc Levi": {
-        "id": 427,
+        "id": 430,
         "url": "Zet/Moses thuộc chi tộc Levi.md",
         "outgoing_links": [
             "Moses",
@@ -5105,7 +5142,7 @@
         ]
     },
     "Khazarian là vùng đất giữa biển Đen và biển Caspian": {
-        "id": 428,
+        "id": 431,
         "url": "Zet/Khazarian là vùng đất giữa biển Đen và biển Caspian.md",
         "outgoing_links": [
             "Khazaria"
@@ -5115,7 +5152,7 @@
         ]
     },
     "Vril": {
-        "id": 429,
+        "id": 432,
         "url": "Zet/Vril.md",
         "outgoing_links": [
             "Thuyết âm mưu",
@@ -5126,7 +5163,7 @@
         ]
     },
     "CIA": {
-        "id": 430,
+        "id": 433,
         "url": "Zet/CIA.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5135,7 +5172,7 @@
         ]
     },
     "To be in the world but not of it": {
-        "id": 431,
+        "id": 434,
         "url": "Zet/To be in the world but not of it.md",
         "outgoing_links": [
             "cosmos"
@@ -5145,7 +5182,7 @@
         ]
     },
     "Chiến tranh trên Thiên Đàng": {
-        "id": 432,
+        "id": 435,
         "url": "Zet/Chiến tranh trên Thiên Đàng.md",
         "outgoing_links": [
             "Lucifer"
@@ -5156,13 +5193,13 @@
         ]
     },
     "Tra cứu Kinh thánh bằng Obsidian": {
-        "id": 433,
+        "id": 436,
         "url": "Zet/Tra cứu Kinh thánh bằng Obsidian.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Deliberate Practice": {
-        "id": 434,
+        "id": 437,
         "url": "Zet/Deliberate Practice.md",
         "outgoing_links": [
             "Anders Ericsson"
@@ -5173,7 +5210,7 @@
         ]
     },
     "Lucifer": {
-        "id": 435,
+        "id": 438,
         "url": "Zet/Lucifer.md",
         "outgoing_links": [
             "Adam và Eva",
@@ -5189,7 +5226,7 @@
         ]
     },
     "Sau Vaticanô II, lễ kính của Raphael, Gabriel và Micael gộp thành một": {
-        "id": 436,
+        "id": 439,
         "url": "Zet/Sau Vaticanô II, lễ kính của Raphael, Gabriel và Micael gộp thành một.md",
         "outgoing_links": [
             "Thiên thần Raphael",
@@ -5203,7 +5240,7 @@
         ]
     },
     "Micael không phải tổng lãnh thiên thần": {
-        "id": 437,
+        "id": 440,
         "url": "Zet/Micael không phải tổng lãnh thiên thần.md",
         "outgoing_links": [
             "Thiên thần Micael",
@@ -5214,7 +5251,7 @@
         ]
     },
     "Âu Lạc": {
-        "id": 438,
+        "id": 441,
         "url": "Zet/Âu Lạc.md",
         "outgoing_links": [
             "An Dương Vương",
@@ -5233,7 +5270,7 @@
         ]
     },
     "Bức tường than khóc": {
-        "id": 439,
+        "id": 442,
         "url": "Zet/Bức tường than khóc.md",
         "outgoing_links": [
             "Người Do Thái"
@@ -5241,7 +5278,7 @@
         "backlinks": []
     },
     "Lịch Sử Do Thái": {
-        "id": 440,
+        "id": 443,
         "url": "Zet/Lịch Sử Do Thái.md",
         "outgoing_links": [
             "Phân chia thời kỳ lịch sử Do Thái",
@@ -5259,13 +5296,13 @@
         ]
     },
     "Các trang tìm hiểu Kinh Thánh": {
-        "id": 441,
+        "id": 444,
         "url": "Zet/Các trang tìm hiểu Kinh Thánh.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Nhà Liêu": {
-        "id": 442,
+        "id": 445,
         "url": "Zet/Nhà Liêu.md",
         "outgoing_links": [
             "Lịch sử Trung Quốc"
@@ -5276,13 +5313,13 @@
         ]
     },
     "Vũ trụ điện ảnh Marvel": {
-        "id": 443,
+        "id": 446,
         "url": "Zet/Vũ trụ điện ảnh Marvel.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Kỷ nguyên Bảo Bình": {
-        "id": 444,
+        "id": 447,
         "url": "Zet/Kỷ nguyên Bảo Bình.md",
         "outgoing_links": [
             "God",
@@ -5297,7 +5334,7 @@
         ]
     },
     "Biểu tượng Bí truyền": {
-        "id": 445,
+        "id": 448,
         "url": "Zet/Biểu tượng Bí truyền.md",
         "outgoing_links": [
             "Ngôi sao David"
@@ -5305,7 +5342,7 @@
         "backlinks": []
     },
     "Lượng mỡ máu cao là nguyên gây kháng insulin": {
-        "id": 446,
+        "id": 449,
         "url": "Zet/Lượng mỡ máu cao là nguyên gây kháng insulin.md",
         "outgoing_links": [
             "Insulin resistance"
@@ -5315,7 +5352,7 @@
         ]
     },
     "Hội Illuminati": {
-        "id": 447,
+        "id": 450,
         "url": "Zet/Hội Illuminati.md",
         "outgoing_links": [
             "Johann Adam Weishaupt",
@@ -5333,13 +5370,13 @@
         ]
     },
     "Hebb's Rule": {
-        "id": 448,
+        "id": 451,
         "url": "Zet/Hebb's Rule.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Mông Kha": {
-        "id": 449,
+        "id": 452,
         "url": "Zet/Mông Kha.md",
         "outgoing_links": [
             "Đại Hãn"
@@ -5351,7 +5388,7 @@
         ]
     },
     "SARS-COV-2": {
-        "id": 450,
+        "id": 453,
         "url": "Zet/SARS-COV-2.md",
         "outgoing_links": [
             "Coronavirus",
@@ -5363,7 +5400,7 @@
         "backlinks": []
     },
     "Nhà Tần": {
-        "id": 451,
+        "id": 454,
         "url": "Zet/Nhà Tần.md",
         "outgoing_links": [
             "Tần Thủy Hoàng",
@@ -5382,7 +5419,7 @@
         ]
     },
     "Chính thống giáo Đông Phương": {
-        "id": 452,
+        "id": 455,
         "url": "Zet/Chính thống giáo Đông Phương.md",
         "outgoing_links": [
             "Công Giáo",
@@ -5398,7 +5435,7 @@
         ]
     },
     "Angkor Wat": {
-        "id": 453,
+        "id": 456,
         "url": "Zet/Angkor Wat.md",
         "outgoing_links": [
             "Ấn Độ giáo",
@@ -5410,7 +5447,7 @@
         ]
     },
     "Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông": {
-        "id": 454,
+        "id": 457,
         "url": "Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông.md",
         "outgoing_links": [
             "Tiếng Sanskrit",
@@ -5421,7 +5458,7 @@
         ]
     },
     "The Epoch Times": {
-        "id": 455,
+        "id": 458,
         "url": "Zet/The Epoch Times.md",
         "outgoing_links": [
             "Donald J. Trump"
@@ -5431,7 +5468,7 @@
         ]
     },
     "Đại Hãn": {
-        "id": 456,
+        "id": 459,
         "url": "Zet/Đại Hãn.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5440,7 +5477,7 @@
         ]
     },
     "Chủ nghĩa Trotsky": {
-        "id": 457,
+        "id": 460,
         "url": "Zet/Chủ nghĩa Trotsky.md",
         "outgoing_links": [
             "Chủ nghĩa Stalin",
@@ -5452,7 +5489,7 @@
         ]
     },
     "Nhà Trần": {
-        "id": 458,
+        "id": 461,
         "url": "Zet/Nhà Trần.md",
         "outgoing_links": [
             "Nhà Lý",
@@ -5477,7 +5514,7 @@
         ]
     },
     "Hub note": {
-        "id": 459,
+        "id": 462,
         "url": "Zet/Hub note.md",
         "outgoing_links": [
             "The Luhmann Notes",
@@ -5489,7 +5526,7 @@
         ]
     },
     "Qmap": {
-        "id": 460,
+        "id": 463,
         "url": "Zet/Qmap.md",
         "outgoing_links": [
             "QAnon",
@@ -5548,7 +5585,7 @@
         ]
     },
     "Tứ đại mỹ nhân Trung Hoa": {
-        "id": 461,
+        "id": 464,
         "url": "Zet/Tứ đại mỹ nhân Trung Hoa.md",
         "outgoing_links": [
             "Điêu Thuyền"
@@ -5558,7 +5595,7 @@
         ]
     },
     "Thần Ra có hai người con là Shu và Tefnut": {
-        "id": 462,
+        "id": 465,
         "url": "Zet/Thần Ra có hai người con là Shu và Tefnut.md",
         "outgoing_links": [
             "Thần Ra",
@@ -5571,19 +5608,19 @@
         ]
     },
     "Bạn khỏi cúm là do hệ miễn dịch của bạn": {
-        "id": 463,
+        "id": 466,
         "url": "Zet/Bạn khỏi cúm là do hệ miễn dịch của bạn.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "The Matrix": {
-        "id": 464,
+        "id": 467,
         "url": "Zet/The Matrix.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Nhà Triệu": {
-        "id": 465,
+        "id": 468,
         "url": "Zet/Nhà Triệu.md",
         "outgoing_links": [
             "Nam Việt"
@@ -5595,7 +5632,7 @@
         ]
     },
     "Antoine Bechamp và Pasteur về lý thuyết vi khuẩn": {
-        "id": 466,
+        "id": 469,
         "url": "Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn.md",
         "outgoing_links": [
             "Antoine Beauchamp",
@@ -5612,7 +5649,7 @@
         ]
     },
     "Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin": {
-        "id": 467,
+        "id": 470,
         "url": "Zet/Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin.md",
         "outgoing_links": [
             "Insulin resistance"
@@ -5622,7 +5659,7 @@
         ]
     },
     "Năm sự thương": {
-        "id": 468,
+        "id": 471,
         "url": "Zet/Năm sự thương.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5630,7 +5667,7 @@
         ]
     },
     "Nhà Võ Chu": {
-        "id": 469,
+        "id": 472,
         "url": "Zet/Nhà Võ Chu.md",
         "outgoing_links": [
             "Võ Tắc Thiên"
@@ -5640,7 +5677,7 @@
         ]
     },
     "Israel có 12 chi tộc": {
-        "id": 470,
+        "id": 473,
         "url": "Zet/Israel có 12 chi tộc.md",
         "outgoing_links": [
             "Jacob",
@@ -5658,7 +5695,7 @@
         ]
     },
     "Mặc dù Benjamin Franklin không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD": {
-        "id": 471,
+        "id": 474,
         "url": "Zet/Mặc dù Benjamin Franklin không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD.md",
         "outgoing_links": [
             "Benjamin Franklin"
@@ -5668,7 +5705,7 @@
         ]
     },
     "Nhà Tiền Lê": {
-        "id": 472,
+        "id": 475,
         "url": "Zet/Nhà Tiền Lê.md",
         "outgoing_links": [
             "Nhà Đinh"
@@ -5679,7 +5716,7 @@
         ]
     },
     "Karl Marx hidden hand": {
-        "id": 473,
+        "id": 476,
         "url": "Zet/Karl Marx hidden hand.md",
         "outgoing_links": [
             "Hội Illuminati"
@@ -5689,7 +5726,7 @@
         ]
     },
     "Bếp lò Franklin": {
-        "id": 474,
+        "id": 477,
         "url": "Zet/Bếp lò Franklin.md",
         "outgoing_links": [
             "Benjamin Franklin"
@@ -5697,7 +5734,7 @@
         "backlinks": []
     },
     "Sông Nile": {
-        "id": 475,
+        "id": 478,
         "url": "Zet/Sông Nile.md",
         "outgoing_links": [
             "Sông Nile là con sông dài nhất thế giới"
@@ -5710,7 +5747,7 @@
         ]
     },
     "bash": {
-        "id": 476,
+        "id": 479,
         "url": "Zet/bash.md",
         "outgoing_links": [
             "Shell",
@@ -5721,7 +5758,7 @@
         ]
     },
     "Giao Châu thất hùng": {
-        "id": 477,
+        "id": 480,
         "url": "Zet/Giao Châu thất hùng.md",
         "outgoing_links": [
             "Đinh Bộ Lĩnh",
@@ -5730,7 +5767,7 @@
         "backlinks": []
     },
     "Câu truyện Giuse đính hôn Maria trong ngụy thư Giacobe": {
-        "id": 478,
+        "id": 481,
         "url": "Zet/Câu truyện Giuse đính hôn Maria trong ngụy thư Giacobe.md",
         "outgoing_links": [
             "Ngụy thư Giacobe"
@@ -5738,7 +5775,7 @@
         "backlinks": []
     },
     "Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi": {
-        "id": 479,
+        "id": 482,
         "url": "Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -5751,7 +5788,7 @@
         ]
     },
     "Quốc hiệu VN qua các thời kỳ": {
-        "id": 480,
+        "id": 483,
         "url": "Zet/Quốc hiệu VN qua các thời kỳ.md",
         "outgoing_links": [
             "Văn Lang",
@@ -5764,13 +5801,13 @@
         ]
     },
     "Phúc Âm nhất lãm": {
-        "id": 481,
+        "id": 484,
         "url": "Zet/Phúc Âm nhất lãm.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Backlink": {
-        "id": 482,
+        "id": 485,
         "url": "Zet/Backlink.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5780,7 +5817,7 @@
         ]
     },
     "Thiên thần Raphael": {
-        "id": 483,
+        "id": 486,
         "url": "Zet/Thiên thần Raphael.md",
         "outgoing_links": [
             "Raphael có nghĩa là Thiên Chúa cứu chữa",
@@ -5794,7 +5831,7 @@
         ]
     },
     "Hiệp sĩ Đền Thánh": {
-        "id": 484,
+        "id": 487,
         "url": "Zet/Hiệp sĩ Đền Thánh.md",
         "outgoing_links": [
             "Thập Tự Chinh",
@@ -5808,7 +5845,7 @@
         ]
     },
     "Sau khi bị Tần Thủy Hoàng thiêu hủy sách, Đạo Khổng sau đó phục hồi còn Mặc gia suy tàn": {
-        "id": 485,
+        "id": 488,
         "url": "Zet/Sau khi bị Tần Thủy Hoàng thiêu hủy sách, Đạo Khổng sau đó phục hồi còn Mặc gia suy tàn.md",
         "outgoing_links": [
             "Tần Thủy Hoàng"
@@ -5816,7 +5853,7 @@
         "backlinks": []
     },
     "Nam Việt": {
-        "id": 486,
+        "id": 489,
         "url": "Zet/Nam Việt.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5829,7 +5866,7 @@
         ]
     },
     "Các kênh thông tin trái chiều": {
-        "id": 487,
+        "id": 490,
         "url": "Zet/Các kênh thông tin trái chiều.md",
         "outgoing_links": [
             "The Epoch Times",
@@ -5845,7 +5882,7 @@
         "backlinks": []
     },
     "Esperanto - Quốc tế  ngữ": {
-        "id": 488,
+        "id": 491,
         "url": "Zet/Esperanto - Quốc tế  ngữ.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5853,13 +5890,13 @@
         ]
     },
     "Chủ động hồi tưởng": {
-        "id": 489,
+        "id": 492,
         "url": "Zet/Chủ động hồi tưởng.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "WHO": {
-        "id": 490,
+        "id": 493,
         "url": "Zet/WHO.md",
         "outgoing_links": [
             "Bill Gates",
@@ -5871,7 +5908,7 @@
         ]
     },
     "Dòng Tên": {
-        "id": 491,
+        "id": 494,
         "url": "Zet/Dòng Tên.md",
         "outgoing_links": [
             "Công Giáo",
@@ -5893,7 +5930,7 @@
         ]
     },
     "Thần Brahma": {
-        "id": 492,
+        "id": 495,
         "url": "Zet/Thần Brahma.md",
         "outgoing_links": [
             "Ấn Độ giáo",
@@ -5906,13 +5943,13 @@
         ]
     },
     "UTF": {
-        "id": 493,
+        "id": 496,
         "url": "Zet/UTF.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Văn Lang": {
-        "id": 494,
+        "id": 497,
         "url": "Zet/Văn Lang.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5924,7 +5961,7 @@
         ]
     },
     "Akashic records": {
-        "id": 495,
+        "id": 498,
         "url": "Zet/Akashic records.md",
         "outgoing_links": [
             "Nicola Tesla",
@@ -5936,7 +5973,7 @@
         ]
     },
     "Đại dịch COVID-19": {
-        "id": 496,
+        "id": 499,
         "url": "Zet/Đại dịch COVID-19.md",
         "outgoing_links": [
             "SARS-CoV-2",
@@ -5989,7 +6026,7 @@
         ]
     },
     "HTML Language": {
-        "id": 497,
+        "id": 500,
         "url": "Zet/HTML Language.md",
         "outgoing_links": [],
         "backlinks": [
@@ -5998,7 +6035,7 @@
         ]
     },
     "Flask lib": {
-        "id": 498,
+        "id": 501,
         "url": "Zet/Flask lib.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6006,7 +6043,7 @@
         ]
     },
     "Self Improvement": {
-        "id": 499,
+        "id": 502,
         "url": "Zet/Self Improvement.md",
         "outgoing_links": [
             "Phương pháp Pomodoro",
@@ -6023,7 +6060,7 @@
         ]
     },
     "Ba Chân lý của thông thiên học": {
-        "id": 500,
+        "id": 503,
         "url": "Zet/Ba Chân lý của thông thiên học.md",
         "outgoing_links": [
             "Thông thiên học",
@@ -6033,7 +6070,7 @@
         "backlinks": []
     },
     "Ngôi sao David": {
-        "id": 501,
+        "id": 504,
         "url": "Zet/Ngôi sao David.md",
         "outgoing_links": [
             "Người Do Thái"
@@ -6044,7 +6081,7 @@
         ]
     },
     "Thế giới tâm linh": {
-        "id": 502,
+        "id": 505,
         "url": "Zet/Thế giới tâm linh.md",
         "outgoing_links": [
             "Thông thiên học",
@@ -6062,7 +6099,7 @@
         "backlinks": []
     },
     "Khoa học và các cú mị dân": {
-        "id": 503,
+        "id": 506,
         "url": "Zet/Khoa học và các cú mị dân.md",
         "outgoing_links": [
             "Big Medicine",
@@ -6081,7 +6118,7 @@
         ]
     },
     "Đại ly giáo Đông Tây": {
-        "id": 504,
+        "id": 507,
         "url": "Zet/Đại ly giáo Đông Tây.md",
         "outgoing_links": [
             "Chính thống giáo Đông Phương",
@@ -6093,7 +6130,7 @@
         ]
     },
     "Khazars tự nhận mình là do thái Ashkenazi": {
-        "id": 505,
+        "id": 508,
         "url": "Zet/Khazars tự nhận mình là do thái Ashkenazi.md",
         "outgoing_links": [
             "Khazars",
@@ -6104,7 +6141,7 @@
         ]
     },
     "Cái chết đen": {
-        "id": 506,
+        "id": 509,
         "url": "Zet/Cái chết đen.md",
         "outgoing_links": [
             "Dịch hạch"
@@ -6114,7 +6151,7 @@
         ]
     },
     "Các tổng thống Mỹ bị ám sát": {
-        "id": 507,
+        "id": 510,
         "url": "Zet/Các tổng thống Mỹ bị ám sát.md",
         "outgoing_links": [
             "John F. Kennedy"
@@ -6122,7 +6159,7 @@
         "backlinks": []
     },
     "Tiêu Viễn Sơn": {
-        "id": 508,
+        "id": 511,
         "url": "Zet/Tiêu Viễn Sơn.md",
         "outgoing_links": [
             "Tiêu Phong",
@@ -6133,13 +6170,13 @@
         ]
     },
     "Food industry map": {
-        "id": 509,
+        "id": 512,
         "url": "Zet/Food industry map.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Thảm họa hạt nhân": {
-        "id": 510,
+        "id": 513,
         "url": "Zet/Thảm họa hạt nhân.md",
         "outgoing_links": [
             "Thảm họa Chernobyl",
@@ -6150,24 +6187,25 @@
         ]
     },
     "Các đời tổng thống Hoa Kỳ": {
-        "id": 511,
+        "id": 514,
         "url": "Zet/Các đời tổng thống Hoa Kỳ.md",
         "outgoing_links": [
             "Ulysses S. Grant",
             "Theodore Roosevelt",
+            "Harry S. Truman",
             "John F. Kennedy",
             "Donald J. Trump"
         ],
         "backlinks": []
     },
     "Github workflow": {
-        "id": 512,
+        "id": 515,
         "url": "Zet/Github workflow.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không": {
-        "id": 513,
+        "id": 516,
         "url": "Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không.md",
         "outgoing_links": [
             "Heinrich Hermann Robert Koch",
@@ -6183,7 +6221,7 @@
         ]
     },
     "Thuyết Ngộ Đạo": {
-        "id": 514,
+        "id": 517,
         "url": "Zet/Thuyết Ngộ Đạo.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6193,7 +6231,7 @@
         ]
     },
     "Anh giáo": {
-        "id": 515,
+        "id": 518,
         "url": "Zet/Anh giáo.md",
         "outgoing_links": [
             "Đức Giáo Hoàng"
@@ -6207,7 +6245,7 @@
         ]
     },
     "Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận": {
-        "id": 516,
+        "id": 519,
         "url": "Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận.md",
         "outgoing_links": [
             "Ngô Đình Diệm",
@@ -6216,7 +6254,7 @@
         "backlinks": []
     },
     "Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng": {
-        "id": 517,
+        "id": 520,
         "url": "Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng.md",
         "outgoing_links": [
             "Trần Cảnh",
@@ -6228,7 +6266,7 @@
         ]
     },
     "Tam Vương Trung Hoa": {
-        "id": 518,
+        "id": 521,
         "url": "Zet/Tam Vương Trung Hoa.md",
         "outgoing_links": [
             "Hạ Vũ",
@@ -6239,20 +6277,20 @@
         "backlinks": []
     },
     "Chiến tranh lạnh": {
-        "id": 519,
+        "id": 522,
         "url": "Zet/Chiến tranh lạnh.md",
         "outgoing_links": [
+            "Thuyết Truman",
             "Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991",
             "Mikhail Gorbachev",
             "Bức tường Berlin",
-            "Chiến tranh Việt Nam"
+            "Chiến tranh Việt Nam",
+            "Khủng hoảng tên lửa Cuba"
         ],
-        "backlinks": [
-            "Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991"
-        ]
+        "backlinks": []
     },
     "Nhà Tây Sơn": {
-        "id": 520,
+        "id": 523,
         "url": "Zet/Nhà Tây Sơn.md",
         "outgoing_links": [
             "Nguyễn Huệ",
@@ -6269,13 +6307,13 @@
         ]
     },
     "Các nguồn tài liệu tìm hiểu tâm linh": {
-        "id": 521,
+        "id": 524,
         "url": "Zet/Các nguồn tài liệu tìm hiểu tâm linh.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Tháp Wardenclyffe": {
-        "id": 522,
+        "id": 525,
         "url": "Zet/Tháp Wardenclyffe.md",
         "outgoing_links": [
             "Nicola Tesla",
@@ -6286,7 +6324,7 @@
         ]
     },
     "Shellshock": {
-        "id": 523,
+        "id": 526,
         "url": "Zet/Shellshock.md",
         "outgoing_links": [
             "bash"
@@ -6296,7 +6334,7 @@
         ]
     },
     "Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi": {
-        "id": 524,
+        "id": 527,
         "url": "Zet/Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi.md",
         "outgoing_links": [
             "Trần Cảnh",
@@ -6305,7 +6343,7 @@
         "backlinks": []
     },
     "Thượng thế giới": {
-        "id": 525,
+        "id": 528,
         "url": "Zet/Thượng thế giới.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6314,7 +6352,7 @@
         ]
     },
     "Micael có nghĩa là Ai bằng Thiên Chúa❓": {
-        "id": 526,
+        "id": 529,
         "url": "Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓.md",
         "outgoing_links": [
             "Thiên thần Micael",
@@ -6329,13 +6367,13 @@
         ]
     },
     "Hoà thượng Thích Quảng Đức tự thiêu": {
-        "id": 527,
+        "id": 530,
         "url": "Zet/Hoà thượng Thích Quảng Đức tự thiêu.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Github": {
-        "id": 528,
+        "id": 531,
         "url": "Zet/Github.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6343,7 +6381,7 @@
         ]
     },
     "Nước trong Đạo Đức Kinh": {
-        "id": 529,
+        "id": 532,
         "url": "Zet/Nước trong Đạo Đức Kinh.md",
         "outgoing_links": [
             "Lão Tử"
@@ -6351,7 +6389,7 @@
         "backlinks": []
     },
     "Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein": {
-        "id": 530,
+        "id": 533,
         "url": "Zet/Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein.md",
         "outgoing_links": [
             "Carbohydrate"
@@ -6359,7 +6397,7 @@
         "backlinks": []
     },
     "Vụ án Lệ Chi Viên": {
-        "id": 531,
+        "id": 534,
         "url": "Zet/Vụ án Lệ Chi Viên.md",
         "outgoing_links": [
             "Nhà Hậu Lê",
@@ -6372,7 +6410,7 @@
         ]
     },
     "Literature Note": {
-        "id": 532,
+        "id": 535,
         "url": "Zet/Literature Note.md",
         "outgoing_links": [
             "Citation",
@@ -6390,7 +6428,7 @@
         ]
     },
     "Tam thần Ấn giáo": {
-        "id": 533,
+        "id": 536,
         "url": "Zet/Tam thần Ấn giáo.md",
         "outgoing_links": [
             "Ấn Độ giáo",
@@ -6406,7 +6444,7 @@
         ]
     },
     "Obsidian": {
-        "id": 534,
+        "id": 537,
         "url": "Zet/Obsidian.md",
         "outgoing_links": [
             "Markdown Language",
@@ -6422,7 +6460,7 @@
         ]
     },
     "Tiên Tần": {
-        "id": 535,
+        "id": 538,
         "url": "Zet/Tiên Tần.md",
         "outgoing_links": [
             "Nhà Tần",
@@ -6433,7 +6471,7 @@
         "backlinks": []
     },
     "Bản bảy mươi": {
-        "id": 536,
+        "id": 539,
         "url": "Zet/Bản bảy mươi.md",
         "outgoing_links": [
             "Cựu Ước"
@@ -6443,7 +6481,7 @@
         ]
     },
     "Năm sách trong Ngũ Kinh Cựu Ước": {
-        "id": 537,
+        "id": 540,
         "url": "Zet/Năm sách trong Ngũ Kinh Cựu Ước.md",
         "outgoing_links": [
             "Ngũ Kinh Cựu Ước"
@@ -6454,7 +6492,7 @@
         ]
     },
     "Thư viện Nag Hammadi": {
-        "id": 538,
+        "id": 541,
         "url": "Zet/Thư viện Nag Hammadi.md",
         "outgoing_links": [
             "Thuyết Ngộ Đạo"
@@ -6464,7 +6502,7 @@
         ]
     },
     "Nhà Thanh": {
-        "id": 539,
+        "id": 542,
         "url": "Zet/Nhà Thanh.md",
         "outgoing_links": [
             "Nhà Thanh"
@@ -6480,7 +6518,7 @@
         ]
     },
     "Thuận Thiên công chúa": {
-        "id": 540,
+        "id": 543,
         "url": "Zet/People/Thuận Thiên công chúa.md",
         "outgoing_links": [
             "Lý Huệ Tông",
@@ -6501,7 +6539,7 @@
         ]
     },
     "Karl Marx": {
-        "id": 541,
+        "id": 544,
         "url": "Zet/People/Karl Marx.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -6514,7 +6552,7 @@
         ]
     },
     "Trần Quang Khải": {
-        "id": 542,
+        "id": 545,
         "url": "Zet/People/Trần Quang Khải.md",
         "outgoing_links": [
             "Trần Hưng Đạo"
@@ -6526,7 +6564,7 @@
         ]
     },
     "Nữ Oa": {
-        "id": 543,
+        "id": 546,
         "url": "Zet/People/Nữ Oa.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6536,7 +6574,7 @@
         ]
     },
     "Phanxico-Xavie Nguyễn Văn Thuận": {
-        "id": 544,
+        "id": 547,
         "url": "Zet/People/Phanxico-Xavie Nguyễn Văn Thuận.md",
         "outgoing_links": [
             "Ngô Đình Diệm",
@@ -6547,7 +6585,7 @@
         ]
     },
     "Nguyễn Trãi": {
-        "id": 545,
+        "id": 548,
         "url": "Zet/People/Nguyễn Trãi.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6560,7 +6598,7 @@
         ]
     },
     "John Pierpont Morgan": {
-        "id": 546,
+        "id": 549,
         "url": "Zet/People/John Pierpont Morgan.md",
         "outgoing_links": [
             "Theodore Roosevelt"
@@ -6575,7 +6613,7 @@
         ]
     },
     "Pope Damasus I": {
-        "id": 547,
+        "id": 550,
         "url": "Zet/People/Pope Damasus I.md",
         "outgoing_links": [
             "Công Giáo"
@@ -6583,13 +6621,13 @@
         "backlinks": []
     },
     "Tập Cận Bình": {
-        "id": 548,
+        "id": 551,
         "url": "Zet/People/Tập Cận Bình.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Mayer Amschel Bauer": {
-        "id": 549,
+        "id": 552,
         "url": "Zet/People/Mayer Amschel Bauer.md",
         "outgoing_links": [
             "Gia tộc Rothschild",
@@ -6603,7 +6641,7 @@
         ]
     },
     "Thánh Gioan Thánh giá": {
-        "id": 550,
+        "id": 553,
         "url": "Zet/People/Thánh Gioan Thánh giá.md",
         "outgoing_links": [
             "Teresa of Avila",
@@ -6618,7 +6656,7 @@
         ]
     },
     "Adam và Eva": {
-        "id": 551,
+        "id": 554,
         "url": "Zet/People/Adam và Eva.md",
         "outgoing_links": [
             "Cựu Ước",
@@ -6636,7 +6674,7 @@
         ]
     },
     "Donald J. Trump": {
-        "id": 552,
+        "id": 555,
         "url": "Zet/People/Donald J. Trump.md",
         "outgoing_links": [
             "QAnon"
@@ -6652,7 +6690,7 @@
         ]
     },
     "Ignatius of Loyola": {
-        "id": 553,
+        "id": 556,
         "url": "Zet/People/Ignatius of Loyola.md",
         "outgoing_links": [
             "Dòng Tên"
@@ -6663,7 +6701,7 @@
         ]
     },
     "David Livingstone": {
-        "id": 554,
+        "id": 557,
         "url": "Zet/People/David Livingstone.md",
         "outgoing_links": [
             "Alexandre Yersin"
@@ -6673,7 +6711,7 @@
         ]
     },
     "Anton Lavey": {
-        "id": 555,
+        "id": 558,
         "url": "Zet/People/Anton Lavey.md",
         "outgoing_links": [
             "Anton Lavey được xem là cha đẻ của Satan giáo",
@@ -6686,7 +6724,7 @@
         ]
     },
     "Mạnh mẫu": {
-        "id": 556,
+        "id": 559,
         "url": "Zet/People/Mạnh mẫu.md",
         "outgoing_links": [
             "Mạnh Tử"
@@ -6696,7 +6734,7 @@
         ]
     },
     "Đức Giáo Hoàng": {
-        "id": 557,
+        "id": 560,
         "url": "Zet/People/Đức Giáo Hoàng.md",
         "outgoing_links": [
             "Công Giáo",
@@ -6717,8 +6755,21 @@
             "Anh giáo"
         ]
     },
+    "Harry S. Truman": {
+        "id": 561,
+        "url": "Zet/People/Harry S. Truman.md",
+        "outgoing_links": [
+            "Thuyết Truman"
+        ],
+        "backlinks": [
+            "Xung đột Israel - Palestine",
+            "Thuyết Truman",
+            "Harry S. Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ",
+            "Các đời tổng thống Hoa Kỳ"
+        ]
+    },
     "Lã Bố": {
-        "id": 558,
+        "id": 562,
         "url": "Zet/People/Lã Bố.md",
         "outgoing_links": [
             "Nhà Hậu Hán",
@@ -6730,7 +6781,7 @@
         ]
     },
     "Giáo hoàng Francis": {
-        "id": 559,
+        "id": 563,
         "url": "Zet/People/Giáo hoàng Francis.md",
         "outgoing_links": [
             "Dòng Tên"
@@ -6740,7 +6791,7 @@
         ]
     },
     "Lý Thế Dân": {
-        "id": 560,
+        "id": 564,
         "url": "Zet/People/Lý Thế Dân.md",
         "outgoing_links": [
             "Nhà Đường"
@@ -6751,7 +6802,7 @@
         ]
     },
     "Antoine Beauchamp": {
-        "id": 561,
+        "id": 565,
         "url": "Zet/People/Antoine Beauchamp.md",
         "outgoing_links": [
             "Louis Pasteur"
@@ -6767,7 +6818,7 @@
         ]
     },
     "Hồng Tú Toàn": {
-        "id": 562,
+        "id": 566,
         "url": "Zet/People/Hồng Tú Toàn.md",
         "outgoing_links": [
             "Nhà Thanh"
@@ -6777,7 +6828,7 @@
         ]
     },
     "Baba Vanga": {
-        "id": 563,
+        "id": 567,
         "url": "Zet/People/Baba Vanga.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6786,7 +6837,7 @@
         ]
     },
     "Thomas Edison": {
-        "id": 564,
+        "id": 568,
         "url": "Zet/People/Thomas Edison.md",
         "outgoing_links": [
             "Nicola Tesla",
@@ -6798,7 +6849,7 @@
         ]
     },
     "Nguyễn Hoàng": {
-        "id": 565,
+        "id": 569,
         "url": "Zet/People/Nguyễn Hoàng.md",
         "outgoing_links": [
             "Chúa Nguyễn",
@@ -6811,7 +6862,7 @@
         ]
     },
     "Hạ Vũ": {
-        "id": 566,
+        "id": 570,
         "url": "Zet/People/Hạ Vũ.md",
         "outgoing_links": [
             "Nhà Hạ"
@@ -6822,7 +6873,7 @@
         ]
     },
     "Mikhail Gorbachev": {
-        "id": 567,
+        "id": 571,
         "url": "Zet/People/Mikhail Gorbachev.md",
         "outgoing_links": [
             "Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika"
@@ -6834,7 +6885,7 @@
         ]
     },
     "Albert Einstein": {
-        "id": 568,
+        "id": 572,
         "url": "Zet/People/Albert Einstein.md",
         "outgoing_links": [
             "Nicola Tesla"
@@ -6842,7 +6893,7 @@
         "backlinks": []
     },
     "Johann Adam Weishaupt": {
-        "id": 569,
+        "id": 573,
         "url": "Zet/People/Johann Adam Weishaupt.md",
         "outgoing_links": [
             "Adam Weishaupt thành lập Illuminati 1776",
@@ -6857,7 +6908,7 @@
         ]
     },
     "Trang Tử": {
-        "id": 570,
+        "id": 574,
         "url": "Zet/People/Trang Tử.md",
         "outgoing_links": [
             "Đạo Giáo"
@@ -6865,7 +6916,7 @@
         "backlinks": []
     },
     "Vua David": {
-        "id": 571,
+        "id": 575,
         "url": "Zet/People/Vua David.md",
         "outgoing_links": [
             "Chi tộc Judah",
@@ -6876,7 +6927,7 @@
         ]
     },
     "Enoch": {
-        "id": 572,
+        "id": 576,
         "url": "Zet/People/Enoch.md",
         "outgoing_links": [
             "Adam và Eva"
@@ -6886,7 +6937,7 @@
         ]
     },
     "Moses": {
-        "id": 573,
+        "id": 577,
         "url": "Zet/People/Moses.md",
         "outgoing_links": [
             "Torah",
@@ -6905,7 +6956,7 @@
         ]
     },
     "Trần Huyền Trang": {
-        "id": 574,
+        "id": 578,
         "url": "Zet/People/Trần Huyền Trang.md",
         "outgoing_links": [
             "Nhà Đường",
@@ -6916,7 +6967,7 @@
         ]
     },
     "Trần Thủ Huy": {
-        "id": 575,
+        "id": 579,
         "url": "Zet/People/Trần Thủ Huy.md",
         "outgoing_links": [
             "Trần Thủ Độ"
@@ -6927,7 +6978,7 @@
         ]
     },
     "Abhigya Anand": {
-        "id": 576,
+        "id": 580,
         "url": "Zet/People/Abhigya Anand.md",
         "outgoing_links": [],
         "backlinks": [
@@ -6936,7 +6987,7 @@
         ]
     },
     "Niklas Luhmann": {
-        "id": 577,
+        "id": 581,
         "url": "Zet/People/Niklas Luhmann.md",
         "outgoing_links": [
             "Zettelkasten"
@@ -6951,7 +7002,7 @@
         ]
     },
     "Jacob": {
-        "id": 578,
+        "id": 582,
         "url": "Zet/People/Jacob.md",
         "outgoing_links": [
             "Abraham",
@@ -6966,7 +7017,7 @@
         ]
     },
     "Mạnh Tử": {
-        "id": 579,
+        "id": 583,
         "url": "Zet/People/Mạnh Tử.md",
         "outgoing_links": [
             "Mạnh mẫu"
@@ -6976,7 +7027,7 @@
         ]
     },
     "Lý Chiêu Hoàng": {
-        "id": 580,
+        "id": 584,
         "url": "Zet/People/Lý Chiêu Hoàng.md",
         "outgoing_links": [
             "Nhà Lý",
@@ -7003,7 +7054,7 @@
         ]
     },
     "Pythagoras": {
-        "id": 581,
+        "id": 585,
         "url": "Zet/People/Pythagoras.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7012,7 +7063,7 @@
         ]
     },
     "Louis Pasteur": {
-        "id": 582,
+        "id": 586,
         "url": "Zet/People/Louis Pasteur.md",
         "outgoing_links": [
             "The Germ theory",
@@ -7033,7 +7084,7 @@
         ]
     },
     "Richard Feymann": {
-        "id": 583,
+        "id": 587,
         "url": "Zet/People/Richard Feymann.md",
         "outgoing_links": [
             "Giải Nobel"
@@ -7043,7 +7094,7 @@
         ]
     },
     "Theodor Herzl": {
-        "id": 584,
+        "id": 588,
         "url": "Zet/People/Theodor Herzl.md",
         "outgoing_links": [
             "Người Do Thái Ashkenazi",
@@ -7054,7 +7105,7 @@
         ]
     },
     "Thánh Anna": {
-        "id": 585,
+        "id": 589,
         "url": "Zet/People/Thánh Anna.md",
         "outgoing_links": [
             "Ngụy thư Giacobe",
@@ -7064,7 +7115,7 @@
         "backlinks": []
     },
     "Đế Thuấn": {
-        "id": 586,
+        "id": 590,
         "url": "Zet/People/Đế Thuấn.md",
         "outgoing_links": [
             "Đế Nghiêu"
@@ -7075,7 +7126,7 @@
         ]
     },
     "Abraham": {
-        "id": 587,
+        "id": 591,
         "url": "Zet/People/Abraham.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -7094,7 +7145,7 @@
         ]
     },
     "Anthony Fauci": {
-        "id": 588,
+        "id": 592,
         "url": "Zet/People/Anthony Fauci.md",
         "outgoing_links": [
             "Viện dị ứng và bệnh truyền nhiễm quốc gia Hoa Kỳ"
@@ -7106,7 +7157,7 @@
         ]
     },
     "Benjamin Franklin": {
-        "id": 589,
+        "id": 593,
         "url": "Zet/People/Benjamin Franklin.md",
         "outgoing_links": [
             "Mặc dù Benjamin Franklin không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD"
@@ -7120,13 +7171,13 @@
         ]
     },
     "Bertrand Russel": {
-        "id": 590,
+        "id": 594,
         "url": "Zet/People/Bertrand Russel.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Pope Gregory XIII": {
-        "id": 591,
+        "id": 595,
         "url": "Zet/People/Pope Gregory XIII.md",
         "outgoing_links": [
             "Lịch Gregorian"
@@ -7136,7 +7187,7 @@
         ]
     },
     "Thánh Justino": {
-        "id": 592,
+        "id": 596,
         "url": "Zet/People/Thánh Justino.md",
         "outgoing_links": [
             "God"
@@ -7144,13 +7195,14 @@
         "backlinks": []
     },
     "John F. Kennedy": {
-        "id": 593,
+        "id": 597,
         "url": "Zet/People/John F. Kennedy.md",
         "outgoing_links": [
             "Vụ ám sát John F. Kennedy",
             "John F. Kennedy và Chiến tranh Việt Nam"
         ],
         "backlinks": [
+            "Khủng hoảng tên lửa Cuba",
             "John F. Kennedy phản đối chiến tranh Việt Nam",
             "Chiến tranh Việt Nam",
             "John F. Kennedy và Chiến tranh Việt Nam",
@@ -7159,7 +7211,7 @@
         ]
     },
     "Lý Huệ Tông": {
-        "id": 594,
+        "id": 598,
         "url": "Zet/People/Lý Huệ Tông.md",
         "outgoing_links": [
             "Nhà Lý",
@@ -7179,7 +7231,7 @@
         ]
     },
     "Nguyễn Anh Vũ": {
-        "id": 595,
+        "id": 599,
         "url": "Zet/People/Nguyễn Anh Vũ.md",
         "outgoing_links": [
             "Nguyễn Trãi",
@@ -7190,7 +7242,7 @@
         ]
     },
     "Đế Nghiêu": {
-        "id": 596,
+        "id": 600,
         "url": "Zet/People/Đế Nghiêu.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7200,13 +7252,13 @@
         ]
     },
     "Alfred Adler": {
-        "id": 597,
+        "id": 601,
         "url": "Zet/People/Alfred Adler.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Anders Ericsson": {
-        "id": 598,
+        "id": 602,
         "url": "Zet/People/Anders Ericsson.md",
         "outgoing_links": [
             "Deliberate Practice"
@@ -7216,7 +7268,7 @@
         ]
     },
     "Trần Trọng Kim": {
-        "id": 599,
+        "id": 603,
         "url": "Zet/People/Trần Trọng Kim.md",
         "outgoing_links": [
             "Đế quốc Việt Nam"
@@ -7229,7 +7281,7 @@
         ]
     },
     "Kary B. Mullis": {
-        "id": 600,
+        "id": 604,
         "url": "Zet/People/Kary B. Mullis.md",
         "outgoing_links": [
             "Real time PCR test",
@@ -7248,7 +7300,7 @@
         ]
     },
     "Robert Wallace Malone": {
-        "id": 601,
+        "id": 605,
         "url": "Zet/People/Robert Wallace Malone.md",
         "outgoing_links": [
             "Vaccine mRNA",
@@ -7262,13 +7314,13 @@
         ]
     },
     "John Adams": {
-        "id": 602,
+        "id": 606,
         "url": "Zet/People/John Adams.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Joseph Stalin": {
-        "id": 603,
+        "id": 607,
         "url": "Zet/People/Joseph Stalin.md",
         "outgoing_links": [
             "Người Gruzia",
@@ -7282,7 +7334,7 @@
         ]
     },
     "Eckhart Tolle": {
-        "id": 604,
+        "id": 608,
         "url": "Zet/People/Eckhart Tolle.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7290,7 +7342,7 @@
         ]
     },
     "Trần Thủ Độ": {
-        "id": 605,
+        "id": 609,
         "url": "Zet/People/Trần Thủ Độ.md",
         "outgoing_links": [
             "Nhà Lý",
@@ -7319,7 +7371,7 @@
         ]
     },
     "Charles Darwin": {
-        "id": 606,
+        "id": 610,
         "url": "Zet/People/Charles Darwin.md",
         "outgoing_links": [
             "Thuyết tiến hóa"
@@ -7333,7 +7385,7 @@
         ]
     },
     "Friedrich Nietzsche": {
-        "id": 607,
+        "id": 611,
         "url": "Zet/People/Friedrich Nietzsche.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7342,7 +7394,7 @@
         ]
     },
     "Đinh Bộ Lĩnh": {
-        "id": 608,
+        "id": 612,
         "url": "Zet/People/Đinh Bộ Lĩnh.md",
         "outgoing_links": [
             "Nhà Đinh"
@@ -7357,7 +7409,7 @@
         ]
     },
     "Tần Thủy Hoàng": {
-        "id": 609,
+        "id": 613,
         "url": "Zet/People/Tần Thủy Hoàng.md",
         "outgoing_links": [
             "Nhà Tần",
@@ -7372,7 +7424,7 @@
         ]
     },
     "Nguyễn Huệ": {
-        "id": 610,
+        "id": 614,
         "url": "Zet/People/Nguyễn Huệ.md",
         "outgoing_links": [
             "Nhà Tây Sơn",
@@ -7384,7 +7436,7 @@
         ]
     },
     "Vladimir Lenin": {
-        "id": 611,
+        "id": 615,
         "url": "Zet/People/Vladimir Lenin.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7396,7 +7448,7 @@
         ]
     },
     "Thánh Phaolo": {
-        "id": 612,
+        "id": 616,
         "url": "Zet/People/Thánh Phaolo.md",
         "outgoing_links": [
             "Cơ Đốc Giáo",
@@ -7408,7 +7460,7 @@
         ]
     },
     "Nguyễn Kim": {
-        "id": 613,
+        "id": 617,
         "url": "Zet/People/Nguyễn Kim.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7419,7 +7471,7 @@
         ]
     },
     "Trần Cảnh": {
-        "id": 614,
+        "id": 618,
         "url": "Zet/People/Trần Cảnh.md",
         "outgoing_links": [
             "Nhà Trần",
@@ -7444,7 +7496,7 @@
         ]
     },
     "Linh Từ Quốc mẫu": {
-        "id": 615,
+        "id": 619,
         "url": "Zet/People/Linh Từ Quốc mẫu.md",
         "outgoing_links": [
             "Nhà Lý",
@@ -7462,7 +7514,7 @@
         ]
     },
     "Trần Liễu": {
-        "id": 616,
+        "id": 620,
         "url": "Zet/People/Trần Liễu.md",
         "outgoing_links": [
             "Trần Cảnh",
@@ -7481,7 +7533,7 @@
         ]
     },
     "Điêu Thuyền": {
-        "id": 617,
+        "id": 621,
         "url": "Zet/People/Điêu Thuyền.md",
         "outgoing_links": [
             "Tứ đại mỹ nhân Trung Hoa"
@@ -7491,7 +7543,7 @@
         ]
     },
     "Mặc Tử": {
-        "id": 618,
+        "id": 622,
         "url": "Zet/People/Mặc Tử.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7500,7 +7552,7 @@
         ]
     },
     "Hồ Quý Ly": {
-        "id": 619,
+        "id": 623,
         "url": "Zet/People/Hồ Quý Ly.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7509,7 +7561,7 @@
         ]
     },
     "Martin Luther": {
-        "id": 620,
+        "id": 624,
         "url": "Zet/People/Martin Luther.md",
         "outgoing_links": [
             "Cải Cách Kháng Nghị"
@@ -7520,13 +7572,13 @@
         ]
     },
     "John Robison": {
-        "id": 621,
+        "id": 625,
         "url": "Zet/People/John Robison.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Siddhartha Gautama": {
-        "id": 622,
+        "id": 626,
         "url": "Zet/People/Siddhartha Gautama.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7534,7 +7586,7 @@
         ]
     },
     "Ishmael": {
-        "id": 623,
+        "id": 627,
         "url": "Zet/People/Ishmael.md",
         "outgoing_links": [
             "Abraham"
@@ -7545,7 +7597,7 @@
         ]
     },
     "Thánh Jerome": {
-        "id": 624,
+        "id": 628,
         "url": "Zet/People/Thánh Jerome.md",
         "outgoing_links": [
             "Công Giáo"
@@ -7553,7 +7605,7 @@
         "backlinks": []
     },
     "Zarathustra": {
-        "id": 625,
+        "id": 629,
         "url": "Zet/People/Zarathustra.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7561,7 +7613,7 @@
         ]
     },
     "Abel": {
-        "id": 626,
+        "id": 630,
         "url": "Zet/People/Abel.md",
         "outgoing_links": [
             "Adam và Eva",
@@ -7574,7 +7626,7 @@
         ]
     },
     "Thương Ưởng": {
-        "id": 627,
+        "id": 631,
         "url": "Zet/People/Thương Ưởng.md",
         "outgoing_links": [
             "Nhà Tần"
@@ -7585,7 +7637,7 @@
         ]
     },
     "Thomas More": {
-        "id": 628,
+        "id": 632,
         "url": "Zet/People/Thomas More.md",
         "outgoing_links": [
             "Cải Cách Kháng Nghị",
@@ -7595,7 +7647,7 @@
         "backlinks": []
     },
     "Alexandre Yersin": {
-        "id": 629,
+        "id": 633,
         "url": "Zet/People/Alexandre Yersin.md",
         "outgoing_links": [
             "Louis Pasteur",
@@ -7607,7 +7659,7 @@
         ]
     },
     "Trịnh Kiểm": {
-        "id": 630,
+        "id": 634,
         "url": "Zet/People/Trịnh Kiểm.md",
         "outgoing_links": [
             "Chúa Trịnh",
@@ -7621,7 +7673,7 @@
         ]
     },
     "René Descartes": {
-        "id": 631,
+        "id": 635,
         "url": "Zet/People/René Descartes.md",
         "outgoing_links": [
             "Descartes theo học trường dòng Tên"
@@ -7632,7 +7684,7 @@
         ]
     },
     "Phục Hi": {
-        "id": 632,
+        "id": 636,
         "url": "Zet/People/Phục Hi.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7642,7 +7694,7 @@
         ]
     },
     "Henry Alfred Kissinger": {
-        "id": 633,
+        "id": 637,
         "url": "Zet/People/Henry Alfred Kissinger.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -7652,13 +7704,13 @@
         "backlinks": []
     },
     "Seneca": {
-        "id": 634,
+        "id": 638,
         "url": "Zet/People/Seneca.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Theodore Roosevelt": {
-        "id": 635,
+        "id": 639,
         "url": "Zet/People/Theodore Roosevelt.md",
         "outgoing_links": [
             "John Pierpont Morgan"
@@ -7671,7 +7723,7 @@
         ]
     },
     "Albert Camus": {
-        "id": 636,
+        "id": 640,
         "url": "Zet/People/Albert Camus.md",
         "outgoing_links": [
             "Chủ nghĩa hiện sinh",
@@ -7686,7 +7738,7 @@
         ]
     },
     "Nam Phương hoàng hậu": {
-        "id": 637,
+        "id": 641,
         "url": "Zet/People/Nam Phương hoàng hậu.md",
         "outgoing_links": [
             "Bảo Đại"
@@ -7694,7 +7746,7 @@
         "backlinks": []
     },
     "Bill Gates": {
-        "id": 638,
+        "id": 642,
         "url": "Zet/People/Bill Gates.md",
         "outgoing_links": [
             "QAnon",
@@ -7713,7 +7765,7 @@
         ]
     },
     "Buzz Aldrin": {
-        "id": 639,
+        "id": 643,
         "url": "Zet/People/Buzz Aldrin.md",
         "outgoing_links": [
             "UFO"
@@ -7721,7 +7773,7 @@
         "backlinks": []
     },
     "Ngô Đình Thục": {
-        "id": 640,
+        "id": 644,
         "url": "Zet/People/Ngô Đình Thục.md",
         "outgoing_links": [
             "Công Giáo",
@@ -7734,7 +7786,7 @@
         ]
     },
     "Lão Tử": {
-        "id": 641,
+        "id": 645,
         "url": "Zet/People/Lão Tử.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7744,7 +7796,7 @@
         ]
     },
     "Nguyễn Bặc": {
-        "id": 642,
+        "id": 646,
         "url": "Zet/People/Nguyễn Bặc.md",
         "outgoing_links": [
             "Nhà Đinh",
@@ -7758,7 +7810,7 @@
         ]
     },
     "Đổng Trác": {
-        "id": 643,
+        "id": 647,
         "url": "Zet/People/Đổng Trác.md",
         "outgoing_links": [
             "Nhà Hậu Hán",
@@ -7772,7 +7824,7 @@
         ]
     },
     "Heinrich Hermann Robert Koch": {
-        "id": 644,
+        "id": 648,
         "url": "Zet/People/Heinrich Hermann Robert Koch.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7782,7 +7834,7 @@
         ]
     },
     "Ulysses S. Grant": {
-        "id": 645,
+        "id": 649,
         "url": "Zet/People/Ulysses S. Grant.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7790,7 +7842,7 @@
         ]
     },
     "Adolf Hitler": {
-        "id": 646,
+        "id": 650,
         "url": "Zet/People/Adolf Hitler.md",
         "outgoing_links": [
             "Holocaust",
@@ -7803,7 +7855,7 @@
         ]
     },
     "Boris Yeltsin": {
-        "id": 647,
+        "id": 651,
         "url": "Zet/People/Boris Yeltsin.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7811,7 +7863,7 @@
         ]
     },
     "Lý Tự Thành": {
-        "id": 648,
+        "id": 652,
         "url": "Zet/People/Lý Tự Thành.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7822,7 +7874,7 @@
         ]
     },
     "Lưu Bị": {
-        "id": 649,
+        "id": 653,
         "url": "Zet/People/Lưu Bị.md",
         "outgoing_links": [
             "Tam Quốc",
@@ -7833,7 +7885,7 @@
         ]
     },
     "Thần Nông": {
-        "id": 650,
+        "id": 654,
         "url": "Zet/People/Thần Nông.md",
         "outgoing_links": [
             "Tam Hoàng Trung Hoa"
@@ -7845,7 +7897,7 @@
         ]
     },
     "Lý Bí": {
-        "id": 651,
+        "id": 655,
         "url": "Zet/People/Lý Bí.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7853,7 +7905,7 @@
         ]
     },
     "Stephen Hawking": {
-        "id": 652,
+        "id": 656,
         "url": "Zet/People/Stephen Hawking.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7861,7 +7913,7 @@
         ]
     },
     "Socrates": {
-        "id": 653,
+        "id": 657,
         "url": "Zet/People/Socrates.md",
         "outgoing_links": [],
         "backlinks": [
@@ -7869,7 +7921,7 @@
         ]
     },
     "Lev Davidovich Trotsky": {
-        "id": 654,
+        "id": 658,
         "url": "Zet/People/Lev Davidovich Trotsky.md",
         "outgoing_links": [
             "Trotsky mâu thuẫn chia rẽ với Lenin"
@@ -7882,7 +7934,7 @@
         ]
     },
     "Plato": {
-        "id": 655,
+        "id": 659,
         "url": "Zet/People/Plato.md",
         "outgoing_links": [
             "Socrates",
@@ -7896,7 +7948,7 @@
         ]
     },
     "Boriska Kipriyanovich": {
-        "id": 656,
+        "id": 660,
         "url": "Zet/People/Boriska Kipriyanovich.md",
         "outgoing_links": [
             "Stephen Hawking"
@@ -7907,7 +7959,7 @@
         ]
     },
     "Trương Phi": {
-        "id": 657,
+        "id": 661,
         "url": "Zet/People/Trương Phi.md",
         "outgoing_links": [
             "Tam Quốc"
@@ -7918,7 +7970,7 @@
         ]
     },
     "Đức Jesus": {
-        "id": 658,
+        "id": 662,
         "url": "Zet/People/Đức Jesus.md",
         "outgoing_links": [
             "God",
@@ -7943,7 +7995,7 @@
         ]
     },
     "Trần Hưng Đạo": {
-        "id": 659,
+        "id": 663,
         "url": "Zet/People/Trần Hưng Đạo.md",
         "outgoing_links": [
             "Nhà Trần",
@@ -7959,7 +8011,7 @@
         ]
     },
     "William Penn": {
-        "id": 660,
+        "id": 664,
         "url": "Zet/People/William Penn.md",
         "outgoing_links": [
             "The Quaker",
@@ -7968,7 +8020,7 @@
         "backlinks": []
     },
     "Baruch Spinoza": {
-        "id": 661,
+        "id": 665,
         "url": "Zet/People/Baruch Spinoza.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -7977,7 +8029,7 @@
         "backlinks": []
     },
     "Viên Thiệu": {
-        "id": 662,
+        "id": 666,
         "url": "Zet/People/Viên Thiệu.md",
         "outgoing_links": [
             "Nhà Hậu Hán",
@@ -7989,7 +8041,7 @@
         ]
     },
     "Teresa of Avila": {
-        "id": 663,
+        "id": 667,
         "url": "Zet/People/Teresa of Avila.md",
         "outgoing_links": [
             "Thánh Gioan Thánh giá"
@@ -8002,13 +8054,13 @@
         ]
     },
     "Martin Luther King, Jr": {
-        "id": 664,
+        "id": 668,
         "url": "Zet/People/Martin Luther King, Jr.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Ngô Sĩ Liên": {
-        "id": 665,
+        "id": 669,
         "url": "Zet/People/Ngô Sĩ Liên.md",
         "outgoing_links": [
             "Nhà Hậu Lê"
@@ -8019,7 +8071,7 @@
         ]
     },
     "Alberto Rivera": {
-        "id": 666,
+        "id": 670,
         "url": "Zet/People/Alberto Rivera.md",
         "outgoing_links": [
             "Công Giáo",
@@ -8033,7 +8085,7 @@
         ]
     },
     "Yasser Arafat": {
-        "id": 667,
+        "id": 671,
         "url": "Zet/People/Yasser Arafat.md",
         "outgoing_links": [
             "Tổ chức giải phóng Palestine",
@@ -8044,7 +8096,7 @@
         ]
     },
     "Helena Blavatsky": {
-        "id": 668,
+        "id": 672,
         "url": "Zet/People/Helena Blavatsky.md",
         "outgoing_links": [
             "Qmap"
@@ -8056,7 +8108,7 @@
         ]
     },
     "Võ Tắc Thiên": {
-        "id": 669,
+        "id": 673,
         "url": "Zet/People/Võ Tắc Thiên.md",
         "outgoing_links": [
             "Lý Thế Dân"
@@ -8067,7 +8119,7 @@
         ]
     },
     "Nicola Tesla": {
-        "id": 670,
+        "id": 674,
         "url": "Zet/People/Nicola Tesla.md",
         "outgoing_links": [
             "Theo tài liệu FBI, Tesla là người Sao Kim",
@@ -8089,7 +8141,7 @@
         ]
     },
     "Edward Jenner": {
-        "id": 671,
+        "id": 675,
         "url": "Zet/People/Edward Jenner.md",
         "outgoing_links": [
             "Vaccine",
@@ -8107,13 +8159,13 @@
         ]
     },
     "Magnus Carlsen": {
-        "id": 672,
+        "id": 676,
         "url": "Zet/People/Magnus Carlsen.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Sự khác biệt giữa Công giáo và Tin lành": {
-        "id": 673,
+        "id": 677,
         "url": "Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành.md",
         "outgoing_links": [
             "Công Giáo",
@@ -8127,7 +8179,7 @@
         ]
     },
     "Tóm tắt sách - Digital Minimalism": {
-        "id": 674,
+        "id": 678,
         "url": "Zet/Writing/Tóm tắt sách - Digital Minimalism.md",
         "outgoing_links": [],
         "backlinks": [
@@ -8135,7 +8187,7 @@
         ]
     },
     "Tóm tắt sách - How to take smart notes": {
-        "id": 675,
+        "id": 679,
         "url": "Zet/Writing/Tóm tắt sách - How to take smart notes.md",
         "outgoing_links": [],
         "backlinks": [
@@ -8143,7 +8195,7 @@
         ]
     },
     "❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người": {
-        "id": 676,
+        "id": 680,
         "url": "Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người.md",
         "outgoing_links": [
             "Xung đột Israel - Palestine",
@@ -8162,7 +8214,7 @@
         ]
     },
     "Danh sách các bài viết": {
-        "id": 677,
+        "id": 681,
         "url": "Zet/Writing/Danh sách các bài viết.md",
         "outgoing_links": [
             "Zettelkasten",
@@ -8179,7 +8231,7 @@
         "backlinks": []
     },
     "So sánh giữa Existentialism và Nihilism": {
-        "id": 678,
+        "id": 682,
         "url": "Zet/Writing/So sánh giữa Existentialism và Nihilism.md",
         "outgoing_links": [
             "Chủ nghĩa Hư vô",
@@ -8189,13 +8241,13 @@
         "backlinks": []
     },
     "Các vụ án Công giáo": {
-        "id": 679,
+        "id": 683,
         "url": "Zet/Writing/Các vụ án Công giáo.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Tiểu sử tiên tri Moses": {
-        "id": 680,
+        "id": 684,
         "url": "Zet/Writing/Tiểu sử tiên tri Moses.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -8208,7 +8260,7 @@
         ]
     },
     "Sự kiện lịch sử từ Nhà minh tới nhà Thanh": {
-        "id": 681,
+        "id": 685,
         "url": "Zet/Writing/Sự kiện lịch sử từ Nhà minh tới nhà Thanh.md",
         "outgoing_links": [
             "Lý Tự Thành",
@@ -8219,7 +8271,7 @@
         ]
     },
     "Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều": {
-        "id": 682,
+        "id": 686,
         "url": "Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều.md",
         "outgoing_links": [
             "John Pierpont Morgan",
@@ -8232,7 +8284,7 @@
         ]
     },
     "❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith": {
-        "id": 683,
+        "id": 687,
         "url": "Zet/Thinking/❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith.md",
         "outgoing_links": [
             "Chủ nghĩa hiện sinh",
@@ -8241,7 +8293,7 @@
         "backlinks": []
     },
     "❕ Ý nghĩa cuộc sống": {
-        "id": 684,
+        "id": 688,
         "url": "Zet/Thinking/❕ Ý nghĩa cuộc sống.md",
         "outgoing_links": [
             "To be in the world but not of it",
@@ -8260,13 +8312,13 @@
         ]
     },
     "❕ Topics to research": {
-        "id": 685,
+        "id": 689,
         "url": "Zet/Thinking/❕ Topics to research.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm": {
-        "id": 686,
+        "id": 690,
         "url": "Zet/Thinking/❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm.md",
         "outgoing_links": [
             "Nhà Triệu",
@@ -8279,7 +8331,7 @@
         ]
     },
     "❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người": {
-        "id": 687,
+        "id": 691,
         "url": "Zet/Thinking/❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người.md",
         "outgoing_links": [
             "❕ Ý nghĩa cuộc sống"
@@ -8287,7 +8339,7 @@
         "backlinks": []
     },
     "❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được": {
-        "id": 688,
+        "id": 692,
         "url": "Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được.md",
         "outgoing_links": [
             "Nhà Trần",
@@ -8296,7 +8348,7 @@
         "backlinks": []
     },
     "Tóm tắt sách Sáng Thế": {
-        "id": 689,
+        "id": 693,
         "url": "Zet/Thinking/Tóm tắt sách Sáng Thế.md",
         "outgoing_links": [
             "God",
@@ -8313,7 +8365,7 @@
         ]
     },
     "❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh": {
-        "id": 690,
+        "id": 694,
         "url": "Zet/Thinking/❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh.md",
         "outgoing_links": [
             "Chủ nghĩa Hư vô",
