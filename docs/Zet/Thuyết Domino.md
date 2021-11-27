@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/Thuyết Truman
   - Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
 title: Thuyết Domino
 UID: 2107180952

@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Người Do Thái
   - Zet/God
   - Zet/Torah
+  - Zet/People/Harry S. Truman
   - Zet/Tổ chức giải phóng Palestine
 backlinks:
   - Zet/Do Thái Giáo

@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/People/Ulysses S. Grant
   - Zet/People/Theodore Roosevelt
+  - Zet/People/Harry S. Truman
   - Zet/People/John F. Kennedy
   - Zet/People/Donald J. Trump
 title: Các đời tổng thống Hoa Kỳ

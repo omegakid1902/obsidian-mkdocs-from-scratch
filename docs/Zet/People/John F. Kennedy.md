@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Vụ ám sát John F. Kennedy
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
 backlinks:
+  - Zet/Khủng hoảng tên lửa Cuba
   - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
   - Zet/Chiến tranh Việt Nam
   - Zet/John F. Kennedy và Chiến tranh Việt Nam

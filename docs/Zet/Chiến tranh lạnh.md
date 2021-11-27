@@ -1,11 +1,11 @@
 ---
 outgoing_links:
+  - Zet/Thuyết Truman
   - Zet/Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991
   - Zet/People/Mikhail Gorbachev
   - Zet/Bức tường Berlin
   - Zet/Chiến tranh Việt Nam
-backlinks:
-  - Zet/Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991
+  - Zet/Khủng hoảng tên lửa Cuba
 title: Chiến tranh lạnh
 UID: 211123224544
 created: 23-Nov-2021

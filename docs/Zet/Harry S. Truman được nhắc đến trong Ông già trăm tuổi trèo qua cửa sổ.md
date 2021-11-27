@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Harry S. Truman
 title: Harry S. Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ
 tags:
   - 'created/2021/Aug/08'
