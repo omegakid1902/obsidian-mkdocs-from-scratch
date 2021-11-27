@@ -46,6 +46,8 @@ publish: True
 ## Ideas & thoughts:
 - Giải thích cách nhiễm độc thay vì lây nhiễm theo thuyết The Terrain Theory #todo/research, tần số ô nhiễm ra biến đổi nội môi?
 - Các vaccine trước giờ thì sao!?
+- Vi khuẩn vẫn có, vẫn có sự lây lan vi khuẩn. Nhưng virus thì hoàn toàn không, nó không có sự sống.
+
 
  ## Reference:
  - [Sự khác biệt giữa lý thuyết mầm và lý thuyết địa hình (Khoa học & Tự nhiên) | Sự khác biệt giữa các đối tượng, từ và thuật ngữ tương tự. (sawakinome.com)](https://vi.sawakinome.com/articles/science--nature/difference-between-germ-theory-and-terrain-theory-2.html)

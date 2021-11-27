@@ -1,6 +1,6 @@
 ---
 backlinks:
-  - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+  - Zet/Các định đề Robert Koch
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 title: Heinrich Hermann Robert Koch

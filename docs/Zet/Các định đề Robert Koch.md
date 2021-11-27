@@ -3,19 +3,22 @@ outgoing_links:
   - Zet/People/Heinrich Hermann Robert Koch
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 backlinks:
+  - Zet/Dịch hạch
   - Zet/The Germ theory
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
-title: Bốn định đề Robert Koch xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+title: Các định đề Robert Koch
 UID: 211016104248
 created: 16-Oct-2021
 tags:
   - 'created/2021/Oct/16'
   - 'garden🏡'
   - 'permanent/linking'
+aliases:
+  - Các định đề Robert Koch để chứng minh một loại vi sinh vật là nguồn gốc gây bệnh
 publish: True
 ---
-# Bốn định đề Robert Koch xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+# Các định đề Robert Koch
 
 ## Notes:
 Nguyên tắc được [[Heinrich Hermann Robert Koch]] để xác định một loại vi khuẩn có liên quan tới một loại bệnh cụ thể nào đó không. Các nguyên tắc này được nhắc đến trong [[@ Thomas S. Cowan, The Contagion Myth, Ch01]]

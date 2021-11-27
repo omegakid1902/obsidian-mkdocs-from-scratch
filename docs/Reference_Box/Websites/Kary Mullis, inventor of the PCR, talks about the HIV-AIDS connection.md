@@ -21,7 +21,7 @@ he announced that he had found cause of one kind of cancer which was supposed to
 
 Ý chính:
 - Không thể khẳng định quan hệ nhân quả virus X là nguyên nhân gây bệnh Y nếu nó tìm thấy trong 1 người mang bệnh. Theo [[The Terrain Theory]] virus là các [[Exosomes]] được tổng hợp khi cơ thể nhiễm độc và có nhiệm vụ giải độc. Xem thêm:
-	-  [[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]]
+	-  [[Các định đề Robert Koch]]
 	-  [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
 	-  [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]. 
 

@@ -13,6 +13,7 @@ backlinks:
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Đại dịch COVID-19
   - Zet/People/Antoine Beauchamp
+  - Zet/People/Alexandre Yersin
 title: Louis Pasteur
 UID: 211010111029
 tags:

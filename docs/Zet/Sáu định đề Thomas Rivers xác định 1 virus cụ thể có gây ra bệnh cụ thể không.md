@@ -2,11 +2,11 @@
 outgoing_links:
   - Zet/People/Heinrich Hermann Robert Koch
   - Zet/Virus
-  - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
+  - Zet/Các định đề Robert Koch
 backlinks:
   - Zet/The Germ theory
+  - Zet/Các định đề Robert Koch
   - Zet/Coronavirus
-  - Zet/Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không
   - Zet/Vaccine Moderna
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
@@ -38,5 +38,5 @@ Năm 1937, [[Thomas Rivers]] dựa trên các định đề của [[Heinrich Her
 Rivers đã loại bỏ định đề đầu tiên của Koch
 
 ## Ideas & thoughts:
-- Phát triển dựa trên [[Bốn định đề Robert Koch  xác định vi sinh vật có là nguồn gốc gây ra bệnh cụ thể hay không]] của [[Heinrich Hermann Robert Koch]]
+- Phát triển dựa trên [[Các định đề Robert Koch]] của [[Heinrich Hermann Robert Koch]]
 
