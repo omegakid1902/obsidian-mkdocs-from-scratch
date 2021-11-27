@@ -24,6 +24,9 @@ outgoing_links:
   - Zet/Thư viện Nag Hammadi
   - Zet/Các cuộn sách biển Chết
   - Zet/People/John Pierpont Morgan
+  - Zet/Thảm họa Fukushima
+  - Zet/People/Ronald Reagan
+  - Zet/People/Anton Lavey
   - Zet/Gia tộc Rothschild
   - Zet/Khazarian Mafia
   - Zet/FED
@@ -128,9 +131,11 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Các cuộn sách biển Chết]]
 - [[John Pierpont Morgan]]
 - [[Titanic]]
-- [[John Pierpont Morgan]]
-
-
+- [[Thảm họa Fukushima]]
+- [[Ronald Reagan]]
+- [[Anton Lavey]]
+- [[Thẻ bài Illuminati]]
+- 
 ## [[Gia tộc Rothschild|Rothschild]]
 - [[Khazarian Mafia]]
 - [[Tháp Mentmore|Mentmore tower]]

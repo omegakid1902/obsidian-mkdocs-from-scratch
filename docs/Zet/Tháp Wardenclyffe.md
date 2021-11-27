@@ -23,6 +23,3 @@ Tháp Wardenclyffe là một trạm truyền năng lượng không dây được
 Công dụng của tháp Wardenclyffe là truyền tải điện không dây
 
 ## Ideas & thoughts:
-
-## Questions:
-

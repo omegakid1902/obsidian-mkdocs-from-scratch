@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Thuyết Truman
   - Zet/Tổng thống Gorbachev tuyên bố giải thể Liên Xô 1991
   - Zet/People/Mikhail Gorbachev
+  - Zet/NATO
   - Zet/Bức tường Berlin
   - Zet/Chiến tranh Việt Nam
   - Zet/Khủng hoảng tên lửa Cuba

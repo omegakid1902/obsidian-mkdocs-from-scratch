@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Thuyết Truman
+  - Zet/NATO
 backlinks:
   - Zet/Xung đột Israel - Palestine
   - Zet/Thuyết Truman

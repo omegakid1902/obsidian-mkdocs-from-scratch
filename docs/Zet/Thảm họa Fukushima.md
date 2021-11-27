@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Thảm họa hạt nhân
 backlinks:
+  - Zet/Qmap
   - Zet/Thảm họa hạt nhân
 title: Thảm họa Fukushima
 UID: 211127103605
