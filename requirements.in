@@ -5,6 +5,7 @@ mkdocs-autolinks-plugin
 mkdocs-roamlinks-plugin
 mkdocs-section-index
 python-frontmatter
+mkdocs-minify-plugin
 git+https://github.com/omegakid1902/mkdocs-plugin-tags.git
 backcall==0.2.0
 decorator==4.4.2
