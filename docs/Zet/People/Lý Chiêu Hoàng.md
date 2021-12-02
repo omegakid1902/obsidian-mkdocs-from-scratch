@@ -11,13 +11,13 @@ outgoing_links:
   - Zet/Nhà Trần
   - Zet/Quan hệ huyết thống nhà Trần - Lý
 backlinks:
-  - Zet/Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng
-  - Zet/Lịch Sử Việt Nam
+  - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
   - Zet/Các tên gọi của vua Lý Chiêu Hoàng
   - Zet/Nhà Trần
-  - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
-  - Zet/People/Thuận Thiên công chúa
+  - Zet/Lịch Sử Việt Nam
+  - Zet/Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng
   - Zet/People/Lý Huệ Tông
+  - Zet/People/Thuận Thiên công chúa
   - Zet/People/Trần Cảnh
   - Zet/People/Linh Từ Quốc mẫu
 title: Lý Chiêu Hoàng

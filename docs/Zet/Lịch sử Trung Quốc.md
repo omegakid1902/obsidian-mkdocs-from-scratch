@@ -27,10 +27,10 @@ outgoing_links:
   - Zet/People/Lý Tự Thành
   - Zet/People/Hồng Tú Toàn
 backlinks:
-  - Zet/Nhà Đại Lý
-  - Zet/Nhà Tống
   - Zet/Lịch sử
   - Zet/Nhà Liêu
+  - Zet/Nhà Đại Lý
+  - Zet/Nhà Tống
 title: Lịch sử Trung Quốc
 UID: 
 created: 

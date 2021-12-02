@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Coronavirus
 backlinks:
-  - Zet/Beta-Coronavirus
   - Zet/Coronavirus
+  - Zet/Beta-Coronavirus
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: MERS-CoV
 UID: 2107101351

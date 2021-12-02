@@ -9,29 +9,29 @@ outgoing_links:
   - Zet/Người Do Thái Sephardi
   - Zet/Người Do Thái Mizrahi
 backlinks:
-  - Zet/Xung đột Israel - Palestine
+  - Zet/Do Thái Giáo
+  - Zet/Người Hebrew
+  - Zet/Eugenics
   - Zet/Người Do Thái Sephardi
   - Zet/Chủ Nghĩa Zion
-  - Zet/Khazars
   - Zet/Holocaust
-  - Zet/Người Hebrew
-  - Zet/Người Do Thái Ethiopia
-  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
-  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
-  - Zet/Do Thái Giáo
-  - Zet/Eugenics
-  - Zet/Moses thuộc chi tộc Levi
   - Zet/Bức tường than khóc
-  - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
+  - Zet/Khazars
+  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
   - Zet/Ngôi sao David
-  - Zet/People/Karl Marx
-  - Zet/People/Moses
-  - Zet/People/Abraham
-  - Zet/People/Henry Alfred Kissinger
-  - Zet/People/Adolf Hitler
-  - Zet/People/Baruch Spinoza
+  - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
+  - Zet/Xung đột Israel - Palestine
+  - Zet/Người Do Thái Ethiopia
+  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
+  - Zet/Moses thuộc chi tộc Levi
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
   - Zet/Writing/Tiểu sử tiên tri Moses
+  - Zet/People/Abraham
+  - Zet/People/Moses
+  - Zet/People/Karl Marx
+  - Zet/People/Adolf Hitler
+  - Zet/People/Henry Alfred Kissinger
+  - Zet/People/Baruch Spinoza
 title: Người Do Thái
 created: Jun 19, 2021 9:05 PM
 tags:

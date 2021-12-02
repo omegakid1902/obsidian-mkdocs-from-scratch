@@ -9,8 +9,8 @@ outgoing_links:
   - Zet/People/Ngô Sĩ Liên
   - Zet/People/Trần Trọng Kim
 backlinks:
-  - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
   - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
+  - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
 title: Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
 UID: 2107251023
 tags:

@@ -10,8 +10,8 @@ outgoing_links:
   - Zet/Chiến tranh trên Thiên Đàng
 backlinks:
   - Zet/Lễ kính thiên thần Micael là 29 tháng 9
-  - Zet/Lucifer
   - Zet/Sau Vaticanô II, lễ kính của Raphael, Gabriel và Micael gộp thành một
+  - Zet/Lucifer
   - Zet/Micael không phải tổng lãnh thiên thần
   - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
 title: Thiên thần Micael

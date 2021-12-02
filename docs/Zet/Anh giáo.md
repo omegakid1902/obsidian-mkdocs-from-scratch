@@ -2,10 +2,10 @@
 outgoing_links:
   - Zet/People/Đức Giáo Hoàng
 backlinks:
+  - Zet/Religion
   - Zet/Cải Cách Kháng Nghị
   - Zet/Cơ Đốc Giáo
   - Zet/Công Giáo
-  - Zet/Religion
   - Zet/People/Thomas More
 title: Anh giáo
 UID: 211109222225

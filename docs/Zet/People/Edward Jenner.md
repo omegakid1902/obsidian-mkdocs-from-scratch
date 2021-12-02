@@ -5,11 +5,11 @@ outgoing_links:
   - Zet/The Terrain Theory
   - Zet/People/Antoine Beauchamp
 backlinks:
-  - Zet/Vaccination
-  - Zet/The Germ theory
   - Zet/Vaccine
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/The Germ theory
+  - Zet/Vaccination
   - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
+  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/People/Louis Pasteur
 title: Edward Jenner
 UID: 211010164903

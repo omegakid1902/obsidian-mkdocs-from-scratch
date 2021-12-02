@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Sông Nile là con sông dài nhất thế giới
 backlinks:
   - Zet/Thần Nu là tạo ra Sông Nile
-  - Zet/Sông Nile là con sông dài nhất thế giới
   - Zet/Thần Nu
+  - Zet/Sông Nile là con sông dài nhất thế giới
   - Zet/Ai Cập Cổ Đại
 title: Sông Nile
 created: July 27, 2021 10:49 PM

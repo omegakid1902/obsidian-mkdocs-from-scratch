@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Người Gruzia
   - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
 backlinks:
-  - Zet/Bolshevik
   - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
+  - Zet/Bolshevik
   - Zet/Chủ nghĩa Stalin
   - Zet/Qmap
 title: Joseph Stalin

@@ -4,14 +4,14 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/Thinking/Tóm tắt sách Sáng Thế
 backlinks:
-  - Zet/Người Do Thái
+  - Zet/Bản bảy mươi
+  - Zet/Lucifer
   - Zet/Công Giáo
   - Zet/Ngũ Kinh Cựu Ước
   - Zet/Grigori
-  - Zet/Lucifer
-  - Zet/Bản bảy mươi
-  - Zet/People/Adam và Eva
+  - Zet/Người Do Thái
   - Zet/People/Moses
+  - Zet/People/Adam và Eva
 title: Cựu Ước
 UID: 2107311703
 created: 22-Sep-2021

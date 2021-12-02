@@ -3,12 +3,12 @@ outgoing_links:
   - Zet/Vụ ám sát John F. Kennedy
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
 backlinks:
-  - Zet/Khủng hoảng tên lửa Cuba
-  - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
-  - Zet/Chiến tranh Việt Nam
-  - Zet/John F. Kennedy và Chiến tranh Việt Nam
   - Zet/Các tổng thống Mỹ bị ám sát
   - Zet/Các đời tổng thống Hoa Kỳ
+  - Zet/Khủng hoảng tên lửa Cuba
+  - Zet/John F. Kennedy và Chiến tranh Việt Nam
+  - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
+  - Zet/Chiến tranh Việt Nam
 title: John F. Kennedy
 UID: 211114152824
 tags:

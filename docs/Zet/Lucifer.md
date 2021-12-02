@@ -6,8 +6,8 @@ outgoing_links:
   - Zet/Grigori
   - Zet/Cựu Ước
 backlinks:
-  - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Chiến tranh trên Thiên Đàng
+  - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Qmap
 title: Lucifer
 UID: 210920221128

@@ -3,18 +3,18 @@ outgoing_links:
   - Zet/Vaccination
   - Zet/People/Edward Jenner
 backlinks:
-  - Zet/Vaccine virus bất hoạt
-  - Zet/Vaccination
-  - Zet/CDC
-  - Zet/FDA
-  - Zet/Big Medicine
-  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
-  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
-  - Zet/Eugenics
-  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Các kênh thông tin trái chiều
-  - Zet/Đại dịch COVID-19
+  - Zet/Eugenics
+  - Zet/Vaccination
+  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
   - Zet/Khoa học và các cú mị dân
+  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
+  - Zet/Đại dịch COVID-19
+  - Zet/Big Medicine
+  - Zet/CDC
+  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
+  - Zet/Vaccine virus bất hoạt
+  - Zet/FDA
   - Zet/People/Bill Gates
   - Zet/People/Edward Jenner
 title: Vaccine

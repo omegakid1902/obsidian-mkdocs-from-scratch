@@ -1,8 +1,8 @@
 ---
 backlinks:
-  - Zet/People/Adam và Eva
-  - Zet/People/Abel
   - Zet/Thinking/Tóm tắt sách Sáng Thế
+  - Zet/People/Abel
+  - Zet/People/Adam và Eva
 title: Cain sát hại Abel
 UID: 211003163911
 created: 03-Oct-2021

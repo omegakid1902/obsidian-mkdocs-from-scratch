@@ -45,16 +45,16 @@ outgoing_links:
   - Zet/Eugenics
   - Zet/People/Adolf Hitler
 backlinks:
-  - Zet/Chủ Nghĩa Zion
-  - Zet/Khazars
+  - Zet/Janus
+  - Zet/Vril
   - Zet/Plato có nói về Atlantis
   - Zet/Gia tộc Rothschild
-  - Zet/Janus
+  - Zet/Chủ Nghĩa Zion
+  - Zet/Khazars
   - Zet/Tháp Mentmore
-  - Zet/Vril
   - Zet/People/Đức Giáo Hoàng
-  - Zet/People/Plato
   - Zet/People/Helena Blavatsky
+  - Zet/People/Plato
 title: QAnon map
 UID: 210920220953
 created: 20-Sep-2021

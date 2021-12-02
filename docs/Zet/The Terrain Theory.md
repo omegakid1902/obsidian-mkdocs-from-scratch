@@ -9,8 +9,8 @@ outgoing_links:
   - Zet/Kênh youtube giáo dục tự do 1
 backlinks:
   - Zet/The Germ theory
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Đại dịch COVID-19
+  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/People/Edward Jenner
 title: The Terrain Theory
 UID: 211010113408

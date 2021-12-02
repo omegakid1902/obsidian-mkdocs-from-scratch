@@ -6,10 +6,10 @@ outgoing_links:
   - Zet/Nhà Nguyễn
   - Zet/Nhà Thanh
 backlinks:
-  - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Tây Sơn
   - Zet/Chúa Nguyễn
   - Zet/Nhà Nguyễn
-  - Zet/Nhà Tây Sơn
+  - Zet/Lịch Sử Việt Nam
   - Zet/People/Nguyễn Huệ
 title: "Nguyễn Ánh"
 UID:  P-210716-2234

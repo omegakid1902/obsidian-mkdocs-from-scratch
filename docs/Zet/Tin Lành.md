@@ -7,11 +7,11 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/Bí tích rửa tội
 backlinks:
-  - Zet/Tên gọi Kháng Nghị và Tin Lành
-  - Zet/God
+  - Zet/Religion
   - Zet/Cơ Đốc Giáo
   - Zet/Cộng Đoàn Taize
-  - Zet/Religion
+  - Zet/Tên gọi Kháng Nghị và Tin Lành
+  - Zet/God
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Tin Lành
 UID: 201225213624

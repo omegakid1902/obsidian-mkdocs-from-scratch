@@ -9,8 +9,8 @@ outgoing_links:
   - Zet/Khazaria
   - Zet/Người Do Thái Ashkenazi
 backlinks:
-  - Zet/Chủ Nghĩa Zion
   - Zet/Do Thái Giáo
+  - Zet/Chủ Nghĩa Zion
   - Zet/Writing/Danh sách các bài viết
 title: ❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 UID: 211030150807

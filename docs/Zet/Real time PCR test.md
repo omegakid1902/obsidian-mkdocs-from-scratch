@@ -6,11 +6,11 @@ outgoing_links:
 backlinks:
   - Zet/People/Kary B. Mullis
   - Zet/Real time PCR test là một trò bịp của Big Pharma
-  - Zet/The Terrain Theory
   - Zet/Real time PCR test là một trò bịp của Big Pharma
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
-  - Zet/Đại dịch COVID-19
   - Zet/Khoa học và các cú mị dân
+  - Zet/Đại dịch COVID-19
+  - Zet/The Terrain Theory
   - Zet/People/Kary B. Mullis
 title: Real time PCR test
 UID: 211017163408

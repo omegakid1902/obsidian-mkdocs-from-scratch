@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Holocaust
   - Zet/Eugenics
+  - Zet/Holocaust
   - Zet/People/Henry Alfred Kissinger
 title: Đảng Quốc Xã
 UID: 

@@ -7,11 +7,11 @@ backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
-  - Zet/Virus
-  - Zet/SARS-CoV
   - Zet/MERS-CoV
-  - Zet/Beta-Coronavirus
+  - Zet/Virus
   - Zet/SARS-COV-2
+  - Zet/Beta-Coronavirus
+  - Zet/SARS-CoV
 title: Coronavirus
 UID: 2107101256
 tags:

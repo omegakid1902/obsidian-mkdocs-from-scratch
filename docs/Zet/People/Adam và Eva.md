@@ -8,9 +8,9 @@ outgoing_links:
 backlinks:
   - Zet/Bí tích rửa tội
   - Zet/Lucifer
-  - Zet/People/Enoch
-  - Zet/People/Abel
   - Zet/Thinking/Tóm tắt sách Sáng Thế
+  - Zet/People/Abel
+  - Zet/People/Enoch
 title: Adam và Eva
 UID: 2108142139
 tags:

@@ -7,8 +7,8 @@ outgoing_links:
   - Zet/People/Trần Liễu
   - Zet/People/Trần Cảnh
 backlinks:
-  - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Trần Cảnh
+  - Zet/People/Lý Chiêu Hoàng
 title: Quan hệ huyết thống nhà Trần - Lý
 UID: 211125213354
 created: 25-Nov-2021

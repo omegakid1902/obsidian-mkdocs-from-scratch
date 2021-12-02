@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Ngũ Kinh Cựu Ước
 backlinks:
-  - Zet/Torah
   - Zet/Ngũ Kinh Cựu Ước
+  - Zet/Torah
 title: Năm sách trong Ngũ Kinh Cựu Ước
 UID: 2107311640
 tags:

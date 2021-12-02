@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/Các định đề Robert Koch
 backlinks:
   - Zet/The Germ theory
+  - Zet/Vaccine Moderna
   - Zet/Các định đề Robert Koch
   - Zet/Coronavirus
-  - Zet/Vaccine Moderna
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 UID: 211016110917

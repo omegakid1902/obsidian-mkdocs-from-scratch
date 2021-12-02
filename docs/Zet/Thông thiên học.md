@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Helena Blavatsky
 backlinks:
-  - Zet/Hội thông thiên học
   - Zet/Akashic records
+  - Zet/Hội thông thiên học
   - Zet/Ba Chân lý của thông thiên học
   - Zet/Thế giới tâm linh
 title: Thông thiên học

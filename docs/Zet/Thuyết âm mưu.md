@@ -1,11 +1,11 @@
 ---
 backlinks:
-  - Zet/Khazars
-  - Zet/Lịch Gregorian
-  - Zet/Hồi Giáo
-  - Zet/QAnon
-  - Zet/Build back better
   - Zet/Vril
+  - Zet/QAnon
+  - Zet/Hồi Giáo
+  - Zet/Lịch Gregorian
+  - Zet/Khazars
+  - Zet/Build back better
   - Zet/People/Alberto Rivera
 title: Thuyết âm mưu
 UID: 211023160306

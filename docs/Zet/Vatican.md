@@ -3,11 +3,11 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/People/Đức Giáo Hoàng
 backlinks:
-  - Zet/Vương cung thánh đường Thánh Phêrô
-  - Zet/Nhà nguyện Sistine
-  - Zet/Một số tên gọi tương ứng với Nguyên thủ quốc gia
-  - Zet/Qmap
   - Zet/Dòng Tên
+  - Zet/Qmap
+  - Zet/Nhà nguyện Sistine
+  - Zet/Vương cung thánh đường Thánh Phêrô
+  - Zet/Một số tên gọi tương ứng với Nguyên thủ quốc gia
   - Zet/People/Alberto Rivera
 title: Vatican
 UID: 211121131022

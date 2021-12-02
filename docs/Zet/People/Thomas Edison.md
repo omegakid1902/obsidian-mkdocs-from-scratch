@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/People/Nicola Tesla
   - Zet/People/John Pierpont Morgan
 backlinks:
-  - Zet/People/Nicola Tesla
   - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
+  - Zet/People/Nicola Tesla
 title: Thomas Edison
 UID: 211120203056
 tags:

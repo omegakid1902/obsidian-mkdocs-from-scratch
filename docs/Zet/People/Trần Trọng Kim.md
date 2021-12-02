@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Đế quốc Việt Nam
 backlinks:
-  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
   - Zet/Đế quốc Việt Nam
+  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
   - Zet/Lịch Sử Việt Nam
   - Zet/Hội tam điểm
 title: Trần Trọng Kim
