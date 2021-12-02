@@ -49,6 +49,8 @@ plugins:
   - tags:
       tags_folder: src/tags/
 #      tags_template: tags/tags.md.template
+  - minify:
+      minify_html: true
 
 extra:
   social:                                     # config footer
