@@ -8,7 +8,7 @@ importlib-metadata==4.8.1
 ipython==7.19.0
 ipython-genutils==0.2.0
 jedi==0.17.2
-jinja2==3.0.1
+jinja2==3.0.3
 jsmin==3.0.0
 jsonpickle==2.0.0
 markdown==3.3.4
