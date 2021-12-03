@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Mahatma Gandhi
 title: Từ Mahatma trong tên Gandhi được người Ấn đặt để thể hiện sự kính trọng
 UID: 2107251424
 tags:

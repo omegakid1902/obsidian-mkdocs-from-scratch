@@ -16,6 +16,7 @@ backlinks:
   - Zet/People/Moses
   - Zet/People/Alberto Rivera
   - Zet/People/Thánh Phaolo
+  - Zet/People/Leo Tolstoy
 title: Cơ Đốc giáo
 tags:
   - 'created/2021/Jul/31'

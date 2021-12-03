@@ -35,3 +35,4 @@ Khi áp dụng lịch Gregory, Thứ năm ngày 4 tháng 10 năm 1582 được t
 ## Ref:
 - [Lịch Gregorius – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_Gregorius)
 - [Lịch có thay đổi nguyên nhân gây ra bạo loạn ở Anh không? (delphipages.live)](https://delphipages.live/vi/d%E1%BB%93ng-hanh/trang-ch%E1%BB%A7/d%E1%BB%93ng-hanh/did-a-calendar-change-cause-riots-in-england)
+- [Sách: Thiên Chúa-Một chút lịch sử của Đấng Vĩ đại nhất. (thegioivohinh.com)](http://thegioivohinh.com/diendan/showthread.php?80619-S%C3%A1ch-Thi%C3%AAn-Ch%C3%BAa-M%E1%BB%99t-ch%C3%BAt-l%E1%BB%8Bch-s%E1%BB%AD-c%E1%BB%A7a-%C4%90%E1%BA%A5ng-V%C4%A9-%C4%91%E1%BA%A1i-nh%E1%BA%A5t&s=b44f72985ccccd2c21eef5c55e3efcc9)

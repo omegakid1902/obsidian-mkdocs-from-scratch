@@ -47,7 +47,9 @@ publish: True
 - [Vô vàn kiến thức (vovankienthuc.com)](https://vovankienthuc.com/)
 - [Trang chủ :: ChúngTa.com (chungta.com)](https://www.chungta.com/index.html) -> [[Nguyễn Trần Bạt]]
 - [Diễn Đàn Trái Chiều (diendantraichieu.blogspot.com)](https://diendantraichieu.blogspot.com/)
-
+- [Sách: Thiên Chúa-Một chút lịch sử của Đấng Vĩ đại nhất. (thegioivohinh.com)](http://thegioivohinh.com/diendan/showthread.php?80619-S%C3%A1ch-Thi%C3%AAn-Ch%C3%BAa-M%E1%BB%99t-ch%C3%BAt-l%E1%BB%8Bch-s%E1%BB%AD-c%E1%BB%A7a-%C4%90%E1%BA%A5ng-V%C4%A9-%C4%91%E1%BA%A1i-nh%E1%BA%A5t&s=b44f72985ccccd2c21eef5c55e3efcc9)
+- [ÁNH SÁNG TÂM LINH - SPIRITUAL AWAKENING (astamlinh.blogspot.com)](https://astamlinh.blogspot.com/)
+- 
 ## Huyền bí
 - [albatross-uav.org](https://albatross-uav.org)
 - [ms Ruby youtuber](https://www.youtube.com/channel/UCU3F2ZrYI68UKPxaw63lrYg) 

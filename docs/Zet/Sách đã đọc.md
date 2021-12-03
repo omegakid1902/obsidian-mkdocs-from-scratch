@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/Interests
+  - Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày
 title: Sách đã đọc
 UID: 210911135133
 created: 11-Sep-2021
@@ -42,5 +43,6 @@ publish: True
 - [[@ Karel Čapek, Khi Loài Vật Lên Ngôi]]
 - [[@ George Orwell, 1984]]
 - [[@ Jonas Jonasson, Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất]]
+- [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
 
 

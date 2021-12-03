@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Mahatma Gandhi
 title: Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau
 UID: 2107251435
 tags:

@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/People/Leo Tolstoy
 title: Martin Luther King, Jr
 UID: 211122221011
 tags:
