@@ -22,7 +22,7 @@ pickleshare==0.7.5
 prompt-toolkit==3.0.8
 ptyprocess==0.7.0
 Pygments
-pyvis==0.1.8.2
+pyvis==0.1.9
 PyYAML==6.0
 traitlets==5.1.1
 wcwidth==0.2.5
