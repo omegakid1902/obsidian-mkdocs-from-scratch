@@ -34,7 +34,7 @@ pyvis==0.1.8.2
 pyyaml==5.4
 pyyaml-env-tag==0.1
 six==1.16.0
-traitlets==5.0.5
+traitlets==5.1.1
 watchdog==2.1.6
 wcwidth==0.2.5
 zipp==3.6.0
