@@ -1,22 +1,26 @@
 backcall==0.2.0
 click==8.0.3
+csscompressor==0.9.5
 decorator==4.4.2
 ghp-import==2.0.2
+htmlmin==0.1.12
 importlib-metadata==4.8.1
 ipython==7.19.0
 ipython-genutils==0.2.0
 jedi==0.17.2
 jinja2==3.0.1
+jsmin==3.0.0
 jsonpickle==1.4.2
 markdown==3.3.4
 markupsafe==2.0.1
 mergedeep==1.3.4
 mkdocs==1.2.3
 mkdocs-autolinks-plugin==0.4.0
-mkdocs-material==8.0.2
+mkdocs-material==8.0.3
 mkdocs-material-extensions==1.0.3
+mkdocs-minify-plugin==0.5.0
 mkdocs-plugin-tags @ git+https://github.com/omegakid1902/mkdocs-plugin-tags.git
-mkdocs-roamlinks-plugin @ git+https://github.com/omegakid1902/mkdocs-roamlinks-plugin.git # mkdocs-roamlinks-plugin==0.1.3 # dim out print
+mkdocs-roamlinks-plugin==0.1.3
 mkdocs-section-index==0.3.2
 networkx==2.6.3
 packaging==21.2
