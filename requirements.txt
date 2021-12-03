@@ -18,7 +18,7 @@ mkdocs-material-extensions==1.0.3
 mkdocs-plugin-tags @ git+https://github.com/omegakid1902/mkdocs-plugin-tags.git
 mkdocs-roamlinks-plugin @ git+https://github.com/omegakid1902/mkdocs-roamlinks-plugin.git # mkdocs-roamlinks-plugin==0.1.3 # dim out print
 mkdocs-section-index==0.3.2
-networkx==2.5
+networkx==2.6.3
 packaging==21.2
 parso==0.7.1
 pexpect==4.8.0
