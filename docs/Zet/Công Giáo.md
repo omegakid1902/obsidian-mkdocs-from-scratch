@@ -13,6 +13,7 @@ backlinks:
   - Zet/Chính thống giáo Đông Phương
   - Zet/Bí tích rửa tội
   - Zet/Religion
+  - Zet/Mệnh đề Filioque
   - Zet/Hồi Giáo
   - Zet/Chúa Giáng Sinh
   - Zet/Phù thủy trung cổ
@@ -25,6 +26,7 @@ backlinks:
   - Zet/Vatican
   - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/The Quaker
+  - Zet/Kinh Tin Kính Nicea
   - Zet/Đại ly giáo Đông Tây
   - Zet/God
   - Zet/Mennonite

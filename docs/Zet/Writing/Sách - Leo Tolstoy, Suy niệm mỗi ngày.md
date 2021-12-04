@@ -15,7 +15,8 @@ publish: True
 ---
 # Sách - Leo Tolstoy, Suy niệm mỗi ngày
 
-Tác giả [[Leo Tolstoy]]
+- Tác giả [[Leo Tolstoy]]
+- Highlights: [[@ Leo Tolstoy, Suy niệm mỗi ngày|Suy niệm mỗi ngày]]
 
 ## Notes:
 Không phải ai cũng phù hợp để đọc quyển này, và không phải thời điểm nào cũng phù hợp để đọc. :)  

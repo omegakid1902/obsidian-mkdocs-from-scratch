@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/QAnon
   - Zet/Lucifer
   - Zet/Satanism
+  - Zet/Công Đồng Nicea 325
   - Zet/Vatican
   - Zet/People/Donald J. Trump
   - Zet/Khazars
@@ -50,6 +51,7 @@ backlinks:
   - Zet/Plato có nói về Atlantis
   - Zet/Gia tộc Rothschild
   - Zet/Chủ Nghĩa Zion
+  - Zet/Công Đồng Nicea 325
   - Zet/Khazars
   - Zet/Tháp Mentmore
   - Zet/People/Đức Giáo Hoàng

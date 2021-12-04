@@ -17,3 +17,6 @@ Theotokos nghĩa là Mẹ Thiên Chúa, là một tước hiệu của [[Đức 
 Khái niệm được nêu ra lần đầu tiên tại công đồng Epheso nhằm chống lại lạc  [[Lạc Thuyết Nestorius]]
 
 ## Ideas & thoughts:
+
+## Ref:
+- [[@ Alan Schreck, The Compact History of the Catholic Church]]

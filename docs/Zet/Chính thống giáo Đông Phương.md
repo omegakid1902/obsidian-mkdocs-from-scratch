@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Đại ly giáo Đông Tây
 backlinks:
   - Zet/Religion
+  - Zet/Mệnh đề Filioque
   - Zet/Cơ Đốc Giáo
   - Zet/Công Giáo
   - Zet/Đại ly giáo Đông Tây
