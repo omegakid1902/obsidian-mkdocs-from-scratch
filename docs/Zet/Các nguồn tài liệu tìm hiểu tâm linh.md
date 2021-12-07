@@ -20,3 +20,6 @@ publish: True
 - [triethocduongpho.net](https://triethocduongpho.net/) và [[Deepclub THDP]]
 - [khoahoctamlinh.vn](https://khoahoctamlinh.vn/)
 - [thongthienhoc.com](http://www.thongthienhoc.com/index.html)
+- [Homepage - Thiền Chữa Lành (thienchualanh.com)](https://thienchualanh.com/)
+- [Viết để tự do – ngôi nhà thực hành Viết để tự do (vietdetudo.com)](https://vietdetudo.com/)
+- [Exploring Psychology – Khám Phá Tâm Lý Học (trangtamly.blog)](https://trangtamly.blog/)

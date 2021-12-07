@@ -218,6 +218,8 @@ Do đó, các giám mục trong Giáo Hội thường là những người giầ
 ---
 Lẽ ra ân xá được ban phát như để nhìn nhận đời sống tốt lành của người tín hữu, nhưng vào cuối thời Trung Cổ, ân xá được buôn bán như một món hàng. Tetzel là một tu sĩ dòng Ða Minh chuyên môn bán ân xá đến độ Luther phải nổi nóng và chống đối Giáo Hội. — location: [1192]() ^ref-32013
 
+- [[95 luận đề của Martin-Luther]] về buôn bán ân xá
+
 ---
 Tetzel thường rêu rao rằng: “Khi đồng tiền leng keng rơi vào kho bạc thì một linh hồn lại dzọt vào thiên đàng.” — location: [1194]() ^ref-20018
 
