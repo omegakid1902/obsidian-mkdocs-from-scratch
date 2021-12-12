@@ -20,40 +20,43 @@
                                 {"id": 5, title: "Khoa học và các cú mị dân", url: "https://omegakid1902.github.io/Zet/Khoa học và các cú mị dân", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 6, title: "Edward Jenner là cha đẻ của phương pháp Vaccination", url: "https://omegakid1902.github.io/Zet/Edward Jenner là cha đẻ của phương pháp Vaccination", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 6, title: "Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich", url: "https://omegakid1902.github.io/Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 7, title: "Đại dịch COVID-19", url: "https://omegakid1902.github.io/Zet/Đại dịch COVID-19", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 7, title: "Edward Jenner là cha đẻ của phương pháp Vaccination", url: "https://omegakid1902.github.io/Zet/Edward Jenner là cha đẻ của phương pháp Vaccination", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 8, title: "Big Medicine", url: "https://omegakid1902.github.io/Zet/Big Medicine", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 8, title: "Đại dịch COVID-19", url: "https://omegakid1902.github.io/Zet/Đại dịch COVID-19", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 9, title: "CDC", url: "https://omegakid1902.github.io/Zet/CDC", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 9, title: "Big Medicine", url: "https://omegakid1902.github.io/Zet/Big Medicine", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 10, title: "Antoine Bechamp và Pasteur về lý thuyết vi khuẩn", url: "https://omegakid1902.github.io/Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 10, title: "CDC", url: "https://omegakid1902.github.io/Zet/CDC", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 11, title: "Vaccine virus bất hoạt", url: "https://omegakid1902.github.io/Zet/Vaccine virus bất hoạt", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 11, title: "Antoine Bechamp và Pasteur về lý thuyết vi khuẩn", url: "https://omegakid1902.github.io/Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 12, title: "FDA", url: "https://omegakid1902.github.io/Zet/FDA", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 12, title: "Vaccine virus bất hoạt", url: "https://omegakid1902.github.io/Zet/Vaccine virus bất hoạt", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 13, title: "Bill Gates", url: "https://omegakid1902.github.io/Zet/People/Bill Gates", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 13, title: "FDA", url: "https://omegakid1902.github.io/Zet/FDA", collapsed: true, childLinks: [], group: 1},                         
                               
                                 
-                                {"id": 14, title: "Edward Jenner", url: "https://omegakid1902.github.io/Zet/People/Edward Jenner", collapsed: true, childLinks: [], group: 1},                         
+                                {"id": 14, title: "Bill Gates", url: "https://omegakid1902.github.io/Zet/People/Bill Gates", collapsed: true, childLinks: [], group: 1},                         
+                              
+                                
+                                {"id": 15, title: "Edward Jenner", url: "https://omegakid1902.github.io/Zet/People/Edward Jenner", collapsed: true, childLinks: [], group: 1},                         
                               
                             
                                   
                               
                                 
-                                {"id": 15, title: "Vaccination", url: "https://omegakid1902.github.io/Zet/Vaccination", collapsed: true, childLinks: [], group: 2},                         
+                                {"id": 16, title: "Vaccination", url: "https://omegakid1902.github.io/Zet/Vaccination", collapsed: true, childLinks: [], group: 2},                         
                               
                                 
-                                {"id": 16, title: "Edward Jenner", url: "https://omegakid1902.github.io/Zet/People/Edward Jenner", collapsed: true, childLinks: [], group: 2},                         
+                                {"id": 17, title: "Edward Jenner", url: "https://omegakid1902.github.io/Zet/People/Edward Jenner", collapsed: true, childLinks: [], group: 2},                         
                               
                             
                             {"id": 0, title: "Vaccine", url: "https://omegakid1902.github.io/Zet/Vaccine", collapsed: false, childLinks: [], group: 0}
@@ -89,12 +92,14 @@
                               
                                 { source: 14, target: 0, curvature: 0.5 },                       
                               
+                                { source: 15, target: 0, curvature: 0.5 },                       
+                              
                             
                                                 
                               
-                                { source: 0, target: 15, curvature: 0.5 },                       
-                              
                                 { source: 0, target: 16, curvature: 0.5 },                       
+                              
+                                { source: 0, target: 17, curvature: 0.5 },                       
                               
                             
                             { source: 0, target: 1, curvature: 0.5 }
@@ -140,7 +145,7 @@
                           .centerAt(200, 60, 1) // Center at box size
                           .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
                           //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
-                      </script> </div> </div> </div> </div> <div class=md-content data-md-component=content> <article class="md-content__inner md-typeset"> <h1 id=vaccine>Vaccine</h1> <h2 id=notes>Notes:</h2> <h2 id=ideas-thoughts>Ideas &amp; thoughts:</h2> <ul> <li><a href=../Vaccination/ >Vaccination</a></li> <li><a href=../People/Edward%20Jenner/ >Edward Jenner</a></li> <li>[[Virus SV-40]] gây ung thư chậm có trong vaccine theo <a href=../../Reference_Box/Websites/%40%20Huy%20Ph%E1%BA%A1m%2C%20M%E1%BA%ADt%20s%E1%BB%AD%20lu%E1%BA%ADn%206/ >@ Huy Phạm, Mật sử luận 6</a>.</li> </ul> <details open><summary> Mentioned in </summary> - <a href="https://omegakid1902.github.io/Zet/Các kênh thông tin trái chiều">Các kênh thông tin trái chiều</a><br> - <a href=https://omegakid1902.github.io/Zet/Eugenics>Eugenics</a><br> - <a href=https://omegakid1902.github.io/Zet/Vaccination>Vaccination</a><br> - <a href="https://omegakid1902.github.io/Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ">Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ</a><br> - <a href="https://omegakid1902.github.io/Zet/Khoa học và các cú mị dân">Khoa học và các cú mị dân</a><br> - <a href="https://omegakid1902.github.io/Zet/Edward Jenner là cha đẻ của phương pháp Vaccination">Edward Jenner là cha đẻ của phương pháp Vaccination</a><br> - <a href="https://omegakid1902.github.io/Zet/Đại dịch COVID-19">Đại dịch COVID-19</a><br> - <a href="https://omegakid1902.github.io/Zet/Big Medicine">Big Medicine</a><br> - <a href=https://omegakid1902.github.io/Zet/CDC>CDC</a><br> - <a href="https://omegakid1902.github.io/Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn">Antoine Bechamp và Pasteur về lý thuyết vi khuẩn</a><br> - <a href="https://omegakid1902.github.io/Zet/Vaccine virus bất hoạt">Vaccine virus bất hoạt</a><br> - <a href=https://omegakid1902.github.io/Zet/FDA>FDA</a><br> - <a href="https://omegakid1902.github.io/Zet/People/Bill Gates">Bill Gates</a><br> - <a href="https://omegakid1902.github.io/Zet/People/Edward Jenner">Edward Jenner</a><br> </details> <details open><summary> Page detail </summary> tags: <br> - <a href=/tags.html#created2021oct10>created-2021-Oct-10</a><br> - <a href=/tags.html#garden🏡>garden🏡</a><br> - <a href=/tags.html#permanentconcept>permanent-concept</a><br> created: 10-Oct-2021 </details> <div id=disqus_thread></div> <script>
+                      </script> </div> </div> </div> </div> <div class=md-content data-md-component=content> <article class="md-content__inner md-typeset"> <h1 id=vaccine>Vaccine</h1> <h2 id=notes>Notes:</h2> <h2 id=ideas-thoughts>Ideas &amp; thoughts:</h2> <ul> <li><a href=../Vaccination/ >Vaccination</a></li> <li><a href=../People/Edward%20Jenner/ >Edward Jenner</a></li> <li>[[Virus SV-40]] gây ung thư chậm có trong vaccine theo <a href=../../Reference_Box/Websites/%40%20Huy%20Ph%E1%BA%A1m%2C%20M%E1%BA%ADt%20s%E1%BB%AD%20lu%E1%BA%ADn%206/ >@ Huy Phạm, Mật sử luận 6</a>.</li> </ul> <details open><summary> Mentioned in </summary> - <a href="https://omegakid1902.github.io/Zet/Các kênh thông tin trái chiều">Các kênh thông tin trái chiều</a><br> - <a href=https://omegakid1902.github.io/Zet/Eugenics>Eugenics</a><br> - <a href=https://omegakid1902.github.io/Zet/Vaccination>Vaccination</a><br> - <a href="https://omegakid1902.github.io/Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ">Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ</a><br> - <a href="https://omegakid1902.github.io/Zet/Khoa học và các cú mị dân">Khoa học và các cú mị dân</a><br> - <a href="https://omegakid1902.github.io/Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich">Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich</a><br> - <a href="https://omegakid1902.github.io/Zet/Edward Jenner là cha đẻ của phương pháp Vaccination">Edward Jenner là cha đẻ của phương pháp Vaccination</a><br> - <a href="https://omegakid1902.github.io/Zet/Đại dịch COVID-19">Đại dịch COVID-19</a><br> - <a href="https://omegakid1902.github.io/Zet/Big Medicine">Big Medicine</a><br> - <a href=https://omegakid1902.github.io/Zet/CDC>CDC</a><br> - <a href="https://omegakid1902.github.io/Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn">Antoine Bechamp và Pasteur về lý thuyết vi khuẩn</a><br> - <a href="https://omegakid1902.github.io/Zet/Vaccine virus bất hoạt">Vaccine virus bất hoạt</a><br> - <a href=https://omegakid1902.github.io/Zet/FDA>FDA</a><br> - <a href="https://omegakid1902.github.io/Zet/People/Bill Gates">Bill Gates</a><br> - <a href="https://omegakid1902.github.io/Zet/People/Edward Jenner">Edward Jenner</a><br> </details> <details open><summary> Page detail </summary> tags: <br> - <a href=/tags.html#created2021oct10>created-2021-Oct-10</a><br> - <a href=/tags.html#garden🏡>garden🏡</a><br> - <a href=/tags.html#permanentconcept>permanent-concept</a><br> created: 10-Oct-2021 </details> <div id=disqus_thread></div> <script>
       /**
       *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
       *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
