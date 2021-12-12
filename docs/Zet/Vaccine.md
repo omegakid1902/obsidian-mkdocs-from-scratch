@@ -8,6 +8,7 @@ backlinks:
   - Zet/Vaccination
   - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
   - Zet/Khoa học và các cú mị dân
+  - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
   - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/Đại dịch COVID-19
   - Zet/Big Medicine

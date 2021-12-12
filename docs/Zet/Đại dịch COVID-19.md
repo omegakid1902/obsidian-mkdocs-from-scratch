@@ -32,6 +32,7 @@ backlinks:
   - Zet/Vaccine Moderna
   - Zet/Eugenics
   - Zet/People/Donald J. Trump
+  - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
   - Zet/Ivermectin
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
   - Zet/Khoa học và các cú mị dân
@@ -42,6 +43,7 @@ backlinks:
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/Sức khỏe
   - Zet/COVID-19
+  - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
   - Zet/Coronavirus
   - Zet/Chemtrails
   - Zet/People/Robert Wallace Malone
@@ -114,13 +116,15 @@ publish: True
 Các bằng chứng về tác dụng phụ:
 
 - [[Các bằng chứng Vaccine Covid gây đột quỵ]]
+- [[Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich]]
+- [[Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021]]
+- 
 - Todo
 
 Các bài báo:
 
 - [[@ benhvien108.vn, Viêm cơ tim – một biến chứng đáng chú ý sau tiêm vắc xin ngừa COVID-19]]
 - Todo
-
 ### Các loại thuốc chữa thay thế:
 Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không có thuốc đặc trị.
 
