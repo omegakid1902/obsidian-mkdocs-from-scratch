@@ -5,13 +5,13 @@ outgoing_links:
   - Zet/Nam Việt
   - Zet/People/Thương Ưởng
 backlinks:
-  - Zet/Nhà Chu
   - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
   - Zet/Lịch sử Trung Quốc
   - Zet/Tiên Tần
+  - Zet/Nhà Chu
   - Zet/Thinking/❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm
-  - Zet/People/Thương Ưởng
   - Zet/People/Tần Thủy Hoàng
+  - Zet/People/Thương Ưởng
 title: Nhà Tần
 UID: 210828103407
 tags:

@@ -5,8 +5,8 @@ outgoing_links:
 backlinks:
   - Zet/Sau Vaticanô II, lễ kính của Raphael, Gabriel và Micael gộp thành một
   - Zet/Lễ kính thiên thần Raphael là 24 tháng 10
-  - Zet/Thiên thần Micael
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
+  - Zet/Thiên thần Micael
 title: Thiên thần Raphael
 UID: 211112231508
 created: 12-Nov-2021

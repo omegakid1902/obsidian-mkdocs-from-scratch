@@ -3,16 +3,16 @@ outgoing_links:
   - Zet/Việt Nam Cộng Hòa
   - Zet/Bảo Đại
 backlinks:
-  - Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
-  - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
-  - Zet/John F. Kennedy và Chiến tranh Việt Nam
-  - Zet/Lịch Sử Việt Nam
+  - Zet/Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
   - Zet/Đảo chính VNCH 1963
+  - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
+  - Zet/Lịch Sử Việt Nam
+  - Zet/John F. Kennedy và Chiến tranh Việt Nam
   - Zet/Việt Nam Cộng Hòa
   - Zet/1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại
-  - Zet/Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
-  - Zet/People/Ngô Đình Thục
+  - Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
   - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
+  - Zet/People/Ngô Đình Thục
 title: Ngô Đình Diệm
 UID: 
 created: 12-Dec-2021

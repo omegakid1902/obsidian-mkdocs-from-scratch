@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Big Medicine
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
 backlinks:
-  - Zet/Khoa học và các cú mị dân
   - Zet/Đại dịch COVID-19
+  - Zet/Khoa học và các cú mị dân
   - Zet/Real time PCR test
 title: Real time PCR test là một trò bịp của Big Pharma
 UID: 211101233548

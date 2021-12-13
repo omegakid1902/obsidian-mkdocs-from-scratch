@@ -6,11 +6,11 @@ outgoing_links:
   - Zet/People/Kary B. Mullis
   - Zet/People/Anthony Fauci
 backlinks:
+  - Zet/Đại dịch COVID-19
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/Khoa học và các cú mị dân
-  - Zet/Đại dịch COVID-19
-  - Zet/The Terrain Theory
   - Zet/Real time PCR test
+  - Zet/The Terrain Theory
   - Zet/People/Kary B. Mullis
 title: Kary B. Mullis
 UID: 211101231452

@@ -4,11 +4,11 @@ outgoing_links:
   - Zet/Operation Mockingbird
   - Zet/People/John F. Kennedy
 backlinks:
-  - Zet/Dòng Tên
-  - Zet/John F. Kennedy và Chiến tranh Việt Nam
-  - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
-  - Zet/Qmap
   - Zet/Chiến tranh lạnh
+  - Zet/Qmap
+  - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
+  - Zet/John F. Kennedy và Chiến tranh Việt Nam
+  - Zet/Dòng Tên
   - Zet/People/Henry Alfred Kissinger
 title: Chiến tranh Việt Nam
 UID: 211009095953

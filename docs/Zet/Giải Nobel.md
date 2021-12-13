@@ -1,8 +1,8 @@
 ---
 backlinks:
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
-  - Zet/People/Albert Camus
   - Zet/People/Yasser Arafat
+  - Zet/People/Albert Camus
   - Zet/People/Richard Feymann
 title: Giải Nobel
 created: Jun 16, 2021 11:19 PM

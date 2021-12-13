@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/People/Mahatma Gandhi
 backlinks:
   - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
-  - Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày
   - Zet/People/Mahatma Gandhi
+  - Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày
 title: Leo Tolstoy
 UID: 211203220657
 tags:

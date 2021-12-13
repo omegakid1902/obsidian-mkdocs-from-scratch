@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Vaccine Vector
 backlinks:
-  - Zet/Vaccination
   - Zet/Các loại Vaccine COVID 19
+  - Zet/Vaccination
 title: Vaccine AstraZeneca
 UID: 2107100936
 tags:

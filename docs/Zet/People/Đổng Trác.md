@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Tam Quốc
   - Zet/People/Viên Thiệu
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Xích Thố
+  - Zet/Lịch sử Trung Quốc
   - Zet/People/Lã Bố
 title: Đổng Trác
 UID: 210828112625

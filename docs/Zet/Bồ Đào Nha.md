@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Bán Đảo Iberia
   - Zet/Người Do Thái Sephardi
+  - Zet/Bán Đảo Iberia
   - Zet/Dòng Tên
   - Zet/People/Baruch Spinoza
 title: Bồ Đào Nha

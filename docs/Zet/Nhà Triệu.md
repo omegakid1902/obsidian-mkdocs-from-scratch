@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nam Việt
 backlinks:
-  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
+  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
   - Zet/Thinking/❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm
 title: Nhà Triệu
 tags:

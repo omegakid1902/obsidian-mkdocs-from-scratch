@@ -38,14 +38,14 @@ backlinks:
   - Zet/Khoa học và các cú mị dân
   - Zet/Kênh youtube giáo dục tự do 1
   - Zet/Big Medicine
-  - Zet/Virus
-  - Zet/Các kênh thông tin trái chiều
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
-  - Zet/Sức khỏe
+  - Zet/Virus
   - Zet/COVID-19
+  - Zet/Sức khỏe
+  - Zet/Các kênh thông tin trái chiều
   - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
-  - Zet/Coronavirus
   - Zet/Chemtrails
+  - Zet/Coronavirus
   - Zet/People/Robert Wallace Malone
 title: Đại dịch COVID-19
 tags:

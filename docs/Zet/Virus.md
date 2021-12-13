@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Coronavirus
   - Zet/Đại dịch COVID-19
 backlinks:
-  - Zet/COVID-19
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/Đại dịch COVID-19
   - Zet/SARS-COV-2
+  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+  - Zet/COVID-19
   - Zet/Vaccine virus bất hoạt
 title: Virus
 UID: 2108102215

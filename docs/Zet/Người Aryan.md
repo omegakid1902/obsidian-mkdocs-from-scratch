@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Eugenics
   - Zet/Tiếng Sanskrit
+  - Zet/Eugenics
 title: Người Aryan
 created: Jun 19, 2021 9:08 PM
 tags:

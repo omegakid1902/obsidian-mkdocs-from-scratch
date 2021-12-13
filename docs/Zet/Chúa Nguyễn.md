@@ -8,8 +8,8 @@ outgoing_links:
   - Zet/Nguyễn Ánh
   - Zet/Nhà Nguyễn
 backlinks:
-  - Zet/Nhà Tây Sơn
   - Zet/Nguyễn Ánh
+  - Zet/Nhà Tây Sơn
   - Zet/Nhà Nguyễn
   - Zet/People/Nguyễn Hoàng
 title: Chúa Nguyễn

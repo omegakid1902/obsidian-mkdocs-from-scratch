@@ -3,11 +3,11 @@ outgoing_links:
   - Zet/Markdown Language
   - Zet/Backlink
 backlinks:
-  - Zet/Zettelkasten
   - Zet/Obsidian Publish
+  - Zet/Phần mềm Notion
+  - Zet/Zettelkasten
   - Zet/Backlink Graph View
   - Zet/LYT framework
-  - Zet/Phần mềm Notion
 title: Obsidian
 UID: 211107211929
 created: June 28, 2021 11:27 PM

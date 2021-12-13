@@ -3,21 +3,21 @@ outgoing_links:
   - Zet/Vaccination
   - Zet/People/Edward Jenner
 backlinks:
-  - Zet/Các kênh thông tin trái chiều
-  - Zet/Eugenics
-  - Zet/Vaccination
-  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
-  - Zet/Khoa học và các cú mị dân
-  - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
-  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/Đại dịch COVID-19
-  - Zet/Big Medicine
-  - Zet/CDC
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
-  - Zet/Vaccine virus bất hoạt
+  - Zet/CDC
+  - Zet/Khoa học và các cú mị dân
   - Zet/FDA
-  - Zet/People/Bill Gates
+  - Zet/Big Medicine
+  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
+  - Zet/Các kênh thông tin trái chiều
+  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
+  - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
+  - Zet/Vaccination
+  - Zet/Eugenics
+  - Zet/Vaccine virus bất hoạt
   - Zet/People/Edward Jenner
+  - Zet/People/Bill Gates
 title: Vaccine
 UID: 211010170923
 created: 10-Oct-2021

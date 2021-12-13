@@ -9,8 +9,8 @@ outgoing_links:
   - Zet/Nữ thần ISIS
   - Zet/Thần Seth
 backlinks:
-  - Zet/Thần Seth
   - Zet/Nữ thần ISIS
+  - Zet/Thần Seth
   - Zet/Thần Shu
   - Zet/Nữ thần Nut
   - Zet/Thần Ra

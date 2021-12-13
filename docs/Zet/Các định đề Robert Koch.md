@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 backlinks:
   - Zet/The Germ theory
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/Dịch hạch
+  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Các định đề Robert Koch
 UID: 211016104248

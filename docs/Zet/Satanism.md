@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Hội Illuminati
 backlinks:
   - Zet/Anton Lavey được xem là cha đẻ của Satan giáo
-  - Zet/Qmap
   - Zet/Hội Illuminati
+  - Zet/Qmap
 title: Satanism
 UID: 211010230949
 created: 10-Oct-2021

@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/Năm vũ trụ
   - Zet/Kỷ nguyên Song Ngư
 backlinks:
+  - Zet/Thế giới tâm linh
   - Zet/Kỷ nguyên Song Ngư
   - Zet/Năm vũ trụ
-  - Zet/Thế giới tâm linh
 title: Kỷ nguyên Bảo Bình
 UID: 211124221820
 created: 24-Nov-2021

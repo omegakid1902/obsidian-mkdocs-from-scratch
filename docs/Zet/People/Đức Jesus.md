@@ -5,19 +5,19 @@ outgoing_links:
   - Zet/Chúa Giáng Sinh
   - Zet/Lễ Giáng Sinh
 backlinks:
-  - Zet/Do Thái Giáo
-  - Zet/Tin Lành
-  - Zet/Ngụy thư Giacobe
-  - Zet/Theotokos
-  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
-  - Zet/Kinh mân côi
-  - Zet/Chúa Jesus không sinh ra vào 25-12
   - Zet/Năm sự vui
-  - Zet/Lễ Giáng Sinh
   - Zet/Công Giáo
+  - Zet/Lễ Giáng Sinh
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/Cựu Ước
-  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
+  - Zet/Ngụy thư Giacobe
+  - Zet/Do Thái Giáo
+  - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Tin Lành
+  - Zet/Kinh mân côi
+  - Zet/Theotokos
   - Zet/People/Thánh Phaolo
+  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Đức Jesus
 UID: P-210731-2219
 tags:

@@ -6,32 +6,32 @@ outgoing_links:
   - Zet/Chính thống giáo Đông Phương
   - Zet/Hồi Giáo
 backlinks:
-  - Zet/Gioan Thánh giá gọi Chúa là nada
-  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
-  - Zet/Do Thái Giáo
-  - Zet/Hồi Giáo
-  - Zet/Phù thủy trung cổ
-  - Zet/Vạ Tuyệt thông
   - Zet/The Hammer of Witches
-  - Zet/Thiên thần Micael
+  - Zet/Gioan Thánh giá gọi Chúa là nada
   - Zet/cosmos
+  - Zet/Vạ Tuyệt thông
+  - Zet/Gabriel có nghĩa là người của Thiên Chúa
+  - Zet/Hồi Giáo
   - Zet/Xung đột Israel - Palestine
   - Zet/Cựu Ước
-  - Zet/Micael không phải tổng lãnh thiên thần
   - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
+  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
+  - Zet/Phù thủy trung cổ
+  - Zet/Micael không phải tổng lãnh thiên thần
+  - Zet/Do Thái Giáo
   - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
-  - Zet/Gabriel có nghĩa là người của Thiên Chúa
-  - Zet/Người Do Thái
-  - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/Kỷ nguyên Bảo Bình
-  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
+  - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
+  - Zet/Thiên thần Micael
+  - Zet/Người Do Thái
   - Zet/Thinking/Tóm tắt sách Sáng Thế
-  - Zet/People/Abraham
-  - Zet/People/Moses
-  - Zet/People/Thánh Phaolo
   - Zet/People/Thánh Justino
-  - Zet/People/Adam và Eva
   - Zet/People/Đức Jesus
+  - Zet/People/Abraham
+  - Zet/People/Thánh Phaolo
+  - Zet/People/Adam và Eva
+  - Zet/People/Moses
+  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: God
 UID: 211107214433
 created: 07-Nov-2021

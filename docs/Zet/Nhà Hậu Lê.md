@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/People/Nguyễn Kim
   - Zet/People/Trịnh Kiểm
 backlinks:
-  - Zet/Chúa Chổm
-  - Zet/Lịch Sử Việt Nam
   - Zet/Vụ án Lệ Chi Viên
+  - Zet/Chúa Chổm
   - Zet/Thời Lê trung hưng
+  - Zet/Lịch Sử Việt Nam
   - Zet/People/Trịnh Kiểm
   - Zet/People/Ngô Sĩ Liên
 title: Nhà Hậu Lê

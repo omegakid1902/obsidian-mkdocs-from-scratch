@@ -6,10 +6,10 @@ outgoing_links:
   - Zet/People/Trần Thủ Độ
   - Zet/People/Trần Hưng Đạo
 backlinks:
-  - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
-  - Zet/Quan hệ huyết thống nhà Trần - Lý
-  - Zet/Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh
   - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
+  - Zet/Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh
+  - Zet/Quan hệ huyết thống nhà Trần - Lý
+  - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Lý Chiêu Hoàng
 title: Trần Liễu

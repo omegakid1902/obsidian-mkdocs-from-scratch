@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Nhà Đinh
   - Zet/People/Đinh Bộ Lĩnh
 backlinks:
+  - Zet/Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé
   - Zet/Giao Châu thất hùng
   - Zet/Lịch Sử Việt Nam
-  - Zet/Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé
   - Zet/Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít người tưởng nhớ
 title: Nguyễn Bặc
 UID: 2107142104

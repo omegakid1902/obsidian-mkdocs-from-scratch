@@ -3,11 +3,11 @@ outgoing_links:
   - Zet/People/Abraham
   - Zet/Israel có 12 chi tộc
 backlinks:
-  - Zet/Joseph là con của Jacob và Rachel
   - Zet/Chi tộc Joseph
-  - Zet/Chi tộc Judah
-  - Zet/Israel có 12 chi tộc
   - Zet/Jacob có hai vợ chính và 2 vợ lẽ
+  - Zet/Israel có 12 chi tộc
+  - Zet/Joseph là con của Jacob và Rachel
+  - Zet/Chi tộc Judah
 title: Jacob
 UID: 211121104342
 tags:

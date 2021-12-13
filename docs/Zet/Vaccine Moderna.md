@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/People/Bill Gates
 backlinks:
-  - Zet/Vaccination
   - Zet/Đại dịch COVID-19
   - Zet/Các loại Vaccine COVID 19
+  - Zet/Vaccination
   - Zet/People/Bill Gates
 title: Vaccine Moderna
 created: 10-Jul-2021

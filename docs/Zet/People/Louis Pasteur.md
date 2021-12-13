@@ -6,12 +6,12 @@ outgoing_links:
   - Zet/People/Edward Jenner
   - Zet/Vaccination
 backlinks:
-  - Zet/The Germ theory
-  - Zet/Vaccination
-  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/Đại dịch COVID-19
-  - Zet/The Terrain Theory
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
+  - Zet/The Germ theory
+  - Zet/The Terrain Theory
+  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
+  - Zet/Vaccination
   - Zet/People/Alexandre Yersin
   - Zet/People/Antoine Beauchamp
 title: Louis Pasteur

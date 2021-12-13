@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Chùa Cầu
 backlinks:
-  - Zet/Các di sản thế giới tại Việt Nam
   - Zet/Chùa Cầu
+  - Zet/Các di sản thế giới tại Việt Nam
 title: Phố cổ Hội An
 UID: 210908204925
 tags:

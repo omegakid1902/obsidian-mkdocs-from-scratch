@@ -9,9 +9,9 @@ backlinks:
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/MERS-CoV
   - Zet/Virus
+  - Zet/SARS-CoV
   - Zet/SARS-COV-2
   - Zet/Beta-Coronavirus
-  - Zet/SARS-CoV
 title: Coronavirus
 UID: 2107101256
 tags:

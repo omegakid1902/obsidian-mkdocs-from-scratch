@@ -5,15 +5,15 @@ outgoing_links:
   - Zet/Thần Vishnu
   - Zet/Thần Shiva
 backlinks:
-  - Zet/Thánh địa Mỹ Sơn
-  - Zet/Religion
-  - Zet/Tam thần Ấn giáo
-  - Zet/Angkor Wat
   - Zet/Thần Shiva
-  - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
+  - Zet/Tam thần Ấn giáo
   - Zet/Thần Brahma
-  - Zet/Thần Vishnu
+  - Zet/Thánh địa Mỹ Sơn
+  - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
+  - Zet/Angkor Wat
   - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
+  - Zet/Religion
+  - Zet/Thần Vishnu
 title: Ấn Độ giáo
 UID: P-210704-1610
 tags:

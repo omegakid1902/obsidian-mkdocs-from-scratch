@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/FED
   - Zet/People/Nicola Tesla
 backlinks:
-  - Zet/FED
   - Zet/Các thông tin về việc reset các chính phủ
+  - Zet/FED
 title: NESARA
 UID: 211014230423
 created: 14-Oct-2021

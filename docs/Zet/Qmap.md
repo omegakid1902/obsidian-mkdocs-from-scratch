@@ -47,13 +47,13 @@ outgoing_links:
   - Zet/People/Adolf Hitler
 backlinks:
   - Zet/Janus
-  - Zet/Vril
-  - Zet/Plato có nói về Atlantis
-  - Zet/Gia tộc Rothschild
-  - Zet/Chủ Nghĩa Zion
   - Zet/Công Đồng Nicea 325
-  - Zet/Khazars
+  - Zet/Plato có nói về Atlantis
   - Zet/Tháp Mentmore
+  - Zet/Gia tộc Rothschild
+  - Zet/Vril
+  - Zet/Khazars
+  - Zet/Chủ Nghĩa Zion
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Helena Blavatsky
   - Zet/People/Plato
