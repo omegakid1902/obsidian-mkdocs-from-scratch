@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Deliberate Practice
 backlinks:
   - Zet/Deliberate Practice
+  - Zet/Writing/Tóm tắt sách - How to take smart notes
 title: Anders Ericsson
 tags:
   - 'created/2021/Aug/08'

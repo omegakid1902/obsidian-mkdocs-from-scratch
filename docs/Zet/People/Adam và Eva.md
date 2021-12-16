@@ -1,12 +1,14 @@
 ---
 outgoing_links:
   - Zet/Cựu Ước
+  - Zet/Vườn địa đàng
   - Zet/God
   - Zet/People/Abel
   - Zet/Cain sinh lòng đố kị và ghen ghét Abel
   - Zet/Cain sát hại Abel
 backlinks:
   - Zet/Lucifer
+  - Zet/Vườn địa đàng
   - Zet/Bí tích rửa tội
   - Zet/Thinking/Tóm tắt sách Sáng Thế
   - Zet/People/Abel

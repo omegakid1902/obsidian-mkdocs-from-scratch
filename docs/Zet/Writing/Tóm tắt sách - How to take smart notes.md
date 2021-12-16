@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/Obsidian
+  - Zet/Deliberate Practice
+  - Zet/People/Anders Ericsson
 backlinks:
   - Zet/Writing/Danh sách các bài viết
 title: Tóm tắt How to take smart notes
@@ -37,7 +39,9 @@ The Slip-box
 
 Luhman thể hiện thông tin gì tờ ghi chép ntn? Mặt trước, mặt sau...
 Tại sao Luhman chỉ viết ý tưởng 1 bên mặt giấy?
+
 Ông không sao chép nguyên ý tưởng hay trích dẫn ông đọc, mà ông tự diễn giải lại, nhưng cố gắng giữ nguyên bản ý tưởng.
+
 Quote: “Viết rằng một tác giả đấu tranh trong một chương để biện minh cho phương pháp của mình có thể là một mô tả đầy đủ hơn nhiều về nội dung của chương này hơn bất kỳ trích dẫn nào từ chính văn bản”
 
 Luhman ko sắp xếp note theo chủ đề, mà chỉ đánh dấu bằng 1 con số
@@ -94,10 +98,10 @@ Add your new permanent notes to the slip-box
 Develop your topics, questions and research projects bottom up from within the system
 
 #### 3. Everything You Need to Have
-Các thứ cần để tạo ra hệ thống ghi chú
+Các thứ cần để tạo ra hệ thống ghi chú này:
 
-- Bút và giấy, điện thoại hoặc IPAD: Bất kỳ một ý tưởng nào xuất hiện thì bạn lưu trữ nhanh lại
-- Hệ thống quản lý trích dẫn: Tác giả khuyên nên dùng phần mềm Zotero vì nó có hỗ trợ nhiều phần mềm soạn thảo văn bản Microsoft Word, OpenOffice, LibreOffice or NeoOffice
+- Bút và giấy, điện thoại hoặc IPAD: Bất kỳ một công cụ nào giúp bạn lưu lại ý tưởng đều được, nó chỉ đơn giản giúp bạn lưu lại.
+- Hệ thống quản lý trích dẫn: Tác giả khuyên nên dùng phần mềm [[Zotero]] vì nó có hỗ trợ nhiều phần mềm soạn thảo văn bản Microsoft Word, OpenOffice, LibreOffice or NeoOffice
 - Slipbox:
 	- Nếu dùng slipbox thủ công, tác giả có đề nghị kích thước của các hộp: `Luhmann used the DIN A6 size, 148 x 105 mm or 5.83 x 4.13 inches`
 	- Nếu dùng phần mềm máy tính thì có thể dùng phần mềm Zettelkasten. Hiện tại mình đang dùng [[Obsidian]]
@@ -111,6 +115,8 @@ Tìm kiếm công cụ phù hợp với thì tốt nhưng tốt hơn bạn nên 
 ### The Four Underlying Principles
 
 #### 5. Writing Is the Only Thing That Matters
+- Việc viết lại ghi chú với mục đích rõ ràng là một nguyên tắc của [[Deliberate Practice|Deliberate Practice - Luyện tập có chủ đích]] - [[Anders Ericsson]].
+
 #### 6. Simplicity Is Paramount
 #### 7. Nobody Ever Starts Fro. ratch
 #### 8. Let the Work Carry You Forward

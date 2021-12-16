@@ -8,6 +8,7 @@ backlinks:
   - Zet/Công Giáo
   - Zet/Grigori
   - Zet/Lucifer
+  - Zet/Vườn địa đàng
   - Zet/Bản bảy mươi
   - Zet/Người Do Thái
   - Zet/People/Adam và Eva

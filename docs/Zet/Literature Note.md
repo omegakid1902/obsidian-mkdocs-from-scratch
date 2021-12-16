@@ -28,11 +28,15 @@ publish: True
 
 Dưới đây là một ví dụ của literature note
 
-(Kahneman & Tversky, 1973) cho thấy rằng mọi người thường không tính đến vấn đề trước khi thực hiện một bài toán xác suất Bayes. Đặc biệt, khi không đưa ra được bằng chứng thì các xác suất trước được sử dụng; khi bằng chứng vô giá trị được đưa ra, các xác suất trước đó sẽ bị bỏ qua.
+- Tại trang x quyển sách A có nói rằng BCD
 
-Kahneman, Daniel, and Amos Tversky. “On the Psychology of Prediction.” Psychological Review (1973)
+- (Kahneman & Tversky, 1973) cho thấy rằng mọi người thường không tính đến vấn đề trước khi thực hiện một bài toán xác suất Bayes. Đặc biệt, khi không đưa ra được bằng chứng thì các xác suất trước được sử dụng; khi bằng chứng vô giá trị được đưa ra, các xác suất trước đó sẽ bị bỏ qua.
 
-Những ghi chú này có thể thực hiện bởi một ứng dụng [[Reference Manager Software]]. Tuy nhiên, ta cũng có thể tạo ra một thư mục có cấu trúc và lưu lại ghi chú với đầy đủ thông tin tài liệu tham khảo giống một | 3a Reference Manager Software . Xem chi tiết | 3b Front matter of book
+- Kahneman, Daniel, and Amos Tversky. “On the Psychology of Prediction.” Psychological Review (1973)
+
+Những ghi chú này có thể thực hiện bởi một ứng dụng [[Reference Manager Software]]. Tuy nhiên, ta cũng có thể tạo ra một thư mục có cấu trúc và lưu lại ghi chú với đầy đủ thông tin tài liệu tham khảo giống một | 3a Reference Manager Software . 
+
+Xem chi tiết [[Front Matter Of Book]]
 
 ## Ideas & thoughts:
 - [[Fleeting Note]]
