@@ -5351,7 +5351,8 @@
             "Phần mềm Notion",
             "Zettelkasten",
             "Backlink Graph View",
-            "LYT framework"
+            "LYT framework",
+            "Tóm tắt sách - How to take smart notes"
         ]
     },
     "Mayer Rothschild làm quen General von Estorff để tiếp cận Hoàng tộc William IX": {
@@ -8571,7 +8572,9 @@
     "Tóm tắt sách - How to take smart notes": {
         "id": 711,
         "url": "Zet/Writing/Tóm tắt sách - How to take smart notes.md",
-        "outgoing_links": [],
+        "outgoing_links": [
+            "Obsidian"
+        ],
         "backlinks": [
             "Danh sách các bài viết"
         ]
