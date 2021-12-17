@@ -31,3 +31,7 @@ Chiến tranh trên Thiên Đàng là một cuộc chiến xảy ra giữa [[Luc
 
 1 phần 3 ngôi sao trên trời bị ném xuống đất
 - [[Rev-12#v4]]
+- Trong [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]] có nêu sự kiện này 
+	- [[💬211217-2242]]
+	- xảy ra vào khoảng 500 ngàn năm TCN [[💬211217-2245]]
+	- [[💬211217-2247]]

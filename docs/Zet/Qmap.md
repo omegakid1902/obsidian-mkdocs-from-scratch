@@ -11,6 +11,7 @@ outgoing_links:
   - Zet/Titanic
   - Zet/Hiệp sĩ Đền Thánh
   - Zet/Atlantis
+  - Zet/Lục địa Lemuria
   - Zet/Thuyết Ngộ Đạo
   - Zet/Tháp Mentmore
   - Zet/Chủ Nghĩa Zion

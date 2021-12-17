@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Lục địa Lemuria
 backlinks:
   - Zet/Plato có nói về Atlantis
   - Zet/Qmap
@@ -17,6 +19,10 @@ publish: True
 ## Notes:
 ![[Pasted image 20211025221120.png]]
 
-## Ideas & thoughts:
+[[Atlantis]] là nền văn minh nối tiếp [[Lục địa Lemuria]]
 
+## Ideas & thoughts:
+- [[💬211216-2240]]: Một trong 4 nền văn minh chính trên trái đất
+- [[💬211217-2313]]: Nguyên nhân sụp đổ theo [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]]
+- [[💬211217-2322]]
 

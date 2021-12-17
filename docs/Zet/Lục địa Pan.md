@@ -16,5 +16,5 @@ publish: True
 
 
 ## Ideas & thoughts:
-
+- [[💬211216-2240]]: Là một trong 4 nền văn minh chính trong lịch sử trái đất được nhắc đến trong [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]]
 
