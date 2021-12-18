@@ -8,9 +8,11 @@ title: Chiến tranh trên Thiên Đàng
 UID: 210920222905
 created: 20-Sep-2021
 tags:
-  - '#created/2021/Sep/20'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/20'
+  - 'seed🥜'
+  - 'permanent/concept'
+aliases:
+  - Cuộc phản loạn của Lucifer
 publish: True
 ---
 # Chiến tranh trên Thiên Đàng
