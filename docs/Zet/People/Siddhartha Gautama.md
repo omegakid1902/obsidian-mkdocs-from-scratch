@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/12 cấp độ rung động của linh hồn
   - Zet/Phật Giáo
 title: Siddhartha Gautama
 UID: 211023225928

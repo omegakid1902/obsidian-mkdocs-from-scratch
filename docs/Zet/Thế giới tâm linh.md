@@ -11,6 +11,9 @@ outgoing_links:
   - Zet/People/Baba Vanga
   - Zet/People/Abhigya Anand
   - Zet/People/Boriska Kipriyanovich
+backlinks:
+  - Zet/Thế giới Etheric
+  - Zet/Thế giới Astra
 title: Thế giới tâm linh
 UID: 211017225815
 created: 17-Oct-2021

@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Chúa Giáng Sinh
   - Zet/Lễ Giáng Sinh
 backlinks:
+  - Zet/12 cấp độ rung động của linh hồn
   - Zet/Năm sự vui
   - Zet/Công Giáo
   - Zet/Lễ Giáng Sinh

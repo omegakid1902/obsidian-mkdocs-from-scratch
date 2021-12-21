@@ -27,6 +27,7 @@ backlinks:
   - Zet/American Thought Leaders phỏng vấn Robert Wallace Malone về đại dịch covid 19
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/Real time PCR test là một trò bịp của Big Pharma
+  - Zet/Kit xét nghiệm COVID của Việt Á không được WHO cấp phép nhưng được Bộ y tế khuyến nghị
   - Zet/People/Bill Gates
   - Zet/Vaccine Pfizer
   - Zet/Vaccine Moderna
@@ -103,6 +104,7 @@ publish: True
 -> Đại dịch covid hay đại dich PCR dương tính giả? [^1]
 - [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 - [[💬211106-1138|PCR detect sequence of virus, not detect themselves]]
+- Vụ việc bị phanh phui tại Việt Nam khoảng 19/12/2021: [[Kit xét nghiệm COVID của Việt Á không được WHO cấp phép nhưng được Bộ y tế khuyến nghị]]
 
 ### Nguồn gốc Vaccine mRNA
 - [[Bill Gates]] là người có nguồn đầu tư lớn vào [[Vaccine mRNA|Công nghệ vaccine mRNA]] cũng như các công ty vaccine lớn như [[Vaccine Pfizer|Pfizer]] và [[Vaccine Moderna|Moderna]]
@@ -118,7 +120,6 @@ Các bằng chứng về tác dụng phụ:
 - [[Các bằng chứng Vaccine Covid gây đột quỵ]]
 - [[Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich]]
 - [[Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021]]
-- 
 - Todo
 
 Các bài báo:
