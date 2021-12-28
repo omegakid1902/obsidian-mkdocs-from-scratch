@@ -34,6 +34,7 @@ backlinks:
   - Zet/Eugenics
   - Zet/People/Donald J. Trump
   - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
+  - Zet/Sergio Aguero giải nghệ vì bị bệnh tim
   - Zet/Ivermectin
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
   - Zet/Khoa học và các cú mị dân
@@ -120,6 +121,7 @@ Các bằng chứng về tác dụng phụ:
 - [[Các bằng chứng Vaccine Covid gây đột quỵ]]
 - [[Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich]]
 - [[Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021]]
+- [[Sergio Aguero giải nghệ vì bị bệnh tim]]
 - Todo
 
 Các bài báo:

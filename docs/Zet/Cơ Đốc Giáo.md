@@ -10,6 +10,7 @@ backlinks:
   - Zet/Lễ Giáng Sinh
   - Zet/Phù thủy trung cổ
   - Zet/Do Thái Giáo
+  - Zet/Người Amish
   - Zet/Bí tích rửa tội
   - Zet/God
   - Zet/Hiệp sĩ Đền Thánh

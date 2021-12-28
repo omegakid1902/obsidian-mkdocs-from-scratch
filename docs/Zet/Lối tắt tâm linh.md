@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Ái kỷ tâm linh
+  - Zet/Thức tỉnh tâm linh
 backlinks:
   - Zet/Thắc mắc mỗi ngày
 title: Lối tắt tâm linh
@@ -27,7 +28,9 @@ Con đường tâm linh cần thời gian tu tập và trải nghiệm.
 - Một số người sử dụng các loại chất thức thần để một phát thăng thiên, việc này cũng thường được gọi là đi "lối tắt tâm linh".
 - Hệ quả của  Lối tắt tâm linh có thể dẫn đến [[Ái kỷ tâm linh]]
 - [[📑 Bookmark]]
-- 
+- [[Thức tỉnh tâm linh]]
+
+
 ## Ref:
 - [Có nên tin vào những lá bài Tarot? | Vietcetera](https://vietcetera.com/vn/co-nen-tin-vao-nhung-la-bai-tarot)
 - [Né tránh bằng tâm linh (spiritual bypassing) – Quả Cầu (xn--qucu-hr5aza.cc)](https://xn--qucu-hr5aza.cc/ne-tranh-bang-tam-linh-spiritual-bypassing/)

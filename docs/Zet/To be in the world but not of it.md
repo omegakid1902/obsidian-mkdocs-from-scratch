@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/cosmos
+  - Zet/Người Amish
 backlinks:
   - Zet/Thinking/❕ Ý nghĩa cuộc sống
 title: To be in the world but not of it

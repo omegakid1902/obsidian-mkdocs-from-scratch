@@ -7,6 +7,7 @@ outgoing_links:
   - Zet/Rat race
 backlinks:
   - Zet/Hạ thế giới
+  - Zet/Lối tắt tâm linh
   - Zet/Thế giới tâm linh
   - Zet/Trung thế giới
   - Zet/Bóng tối linh hồn
