@@ -12,6 +12,7 @@ outgoing_links:
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
   - Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày
   - Zet/Writing/Sách - Yuval N. Harari, Sapiens lược sử loài người
+  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Danh sách các bài viết
 UID: 211120161539
 created: 20-Nov-2021
@@ -36,3 +37,5 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Sự khác biệt giữa Công giáo và Tin lành]]
 - [[Sách - Leo Tolstoy, Suy niệm mỗi ngày]]
 - [[Sách - Yuval N. Harari, Sapiens lược sử loài người]]
+- [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
+

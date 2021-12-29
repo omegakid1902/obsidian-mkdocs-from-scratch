@@ -21,7 +21,7 @@ publish: True
 - [[@ Albert Camus, Người xa lạ]]
 - [[@ Stefan Klein, Sáu Tỉ Đường Đến Hạnh]]
 - [[@ Viktor Frank, Man’s Search for Meaning]]
-- [[@ James Clear, Atomic Habit]]
+- [[@ James Clear, Atomic Habits]]
 - [[@ Cal Newport, Digital Minimalism]]
 - [[@ Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]]
 - [[@ Matthew Walker, Why we sleep]]

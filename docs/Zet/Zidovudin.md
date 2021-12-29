@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Anthony Fauci
+  - Zet/Virus HIV
 backlinks:
   - Zet/Đại dịch COVID-19
 title: Zidovudin

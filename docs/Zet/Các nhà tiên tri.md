@@ -25,3 +25,6 @@ publish: True
 - [[Boriska Kipriyanovich]]
 - [[Edgar Cayce]]
 - [[Nguyễn Bỉnh Khiêm|Trạng Trình]] cũng được xem là tiên tri, ông có nhiều tiên đoán chính xác
+
+## Ref
+[American Prophecy - 1 (bibliotecapleyades.net)](https://www.bibliotecapleyades.net/profecias/esp_profecia01h1.htm)

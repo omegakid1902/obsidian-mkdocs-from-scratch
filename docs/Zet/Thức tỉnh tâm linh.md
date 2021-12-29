@@ -37,7 +37,9 @@ Quá trình thức tỉnh thường khởi đầu bằng một sự kiện, nơi
 - [[Khủng hoảng hiện sinh]]
 - [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
 - [[Rat race]]
-- [[Digital Minimalism]]
+- Ai rơi vào trạng thái này nên đọc: 
+	- [[@ Cal Newport, Digital Minimalism]]
+	- [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
 
 ## Ref:
 - [ĐỊNH LUẬT TIẾN HÓA LINH HỒN (thegioivohinh.com)](http://thegioivohinh.com/diendan/showthread.php?459043-%C4%90%E1%BB%8ANH-LU%E1%BA%ACT-TI%E1%BA%BEN-H%C3%93A-LINH-H%E1%BB%92N)

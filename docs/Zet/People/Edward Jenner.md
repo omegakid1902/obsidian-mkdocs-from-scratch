@@ -7,10 +7,10 @@ outgoing_links:
 backlinks:
   - Zet/The Germ theory
   - Zet/Vaccine
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/Vaccination
   - Zet/People/Louis Pasteur
+  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Edward Jenner
 UID: 211010164903
 tags:

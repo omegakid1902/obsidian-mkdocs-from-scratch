@@ -4,8 +4,8 @@ outgoing_links:
 backlinks:
   - Zet/SARS-COV-2
   - Zet/Beta-Coronavirus
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Coronavirus
+  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: SARS-CoV
 tags:
   - 'created/2021/Jul/10'

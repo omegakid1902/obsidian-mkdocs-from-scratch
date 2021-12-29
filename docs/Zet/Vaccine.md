@@ -8,6 +8,7 @@ backlinks:
   - Zet/CDC
   - Zet/Khoa học và các cú mị dân
   - Zet/FDA
+  - Zet/Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021
   - Zet/Big Medicine
   - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
   - Zet/Các kênh thông tin trái chiều

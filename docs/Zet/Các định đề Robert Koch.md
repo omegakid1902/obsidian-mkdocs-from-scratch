@@ -6,7 +6,7 @@ backlinks:
   - Zet/The Germ theory
   - Zet/Dịch hạch
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Các định đề Robert Koch
 UID: 211016104248
 created: 16-Oct-2021

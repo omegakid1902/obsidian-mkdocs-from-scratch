@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Virus HIV
 backlinks:
   - Zet/Đại dịch COVID-19
 title: Đại dịch AIDS

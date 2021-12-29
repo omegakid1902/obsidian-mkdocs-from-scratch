@@ -13,7 +13,7 @@ backlinks:
   - Zet/People/Antoine Beauchamp
   - Zet/Chemtrails
   - Zet/Vaccine
-  - Zet/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/FDA
   - Zet/CDC
   - Zet/WHO
@@ -21,6 +21,7 @@ backlinks:
   - Zet/People/Anthony Fauci
   - Zet/Đại dịch AIDS
   - Zet/Zidovudin
+  - Zet/Virus HIV
   - Zet/People/Kary B. Mullis
   - Zet/Real time PCR test
   - Zet/People/Robert Wallace Malone
@@ -34,6 +35,7 @@ backlinks:
   - Zet/Eugenics
   - Zet/People/Donald J. Trump
   - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
+  - Zet/Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021
   - Zet/Sergio Aguero giải nghệ vì bị bệnh tim
   - Zet/Ivermectin
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
@@ -42,6 +44,7 @@ backlinks:
   - Zet/Big Medicine
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
   - Zet/Virus
+  - Zet/Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021
   - Zet/COVID-19
   - Zet/Sức khỏe
   - Zet/Các kênh thông tin trái chiều
@@ -77,7 +80,7 @@ publish: True
 	- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]: Ai mới là người đúng?
 	- [[Louis Pasteur]] đã không thể chứng minh được lý thuyết của ông đúng. Cuối đời, trước khi chết ông đã xác nhận [[The Terrain Theory]] của [[Antoine Beauchamp]] chính xác: "Môi trường là tất cả, vi trùng không là gì cả!"
 		- Nếu Pasteur chứng minh được, thì tại sao ông phải nói vậy trước khi chết!? #todo/evidence 
-	- Giải thích cách lây nhiễm bằng thuyết Bechamp như thế nào: [[Chemtrails]], sóng điện từ [[Mạng 5G]] và cả [[Vaccine]]!?
+	- Giải thích cách lây nhiễm bằng thuyết Bechamp như thế nào: [[Chemtrails]], ô nhiễm sóng điện từ [[EMF]] cho đến mạng không dây [[Mạng 5G]] và cả [[Vaccine]]!?
 
 - Cần xem lại sự chính xác của nguồn gốc vi khuẩn và virus qua quyển sách [[@ Thomas S. Cowan, The Contagion Myth]]
 	- Tóm tắt sách [[Tóm tắt sách truyền thuyết về sự lây nhiễm|ở đây]]
@@ -101,8 +104,10 @@ publish: True
 	- Vậy hoàn toàn có thể dùng PCR để điều khiển đại dịch!?
 - [[CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021]]
 	- Tại sao đến giờ 11/2021 VN vẫn dùng PCR để xác định dương tính và đem đi cách ly?
--> [[Real time PCR test là một trò bịp của Big Pharma]]
--> Đại dịch covid hay đại dich PCR dương tính giả? [^1]
+
+
+	-> [[Real time PCR test là một trò bịp của Big Pharma]]
+	-> Đại dịch covid hay đại dich PCR dương tính giả? [^1]
 - [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 - [[💬211106-1138|PCR detect sequence of virus, not detect themselves]]
 - Vụ việc bị phanh phui tại Việt Nam khoảng 19/12/2021: [[Kit xét nghiệm COVID của Việt Á không được WHO cấp phép nhưng được Bộ y tế khuyến nghị]]
@@ -113,7 +118,8 @@ publish: True
 	- Bạn có thể tìm hiểu thêm các hoạt động thử nghiệm vaccine tại Châu Phi/Ấn Độ dưới hình thức từ thiện.
 - Bill Gate là người đứng đầu trong việc tài trợ WHO sau khi [[Donald J. Trump|Trump]] cắt tài trợ!?
 	- Như thế, Bill Gate đầu tư vaccine covid, Bill tài trợ WHO, WHO cấp phép vaccine của Bill thì bạn có nghĩ rằng nó hoàn toàn dựa trên khoa học thực sự không!?
--> Đây có phải là thuyết âm mưu!?
+
+	-> Đây có phải là thuyết âm mưu!?
 
 ### Tác dụng phụ của Vaccine
 Các bằng chứng về tác dụng phụ:
@@ -122,12 +128,13 @@ Các bằng chứng về tác dụng phụ:
 - [[Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich]]
 - [[Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021]]
 - [[Sergio Aguero giải nghệ vì bị bệnh tim]]
-- Todo
+- #todo/evidence 
 
 Các bài báo:
 
 - [[@ benhvien108.vn, Viêm cơ tim – một biến chứng đáng chú ý sau tiêm vắc xin ngừa COVID-19]]
-- Todo
+- #todo/evidence 
+
 ### Các loại thuốc chữa thay thế:
 Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không có thuốc đặc trị.
 

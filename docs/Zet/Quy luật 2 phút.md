@@ -19,5 +19,5 @@ Và bạn sẽ nhận ra bạn có thể làm được nhiều hơn thế sau kh
 ## Ideas & thoughts:
 
 ## Ref:
-- [[@ James Clear, Atomic Habit]]
+- [[@ James Clear, Atomic Habits]]
 - [[@ David Allen, Getting Things Done]] - [[David Allen]]
