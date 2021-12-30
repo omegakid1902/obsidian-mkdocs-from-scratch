@@ -47,6 +47,7 @@ Theo Bechamp, vi khuẩn là sản phẩm sinh ra từ bệnh chứ không phả
 - [[@ Ethel D. Hume, Pasteur Exposed]]
 - [Ebook Bechamp-or-Pasteur](http://mnwelldir.org/docs/history/biographies/Bechamp-or-Pasteur.pdf)
 - [Bạn Không Thể Bị “Lây Nhiễm” Virus, Vi Khuẩn hoặc Nấm Candida. – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/03/17/vaccine-ban-khong-the-bi-lay-nhiem-vi-trung-vi-khuan-hoac-nam-candida/)
+- [Viruses do not exist (wickedtruths.org)](https://wickedtruths.org/en/viruses-do-not-exist/)
 
 [^hoichung5g]:[Hội Chứng COVID-5G – The Great Awakening VN (wordpress.com)](https://thegreatawakeningvn.wordpress.com/2021/08/05/hoi-chung-covid-5g/)
 [^sick]:[[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]

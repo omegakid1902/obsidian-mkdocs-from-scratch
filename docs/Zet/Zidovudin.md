@@ -4,6 +4,8 @@ outgoing_links:
   - Zet/Virus HIV
 backlinks:
   - Zet/Đại dịch COVID-19
+  - Zet/Virus HIV
+  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Zidovudin
 UID: 211105234951
 created: 05-Nov-2021
@@ -24,5 +26,7 @@ publish: True
 ## Ideas & thoughts:
 - [[Anthony Fauci]] đã đề xuất Zidovudin để chữa trị [[Virus HIV]]. Zidovudin là thuốc độc tính mạnh. Không được kiểm nghiệm mà FDA đưa ra áp dụng cho người bị [[Virus HIV]]
 - Xem [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]] Time stamp [41:18](https://youtu.be/9vuxibKj4z8?t=2478)
+
+
 
 

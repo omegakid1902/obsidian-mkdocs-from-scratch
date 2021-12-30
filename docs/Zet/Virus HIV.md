@@ -1,8 +1,12 @@
 ---
+outgoing_links:
+  - Zet/Zidovudin
 backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Zidovudin
   - Zet/Đại dịch AIDS
+  - Zet/Virus
+  - Zet/People/Kary B. Mullis
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Virus HIV
 UID: 211229225516
@@ -19,7 +23,7 @@ publish: True
 
 
 ## Ideas & thoughts:
-
+- [[Zidovudin|AZT]]
 
 ## Ref:
-- 
+- Kary Mullis nói rằng virus HIV không phải là nguyên nhân gây ra bệnh AIDS [Kary Mullis (wickedtruths.org)](https://wickedtruths.org/en/kary-mullis/)

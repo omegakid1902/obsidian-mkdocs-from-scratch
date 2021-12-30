@@ -35,6 +35,9 @@ Lý thuyết này nói rằng, vi khuẩn là nguồn gốc của các bệnh t�
 - [[Các định đề Robert Koch]]
 - [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
 
+## Ref:
+- [Viruses do not exist (wickedtruths.org)](https://wickedtruths.org/en/viruses-do-not-exist/)
+
 [^edward]: [[@ kduoc.com, Nguyên nhân gây ra ung thư#^644fee]]
 
 

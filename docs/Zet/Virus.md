@@ -1,8 +1,9 @@
 ---
 outgoing_links:
+backlinks:
   - Zet/Coronavirus
   - Zet/Đại dịch COVID-19
-backlinks:
+  - Zet/Virus HIV
   - Zet/Đại dịch COVID-19
   - Zet/SARS-COV-2
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
@@ -22,5 +23,7 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[Coronavirus]]
+- [[SARS-CoV-2]] là một loại [[Coronavirus]]
 - [[Đại dịch COVID-19]]
+- [[Virus HIV]]
+- [Viruses do not exist (wickedtruths.org)](https://wickedtruths.org/en/viruses-do-not-exist/)

@@ -7,6 +7,7 @@ outgoing_links:
   - Zet/Giải Nobel
   - Zet/Virus HIV
 backlinks:
+  - Zet/Zidovudin
   - Zet/SARS-CoV
   - Zet/MERS-CoV
   - Zet/People/Edward Jenner
@@ -76,7 +77,7 @@ publish: True
 	- theo lập luận này, nghĩa là việc test PCR để xác định [[SARS-CoV-2]] là không chính xác. Nó chỉ xác định được trong mẫu xét nghiệm nhiều đoạn mã di truyền tự do!?
 	- *"Nếu bạn đầu độc một sinh vật bằng bất kỳ loại độc tố nào làm suy giảm tế bào của bạn (mà hầu hết các chất độc đều vậy, bao gồm cả chất độc EMF6), thì sẽ có thể tìm thấy nhiều vật chất di truyền hơn trong máu của bạn và xét nghiệm PCR sẽ phát hiện ra điều này. Điều này có nghĩa là bạn đang bị bệnh. Điều này cũng áp dụng cho các kháng thể: bạn càng bị nhiễm độc, bạn càng có xu hướng sản xuất nhiều kháng thể để tự bảo vệ mình. Thực tế đơn giản này giải thích tại sao tất cả các xét nghiệm PCR và kháng thể, bao gồm cả xét nghiệm HIV và virus corona, có xu hướng cho thấy “tải lượng vi rút” cao hơn (không phải là vi rút mà là vật chất di truyền) và dương tính hơn ở những người bệnh nặng hơn. Nó không có nghĩa là họ bị nhiễm virus; nó có nghĩa là họ bị bệnh. Đây là lý do tại sao tờ hướng dẫn xét nghiệm PCR và kháng thể cho cả HIV và virus corona nói rằng bạn có thể bị dương tính giả nếu người đó có một trong khoảng bốn mươi điều kiện. Chúng bao gồm viêm họng liên cầu khuẩn, "nhiễm vi-rút", bệnh tự miễn, ung thư, mang thai hoặc cho con bú"*
 
-- Thuốc [[Azidothymidine - AZT]] điều trị [[AIDS]] -> AZT thực chất có nhiều độc tính.
+- Thuốc [[Zidovudin]] điều trị [[AIDS]] -> AZT thực chất có nhiều độc tính.
 - *"AZT là một loại thuốc tương tự nucleoside; nó cản trở việc sản xuất DNA từ RNA được cho là có trong virus HIV. Lý thuyết cho rằng nếu không có khả năng tạo bản sao DNA của vi rút HIV, thì vi rút HIV không thể phát triển, nhân rộng và gây ra nhiễm trùng và bệnh tật."*
 - Sau khi [[AIDS]] bùng phát, các virus khác được sinh ra như [[Viêm gan C]], [[SARS-CoV]], [[MERS-CoV]], [[Ebola]], [[Bệnh Zika]]
 - 
