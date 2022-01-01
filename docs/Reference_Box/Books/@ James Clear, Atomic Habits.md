@@ -11,6 +11,6 @@ tags:
 
 
 ## Questions and thoughts
-- [ ] [[Qui luật của Goodhart]] 
-- [ ] [[Nguyên-tắc-Cardinal]] 
-- [ ] [[Thoreau New Economics]]
+- [[Qui luật của Goodhart]] 
+- [[Nguyên tắc Cardinal]] 
+- [[Thoreau New Economics]]

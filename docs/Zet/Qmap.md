@@ -144,8 +144,6 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Tháp Mentmore|Mentmore tower]]
 - [[FED|Federal Reserve System - FED]]
 
-
-
 ## [[Clinton Foundation]] 
 - [[Hillary Clinton]]
 - [[Bill Clinton]]

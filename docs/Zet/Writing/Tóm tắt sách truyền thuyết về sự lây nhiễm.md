@@ -26,6 +26,7 @@ publish: True
 
 ## Notes:
 [[@ Thomas S. Cowan, The Contagion Myth]]
+
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch01|Chương 1 Bệnh lây nhiễm]]
 - [[Các định đề Robert Koch]]
 - [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]

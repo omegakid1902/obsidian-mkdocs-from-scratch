@@ -13,6 +13,7 @@ outgoing_links:
   - Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày
   - Zet/Writing/Sách - Yuval N. Harari, Sapiens lược sử loài người
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Writing/Tóm tắt sách - Atomic Habits
 title: Danh sách các bài viết
 UID: 211120161539
 created: 20-Nov-2021
@@ -38,4 +39,5 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Sách - Leo Tolstoy, Suy niệm mỗi ngày]]
 - [[Sách - Yuval N. Harari, Sapiens lược sử loài người]]
 - [[Tóm tắt sách truyền thuyết về sự lây nhiễm]]
+- [[Tóm tắt sách - Atomic Habits]]
 
