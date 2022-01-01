@@ -10,6 +10,7 @@ backlinks:
   - Zet/Lucifer
   - Zet/Vườn địa đàng
   - Zet/Bản bảy mươi
+  - Zet/Bản dịch Vulgate là bản dịch Cựu ước từ tiếng Hipri của Thánh Jerome
   - Zet/Người Do Thái
   - Zet/People/Adam và Eva
   - Zet/People/Moses

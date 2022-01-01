@@ -1,6 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Bản dịch Vulgate là bản dịch Cựu ước từ tiếng Hipri của Thánh Jerome
+  - Zet/Bản dịch Vulgate
   - Zet/Công Giáo
+backlinks:
+  - Zet/Bản dịch Vulgate
 title: Thánh Jerome
 UID: 2107312044
 tags:
