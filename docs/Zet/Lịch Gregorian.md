@@ -24,7 +24,9 @@ publish: True
 ## Notes:
 Lịch Gregorian, hay lịch Gregory, còn gọi là Tây lịch, Công lịch, Dương lịch, là loại lịch thông dụng được xử dụng hầu hết trên thế giới hiện nay. Lịch được đặt theo tên giáo hoàng [[Pope Gregory XIII]], lịch được DGH giới thiệu vào 10 năm 1582. 
 
-Lịch Gregory là một sự cải cách của [[Lịch Julian]]. Năm thực tế chính xác là 365,2422 ngày. Theo lịch Julian,  cứ 3 năm 365 ngày thì có 1 năm là 366, một năm trung bình là 365,25; tức mỗi năm của lịch Julian dài hơn năm thực 11 phút. Điều này dẫn đến từ khi áp dụng lịch Julian vào năm 46 TCN cho tới năm 1582 điểm phân cách năm đã bị lùi 10 ngày.
+Lịch Gregory là một sự cải cách của [[Lịch Julian]]. Năm thực tế chính xác là 365,2422 ngày. Theo lịch Julian,  cứ 3 năm 365 ngày thì có 1 năm là 366, một năm trung bình là 365,25; tức mỗi năm của lịch Julian dài hơn năm thực 11 phút. Điều này dẫn đến từ khi áp dụng lịch Julian vào năm 46 TCN cho tới năm 1582 điểm phân cách năm đã bị lùi 10 ngày. (Theo người ta tính)
+
+(1582+46)x0.0078=12.7 ngày
 
 Khi áp dụng lịch Gregory, Thứ năm ngày 4 tháng 10 năm 1582 được theo sau là thứ sáu ngày 15 tháng 10 năm 1582.
 

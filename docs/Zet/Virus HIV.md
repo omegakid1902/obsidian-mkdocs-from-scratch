@@ -20,7 +20,7 @@ publish: True
 # Virus HIV
 
 ## Notes:
-
+Virus HIV, viết tắt của human immunodeficiency virus, được cho là nguyên nhân gây ra [[AIDS]], bệnh suy giảm miễn dịch.
 
 ## Ideas & thoughts:
 - [[Zidovudin|AZT]]

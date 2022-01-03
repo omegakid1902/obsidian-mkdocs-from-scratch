@@ -20,6 +20,7 @@ you know and that didn't bother bob.
 he announced that he had found cause of one kind of cancer which was supposed to help him get another 500 000 grant from the federal government the next year because he published something finally of all these people that were at the national cancer institute trying to show that viruses could cause cancer he was the only one that had shown it and the reason he was the only one is because he didn't believe in the scientific method he didn't even think about the fact that you can't pin causality just on the fact that the two were there together i didn't cause you we're here together
 
 Ý chính:
+
 - Không thể khẳng định quan hệ nhân quả virus X là nguyên nhân gây bệnh Y nếu nó tìm thấy trong 1 người mang bệnh. Theo [[The Terrain Theory]] virus là các [[Exosomes]] được tổng hợp khi cơ thể nhiễm độc và có nhiệm vụ giải độc. Xem thêm:
 	-  [[Các định đề Robert Koch]]
 	-  [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
@@ -37,12 +38,12 @@ Time stamp: [12:00](https://youtu.be/9vuxibKj4z8?t=722)
 
 > you can go to the internet and you can say "aids cause" return going out to vista something like that bang you'll get papers the first 20 hits you get out of those there will probably be about six or seven that suggest that there is no evidence okay there will be not a single one that suggests that there is evidence for a causal relation between those two things 
 
--> Mullis nói: Không có bằng chứng khoa học nào chứng minh nguyên nhân (a causal relation- mối quan hệ nhân quả) gây [[AIDS]] là [[Virus HIV]]. Xem thêm [[#Quan hệ nhân quả giữa virus và bệnh]]
+-> Mullis nói: Không có bằng chứng khoa học nào chứng minh nguyên nhân (a causal relation- mối quan hệ nhân quả) gây [[AIDS]] là [[Virus HIV]], không tin cứ thử googling mà xem =), (bài báo khoa học chứng minh chứ không phải bài báo đưa thông tin). Xem thêm [[#Quan hệ nhân quả giữa virus và bệnh]]
 
 > now when i was working down the street here it was down that way down toward michigan street a place called specialty labs.
 i was working for those guys three or four days a month and i was setting up tests to look for viruses like hiv in the blood supply for la and since there were so many people in la that was going to be a it was a pretty hard to see how you're going to test all the all that's about thousand bottles every day so we had to put a lot of effort into it and it'd be we've been successful and i was having to write that up for the people who had paid for it which is your representative government and i was writing this little paragraph and i said i've got to explain why we were doing it in the first place so i said well hiv is the probable cause of aids that was my first sentence because i thought it was because that's what i'd heard and i hadn't questioned it i just heard it i said well if all these people think that's true there's probably evidence back there somewhere that suggests it and so i asked somebody what what reference what little work of scientific reporting should i quote so that somebody interest interested in finding out why i thought that could find out himself the guy said the guy that i asked was the wrong person asked he said you don't have to quote that you don't have to say everybody knows it i said well i don't know why i know it i just know that i heard it and in a scientific thing it's a lot different from a movie where all you have to do is have a character say something you want to have as a fact in a scientific publication you are required
 
--> Theo Mullis: các bài viết khoa học không trích dẫn bằng chứng khoa học, chỉ đơn thuần dẫn chứng vì mọi người đều biết nó, chỉ bởi vì đã nghe nó và những người khác cũng biết.
+Theo Mullis: các bài viết khoa học không trích dẫn bằng chứng khoa học, chỉ đơn thuần dẫn chứng vì mọi người đều biết nó, chỉ bởi vì đã nghe nó và những người khác cũng biết.
 
 ### Thuốc AZT khiến suy giảm miễn dịch chứ không phải AIDS
 Time stamp [41:18](https://youtu.be/9vuxibKj4z8?t=2478)
@@ -58,21 +59,29 @@ She had AIDS by virtue of the prescription of azt but it's a terrible thing.
 When we live in a country that says if you're pregnant don't have a beer don't take aspirin don't take anything and stay away from secondhand smoke but load up on chemotherapy because somehow that'll do you some good. it is completely wrong. 
 The focus of many many aids organizations is pediatric aids because it's kind of a safe warm happy little place it's all about babies and stuff well. these people are slaughtering babies is what it comes down to i mean it's really sad and awful but that's what they're doing they're telling mothers that they have to take these drugs and these drugs are lethal if it's not thursday it'll be two years from now but but the kids will suffer from this
 
--> [[Zidovudin|AZT]] là thuốc có độc tính mạnh. Được [[FDA]] phê chuẩn vào 1987 để chữa [[Virus HIV]]
+- [[Zidovudin|AZT]] là thuốc có độc tính mạnh. Được [[FDA]] phê chuẩn vào 1987 để chữa [[Virus HIV]]
+- AZT vì mang độc tính mạnh đùng để giết [[Virus HIV]] và nó cũng phá hủy những tế bào khác trong cơ thể trong đó có hệ miễn dịch. Khi đó hệ miễn dịch bị suy yếu trước một hoặc nhiều loại bệnh -> đó chính là biểu hiện của bệnh AIDS.
+
+-> Nếu vậy kết luận AIDS là hậu quả của nhiễm virus HIV là do ai đưa ra, và giờ vẫn không thay đổi được. Mục đích của việc làm sai trái này là gì?
 
 ### PCR
 [49:06](https://youtu.be/9vuxibKj4z8?t=2946)
+
 > Mullis: > you can find almost anything in anybody...because if you can amplify one single molecule up to a to something that you can really measure which pcr can do. **Then there's just very few molecules that you don't have at least one single one of them in your body**
 
--> Idea: PCR can detect ADN sequence of virus in test sample, not exactly the free virus!? 
+Ideas:
+
+- PCR phát hiện trình tự ADN của virus trong mẫu xét nghiệm. Nếu bạn khuếch đại lên đủ, thì rất ít phân tử mà cơ thể bạn không có ít nhất một phân tử.
 
 [51:14](https://youtu.be/9vuxibKj4z8?t=3074)
+
 > Mullis: the measurement for it is not exact at all. it's not as good as our measurement for things like apples. an apple is an apple. ...** if you've got enough things that look kind of like an apple and you stick them all together you might think it as an apple**. but an hiv is like that those tests are all based on things that are invisible and they are the results are inferred in a sense pcr is separate from that it's just a process that's used to make a whole lot of something out of something that's right
 it doesn't tell you that you're sick and it doesn't tell you that the thing you ended up with really was going to hurt you or anything like that
 
 > MC's summary: so even if you believe in hiv it (PCR) can't tell the difference between virus particles or active live virus i mean 
 
-"if you've got enough things that look kind of like an apple and you stick them all together you might think it as an apple".
+Ideas: 
 
--> Idea: PCR không nói được sự khác nhau giữa các phân tử/hạt virus hoặc virus đang sống!?
+- PCR không nói được sự khác nhau giữa các phân tử/hạt virus hoặc virus đang sống!?
+- Câu cuối ông MC nói một ẩn ý *"so even if you believe in hiv"*!????
 

@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Các định đề Robert Koch
   - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/The Terrain Theory
+  - Zet/Ô nhiễm EMF
   - Zet/People/Heinrich Hermann Robert Koch
   - Zet/Giải Nobel
   - Zet/Virus HIV
@@ -10,6 +11,7 @@ backlinks:
   - Zet/Zidovudin
   - Zet/SARS-CoV
   - Zet/MERS-CoV
+  - Zet/People/Kary B. Mullis
   - Zet/People/Edward Jenner
   - Zet/Đại dịch COVID-19
   - Zet/Writing/Danh sách các bài viết
@@ -50,7 +52,7 @@ publish: True
 	- Oxi hấp thụ tần số 60GHz khiến oxi bị tách ra, không thể dùng cho quá trình hô hấp
 - *"Vào ngày 26 tháng 9 năm 2019, mạng không dây 5G đã được bật tại Vũ Hán, Trung Quốc (và chính thức ra mắt vào ngày 1 tháng 11) với mạng lưới khoảng 10 nghìn trạm gốc 5G — nhiều hơn số lượng đặt trên toàn bộ nước Mỹ — tất cả đều tập trung ở một thành phố. Số lượng ca tăng đột biến xảy ra vào ngày 13 tháng 2 - cùng tuần mà Vũ Hán bật mạng 5G để theo dõi lưu lượng giao thông."* #todo/research 
 - Tàu [[The Diamond Princess]] sử dụng ăng ten thu sóng [[Mạng 5G]]
-- [[EMF]]
+- [[Ô nhiễm EMF]]
 - *"Quan trọng nhất, chúng tôi sẽ chỉ ra rằng các phần tử nhỏ được gọi là vi rút thực sự là các exosomes"*
 - [[Exosomes]]
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch03|Chương 3 Đại dịch]]
@@ -85,7 +87,7 @@ publish: True
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch05]]:
 - [[Xét nghiệm PCR]] là lừa đảo.
 - "Như Kary Mullis, người phát minh ra công nghệ PCR, đã nhấn mạnh hết lần này đến lần khác, các xét nghiệm PCR không chứng minh được nguyên nhân và không thể chẩn đoán bệnh tật."
-	- [[Kary Mullis]]
+	- [[Kary B. Mullis]]
 - *"CDC và FDA thừa nhận rằng xét nghiệm PCR không thể được sử dụng để chẩn đoán. Một tệp từ ngày 30 tháng 3 năm 2020, nêu rõ: “Việc phát hiện RNA vi rút có thể không chỉ ra sự hiện diện của vi rút lây nhiễm hoặc 2019-nCoV là tác nhân gây ra các triệu chứng lâm sàng” và “Thử nghiệm này không thể loại trừ các bệnh do vi khuẩn hoặc vi rút khác gây ra mầm bệnh. ”*
 - " Hơn nữa, FDA thừa nhận rằng “kết quả dương tính… không loại trừ việc nhiễm vi khuẩn hoặc đồng nhiễm với các loại vi rút khác. Tác nhân được phát hiện có thể không phải là nguyên nhân xác định của bệnh. "
 ### [[@ Thomas S. Cowan, The Contagion Myth, Ch06]]:

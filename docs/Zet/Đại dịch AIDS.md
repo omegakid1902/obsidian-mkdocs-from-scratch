@@ -23,3 +23,6 @@ publish: True
 - [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 - Đại dịch này là một sự lừa đảo.
 
+## Ref:
+- [Ten reasons why HIV could not cause AIDS , from my inbox | Physics Forums](https://www.physicsforums.com/threads/ten-reasons-why-hiv-could-not-cause-aids-from-my-inbox.11498/)
+

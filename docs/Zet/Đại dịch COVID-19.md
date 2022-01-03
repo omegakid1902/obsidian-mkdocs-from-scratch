@@ -12,6 +12,7 @@ backlinks:
   - Zet/The Terrain Theory
   - Zet/People/Antoine Beauchamp
   - Zet/Chemtrails
+  - Zet/Ô nhiễm EMF
   - Zet/Vaccine
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/FDA
@@ -80,7 +81,7 @@ publish: True
 	- [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]: Ai mới là người đúng?
 	- [[Louis Pasteur]] đã không thể chứng minh được lý thuyết của ông đúng. Cuối đời, trước khi chết ông đã xác nhận [[The Terrain Theory]] của [[Antoine Beauchamp]] chính xác: "Môi trường là tất cả, vi trùng không là gì cả!"
 		- Nếu Pasteur chứng minh được, thì tại sao ông phải nói vậy trước khi chết!? #todo/evidence 
-	- Giải thích cách lây nhiễm bằng thuyết Bechamp như thế nào: [[Chemtrails]], ô nhiễm sóng điện từ [[EMF]] cho đến mạng không dây [[Mạng 5G]] và cả [[Vaccine]]!?
+	- Giải thích cách lây nhiễm bằng thuyết Bechamp như thế nào: [[Chemtrails]], ô nhiễm sóng điện từ [[Ô nhiễm EMF]] cho đến mạng không dây [[Mạng 5G]] và cả [[Vaccine]]!?
 
 - Cần xem lại sự chính xác của nguồn gốc vi khuẩn và virus qua quyển sách [[@ Thomas S. Cowan, The Contagion Myth]]
 	- Tóm tắt sách [[Tóm tắt sách truyền thuyết về sự lây nhiễm|ở đây]]
