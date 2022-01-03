@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/People/Edgar Cayce
 title: Bản đồ thế giới tương lai
 UID: 211229230751
 created: 29-Dec-2021

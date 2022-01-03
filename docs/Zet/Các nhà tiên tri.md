@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Baba Vanga
   - Zet/People/Abhigya Anand
   - Zet/People/Boriska Kipriyanovich
+  - Zet/People/Edgar Cayce
   - Zet/People/Nguyễn Bỉnh Khiêm
 backlinks:
   - Zet/Thế giới tâm linh

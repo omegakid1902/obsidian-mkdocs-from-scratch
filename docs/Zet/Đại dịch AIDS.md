@@ -15,11 +15,10 @@ publish: True
 # Đại dịch AIDS
 
 ## Notes:
-
+- [[Virus HIV]] được cho là nguyên nhân gây ra bệnh [[AIDS]]
 
 ## Ideas & thoughts:
-- [[Virus HIV]]
-- [[AIDS]]
+
 - [[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 - Đại dịch này là một sự lừa đảo.
 
