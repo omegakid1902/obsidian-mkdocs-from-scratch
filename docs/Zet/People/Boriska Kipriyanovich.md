@@ -25,7 +25,7 @@ Boriska Kipriyanovich là một cậu bé người Nga, tự xưng kiếp trư�
 
 ## Ideas & thoughts:
 Từng chuyển sinh tới Trung Quốc trước khi cậu tới chuyển sinh hiện nay
-[[Lục địa Lemuria]] → Lục địa Mu 800 nghìn năm trước, tồn tại cùng thời kỳ với Atlantic
+[[Lục địa Lemuria]] → Lục địa Mu 800 nghìn năm trước, tồn tại cùng thời kỳ với Atlantis
 hit thở oxi mau già lol
 [[Stephen Hawking]] cũng phải bất ngờ với những thứ cậu kể về sao hỏa, lịch sử một cách chi tiết.
 

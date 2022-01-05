@@ -23,6 +23,8 @@ publish: True
 
 ![[Pasted image 20211027214850.png]]
 
+[[Theo Ancient Aliens, Plato mô tả sự tồn tại của Atlantis]]
+
 ## Ideas & thoughts:
 - Nếu điều này có thật thì bằng cách nào ông tiếp cận được nguồn thông tin này? #todo/research 
 

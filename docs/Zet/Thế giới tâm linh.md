@@ -27,7 +27,7 @@ publish: True
 # Thế giới tâm linh
 
 ## Notes:
-Tôn giáo là nơi ta đi theo một lãnh tụ tôn giáo, tôn giáo là một dạng thức cao hơn của nhà nước. Thế giới tâm linh là một dạng thức cao hơn của tôn giáo, nơi mà người ta đi theo tiếng lòng bên trong, hiểu về bản thân và tiếp nhận vũ trụ.
+Tôn giáo là nơi ta đi theo một lãnh tụ tôn giáo, tôn giáo là một dạng thức cao hơn của nhà nước. Thế giới tâm linh là một dạng thức cao hơn của tôn giáo, nơi mà người ta đi theo tiếng lòng bên trong, hiểu về bản thân và tiếp nhận vũ trụ. Tâm linh là sự tiếp xúc Đấng thiêng liêng dựa trên trải nghiệm cá nhân của mỗi người. 
 
 ### Self
 
