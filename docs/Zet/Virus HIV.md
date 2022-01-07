@@ -7,6 +7,7 @@ backlinks:
   - Zet/Đại dịch AIDS
   - Zet/Virus
   - Zet/People/Kary B. Mullis
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Virus HIV
 UID: 211229225516

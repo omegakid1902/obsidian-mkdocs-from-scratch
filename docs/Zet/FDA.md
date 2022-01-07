@@ -13,6 +13,7 @@ backlinks:
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/People/Kary B. Mullis
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: FDA
 UID: 211005223318
 created: 05-Oct-2021

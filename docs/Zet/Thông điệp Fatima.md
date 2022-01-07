@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓
 title: Thông điệp Fatima
 UID: 220105234605
 created: 05-Jan-2022

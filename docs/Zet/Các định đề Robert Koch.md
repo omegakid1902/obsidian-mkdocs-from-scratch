@@ -1,11 +1,12 @@
 ---
 outgoing_links:
   - Zet/People/Heinrich Hermann Robert Koch
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+  - Zet/Các định đề Thomas Rivers
 backlinks:
   - Zet/The Germ theory
+  - Zet/Các định đề Thomas Rivers
   - Zet/Dịch hạch
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Các định đề Robert Koch
 UID: 211016104248
@@ -33,7 +34,7 @@ Nguyên tắc được [[Heinrich Hermann Robert Koch]] để xác định một
 ## Ideas & thoughts:
 - Định đề của Koch là nói về vi khuẩn, không nói về virus[^koch]
 - 1937, [[Thomas Rivers]] dựa trên các định đề này của Koch để đưa ra các định đề tương ứng đối với virus[^river]
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Các định đề Thomas Rivers]]
 
 
 [^koch]:[[@ Thomas S. Cowan, The Contagion Myth, Ch01]]

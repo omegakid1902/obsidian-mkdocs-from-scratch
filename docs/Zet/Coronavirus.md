@@ -6,7 +6,7 @@ backlinks:
   - Zet/MERS-CoV
   - Zet/Đại dịch COVID-19
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+  - Zet/Các định đề Thomas Rivers
   - Zet/MERS-CoV
   - Zet/Virus
   - Zet/SARS-CoV
@@ -45,7 +45,7 @@ Bộ gen của Coronavirus mã hóa được bốn hoặc 5 loại protein cấu
 
 ## Ideas & thoughts:
 - [[Antoine Bechamp và Pasteur về lý thuyết vi khuẩn]]
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Các định đề Thomas Rivers]]
 
 
 

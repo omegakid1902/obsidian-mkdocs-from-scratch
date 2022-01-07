@@ -1,6 +1,6 @@
 ---
 backlinks:
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+  - Zet/Các định đề Thomas Rivers
   - Zet/Các định đề Robert Koch
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Heinrich Hermann Robert Koch

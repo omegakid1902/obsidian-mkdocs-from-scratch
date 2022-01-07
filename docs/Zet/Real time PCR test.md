@@ -12,6 +12,7 @@ backlinks:
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
   - Zet/Real time PCR test là một trò bịp của Big Pharma
   - Zet/People/Kary B. Mullis
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: Real time PCR test
 UID: 211017163408
 created: 17-Oct-2021

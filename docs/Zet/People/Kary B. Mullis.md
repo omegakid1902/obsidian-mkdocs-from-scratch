@@ -13,6 +13,7 @@ backlinks:
   - Zet/Real time PCR test
   - Zet/The Terrain Theory
   - Zet/People/Kary B. Mullis
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Kary B. Mullis
 UID: 211101231452

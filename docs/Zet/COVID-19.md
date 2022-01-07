@@ -16,6 +16,7 @@ backlinks:
   - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
   - Zet/Các kênh thông tin trái chiều
   - Zet/Vaccination
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: COVID 19
 UID: 2107101155
 tags:

@@ -5,7 +5,7 @@ outgoing_links:
   - Zet/The Terrain Theory
   - Zet/People/Antoine Beauchamp
   - Zet/Các định đề Robert Koch
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+  - Zet/Các định đề Thomas Rivers
 backlinks:
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/The Terrain Theory
@@ -33,7 +33,7 @@ Lý thuyết này nói rằng, vi khuẩn là nguồn gốc của các bệnh t�
 - Lý thuyết mầm trái ngược với [[The Terrain Theory]] của [[Antoine Beauchamp|Antoine Bechamp]]
 - Rất nhiều dẫn chứng nói rằng [[Louis Pasteur|Pasteur]] đã không chứng minh được thuyết của ông đúng. Bằng chứng thuyết phục nhất là trước khi lâm chung, ông đã thừa nhận [[The Terrain Theory]] của [[Antoine Beauchamp|Antoine Bechamp]] là đúng, môi trường là tất cả.
 - [[Các định đề Robert Koch]]
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Các định đề Thomas Rivers]]
 
 ## Ref:
 - [Viruses do not exist (wickedtruths.org)](https://wickedtruths.org/en/viruses-do-not-exist/)

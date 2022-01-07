@@ -5,8 +5,8 @@ backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Virus HIV
   - Zet/Đại dịch COVID-19
+  - Zet/Các định đề Thomas Rivers
   - Zet/SARS-COV-2
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
   - Zet/COVID-19
   - Zet/Vaccine virus bất hoạt
 title: Virus

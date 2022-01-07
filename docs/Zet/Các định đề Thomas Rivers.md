@@ -8,17 +8,21 @@ backlinks:
   - Zet/Vaccine Moderna
   - Zet/Các định đề Robert Koch
   - Zet/Coronavirus
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
-title: Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+title: Các định đề Thomas Rivers
 UID: 211016110917
 created: 16-Oct-2021
 tags:
   - 'created/2021/Oct/16'
   - 'garden🏡'
   - 'permanent/linking'
+aliases:
+  - Các định đề Thomas Rivers
+  - Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
 publish: True
 ---
-# Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+# Các định đề Thomas Rivers
 
 ## Notes:
 Năm 1937, [[Thomas Rivers]] dựa trên các định đề của [[Heinrich Hermann Robert Koch]] đã đưa ra 6 định đề để xác định/chứng minh một loại [[Virus]] cụ thể có là nguyên nhân gây ra một bệnh cụ thể không

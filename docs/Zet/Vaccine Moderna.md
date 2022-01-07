@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không
+  - Zet/Các định đề Thomas Rivers
   - Zet/People/Bill Gates
 backlinks:
   - Zet/Đại dịch COVID-19
@@ -23,7 +23,7 @@ publish: True
 ## Notes:
 
 ## Ideas & thoughts:
-- [[Sáu định đề Thomas Rivers xác định 1 virus cụ thể có gây ra bệnh cụ thể không]]
+- [[Các định đề Thomas Rivers]]
 - [[Bill Gates]]
 - [[COVID-19 map]]
 
