@@ -41,7 +41,7 @@ jobs:
       - name: Clone zettelkasten
         run: |
           cd ..
-          git clone https://github.com/omegakid1902/zettelkasten.git
+          git clone https://omegakid1902:${{ ZET_ACCESS_TOKEN}} @github.com/omegakid1902/zettelkasten.git
 
       - uses: actions/checkout@v2
 
