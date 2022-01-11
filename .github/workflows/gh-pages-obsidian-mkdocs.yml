@@ -52,9 +52,10 @@ jobs:
 
       - name: Clone zettelkasten
         run: |
-          cd ../zettelkasten
+          pwd
+#          cd ../zettelkasten
 
-      - uses: actions/checkout@v2
+#      - uses: actions/checkout@v2
 
       - name: Scan md file to publish
         run: |
