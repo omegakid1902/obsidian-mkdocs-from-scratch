@@ -19,49 +19,35 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-#      - name: Setup Python
-#        uses: actions/setup-python@v2
-#        with:
-#          python-version: 3.7.7
-#          architecture: x64
-#
-#      - name: Cache dependencies
-#        uses: actions/cache@v1
-#        with:
-#          path: ~/.cache/pip
-#          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-#          restore-keys: |
-#            ${{ runner.os }}-pip-
-#      - name: Install dependencies
-#        run: pip install pip-tools
-#        
-#      - name: Update requirements
-#        run: make update
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7.7
+          architecture: x64
+
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install dependencies
+        run: pip install pip-tools
+        
+      - name: Update requirements
+        run: make update
 
       - name: Clone zettelkasten
-        run: |
-          cd ..
-#          git clone https://github.com/omegakid1902/zettelkasten.git
-          
-      - name: Checkout private tools
         uses: actions/checkout@v2
         with:
           repository: omegakid1902/zettelkasten
           token: ${{ secrets.OBSIDIAN_MKDOCS_SECRET }} # `GH_PAT` is a secret that contains your PAT
           path: zettelkasten
 
-      - name: Clone zettelkasten
-        run: |
-          pwd
-          ls
-          cd zettelkasten
-          
-#          cd ../zettelkasten
-
-#      - uses: actions/checkout@v2
-
       - name: Scan md file to publish
         run: |
+          mv -rf zettelkasten ../
           python publish.py
           cp -rf src/images docs/
           cp -rf src/stylesheets docs/
