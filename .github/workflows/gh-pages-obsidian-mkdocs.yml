@@ -47,7 +47,7 @@ jobs:
 
       - name: Scan md file to publish
         run: |
-          mv -rf zettelkasten ../
+          mv zettelkasten ../
           python publish.py
           cp -rf src/images docs/
           cp -rf src/stylesheets docs/
