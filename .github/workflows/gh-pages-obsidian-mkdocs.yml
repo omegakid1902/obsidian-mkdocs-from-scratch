@@ -47,7 +47,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: omegakid1902/zettelkasten
-          token: ${{ secrets.ZET_ACCESS_TOKEN }} # `GH_PAT` is a secret that contains your PAT
+          token: ${{ secrets.OBSIDIAN_MKDOCS_SECRET }} # `GH_PAT` is a secret that contains your PAT
           path: zettelkasten
 
       - name: Clone zettelkasten
