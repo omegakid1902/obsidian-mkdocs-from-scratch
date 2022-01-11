@@ -52,6 +52,8 @@ jobs:
 
       - name: Clone zettelkasten
         run: |
+          pwd
+          ls
           cd zettelkasten
           
 #          cd ../zettelkasten
