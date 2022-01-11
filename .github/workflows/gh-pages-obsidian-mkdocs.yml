@@ -48,7 +48,7 @@ jobs:
         with:
           repository: omegakid1902/zettelkasten
           token: ${{ secrets.OBSIDIAN_MKDOCS_SECRET }} # `GH_PAT` is a secret that contains your PAT
-          path: zettelkasten
+          path: ../zettelkasten
 
       - name: Clone zettelkasten
         run: |
