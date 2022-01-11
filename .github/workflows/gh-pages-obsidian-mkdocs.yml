@@ -38,10 +38,21 @@ jobs:
       - name: Update requirements
         run: make update
 
+#      - name: Clone zettelkasten
+#        run: |
+#          cd ..
+#          git clone https://github.com/omegakid1902/zettelkasten.git
+          
+      - name: Checkout private tools
+        uses: actions/checkout@v2
+        with:
+          repository: omegakid1902/zettelkasten
+          token: ${{ secrets.ZET_ACCESS_TOKEN }} # `GH_PAT` is a secret that contains your PAT
+          path: zettelkasten
+
       - name: Clone zettelkasten
         run: |
-          cd ..
-          git clone https://omegakid1902:${{ secrets.ZET_ACCESS_TOKEN}} @github.com/omegakid1902/zettelkasten.git
+          cd ../zettelkasten
 
       - uses: actions/checkout@v2
 
