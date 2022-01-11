@@ -38,9 +38,9 @@ jobs:
 #      - name: Update requirements
 #        run: make update
 
-#      - name: Clone zettelkasten
-#        run: |
-#          cd ..
+      - name: Clone zettelkasten
+        run: |
+          cd ..
 #          git clone https://github.com/omegakid1902/zettelkasten.git
           
       - name: Checkout private tools
@@ -48,18 +48,11 @@ jobs:
         with:
           repository: omegakid1902/zettelkasten
           token: ${{ secrets.OBSIDIAN_MKDOCS_SECRET }} # `GH_PAT` is a secret that contains your PAT
-          path: ../zettelkasten
+          path: zettelkasten
 
       - name: Clone zettelkasten
         run: |
-          pwd
-          ls 
-          cd ..
-          pwd
-          ls
-          cd ..
-          pwd
-          ls
+          cd zettelkasten
           
 #          cd ../zettelkasten
 
