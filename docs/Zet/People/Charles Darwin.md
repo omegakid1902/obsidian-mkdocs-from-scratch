@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Thuyết tiến hóa
 backlinks:
+  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/Homo Neanderthal
   - Zet/Hội tam điểm
   - Zet/Francis Galton là em họ của Charles Darwin

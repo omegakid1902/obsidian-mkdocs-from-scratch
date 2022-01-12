@@ -9,6 +9,7 @@ backlinks:
   - Zet/Đại dịch COVID-19
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/The Germ theory
+  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/The Terrain Theory
   - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/Vaccination

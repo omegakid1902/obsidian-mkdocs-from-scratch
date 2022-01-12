@@ -181,6 +181,7 @@ Chỉ ưu tiên vaccine trong trường hợp bệnh hiểm nghèo hoặc không
 - [Cựu phó chủ tịch Pfizer giải thích chúng ta đang bị lừa như thế nào](https://rumble.com/vmgm99-thng-ip-nhn-nh-cui-cng-michael-yeadon-interview-bn-full.html)
 - Bạn có thể tìm xem các video trên [[Kênh youtube giáo dục tự do 1]], ông Tuấn Ngọc hơi bẩn bựa xíu nhưng để tiếp cận thông tin thì ok. Từ khóa thường xuyên được nhắc đến là [[Big Medicine]]. Xem và tự nhận đinh.
 
+
 [^1]: [Khoa Học Đã Dối Trá Thế Nào? | Following the science? (rumble.com)](https://rumble.com/vm69ne-khoa-hc-di-tr-th-no-following-the-science.html)
 [^2]: [Ivermectin | COVID-19 Treatment Guidelines (nih.gov)](https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/ivermectin/)
 [^3]:[Tại sao bạn không nên sử dụng Ivermectin để điều trị hoặc ngăn ngừa COVID-19 | FDA](https://www.fda.gov/consumers/consumer-updates/tai-sao-ban-khong-nen-su-dung-ivermectin-de-dieu-tri-hoac-ngan-ngua-covid-19)

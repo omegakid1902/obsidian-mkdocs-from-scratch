@@ -34,6 +34,7 @@ Nguyễn Bỉnh Khiêm có thể được xem là một nhà tiên tri với r�
 ## Ideas & thoughts:
 - [[Các lời sấm của Trạng Trình]]
 - [[Các nhà tiên tri]]
+- [[@ Nguyễn Bỉnh Khiêm, Thái ất thần kinh]]
 
 ## Ref:
 - [BÌNH GIẢI SẤM KÝ  TRẠNG TRÌNH NGUYỄN BỈNH KHIÊM – Cuộc Đời Mới (cuocdoimoi.com)](http://cuocdoimoi.com/binh-giai-sam-ky-trang-trinh-nguyen-binh-khiem/)
