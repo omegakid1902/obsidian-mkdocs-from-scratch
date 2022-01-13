@@ -6,9 +6,9 @@ outgoing_links:
   - Zet/Nhà Nguyễn
   - Zet/Nhà Thanh
 backlinks:
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Chúa Nguyễn
   - Zet/Nhà Tây Sơn
+  - Zet/Chúa Nguyễn
+  - Zet/Lịch Sử Việt Nam
   - Zet/Nhà Nguyễn
   - Zet/People/Nguyễn Huệ
 title: "Nguyễn Ánh"

@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/People/Adam và Eva
   - Zet/God
 backlinks:
-  - Zet/Thinking/Tóm tắt sách Sáng Thế
   - Zet/People/Adam và Eva
+  - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: Vườn địa đàng
 UID: 2107312210
 tags:

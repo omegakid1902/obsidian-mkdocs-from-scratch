@@ -6,8 +6,8 @@ outgoing_links:
   - Zet/Thần Shiva
 backlinks:
   - Zet/Thần Shiva
-  - Zet/Thần Brahma
   - Zet/Ấn Độ giáo
+  - Zet/Thần Brahma
   - Zet/Thần Vishnu
 title: Tam thần Ấn giáo
 UID: 210704-1545

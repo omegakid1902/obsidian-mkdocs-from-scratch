@@ -2,13 +2,13 @@
 outgoing_links:
   - Zet/Sông Nile
 backlinks:
-  - Zet/Nữ thần ISIS
-  - Zet/Nữ thần Tefnut
-  - Zet/Thần Seth
-  - Zet/Thần Nu
   - Zet/Thần Shu
-  - Zet/Lịch sử
   - Zet/Nữ thần Nut
+  - Zet/Thần Nu
+  - Zet/Nữ thần Tefnut
+  - Zet/Nữ thần ISIS
+  - Zet/Lịch sử
+  - Zet/Thần Seth
 title: Ai Cập Cổ Đại
 created: July 27, 2021 10:45 PM
 tags:

@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Do Thái Giáo
   - Zet/Năm sách trong Ngũ Kinh Cựu Ước
 backlinks:
-  - Zet/Ngũ Kinh Cựu Ước
   - Zet/Xung đột Israel - Palestine
-  - Zet/Thời gian dịch các sách trong Bản bảy mươi
   - Zet/Do Thái Giáo
+  - Zet/Ngũ Kinh Cựu Ước
+  - Zet/Thời gian dịch các sách trong Bản bảy mươi
   - Zet/People/Moses
 title: Torah
 UID: 210731-1722

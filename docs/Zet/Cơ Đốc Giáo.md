@@ -5,19 +5,19 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Tin Lành
 backlinks:
-  - Zet/Hạ thế giới
-  - Zet/Người Gruzia
-  - Zet/Lễ Giáng Sinh
-  - Zet/Phù thủy trung cổ
-  - Zet/Do Thái Giáo
   - Zet/Người Amish
+  - Zet/Do Thái Giáo
   - Zet/Bí tích rửa tội
+  - Zet/Lễ Giáng Sinh
+  - Zet/Người Gruzia
+  - Zet/Phù thủy trung cổ
   - Zet/God
   - Zet/Hiệp sĩ Đền Thánh
-  - Zet/People/Alberto Rivera
-  - Zet/People/Leo Tolstoy
+  - Zet/Hạ thế giới
   - Zet/People/Thánh Phaolo
+  - Zet/People/Leo Tolstoy
   - Zet/People/Moses
+  - Zet/People/Alberto Rivera
 title: Cơ Đốc giáo
 tags:
   - 'created/2021/Jul/31'

@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Thời Lê trung hưng
   - Zet/Lịch Sử Việt Nam
+  - Zet/Thời Lê trung hưng
   - Zet/Nhà Hậu Lê
 title: Thời Lê sơ
 UID: 210908203418

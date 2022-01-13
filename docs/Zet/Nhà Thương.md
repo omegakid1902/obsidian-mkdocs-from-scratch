@@ -1,10 +1,10 @@
 ---
 backlinks:
-  - Zet/Tam Vương Trung Hoa
-  - Zet/Lịch sử Trung Quốc
   - Zet/Chu Vũ Vương sau khi lật đổ nhà Thương, muốn làm hình ảnh của Đế Tân trở nên xấu xa, nên đã đặt tên là Trụ Vương
-  - Zet/Tiên Tần
+  - Zet/Lịch sử Trung Quốc
   - Zet/Nhà Chu
+  - Zet/Tam Vương Trung Hoa
+  - Zet/Tiên Tần
 title: Nhà Thương
 UID: 210828094012
 tags:

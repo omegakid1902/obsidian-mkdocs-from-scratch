@@ -3,8 +3,11 @@ outgoing_links:
   - Zet/People/Lord Kelvin
   - Zet/Thuyết tiến hóa
   - Zet/People/Charles Darwin
+  - Zet/Định lý bất toàn của Gödel
+  - Zet/Định luật Tạo sinh
   - Zet/People/Louis Pasteur
 backlinks:
+  - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Thuyết tiến hóa
 title: Kelvin phản đối thuyết tiến hóa của Darwin
 UID: 220112231726

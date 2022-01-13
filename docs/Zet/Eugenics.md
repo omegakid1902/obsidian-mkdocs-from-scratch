@@ -11,9 +11,9 @@ outgoing_links:
   - Zet/Vaccine
 backlinks:
   - Zet/People/Theodore Roosevelt
-  - Zet/Đại dịch COVID-19
-  - Zet/Qmap
   - Zet/Các kênh thông tin trái chiều
+  - Zet/Qmap
+  - Zet/Đại dịch COVID-19
   - Zet/People/Bill Gates
 title: Eugenics
 UID: 210919163636

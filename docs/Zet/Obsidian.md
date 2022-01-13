@@ -3,11 +3,11 @@ outgoing_links:
   - Zet/Markdown Language
   - Zet/Backlink
 backlinks:
-  - Zet/Obsidian Publish
-  - Zet/Phần mềm Notion
   - Zet/Zettelkasten
-  - Zet/Backlink Graph View
   - Zet/LYT framework
+  - Zet/Obsidian Publish
+  - Zet/Backlink Graph View
+  - Zet/Phần mềm Notion
   - Zet/Writing/Tóm tắt sách - How to take smart notes
 title: Obsidian
 UID: 211107211929

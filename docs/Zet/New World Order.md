@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Hội Illuminati
 backlinks:
-  - Zet/Qmap
   - Zet/Các kênh thông tin trái chiều
+  - Zet/Qmap
 title: New World Order
 UID: 211018232103
 created: 18-Oct-2021

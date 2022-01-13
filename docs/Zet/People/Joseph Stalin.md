@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Người Gruzia
   - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
 backlinks:
-  - Zet/Bolshevik
-  - Zet/Chủ nghĩa Stalin
   - Zet/Qmap
+  - Zet/Chủ nghĩa Stalin
+  - Zet/Bolshevik
   - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
 title: Joseph Stalin
 UID: 211119223903

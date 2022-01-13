@@ -29,8 +29,8 @@ outgoing_links:
 backlinks:
   - Zet/Nhà Đại Lý
   - Zet/Nhà Tống
-  - Zet/Nhà Liêu
   - Zet/Lịch sử
+  - Zet/Nhà Liêu
 title: Lịch sử Trung Quốc
 UID: 
 created: 

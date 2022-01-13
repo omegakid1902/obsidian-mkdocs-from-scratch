@@ -2,13 +2,13 @@
 outgoing_links:
   - Zet/Zidovudin
 backlinks:
-  - Zet/Đại dịch COVID-19
-  - Zet/Zidovudin
   - Zet/Đại dịch AIDS
+  - Zet/Zidovudin
+  - Zet/Đại dịch COVID-19
   - Zet/Virus
   - Zet/People/Kary B. Mullis
-  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: Virus HIV
 UID: 211229225516
 created: 29-Dec-2021

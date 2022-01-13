@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Luân xa rốn
 backlinks:
-  - Zet/Cơ thể con người có 7 luân xa
   - Zet/Luân xa
+  - Zet/Cơ thể con người có 7 luân xa
 title: Luân xa xương cùng
 UID: 211017145535
 created: 17-Oct-2021

@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Rothschild nghĩa là dấu hiệu đỏ
 backlinks:
   - Zet/Rothschild nghĩa là dấu hiệu đỏ
-  - Zet/Adam Weishaupt thành lập Illuminati 1776
   - Zet/Mayer Rothschild làm quen General von Estorff để tiếp cận Hoàng tộc William IX
   - Zet/Gia tộc Rothschild
+  - Zet/Adam Weishaupt thành lập Illuminati 1776
 title: Mayer Amschel Bauer
 UID: 211113100059
 tags:

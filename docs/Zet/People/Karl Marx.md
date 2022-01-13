@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Karl Marx là Do thái Ashkenazi
   - Zet/Karl Marx là người khai sinh Chủ nghĩa Marx
 backlinks:
-  - Zet/Karl Marx là Do thái Ashkenazi
   - Zet/Karl Marx là người khai sinh Chủ nghĩa Marx
+  - Zet/Karl Marx là Do thái Ashkenazi
 title: Karl Marx
 UID: 211113103159
 tags:

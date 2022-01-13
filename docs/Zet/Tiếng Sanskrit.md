@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Tiếng Sanskrit còn được gọi là Bắc Phạn
   - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
 backlinks:
-  - Zet/Tiếng Sanskrit còn được gọi là Bắc Phạn
   - Zet/Akashic records
+  - Zet/Tiếng Sanskrit còn được gọi là Bắc Phạn
   - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
   - Zet/People/Trần Huyền Trang
 title: Tiếng Sanskrit

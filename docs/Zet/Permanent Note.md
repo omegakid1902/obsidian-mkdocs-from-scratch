@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/Literature Note
   - Zet/Fleeting Note
 backlinks:
-  - Zet/Literature Note
   - Zet/Zettelkasten
-  - Zet/The Luhmann Notes
   - Zet/Fleeting Note
+  - Zet/Literature Note
+  - Zet/The Luhmann Notes
 title: Permanent Note
 created: Oct 21, 2020 10:09 PM
 tags:

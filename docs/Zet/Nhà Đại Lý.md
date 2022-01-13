@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/Nhà Trần
   - Zet/Đoàn Dự
 backlinks:
+  - Zet/Lịch sử Trung Quốc
   - Zet/Đoàn Dự
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
-  - Zet/Lịch sử Trung Quốc
 title: Nhà Đại Lý
 UID: 210816212624
 tags:

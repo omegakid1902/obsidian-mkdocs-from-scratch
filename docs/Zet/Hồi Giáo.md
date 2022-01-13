@@ -8,11 +8,11 @@ outgoing_links:
   - Zet/Kinh Koran
   - Zet/Thuyết âm mưu
 backlinks:
-  - Zet/Người Do Thái Sephardi
   - Zet/Qmap
-  - Zet/God
+  - Zet/Người Do Thái Sephardi
   - Zet/Religion
   - Zet/Kinh Koran
+  - Zet/God
   - Zet/People/Thánh Anna
   - Zet/People/Alberto Rivera
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người

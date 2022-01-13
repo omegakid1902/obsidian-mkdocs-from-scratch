@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Có phân tích cho rằng Lucia bị thay thế bởi một người khác từ năm 1960
 backlinks:
-  - Zet/Có phân tích cho rằng Lucia bị thay thế bởi một người khác từ năm 1960
   - Zet/Thông điệp Fatima
+  - Zet/Có phân tích cho rằng Lucia bị thay thế bởi một người khác từ năm 1960
 title: Lúcia dos Santos
 UID: 220110231316
 tags:

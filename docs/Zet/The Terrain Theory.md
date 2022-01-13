@@ -8,8 +8,8 @@ outgoing_links:
   - Zet/Real time PCR test
   - Zet/Kênh youtube giáo dục tự do 1
 backlinks:
-  - Zet/Đại dịch COVID-19
   - Zet/The Germ theory
+  - Zet/Đại dịch COVID-19
   - Zet/People/Edward Jenner
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: The Terrain Theory

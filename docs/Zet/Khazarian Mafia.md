@@ -8,8 +8,8 @@ outgoing_links:
   - Zet/Chủ Nghĩa Zion
   - Zet/Operation Paperclip
 backlinks:
-  - Zet/Qmap
   - Zet/Cách mạng tháng 10 Nga
+  - Zet/Qmap
   - Zet/Khazars
 title: Khazarian Mafia
 UID: 211118230321

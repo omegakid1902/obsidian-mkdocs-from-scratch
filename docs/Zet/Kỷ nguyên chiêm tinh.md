@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Năm vũ trụ
 backlinks:
-  - Zet/Chiêm tinh học
   - Zet/Kỷ nguyên Bảo Bình
+  - Zet/Chiêm tinh học
 title: Kỷ nguyên chiêm tinh
 UID: 211124224447
 created: 24-Nov-2021

@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Tam Hoàng Trung Hoa
 backlinks:
-  - Zet/Tam Hoàng Trung Hoa
   - Zet/Lịch sử Trung Quốc
   - Zet/Theo Đại việt sử ký toàn thư, Thần Nông là tổ tiên của người Việt
+  - Zet/Tam Hoàng Trung Hoa
 title: Thần Nông
 UID: 210906223215
 tags:

@@ -4,8 +4,9 @@ outgoing_links:
   - Zet/Người Do Thái
 backlinks:
   - Zet/Qmap
-  - Zet/Lịch Sử Do Thái
   - Zet/Eugenics
+  - Zet/Thuyết tiến hóa
+  - Zet/Lịch Sử Do Thái
 title: Adolf Hitler
 UID: 211025220400
 created: Jun 19, 2021 9:08 PM

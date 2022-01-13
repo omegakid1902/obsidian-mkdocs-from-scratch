@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/NESARA
   - Zet/People/Donald J. Trump
 backlinks:
-  - Zet/NESARA
   - Zet/Qmap
+  - Zet/NESARA
   - Zet/Gia tộc Rothschild
 title: FED
 UID: 211014231145

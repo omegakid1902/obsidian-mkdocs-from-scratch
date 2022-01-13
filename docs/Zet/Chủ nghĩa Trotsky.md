@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Chủ nghĩa Stalin
   - Zet/People/Lev Davidovich Trotsky
 backlinks:
-  - Zet/Bolshevik
   - Zet/Chủ nghĩa Stalin phát triển lý thuyết của Lenin
+  - Zet/Bolshevik
 title: Chủ nghĩa Trotsky
 UID: 2107181040
 tags:

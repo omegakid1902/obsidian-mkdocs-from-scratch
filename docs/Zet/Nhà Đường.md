@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/Họ Khúc
-  - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung
-  - Zet/Lịch sử Trung Quốc
   - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
+  - Zet/Họ Khúc
+  - Zet/Lịch sử Trung Quốc
+  - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung
   - Zet/People/Trần Huyền Trang
   - Zet/People/Lý Thế Dân
 title: Nhà Đường

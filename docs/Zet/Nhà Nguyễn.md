@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/Nhà Tây Sơn
   - Zet/Bảo Đại
 backlinks:
+  - Zet/Chúa Nguyễn
+  - Zet/Lịch Sử Việt Nam
   - Zet/Nguyễn Ánh
   - Zet/Bảo Đại
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Chúa Nguyễn
   - Zet/People/Nguyễn Hoàng
 title: Nhà Nguyễn
 UID: 

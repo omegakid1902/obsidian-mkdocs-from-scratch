@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Kháng nguyên
 backlinks:
-  - Zet/Kháng nguyên
   - Zet/Vaccine Vector
+  - Zet/Kháng nguyên
 title: Kháng thể
 UID: 2107111611
 tags:

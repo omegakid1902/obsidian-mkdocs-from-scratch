@@ -11,8 +11,8 @@ outgoing_links:
   - Zet/Vaccine AstraZeneca
   - Zet/Big Medicine
 backlinks:
-  - Zet/Vaccine
   - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
+  - Zet/Vaccine
   - Zet/People/Louis Pasteur
 title: Vaccination
 UID: 211010165940

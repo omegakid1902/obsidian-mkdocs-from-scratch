@@ -5,12 +5,15 @@ outgoing_links:
   - Zet/People/Lord Kelvin
   - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/Định luật Mendel về Di truyền
+  - Zet/People/Adolf Hitler
 backlinks:
-  - Zet/Định luật Mendel về Di truyền
+  - Zet/Định lý bất toàn của Gödel
+  - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
+  - Zet/Eugenics
+  - Zet/Định luật Mendel về Di truyền
   - Zet/Godel bác bỏ Thuyết tiến hóa Darwin
   - Zet/Homo Neanderthal
-  - Zet/Eugenics
   - Zet/People/Charles Darwin
 title: Thuyết tiến hóa
 UID: 211011231044
@@ -33,8 +36,13 @@ publish: True
 - [[Kelvin phản đối thuyết tiến hóa của Darwin]]
 - [[Định luật Mendel về Di truyền]] bác bỏ thuyết tiến hóa, các đột biến gene của sinh vật đều dẫn tới bệnh và chết.
 - [[@ Francis Collins, Ngôn ngữ của Chúa]]
+- [[@ Michael Denton, Evolution, A Theory in Crisis]]
+- Thuyết tiến hóa dọn đường cho [[Chủ nghĩa phát xít]] của [[Adolf Hitler]] lên ngôi.
+- [[Lý Tôn Ngô]] vạch trần sự vô nhân tính của thuyết tiến hóa. [^1]
 
 ## Reference:
 - [Nếu Đác Uyn còn sống chắc sẽ không muốn bạn biết 5 điều này - YouTube](https://www.youtube.com/watch?v=3bhORlpnU54)
 - Bác bỏ thuyết tiến hóa [Alex Collier – Góc nhìn của một Andromedan về Lịch sử Thiên hà (Pt.1) – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/08/17/alex-collier-goc-nhin-cua-mot-andromedan-ve-lich-su-thien-ha-pt-1/)
 - [Was Darwin Wrong? Darwin đã sai? | PhamVietHung's Home (viethungpham.com)](https://viethungpham.com/2019/11/11/was-darwin-wrong-darwin-da-sai/)
+
+[^1]:[Thuyết tiến hóa Darwin: Đã đến lúc chấm dứt sự lừa dối vĩ đại (nghiencuuquocte.org)](http://nghiencuuquocte.org/forums/topic/thuyet-tien-hoa-darwin-da-den-luc-cham-dut-su-lua-doi-vi-dai/)

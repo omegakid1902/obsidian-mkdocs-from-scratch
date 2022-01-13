@@ -3,13 +3,13 @@ outgoing_links:
   - Zet/Ngôn ngữ Yiddish
   - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
 backlinks:
-  - Zet/Ngôn ngữ Yiddish
-  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
-  - Zet/Do Thái Giáo
-  - Zet/Lịch Sử Do Thái
-  - Zet/Khazars tự nhận mình là do thái Ashkenazi
-  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/Người Do Thái
+  - Zet/Do Thái Giáo
+  - Zet/Khazars tự nhận mình là do thái Ashkenazi
+  - Zet/Lịch Sử Do Thái
+  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
+  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
+  - Zet/Ngôn ngữ Yiddish
   - Zet/People/Theodor Herzl
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Người Do Thái Ashkenazi

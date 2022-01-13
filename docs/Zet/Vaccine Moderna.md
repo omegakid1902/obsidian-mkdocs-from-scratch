@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Các định đề Thomas Rivers
   - Zet/People/Bill Gates
 backlinks:
-  - Zet/Đại dịch COVID-19
   - Zet/Các loại Vaccine COVID 19
+  - Zet/Đại dịch COVID-19
   - Zet/Vaccination
   - Zet/People/Bill Gates
 title: Vaccine Moderna

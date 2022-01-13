@@ -2,12 +2,14 @@
 outgoing_links:
   - Zet/Thuyết tiến hóa
 backlinks:
-  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
-  - Zet/Homo Neanderthal
-  - Zet/Hội tam điểm
+  - Zet/Định lý bất toàn của Gödel
   - Zet/Francis Galton là em họ của Charles Darwin
+  - Zet/Các lập luận phủ định thuyết tiến hóa
+  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/Eugenics
+  - Zet/Hội tam điểm
   - Zet/Thuyết tiến hóa
+  - Zet/Homo Neanderthal
 title: Charles Darwin
 UID: 210908201024
 tags:
