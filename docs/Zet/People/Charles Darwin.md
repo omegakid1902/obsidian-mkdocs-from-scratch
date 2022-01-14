@@ -8,6 +8,7 @@ backlinks:
   - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/Eugenics
   - Zet/Hội tam điểm
+  - Zet/Định luật entropy phủ định quá trình tiến hóa
   - Zet/Thuyết tiến hóa
   - Zet/Homo Neanderthal
 title: Charles Darwin

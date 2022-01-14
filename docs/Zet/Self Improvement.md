@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Deliberate Practice
   - Zet/Zettelkasten
   - Zet/Incremental Reading
+  - Zet/Cung điện ký ức
   - Zet/Phương pháp con vịt cao su
   - Zet/Kỹ thuật học tập Feymann
   - Zet/Dopamine detox
@@ -35,9 +36,7 @@ publish: True
 - [[Cung điện ký ức]]
 - [[Phương pháp con vịt cao su]]
 - [[Kỹ thuật học tập Feymann]]
-
 - [[Dopamine detox]]
 - [[@ Cal Newport, Digital Minimalism]]
 
 ## Ideas & thoughts:
-https://clb100.com/

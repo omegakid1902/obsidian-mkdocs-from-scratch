@@ -9,6 +9,8 @@ outgoing_links:
   - Zet/Định luật Tạo sinh
   - Zet/People/Louis Pasteur
   - Zet/People/Grego Mendel
+  - Zet/Thuyết tiến hóa chưa là định luật, chưa được chứng minh
+  - Zet/Định luật entropy phủ định quá trình tiến hóa
 title: Các lập luận phủ định thuyết tiến hóa
 UID: 220113221618
 created: 13-Jan-2022
@@ -33,6 +35,9 @@ Các lập luận phủ định [[Thuyết tiến hóa]] của [[Charles Darwin]
 - Sự sống bùng nổ đột ngột trong [[Kỷ Cambri]]
 - Số lượng loài chuyển tiếp phải lớn [[💬220113-2250 Loài trung gian]]
 - Theo định luật di truyền [[Grego Mendel]] chứng minh rằng loài là cố định
+- [[Thuyết tiến hóa chưa là định luật, chưa được chứng minh]]
+- [[Định luật entropy phủ định quá trình tiến hóa]]
+- 
 
 
 

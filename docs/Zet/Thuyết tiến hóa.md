@@ -11,8 +11,10 @@ backlinks:
   - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/Eugenics
+  - Zet/Định luật entropy phủ định quá trình tiến hóa
   - Zet/Định luật Mendel về Di truyền
   - Zet/Godel bác bỏ Thuyết tiến hóa Darwin
+  - Zet/Thuyết tiến hóa chưa là định luật, chưa được chứng minh
   - Zet/Homo Neanderthal
   - Zet/People/Charles Darwin
 title: Thuyết tiến hóa
