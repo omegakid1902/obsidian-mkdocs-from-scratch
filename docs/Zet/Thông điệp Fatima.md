@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/People/Lúcia dos Santos
 backlinks:
   - Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓
+  - Zet/Thinking/❕ Lucia có thể bị thay thế từ 1960, bí mật Fatima 3 có thể không đúng
 title: Thông điệp Fatima
 UID: 220105234605
 created: 05-Jan-2022

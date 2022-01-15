@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Định luật Entropy
   - Zet/Thuyết tiến hóa
   - Zet/People/Charles Darwin
 backlinks:

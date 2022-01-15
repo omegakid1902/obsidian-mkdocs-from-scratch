@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/Định lý bất toàn của Gödel
   - Zet/Định luật Tạo sinh
   - Zet/People/Louis Pasteur
+  - Zet/Định luật Entropy
 backlinks:
   - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Thuyết tiến hóa

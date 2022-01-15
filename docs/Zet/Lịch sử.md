@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Homo Sapiens
   - Zet/Lịch Sử Việt Nam
   - Zet/Lịch Sử Do Thái
   - Zet/Lịch sử Trung Quốc

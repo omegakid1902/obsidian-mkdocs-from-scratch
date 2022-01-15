@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Định luật Entropy
+backlinks:
+  - Zet/Định luật Entropy
 title: Rudolf Clausius
 UID: 220114225404
 tags:

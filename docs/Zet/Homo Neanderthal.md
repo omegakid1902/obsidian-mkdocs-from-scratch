@@ -2,6 +2,9 @@
 outgoing_links:
   - Zet/Thuyết tiến hóa
   - Zet/People/Charles Darwin
+backlinks:
+  - Zet/Thinking/❕ Loài người không đơn độc
+  - Zet/Thinking/❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal
 title: Homo Neanderthal
 created: June 27, 2021 10:48 PM
 tags:
@@ -16,6 +19,7 @@ publish: True
 
 ## Notes:
 Homo Neanderthal (Người Neanderthal) là một loài trong chi Homo (người) đã bị tuyệt chủng. Các mẫu vật khảo cổ được tìm thấy ở Châu Âu và một vài nơi ở phía Tây và trung Á.
+
 Neanderthal hoặc là xếp vào phụ loài, tức chỉ là một chủng tộc của người hiện đại hoặc được tách thành một loài riêng biệt.
 
 ## Ideas & thoughts:

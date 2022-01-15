@@ -33,6 +33,7 @@ Hindu giáo, hay còn gọi là Ấn Độ giáo.
 
 ### Các vị thần
 - [[Tam thần Ấn giáo]]
+
 	- [[Thần Brahma]]
 	- [[Thần Vishnu]]
 	- [[Thần Shiva]]

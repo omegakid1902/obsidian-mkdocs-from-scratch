@@ -36,7 +36,7 @@ Cơ Đốc giáo tên gọi Hán-Việt của Kito Giáo.
 
 Về từ ngữ, Kitô trong tiếng Hy Lạp là _Khristos_, nghĩa là "Đấng được xức dầu". "Đấng được xức dầu" là danh hiệu của đấng [[Đấng Messiah]] trong tiếng [[Hebrew]]
 
-Các tôn giáo:
+Các tôn giáo thuộc Cơ Đốc giáo:
 
 - [[Công Giáo]]
 - [[Chính thống giáo Đông Phương]]

@@ -1,8 +1,11 @@
 ---
 outgoing_links:
   - Zet/People/Lúcia dos Santos
+  - Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓
+  - Zet/Thinking/❕ Lucia có thể bị thay thế từ 1960, bí mật Fatima 3 có thể không đúng
 backlinks:
   - Zet/People/Lúcia dos Santos
+  - Zet/Thinking/❕ Lucia có thể bị thay thế từ 1960, bí mật Fatima 3 có thể không đúng
 title: Có phân tích cho rằng Lucia bị thay thế bởi một người khác từ năm 1960
 UID: 220110234001
 created: 10-Jan-2022
@@ -48,6 +51,8 @@ Sơ Lucia năm 60 tuổi lại không có
 ![[Pasted image 20220110234517.png]]
 
 ## Ideas & thoughts:
+- [[Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓]]
+- [[❕ Lucia có thể bị thay thế từ 1960, bí mật Fatima 3 có thể không đúng]]
 
 ## Ref:
 - [Bí mật Fatima: dâng hiến nước Nga & Sơ Lucia giả mạo - Tu Viện Thánh Gia (conggiaovatican.com)](https://conggiaovatican.com/fatima-so-lucia-gia-mao/#gia-mao)

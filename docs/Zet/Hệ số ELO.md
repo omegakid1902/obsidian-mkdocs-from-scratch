@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/Cách tính toán hệ số ELO
 title: Hệ số ELO
 UID: 210826212741
 tags:

@@ -3,7 +3,9 @@ outgoing_links:
   - Zet/Thông điệp Fatima
   - Zet/Vatican
 backlinks:
+  - Zet/Có phân tích cho rằng Lucia bị thay thế bởi một người khác từ năm 1960
   - Zet/Writing/Danh sách các bài viết
+  - Zet/Thinking/❕ Lucia có thể bị thay thế từ 1960, bí mật Fatima 3 có thể không đúng
 title: Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓
 UID: 220107225138
 created: 07-Jan-2022
