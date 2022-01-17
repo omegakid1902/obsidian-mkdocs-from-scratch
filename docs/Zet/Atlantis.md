@@ -3,7 +3,9 @@ outgoing_links:
   - Zet/Lục địa Lemuria
 backlinks:
   - Zet/Qmap
+  - Zet/Quyển Cộng Hòa của Plato nhắc đến Atlantis
   - Zet/Plato có nói về Atlantis
+  - Zet/Quốc gia Atlantis thịnh vượng nhưng suy đồi
 title: Atlantis
 UID: 211025220544
 created: 25-Oct-2021
