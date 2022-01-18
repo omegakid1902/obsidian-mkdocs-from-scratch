@@ -1,5 +1,5 @@
 ---
-title: '@ 220117-232024 - Atlantis'
+title: '@ donggoitrithuc, Atlantis'
 UID: 220117232044
 tags:
   - 'created/2022/Jan/17'
@@ -19,12 +19,12 @@ publish: True
 	- Họ đến Atlantis khoảng 50.000 năm trước từ [[Chòm sao Lyran]]
 
 ## Permanent:
-- [[Quyển Cộng Hòa của Plato nhắc đến Atlantis]]
-- [[Quốc gia Atlantis thịnh vượng nhưng suy đồi]]
-- [[Alantis được Poseidon xây dựng]]
-- [[Người Atlantis có thể là người ngoài hành tinh]]
-	- [[Người Atlantis cao lớn và da sáng hơn người thường]]
-	- [[Người Atlantis tuổi thọ cao tới 800 năm]]
-	- [[Người Atlantis đến trái đất từ chòm sao Lyran từ 50000 năm trước]]
+- [[220117 - Quyển Cộng Hòa của Plato nhắc đến Atlantis]]
+- [[220117 - Quốc gia Atlantis thịnh vượng nhưng suy đồi]]
+- [[220117 - Alantis được Poseidon xây dựng]]
+- [[220117 - Người Atlantis có thể là người ngoài hành tinh]]
+	- [[220117 - Người Atlantis cao lớn và da sáng hơn người thường]]
+	- [[220117 - Người Atlantis tuổi thọ cao tới 800 năm]]
+	- [[220117 - Người Atlantis đến trái đất từ chòm sao Lyran từ 50000 năm trước]]
 
 

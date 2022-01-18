@@ -2,6 +2,8 @@
 outgoing_links:
   - Zet/People/Plato
   - Zet/Atlantis
+backlinks:
+  - Zet/Atlantis
 title: Quyển Cộng Hòa của Plato nhắc đến Atlantis
 UID: 220117233529
 created: 17-Jan-2022
@@ -15,4 +17,4 @@ publish: True
 Quyển [[@ Plato, Cộng Hòa]] của [[Plato]] nhắc đến [[Atlantis]] khoảng năm 330 TCN.
 
 ## Source:
-- [[@ 220117-232024 - Atlantis]]
+- [[@ donggoitrithuc, Atlantis]]
