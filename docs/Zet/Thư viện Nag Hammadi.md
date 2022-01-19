@@ -19,7 +19,7 @@ Nag Hammadi là một thị trấn ở [[Ai Cập]], Thư viện Nag Hammadi đ�
 
 ## Ideas & thoughts:
 - [[the gospel of Truth]]
-- [[the gospel of Philip]]
+- [[Phúc âm của Philip]]
 - [[Phúc âm của Thomas]]
 
 ## Reference:

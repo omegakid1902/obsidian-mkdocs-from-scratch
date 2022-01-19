@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Atlantis
 backlinks:
   - Zet/Atlantis
+  - Zet/Plato có nói về Atlantis
 title: Quyển Cộng Hòa của Plato nhắc đến Atlantis
 UID: 220117233529
 created: 17-Jan-2022

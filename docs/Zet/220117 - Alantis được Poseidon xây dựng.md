@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Poseidon
 backlinks:
   - Zet/Atlantis
 title: Alantis được Poseidon xây dựng
