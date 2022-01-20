@@ -11,6 +11,7 @@ backlinks:
   - Zet/Religion
   - Zet/Cơ Đốc Giáo
   - Zet/God
+  - Zet/220120 - Gia đình Bernoulli theo Tin Lành Calvin
   - Zet/Tên gọi Kháng Nghị và Tin Lành
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Tin Lành
