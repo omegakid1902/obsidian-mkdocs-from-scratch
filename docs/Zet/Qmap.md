@@ -35,6 +35,7 @@ outgoing_links:
   - Zet/People/Nicola Tesla
   - Zet/People/Plato
   - Zet/Plato có nói về Atlantis
+  - Zet/Garden/Thần Enki
   - Zet/Nữ thần ISIS
   - Zet/Thần Ra
   - Zet/Anunnaki
@@ -160,7 +161,7 @@ Qmap là một biểu đồ liệt kê rất nhiều thông tin, sự kiện bí
 - [[Plato có nói về Atlantis]]
 
 ### Lịch/Thời gian
-- [[Enki]] hay còn gọi là thần Ea -> [[Gold mines of Enki]] 
+- [[Thần Enki]] hay còn gọi là thần Ea -> [[Gold mines of Enki]] 
 - [[Lịch Adam]]
 - [[Stonehenge]]
 

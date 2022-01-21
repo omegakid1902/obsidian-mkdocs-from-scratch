@@ -337,7 +337,7 @@ Có một sự nối kết giữa tôi và mọi con người, đang sống và 
 ---
 Những niềm vui lớn mà bạn cảm thấy khi bạn biểu hiện lòng nhân ái đối với thú vật thì lớn hơn rất nhiều, so với những lạc thú nhỏ bé mà bạn thu được từ việc ăn thịt và săn bắn. — location: [2852]() ^ref-49570
 
-- Câu này nghĩa là khi bạn nhận biết mọi vật đều có linh hồn, là sự biểu hiện của [[Đấng tạo hóa]] thì việc bạn yêu thương loài vật, yêu thiên nhiên thì đem lại cho bạn niềm hạnh phúc lớn lao hơn là việc bạn tàn phá, giết hại để phục vụ những nhu cầu, thú vui thể xác.
+- Câu này nghĩa là khi bạn nhận biết mọi vật đều có linh hồn, là sự biểu hiện của [[God|Đấng tạo hóa]] thì việc bạn yêu thương loài vật, yêu thiên nhiên thì đem lại cho bạn niềm hạnh phúc lớn lao hơn là việc bạn tàn phá, giết hại để phục vụ những nhu cầu, thú vui thể xác.
 
 ---
 Moses nói với Thượng đế: “Con có thể tìm thấy Người ở đâu, lạy Chúa?” Và Thượng đế nói: “Nếu ngươi đang tìm kiếm ta, thì người đã tìm thấy ta rồi”. Trích từ The Arabic — location: [2854]() ^ref-8405
