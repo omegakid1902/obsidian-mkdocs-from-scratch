@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Enki
+backlinks:
+  - Zet/Garden/Thần Enki
 title: 220121 - Enki tạo ra loài người
 UID: 220121230516
 created: 21-Jan-2022

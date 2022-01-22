@@ -33,6 +33,7 @@ backlinks:
   - Zet/People/Adam và Eva
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
   - Zet/Thinking/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/❕ 220122 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
 title: God
 UID: 211107214433
 created: 07-Nov-2021

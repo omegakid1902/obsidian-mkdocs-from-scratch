@@ -13,6 +13,7 @@ backlinks:
   - Zet/People/Abel
   - Zet/People/Enoch
   - Zet/Thinking/Tóm tắt sách Sáng Thế
+  - Zet/Thinking/❕ 220122 - Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva
 title: Adam và Eva
 UID: 2108142139
 tags:

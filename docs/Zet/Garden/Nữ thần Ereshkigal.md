@@ -12,6 +12,7 @@ backlinks:
   - Zet/220121 - Ereshkigal nhường quyền cai quản địa ngục cho chồng
   - Zet/220121 - Ereshkigal bị rồng Kur bắt cóc xuống địa ngục
   - Zet/220121 - Ereshkigal cai quản địa ngục
+  - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
 title: Nữ thần Ereshkigal
 UID: 220121232940
 created: 21-Jan-2022

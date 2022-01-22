@@ -8,6 +8,7 @@ backlinks:
   - Zet/220121 - Marduk giết Tiamat
   - Zet/220121 - Marduk con trai Enki
   - Zet/220121 - Marduk bảo trợ thành phố Babylon
+  - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
 title: Thần Marduk
 UID: 220121231154
 created: 21-Jan-2022

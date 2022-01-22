@@ -9,7 +9,8 @@ backlinks:
   - Zet/220121 - Enlil đã từng tạo ra đại hồng thủy
   - Zet/220121 - Enlil tách rời trời và đất
   - Zet/220121 - Ba vị thần Lưỡng Hà quyền lực Anu, Enlil và Enki
-  - Zet/220121 - Enlil con của Anu và Ki
+  - Zet/220121 - Enlil là con của Anu và Ki
+  - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
 title: Thần Enlil
 UID: 220121225354
 created: 21-Jan-2022

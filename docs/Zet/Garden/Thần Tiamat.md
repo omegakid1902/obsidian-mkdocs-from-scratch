@@ -8,6 +8,7 @@ backlinks:
   - Zet/220121 - Marduk giết Tiamat
   - Zet/220121 - Tiamat hóa rồng trả thù cho chồng
   - Zet/220121 - Tiamat lấy Abzu sinh ra các vị thần
+  - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
 title: Thần Tiamat
 UID: 220121234028
 created: 21-Jan-2022

@@ -65,7 +65,7 @@ publish: True
 - [[220121 - Anu và Ishtar bảo trợ thành phố Uruk]]
 - [[220121 - Anu nhường quyền Maruk cai quản các vị thần]]
 - [[220121 - Enlil thần gió và không khí]]
-- [[220121 - Enlil con của Anu và Ki]]
+- [[220121 - Enlil là con của Anu và Ki]]
 - [[220121 - Enlil tách rời trời và đất]]
 - [[220121 - Enlil chế tạo ra cái cuốc]]
 - [[220121 - Enki là thần nước]]
@@ -83,3 +83,4 @@ publish: True
 - [[220121 - Ereshkigal bị rồng Kur bắt cóc xuống địa ngục]]
 - [[220121 - Ereshkigal nhường quyền cai quản địa ngục cho chồng]]
 - [[220121 - Marduk giết Tiamat]]
+- [[Quan hệ giữa các vị thần Lưỡng Hà]]
