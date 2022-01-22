@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/220122 - Dòng dõi Jotun mang mối thù với Aesir
   - Zet/220122 - Thế giới được tạo thành từ xác Ymir
   - Zet/220122 - Chỉ còn tồn tại 2 Jotun sau khi Ymir bị Odin giết
 title: 220122 - Ba anh em Odin giết Ymir, tàn sát người Jotun

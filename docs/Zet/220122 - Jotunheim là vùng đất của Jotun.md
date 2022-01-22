@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/220122 - Jotun là giống người khổng lồ băng trong thần thoại Bắc Âu
   - Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất
 title: 220122 - Jotunheim là vùng đất của Jotun
 UID: 220122122429

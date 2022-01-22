@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/220122 - Asynjur là tên gọi các nữ thần Bắc Âu
+backlinks:
+  - Zet/220122 - Ba anh em Odin là những vị thần Aesir thời đầu
 title: 220122 - Aesir là tên gọi các nam thần Bắc Âu
 UID: 220122120133
 created: 22-Jan-2022

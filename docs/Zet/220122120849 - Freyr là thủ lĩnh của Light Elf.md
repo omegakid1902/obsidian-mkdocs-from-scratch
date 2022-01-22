@@ -1,5 +1,5 @@
 ---
-title: 220122 - Freyr là thủ lĩnh của Light Elf
+title: 220122120849 - Freyr là thủ lĩnh của Light Elf
 UID: 220122120849
 created: 22-Jan-2022
 tags:
@@ -13,5 +13,5 @@ Thủ lĩnh của [[Light Elf]] là [[Thần Freyr]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Cửu giới]]
-
+- [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
 

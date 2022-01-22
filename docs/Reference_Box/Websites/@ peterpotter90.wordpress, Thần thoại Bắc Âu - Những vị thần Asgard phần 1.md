@@ -25,4 +25,87 @@ publish: True
     - Nhà của Thor rộng nhất trong Asgard
     - Vũ khí của Thor là cây búa Thần Mjolnir có sức mạnh nhất trong vũ trụ
 - Balder
-    -
+    - Balder là con trai của Odin và Frigg
+    -  Nhà của Balder có tên là Breidablik, được làm từ vàng
+    - Balder nằm mơ thấy mình sẽ chết. Frigg đã đi hết thế giới bắt mọi vật phải thề không được hại Balder. Tuy nhiên, Frigg đã bỏ qua loài tầm gửi. Loki biết được đã làm một cái thương bằng tầm gửi là lừa em trai mù của Balder là Hohr ném nó vào anh mình.
+- Tyr
+	- Tyr là con của Odin
+	- Tyr đại diện cho thứ ba trong tuần
+	- Tyr bị mất một bàn tay trong trận chiến với sói Fenrir
+- Vidar
+	- Vidar là con Odin và Grid
+	- Odin bị sói Fenrir nuốt chửng trong sự kiện Ragnarok
+	- Vidar đã giết sói Fenrir để trả thù cho Odin
+	- Vidar là một trong các vị thần sống sót sau sự kiện Ragnarok
+- Njord
+	- Njord là thần biển cả
+	- Njord thuộc dòng tộc Vanir, được Vanir gửi đến Asgard
+	- Njord đã cưới Skadi nhưng không hạnh phúc
+- Bragi
+	- Bragi là con trai của Odin và Gunlod
+- Freyr
+	- Freyr cai quản tộc Elf
+	- Lợn rừng Gullinbursti là thú cưỡi của Freyr
+	- Lợn rừng Gullinbursti có những sợi lông vàng tỏa sáng
+	- Freyr yêu đơn phương Gerd, một người Jotun
+	- Njord đã sai Skirnir đến Jotunheim để ép Gerd cưới Freyr. Gerd nhận lời cưới Freyr nhưng phải đợi 9 ngày
+- Forseti
+	- Forseti con thần Balder
+	- Nhà của Forseti có tên Glitnir, mái của Glitnir làm bằng bạc và cột làm bằng vàng
+- Heimdall
+	- Heimdall là người canh giữ cầu Bifost
+	- Biệt danh của Heimdall là Răng Vàng
+	- Heimdall có thị lực và thính giác tốt, nhìn xa hàng trăm km, nghe tiếng lông cừu mọc.
+	- Heimdall có một con ngựa vàng Gulltopp. Thanh kiếm của Heimdall tên là Hofund. Tù và của Heimdall tên là Gjallahorn
+- Mirmir và Honir
+	- Mirmir và Honir là hai vị thần được Asgard gửi đến Vanaheim.
+	- Mirmir là vị thần thông thái, Mirmir có nghĩa là kẻ khôn ngoan
+	- Mimir bị các Vanir chặt đầu gửi về Asgard.
+	- Odin mang theo đầu Mirmir để nghe những lời thông thái
+	- Mirmir có một chiếc giếng ở trên vùng đất Jotunheim
+	- Odin đã đến giếng Mirmir và đánh đổi một con mắt để lấy sự thông thái.
+- Kvasir
+	- Các Aesir và Vanir đã nhổ nước bọt vào một các vạc tạo ra Kvasir
+
+## Sum
+- [[220122160929 - Odin đại diện cho ngày thứ Tư]]
+- [[220122161004 - Odin sống trong ngôi nhà có tên Valaskialf]]
+- [[220122161104 - Odin ngồi lên ngai vàng Hlidskialf để quan sát cửu giới]]
+- [[220122161211 - Odin là một thần chột mắt]]
+- [[220122161251 - Odin đánh đổi 1 mắt lấy sự thông thái]]
+- [[220122161400 - Odin có khả năng du hành không gian và thời gian]]
+- [[220122161418 - Odin có thể biến thành các loài động vật]]
+- [[220122161438 - Thor là con của Odin và Fjorgyn]]
+- [[220122161537 - Thor đại diện cho thứ Năm]]
+- [[220122161736 - Nhà của Thor rộng nhất Asgard]]
+- [[220122161815 - Búa Mjolnir của Thor là vũ khí cực mạnh]]
+- [[220122161858 - Balder là con của Odin và Frigg]]
+- [[220122162226 - Nhà của Balder có tên Breidablik]]
+- [[220122162423 - Balder bị giết bởi một cây giáo tầm gửi]]
+- [[220122162526 - Tyr là con của Odin]]
+- [[220122162642 - Tyr đại diện cho ngày thứ Ba]]
+- [[220122162740 - Tyr bị cụt bàn tay khi chiến đấu với sói Fenrir]]
+- [[220122162806 - Vidar là con Odin và Grid]]
+- [[220122162906 - Odin bị sói Fenrir nuốt chửng trong sự kiện Ragnarok]]
+- [[220122163008 - Vidar đã giết sói Fenrir để trả thù cho Odin]]
+- [[220122163050 - Vidar sống sót sau Ragnarok]]
+- [[220122163112 - Njord là thần biển cả]]
+- [[220122163150 - Njord thuộc dòng tộc Vanir]]
+- [[220122163306 - Njord cưới Skadi]]
+- [[220122163402 - Bragi là con của Odin và Gunlod]]
+- [[220122120849 - Freyr là thủ lĩnh của Light Elf]]
+- [[220122163556 - Lợn rừng Gullinbursti là thú cưỡi của Freyr]]
+- [[220122163708 - Freyr yêu đơn phương Gerd]]
+- [[220122163802 - Njord đã ép Gerd cưới Freyr]]
+- [[220122163845 - Forseti là con của Balder]]
+- [[220122163940 - Nhà của Forseti có tên Glitnir]]
+- [[220122164005 - Heimdall là thần canh giữ cầu Bifost]]
+- [[220122164047 - Biệt danh của Heimdall là Răng Vàng]]
+- [[220122164119 - Heimdall có thị lực và thính giác cực tốt]]
+- [[220122164234 - Vũ khí của Heimdall]]
+- [[220122164340 - Mirmir là vị thần thông thái]]
+- [[220122164441 - Mirmir bị các Vanir chặt đầu gửi về Asgard]]
+- [[220122164541 - Odin luôn mang theo đầu Mirmir bên mình]]
+- [[220122164619 - Mirmir có một chiếc giếng thần ở vùng đất Jotunheim]]
+- [[220122161251 - Odin đánh đổi 1 mắt lấy sự thông thái]]
+- [[220122164812 - Kvasir được tạo ra từ nước bọt của các Aesir và Vanir]]

@@ -91,7 +91,7 @@ publish: True
 - [[220122 - Vanaheim là vùng đất của Vanir]]
 - [[220122 - Alfheim là nhà của Light Elf]]
 - [[220122 - Light Elf là những vị tiên sinh đẹp]]
-- [[220122 - Freyr là thủ lĩnh của Light Elf]]
+- [[220122120849 - Freyr là thủ lĩnh của Light Elf]]
 - [[220122 - Light Elf cai quản thiên nhiên và sinh sản]]
 - [[220122 - Midgard là vùng đất của người trần]]
 - [[220122 - Midgard nằm giữa thế giới, phía dưới Asgard]]
