@@ -15,7 +15,7 @@ publish: True
 - Enki được gọi là Ea trong thần thoại Akkad và thần thoại Babylon
 - Enki được gắn với [[Chòm sao Pegasus]]
 - Con số 40 là con số thiêng liêng tượng trưng cho Enki
-- Theo [[Enuma Elish]], [[Thần Abzu]] và [[Thần Tiamat]] sáng tạo ra vũ trụ
+- Theo [[Sử thi Enuma Elish]], [[Thần Abzu]] và [[Thần Tiamat]] sáng tạo ra vũ trụ
 - 
 
 

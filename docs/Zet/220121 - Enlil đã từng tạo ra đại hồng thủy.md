@@ -2,7 +2,7 @@
 outgoing_links:
   - Zet/Garden/Thần Enlil
 backlinks:
-  - Zet/220121 - Enki đã báo Atrahasiz đóng tàu thoát khỏi đại hồng thủy
+  - Zet/220121230850 - Enki đã báo Atrahasiz đóng tàu thoát khỏi đại hồng thủy
 title: 220121 - Enlil đã từng tạo ra đại hồng thủy
 UID: 220121230746
 created: 21-Jan-2022

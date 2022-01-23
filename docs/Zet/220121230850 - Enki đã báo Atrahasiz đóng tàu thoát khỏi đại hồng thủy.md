@@ -21,4 +21,5 @@ publish: True
 - [[💥 Enki giống với Đấng Tạo Hóa trong Cựu Ước]]
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
+- [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
 

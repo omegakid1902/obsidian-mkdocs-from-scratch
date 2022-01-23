@@ -1,7 +1,10 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Enki
+  - Zet/220123223752 - Enki tạo ra con người để làm việc thay thần
 backlinks:
+  - Zet/220123223752 - Enki tạo ra con người để làm việc thay thần
+  - Zet/220123224023 - Sự không thống nhất về vị thần tạo ra con người trong thần thoại Lưỡng Hà
   - Zet/Garden/Thần Enki
 title: 220121 - Enki tạo ra loài người
 UID: 220121230516
@@ -17,6 +20,7 @@ publish: True
 
 ## Related:
 - [[💥 Enki giống với Đấng Tạo Hóa trong Cựu Ước]]
+- [[220123223752 - Enki tạo ra con người để làm việc thay thần]]
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 

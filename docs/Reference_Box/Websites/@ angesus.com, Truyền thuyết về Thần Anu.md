@@ -31,7 +31,7 @@ publish: True
 - [[Enkidu]]
 - [[Utnapishtim]]
 ## Permanent:
-- [[220122 - Enki là con của Anu và Nammu]]
+- [[220122095644 - Enki là con của Anu và Nammu]]
 - [[220122232701 - Ninsuna là con của Anu và Uras]]
 - [[220122232853 - Ninsuna là mẹ của Gilgamesh]]
 - [[220122233241 - Sử thi Gilgamesh là tác phẩm nổi tiếng nhất về thần Anu]]

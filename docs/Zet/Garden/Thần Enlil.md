@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/220121 - Enlil thần gió và không khí
 backlinks:
   - Zet/220121 - Enlil chế tạo ra cái cuốc
+  - Zet/220121230850 - Enki đã báo Atrahasiz đóng tàu thoát khỏi đại hồng thủy
   - Zet/220121 - Enlil thần gió và không khí
-  - Zet/220121 - Enki đã báo Atrahasiz đóng tàu thoát khỏi đại hồng thủy
   - Zet/220121 - Enki và Enlil là 2 anh em nhưng tính cách trái ngược
   - Zet/220121 - Enlil đã từng tạo ra đại hồng thủy
   - Zet/220121 - Enlil tách rời trời và đất
