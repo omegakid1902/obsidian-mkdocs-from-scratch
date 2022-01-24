@@ -6,9 +6,9 @@ outgoing_links:
   - Zet/People/Niklas Luhmann
 backlinks:
   - Zet/Zettelkasten
+  - Zet/The Luhmann Notes
   - Zet/Permanent Note
   - Zet/Literature Note
-  - Zet/The Luhmann Notes
 title: Fleeting Note
 created: Oct 21, 2020 10:09 PM 
 tags:

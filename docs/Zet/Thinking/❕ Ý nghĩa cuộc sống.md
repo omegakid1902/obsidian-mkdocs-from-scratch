@@ -3,13 +3,13 @@ outgoing_links:
   - Zet/To be in the world but not of it
   - Zet/Rat race
 backlinks:
-  - Zet/Khủng hoảng hiện sinh
-  - Zet/Ba Chân lý của thông thiên học
+  - Zet/Garden state
+  - Zet/Rat race
   - Zet/Phim hay
   - Zet/Bóng tối linh hồn
-  - Zet/Garden state
   - Zet/Thức tỉnh tâm linh
-  - Zet/Rat race
+  - Zet/Ba Chân lý của thông thiên học
+  - Zet/Khủng hoảng hiện sinh
   - Zet/Thinking/❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người
   - Zet/Thinking/❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith
 title: ❕ Ý nghĩa cuộc sống

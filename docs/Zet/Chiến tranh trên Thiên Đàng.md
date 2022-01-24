@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Lucifer
 backlinks:
-  - Zet/Thiên thần Micael
   - Zet/Lucifer
+  - Zet/Thiên thần Micael
 title: Chiến tranh trên Thiên Đàng
 UID: 210920222905
 created: 20-Sep-2021

@@ -1,5 +1,5 @@
 ---
-title: 220122164234 - Vũ khí của Heimdall
+title: Vũ khí của Heimdall
 UID: 220122164234
 created: 22-Jan-2022
 tags:

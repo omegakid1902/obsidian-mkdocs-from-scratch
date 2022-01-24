@@ -1,5 +1,5 @@
 ---
-title: 220122 - Hreidmar là vua người Dwarf
+title: Hreidmar là vua người Dwarf
 UID: 220122122130
 created: 22-Jan-2022
 tags:

@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/Citation
 backlinks:
   - Zet/Zettelkasten
-  - Zet/Citation
   - Zet/Reference Manager Software
+  - Zet/Citation
 title: Reference Manager
 created: Oct 21, 2020 10:16 PM
 tags:

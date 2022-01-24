@@ -1,5 +1,5 @@
 ---
-title: 220122 - Giếng Hvergelmir thuộc Niflheim
+title: Giếng Hvergelmir thuộc Niflheim
 UID: 220122102617
 created: 22-Jan-2022
 tags:

@@ -1,7 +1,7 @@
 ---
 backlinks:
   - Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất
-title: 220122 - Nidavelli là vùng đất của người Lùn Dwarf
+title: Nidavelli là vùng đất của người Lùn Dwarf
 UID: 220122122049
 created: 22-Jan-2022
 tags:

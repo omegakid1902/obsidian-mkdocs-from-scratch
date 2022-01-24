@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/Garden/Con bò Audhumla
 backlinks:
   - Zet/Garden/Con bò Audhumla
-title: 220122 - Bò Audhumla được sinh ra từ những tảng băng vùng Ginnungagap
+title: Bò Audhumla được sinh ra từ những tảng băng vùng Ginnungagap
 UID: 220122105125
 created: 22-Jan-2022
 tags:

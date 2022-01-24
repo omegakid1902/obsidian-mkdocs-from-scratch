@@ -1,5 +1,5 @@
 ---
-title: 220122161211 - Odin là một thần chột mắt
+title: Odin là một thần chột mắt
 UID: 220122161211
 created: 22-Jan-2022
 tags:

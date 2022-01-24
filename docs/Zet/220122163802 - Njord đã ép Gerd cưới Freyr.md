@@ -1,5 +1,5 @@
 ---
-title: 220122163802 - Njord đã ép Gerd cưới Freyr
+title: Njord đã ép Gerd cưới Freyr
 UID: 220122163802
 created: 22-Jan-2022
 tags:

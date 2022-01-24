@@ -1,5 +1,5 @@
 ---
-title: 220122 - Loài người sống ở Midgard
+title: Loài người sống ở Midgard
 UID: 220122113154
 created: 22-Jan-2022
 tags:

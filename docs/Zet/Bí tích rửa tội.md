@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/People/Adam và Eva
   - Zet/Công Giáo
 backlinks:
-  - Zet/Anabaptist
   - Zet/Tin Lành
+  - Zet/Anabaptist
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Bí tích rửa tội
 UID: 211112000843

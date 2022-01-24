@@ -1,5 +1,5 @@
 ---
-title: 220122163940 - Nhà của Forseti có tên Glitnir
+title: Nhà của Forseti có tên Glitnir
 UID: 220122163940
 created: 22-Jan-2022
 tags:

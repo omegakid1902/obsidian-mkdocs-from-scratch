@@ -1,5 +1,5 @@
 ---
-title: 220122 - Light Elf cai quản thiên nhiên và sinh sản
+title: Light Elf cai quản thiên nhiên và sinh sản
 UID: 220122121542
 created: 22-Jan-2022
 tags:

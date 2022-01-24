@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Lý Thế Dân
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Nhà Võ Chu
+  - Zet/Lịch sử Trung Quốc
 title: Võ Tắc Thiên
 UID: 210828135253
 tags:

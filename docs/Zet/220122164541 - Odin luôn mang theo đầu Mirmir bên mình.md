@@ -1,5 +1,5 @@
 ---
-title: 220122164541 - Odin luôn mang theo đầu Mirmir bên mình
+title: Odin luôn mang theo đầu Mirmir bên mình
 UID: 220122164541
 created: 22-Jan-2022
 tags:

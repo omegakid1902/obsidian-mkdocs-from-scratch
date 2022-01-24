@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Dòng sông băng Elivagar
-title: 220122 - Dòng sông Elivagar khởi nguồn Thế Giới
+title: Dòng sông Elivagar khởi nguồn Thế Giới
 UID: 220122103109
 created: 22-Jan-2022
 tags:

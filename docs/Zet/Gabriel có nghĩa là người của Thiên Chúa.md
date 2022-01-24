@@ -6,8 +6,8 @@ outgoing_links:
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
 backlinks:
   - Zet/Thiên thần Gabriel
-  - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
+  - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
 title: Gabriel có nghĩa là người của Thiên Chúa
 UID: 211112232250
 created: 12-Nov-2021

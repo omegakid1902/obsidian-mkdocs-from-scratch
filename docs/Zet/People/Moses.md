@@ -8,10 +8,10 @@ outgoing_links:
   - Zet/God
   - Zet/Writing/Tiểu sử tiên tri Moses
 backlinks:
-  - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
   - Zet/Moses thuộc chi tộc Levi
   - Zet/Moses nghĩa là được đưa ra khỏi nước
   - Zet/Thiên thần Micael
+  - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
 title: Moses
 UID: 211120203909
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122162226 - Nhà của Balder có tên Breidablik
+title: Nhà của Balder có tên Breidablik
 UID: 220122162226
 created: 22-Jan-2022
 tags:

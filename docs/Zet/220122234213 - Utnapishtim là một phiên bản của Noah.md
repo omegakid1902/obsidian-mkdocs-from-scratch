@@ -1,5 +1,5 @@
 ---
-title: 220122234213 - Utnapishtim là một phiên bản của Noah
+title: Utnapishtim là một phiên bản của Noah
 UID: 220122234213
 created: 22-Jan-2022
 tags:

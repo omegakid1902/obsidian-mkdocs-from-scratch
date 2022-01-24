@@ -6,13 +6,13 @@ outgoing_links:
   - Zet/FBI
   - Zet/Qmap
 backlinks:
-  - Zet/13 gia tộc kiểm soát thế giới loài người
   - Zet/Rothschild nghĩa là dấu hiệu đỏ
+  - Zet/13 gia tộc kiểm soát thế giới loài người
   - Zet/Qmap
-  - Zet/Tháp Mentmore
-  - Zet/Chủ Nghĩa Zion
-  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
   - Zet/FED
+  - Zet/Tháp Mentmore
+  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
+  - Zet/Chủ Nghĩa Zion
   - Zet/Khazars
   - Zet/People/Mayer Amschel Bauer
 title: Gia tộc Rothschild

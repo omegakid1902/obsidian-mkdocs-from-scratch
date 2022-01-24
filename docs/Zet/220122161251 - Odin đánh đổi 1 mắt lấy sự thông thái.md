@@ -1,5 +1,5 @@
 ---
-title: 220122161251 - Odin đánh đổi 1 mắt lấy sự thông thái
+title: Odin đánh đổi 1 mắt lấy sự thông thái
 UID: 220122161251
 created: 22-Jan-2022
 tags:

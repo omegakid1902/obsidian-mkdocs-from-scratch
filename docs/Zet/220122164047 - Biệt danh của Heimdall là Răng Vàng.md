@@ -1,5 +1,5 @@
 ---
-title: 220122164047 - Biệt danh của Heimdall là Răng Vàng
+title: Biệt danh của Heimdall là Răng Vàng
 UID: 220122164047
 created: 22-Jan-2022
 tags:

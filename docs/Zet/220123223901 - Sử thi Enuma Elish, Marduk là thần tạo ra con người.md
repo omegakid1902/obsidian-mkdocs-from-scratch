@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/Garden/Thần Marduk
 backlinks:
   - Zet/220123224023 - Sự không thống nhất về vị thần tạo ra con người trong thần thoại Lưỡng Hà
-title: 220123223901 - Sử thi Enuma Elish, Marduk là thần tạo ra con người
+title: Sử thi Enuma Elish, Marduk là thần tạo ra con người
 UID: 220123223901
 created: 23-Jan-2022
 tags:

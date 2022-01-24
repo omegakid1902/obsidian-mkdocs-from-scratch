@@ -1,5 +1,5 @@
 ---
-title: 220122163050 - Vidar sống sót sau Ragnarok
+title: Vidar sống sót sau Ragnarok
 UID: 220122163050
 created: 22-Jan-2022
 tags:

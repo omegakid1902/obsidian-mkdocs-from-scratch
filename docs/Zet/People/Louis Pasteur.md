@@ -6,17 +6,17 @@ outgoing_links:
   - Zet/People/Edward Jenner
   - Zet/Vaccination
 backlinks:
+  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
+  - Zet/The Terrain Theory
+  - Zet/Định luật Tạo sinh
+  - Zet/Vaccination
+  - Zet/Đại dịch COVID-19
   - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
-  - Zet/Edward Jenner là cha đẻ của phương pháp Vaccination
   - Zet/The Germ theory
-  - Zet/The Terrain Theory
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
-  - Zet/Định luật Tạo sinh
-  - Zet/Đại dịch COVID-19
-  - Zet/Vaccination
-  - Zet/People/Antoine Beauchamp
   - Zet/People/Alexandre Yersin
+  - Zet/People/Antoine Beauchamp
 title: Louis Pasteur
 UID: 211010111029
 tags:

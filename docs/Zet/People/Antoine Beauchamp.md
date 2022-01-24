@@ -2,11 +2,11 @@
 outgoing_links:
   - Zet/People/Louis Pasteur
 backlinks:
-  - Zet/The Germ theory
   - Zet/The Terrain Theory
-  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
-  - Zet/Đại dịch COVID-19
   - Zet/Vaccination
+  - Zet/Đại dịch COVID-19
+  - Zet/The Germ theory
+  - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/People/Louis Pasteur
   - Zet/People/Edward Jenner
 title: Antoine Beauchamp

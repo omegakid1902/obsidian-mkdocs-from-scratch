@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Rudolf Clausius
 backlinks:
-  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/Định luật entropy phủ định quá trình tiến hóa
+  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/People/Rudolf Clausius
 title: Định luật Entropy
 UID: 220114222741

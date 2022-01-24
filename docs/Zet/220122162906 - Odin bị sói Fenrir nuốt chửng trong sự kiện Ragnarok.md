@@ -1,5 +1,5 @@
 ---
-title: 220122162906 - Odin bị sói Fenrir nuốt chửng trong sự kiện Ragnarok
+title: Odin bị sói Fenrir nuốt chửng trong sự kiện Ragnarok
 UID: 220122162906
 created: 22-Jan-2022
 tags:

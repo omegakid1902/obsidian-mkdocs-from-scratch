@@ -1,5 +1,5 @@
 ---
-title: 220122 - Goliath là người khổng lồ Philistines thế kỷ X TCN
+title: Goliath là người khổng lồ Philistines thế kỷ X TCN
 UID: 220122150657
 created: 22-Jan-2022
 tags:

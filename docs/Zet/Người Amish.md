@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Anabaptist
   - Zet/Mennonite
 backlinks:
-  - Zet/Anabaptist
   - Zet/To be in the world but not of it
+  - Zet/Anabaptist
 title: Người Amish
 created: Oct 22, 2020 5:50 AM
 tags:

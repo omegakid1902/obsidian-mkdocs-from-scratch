@@ -1,5 +1,5 @@
 ---
-title: 220122 - Những người lùn Dwarf là những con sâu bò ra từ xác Ymir
+title: Những người lùn Dwarf là những con sâu bò ra từ xác Ymir
 UID: 220122111535
 created: 22-Jan-2022
 tags:

@@ -3,18 +3,18 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/Qmap
 backlinks:
-  - Zet/Một số tên gọi tương ứng với Nguyên thủ quốc gia
-  - Zet/Anh giáo
-  - Zet/Qmap
   - Zet/Black nobility
-  - Zet/Chính thống giáo Đông Phương
   - Zet/Thập Tự Chinh
-  - Zet/Công Giáo
-  - Zet/Cải Cách Kháng Nghị
-  - Zet/Hiệp sĩ Đền Thánh
-  - Zet/Đại ly giáo Đông Tây
   - Zet/Vạ Tuyệt thông
+  - Zet/Công Giáo
+  - Zet/Qmap
+  - Zet/Hiệp sĩ Đền Thánh
+  - Zet/Cải Cách Kháng Nghị
+  - Zet/Đại ly giáo Đông Tây
+  - Zet/Anh giáo
+  - Zet/Một số tên gọi tương ứng với Nguyên thủ quốc gia
   - Zet/Vatican
+  - Zet/Chính thống giáo Đông Phương
 title: Đức Giáo Hoàng
 UID: 210908194255
 created: June 27, 2021 11:28 PM

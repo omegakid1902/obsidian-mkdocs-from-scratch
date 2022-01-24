@@ -1,5 +1,5 @@
 ---
-title: 220122163708 - Freyr yêu đơn phương Gerd
+title: Freyr yêu đơn phương Gerd
 UID: 220122163708
 created: 22-Jan-2022
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122164340 - Mirmir là vị thần thông thái
+title: Mirmir là vị thần thông thái
 UID: 220122164340
 created: 22-Jan-2022
 tags:

@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/People/Thánh Gioan Thánh giá
 backlinks:
-  - Zet/Khủng hoảng hiện sinh
-  - Zet/Bóng tối linh hồn
   - Zet/Thánh Gioan Thánh giá là học trò của Teresa of Avila
+  - Zet/Bóng tối linh hồn
+  - Zet/Khủng hoảng hiện sinh
   - Zet/People/Thánh Gioan Thánh giá
 title: Teresa of Avila
 UID: 211023115409

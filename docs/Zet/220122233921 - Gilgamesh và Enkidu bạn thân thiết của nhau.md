@@ -1,5 +1,5 @@
 ---
-title: 220122233921 - Gilgamesh và Enkidu bạn thân thiết của nhau
+title: Gilgamesh và Enkidu bạn thân thiết của nhau
 UID: 220122233921
 created: 22-Jan-2022
 tags:

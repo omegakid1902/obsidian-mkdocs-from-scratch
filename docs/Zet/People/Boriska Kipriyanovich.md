@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/People/Stephen Hawking
 backlinks:
   - Zet/Thế giới tâm linh
-  - Zet/Lục địa Lemuria
   - Zet/Các nhà tiên tri
+  - Zet/Lục địa Lemuria
 title: Boriska Kipriyanovich
 UID: 211015223547
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122233418 - Sử thi Gilgamesh, 1 phần 3 nhân vật là con người, 2 phần thần
+title: Sử thi Gilgamesh, 1 phần 3 nhân vật là con người, 2 phần thần
 UID: 220122233418
 created: 22-Jan-2022
 tags:

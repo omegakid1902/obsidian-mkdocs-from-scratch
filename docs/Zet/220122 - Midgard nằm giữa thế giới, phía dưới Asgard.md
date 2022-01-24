@@ -1,5 +1,5 @@
 ---
-title: 220122 - Midgard nằm giữa thế giới, phía dưới Asgard
+title: Midgard nằm giữa thế giới, phía dưới Asgard
 UID: 220122121817
 created: 22-Jan-2022
 tags:

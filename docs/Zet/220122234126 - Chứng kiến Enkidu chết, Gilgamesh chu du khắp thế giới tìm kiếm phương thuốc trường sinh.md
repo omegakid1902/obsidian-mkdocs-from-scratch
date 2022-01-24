@@ -1,5 +1,5 @@
 ---
-title: 220122234126 - Chứng kiến Enkidu chết, Gilgamesh chu du khắp thế giới tìm kiếm phương thuốc trường sinh
+title: Chứng kiến Enkidu chết, Gilgamesh chu du khắp thế giới tìm kiếm phương thuốc trường sinh
 UID: 220122234126
 created: 22-Jan-2022
 tags:

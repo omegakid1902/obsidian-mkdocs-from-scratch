@@ -1,5 +1,5 @@
 ---
-title: 220122 - Dark Elf sợ ánh sáng mặt trời
+title: Dark Elf sợ ánh sáng mặt trời
 UID: 220122122728
 created: 22-Jan-2022
 tags:

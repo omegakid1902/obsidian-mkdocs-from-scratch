@@ -1,5 +1,5 @@
 ---
-title: 220122164619 - Mirmir có một chiếc giếng thần ở vùng đất Jotunheim
+title: Mirmir có một chiếc giếng thần ở vùng đất Jotunheim
 UID: 220122164619
 created: 22-Jan-2022
 tags:

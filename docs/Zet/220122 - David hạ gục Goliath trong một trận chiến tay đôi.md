@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/People/Vua David
-title: 220122 - David hạ gục Goliath trong một trận chiến tay đôi
+title: David hạ gục Goliath trong một trận chiến tay đôi
 UID: 220122150742
 created: 22-Jan-2022
 tags:

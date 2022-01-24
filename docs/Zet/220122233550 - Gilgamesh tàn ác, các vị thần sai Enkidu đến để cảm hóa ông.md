@@ -1,5 +1,5 @@
 ---
-title: 220122233550 - Gilgamesh tàn ác, các vị thần sai Enkidu đến để cảm hóa ông
+title: Gilgamesh tàn ác, các vị thần sai Enkidu đến để cảm hóa ông
 UID: 220122233550
 created: 22-Jan-2022
 tags:

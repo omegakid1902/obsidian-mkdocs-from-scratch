@@ -1,5 +1,5 @@
 ---
-title: 220122 - Borr lấy Bestla, một người khổng lồ Jotun
+title: Borr lấy Bestla, một người khổng lồ Jotun
 UID: 220122105848
 created: 22-Jan-2022
 tags:

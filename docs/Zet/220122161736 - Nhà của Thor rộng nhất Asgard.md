@@ -1,5 +1,5 @@
 ---
-title: 220122161736 - Nhà của Thor rộng nhất Asgard
+title: Nhà của Thor rộng nhất Asgard
 UID: 220122161736
 created: 22-Jan-2022
 tags:

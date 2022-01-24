@@ -1,5 +1,5 @@
 ---
-title: 220122234458 - Gilgamesh tìm đến Utnapishtim để hỏi về sự bất tử
+title: Gilgamesh tìm đến Utnapishtim để hỏi về sự bất tử
 UID: 220122234458
 created: 22-Jan-2022
 tags:

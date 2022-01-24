@@ -1,5 +1,5 @@
 ---
-title: 220122234320 - Utnapishtim được ban cho sự trường sinh sau Đại hồng thủy
+title: Utnapishtim được ban cho sự trường sinh sau Đại hồng thủy
 UID: 220122234320
 created: 22-Jan-2022
 tags:

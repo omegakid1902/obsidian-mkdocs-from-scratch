@@ -1,5 +1,5 @@
 ---
-title: 220122 - Những giọt mồ hôi và cặp chân của Ymir tạo ra 3 người khổng lồ
+title: Những giọt mồ hôi và cặp chân của Ymir tạo ra 3 người khổng lồ
 UID: 220122104539
 created: 22-Jan-2022
 tags:

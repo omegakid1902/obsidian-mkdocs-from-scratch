@@ -1,5 +1,5 @@
 ---
-title: 220122 - Odin xây Asgard trên vùng Idavoll
+title: Odin xây Asgard trên vùng Idavoll
 UID: 220122111419
 created: 22-Jan-2022
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122160929 - Odin đại diện cho ngày thứ Tư
+title: Odin đại diện cho ngày thứ Tư
 UID: 220122160929
 created: 22-Jan-2022
 tags:

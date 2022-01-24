@@ -1,5 +1,5 @@
 ---
-title: 220122164119 - Heimdall có thị lực và thính giác cực tốt
+title: Heimdall có thị lực và thính giác cực tốt
 UID: 220122164119
 created: 22-Jan-2022
 tags:

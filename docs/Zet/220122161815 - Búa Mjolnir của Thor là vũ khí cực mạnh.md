@@ -1,5 +1,5 @@
 ---
-title: 220122161815 - Búa của Thor là vũ khí cực mạnh
+title: Búa của Thor là vũ khí cực mạnh
 UID: 220122161815
 created: 22-Jan-2022
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122161858 - Balder là con của Odin và Frigg
+title: Balder là con của Odin và Frigg
 UID: 220122161858
 created: 22-Jan-2022
 tags:

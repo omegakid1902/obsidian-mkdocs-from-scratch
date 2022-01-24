@@ -1,5 +1,5 @@
 ---
-title: 220122 - Ymir sinh ra những người Jotun
+title: Ymir sinh ra những người Jotun
 UID: 220122150230
 created: 22-Jan-2022
 tags:

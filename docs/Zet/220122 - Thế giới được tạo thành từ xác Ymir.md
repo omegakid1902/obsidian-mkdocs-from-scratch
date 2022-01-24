@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/220122 - Ba anh em Odin giết Ymir, tàn sát người Jotun
 backlinks:
   - Zet/220122 - Ba anh em Odin dùng xác Ymir xây dựng thế giới
-title: 220122 - Thế giới được tạo thành từ xác Ymir
+title: Thế giới được tạo thành từ xác Ymir
 UID: 220122111015
 created: 22-Jan-2022
 tags:

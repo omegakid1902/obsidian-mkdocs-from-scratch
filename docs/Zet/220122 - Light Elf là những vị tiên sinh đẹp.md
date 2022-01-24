@@ -1,5 +1,5 @@
 ---
-title: 220122 - Light Elf là những vị tiên sinh đẹp
+title: Light Elf là những vị tiên sinh đẹp
 UID: 220122120814
 created: 22-Jan-2022
 tags:

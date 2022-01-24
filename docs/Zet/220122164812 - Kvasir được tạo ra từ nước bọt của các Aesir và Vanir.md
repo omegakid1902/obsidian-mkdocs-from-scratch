@@ -1,5 +1,5 @@
 ---
-title: 220122164812 - Kvasir được tạo ra từ nước bọt của các Aesir và Vanir
+title: Kvasir được tạo ra từ nước bọt của các Aesir và Vanir
 UID: 220122164812
 created: 22-Jan-2022
 tags:

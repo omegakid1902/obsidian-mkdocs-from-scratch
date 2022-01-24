@@ -1,5 +1,5 @@
 ---
-title: 220122164441 - Mirmir bị các Vanir chặt đầu gửi về Asgard
+title: Mirmir bị các Vanir chặt đầu gửi về Asgard
 UID: 220122164441
 created: 22-Jan-2022
 tags:

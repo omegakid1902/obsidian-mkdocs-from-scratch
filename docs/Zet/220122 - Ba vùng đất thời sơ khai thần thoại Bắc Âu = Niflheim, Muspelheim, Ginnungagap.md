@@ -5,7 +5,7 @@ outgoing_links:
   - Zet/220122 - Ginnungagap là vùng đất hư vô ở trung tâm
 backlinks:
   - Zet/220122 - Niflheim là vùng đất sương mù băng giá
-title: 220122 - Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap
+title: Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap
 UID: 220122101707
 created: 22-Jan-2022
 tags:

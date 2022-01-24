@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/People/Nicola Tesla
   - Zet/Lịch sử trái đất theo Sal Rachele
 backlinks:
-  - Zet/Thế giới Etheric
   - Zet/Thế giới Astra
+  - Zet/Thế giới Etheric
 title: Tần số rung động
 UID: 211019234804
 created: 19-Oct-2021

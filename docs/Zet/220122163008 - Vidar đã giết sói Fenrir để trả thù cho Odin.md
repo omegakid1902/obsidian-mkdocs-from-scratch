@@ -1,5 +1,5 @@
 ---
-title: 220122163008 - Vidar đã giết sói Fenrir để trả thù cho Odin
+title: Vidar đã giết sói Fenrir để trả thù cho Odin
 UID: 220122163008
 created: 22-Jan-2022
 tags:

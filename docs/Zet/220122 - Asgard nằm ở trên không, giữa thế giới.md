@@ -1,5 +1,5 @@
 ---
-title: 220122 - Asgard nằm ở trên không, giữa thế giới
+title: Asgard nằm ở trên không, giữa thế giới
 UID: 220122115642
 created: 22-Jan-2022
 tags:

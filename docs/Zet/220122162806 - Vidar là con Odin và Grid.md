@@ -1,5 +1,5 @@
 ---
-title: 220122162806 - Vidar là con Odin và Grid
+title: Vidar là con Odin và Grid
 UID: 220122162806
 created: 22-Jan-2022
 tags:

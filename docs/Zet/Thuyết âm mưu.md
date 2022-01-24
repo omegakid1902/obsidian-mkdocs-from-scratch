@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/Hồi Giáo
   - Zet/QAnon
-  - Zet/Lịch Gregorian
+  - Zet/Hồi Giáo
   - Zet/Vril
+  - Zet/Lịch Gregorian
   - Zet/Build back better
   - Zet/Khazars
   - Zet/People/Alberto Rivera

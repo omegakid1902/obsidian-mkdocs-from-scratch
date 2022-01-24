@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Cầu Bifost
-title: 220123231004 - Cầu Bifrost là con đường duy nhất để vào Asgard
+title: Cầu Bifrost là con đường duy nhất để vào Asgard
 UID: 220123231004
 created: 23-Jan-2022
 tags:

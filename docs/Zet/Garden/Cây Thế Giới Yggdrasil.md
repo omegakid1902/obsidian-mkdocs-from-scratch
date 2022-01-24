@@ -13,6 +13,7 @@ tags:
 aliases:
   - Cây Yggdrasil
   - Cây Thế Giới
+  - Yggdrasil
 publish: True
 ---
 # Cây Thế Giới Yggdrasil

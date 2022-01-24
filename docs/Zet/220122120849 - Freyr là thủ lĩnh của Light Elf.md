@@ -1,5 +1,5 @@
 ---
-title: 220122120849 - Freyr là thủ lĩnh của Light Elf
+title: Freyr là thủ lĩnh của Light Elf
 UID: 220122120849
 created: 22-Jan-2022
 tags:

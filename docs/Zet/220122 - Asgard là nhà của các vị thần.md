@@ -1,7 +1,7 @@
 ---
 backlinks:
   - Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất
-title: 220122 - Asgard là nhà của các vị thần
+title: Asgard là nhà của các vị thần
 UID: 220122115934
 created: 22-Jan-2022
 tags:

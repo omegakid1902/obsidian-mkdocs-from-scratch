@@ -4,7 +4,7 @@ outgoing_links:
   - Zet/220121230516 - Enki tạo ra loài người
 backlinks:
   - Zet/220121230516 - Enki tạo ra loài người
-title: 220123223752 - Enki tạo ra con người để làm việc thay thần
+title: Enki tạo ra con người để làm việc thay thần
 UID: 220123223752
 created: 23-Jan-2022
 tags:

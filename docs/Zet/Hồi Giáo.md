@@ -8,13 +8,13 @@ outgoing_links:
   - Zet/Kinh Koran
   - Zet/Thuyết âm mưu
 backlinks:
-  - Zet/Qmap
   - Zet/Người Do Thái Sephardi
   - Zet/Religion
-  - Zet/Kinh Koran
+  - Zet/Qmap
   - Zet/God
-  - Zet/People/Thánh Anna
+  - Zet/Kinh Koran
   - Zet/People/Alberto Rivera
+  - Zet/People/Thánh Anna
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Hồi Giáo
 UID: 201225213853

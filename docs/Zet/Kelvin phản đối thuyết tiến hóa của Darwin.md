@@ -8,8 +8,8 @@ outgoing_links:
   - Zet/People/Louis Pasteur
   - Zet/Định luật Entropy
 backlinks:
-  - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Thuyết tiến hóa
+  - Zet/Các lập luận phủ định thuyết tiến hóa
 title: Kelvin phản đối thuyết tiến hóa của Darwin
 UID: 220112231726
 created: 12-Jan-2022

@@ -13,8 +13,8 @@ outgoing_links:
   - Zet/People/Abhigya Anand
   - Zet/People/Boriska Kipriyanovich
 backlinks:
-  - Zet/Thế giới Etheric
   - Zet/Thế giới Astra
+  - Zet/Thế giới Etheric
 title: Thế giới tâm linh
 UID: 211017225815
 created: 17-Oct-2021

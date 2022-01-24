@@ -1,5 +1,5 @@
 ---
-title: 220122 - Cyclops giỏi chế tạo vũ khí
+title: Cyclops giỏi chế tạo vũ khí
 UID: 220122144630
 created: 22-Jan-2022
 tags:

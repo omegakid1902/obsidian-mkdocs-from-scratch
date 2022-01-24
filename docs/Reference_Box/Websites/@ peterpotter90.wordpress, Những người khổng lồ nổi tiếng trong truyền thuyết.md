@@ -41,7 +41,7 @@ publish: True
 - [[220122 - Bigfoot là loài vượn người khổng lồ lông đen xám]]
 - [[220122 - Yeti là người tuyết khổng lồ lông trắng ở Himalaya]]
 - [[220122 - Jotun là giống người khổng lồ băng trong thần thoại Bắc Âu]]
-- [[220122 - Ymir sinh ra những người Jotun]]
+- [[220122150230 - Ymir sinh ra những người Jotun]]
 - [[220122 - Ba anh em Odin là những vị thần Aesir thời đầu]]
 - [[220122 - Dòng dõi Jotun mang mối thù với Aesir]]
 - [[220122 - Goliath là người khổng lồ Philistines thế kỷ X TCN]]

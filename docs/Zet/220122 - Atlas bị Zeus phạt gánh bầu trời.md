@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/220122 - Atlas thuộc phe Titan đối đầu với Olympus
-title: 220122 - Atlas bị Zeus phạt gánh bầu trời
+title: Atlas bị Zeus phạt gánh bầu trời
 UID: 220122145218
 created: 22-Jan-2022
 tags:

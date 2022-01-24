@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/Garden/Cây Thế Giới Yggdrasil
 backlinks:
   - Zet/Garden/Cây Thế Giới Yggdrasil
-title: 220122 - Cây Yggdrasil lấy nước từ giếng Hvergelmir
+title: Cây Yggdrasil lấy nước từ giếng Hvergelmir
 UID: 220122115125
 created: 22-Jan-2022
 tags:

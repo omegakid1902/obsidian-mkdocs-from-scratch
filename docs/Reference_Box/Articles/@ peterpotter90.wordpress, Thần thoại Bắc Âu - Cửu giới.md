@@ -81,7 +81,7 @@ publish: True
 - [[220122 - Người khổng lồ Surt cai trị Muspelheim]]
 - [[220122 - Surt là kẻ thù của các vị thần Asgard]]
 - [[220122 - Asgard nằm ở trên không, giữa thế giới]]
-- [[220122 - Odin cai quản Asgard]]
+- [[220122115802 - Odin cai quản Asgard]]
 - [[220122 - Asgard là nhà của các vị thần]]
 - [[220122 - Aesir là tên gọi các nam thần Bắc Âu]]
 - [[220122 - Asynjur là tên gọi các nữ thần Bắc Âu]]

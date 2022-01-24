@@ -8,20 +8,20 @@ outgoing_links:
   - Zet/People/Lý Huệ Tông
   - Zet/Trần Thủ Độ là em họ Linh Từ Quốc Mẫu
 backlinks:
+  - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Trần
   - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
   - Zet/Trần Thủ Độ bức chết Lý Huệ Tông
-  - Zet/Lịch Sử Việt Nam
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
-  - Zet/Quan hệ huyết thống nhà Trần - Lý
   - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
-  - Zet/Nhà Trần
   - Zet/Trần Thủ Độ là em họ Linh Từ Quốc Mẫu
-  - Zet/People/Lý Chiêu Hoàng
+  - Zet/Quan hệ huyết thống nhà Trần - Lý
+  - Zet/People/Trần Thủ Huy
   - Zet/People/Trần Cảnh
   - Zet/People/Trần Liễu
-  - Zet/People/Thuận Thiên công chúa
-  - Zet/People/Trần Thủ Huy
+  - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Linh Từ Quốc mẫu
+  - Zet/People/Thuận Thiên công chúa
 title: Trần Thủ Độ
 UID: 2107090001
 tags:

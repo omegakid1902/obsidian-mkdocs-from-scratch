@@ -6,34 +6,34 @@ outgoing_links:
   - Zet/Chính thống giáo Đông Phương
   - Zet/Hồi Giáo
 backlinks:
-  - Zet/Hồi Giáo
-  - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
-  - Zet/Người Do Thái
-  - Zet/Gabriel có nghĩa là người của Thiên Chúa
   - Zet/Cựu Ước
-  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
+  - Zet/Kỷ nguyên Bảo Bình
+  - Zet/Vạ Tuyệt thông
+  - Zet/Hồi Giáo
+  - Zet/Vườn địa đàng
   - Zet/Micael không phải tổng lãnh thiên thần
   - Zet/Xung đột Israel - Palestine
-  - Zet/Do Thái Giáo
-  - Zet/Vườn địa đàng
-  - Zet/cosmos
-  - Zet/Gioan Thánh giá gọi Chúa là nada
-  - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
-  - Zet/Thiên thần Micael
-  - Zet/Kỷ nguyên Bảo Bình
-  - Zet/Phù thủy trung cổ
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
-  - Zet/Vạ Tuyệt thông
+  - Zet/Gabriel có nghĩa là người của Thiên Chúa
+  - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
   - Zet/The Hammer of Witches
-  - Zet/People/Thánh Phaolo
-  - Zet/People/Abraham
+  - Zet/Gioan Thánh giá gọi Chúa là nada
+  - Zet/Do Thái Giáo
+  - Zet/Phù thủy trung cổ
+  - Zet/cosmos
+  - Zet/Người Do Thái
+  - Zet/Thiên thần Micael
+  - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
+  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
   - Zet/People/Đức Jesus
+  - Zet/People/Adam và Eva
   - Zet/People/Moses
   - Zet/People/Thánh Justino
-  - Zet/People/Adam và Eva
-  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
+  - Zet/People/Abraham
+  - Zet/People/Thánh Phaolo
+  - Zet/Thinking/❕ 220122113409 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
   - Zet/Thinking/Tóm tắt sách Sáng Thế
-  - Zet/Thinking/❕ 220122 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
+  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: God
 UID: 211107214433
 created: 07-Nov-2021

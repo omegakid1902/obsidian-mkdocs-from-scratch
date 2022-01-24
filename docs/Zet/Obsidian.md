@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Backlink
 backlinks:
   - Zet/Zettelkasten
-  - Zet/LYT framework
-  - Zet/Obsidian Publish
   - Zet/Backlink Graph View
+  - Zet/Obsidian Publish
+  - Zet/LYT framework
   - Zet/Phần mềm Notion
   - Zet/Writing/Tóm tắt sách - How to take smart notes
 title: Obsidian

@@ -1,5 +1,5 @@
 ---
-title: 220122161004 - Odin sống trong ngôi nhà có tên Valaskialf
+title: Odin sống trong ngôi nhà có tên Valaskialf
 UID: 220122161004
 created: 22-Jan-2022
 tags:

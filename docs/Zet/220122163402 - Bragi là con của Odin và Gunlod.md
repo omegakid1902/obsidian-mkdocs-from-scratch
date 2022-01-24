@@ -1,5 +1,5 @@
 ---
-title: 220122163402 - Bragi là con của Odin và Gunlod
+title: Bragi là con của Odin và Gunlod
 UID: 220122163402
 created: 22-Jan-2022
 tags:

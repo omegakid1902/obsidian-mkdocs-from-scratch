@@ -1,5 +1,5 @@
 ---
-title: 220122 - Dwarf có tài chế tạo vũ khí
+title: Dwarf có tài chế tạo vũ khí
 UID: 220122112237
 created: 22-Jan-2022
 tags:

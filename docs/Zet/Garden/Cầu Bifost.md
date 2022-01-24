@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220122 - Cầu Bifost nối Midgard và Asgard
 backlinks:
-  - Zet/220123231004 - Cầu Bifrost là con đường duy nhất để vào Asgard
   - Zet/220122 - Cầu Bifost nối Midgard và Asgard
+  - Zet/220123231004 - Cầu Bifrost là con đường duy nhất để vào Asgard
   - Zet/220122164005 - Heimdall là thần canh giữ cầu Bifost
 title: Cầu Bifost
 UID: 220122121955

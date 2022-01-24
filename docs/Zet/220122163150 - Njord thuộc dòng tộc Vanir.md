@@ -1,5 +1,5 @@
 ---
-title: 220122163150 - Njord thuộc dòng tộc Vanir
+title: Njord thuộc dòng tộc Vanir
 UID: 220122163150
 created: 22-Jan-2022
 tags:

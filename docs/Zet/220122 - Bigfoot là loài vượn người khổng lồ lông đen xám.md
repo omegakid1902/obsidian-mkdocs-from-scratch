@@ -1,5 +1,5 @@
 ---
-title: 220122 - Bigfoot là loài vượn người khổng lồ lông đen xám
+title: Bigfoot là loài vượn người khổng lồ lông đen xám
 UID: 220122145854
 created: 22-Jan-2022
 tags:

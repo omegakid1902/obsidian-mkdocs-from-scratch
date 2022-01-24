@@ -1,7 +1,8 @@
 ---
 outgoing_links:
   - Zet/Garden/Dòng sông băng Elivagar
-title: 220122 - Dòng sông Elivagar bắt nguồn từ giếng Hvergelmir
+  - Zet/220124231008 - 11 dòng sông bắt nguồn từ Hvergelmir được gọi là Elivagar
+title: Dòng sông Elivagar bắt nguồn từ giếng Hvergelmir
 UID: 220122103002
 created: 22-Jan-2022
 tags:
@@ -15,6 +16,8 @@ publish: True
 
 [[Dòng sông băng Elivagar]] bắt nguồn từ [[Giếng Hvergelmir]]
 
+## Related:
+- Lưu ý, Elivagar là tên gọi chung của 11 dòng sông: [[220124231008 - 11 dòng sông bắt nguồn từ Hvergelmir được gọi là Elivagar|220124231008]]
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
 

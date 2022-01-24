@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/People/John Pierpont Morgan
 backlinks:
+  - Zet/Hội tam điểm
   - Zet/Các đời tổng thống Hoa Kỳ
   - Zet/Eugenics
-  - Zet/Hội tam điểm
   - Zet/People/John Pierpont Morgan
 title: Theodore Roosevelt
 UID: 211120154713

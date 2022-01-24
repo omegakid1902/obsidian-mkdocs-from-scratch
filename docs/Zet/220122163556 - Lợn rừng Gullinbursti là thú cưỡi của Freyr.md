@@ -1,5 +1,5 @@
 ---
-title: 220122163556 - Lợn rừng Gullinbursti là thú cưỡi của Freyr
+title: Lợn rừng Gullinbursti là thú cưỡi của Freyr
 UID: 220122163556
 created: 22-Jan-2022
 tags:

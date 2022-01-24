@@ -1,5 +1,5 @@
 ---
-title: 220122162642 - Tyr đại diện cho ngày thứ Ba
+title: Tyr đại diện cho ngày thứ Ba
 UID: 220122162642
 created: 22-Jan-2022
 tags:

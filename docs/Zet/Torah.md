@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Năm sách trong Ngũ Kinh Cựu Ước
 backlinks:
   - Zet/Xung đột Israel - Palestine
-  - Zet/Do Thái Giáo
   - Zet/Ngũ Kinh Cựu Ước
+  - Zet/Do Thái Giáo
   - Zet/Thời gian dịch các sách trong Bản bảy mươi
   - Zet/People/Moses
 title: Torah

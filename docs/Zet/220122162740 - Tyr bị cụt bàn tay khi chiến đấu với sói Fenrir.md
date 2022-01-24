@@ -1,5 +1,5 @@
 ---
-title: 220122162740 - Tyr bị cụt bàn tay khi chiến đấu với sói Fenrir
+title: Tyr bị cụt bàn tay khi chiến đấu với sói Fenrir
 UID: 220122162740
 created: 22-Jan-2022
 tags:

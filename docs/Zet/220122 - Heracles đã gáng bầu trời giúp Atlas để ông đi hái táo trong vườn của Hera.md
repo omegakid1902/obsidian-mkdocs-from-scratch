@@ -1,5 +1,5 @@
 ---
-title: 220122 - Heracles đã gáng bầu trời giúp Atlas để ông đi hái táo trong vườn của Hera
+title: Heracles đã gáng bầu trời giúp Atlas để ông đi hái táo trong vườn của Hera
 UID: 220122145735
 created: 22-Jan-2022
 tags:

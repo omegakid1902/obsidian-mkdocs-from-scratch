@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/220122 - Vị thần đầu tiên thần thoại Bắc Âu là Buri
 backlinks:
-  - Zet/220122 - Vị thần đầu tiên thần thoại Bắc Âu là Buri
-  - Zet/220122 - Bor là con trai Buri
   - Zet/220122 - Buri được sinh ra từ một tảng đá
+  - Zet/220122 - Bor là con trai Buri
+  - Zet/220122 - Vị thần đầu tiên thần thoại Bắc Âu là Buri
 title: Thần Buri
 UID: 220122105310
 created: 22-Jan-2022

@@ -5,7 +5,7 @@ outgoing_links:
   - Zet/220122 - Ba anh em Odin dùng xác Ymir xây dựng thế giới
 backlinks:
   - Zet/220122 - Ba anh em Odin tạo ra loài người
-title: ❕ 220122 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
+title: ❕ Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
 UID: 220122113409
 created: 22-Jan-2022
 tags:

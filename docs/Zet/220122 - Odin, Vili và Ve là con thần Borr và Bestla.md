@@ -1,5 +1,5 @@
 ---
-title: 220122 - Odin, Vili và Ve là con thần Borr và Bestla
+title: Odin, Vili và Ve là con thần Borr và Bestla
 UID: 220122110002
 created: 22-Jan-2022
 tags:

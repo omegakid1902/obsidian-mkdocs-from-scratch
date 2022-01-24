@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/220122 - Bốn người Lùn Dwarf được Odin giao nhiệm vụ đỡ bầu trời
-title: 220122 - Dwarf sống ở vùng Nidavellir
+title: Dwarf sống ở vùng Nidavellir
 UID: 220122112110
 created: 22-Jan-2022
 tags:

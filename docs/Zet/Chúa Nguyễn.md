@@ -8,9 +8,9 @@ outgoing_links:
   - Zet/Nguyễn Ánh
   - Zet/Nhà Nguyễn
 backlinks:
-  - Zet/Nhà Tây Sơn
-  - Zet/Nhà Nguyễn
   - Zet/Nguyễn Ánh
+  - Zet/Nhà Nguyễn
+  - Zet/Nhà Tây Sơn
   - Zet/People/Nguyễn Hoàng
 title: Chúa Nguyễn
 UID: 2107140826

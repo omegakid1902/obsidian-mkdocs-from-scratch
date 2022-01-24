@@ -1,5 +1,5 @@
 ---
-title: 220122161438 - Thor là con của Odin và Fjorgyn
+title: Thor là con của Odin và Fjorgyn
 UID: 220122161438
 created: 22-Jan-2022
 tags:

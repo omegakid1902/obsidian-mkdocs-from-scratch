@@ -1,5 +1,5 @@
 ---
-title: 220122232853 - Ninsuna là mẹ của Gilgamesh
+title: Ninsuna là mẹ của Gilgamesh
 UID: 220122232853
 created: 22-Jan-2022
 tags:

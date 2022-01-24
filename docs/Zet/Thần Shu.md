@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Ai Cập Cổ Đại
   - Zet/Bộ chín vĩ đại của Heliopolis
 backlinks:
+  - Zet/Bộ chín vĩ đại của Heliopolis
   - Zet/Thần Ra có hai người con là Shu và Tefnut
   - Zet/Thần Ra
-  - Zet/Bộ chín vĩ đại của Heliopolis
 title: Thần Shu
 UID: 211119232855
 created: 19-Nov-2021

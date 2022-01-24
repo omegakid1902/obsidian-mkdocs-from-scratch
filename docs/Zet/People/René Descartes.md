@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Descartes theo học trường dòng Tên
 backlinks:
-  - Zet/Phong trào khai sáng
   - Zet/Descartes theo học trường dòng Tên
+  - Zet/Phong trào khai sáng
 title: René Descartes
 UID: 211113155758
 tags:

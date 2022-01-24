@@ -4,7 +4,7 @@ outgoing_links:
   - Zet/Thinking/❕ 220123225317 - Enki tạo ra sự kiện Babel chăng
 backlinks:
   - Zet/Thinking/❕ 220123225317 - Enki tạo ra sự kiện Babel chăng
-title: 220123225021 - Enki tạo nhiều thứ tiếng khiến con người bất đồng ngôn ngữ
+title: Enki tạo nhiều thứ tiếng khiến con người bất đồng ngôn ngữ
 UID: 220123225021
 created: 23-Jan-2022
 tags:

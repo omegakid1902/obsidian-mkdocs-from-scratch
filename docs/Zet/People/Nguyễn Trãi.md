@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
-  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
   - Zet/Lịch Sử Việt Nam
   - Zet/Vụ án Lệ Chi Viên
+  - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
+  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
   - Zet/Phim Thiên mệnh anh hùng
   - Zet/People/Nguyễn Anh Vũ
 title: Nguyễn Trãi

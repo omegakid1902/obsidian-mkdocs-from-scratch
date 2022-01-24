@@ -1,5 +1,5 @@
 ---
-title: 220122161418 - Odin có thể biến thành các loài động vật
+title: Odin có thể biến thành các loài động vật
 UID: 220122161418
 created: 22-Jan-2022
 tags:

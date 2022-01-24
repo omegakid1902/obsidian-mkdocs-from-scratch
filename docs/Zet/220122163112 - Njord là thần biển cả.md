@@ -1,5 +1,5 @@
 ---
-title: 220122163112 - Njord là thần biển cả
+title: Njord là thần biển cả
 UID: 220122163112
 created: 22-Jan-2022
 tags:

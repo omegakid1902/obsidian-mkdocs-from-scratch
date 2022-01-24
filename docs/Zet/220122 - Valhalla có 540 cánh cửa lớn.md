@@ -1,5 +1,5 @@
 ---
-title: 220122 - Valhalla có 540 cánh cửa lớn
+title: Valhalla có 540 cánh cửa lớn
 UID: 220122120410
 created: 22-Jan-2022
 tags:

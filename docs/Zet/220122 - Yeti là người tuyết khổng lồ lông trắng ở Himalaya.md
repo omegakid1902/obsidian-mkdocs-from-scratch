@@ -1,5 +1,5 @@
 ---
-title: 220122 - Yeti là người tuyết khổng lồ lông trắng ở Himalaya
+title: Yeti là người tuyết khổng lồ lông trắng ở Himalaya
 UID: 220122145942
 created: 22-Jan-2022
 tags:

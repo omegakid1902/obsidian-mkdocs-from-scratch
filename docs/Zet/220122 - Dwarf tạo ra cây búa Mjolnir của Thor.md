@@ -1,5 +1,5 @@
 ---
-title: 220122 - Dwarf tạo ra cây búa Mjolnir của Thor
+title: Dwarf tạo ra cây búa Mjolnir của Thor
 UID: 220122112337
 created: 22-Jan-2022
 tags:

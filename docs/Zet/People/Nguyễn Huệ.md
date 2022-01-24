@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Nhà Tây Sơn
   - Zet/Nguyễn Ánh
 backlinks:
-  - Zet/Nhà Tây Sơn
   - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Tây Sơn
 title: Nguyễn Huệ
 UID: P-210716-2212
 tags:

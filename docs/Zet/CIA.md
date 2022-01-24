@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/John F. Kennedy và Chiến tranh Việt Nam
   - Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
+  - Zet/John F. Kennedy và Chiến tranh Việt Nam
 title: CIA
 UID: 211119225910
 created: 19-Nov-2021

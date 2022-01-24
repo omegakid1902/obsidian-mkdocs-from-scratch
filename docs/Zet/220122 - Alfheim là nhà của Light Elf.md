@@ -1,7 +1,7 @@
 ---
 backlinks:
   - Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất
-title: 220122 - Alfheim là nhà của Light Elf
+title: Alfheim là nhà của Light Elf
 UID: 220122120707
 created: 22-Jan-2022
 tags:

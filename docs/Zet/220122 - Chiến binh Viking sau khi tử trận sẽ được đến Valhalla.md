@@ -1,5 +1,5 @@
 ---
-title: 220122 - Chiến binh Viking sau khi tử trận sẽ được đến Valhalla
+title: Chiến binh Viking sau khi tử trận sẽ được đến Valhalla
 UID: 220122120611
 created: 22-Jan-2022
 tags:

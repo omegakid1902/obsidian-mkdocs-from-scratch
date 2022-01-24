@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Người Do Thái Sephardi
 backlinks:
-  - Zet/Người Do Thái
-  - Zet/Do Thái Giáo
   - Zet/Lịch Sử Do Thái
+  - Zet/Do Thái Giáo
+  - Zet/Người Do Thái
 title: Người Do Thái Mizrahi
 created: Jun 19, 2021 9:02 AM
 tags:

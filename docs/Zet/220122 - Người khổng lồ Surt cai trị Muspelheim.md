@@ -1,5 +1,5 @@
 ---
-title: 220122 - Người khổng lồ Surt cai trị Muspelheim
+title: Người khổng lồ Surt cai trị Muspelheim
 UID: 220122115454
 created: 22-Jan-2022
 tags:

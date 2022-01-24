@@ -1,5 +1,5 @@
 ---
-title: 220122161400 - Odin có khả năng du hành không gian và thời gian
+title: Odin có khả năng du hành không gian và thời gian
 UID: 220122161400
 created: 22-Jan-2022
 tags:

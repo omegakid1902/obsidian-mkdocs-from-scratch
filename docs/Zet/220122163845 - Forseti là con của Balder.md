@@ -1,5 +1,5 @@
 ---
-title: 220122163845 - Forseti là con của Balder
+title: Forseti là con của Balder
 UID: 220122163845
 created: 22-Jan-2022
 tags:

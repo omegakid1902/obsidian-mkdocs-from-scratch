@@ -1,5 +1,5 @@
 ---
-title: 220122161537 - Thor đại diện cho thứ Năm
+title: Thor đại diện cho thứ Năm
 UID: 220122161537
 created: 22-Jan-2022
 tags:

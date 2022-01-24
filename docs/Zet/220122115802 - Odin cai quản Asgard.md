@@ -1,5 +1,5 @@
 ---
-title: 220122 - Odin cai quản Asgard
+title: Odin cai quản Asgard
 UID: 220122115802
 created: 22-Jan-2022
 tags:

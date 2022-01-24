@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220122 - Thế giới được tạo thành từ xác Ymir
 backlinks:
-  - Zet/Thinking/❕ 220122 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
-title: 220122 - Ba anh em Odin dùng xác Ymir xây dựng thế giới
+  - Zet/Thinking/❕ 220122113409 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
+title: Ba anh em Odin dùng xác Ymir xây dựng thế giới
 UID: 220122113844
 created: 22-Jan-2022
 tags:

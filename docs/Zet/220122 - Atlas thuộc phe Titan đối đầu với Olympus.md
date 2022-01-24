@@ -2,7 +2,7 @@
 backlinks:
   - Zet/220122 - Atlas bị Zeus phạt gánh bầu trời
   - Zet/220122 - Zues giam các Titan trong Tartarus
-title: 220122 - Atlas thuộc phe Titan đối đầu với Olympus
+title: Atlas thuộc phe Titan đối đầu với Olympus
 UID: 220122144855
 created: 22-Jan-2022
 tags:

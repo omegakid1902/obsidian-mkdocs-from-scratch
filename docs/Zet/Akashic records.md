@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/People/Nicola Tesla
   - Zet/Thông thiên học
 backlinks:
-  - Zet/Qmap
   - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
+  - Zet/Qmap
   - Zet/People/Helena Blavatsky
 title: Akashic records
 UID: 211012230027

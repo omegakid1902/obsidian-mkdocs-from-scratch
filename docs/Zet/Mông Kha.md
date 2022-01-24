@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Đại Hãn
 backlinks:
+  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/Các Đại Hãn Mông Cổ
   - Zet/Mông Kha là cháu nội Thành Cát Tư Hãn
-  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
 title: Mông Kha
 UID: 210817205138
 tags:

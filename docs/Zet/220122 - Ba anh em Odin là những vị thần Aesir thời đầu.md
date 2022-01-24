@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/220122 - Aesir là tên gọi các nam thần Bắc Âu
 backlinks:
   - Zet/220122 - Dòng dõi Jotun mang mối thù với Aesir
-title: 220122 - Ba anh em Odin là những vị thần Aesir thời đầu
+title: Ba anh em Odin là những vị thần Aesir thời đầu
 UID: 220122150317
 created: 22-Jan-2022
 tags:

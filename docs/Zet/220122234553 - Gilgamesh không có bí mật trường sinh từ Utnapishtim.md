@@ -1,5 +1,5 @@
 ---
-title: 220122234553 - Gilgamesh không có bí mật trường sinh từ Utnapishtim
+title: Gilgamesh không có bí mật trường sinh từ Utnapishtim
 UID: 220122234553
 created: 22-Jan-2022
 tags:

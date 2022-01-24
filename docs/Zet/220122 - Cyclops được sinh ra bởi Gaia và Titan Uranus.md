@@ -1,5 +1,5 @@
 ---
-title: 220122 - Cyclops được sinh ra bởi Gaia và Titan Uranus
+title: Cyclops được sinh ra bởi Gaia và Titan Uranus
 UID: 220122144533
 created: 22-Jan-2022
 tags:

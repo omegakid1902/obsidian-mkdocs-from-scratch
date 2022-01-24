@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/Garden/Cầu Bifost
 backlinks:
   - Zet/Garden/Cầu Bifost
-title: 220122 - Cầu Bifost nối Midgard và Asgard
+title: Cầu Bifost nối Midgard và Asgard
 UID: 220122121923
 created: 22-Jan-2022
 tags:

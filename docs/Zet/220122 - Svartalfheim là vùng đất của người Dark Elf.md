@@ -1,7 +1,7 @@
 ---
 backlinks:
   - Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất
-title: 220122 - Svartalfheim là vùng đất của người Dark Elf
+title: Svartalfheim là vùng đất của người Dark Elf
 UID: 220122122650
 created: 22-Jan-2022
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 220122 - Surt là kẻ thù của các vị thần Asgard
+title: Surt là kẻ thù của các vị thần Asgard
 UID: 220122115538
 created: 22-Jan-2022
 tags:

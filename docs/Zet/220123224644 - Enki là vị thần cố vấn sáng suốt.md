@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Enki
-title: 220123224644 - Enki là vị thần cố vấn sáng suốt
+title: Enki là vị thần cố vấn sáng suốt
 UID: 220123224644
 created: 23-Jan-2022
 tags:

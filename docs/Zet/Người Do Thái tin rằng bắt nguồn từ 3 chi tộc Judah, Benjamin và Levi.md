@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Chi tộc Judah
   - Zet/Chi tộc Levi
 backlinks:
-  - Zet/Israel có 12 chi tộc
   - Zet/Chi tộc Judah
+  - Zet/Israel có 12 chi tộc
 title: Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
 UID: 211121105233
 created: 21-Nov-2021

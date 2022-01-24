@@ -1,5 +1,5 @@
 ---
-title: 220122 - Dwarf chế tạo ngọn giáo của Odin
+title: Dwarf chế tạo ngọn giáo của Odin
 UID: 220122122213
 created: 22-Jan-2022
 tags:

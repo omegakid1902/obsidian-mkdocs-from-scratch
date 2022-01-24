@@ -7,8 +7,8 @@ outgoing_links:
   - Zet/People/Joseph Stalin
 backlinks:
   - Zet/Menshevik
-  - Zet/Khazarian Mafia
   - Zet/Bolshevik và Menshevik
+  - Zet/Khazarian Mafia
   - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
 title: Bolshevik
 UID: 211119221755

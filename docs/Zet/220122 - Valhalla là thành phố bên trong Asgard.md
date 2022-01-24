@@ -1,5 +1,5 @@
 ---
-title: 220122 - Valhalla là thành phố bên trong Asgard
+title: Valhalla là thành phố bên trong Asgard
 UID: 220122120320
 created: 22-Jan-2022
 tags:

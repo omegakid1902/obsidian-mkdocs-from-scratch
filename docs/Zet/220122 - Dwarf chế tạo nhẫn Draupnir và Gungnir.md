@@ -1,5 +1,5 @@
 ---
-title: 220122 - Dwarf chế tạo nhẫn Draupnir và Gungnir
+title: Dwarf chế tạo nhẫn Draupnir và Gungnir
 UID: 220122122343
 created: 22-Jan-2022
 tags:

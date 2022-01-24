@@ -1,5 +1,5 @@
 ---
-title: 220122 - Asgard là nhà các vị thần Bắc Âu
+title: Asgard là nhà các vị thần Bắc Âu
 UID: 220122111246
 created: 22-Jan-2022
 tags:

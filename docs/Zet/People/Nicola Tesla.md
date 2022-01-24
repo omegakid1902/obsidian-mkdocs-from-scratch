@@ -5,13 +5,13 @@ outgoing_links:
   - Zet/Tháp Wardenclyffe
   - Zet/People/John Pierpont Morgan
 backlinks:
-  - Zet/Tần số Solfeggio
+  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Qmap
-  - Zet/Akashic records
   - Zet/NESARA
+  - Zet/Tần số Solfeggio
   - Zet/Tháp Wardenclyffe
   - Zet/Tần số rung động
-  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
+  - Zet/Akashic records
   - Zet/People/Thomas Edison
   - Zet/People/Albert Einstein
   - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều

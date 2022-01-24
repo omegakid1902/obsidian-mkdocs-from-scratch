@@ -1,5 +1,5 @@
 ---
-title: 220122 - Atlas là con của Titan Iapetus và tiên nữ Asia
+title: Atlas là con của Titan Iapetus và tiên nữ Asia
 UID: 220122144708
 created: 22-Jan-2022
 tags:

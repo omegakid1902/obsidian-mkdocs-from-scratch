@@ -1,5 +1,5 @@
 ---
-title: 220122 - Dark Elf gây ác mộng cho Người trần
+title: Dark Elf gây ác mộng cho Người trần
 UID: 220122122805
 created: 22-Jan-2022
 tags:

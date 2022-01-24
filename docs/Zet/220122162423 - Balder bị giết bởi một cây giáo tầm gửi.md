@@ -1,5 +1,5 @@
 ---
-title: 220122162423 - Balder bị giết bởi một cây giáo tầm gửi
+title: Balder bị giết bởi một cây giáo tầm gửi
 UID: 220122162423
 created: 22-Jan-2022
 tags:

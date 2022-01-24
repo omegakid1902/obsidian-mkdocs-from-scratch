@@ -1,5 +1,5 @@
 ---
-title: 220122 - Jotunheim là vùng đất băng giá
+title: Jotunheim là vùng đất băng giá
 UID: 220122122620
 created: 22-Jan-2022
 tags:

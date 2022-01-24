@@ -1,5 +1,5 @@
 ---
-title: 220122162526 - Tyr là con của Odin
+title: Tyr là con của Odin
 UID: 220122162526
 created: 22-Jan-2022
 tags:

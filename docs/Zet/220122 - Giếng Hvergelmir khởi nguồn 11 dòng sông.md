@@ -1,5 +1,5 @@
 ---
-title: 220122 - Giếng Hvergelmir khởi nguồn 11 dòng sông
+title: Giếng Hvergelmir khởi nguồn 11 dòng sông
 UID: 220122102811
 created: 22-Jan-2022
 tags:

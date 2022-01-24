@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Ngô Đình Diệm
   - Zet/Đảo chính VNCH 1963
 backlinks:
+  - Zet/Lịch Sử Việt Nam
   - Zet/Lấy chiến tranh nuôi chiến tranh
   - Zet/Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
-  - Zet/Lịch Sử Việt Nam
   - Zet/Ngô Đình Diệm
 title: Việt Nam Cộng Hòa
 tags:

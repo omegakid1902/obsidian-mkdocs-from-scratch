@@ -6,10 +6,10 @@ outgoing_links:
   - Zet/Thuyết Ngộ Đạo
 backlinks:
   - Zet/Qmap
-  - Zet/220117 - Quyển Cộng Hòa của Plato nhắc đến Atlantis
-  - Zet/Bảy nhà hiền triết Hy Lạp theo Plato
   - Zet/220118 - Các học giả thế kỷ 19 hiểu sai về Atlantis của Plato
   - Zet/220118 - Plato nhắc đến Atlantis nguồn chính trong Timaeus và Critias
+  - Zet/220117 - Quyển Cộng Hòa của Plato nhắc đến Atlantis
+  - Zet/Bảy nhà hiền triết Hy Lạp theo Plato
   - Zet/Plato có nói về Atlantis
 title: Plato
 UID: 2107102128
