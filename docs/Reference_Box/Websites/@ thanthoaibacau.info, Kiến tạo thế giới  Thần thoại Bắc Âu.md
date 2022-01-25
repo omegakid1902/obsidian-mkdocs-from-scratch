@@ -35,4 +35,5 @@ publish: True
 - [[220124232010 - Bestla là con gái của Bolthorn]]
 - [[220124232116 - Ba anh em Odin giết Ymir vì nó trở nên độc ác]]
 - [[220124232218 - Odin biến con trai của Bergelmir thành đại bàng]]
+- [[220125214839 - Rễ cây Yggdrasil nối 9 thế giới]]
 

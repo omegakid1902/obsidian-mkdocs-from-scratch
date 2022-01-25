@@ -13,6 +13,7 @@ backlinks:
   - Zet/Do Thái Giáo
   - Zet/Phù thủy trung cổ
   - Zet/Người Amish
+  - Zet/220125225730 - Các học giả Kito giáo ghi chép lại các câu truyện Thần thoại Bắc Âu
   - Zet/Bí tích rửa tội
   - Zet/People/Moses
   - Zet/People/Leo Tolstoy

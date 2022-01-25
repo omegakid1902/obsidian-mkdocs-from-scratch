@@ -9,6 +9,8 @@ tags:
 publish: True
 ---
 ## Notes:
+[[Thần thoại Bắc Âu]]
+
 Giống người [[Người khổng lồ Jotun]] được sinh ra từ người khổng lồ [[Người khổng lồ Ymir|Ymir]].
 
 ## Source:
