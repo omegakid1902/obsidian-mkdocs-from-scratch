@@ -6,6 +6,10 @@ backlinks:
   - Zet/Chủ nghĩa Hư vô
   - Zet/Rat race
   - Zet/Jean Paul Sartre
+  - Zet/220127222106 - Camus phủ nhận mình là thuộc trường phái hiện sinh
+  - Zet/220127222341 - Camus và Sartre từng là bạn thân
+  - Zet/220127222429 - Sartre nói xấu Camus chỉ đáng tầm giáo viên
+  - Zet/220127222831 - Sự phi lý trong absurdism là con người tìm kiếm ý nghĩ nhưng cuộc đời ko có ý nghĩa
   - Zet/Writing/So sánh giữa Existentialism và Nihilism
 title: Albert Camus
 created: June 30, 2021 9:34 PM
@@ -15,6 +19,8 @@ tags:
   - 'permanent/people'
 birth: 
 death: 
+aliases:
+  - Camus
 publish: True
 ---
 # Albert Camus
