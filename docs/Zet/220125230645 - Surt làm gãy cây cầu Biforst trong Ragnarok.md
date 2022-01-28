@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Garden/Cầu Bifost
+  - Zet/Garden/Cầu Bifrost
 title: Surt làm gãy cây cầu Biforst trong Ragnarok
 UID: 220125230645
 created: 25-Jan-2022
@@ -11,7 +11,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Người khổng lồ Surt]] làm gãy cây [[Cầu Bifost]] trong [[Ragnarok]]
+[[Người khổng lồ Surt]] làm gãy cây [[Cầu Bifrost]] trong [[Ragnarok]]
 
 ## Source:
 - [[@ wiki, Thần thoại Bắc Âu]]

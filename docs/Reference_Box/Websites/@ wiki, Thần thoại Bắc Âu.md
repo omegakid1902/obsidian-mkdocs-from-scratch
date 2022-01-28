@@ -20,7 +20,7 @@ publish: True
 - Cây tần bì [[Cây Thế Giới Yggdrasil|Yggdrasil]] mọc ra từ xác [[Người khổng lồ Ymir|Ymir]]
 - Trái đất là một đĩa dẹt nằm trên cành cây Yggdrasill
 - Cây Yggdrasill được gọi là Mimameidr (Cây của Mimir) trong bài Fjolsvinnsmál thuộc Sử thi Edda bằng thơ
-- Surtr làm gãy cây cầu [[Cầu Bifost]] trong [[Ragnarok]]
+- Surtr làm gãy cây cầu [[Cầu Bifrost]] trong [[Ragnarok]]
 - Surtr giết chết thần [[Thần Freyr|Freyr]] trong Ragnarok
 - Surtr bị Thor giết
 - Ba chủng tộc thần thánh trong Thần thoại Bắc Âu là [[Các vị thần Aesir|Aesir]], [[Vanir]] và Jotun

@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Garden/Cầu Bifost
+  - Zet/Garden/Cầu Bifrost
 title: Heimdall là thần canh giữ cầu Bifost
 UID: 220122164005
 created: 22-Jan-2022
@@ -11,7 +11,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Thần Heimdall]] là thần canh giữ [[Cầu Bifost]]
+[[Thần Heimdall]] là thần canh giữ [[Cầu Bifrost]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
