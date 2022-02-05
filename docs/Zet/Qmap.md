@@ -48,14 +48,14 @@ outgoing_links:
   - Zet/Eugenics
   - Zet/People/Adolf Hitler
 backlinks:
+  - Zet/Plato có nói về Atlantis
   - Zet/Gia tộc Rothschild
-  - Zet/Janus
-  - Zet/Công Đồng Nicea 325
-  - Zet/Vril
   - Zet/Tháp Mentmore
   - Zet/Chủ Nghĩa Zion
   - Zet/Khazars
-  - Zet/Plato có nói về Atlantis
+  - Zet/Công Đồng Nicea 325
+  - Zet/Vril
+  - Zet/Janus
   - Zet/People/Helena Blavatsky
   - Zet/People/Đức Giáo Hoàng
   - Zet/People/Plato

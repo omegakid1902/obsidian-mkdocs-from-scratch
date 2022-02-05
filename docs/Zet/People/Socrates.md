@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/220118223634 - Bốn nhân vật trong Timaeus và Critias của Plato
   - Zet/People/Plato
 title: Socrates
 tags:

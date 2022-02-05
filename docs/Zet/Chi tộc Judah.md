@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
   - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
 backlinks:
-  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
   - Zet/Israel có 12 chi tộc
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/People/Vua David
 title: Chi tộc Judah
 UID: 211121104817

@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Các Đại Hãn Mông Cổ
   - Zet/Mông Kha
+  - Zet/Các Đại Hãn Mông Cổ
 title: Đại Hãn
 UID: 210817204508
 tags:

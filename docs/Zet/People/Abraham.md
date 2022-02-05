@@ -3,14 +3,14 @@ outgoing_links:
   - Zet/Người Do Thái
   - Zet/God
 backlinks:
-  - Zet/Hồi Giáo
   - Zet/Do Thái Giáo
-  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
-  - Zet/Người Do Thái
-  - Zet/Khazarian Mafia
   - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
-  - Zet/People/Ishmael
+  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
+  - Zet/Khazarian Mafia
+  - Zet/Hồi Giáo
+  - Zet/Người Do Thái
   - Zet/People/Jacob
+  - Zet/People/Ishmael
   - Zet/Thinking/Tóm tắt sách Sáng Thế
 title: Abraham
 UID: 211111235421

@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Vaccine
   - Zet/Virus
 backlinks:
-  - Zet/Đại dịch COVID-19
   - Zet/Các loại Vaccine COVID 19
+  - Zet/Đại dịch COVID-19
 title: Vaccine virus bất hoạt
 UID: 2107100952
 tags:

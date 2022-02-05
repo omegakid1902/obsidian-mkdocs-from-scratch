@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Hoàng tử Paris
 backlinks:
-  - Zet/People/Hoàng tử Paris
   - Zet/Garden/Cuộc chiến thành Troy
+  - Zet/People/Hoàng tử Paris
 title: 220119 - Paris nhờ Aphrodite chiếm hoàng hậu Helen
 UID: 220119231726
 created: 19-Jan-2022

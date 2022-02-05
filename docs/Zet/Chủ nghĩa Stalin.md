@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Joseph Stalin
 backlinks:
-  - Zet/Chủ nghĩa Trotsky
   - Zet/Chủ nghĩa Stalin phát triển lý thuyết của Lenin
+  - Zet/Chủ nghĩa Trotsky
 title: Chủ nghĩa Stalin
 UID: 2107181113
 tags:

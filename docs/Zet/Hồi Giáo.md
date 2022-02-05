@@ -8,9 +8,9 @@ outgoing_links:
   - Zet/Kinh Koran
   - Zet/Thuyết âm mưu
 backlinks:
+  - Zet/Qmap
   - Zet/Người Do Thái Sephardi
   - Zet/Religion
-  - Zet/Qmap
   - Zet/God
   - Zet/Kinh Koran
   - Zet/People/Alberto Rivera

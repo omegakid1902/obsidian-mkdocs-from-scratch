@@ -43,15 +43,15 @@ backlinks:
   - Zet/Khoa học và các cú mị dân
   - Zet/Kênh youtube giáo dục tự do 1
   - Zet/Big Medicine
-  - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
-  - Zet/COVID-19
-  - Zet/Sức khỏe
   - Zet/Virus
-  - Zet/Các kênh thông tin trái chiều
-  - Zet/Coronavirus
   - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
+  - Zet/Cầu thủ Lindelof đau ngực, khó thở trong trận MU - Norwich
+  - Zet/Sức khỏe
   - Zet/Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021
+  - Zet/Các kênh thông tin trái chiều
   - Zet/Chemtrails
+  - Zet/Coronavirus
+  - Zet/COVID-19
   - Zet/People/Robert Wallace Malone
 title: Đại dịch COVID-19
 tags:

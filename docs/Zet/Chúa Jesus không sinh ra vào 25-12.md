@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/Saturn
   - Zet/Lucifer
 backlinks:
-  - Zet/Lễ Giáng Sinh
   - Zet/Chúa Giáng Sinh
+  - Zet/Lễ Giáng Sinh
 title: Chúa Jesus không sinh ra vào 25-12
 UID: 211028230824
 created: 28-Oct-2021

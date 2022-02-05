@@ -4,8 +4,8 @@ outgoing_links:
 backlinks:
   - Zet/Religion
   - Zet/Angkor Wat
-  - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
   - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
+  - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
 title: Phật Giáo
 UID: 211001213956
 created: 01-Oct-2021

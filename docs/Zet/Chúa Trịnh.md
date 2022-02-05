@@ -7,8 +7,8 @@ backlinks:
   - Zet/Nguyễn Ánh
   - Zet/Thời Lê trung hưng
   - Zet/Đàng Ngoài
-  - Zet/Chúa Nguyễn
   - Zet/Nhà Tây Sơn
+  - Zet/Chúa Nguyễn
   - Zet/People/Trịnh Kiểm
 title: Chúa Trịnh
 UID: P-210712-2120

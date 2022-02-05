@@ -5,13 +5,13 @@ outgoing_links:
   - Zet/Vaccine
 backlinks:
   - Zet/CDC đã thông báo FDA tìm kiếm một phương pháp khác thay thế PCR từ 07-2021
+  - Zet/Real time PCR test
   - Zet/FDA cấm Ivermectin thú y để chữa trị cho người
+  - Zet/WHO
+  - Zet/Ivermectin
+  - Zet/Khoa học và các cú mị dân
   - Zet/Đại dịch COVID-19
   - Zet/CDC
-  - Zet/Ivermectin
-  - Zet/WHO
-  - Zet/Real time PCR test
-  - Zet/Khoa học và các cú mị dân
   - Zet/People/Kary B. Mullis
   - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: FDA

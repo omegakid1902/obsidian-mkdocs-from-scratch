@@ -3,6 +3,8 @@ outgoing_links:
   - Zet/Cải Cách Kháng Nghị
   - Zet/Công Giáo
   - Zet/Anh giáo
+backlinks:
+  - Zet/220118222919 - Hình tượng Atlantis của Plato nguồn cảm hứng các triết gia
 title: Thomas More
 created: Dec 08, 2020 10:59 PM
 tags:

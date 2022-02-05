@@ -10,15 +10,15 @@ outgoing_links:
   - Zet/Obsidian
   - Zet/Phần mềm Notion
 backlinks:
+  - Zet/Personal Knowledge Management
+  - Zet/Self Improvement
+  - Zet/Reference Manager
+  - Zet/Permanent Note
+  - Zet/Fleeting Note
+  - Zet/Literature Note
+  - Zet/Phần mềm Notion
   - Zet/LYT framework
   - Zet/The Second Brain
-  - Zet/Reference Manager
-  - Zet/Fleeting Note
-  - Zet/Phần mềm Notion
-  - Zet/Self Improvement
-  - Zet/Permanent Note
-  - Zet/Personal Knowledge Management
-  - Zet/Literature Note
   - Zet/People/Niklas Luhmann
   - Zet/Writing/Danh sách các bài viết
 title: Zettelkasten

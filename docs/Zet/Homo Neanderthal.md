@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Thuyết tiến hóa
   - Zet/People/Charles Darwin
 backlinks:
-  - Zet/Thinking/❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal
   - Zet/Thinking/❕ Loài người không đơn độc
+  - Zet/Thinking/❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal
 title: Homo Neanderthal
 created: June 27, 2021 10:48 PM
 tags:

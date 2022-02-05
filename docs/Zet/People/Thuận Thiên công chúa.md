@@ -9,11 +9,11 @@ outgoing_links:
   - Zet/People/Trần Quang Khải
 backlinks:
   - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
-  - Zet/People/Trần Cảnh
-  - Zet/People/Trần Liễu
   - Zet/People/Lý Chiêu Hoàng
-  - Zet/People/Lý Huệ Tông
   - Zet/People/Linh Từ Quốc mẫu
+  - Zet/People/Lý Huệ Tông
+  - Zet/People/Trần Liễu
+  - Zet/People/Trần Cảnh
 title: Thuận Thiên công chúa
 UID: 210902131203
 tags:

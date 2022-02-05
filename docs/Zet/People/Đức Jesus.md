@@ -5,18 +5,18 @@ outgoing_links:
   - Zet/Chúa Giáng Sinh
   - Zet/Lễ Giáng Sinh
 backlinks:
-  - Zet/Kinh mân côi
-  - Zet/Cựu Ước
   - Zet/Tin Lành
-  - Zet/12 cấp độ rung động của linh hồn
-  - Zet/Công Giáo
-  - Zet/Lễ Giáng Sinh
-  - Zet/Theotokos
-  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/Do Thái Giáo
-  - Zet/Ngụy thư Giacobe
-  - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Theotokos
   - Zet/Năm sự vui
+  - Zet/Ngụy thư Giacobe
+  - Zet/Lễ Giáng Sinh
+  - Zet/Kinh mân côi
+  - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Công Giáo
+  - Zet/12 cấp độ rung động của linh hồn
+  - Zet/Cựu Ước
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/People/Thánh Phaolo
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Đức Jesus

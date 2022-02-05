@@ -28,8 +28,8 @@ outgoing_links:
   - Zet/People/Hồng Tú Toàn
 backlinks:
   - Zet/Nhà Liêu
-  - Zet/Nhà Đại Lý
   - Zet/Nhà Tống
+  - Zet/Nhà Đại Lý
   - Zet/Lịch sử
 title: Lịch sử Trung Quốc
 UID: 

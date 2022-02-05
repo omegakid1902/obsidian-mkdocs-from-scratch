@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Backlink Graph View
   - Zet/Obsidian
+  - Zet/Backlink Graph View
   - Zet/Phần mềm Notion
 title: Backlink
 created: Oct 21, 2020 10:03 PM

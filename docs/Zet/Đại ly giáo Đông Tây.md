@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/People/Đức Giáo Hoàng
 backlinks:
-  - Zet/Mệnh đề Filioque
   - Zet/Chính thống giáo Đông Phương
+  - Zet/Mệnh đề Filioque
 title: Đại ly giáo Đông Tây
 created: Dec 06, 2020 12:59 AM
 tags:

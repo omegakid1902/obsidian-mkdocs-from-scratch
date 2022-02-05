@@ -8,15 +8,15 @@ outgoing_links:
   - Zet/People/Thuận Thiên công chúa
   - Zet/Quan hệ huyết thống nhà Trần - Lý
 backlinks:
-  - Zet/Nhà Trần
-  - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
-  - Zet/Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi
-  - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
-  - Zet/Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh
-  - Zet/Quan hệ huyết thống nhà Trần - Lý
   - Zet/Các tên gọi của vua Lý Chiêu Hoàng
-  - Zet/People/Trần Liễu
+  - Zet/Nhà Trần
+  - Zet/Trần Cảnh được Trần Thủ Độ đưa vào cung để cưới Lý Chiêu Hoàng
+  - Zet/Quan hệ huyết thống nhà Trần - Lý
+  - Zet/Trần Liễu có mối hận với em trai mình là Trần Cảnh
+  - Zet/Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh
+  - Zet/Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi
   - Zet/People/Lý Chiêu Hoàng
+  - Zet/People/Trần Liễu
   - Zet/People/Thuận Thiên công chúa
 title: Trần Cảnh
 UID: 210902130435

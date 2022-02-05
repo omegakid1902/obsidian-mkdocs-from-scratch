@@ -26,7 +26,7 @@ publish: True
 - Điều này bác bỏ [[Thuyết tiến hóa]] của [[Charles Darwin]]
 - [[Kurd Godel]]
 - [[Godel bác bỏ Thuyết tiến hóa Darwin]]
-- [[@ Phạm Việt Hưng, Định lý Gödel: Nền tảng của Khoa học Nhận thức Hiện đại]]
+- [[@ Phạm Việt Hưng, Định lý Gödel Nền tảng của Khoa học Nhận thức Hiện đại]]
 
 ## Ref:
 - [Gödel Refuted Darwinism / Gödel bác bỏ Thuyết Darwin | PhamVietHung's Home (viethungpham.com)](https://viethungpham.com/2020/09/23/godel-refuted-darwinism-godel-bac-bo-thuyet-darwin/)

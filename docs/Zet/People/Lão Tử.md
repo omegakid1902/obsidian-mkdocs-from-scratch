@@ -1,8 +1,8 @@
 ---
 backlinks:
-  - Zet/Nước trong Đạo Đức Kinh
-  - Zet/Bách gia Chư tử
   - Zet/Đạo Giáo
+  - Zet/Bách gia Chư tử
+  - Zet/Nước trong Đạo Đức Kinh
 title: Lão Tử
 UID: 21007041257
 tags:

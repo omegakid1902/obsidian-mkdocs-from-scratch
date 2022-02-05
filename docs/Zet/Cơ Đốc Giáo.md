@@ -5,20 +5,20 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Tin Lành
 backlinks:
+  - Zet/Người Amish
+  - Zet/Do Thái Giáo
   - Zet/Lễ Giáng Sinh
   - Zet/Hiệp sĩ Đền Thánh
-  - Zet/God
-  - Zet/Hạ thế giới
-  - Zet/Người Gruzia
-  - Zet/Do Thái Giáo
-  - Zet/Phù thủy trung cổ
-  - Zet/Người Amish
   - Zet/220125225730 - Các học giả Kito giáo ghi chép lại các câu truyện Thần thoại Bắc Âu
+  - Zet/God
+  - Zet/Người Gruzia
+  - Zet/Hạ thế giới
+  - Zet/Phù thủy trung cổ
   - Zet/Bí tích rửa tội
-  - Zet/People/Moses
-  - Zet/People/Leo Tolstoy
   - Zet/People/Alberto Rivera
+  - Zet/People/Moses
   - Zet/People/Thánh Phaolo
+  - Zet/People/Leo Tolstoy
 title: Cơ Đốc giáo
 tags:
   - 'created/2021/Jul/31'

@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nhà Thanh
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Nguyễn Ánh
+  - Zet/Lịch sử Trung Quốc
   - Zet/Hồng Lâu Mộng
   - Zet/Nhà Thanh
   - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung

@@ -6,12 +6,12 @@ outgoing_links:
   - Zet/Khazars
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 backlinks:
-  - Zet/Xung đột Israel - Palestine
   - Zet/Qmap
-  - Zet/Lịch Sử Do Thái
   - Zet/Do Thái Giáo
-  - Zet/Khazars
+  - Zet/Lịch Sử Do Thái
   - Zet/Khazarian Mafia
+  - Zet/Xung đột Israel - Palestine
+  - Zet/Khazars
   - Zet/People/Theodor Herzl
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 title: Chủ Nghĩa Zion

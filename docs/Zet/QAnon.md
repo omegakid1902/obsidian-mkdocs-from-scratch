@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Thuyết âm mưu
   - Zet/People/Donald J. Trump
 backlinks:
-  - Zet/Big Medicine
   - Zet/Qmap
-  - Zet/People/Donald J. Trump
+  - Zet/Big Medicine
   - Zet/People/Bill Gates
+  - Zet/People/Donald J. Trump
 title: QAnon
 UID: 210918215753
 created: 18-Sep-2021

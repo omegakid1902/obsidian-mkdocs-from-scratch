@@ -7,8 +7,8 @@ outgoing_links:
   - Zet/Cain sinh lòng đố kị và ghen ghét Abel
   - Zet/Cain sát hại Abel
 backlinks:
-  - Zet/Vườn địa đàng
   - Zet/Lucifer
+  - Zet/Vườn địa đàng
   - Zet/Bí tích rửa tội
   - Zet/People/Abel
   - Zet/People/Enoch

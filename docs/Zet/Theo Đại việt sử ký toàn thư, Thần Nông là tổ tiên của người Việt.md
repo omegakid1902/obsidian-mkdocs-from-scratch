@@ -12,6 +12,6 @@ publish: True
 # Theo Đại việt sử ký toàn thư, Thần Nông là tổ tiên của người Việt
 
 ## Notes:
-Theo [[Đại việt sử ký toàn thư]], [[Thần Nông]] là tổ tiên của người Việt
+Theo [[Đại Việt Sử ký toàn thư]], [[Thần Nông]] là tổ tiên của người Việt
 
 ## Ideas & thoughts:

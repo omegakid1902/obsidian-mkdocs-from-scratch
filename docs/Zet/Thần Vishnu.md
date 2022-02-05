@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Đạo Bà La Môn
   - Zet/Tam thần Ấn giáo
 backlinks:
-  - Zet/Tam thần Ấn giáo
   - Zet/Ấn Độ giáo
+  - Zet/Tam thần Ấn giáo
 title: Thần Vishnu
 created: July 4, 2021 3:48 PM
 tags:

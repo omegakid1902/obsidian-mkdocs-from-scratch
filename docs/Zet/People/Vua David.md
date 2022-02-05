@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Chi tộc Judah
   - Zet/Ngôi sao David
 backlinks:
-  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
   - Zet/220122 - David hạ gục Goliath trong một trận chiến tay đôi
+  - Zet/Trên danh nghĩa, Đức Jesus thuộc chi tộc Judah
 title: Vua David
 created: Jun 21, 2021 10:35 PM
 tags:

@@ -6,14 +6,14 @@ outgoing_links:
   - Zet/Vaccine
   - Zet/COVID-19
 backlinks:
-  - Zet/Vaccination
-  - Zet/Đại dịch COVID-19
   - Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ
-  - Zet/Các lý thuyết về nguyên nhân gây bệnh ung thư
+  - Zet/Real time PCR test là một trò bịp của Big Pharma
+  - Zet/Vaccination
   - Zet/Khoa học và các cú mị dân
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
-  - Zet/Real time PCR test là một trò bịp của Big Pharma
+  - Zet/Đại dịch COVID-19
   - Zet/Kênh youtube giáo dục tự do 1
+  - Zet/Các lý thuyết về nguyên nhân gây bệnh ung thư
 title: Big Medicine
 UID: 211010170348
 created: 10-Oct-2021

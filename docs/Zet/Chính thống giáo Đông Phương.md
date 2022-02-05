@@ -4,12 +4,12 @@ outgoing_links:
   - Zet/People/Đức Giáo Hoàng
   - Zet/Đại ly giáo Đông Tây
 backlinks:
-  - Zet/Công Giáo
-  - Zet/Religion
-  - Zet/Đại ly giáo Đông Tây
-  - Zet/God
-  - Zet/Cơ Đốc Giáo
   - Zet/Mệnh đề Filioque
+  - Zet/Cơ Đốc Giáo
+  - Zet/Religion
+  - Zet/Công Giáo
+  - Zet/God
+  - Zet/Đại ly giáo Đông Tây
 title: Chính thống giáo Đông Phương
 created: Dec 25, 2020 10:56 AM
 tags:

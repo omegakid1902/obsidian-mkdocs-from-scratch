@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nhà Đinh
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít người tưởng nhớ
+  - Zet/Lịch Sử Việt Nam
 title: Nhà Tiền Lê
 tags:
   - 'created/2021/Jul/12'

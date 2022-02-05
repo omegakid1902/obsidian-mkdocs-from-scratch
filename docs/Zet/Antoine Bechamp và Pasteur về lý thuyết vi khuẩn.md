@@ -6,10 +6,10 @@ outgoing_links:
   - Zet/Big Medicine
   - Zet/The Germ theory
 backlinks:
-  - Zet/COVID-19
+  - Zet/Coronavirus
   - Zet/Đại dịch COVID-19
   - Zet/SARS-COV-2
-  - Zet/Coronavirus
+  - Zet/COVID-19
 title: Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
 UID: 211010110308
 created: 10-Oct-2021

@@ -3,11 +3,11 @@ outgoing_links:
   - Zet/Nhà Tần
   - Zet/Nhà Chu
 backlinks:
-  - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
-  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
-  - Zet/Lịch sử Trung Quốc
   - Zet/Sau khi bị Tần Thủy Hoàng thiêu hủy sách, Đạo Khổng sau đó phục hồi còn Mặc gia suy tàn
   - Zet/Nhà Tần
+  - Zet/Lịch sử Trung Quốc
+  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
+  - Zet/208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ
 title: Tần Thủy Hoàng
 UID: 210828110531
 tags:

@@ -4,12 +4,12 @@ outgoing_links:
   - Zet/Virus
   - Zet/Các định đề Robert Koch
 backlinks:
+  - Zet/The Germ theory
+  - Zet/Coronavirus
   - Zet/Vaccine Moderna
   - Zet/Các định đề Robert Koch
-  - Zet/Coronavirus
-  - Zet/The Germ theory
-  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: Các định đề Thomas Rivers
 UID: 211016110917
 created: 16-Oct-2021

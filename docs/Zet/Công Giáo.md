@@ -10,35 +10,35 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Dòng Tên
 backlinks:
-  - Zet/Dòng Tên
-  - Zet/Hang đá Giáng Sinh
-  - Zet/Vạ Tuyệt thông
-  - Zet/Hồi Giáo
-  - Zet/Cộng Đoàn Taize
-  - Zet/Religion
-  - Zet/Cải Cách Kháng Nghị
-  - Zet/Đại ly giáo Đông Tây
-  - Zet/God
-  - Zet/Phong trào Phản Cải cách
-  - Zet/Cơ Đốc Giáo
   - Zet/Chúa Giáng Sinh
-  - Zet/Tổng lãnh vương cung thánh đường
-  - Zet/Phong trào Tinh Lành
-  - Zet/Phù thủy trung cổ
-  - Zet/Kinh Tin Kính Nicea
-  - Zet/Vatican
-  - Zet/Chúa Jesus không sinh ra vào 25-12
-  - Zet/Mennonite
-  - Zet/The Quaker
-  - Zet/Mệnh đề Filioque
-  - Zet/Bí tích rửa tội
   - Zet/Chính thống giáo Đông Phương
-  - Zet/People/Pope Damasus I
-  - Zet/People/Ngô Đình Thục
+  - Zet/Phong trào Tinh Lành
+  - Zet/Vạ Tuyệt thông
+  - Zet/Tổng lãnh vương cung thánh đường
+  - Zet/Phong trào Phản Cải cách
+  - Zet/Mệnh đề Filioque
+  - Zet/Kinh Tin Kính Nicea
+  - Zet/The Quaker
+  - Zet/Cơ Đốc Giáo
+  - Zet/Cải Cách Kháng Nghị
+  - Zet/Religion
+  - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Dòng Tên
+  - Zet/Hồi Giáo
+  - Zet/God
+  - Zet/Cộng Đoàn Taize
+  - Zet/Vatican
+  - Zet/Hang đá Giáng Sinh
+  - Zet/Phù thủy trung cổ
+  - Zet/Đại ly giáo Đông Tây
+  - Zet/Bí tích rửa tội
+  - Zet/Mennonite
   - Zet/People/Alberto Rivera
   - Zet/People/Thomas More
+  - Zet/People/Pope Damasus I
   - Zet/People/Thánh Jerome
   - Zet/People/Đức Giáo Hoàng
+  - Zet/People/Ngô Đình Thục
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Công Giáo
 UID: 210815151214
