@@ -20,7 +20,7 @@ ghp-import==2.0.2
     # via mkdocs
 htmlmin==0.1.12
     # via mkdocs-minify-plugin
-importlib-metadata==4.10.1
+importlib-metadata==4.11.1
     # via
     #   click
     #   jsonpickle
@@ -73,7 +73,7 @@ mkdocs==1.2.3
     #   mkdocs-section-index
 mkdocs-autolinks-plugin==0.4.0
     # via -r requirements.in
-mkdocs-material==8.1.9
+mkdocs-material==8.2.1
     # via -r requirements.in
 mkdocs-material-extensions==1.0.3
     # via
@@ -118,7 +118,7 @@ pygments==2.11.2
     #   -r requirements.in
     #   ipython
     #   mkdocs-material
-pymdown-extensions==9.1
+pymdown-extensions==9.2
     # via mkdocs-material
 pyparsing==3.0.7
     # via packaging
@@ -143,7 +143,7 @@ traitlets==5.1.1
     #   -r requirements.in
     #   ipython
     #   matplotlib-inline
-typing-extensions==4.0.1
+typing-extensions==4.1.1
     # via importlib-metadata
 watchdog==2.1.6
     # via mkdocs
@@ -155,5 +155,5 @@ zipp==3.7.0
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==60.7.1
+setuptools==60.9.3
     # via ipython

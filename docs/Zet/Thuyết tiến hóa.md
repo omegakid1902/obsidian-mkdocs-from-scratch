@@ -7,6 +7,7 @@ outgoing_links:
   - Zet/Định luật Mendel về Di truyền
   - Zet/People/Adolf Hitler
 backlinks:
+  - Zet/220218212931 - Học thuyết Darwin dẫn đến kỳ thị chủng tộc
   - Zet/Định luật entropy phủ định quá trình tiến hóa
   - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Eugenics
@@ -24,6 +25,8 @@ tags:
   - 'created/2021/Oct/11'
   - 'seed🥜'
   - 'permanent/concept'
+aliases:
+  - Học thuyết Darwin
 publish: True
 ---
 # Thuyết tiến hóa

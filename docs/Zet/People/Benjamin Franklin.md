@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Mặc dù Benjamin Franklin không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD
 backlinks:
   - Zet/Bếp lò Franklin
+  - Zet/220218202554 - Franklin chế tạo cột thu lôi sau thí nghiệm thả diều trong cơn giông
   - Zet/Benjamin Franklin là thành viên Hội tam điểm
   - Zet/13 đức hạnh theo Benjamin Franklin
   - Zet/Hội tam điểm

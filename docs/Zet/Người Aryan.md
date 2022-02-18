@@ -1,5 +1,7 @@
 ---
 backlinks:
+  - Zet/220218212233 - Ngôn ngữ Sanskrit được nói đầu tiên bởi người Aryan
+  - Zet/220218212931 - Học thuyết Darwin dẫn đến kỳ thị chủng tộc
   - Zet/Tiếng Sanskrit
   - Zet/Eugenics
 title: Người Aryan

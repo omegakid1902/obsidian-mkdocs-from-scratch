@@ -24,6 +24,7 @@ backlinks:
   - Zet/Người Do Thái
   - Zet/Micael không phải tổng lãnh thiên thần
   - Zet/Kỷ nguyên Bảo Bình
+  - Zet/220218202843 - Gilgamesh tìm kiếm cách để chiến thắng thần chết nhưng thất bại
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/People/Moses
   - Zet/People/Đức Jesus
