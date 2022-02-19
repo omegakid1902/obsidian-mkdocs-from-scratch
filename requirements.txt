@@ -8,7 +8,7 @@ backcall==0.2.0
     # via
     #   -r requirements.in
     #   ipython
-click==8.0.3
+click==8.0.4
     # via mkdocs
 csscompressor==0.9.5
     # via mkdocs-minify-plugin

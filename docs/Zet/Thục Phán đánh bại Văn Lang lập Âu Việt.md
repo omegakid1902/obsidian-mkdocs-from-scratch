@@ -9,7 +9,7 @@ title: Thục Phán đánh bại Văn Lang lập Âu Việt
 UID: 2107240904
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'evergreen'
   - 'permanent/concept'
 publish: True
 ---
@@ -23,3 +23,5 @@ publish: True
 - [ ] Lạc Việt là bộ tộc do các vua Hùng cai trị
 - [ ] Âu Việt là bộ tộc do Thục Vương cai trị.
 
+## Source:
+- [[@ wiki, An Dương Vương]]

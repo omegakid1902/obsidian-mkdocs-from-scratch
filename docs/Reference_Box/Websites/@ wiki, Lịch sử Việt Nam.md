@@ -1,16 +1,15 @@
-# @ wiki, Lịch sử Việt Nam
-
-
-- metadata
-	- UID: L-210718-1526
-	- tags: #created/2021/Jul/18, #literature-notes 
-	- source: [wiki](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam)
+---
+title: '@ wiki, Lịch sử Việt Nam'
+UID: 2107181526
+tags:
+  - 'created/2021/Jul/18'
+  - 'source/article'
+publish: True
+---
+- link: [wiki](https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam)
 
 ## Summary
 ### Thời kỳ cổ đại (2879–111 TCN)
-
-Xem thêm: [[@ wiki, An Dương Vương]]
-
 ### Thời kỳ Bắc thuộc (179 TCN–938)
 #### Bắc thuộc lần 1  (179 TCN–40)
 ##### Nhà Triệu cai trị (179 – 111 TCN)
@@ -77,10 +76,3 @@ Xem thêm: [[@ wiki, An Dương Vương]]
 
 ## Questions and thoughts
 
-
-## Related:
-```dataview
-list
-from [[@ wiki, Lịch sử Việt Nam]]
-sort file.name asc
-```

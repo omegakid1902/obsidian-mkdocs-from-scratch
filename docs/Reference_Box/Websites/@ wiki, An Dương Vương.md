@@ -1,10 +1,12 @@
-# @ wiki, An Dương Vương
-
-
-- metadata
-	- UID: L-210724-0810
-	- tags: #created/2021/Jul/24, #literature-notes 
-	- source: https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng
+---
+title: '@ wiki, An Dương Vương'
+UID: 2107240810
+tags:
+  - 'created/2021/Jul/24'
+  - 'source/article'
+publish: True
+---
+- link: [An Dương Vương – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng)
 
 ## Summary
 ### Thành lập
@@ -32,9 +34,3 @@
 - [ ] Bộ tộc Âu Việt và bộ tộc Lạc Việt
 - [ ] 
 
-## Related:
-```dataview
-list
-from [[Untitled]]
-sort file.name asc
-```
