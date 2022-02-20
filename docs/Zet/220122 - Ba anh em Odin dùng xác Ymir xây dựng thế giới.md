@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/220122 - Thế giới được tạo thành từ xác Ymir
+  - Zet/220122111015 - Thế giới được tạo thành từ xác Ymir
 backlinks:
   - Zet/Thinking/❕ 220122113409 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
 title: Ba anh em Odin dùng xác Ymir xây dựng thế giới
@@ -26,7 +26,7 @@ publish: True
 - hộp sọ trở thành bầu trời
 - 
 ## Related:
-[[220122 - Thế giới được tạo thành từ xác Ymir]]
+[[220122111015 - Thế giới được tạo thành từ xác Ymir]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]

@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Mani giáo
 title: Cuộc chiến thiện ác trong Mani giáo
 UID: 220218201639
 created: 18-Feb-2022

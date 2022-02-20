@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/220122 - Jotunheim là vùng đất của Jotun
+  - Zet/220122122429 - Jotunheim là vùng đất của Jotun
 title: Jotun là giống người khổng lồ băng trong thần thoại Bắc Âu
 UID: 220122150053
 created: 22-Jan-2022
@@ -14,7 +14,7 @@ publish: True
 Giống người [[Người khổng lồ Jotun|Jotun]] là người khổng lồ băng trong [[Thần thoại Bắc Âu]], sinh sống tại [[Vùng đất Jotunheim|Jotunheim]].
 
 ## Related:
-- [[220122 - Jotunheim là vùng đất của Jotun]]
+- [[220122122429 - Jotunheim là vùng đất của Jotun]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]

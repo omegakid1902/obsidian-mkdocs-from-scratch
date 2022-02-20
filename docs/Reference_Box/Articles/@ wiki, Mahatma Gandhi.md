@@ -23,14 +23,3 @@ Tại Nam Phi, Gandhi chứng kiến cũng như trải qua sự đàn áp và ph
 [[Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau]]
 [[Gandhi thực hiện Hành trình muối để phản đối tăng thuế muối]]
 
-
-
-## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ wiki, Mahatma Gandhi]]
-sort file.name asc
-```

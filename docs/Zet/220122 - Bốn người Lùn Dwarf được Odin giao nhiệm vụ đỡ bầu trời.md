@@ -1,6 +1,6 @@
 ---
 backlinks:
-  - Zet/220122 - Dwarf sống ở vùng Nidavellir
+  - Zet/220122112110 - Dwarf sống ở vùng Nidavellir
 title: Bốn người Lùn Dwarf được Odin giao nhiệm vụ đỡ bầu trời
 UID: 220122111716
 created: 22-Jan-2022

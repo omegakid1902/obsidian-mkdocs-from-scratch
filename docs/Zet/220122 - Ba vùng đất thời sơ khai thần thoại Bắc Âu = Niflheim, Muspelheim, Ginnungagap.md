@@ -2,7 +2,7 @@
 outgoing_links:
   - Zet/220122 - Niflheim là vùng đất sương mù băng giá
   - Zet/220122 - Muspelheim vùng đất của lửa
-  - Zet/220122 - Ginnungagap là vùng đất hư vô ở trung tâm
+  - Zet/220122102403 - Ginnungagap là vùng đất hư vô ở trung tâm
 backlinks:
   - Zet/220122 - Niflheim là vùng đất sương mù băng giá
 title: Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap
@@ -24,7 +24,7 @@ Trong [[Thần thoại Bắc Âu]], thời kỳ ban đầu, tồn tại 3 vùng 
 ## Related:
 - [[220122 - Niflheim là vùng đất sương mù băng giá]]
 - [[220122 - Muspelheim vùng đất của lửa]]
-- [[220122 - Ginnungagap là vùng đất hư vô ở trung tâm]]
+- [[220122102403 - Ginnungagap là vùng đất hư vô ở trung tâm]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]

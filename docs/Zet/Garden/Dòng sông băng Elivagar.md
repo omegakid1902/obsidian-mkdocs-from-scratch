@@ -1,8 +1,8 @@
 ---
 backlinks:
   - Zet/220122 - Ymir được tạo ra bởi dòng sông Elivagar và dòng dung nham
+  - Zet/220122103109 - Dòng sông Elivagar khởi nguồn Thế Giới
   - Zet/220124231008 - 11 dòng sông bắt nguồn từ Hvergelmir được gọi là Elivagar
-  - Zet/220122 - Dòng sông Elivagar khởi nguồn Thế Giới
   - Zet/220122103002 - Dòng sông Elivagar bắt nguồn từ giếng Hvergelmir
 title: Dòng sông băng Elivagar
 UID: 220122103210

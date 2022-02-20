@@ -2,7 +2,7 @@
 outgoing_links:
   - Zet/Văn Lang
   - Zet/Âu Lạc
-  - Zet/Nhà Ngô
+  - Zet/Garden/Nhà Ngô
   - Zet/Nhà Đinh
   - Zet/Nhà Tiền Lê
   - Zet/Nhà Lý

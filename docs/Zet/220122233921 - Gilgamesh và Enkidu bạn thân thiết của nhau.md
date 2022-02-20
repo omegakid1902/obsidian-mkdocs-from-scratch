@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/Garden/Vua Gilgamesh
 backlinks:
+  - Zet/220220153927 - Enkidu giao đấu với Gilgamesh và sau đó hai người trở thành bạn thân
   - Zet/Garden/Vua Gilgamesh
 title: Gilgamesh và Enkidu bạn thân thiết của nhau
 UID: 220122233921

@@ -8,6 +8,7 @@ backlinks:
   - Zet/220220120333 - Ishtar yêu cầu các vị thần giết một trong hai Enkidu và Gilgamesh
   - Zet/220122233550 - Gilgamesh tàn ác, các vị thần sai Enkidu đến để cảm hóa ông
   - Zet/220220120000 - Ishtar xin Anu trừng phạt Gilgamesh
+  - Zet/220220153708 - Aruru tạo ra Enkidu để chống lại Gilgamesh
   - Zet/220220115052 - Gilgamesh là á thần
   - Zet/220122232853 - Ninsuna là mẹ của Gilgamesh
   - Zet/220122234458 - Gilgamesh tìm đến Utnapishtim để hỏi về sự bất tử
@@ -19,6 +20,7 @@ backlinks:
   - Zet/220220115623 - Với sự giúp đỡ của thần Shamash, Gilgamesh cùng Enkidu giết chết Humbaba
   - Zet/220220120837 - Gilgamesh thất bại trong thử thách thức 7 ngày liên tục
   - Zet/220220120608 - Gilgamesh tìm đến Utnapishtim để tìm ý nghĩa sự sống
+  - Zet/220220153927 - Enkidu giao đấu với Gilgamesh và sau đó hai người trở thành bạn thân
   - Zet/220122233921 - Gilgamesh và Enkidu bạn thân thiết của nhau
   - Zet/220220114804 - Gilgamesh còn được gọi là Bilgames
   - Zet/220122234553 - Gilgamesh không có bí mật trường sinh từ Utnapishtim

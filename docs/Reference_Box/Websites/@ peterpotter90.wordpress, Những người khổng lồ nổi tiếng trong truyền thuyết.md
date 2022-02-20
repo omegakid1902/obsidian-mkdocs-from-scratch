@@ -31,7 +31,7 @@ publish: True
 ## Permanent
 - [[220122 - Cyclops là những người khổng lồ 1 mắt thần thoại Hy Lạp]]
 - [[220122 - Cyclops được sinh ra bởi Gaia và Titan Uranus]]
-- [[220122 - Cyclops giỏi chế tạo vũ khí]]
+- [[220122144630 - Cyclops giỏi chế tạo vũ khí]]
 - [[220122 - Atlas là con của Titan Iapetus và tiên nữ Asia]]
 - [[220122 - Atlas thuộc phe Titan đối đầu với Olympus]]
 - [[220122 - Zues giam các Titan trong Tartarus]]

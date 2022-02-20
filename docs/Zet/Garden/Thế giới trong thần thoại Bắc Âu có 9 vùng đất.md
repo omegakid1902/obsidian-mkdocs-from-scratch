@@ -6,9 +6,9 @@ outgoing_links:
   - Zet/220122 - Vanaheim là vùng đất của Vanir
   - Zet/220122 - Alfheim là nhà của Light Elf
   - Zet/220122 - Midgard là vùng đất của người trần
-  - Zet/220122 - Nidavelli là vùng đất của người Lùn Dwarf
-  - Zet/220122 - Jotunheim là vùng đất của Jotun
-  - Zet/220122 - Svartalfheim là vùng đất của người Dark Elf
+  - Zet/220122122049 - Nidavelli là vùng đất của người Lùn Dwarf
+  - Zet/220122122429 - Jotunheim là vùng đất của Jotun
+  - Zet/220122122650 - Svartalfheim là vùng đất của người Dark Elf
 title: Thế giới trong thần thoại Bắc Âu có 9 vùng đất
 UID: 220122122926
 created: 22-Jan-2022
@@ -29,9 +29,9 @@ Thế giới trong [[Thần thoại Bắc Âu]] có 9 vùng đất, cũng còn �
 - [[Vùng đất Vanaheim]] – [[220122 - Vanaheim là vùng đất của Vanir]]
 - [[Vùng đất Alfheim]]: [[220122 - Alfheim là nhà của Light Elf]]
 - [[Vùng đất Midgard]] – [[220122 - Midgard là vùng đất của người trần]]
-- [[Vùng đất Nidavelli]] – [[220122 - Nidavelli là vùng đất của người Lùn Dwarf]]
-- [[Vùng đất Jotunheim|Jotunheim]] – [[220122 - Jotunheim là vùng đất của Jotun]]
-- [[Vùng đất Svartalfheim]] – [[220122 - Svartalfheim là vùng đất của người Dark Elf]]
+- [[Vùng đất Nidavelli]] – [[220122122049 - Nidavelli là vùng đất của người Lùn Dwarf]]
+- [[Vùng đất Jotunheim|Jotunheim]] – [[220122122429 - Jotunheim là vùng đất của Jotun]]
+- [[Vùng đất Svartalfheim]] – [[220122122650 - Svartalfheim là vùng đất của người Dark Elf]]
 
 ## Ideas & thoughts:
 
