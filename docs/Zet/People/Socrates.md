@@ -2,6 +2,7 @@
 backlinks:
   - Zet/220118223634 - Bốn nhân vật trong Timaeus và Critias của Plato
   - Zet/People/Plato
+  - Zet/Thinking/❕ 220220203740 - Con người dễ hy sinh vì lý tưởng của đám đông hơn là lý tưởng cá nhân
 title: Socrates
 tags:
   - 'created/2021/Jul/10'

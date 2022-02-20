@@ -75,10 +75,7 @@ Mọi sự sống khi nó xuất hiện, không đến từ hư vô, mà đúng 
 Tôn giáo đích thực không phải là tin vào một biến cố siêu nhiên hay tuân theo những luật tắc và nghi lễ. Tôn giáo đích thực là thái độ mà một người có đối với những người khác và với cái thế giới vô hạn - một thái độ dựa trên trí tuệ và kiến thức đương thời. — location: [782]() ^ref-39189
 
 ---
-Chỉ có thân thể bạn mới khổ, chứ linh hồn bạn không biết đến sự khổ72. Cuộc sống tâm linh của bạn càng yếu thì bạn sẽ càng khổ. Tốt nhất là sống bằng linh hồn bạn nhiều hơn. — location: [858]() ^ref-8200
-
----
-Không — location: [867]() ^ref-65314
+Chỉ có thân thể bạn mới khổ, chứ linh hồn bạn không biết đến sự khổ. Cuộc sống tâm linh của bạn càng yếu thì bạn sẽ càng khổ. Tốt nhất là sống bằng linh hồn bạn nhiều hơn. — location: [858]() ^ref-8200
 
 ---
 Hãy “đắp tai ngoảnh mặt” với những dư luận của người khác về bạn76. Nếu không có sự “làm ngơ” đó, bạn sẽ không thể là một người tự do. — location: [906]() ^ref-25419
@@ -87,10 +84,12 @@ Hãy “đắp tai ngoảnh mặt” với những dư luận của người kh�
 Bất cứ sự nô lệ nào cũng dễ chịu đựng hơn là sự nô lệ đặt nền trên tôn giáo dối trá84. Một người, khi đã là tên nô lệ cho một tông phái hay giáo hội nào đó, thì ở dưới sự kiểm soát hoàn toàn của những vị đạo sư của y. — location: [974]() ^ref-58200
 
 ---
-Đừng tin bất cứ điều gì mà chỉ dựa vào lời nói của ai đó89. Hãy suy nghĩ và phân tích mọi sự, rồi chấp nhận chỉ những điều được trí tuệ của bạn phê chuẩn. — location: [1025]() ^ref-5403
+Đừng tin bất cứ điều gì mà chỉ dựa vào lời nói của ai đó. Hãy suy nghĩ và phân tích mọi sự, rồi chấp nhận chỉ những điều được trí tuệ của bạn phê chuẩn. — location: [1025]() ^ref-5403
+- [[220220201342 - Đừng tin điều gì mà chỉ dựa vào lời nói của người khác]]
 
 ---
 Chân lý chỉ đến với bạn nếu bạn dùng trí tuệ của mình. — location: [1029]() ^ref-42663
+- [[💬220220200911 - Chân lý thực chỉ đến khi bạn dùng chính trí tuệ của mình]]
 
 ---
 Cuộc đời chúng ta ở đây trong hiện tại là thời điểm khi mà Thượng đế sống trong chúng ta. Do vậy, một phút của đời ta trong hiện tại thì quý giá hơn bất cứ cái gì khác. Hãy cố gắng hết sức mình, đừng lãng phí thời gian này, và hãy tìm một cách cẩn thận, sự biểu hiện của Thượng đế bên trong mình. — location: [1052]() ^ref-13168
@@ -132,6 +131,8 @@ Nhớ đến cái chết không có nghĩa là sống một cách thường tr�
 
 ---
 “Đừng tìm kiếm lạc thú; thay vào đó, hãy chuẩn bị để tìm thấy lạc thú trong mọi sự mà bạn làm”. John Ruskin — location: [1370]() ^ref-60943
+
+[[💬220220201933 - Tận hưởng niềm vui trong mọi việc mình làm]]
 
 ---
 Đức tin đích thực không cần những ngôi đền lớn, những vật trang trí bằng vàng, hay âm nhạc của đàn organ. — location: [1385]() ^ref-9268
@@ -185,6 +186,8 @@ Chúng ta cảm nhận bệnh tật như là một phiền não, một gánh n�
 
 ---
 “Đừng sợ cái chết. Trái lại, cái chết sẽ là niềm vui sướng đối với kẻ nào đã sống một cuộc đời chân thật”. Marcus Aurelius — location: [1945]() ^ref-8595
+- [[💬220220202104 - Đừng sợ cái chết - Marcus Aurelius]]
+- [[Marcus Aurelius]]
 
 ---
 Khi yêu kẻ khác, chúng ta cảm thấy dễ chịu vào khoảnh khắc đó. Chúng ta không sợ và không muốn bất cứ cái gì khác. Tại sao vậy? Nói một cách đơn giản, bởi vì tình yêu là Thượng đế. Khi ta yêu kẻ khác, ta hợp nhất với Thượng đế và với mọi sự khác đang sống trên thế gian này. Chúng ta còn có thể muốn cái gì, hay sợ hãi cái gì nữa, nếu ta được hợp nhất với Thượng đế và với toàn thế gian? — location: [2014]() ^ref-33891
@@ -210,7 +213,7 @@ Sự cầu nguyện nhắc bạn nhớ lại bạn là ai, và mục đích củ
 Khi bạn cầu nguyện, hãy chỉ cầu nguyện để cải thiện chính mình. Đừng nghĩ rằng bạn làm hài lòng Thượng đế với lời nguyện cầu của mình. Bạn làm hài lòng Thượng đế, chỉ khi nào bạn tuân theo ý chí của Ngài. — location: [2140]() ^ref-16397
 
 - [[Cầu nguyện]]
-- Mục đích của cầu nguyện là cải thiện chính mình, không phải để làm đẹp lòng thượng đế.
+- [[220220202318 - Mục đích của cầu nguyện là cải thiện chính mình, không phải để làm đẹp lòng thượng đế]].
 
 ---
 Không có gì xấu hổ hay tai hại khi bạn không biết một cái gì đó. Bạn nên biết ngượng và xấu hổ khi bạn làm ra vẻ biết cái mà mình thực sự không biết184 — location: [2149]() ^ref-55284
@@ -229,7 +232,8 @@ hữu thức — location: [2202]() ^ref-57042
 ---
 Có câu tục ngữ xưa: “Thượng đế ban sự khổ cho những ai mà Ngài yêu ”. Đó là một câu nói hay, bởi vì sự khổ giải phóng chúng ta khỏi điều xấu189. — location: [2210]() ^ref-1769
 
-- Qua đau khổ, ta mới tỉnh ngộ, mới biết mình là ai, mới biết mình sống để làm gì. Một người sống trong sang giàu, tiện nghi khó có thể có cơ hội nhìn nhận những vấn đề này hơn.
+[[220220202605 - Qua đau khổ ta mới tỉnh ngộ, nhận biết thực tại]]
+- 
 
 ---
 Làm thế nào tôi có thể sợ chết, nếu tôi quen với việc chết mỗi và mọi ngày khi tôi đi ngủ, và rồi tôi có một ngày tốt hơn vào ngày hôm sau? — location: [2229]() ^ref-18500
@@ -267,6 +271,9 @@ Nếu bạn nhìn một kiếp người từ sinh đến tử, bạn có thể s
 ---
 Tình yêu chân thực chỉ xảy ra khi bạn yêu tất cả mọi người, chứ không phải chỉ yêu một số người đặc biệt. — location: [2603]() ^ref-15125
 
+- [[220220202816 - Tình yêu chân thực là yêu tất cả mọi người]]
+
+
 ---
 Người ta bị trừng phạt không phải vì những tội lỗi của họ, mà bởi những tội lỗi của họ - đây mới là sự trừng phạt khó chịu đựng nhất. — location: [2619]() ^ref-38704
 
@@ -297,8 +304,12 @@ Người ta đưa ra những giải thích khác nhau để cắt nghĩa tại s
 ---
 “Nếu chúng ta cần phải cưỡng bách người khác tuân phục công lý bằng cách sử dụng bạo lực, thì đó không phải là công lý chân thực”. Blaise Pascal — location: [2689]() ^ref-30093
 
+[[💬220220203033 - Dùng bạo lực không phải là công lý chân thực]]
+
 ---
 “Giáo hội là tổ chức luôn luôn độc tài, bất luận nó mặc lấy những hình thức bên ngoài nào. Nó không cho bạn niềm xác tín, mà chỉ cho bạn những hướng dẫn về việc phải hành xử như thế nào232”. Immanuel Kant — location: [2711]() ^ref-19165
+
+[[💬220220203130]]
 
 ---
 Đừng nhìn khoa học như là một cái vương miện mà bạn đội vào để cảm thấy đẹp hơn; thay vào đó, hãy xem nó như là con bò cái, nó cho bạn sữa, và có thể nuôi sống bạn. Khoa học chỉ tốt đẹp khi nó giúp bạn trở thành một người tốt hơn. — location: [2715]() ^ref-17575
@@ -315,13 +326,15 @@ Bạn chỉ thực sự sống trong hiện tại. Bạn có khả năng nhớ q
 ---
 Bầu trời đêm phát lộ những vì sao. Cũng у như vậy, sự khổ của chúng ta tiết lộ cho chúng ta ý nghĩa của cuộc đời — location: [2793]() ^ref-3022
 
+[[220220203309 - Sự đau khổ giúp ta nhận biết được ý nghĩa của đời mình]]
+
 ---
 Nếu bạn thực hiện những hành vi yêu thương, bạn sẽ không chết. — location: [2799]() ^ref-34345
 
 ---
 Bạn có thể nhìn cuộc sống như một giấc mơ, và cái chết như một sự thức dậy. “Kẻ nào hiểu rằng у sẽ không bị hủy diệt sau cái chết, là kẻ đã đạt tới sự vĩnh hằng”. Lão Tử — location: [2803]() ^ref-29817
-
-- Thân xác này cần được ngủ và thức dậy nhiều lần. Có lẽ linh hồn ta cũng vậy, cuộc đời này là một ngày tỉnh thức của linh hồn cái chết cũng như một giấc ngủ để chuẩn bị một ngày mới cho linh hồn.
+[[❕ 220220204854 - Chào đời và chết đi là chu kỳ của linh hồn]]
+- 
 
 ---
 “Hãy yêu nhau, như ta đã yêu các ngươi. Bằng việc này, mọi kẻ khác sẽ biết rằng các ngươi là học trò của ta nếu các ngươi yêu lẫn nhau” - Chúa Jesus nói. Ngài không nói, “nếu các ngươi tin” vào điều này hay điều nọ, mà “nếu các ngươi yêu”. Người ta có thể tin những điều khác nhau, và vẫn có cùng một tình yêu. — location: [2824]() ^ref-5138
@@ -329,7 +342,8 @@ Bạn có thể nhìn cuộc sống như một giấc mơ, và cái chết như 
 ---
 Rất thường khi bạn thấy những người hy sinh mọi sự, chẳng hạn, trong chiến tranh hay bằng cách tự vẫn; thế nhưng, bạn sẽ hiếm khi tìm thấy những người sẵn lòng hiến đời mình cho chân lý. Tại sao vậy? Bởi vì, khi đời bạn đặt nền trên những xác tín của đám đông, thì thật dễ hy sinh nó; nhưng thật khó hy sinh đời bạn chỉ duy nhất cho một mình chân lý. — location: [2831]() ^ref-52698
 
-- Nhiều người có thể tự hào chiến đấu và hi sinh trong một cuộc chiến tranh mà anh ta không thể xác định được sự chính nghĩa trong mục đích của nó. Tuy nhiên, hiếm người chịu hy sinh cho chân lý, hiếm ai như [[Socrates]] chẳng hạn. Nguyên nhân là do con người thường đặt niềm tin của họ phù hợp với đám đông, việc hy sinh đó được đám đông công nhận, điều đó ta cảm thấy dễ dàng hơn.
+[[❕ 220220203740 - Con người dễ hy sinh vì lý tưởng của đám đông hơn là lý tưởng cá nhân]]
+- 
 
 ---
 Có một sự nối kết giữa tôi và mọi con người, đang sống và đã chết. Tôi cảm thấy tôi cần những người này, và họ cần tôi. Cùng nhau, tôi sống với họ, và họ sống với tôi. Chúng ta nên suy nghĩ у như vậy về thú vật, ngay cả côn trùng. Hãy nhớ rằng, cùng một linh hồn đang sống trong tất cả chúng ta. Chúng ta nên dạy chính mình lòng từ bi ngay cả đối với côn trùng. Chúng ta càng cảm thấy thương xót và yêu thương, đời ta càng trở nên hạnh phúc hơn và tốt hơn. — location: [2845]() ^ref-18590
@@ -337,7 +351,7 @@ Có một sự nối kết giữa tôi và mọi con người, đang sống và 
 ---
 Những niềm vui lớn mà bạn cảm thấy khi bạn biểu hiện lòng nhân ái đối với thú vật thì lớn hơn rất nhiều, so với những lạc thú nhỏ bé mà bạn thu được từ việc ăn thịt và săn bắn. — location: [2852]() ^ref-49570
 
-- Câu này nghĩa là khi bạn nhận biết mọi vật đều có linh hồn, là sự biểu hiện của [[God|Đấng tạo hóa]] thì việc bạn yêu thương loài vật, yêu thiên nhiên thì đem lại cho bạn niềm hạnh phúc lớn lao hơn là việc bạn tàn phá, giết hại để phục vụ những nhu cầu, thú vui thể xác.
+[[❕ 220220203906 - Niềm vui bạn thể hiện với động vật lơn hơn là việc bạn săn bắt chúng]]
 
 ---
 Moses nói với Thượng đế: “Con có thể tìm thấy Người ở đâu, lạy Chúa?” Và Thượng đế nói: “Nếu ngươi đang tìm kiếm ta, thì người đã tìm thấy ta rồi”. Trích từ The Arabic — location: [2854]() ^ref-8405
@@ -348,7 +362,7 @@ Cái phần của tôi mà không có thân thể vật lý, tôi gọi nó là 
 ---
 Tình yêu không là gì khác hơn là việc hiểu rằng, những người khác, cũng là “tôi”. — location: [2875]() ^ref-63193
 
-- Tình yêu thực sự là nhận biết mình trong người khác.
+- [[❕ 220220204016 - Tình yêu thực sự là nhận biết mình trong người khác]].
 - [[Đức Jesus|Chúa Jesus]]
 
 ---
@@ -356,6 +370,8 @@ Khoa học có thể đạt tiến bộ thực sự lớn trong việc nghiên c
 
 ---
 Chúng ta thường hay nói rằng, sự khổ là xấu ác. Nhưng nếu không có sự khổ, chúng ta sẽ không biết những giới hạn của mình248 — location: [3048]() ^ref-45679
+
+[[❕ 220220204106 - Nhờ đau khổ ta biết được giới hạn của bản thân]]
 
 ---
 Nghĩ rằng, tài sản kếch sù làm cho đời bạn dễ dàng hơn, thì cũng giống như nghĩ rằng, việc đi bộ dễ dàng hơn trong khi đang mang một gánh nặng. — location: [3198]() ^ref-54817
@@ -378,7 +394,8 @@ Hoạt động của những người không hiểu ý nghĩa chân thực của
 ---
 Có bốn giai đoạn trong đời: 1/ Cuộc sống thú vật, là giai đoạn sơ sinh; 2/ Giai đoạn ấu thơ, “tôi làm theo kẻ khác”; 3/ Giai đoạn tuổi trẻ, “sống cho danh vọng và vinh quang”; 4/ Giai đoạn “sống cho linh hồn mình và cho Thượng đế” - đây là giai đoạn của cuộc sống chân thực. — location: [3409]() ^ref-37456
 
-- Theo Tolstoy, con người trải qua ba giai đoạn trước khi có được sự thức tỉnh đem lại sự khôn ngoan và tự do thực sự. Theo mình, 3 giai đoạn đầu phải lệ thuộc cả thân xác và tinh tinh thần, một người có thể dừng lại ở giai đoạn 3 nếu họ không tìm kiếm một sự tự do cho tâm hồn họ, họ vẫn luôn bị kìm kẹp bởi quan điểm xã hội, tìm kiếm danh vọng ở cuộc đời này.
+[[220220204335 - Bốn giai đoạn của cuộc đời theo Tolstoy]]
+
 
 ---
 Những người nghèo - những người ăn những thực phẩm giản dị - không nên ganh tỵ người giàu với những cái dạ dày bị hỏng của họ. Ngược lại, người giàu bệnh hoạn, họ mới nên ganh tỵ với người nghèo khỏe mạnh. — location: [3428]() ^ref-21082
@@ -388,8 +405,9 @@ Những người nghèo - những người ăn những thực phẩm giản dị
 ---
 “Người ta dồn nỗ lực vào việc gia tăng sự giàu có của họ, một ngàn lần nhiều hơn, so với việc nỗ lực gia tăng sự khôn ngoan của mình. Tuy nhiên, tất cả chúng ta đều hiểu rằng, hạnh phúc thì quan trọng hơn là việc có dồi dào của cải”. Arthur Schopenhauer — location: [3432]() ^ref-21130
 
+
+- [[💬220220204555 - Mục đích ở đời là gia tăng sự khôn ngoan, hạnh phúc chứ không phải của cải]]
 - [[Arthur Schopenhauer]]
-- Mục đích ở đời này là gia tăng sự khôn ngoan, hạnh phúc chứ không phải của cải.
 
 ---
 Để học sự khiêm cung, hãy cố chiến đấu chống lại những ý nghĩ kiêu ngạo khi bạn ở một mình. — location: [3530]() ^ref-22880

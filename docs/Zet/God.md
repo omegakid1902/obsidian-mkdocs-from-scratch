@@ -17,6 +17,7 @@ backlinks:
   - Zet/Micael có nghĩa là Ai bằng Thiên Chúa❓
   - Zet/Cựu Ước
   - Zet/Hồi Giáo
+  - Zet/220220202318 - Mục đích của cầu nguyện là cải thiện chính mình, không phải để làm đẹp lòng thượng đế
   - Zet/The Hammer of Witches
   - Zet/Gioan Thánh giá gọi Chúa là nada
   - Zet/Vườn địa đàng
@@ -32,6 +33,7 @@ backlinks:
   - Zet/People/Abraham
   - Zet/People/Thánh Justino
   - Zet/People/Adam và Eva
+  - Zet/Thinking/❕ 220220203906 - Niềm vui bạn thể hiện với động vật lơn hơn là việc bạn săn bắt chúng
   - Zet/Thinking/Tóm tắt sách Sáng Thế
   - Zet/Thinking/❕ 220122113409 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
