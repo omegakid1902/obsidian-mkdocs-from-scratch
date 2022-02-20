@@ -9,4 +9,4 @@ tags:
 # @ Aldous Huxley, Brave New World
 
 ## Notes:
-Tác giả: [[Aldous Huxley]]
+Tác giả: [[ Aldous Huxley]]
