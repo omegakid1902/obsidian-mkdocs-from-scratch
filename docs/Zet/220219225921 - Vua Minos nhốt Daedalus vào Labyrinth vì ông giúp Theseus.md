@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Mê cung Labyrinth
   - Zet/220219225747 - Daedalus giúp Theseus đánh bại quái vật Minotaur
 title: Vua Minos nhốt Daedalus vào Labyrinth vì ông giúp Theseus
 UID: 220219225921

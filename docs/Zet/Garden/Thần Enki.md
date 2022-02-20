@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/220121231251 - Marduk con trai Enki
 backlinks:
   - Zet/Qmap
+  - Zet/220220120333 - Ishtar yêu cầu các vị thần giết một trong hai Enkidu và Gilgamesh
   - Zet/220121 - Enki ngăn cản Abzu giết các thần trẻ
   - Zet/220121 - Enki bảo trợ Eridu
   - Zet/220121 - Enki và Enlil là 2 anh em nhưng tính cách trái ngược

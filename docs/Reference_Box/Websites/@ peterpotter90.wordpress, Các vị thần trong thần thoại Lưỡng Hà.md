@@ -61,7 +61,7 @@ publish: True
 - [[220121 - Anu là vua các vị thần Lưỡng Hà]]
 - [[220121 - Anu con trai của Ansar và Kisar]]
 - [[220121 - Ba vị thần Lưỡng Hà quyền lực Anu, Enlil và Enki]]
-- [[220121 - Ishtar con gái của Anu]]
+- [[220121225501 - Ishtar con gái của Anu]]
 - [[220121 - Anu và Ishtar bảo trợ thành phố Uruk]]
 - [[220121 - Anu nhường quyền Maruk cai quản các vị thần]]
 - [[220121 - Enlil thần gió và không khí]]

@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Vua Gilgamesh
+backlinks:
+  - Zet/Garden/Vua Gilgamesh
 title: Gilgamesh và Enkidu bạn thân thiết của nhau
 UID: 220122233921
 created: 22-Jan-2022

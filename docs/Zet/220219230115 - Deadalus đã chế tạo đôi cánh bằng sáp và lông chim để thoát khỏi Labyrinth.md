@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Mê cung Labyrinth
 backlinks:
   - Zet/220219230236 - Daedalus dặn Icarus không được bay cao vì đôi cánh sáp ong sẽ tan chảy
 title: Deadalus đã chế tạo đôi cánh bằng sáp và lông chim để thoát khỏi Labyrinth

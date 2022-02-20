@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Vua Gilgamesh
   - Zet/God
 title: Gilgamesh tìm kiếm cách để chiến thắng thần chết nhưng thất bại
 UID: 220218202843

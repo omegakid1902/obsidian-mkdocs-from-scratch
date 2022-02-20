@@ -1,8 +1,10 @@
 ---
 backlinks:
-  - Zet/220121 - Ishtar con gái của Anu
+  - Zet/220220120333 - Ishtar yêu cầu các vị thần giết một trong hai Enkidu và Gilgamesh
+  - Zet/220220120000 - Ishtar xin Anu trừng phạt Gilgamesh
   - Zet/220121 - Anu nhường quyền Maruk cai quản các vị thần
   - Zet/220121 - Enlil là con của Anu và Ki
+  - Zet/220121225501 - Ishtar con gái của Anu
   - Zet/220122232701 - Ninsuna là con của Anu và Uras
   - Zet/220121 - Anu và Ishtar bảo trợ thành phố Uruk
   - Zet/220121 - Enlil tách rời trời và đất

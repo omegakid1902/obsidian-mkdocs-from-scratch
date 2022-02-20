@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Mê cung Labyrinth
 backlinks:
   - Zet/220219225921 - Vua Minos nhốt Daedalus vào Labyrinth vì ông giúp Theseus
 title: Daedalus giúp Theseus đánh bại quái vật Minotaur

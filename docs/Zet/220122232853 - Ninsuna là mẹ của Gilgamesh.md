@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Vua Gilgamesh
+backlinks:
+  - Zet/Garden/Vua Gilgamesh
 title: Ninsuna là mẹ của Gilgamesh
 UID: 220122232853
 created: 22-Jan-2022
