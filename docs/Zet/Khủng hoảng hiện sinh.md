@@ -1,7 +1,7 @@
 ---
 outgoing_links:
 backlinks:
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
   - Zet/Thức tỉnh tâm linh
   - Zet/Bóng tối linh hồn
   - Zet/People/Teresa of Avila
@@ -28,7 +28,7 @@ publish: True
 
 ## Ideas & thoughts:
 - [[Chủ nghĩa hiện sinh]]
-- [[❕ Ý nghĩa cuộc sống]]
+- [[Ý nghĩa cuộc sống]]
 - Giải pháp cho vấn đề này là [[Thức tỉnh tâm linh|Phát triển tâm linh]]
 - Tương đương với [[Bóng tối linh hồn]] của [[Teresa of Avila]]
 

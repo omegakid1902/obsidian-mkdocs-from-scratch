@@ -93,13 +93,3 @@ Một cách gọi khác về giai đoạn lịch sử Trung Quốc
 - Lưỡng Tống: [[Bắc Tống]] và [[Nam Tống]]
 
 ## Ideas & thoughts:
-
-## Questions:
-
-
-## Tham khảo:
-```dataview
-list
-from [[@ Wiki, Lịch sử Trung Quốc]]
-sort file.name asc
-```

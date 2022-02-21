@@ -1,11 +1,11 @@
 ---
 outgoing_links:
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
   - Zet/People/Albert Camus
   - Zet/Self Improvement
 backlinks:
   - Zet/Thức tỉnh tâm linh
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
 title: Rat race
 UID: 211006214135
 created: 06-Oct-2021
@@ -25,7 +25,7 @@ Con người bị kéo vào Rat race cũng vì tiêu chuẩn xã hội, khuân m
 
 ## Ideas & thoughts:
 - [[Digital Minimalism]]
-- [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
+- [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
 - [[@jobsgo.vn, Phá bỏ Rat Race – đừng làm chú chuột trong phòng thí nghiệm của cuộc đời]]
 - Quotes:
 	- ![[💬211006-2217#Notes]]

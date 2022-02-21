@@ -1,6 +1,6 @@
 ---
 backlinks:
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
 title: Để khám phá mục đích của cuộc sống, phải khám phá bản thân trước
 UID: 220220184816
 created: 20-Feb-2022

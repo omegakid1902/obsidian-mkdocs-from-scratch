@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/cosmos
   - Zet/Người Amish
 backlinks:
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
 title: To be in the world but not of it
 created: Oct 22, 2020 5:50 AM
 tags:

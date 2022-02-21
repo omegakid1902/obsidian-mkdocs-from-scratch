@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/People/Thánh Gioan Thánh giá
   - Zet/Bóng tối linh hồn
   - Zet/Khủng hoảng hiện sinh
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
   - Zet/Rat race
 backlinks:
   - Zet/Lối tắt tâm linh
@@ -35,7 +35,7 @@ Quá trình thức tỉnh thường khởi đầu bằng một sự kiện, nơi
 
 ## Ideas & thoughts:
 - [[Khủng hoảng hiện sinh]]
-- [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
+- [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]]
 - [[Rat race]]
 - Ai rơi vào trạng thái này nên đọc: 
 	- [[@ Cal Newport, Digital Minimalism]]

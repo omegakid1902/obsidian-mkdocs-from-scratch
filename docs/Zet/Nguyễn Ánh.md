@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/Nhà Tây Sơn
   - Zet/Nhà Nguyễn
   - Zet/Nhà Thanh
+  - Zet/People/Nguyễn Huệ
 backlinks:
   - Zet/Nhà Tây Sơn
   - Zet/Chúa Nguyễn
@@ -40,14 +41,14 @@ Các tên gọi khác:
 
 	- Quân Xiêm La
 	- Quân [[Nhà Thanh]]
-	- Quân [[Pháp]]
+	- Quân [[Nước Pháp]]
 
 - Diện tích nước ta thời Nguyễn Ánh là rộng lớn nhất, và không ảnh hưởng bởi nước ngoài, khai khẩn đất hoang, xây dựng thương mãi.
 - [[Bá Đa Lộc]]
 - Nguyễn Ánh thực có đáng trách như lịch sử chính thống?
 
 ## Reference:
-- Câu chuyện [[Nguyễn Ánh]] và [[Quang Trung]]
+- Câu chuyện [[Nguyễn Ánh]] và [[Nguyễn Huệ]]
 	[[@ youtube.com, Câu chuyện Nguyễn Ánh và Quang Trung|Tóm tắt]]
 	
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/fb8yPH1K3AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

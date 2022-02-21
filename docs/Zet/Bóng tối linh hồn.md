@@ -6,7 +6,7 @@ outgoing_links:
   - Zet/People/Thánh Gioan Thánh giá
   - Zet/People/Teresa of Avila
   - Zet/People/Eckhart Tolle
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
 backlinks:
   - Zet/Thức tỉnh tâm linh
   - Zet/Khủng hoảng hiện sinh
@@ -39,7 +39,7 @@ Giai đoạn này tương đương với [[Khủng hoảng hiện sinh]] trong t
 - [[Teresa of Avila]]
 - Một quyển sách của [[Thánh Gioan Thánh giá]] có tên là [[@ John of the Cross, Dark Night of the Soul|Dark Night of the Soul]]
 - Tác giả [[Eckhart Tolle]] cũng từng trải nghiệm quá trình này.
-- Câu hỏi ám ảnh ta trong giai đoạn này là: Mục đích cuộc đời ta là gì? [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc sống]]
+- Câu hỏi ám ảnh ta trong giai đoạn này là: Mục đích cuộc đời ta là gì? [[Ý nghĩa cuộc sống|Ý nghĩa cuộc sống]]
 
 ## Quotes:
 - [[💬211022-2109]]

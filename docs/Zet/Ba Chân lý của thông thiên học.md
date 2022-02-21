@@ -1,7 +1,7 @@
 ---
 outgoing_links:
   - Zet/Thông thiên học
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
   - Zet/Khủng hoảng hiện sinh
 title: Ba Chân lý của thông thiên học
 UID: 211026235444
@@ -21,6 +21,6 @@ Ba Chân lý của [[Thông thiên học]]:[^1]
 - Mỗi người có quyền quyết định cuộc sống mình.
 
 ## Ideas & thoughts:
-- Chân lý là đây sao!? [[❕ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]], [[Khủng hoảng hiện sinh]]
+- Chân lý là đây sao!? [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]], [[Khủng hoảng hiện sinh]]
 
 [^1]: [[@ Marcel Bohrer, Thông thiên học dẫn giải#211026-2353]]

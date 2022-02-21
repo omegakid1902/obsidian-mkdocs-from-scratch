@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
   - Zet/Garden state
 title: Phim hay
 UID: 210901221242
@@ -14,7 +14,7 @@ publish: True
 
 ## Notes:
 
-Các bộ phim thức thần và [[❕ Ý nghĩa cuộc sống]]: [^1]
+Các bộ phim thức thần và [[Ý nghĩa cuộc sống]]: [^1]
 - [[Waking Life]]
 - [[The tree of life]]
 - [[ It’s Such A Beautiful Day]]

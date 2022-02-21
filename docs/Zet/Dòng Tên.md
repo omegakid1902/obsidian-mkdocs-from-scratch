@@ -43,7 +43,7 @@ Dòng Tên, hay Dòng Chúa Jesus, là một dòng tu [[Công Giáo]]. [[Ignatiu
 - The Jesuit controlled [[Vatican]][^2] #todo/research 
 - [[Giáo hoàng Francis]] xuất thân từ dòng Tên
 - "*Với sự trỗi dậy của chủ nghĩa dân tộc vào thế kỷ 18, hầu hết các nước châu Âu đã đàn áp Dòng Tên, và vào năm 1773, Giáo hoàng Clement XIV đã giải tán hội dưới áp lực của triều Bourbon*"[^1]
-- 1767 [[Pope Clement XIV]] ký sắc lệnh bãi bỏ [[Dòng Tên]] [[Suppression of the Society of Jesus]] và nó đã được thực thi ở các nước Công giáo như [[Pháp]], [[Bồ Đào Nha]] và [[Tây Ban Nha]], tuy nhiên một số nước không theo Công giáo thì không theo [^3] [^4] #todo/research 
+- 1767 [[Pope Clement XIV]] ký sắc lệnh bãi bỏ [[Dòng Tên]] [[Suppression of the Society of Jesus]] và nó đã được thực thi ở các nước Công giáo như [[Nước Pháp]], [[Bồ Đào Nha]] và [[Tây Ban Nha]], tuy nhiên một số nước không theo Công giáo thì không theo [^3] [^4] #todo/research 
 - As Clement XIV signed the decree abolishing the Jesuit Order he said, “I have signed my death warrant,…” Within nine months he was dead. (Many contemporaries considered his death a case of poisoning, and suspected the Jesuits were responsible). [^5] -> [[Pope Clement XIV]] khi ký sắc lệnh bãi bỏ dòng Tên, ngài nói rằng: "Tôi đã ký vào bản án tử của mình,..." và 9 tháng sau, ông qua đời, nhiều người cho rằng ông chết vì bị đầu độc bởi Dòng Tên. #todo/research 
 - ![[Pasted image 20211024230303.png]]
 - The Jesuits are responsible for fomenting the two world wars and escalating the [[Chiến tranh Việt Nam|Vietnam War]] after President Kennedy’s assassination #todo/research 

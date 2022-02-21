@@ -36,3 +36,4 @@ publish: True
 ## Ideas & thoughts:
 - Sống theo nguyên tắc [[To be in the world but not of it]]
 - [[Rat race]]
+

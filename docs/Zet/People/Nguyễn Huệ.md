@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Nhà Tây Sơn
   - Zet/Nguyễn Ánh
 backlinks:
+  - Zet/Nguyễn Ánh
   - Zet/Nhà Tây Sơn
   - Zet/Lịch Sử Việt Nam
 title: Nguyễn Huệ
@@ -37,3 +38,5 @@ Nguyễn Huệ, hay còn được gọi là vua Quang Trung, vị vua thứ 2 th
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/fb8yPH1K3AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - SỰ THẬT VỀ VUA QUANG TRUNG
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/6c0zPaVp2L8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

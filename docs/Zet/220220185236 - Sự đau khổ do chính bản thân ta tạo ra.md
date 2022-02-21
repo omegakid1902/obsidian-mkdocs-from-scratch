@@ -1,6 +1,6 @@
 ---
 backlinks:
-  - Zet/Thinking/❕ Ý nghĩa cuộc sống
+  - Zet/Garden/Ý nghĩa cuộc sống
 title: Sự đau khổ do chính bản thân ta tạo ra
 UID: 220220185236
 created: 20-Feb-2022
