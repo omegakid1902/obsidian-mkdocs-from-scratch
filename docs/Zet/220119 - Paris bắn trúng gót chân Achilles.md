@@ -11,7 +11,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Hoàng tử Paris]] được thần [[Apollo]] tiết lộ điểm yếu của [[Achilles]] ở nơi gót chân, Paris đã dùng cung bắn vào trúng gót chân và Achilles bị kết liễu.
+[[Hoàng tử Paris]] được thần [[Thần Apollo]] tiết lộ điểm yếu của [[Achilles]] ở nơi gót chân, Paris đã dùng cung bắn vào trúng gót chân và Achilles bị kết liễu.
 
 ## Source:
 - [[@ wiki, Cuộc chiến thành Troy]]

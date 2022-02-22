@@ -19,12 +19,12 @@ publish: True
 
 ## Notes:
 - Saturn, sao Thổ
-- [[Thần thoại Hy Lạp]], Saturn là 1 titan, cha của [[Zeus]]. Saturn sợ các con của mình giết mình nên đã nuốt hết chúng vào bụng, Zeus thoát được và sau này lật đổ Saturn rồi đày ông xuống địa ngục.[^1] #todo/research 
+- [[Thần thoại Hy Lạp]], Saturn là 1 titan, cha của [[Thần Zeus]]. Saturn sợ các con của mình giết mình nên đã nuốt hết chúng vào bụng, Zeus thoát được và sau này lật đổ Saturn rồi đày ông xuống địa ngục.[^1] #todo/research 
 
 ## Ideas & thoughts:
 - Saturn đã giết cha mình bằn lưỡi liềm
 	- Saturn có biểu tượng lưỡi liềm
-- [[Zeus]] là [[Jupiter]], sao Mộc, đã lật đổ Saturn
+- [[Thần Zeus]] là [[Jupiter]], sao Mộc, đã lật đổ Saturn
 - Sao Mộc và Sao Thổ đã từng xung đột vị trí trong hệ mặt trời!?[^xungdot]
 - Thần [[Osiris]] trong [[Ai Cập]]cũng chính là Saturn
 - Saturn cũng chính là [[Moloch]], El, [[Baal]]

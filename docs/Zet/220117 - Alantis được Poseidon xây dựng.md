@@ -1,6 +1,6 @@
 ---
 outgoing_links:
-  - Zet/Garden/Poseidon
+  - Zet/Garden/Thần Poseidon
 backlinks:
   - Zet/Atlantis
 title: Alantis được Poseidon xây dựng
@@ -13,7 +13,7 @@ tags:
 publish: True
 ---
 ## Notes:
-Atlantis được [[Poseidon]] xây dựng để tạo ấn tượng với một phụ nữ có tên là [[Cleito]].
+Atlantis được [[Thần Poseidon]] xây dựng để tạo ấn tượng với một phụ nữ có tên là [[Cleito]].
 
 ## Source:
 - [[@ donggoitrithuc, Atlantis]]

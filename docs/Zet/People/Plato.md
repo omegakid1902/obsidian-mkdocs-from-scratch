@@ -9,6 +9,7 @@ backlinks:
   - Zet/Plato có nói về Atlantis
   - Zet/220118 - Plato nhắc đến Atlantis nguồn chính trong Timaeus và Critias
   - Zet/220117 - Quyển Cộng Hòa của Plato nhắc đến Atlantis
+  - Zet/220222214911 - Plato liên hệ 12 vị thần Olympus với 12 tháng
   - Zet/220118 - Các học giả thế kỷ 19 hiểu sai về Atlantis của Plato
   - Zet/Bảy nhà hiền triết Hy Lạp theo Plato
 title: Plato

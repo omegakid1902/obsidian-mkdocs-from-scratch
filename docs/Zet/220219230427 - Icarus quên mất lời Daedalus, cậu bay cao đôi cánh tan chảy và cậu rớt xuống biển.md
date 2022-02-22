@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Icarus]] khi bay trên bầu trời quên mất lời cha dặn, anh hưng phấn và trở nên kiêu ngạo. Anh nghĩ có thể bay cao hơn cả [[Zeus]] và mặt trời đã làm tan chảy sáp ong
+[[Icarus]] khi bay trên bầu trời quên mất lời cha dặn, anh hưng phấn và trở nên kiêu ngạo. Anh nghĩ có thể bay cao hơn cả [[Thần Zeus]] và mặt trời đã làm tan chảy sáp ong
 
 ## Source:
 - [[@ tinhhoa.net, Thần thoại Hy Lạp - Icarus muốn chinh phục bầu trời và vọng tưởng của những tín đồ khoa học]]

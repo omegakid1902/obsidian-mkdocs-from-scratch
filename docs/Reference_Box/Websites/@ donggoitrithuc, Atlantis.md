@@ -12,7 +12,7 @@ publish: True
 ## Sum
 - [[Atlantis]] được nhắc đến trong tác phẩm [[@ Plato, Cộng Hòa]] của [[Plato]] khoảng năm 330 TCN
 - Atlantis là một quốc gia kiêu căng, tuy thịnh vượng nhưng suy đồi về đạo đức
-- Atlantis được [[Poseidon]] xây dựng để tạo ấn tượng với một phụ nữ có tên là Cleito.
+- Atlantis được [[Thần Poseidon]] xây dựng để tạo ấn tượng với một phụ nữ có tên là Cleito.
 - Theo một số giả thuyết, người Atlantis có thể là người ngoài hành tinh
 	- Họ cao lớn và da sáng hơn người thường.
 	- người Atlantis có tuổi thọ cao có thể lên tới 800 tuổi

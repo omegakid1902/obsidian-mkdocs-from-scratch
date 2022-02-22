@@ -14,7 +14,7 @@ publish: True
 - Icarus là con trai của Daedalus
 - Để thoát ra khỏi mê cung Labyrinth, Deadalus đã dùng sáp ong và lông chim có trong mê cung Labyrinth để tạo ra 2 đôi cánh cho ông và con ông thoát ra khỏi mê cung.
 - Daedalus đưa cho Icarus đôi cánh và dặn rằng khi bay, không được bay quá cao vì sức nóng mặt trời sẽ làm chảy sáp ong.
-- Icarus khi bay trên bầu trời quên mất lời cha dặn, anh hưng phấn và trở nên kiêu ngạo. Anh nghĩ có thể bay cao hơn cả [[Zeus]] và mặt trời đã làm tan chảy sáp ong
+- Icarus khi bay trên bầu trời quên mất lời cha dặn, anh hưng phấn và trở nên kiêu ngạo. Anh nghĩ có thể bay cao hơn cả [[Thần Zeus]] và mặt trời đã làm tan chảy sáp ong
 
 ## Permanent
 - [[220219225747 - Daedalus giúp Theseus đánh bại quái vật Minotaur]]
