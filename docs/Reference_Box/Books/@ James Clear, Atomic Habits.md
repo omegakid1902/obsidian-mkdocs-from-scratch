@@ -7,10 +7,37 @@ tags:
 ---
 # @ James Clear, Atomic Habits
 
-## Summary
-
+Tác giả: [[James Clear]] 
 
 ## Questions and thoughts
 - [[Qui luật của Goodhart]] 
 - [[Nguyên tắc Cardinal]] 
 - [[Thoreau New Economics]]
+
+## Permanent
+- [[220223204108 - Câu chuyện James Clear đầu quyển Atomic Habits]]
+- [[220223204436 - Huấn luyện viên xe đạp Anh Brailsford áp dụng nguyên tắc tiến bộ 1% và gặt hái thành công]]
+- [[💬220223204802 - Thành công là tích lũy thói quen chứ không phải lột xác 1 lần]]
+- [[220223205031 - Măng trúc tích lũy trong 5 năm đầu trước khi phát triển]]
+- [[220223205234 - Thất bại của việc hình thành 1 thói quen là bạn muốn một kết quả thấy được khi thời gian chưa tích lũy đủ]]
+- [[220223205424 - Thói quen đi liền với mục tiêu]]
+- [[220223205534 - Thiết lập thói quen dựa trên mục tiêu và hệ thống]]
+- [[220223205943 - Nếu chỉ chú trọng vào hệ thống mà không quan tâm mục tiêu vẫn có thể thành công]]
+- [[220223210208 - Để thiết lập thói quen, tập trung hoạch định hệ thống thay vì tập trung mục tiêu]]
+- [[220223210540 - Đạt được mục tiêu chỉ là một sự thay đổi nhất thời về kết quả đầu ra chứ không phải yếu tố đầu vào]]
+- [[💬220223210803 - Các mục tiêu giới hạn hạnh phúc của bạn]]
+- [[❕ 220223211033 - Việc theo đuổi mục tiêu khiến ta đánh mất việc tận hưởng hạnh phúc quá trình]]
+- [[💬220223211405 - Tận hưởng quá trình]]
+- [[💬220223211637 - Duy trì thói quen]]
+- [[220223212454 - Ba cấp độ thay đổi 1 thói quen]]
+- [[220223212749 - Để thay đổi một thói quen hãy thay đổi theo cấp độ đặc tính (220223212454)]]
+- [[💬220223213122 - Không thể duy trì các việc không đúng với quan niệm bản thân]]
+- [[220223213345 - Dễ duy trì thói quen phù hợp với đặc tính bạn tự hào]]
+- [[220223213558 - Thói quen củng cố đặc tính và đặc tính biểu hiện qua thói quen]]
+- [[220223213658 - Hai bước để thay đổi đặc tính bản thân]]
+- [[💬220223213904 - Thói quen và đặc tính]]
+- [[💬220223214419 - Thói quen là hành vi lặp lại thành tự động]]
+- [[220223214605 - Chu kỳ 4 bước của một thói quen]]
+- [[220223214750 - 4 Quy luật thay đổi hành vi để xây dựng thói quen tốt]]
+- [[Phương pháp chỉ tay và gọi]]
+- [[220223215139 - Việc nói to một dự định khiến ta dễ thực hiện việc đó trong tương lai]]
