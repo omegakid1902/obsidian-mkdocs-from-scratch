@@ -26,6 +26,7 @@ backlinks:
   - Zet/Micael không phải tổng lãnh thiên thần
   - Zet/Kỷ nguyên Bảo Bình
   - Zet/220218202843 - Gilgamesh tìm kiếm cách để chiến thắng thần chết nhưng thất bại
+  - Zet/220224212038 - Siêu hình học có chủ đề chính là về Thiên Chúa
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/People/Moses
   - Zet/People/Đức Jesus

@@ -1,5 +1,7 @@
 ---
 backlinks:
+  - Zet/220224203053 - Dựa vào nguyên tắc 1 thiết lập thói quen, sắp xếp lại môi trường sống
+  - Zet/220224202747 - Dựa vào quy luật 1 Dấu hiệu (Cue) để xây dựng thói quen
   - Zet/220223214750 - 4 Quy luật thay đổi hành vi để xây dựng thói quen tốt
 title: Chu kỳ 4 bước của một thói quen
 UID: 220223214605

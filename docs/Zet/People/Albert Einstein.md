@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/People/Nicola Tesla
+backlinks:
+  - Zet/220224213444 - Các nhà khoa học cũng thường khảo cứu về Siêu hình học
 title: Albert Einstein
 UID: 211015223014
 tags:
