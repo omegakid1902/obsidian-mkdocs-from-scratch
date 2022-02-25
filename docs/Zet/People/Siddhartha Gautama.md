@@ -2,6 +2,7 @@
 backlinks:
   - Zet/12 cấp độ rung động của linh hồn
   - Zet/Phật Giáo
+  - Zet/220225215435 - Thần Vishnu hóa thành Phật Thích ca ở lần giáng trần thứ 9
 title: Siddhartha Gautama
 UID: 211023225928
 tags:
@@ -13,6 +14,7 @@ death:
 aliases:
   - Tất-đạt-đa Cồ-đàm
   - Đức Phật
+  - Phật Thích ca
 publish: True
 ---
 # Siddhartha Gautama

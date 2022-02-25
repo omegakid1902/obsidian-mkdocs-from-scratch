@@ -8,11 +8,13 @@ backlinks:
   - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
   - Zet/Religion
   - Zet/Angkor Wat
+  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
   - Zet/Tam thần Ấn giáo
   - Zet/Thánh địa Mỹ Sơn
   - Zet/Thần Shiva
   - Zet/Thần Vishnu
   - Zet/Thần Brahma
+  - Zet/220225215928 - Đạo Hindu chia thành 2 phái Vishnu và Shiva
   - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
 title: Ấn Độ giáo
 UID: P-210704-1610

@@ -6,6 +6,7 @@ outgoing_links:
   - Zet/Thần Shiva
 backlinks:
   - Zet/Ấn Độ giáo
+  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
   - Zet/Thần Shiva
   - Zet/Thần Vishnu
   - Zet/Thần Brahma

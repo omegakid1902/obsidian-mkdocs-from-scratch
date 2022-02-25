@@ -12,6 +12,8 @@ backlinks:
   - Zet/Người Do Thái Sephardi
   - Zet/Religion
   - Zet/God
+  - Zet/220225204848 - Tín đồ Hồi giáo cầu nguyện 5 lần 1 ngày
+  - Zet/220225204621 - Hồi giáo không thờ ảnh tượng
   - Zet/Kinh Koran
   - Zet/People/Alberto Rivera
   - Zet/People/Thánh Anna
