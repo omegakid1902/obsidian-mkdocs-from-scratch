@@ -12,7 +12,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Thần Atlas]] là một trong những người chỉ huy phe [[Titan]] đối đầu với  [[Các vị thần Olympus]]. 
+[[Thần Atlas]] là một trong những người chỉ huy phe [[Người khổng lồ Titan]] đối đầu với  [[Các vị thần Olympus]]. 
 
 ## Source:
 - [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]

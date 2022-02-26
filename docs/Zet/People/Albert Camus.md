@@ -9,6 +9,7 @@ backlinks:
   - Zet/220127222831 - Sự phi lý trong absurdism là con người tìm kiếm ý nghĩ nhưng cuộc đời ko có ý nghĩa
   - Zet/220127222429 - Sartre nói xấu Camus chỉ đáng tầm giáo viên
   - Zet/Jean Paul Sartre
+  - Zet/220226204239 - Camus chết trong vụ tai nạn xe hơi
   - Zet/220127222341 - Camus và Sartre từng là bạn thân
   - Zet/Writing/So sánh giữa Existentialism và Nihilism
 title: Albert Camus

@@ -9,7 +9,7 @@ tags:
 publish: True
 ---
 ## Notes:
-Những [[Người khổng lồ Cyclops|Cyclops]] được sinh ra bởi [[Nữ thần Gaia]] và [[Titan Uranus]]
+Những [[Người khổng lồ Cyclops|Cyclops]] được sinh ra bởi [[Nữ thần Gaia]] và [[Thần bầu trời Uranus]]
 
 ## Source:
 - [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]

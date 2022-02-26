@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/220122232853 - Ninsuna là mẹ của Gilgamesh
 backlinks:
   - Zet/220220115810 - Gilgamesh khước từ tình cảm của thần Ishtar
+  - Zet/220226211307 - Shamash giúp Gilgamesh đánh bại yêu tinh Humbaba
   - Zet/220225202305 - Ishtar phải lòng Gilgamesh
   - Zet/220220120333 - Ishtar yêu cầu các vị thần giết một trong hai Enkidu và Gilgamesh
   - Zet/220122233550 - Gilgamesh tàn ác, các vị thần sai Enkidu đến để cảm hóa ông

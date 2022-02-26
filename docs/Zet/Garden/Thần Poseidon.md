@@ -6,6 +6,7 @@ backlinks:
   - Zet/220117 - Alantis được Poseidon xây dựng
   - Zet/220119 - Thành Troy được xây bởi Apollo và Poseidon
   - Zet/220222220052 - Poseidon là anh của Zeus và em của Hades
+  - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
 title: Thần Poseidon
 UID: 220119233908
 created: 19-Jan-2022

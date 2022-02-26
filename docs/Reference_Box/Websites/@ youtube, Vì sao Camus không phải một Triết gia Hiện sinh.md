@@ -17,6 +17,7 @@ publish: True
 - Sau khi nghỉ chơi với nhau, Jean Paul Sartre nói xấu Albert Camus rằng Camus chỉ đáng là giáo viên dạy học không đáng là triết gia.
 
 ## Permanent:
+- [[220226204239 - Camus chết trong vụ tai nạn xe hơi]]
 - [[220127222106 - Camus phủ nhận mình là thuộc trường phái hiện sinh]]
 - [[220127222247 - Bản chất con người có sau sự tồn tại]]
 - [[220127222831 - Sự phi lý trong absurdism là con người tìm kiếm ý nghĩ nhưng cuộc đời ko có ý nghĩa]]

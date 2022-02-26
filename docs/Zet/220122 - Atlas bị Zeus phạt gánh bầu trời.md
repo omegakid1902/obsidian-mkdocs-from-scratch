@@ -11,7 +11,7 @@ tags:
 publish: True
 ---
 ## Notes:
-Olympus giành chiến thắng trước phe [[Titan]]. Là một trong những người chỉ huy phe Titan chống [[Olympus]], [[Thần Atlas]] nhận hình phạt nặng nhất là suốt đời gánh đỡ cả bẩu trời.
+Olympus giành chiến thắng trước phe [[Người khổng lồ Titan|Titan]]. Là một trong những người chỉ huy phe Titan chống [[Olympus]], [[Thần Atlas]] nhận hình phạt nặng nhất là suốt đời gánh đỡ cả bẩu trời.
 
 ## Related:
 - [[220122 - Atlas thuộc phe Titan đối đầu với Olympus]]

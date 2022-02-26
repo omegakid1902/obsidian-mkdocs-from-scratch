@@ -10,7 +10,7 @@ publish: True
 
 ## Sum
 - Có 2 Titan không bị giam ở [[Địa ngục Tartarus]] là [[Bảo Bình|Prometheus]] và [[Epimetheus]].
-- [[Bảo Bình|Prometheus]] và [[Epimetheus]] là 2 [[Titan]] không tham gia cuộc chiến với các thần trên đỉnh Olympus
+- [[Bảo Bình|Prometheus]] và [[Epimetheus]] là 2 [[Người khổng lồ Titan]] không tham gia cuộc chiến với các thần trên đỉnh Olympus
 - Zeus đã giao cho Prometheus và Epimetheus tạo ra con người và các sinh vật
 - [[Bảo Bình|Prometheus]] lấy đất sét nặn ra con người, thần Athena thổi hơi ban cho con người sự sống.
 - [[Bảo Bình|Prometheus]]  yêu quý con người và ông ăn cắp lửa của các vị thần trao cho con người

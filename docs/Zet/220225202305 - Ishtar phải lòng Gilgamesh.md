@@ -20,7 +20,7 @@ publish: True
 - [[220220115810 - Gilgamesh khước từ tình cảm của thần Ishtar]]
 
 ## Source:
-- [[@ Tomas Alvira, Siêu hình học]], p.39
+- [[@ Vũ Dương Ninh, Lịch sử văn minh thế giới]], p.39
 
 
 

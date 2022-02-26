@@ -11,7 +11,7 @@ tags:
 publish: True
 ---
 ## Notes:
-Sau khi phe Titan thua cuộc, [[Thần Zeus]] giam giữ các [[Titan]] trong [[Địa ngục Tartarus]], Atlas nhận hình phạt nặng nhất là suốt đời gánh đỡ cả bẩu trời.
+Sau khi phe Titan thua cuộc, [[Thần Zeus]] giam giữ  [[Người khổng lồ Titan|Các Titan]] trong [[Địa ngục Tartarus]], Atlas nhận hình phạt nặng nhất là suốt đời gánh đỡ cả bẩu trời.
 
 ## Related:
 [[220122 - Atlas thuộc phe Titan đối đầu với Olympus]]

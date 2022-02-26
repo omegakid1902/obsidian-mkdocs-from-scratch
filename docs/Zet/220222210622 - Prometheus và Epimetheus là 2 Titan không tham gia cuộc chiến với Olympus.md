@@ -14,7 +14,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Bảo Bình|Prometheus]] và [[Epimetheus]] là 2 [[Titan]] không tham gia cuộc chiến với các thần trên đỉnh Olympus
+[[Bảo Bình|Prometheus]] và [[Epimetheus]] là 2 [[Người khổng lồ Titan|Titan]] không tham gia cuộc chiến với các thần trên đỉnh Olympus
 
 ## Relate:
 [[220222210421 - Prometheus và Epimetheus là hai Titan không bị giam trong Tartarus]]
