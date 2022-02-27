@@ -7,6 +7,7 @@ outgoing_links:
   - Zet/220227083326 - Theo Hesiod, Aphrodite được sinh ra ở biển Cythera từ bọt biển
 backlinks:
   - Zet/220227083326 - Theo Hesiod, Aphrodite được sinh ra ở biển Cythera từ bọt biển
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Tinh hoàn của Uranus rơi xuống biển, bọt biển sinh ra Aphrodite
 UID: 220226222653
 created: 26-Feb-2022

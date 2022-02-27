@@ -5,6 +5,8 @@ outgoing_links:
   - Zet/220227083536 - Trong Iliad của Homer, Aphrodite là con của Zeus và Dione
   - Zet/220227083326 - Theo Hesiod, Aphrodite được sinh ra ở biển Cythera từ bọt biển
   - Zet/220227084648 - Theo Plato, Aphrodite bọt biển và Aphrodite con Zeus là hai nhân vật khác nhau
+backlinks:
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Hai quan điểm về nguồn gốc của Aphrodite
 UID: 220227083833
 created: 27-Feb-2022

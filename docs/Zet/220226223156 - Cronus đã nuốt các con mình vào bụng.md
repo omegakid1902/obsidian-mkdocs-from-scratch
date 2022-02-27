@@ -9,6 +9,7 @@ backlinks:
   - Zet/220226223627 - Zeus giết Cronus cha mình giải thoát các anh chị mình
   - Zet/220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình
   - Zet/220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Cronus đã nuốt các con mình vào bụng
 UID: 220226223156
 created: 26-Feb-2022

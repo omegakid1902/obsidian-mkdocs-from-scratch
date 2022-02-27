@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/220226222000 - Cronus nhận lời Gaia giết Uranus cha mình
 backlinks:
   - Zet/220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Gaia dụ Uranus xuống quan hệ, thừa cơ Cronus hại Uranus
 UID: 220226222417
 created: 26-Feb-2022
