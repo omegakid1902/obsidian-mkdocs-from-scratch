@@ -8,6 +8,7 @@ backlinks:
   - Zet/Backlink Graph View
   - Zet/Phần mềm Notion
   - Zet/LYT framework
+  - Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow
   - Zet/Writing/Tóm tắt sách - How to take smart notes
 title: Obsidian
 UID: 211107211929

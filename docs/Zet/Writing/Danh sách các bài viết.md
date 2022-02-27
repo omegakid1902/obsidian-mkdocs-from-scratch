@@ -16,6 +16,7 @@ outgoing_links:
   - Zet/Writing/Tóm tắt sách - Atomic Habits
   - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
   - Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓
+  - Zet/Writing/Zettelkasten Workflow
 title: Danh sách các bài viết
 UID: 211120161539
 created: 20-Nov-2021
@@ -44,4 +45,5 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Tóm tắt sách - Atomic Habits]]
 - [[Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV]]
 - [[Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓]]
+- [[Zettelkasten Workflow]]
 

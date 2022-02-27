@@ -9,6 +9,8 @@ backlinks:
   - Zet/Fleeting Note
   - Zet/Literature Note
   - Zet/The Luhmann Notes
+  - Zet/Thinking/❕ 210714195600 - Zettelkasten Workflow
+  - Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow
 title: Permanent Note
 created: Oct 21, 2020 10:09 PM
 tags:
