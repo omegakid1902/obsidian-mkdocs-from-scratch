@@ -3350,6 +3350,7 @@
             "Backlink Graph View",
             "Phần mềm Notion",
             "LYT framework",
+            "❕ 220227164300 - Zettelkasten Workflow",
             "Tóm tắt sách - How to take smart notes"
         ]
     },
@@ -7339,7 +7340,9 @@
             "Zettelkasten",
             "Fleeting Note",
             "Literature Note",
-            "The Luhmann Notes"
+            "The Luhmann Notes",
+            "❕ 210714195600 - Zettelkasten Workflow",
+            "❕ 220227164300 - Zettelkasten Workflow"
         ]
     },
     "220205095451 - Đại Việt sử ký tiền biên, Khâm định Việt sử Thông giám Cương mục được biên soạn dựa trên Đại Việt Sử ký toàn thư": {
@@ -8243,7 +8246,8 @@
             "Zettelkasten",
             "Permanent Note",
             "Fleeting Note",
-            "The Luhmann Notes"
+            "The Luhmann Notes",
+            "❕ 210714195600 - Zettelkasten Workflow"
         ]
     },
     "Các tổng thống Mỹ bị ám sát": {
@@ -12412,7 +12416,9 @@
     "Các tài liệu zettelkasten": {
         "id": 1233,
         "url": "Zet/Garden/Các tài liệu zettelkasten.md",
-        "outgoing_links": [],
+        "outgoing_links": [
+            "❕ 210714195600 - Zettelkasten Workflow"
+        ],
         "backlinks": [
             "Zettelkasten"
         ]
@@ -14930,8 +14936,23 @@
         "outgoing_links": [],
         "backlinks": []
     },
-    "❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh": {
+    "❕ 210714195600 - Zettelkasten Workflow": {
         "id": 1428,
+        "url": "Zet/Thinking/❕ 210714195600 - Zettelkasten Workflow.md",
+        "outgoing_links": [
+            "Literature Note",
+            "Permanent Note",
+            "wiki_an_duong_vuong.PNG",
+            "trieu_da_danh_au_lac.PNG"
+        ],
+        "backlinks": [
+            "Các tài liệu zettelkasten",
+            "❕ 220227164300 - Zettelkasten Workflow",
+            "Zettelkasten Workflow"
+        ]
+    },
+    "❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh": {
+        "id": 1429,
         "url": "Zet/Thinking/❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh.md",
         "outgoing_links": [
             "Chủ nghĩa Hư vô",
@@ -14943,7 +14964,7 @@
         ]
     },
     "❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người": {
-        "id": 1429,
+        "id": 1430,
         "url": "Zet/Thinking/❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người.md",
         "outgoing_links": [
             "Ý nghĩa cuộc sống"
@@ -14951,7 +14972,7 @@
         "backlinks": []
     },
     "Tóm tắt sách Sáng Thế": {
-        "id": 1430,
+        "id": 1431,
         "url": "Zet/Thinking/Tóm tắt sách Sáng Thế.md",
         "outgoing_links": [
             "God",
@@ -14969,7 +14990,7 @@
         ]
     },
     "❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith": {
-        "id": 1431,
+        "id": 1432,
         "url": "Zet/Thinking/❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith.md",
         "outgoing_links": [
             "Chủ nghĩa hiện sinh",
@@ -14978,7 +14999,7 @@
         "backlinks": []
     },
     "❕ 220122113409 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu": {
-        "id": 1432,
+        "id": 1433,
         "url": "Zet/Thinking/❕ 220122113409 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu.md",
         "outgoing_links": [
             "God",
@@ -14990,7 +15011,7 @@
         ]
     },
     "❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal": {
-        "id": 1433,
+        "id": 1434,
         "url": "Zet/Thinking/❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal.md",
         "outgoing_links": [
             "Homo Sapiens",
@@ -14999,27 +15020,39 @@
         "backlinks": []
     },
     "❕ 220218215653 - Cách thức để tìm hạnh phúc": {
-        "id": 1434,
+        "id": 1435,
         "url": "Zet/Thinking/❕ 220218215653 - Cách thức để tìm hạnh phúc.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "❕ Học thuyết là giả định, thuyết được chứng minh gọi là định luật": {
-        "id": 1435,
+        "id": 1436,
         "url": "Zet/Thinking/❕ Học thuyết là giả định, thuyết được chứng minh gọi là định luật.md",
         "outgoing_links": [],
         "backlinks": [
             "Thuyết tiến hóa chưa là định luật, chưa được chứng minh"
         ]
     },
+    "❕ 220227164300 - Zettelkasten Workflow": {
+        "id": 1437,
+        "url": "Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow.md",
+        "outgoing_links": [
+            "❕ 210714195600 - Zettelkasten Workflow",
+            "Permanent Note",
+            "Obsidian"
+        ],
+        "backlinks": [
+            "Zettelkasten Workflow"
+        ]
+    },
     "220218200502 - Văn hóa như ký sinh trùng trong não người": {
-        "id": 1436,
+        "id": 1438,
         "url": "Zet/Thinking/220218200502 - Văn hóa như ký sinh trùng trong não người.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được": {
-        "id": 1437,
+        "id": 1439,
         "url": "Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được.md",
         "outgoing_links": [
             "Nhà Trần",
@@ -15028,13 +15061,13 @@
         "backlinks": []
     },
     "❕ 220224205131 - Toán học là một quốc tế ngữ": {
-        "id": 1438,
+        "id": 1440,
         "url": "Zet/Thinking/❕ 220224205131 - Toán học là một quốc tế ngữ.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite": {
-        "id": 1439,
+        "id": 1441,
         "url": "Zet/Thinking/❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite.md",
         "outgoing_links": [
             "Plato",
@@ -15048,7 +15081,7 @@
         ]
     },
     "❕ 220224204043 - Hạnh phúc là ở quá trình, không phải là đích đến": {
-        "id": 1440,
+        "id": 1442,
         "url": "Zet/Thinking/❕ 220224204043 - Hạnh phúc là ở quá trình, không phải là đích đến.md",
         "outgoing_links": [],
         "backlinks": [
@@ -15056,7 +15089,7 @@
         ]
     },
     "❕ 220218204339 - Khao khát chinh phục những vùng đất xa của người Châu Âu khiến họ vượt trội so với Trung Quốc": {
-        "id": 1441,
+        "id": 1443,
         "url": "Zet/Thinking/❕ 220218204339 - Khao khát chinh phục những vùng đất xa của người Châu Âu khiến họ vượt trội so với Trung Quốc.md",
         "outgoing_links": [],
         "backlinks": [
@@ -15064,7 +15097,7 @@
         ]
     },
     "Sách - Yuval N. Harari, Sapiens lược sử loài người": {
-        "id": 1442,
+        "id": 1444,
         "url": "Zet/Writing/Sách - Yuval N. Harari, Sapiens lược sử loài người.md",
         "outgoing_links": [],
         "backlinks": [
@@ -15072,7 +15105,7 @@
         ]
     },
     "Tóm tắt sách truyền thuyết về sự lây nhiễm": {
-        "id": 1443,
+        "id": 1445,
         "url": "Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm.md",
         "outgoing_links": [
             "Các định đề Robert Koch",
@@ -15095,7 +15128,7 @@
         ]
     },
     "❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người": {
-        "id": 1444,
+        "id": 1446,
         "url": "Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người.md",
         "outgoing_links": [
             "Xung đột Israel - Palestine",
@@ -15114,7 +15147,7 @@
         ]
     },
     "Tóm tắt sách - Atomic Habits": {
-        "id": 1445,
+        "id": 1447,
         "url": "Zet/Writing/Tóm tắt sách - Atomic Habits.md",
         "outgoing_links": [],
         "backlinks": [
@@ -15122,7 +15155,7 @@
         ]
     },
     "Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓": {
-        "id": 1446,
+        "id": 1448,
         "url": "Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓.md",
         "outgoing_links": [
             "Thông điệp Fatima",
@@ -15135,7 +15168,7 @@
         ]
     },
     "Sự kiện lịch sử từ Nhà minh tới nhà Thanh": {
-        "id": 1447,
+        "id": 1449,
         "url": "Zet/Writing/Sự kiện lịch sử từ Nhà minh tới nhà Thanh.md",
         "outgoing_links": [
             "Lý Tự Thành",
@@ -15146,7 +15179,7 @@
         ]
     },
     "Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều": {
-        "id": 1448,
+        "id": 1450,
         "url": "Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều.md",
         "outgoing_links": [
             "John Pierpont Morgan",
@@ -15159,7 +15192,7 @@
         ]
     },
     "Danh sách các bài viết": {
-        "id": 1449,
+        "id": 1451,
         "url": "Zet/Writing/Danh sách các bài viết.md",
         "outgoing_links": [
             "Zettelkasten",
@@ -15177,12 +15210,13 @@
             "Tóm tắt sách truyền thuyết về sự lây nhiễm",
             "Tóm tắt sách - Atomic Habits",
             "Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV",
-            "Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓"
+            "Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓",
+            "Zettelkasten Workflow"
         ],
         "backlinks": []
     },
     "Sách - Leo Tolstoy, Suy niệm mỗi ngày": {
-        "id": 1450,
+        "id": 1452,
         "url": "Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày.md",
         "outgoing_links": [
             "Leo Tolstoy",
@@ -15193,7 +15227,7 @@
         ]
     },
     "Tiểu sử tiên tri Moses": {
-        "id": 1451,
+        "id": 1453,
         "url": "Zet/Writing/Tiểu sử tiên tri Moses.md",
         "outgoing_links": [
             "Người Do Thái",
@@ -15206,7 +15240,7 @@
         ]
     },
     "Tóm tắt sách - Digital Minimalism": {
-        "id": 1452,
+        "id": 1454,
         "url": "Zet/Writing/Tóm tắt sách - Digital Minimalism.md",
         "outgoing_links": [],
         "backlinks": [
@@ -15214,13 +15248,13 @@
         ]
     },
     "Các vụ án Công giáo": {
-        "id": 1453,
+        "id": 1455,
         "url": "Zet/Writing/Các vụ án Công giáo.md",
         "outgoing_links": [],
         "backlinks": []
     },
     "Tóm tắt sách - How to take smart notes": {
-        "id": 1454,
+        "id": 1456,
         "url": "Zet/Writing/Tóm tắt sách - How to take smart notes.md",
         "outgoing_links": [
             "Obsidian",
@@ -15232,7 +15266,7 @@
         ]
     },
     "Sự khác biệt giữa Công giáo và Tin lành": {
-        "id": 1455,
+        "id": 1457,
         "url": "Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành.md",
         "outgoing_links": [
             "Công Giáo",
@@ -15246,7 +15280,7 @@
         ]
     },
     "So sánh giữa Existentialism và Nihilism": {
-        "id": 1456,
+        "id": 1458,
         "url": "Zet/Writing/So sánh giữa Existentialism và Nihilism.md",
         "outgoing_links": [
             "Chủ nghĩa Hư vô",
@@ -15255,8 +15289,19 @@
         ],
         "backlinks": []
     },
+    "Zettelkasten Workflow": {
+        "id": 1459,
+        "url": "Zet/Writing/Zettelkasten Workflow.md",
+        "outgoing_links": [
+            "❕ 210714195600 - Zettelkasten Workflow",
+            "❕ 220227164300 - Zettelkasten Workflow"
+        ],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
     "Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV": {
-        "id": 1457,
+        "id": 1460,
         "url": "Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV.md",
         "outgoing_links": [
             "Kary B. Mullis",
