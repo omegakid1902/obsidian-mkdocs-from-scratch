@@ -1,6 +1,7 @@
 ---
 backlinks:
   - Zet/220226222000 - Cronus nhận lời Gaia giết Uranus cha mình
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Cronus là con út của Gaia và Uranus
 UID: 220226222048
 created: 26-Feb-2022

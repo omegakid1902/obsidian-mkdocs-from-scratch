@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Gia Phả Thần thoại Hy Lạp
 UID: 220226215142
 created: 26-Feb-2022

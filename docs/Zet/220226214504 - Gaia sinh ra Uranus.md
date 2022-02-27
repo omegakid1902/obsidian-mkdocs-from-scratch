@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/220226214628 - Uranus là con trai cũng là chồng của Gaia
+backlinks:
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Gaia sinh ra Uranus
 UID: 220226214504
 created: 26-Feb-2022

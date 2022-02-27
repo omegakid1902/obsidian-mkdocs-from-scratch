@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Hy Lạp
   - Zet/Satanism
 backlinks:
   - Zet/220227094101 - Saturn trong thần thoại La Mã tương đương với Cronus

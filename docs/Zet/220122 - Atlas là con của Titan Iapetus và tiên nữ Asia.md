@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Hy Lạp
 title: Atlas là con của Titan Iapetus và tiên nữ Asia
 UID: 220122144708
 created: 22-Jan-2022

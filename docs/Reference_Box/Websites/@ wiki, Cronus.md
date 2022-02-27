@@ -9,7 +9,7 @@ publish: True
 - link: https://vi.wikipedia.org/wiki/Cronus
 
 ## Permanents:
-- [[Titan Cronus|Cronus]]
+
 - [[220227093815 - Cronus còn được gọi là Kronos]]
 - [[220226222048 - Cronus là con út của Gaia và Uranus]]
 - [[220227094101 - Saturn trong thần thoại La Mã tương đương với Cronus]]
@@ -24,3 +24,11 @@ publish: True
 - [[220227101035 - Zeus giam Cronus dưới Tartarus]]
 - [[220227101313 - Cronus đại diện cho ngày thứ 7 trong tuần]]
 
+- [[Titan Cronus|Cronus]]
+- [[Thần Zeus|Zeus]]
+- [[Địa ngục Tartarus|Tartarus]]
+- [[Nữ thần Demeter|Demeter]]
+- [[Hades]]
+- [[Titan Rhea|Rhea]]
+- [[Người khổng lồ Cyclops|Cyclops]]
+- [[Nữ thần Gaia|Gaia]]

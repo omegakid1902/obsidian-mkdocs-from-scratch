@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Hy Lạp
   - Zet/220222220520 - Apollo được gọi là Helios trong tiếng Latin
 title: Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp
 UID: 220227081548

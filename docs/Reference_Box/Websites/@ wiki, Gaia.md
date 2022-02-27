@@ -38,3 +38,4 @@ publish: True
 - [[220227081922 - Typhon là con cuối cùng của Gaia]]
 - [[220227081938 - Gaia giúp cho Aristaeus bất tử]]
 - [[220227082153 - Sau khi Uranus bị truất phế, Gaia còn kết hôn với Pontus, Tartarus]]
+- [[220227155509 - Cyclops và Hecatonchire bị Uranus giam ở Tartarus vì vẻ bề ngoài xấu xí]]

@@ -33,6 +33,5 @@ Thế giới trong [[Thần thoại Bắc Âu]] có 9 vùng đất, cũng còn �
 - [[Vùng đất Jotunheim|Jotunheim]] – [[220122122429 - Jotunheim là vùng đất của Jotun]]
 - [[Vùng đất Svartalfheim]] – [[220122122650 - Svartalfheim là vùng đất của người Dark Elf]]
 
-## Ideas & thoughts:
 
 
