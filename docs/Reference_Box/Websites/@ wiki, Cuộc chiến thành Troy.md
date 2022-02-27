@@ -8,7 +8,7 @@ publish: True
 ---
 - link: [Chiến tranh thành Troia – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%C3%A0nh_Troia)
 
-- Cuộc chiến thành Troy được nhắc đến trong trường thi [[@ Homer, Iliad và Odyssey]] của [[Homer]].
+- Cuộc chiến thành Troy được nhắc đến trong trường thi [[@ Homer, Iliad]]  và [[@ Homer, Odyssey]]của [[Homer]].
 - Thời điểm xảy ra cuộc chiến thành Troy là khoảng năm 1184 TCN.
 - Nguyên nhân xâu xa bắt đầu từ tiệc cưới của vua Peleus và [[Nữ thần Thetis]]
 	- Tất cả các thần được mời trừ [[Nữ thần Eris]]

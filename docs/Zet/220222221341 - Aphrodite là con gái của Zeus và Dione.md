@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/220227083536 - Trong Iliad của Homer, Aphrodite là con của Zeus và Dione
 title: Aphrodite là con gái của Zeus và Dione
 UID: 220222221341
 created: 22-Feb-2022
@@ -15,6 +17,5 @@ publish: True
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
 
-
-
-
+## Relate:
+- [[220227083536 - Trong Iliad của Homer, Aphrodite là con của Zeus và Dione]]

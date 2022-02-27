@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/220227090650 - Aphrodite có liên hệ với Inanna và Ishtar của Sumer
   - Zet/220220115810 - Gilgamesh khước từ tình cảm của thần Ishtar
   - Zet/220225202305 - Ishtar phải lòng Gilgamesh
   - Zet/220220120333 - Ishtar yêu cầu các vị thần giết một trong hai Enkidu và Gilgamesh

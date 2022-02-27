@@ -13,7 +13,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Cuộc chiến thành Troy]] được nhắc đến trong trường thi [[@ Homer, Iliad và Odyssey]] của [[Homer]].
+[[Cuộc chiến thành Troy]] được nhắc đến trong trường thi [[@ Homer, Iliad]] của [[Homer]].
 
 ## Source:
 - [[@ wiki, Cuộc chiến thành Troy]]

@@ -4,7 +4,10 @@ backlinks:
   - Zet/220222215957 - Poseidon là thần biển cả
   - Zet/220222220022 - Poseidon là con của Cronus và Rhea
   - Zet/220117 - Alantis được Poseidon xây dựng
+  - Zet/220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea
+  - Zet/220227092746 - Poseidon trả tiền cho Hephaestus để chuộc Ares
   - Zet/220119 - Thành Troy được xây bởi Apollo và Poseidon
+  - Zet/220227092540 - Sau khi bắt quả tang Aphrodite và Aries ngoại tình, Hephaestus bắt họ bằng lưới vàng và mời các thần chứng kiến
   - Zet/220222220052 - Poseidon là anh của Zeus và em của Hades
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
 title: Thần Poseidon

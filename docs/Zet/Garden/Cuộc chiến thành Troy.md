@@ -12,6 +12,7 @@ backlinks:
   - Zet/220119 - Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy
   - Zet/220119 - Cuộc chiến thành Troy là cuộc chiến của thần
   - Zet/220119 - Cuộc chiến Troy xảy ra khoảng 1184 TCN
+  - Zet/220227091605 - Demodocus kể rằng Aphrodite là ngoại tình với Ares trong cuộc chiến Troy
 title: Cuộc chiến thành Troy
 UID: 220119225630
 created: 19-Jan-2022
