@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/220228221526 - Các Cyclops tạo ra chớp, sấm và sét cho Zeus
 title: Cyclops giỏi chế tạo vũ khí
 UID: 220122144630
 created: 22-Jan-2022

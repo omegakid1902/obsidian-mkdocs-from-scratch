@@ -20,6 +20,7 @@ outgoing_links:
 backlinks:
   - Zet/220122 - Atlas là con của Titan Iapetus và tiên nữ Asia
   - Zet/Saturn
+  - Zet/220228200856 - Chaos tồn tại khi chưa có thế gian
   - Zet/220122 - Cyclops là những người khổng lồ 1 mắt thần thoại Hy Lạp
   - Zet/220226213736 - Nữ thần Eos là thần bình minh trong thần thoại Hy Lạp
   - Zet/220227081548 - Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp

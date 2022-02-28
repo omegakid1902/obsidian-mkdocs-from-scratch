@@ -10,7 +10,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Nữ thần Athena]] là con gái của [[Thần Zeus]] và [[Metis]]
+[[Nữ thần Athena]] là con gái của [[Thần Zeus]] và [[Nữ thần Metis]]
 
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]

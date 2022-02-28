@@ -2,6 +2,8 @@
 outgoing_links:
   - Zet/Garden/Thần thoại Hy Lạp
   - Zet/220222220520 - Apollo được gọi là Helios trong tiếng Latin
+backlinks:
+  - Zet/220228205239 - Helios, Selene và Eos là con của Titan Hyperion và Theia
 title: Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp
 UID: 220227081548
 created: 27-Feb-2022

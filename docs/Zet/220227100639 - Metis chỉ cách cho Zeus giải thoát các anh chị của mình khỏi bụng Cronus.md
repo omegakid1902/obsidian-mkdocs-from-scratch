@@ -5,6 +5,7 @@ outgoing_links:
   - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia
 backlinks:
   - Zet/220227101035 - Zeus giam Cronus dưới Tartarus
+  - Zet/220228220610 - Metis chỉ cách Zeus cứu anh chị em mình khỏi bụng Cronus
 title: Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus
 UID: 220227100639
 created: 27-Feb-2022
@@ -15,7 +16,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Metis]] chỉ cách cho [[Thần Zeus|Zeus]] giải thoát các anh chị của mình khỏi bụng [[Titan Cronus|Cronus]]. Bà đưa thuốc xổ cho Zeus, Zeus nhờ mẹ [[Titan Rhea|Rhea]] bỏ vào đồ ăn của Cronus. Cronus nôn hết tất cả 5 anh em của Zeus và hòn đá thế chỗ Zeus.
+[[Nữ thần Metis]] chỉ cách cho [[Thần Zeus|Zeus]] giải thoát các anh chị của mình khỏi bụng [[Titan Cronus|Cronus]]. Bà đưa thuốc xổ cho Zeus, Zeus nhờ mẹ [[Titan Rhea|Rhea]] bỏ vào đồ ăn của Cronus. Cronus nôn hết tất cả 5 anh em của Zeus và hòn đá thế chỗ Zeus.
 
 ## Source:
 - [[@ wiki, Cronus]]

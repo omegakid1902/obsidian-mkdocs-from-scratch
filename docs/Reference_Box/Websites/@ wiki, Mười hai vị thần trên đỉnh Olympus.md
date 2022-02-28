@@ -31,7 +31,7 @@ publish: True
 - [[Thần Hermes]] được gọi là Mercury trong tiếng Latin
 - Hermes là con trai của Zeus và [[Tiên nữ Maia]]
 - [[Nữ thần Athena]] được gọi là Minerva trong tiếng Latin
-- Athena là con gái của Zeus và [[Metis]]
+- Athena là con gái của Zeus và [[Nữ thần Metis]]
 - [[Thần Ares]] được gọi là Mars trong tiếng Latin
 - Ares là thần chiến tranh
 - [[Nữ thần Aphrodite]] được gọi là Venus trong tiếng Latin

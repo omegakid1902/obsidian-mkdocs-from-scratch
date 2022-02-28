@@ -20,7 +20,7 @@ ghp-import==2.0.2
     # via mkdocs
 htmlmin==0.1.12
     # via mkdocs-minify-plugin
-importlib-metadata==4.11.1
+importlib-metadata==4.11.2
     # via
     #   click
     #   jsonpickle
@@ -73,7 +73,7 @@ mkdocs==1.2.3
     #   mkdocs-section-index
 mkdocs-autolinks-plugin==0.4.0
     # via -r requirements.in
-mkdocs-material==8.2.2
+mkdocs-material==8.2.3
     # via -r requirements.in
 mkdocs-material-extensions==1.0.3
     # via

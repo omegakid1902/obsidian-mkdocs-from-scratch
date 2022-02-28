@@ -3,9 +3,12 @@ outgoing_links:
   - Zet/Garden/Thần Poseidon
 backlinks:
   - Zet/220222215244 - Zeus là con út của Cronus và Rhea
+  - Zet/220228220327 - Gaia và Rhea giao cho Zeus nhiệm vụ giải cứu các anh chị khỏi bụng Cronus
   - Zet/220222215522 - Hera là con gái của Cronus và Rhea
   - Zet/220222220022 - Poseidon là con của Cronus và Rhea
   - Zet/220222221648 - Demeter là con gái của Titan Cronus và Rhea
+  - Zet/220228205550 - Cronus và Rhea sinh được 3 con trai, 3 con gái
+  - Zet/220228222058 - Phe Zeus trong cuộc chiến chống lại các Titan
 title: Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea
 UID: 220227095131
 created: 27-Feb-2022
@@ -20,3 +23,4 @@ publish: True
 
 ## Source:
 - [[@ wiki, Cronus]]
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.58

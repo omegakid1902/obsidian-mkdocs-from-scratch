@@ -24,7 +24,7 @@ publish: True
 
 ## Source:
 - [[@ wiki, Gaia]]
-
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.62
 
 
 
