@@ -1,5 +1,5 @@
 ---
-title: @ youtube.com, The Dark Night of the Soul
+title: '@ youtube.com, The Dark Night of the Soul'
 UID: 211022213749
 tags:
   - 'created/2021/Oct/22'
