@@ -4,10 +4,10 @@ outgoing_links:
 title: Triệu Đà truyền ngôi cho con của Trọng Thủy
 UID: 210822233228
 tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/fact'
-  - '#seed🥜'
-  - '#flashcards'
+  - 'created/2021/Aug/22'
+  - 'permanent/fact'
+  - 'seed🥜'
+  - 'flashcards'
 publish: True
 ---
 # Triệu Đà truyền ngôi cho con của Trọng Thủy

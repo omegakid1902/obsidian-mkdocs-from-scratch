@@ -9,9 +9,9 @@ title: Grigori
 UID: 210922220442
 created: 22-Sep-2021
 tags:
-  - '#created/2021/Sep/22'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/22'
+  - 'seed🥜'
+  - 'permanent/concept'
 publish: True
 ---
 # Grigori

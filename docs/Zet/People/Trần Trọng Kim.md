@@ -11,7 +11,7 @@ title: Trần Trọng Kim
 UID: 210711-1012
 tags:
   - 'created/2021/Jul/11'
-  - '#seed🥜'
+  - 'seed🥜'
   - 'permanent/people'
 birth: 
 death: 

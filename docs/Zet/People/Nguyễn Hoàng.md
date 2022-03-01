@@ -11,9 +11,9 @@ backlinks:
 title: Nguyễn Hoàng
 UID: 
 tags:
-  - '#created/2021/Jul/12'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Jul/12'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

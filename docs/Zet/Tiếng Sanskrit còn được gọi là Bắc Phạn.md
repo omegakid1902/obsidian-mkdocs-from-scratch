@@ -6,9 +6,9 @@ backlinks:
 title: Tiếng Sanskrit còn được gọi là Bắc Phạn
 UID: 210907215405
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Tiếng Sanskrit còn được gọi là Bắc Phạn

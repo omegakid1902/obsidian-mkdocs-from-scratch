@@ -2,9 +2,9 @@
 title: ❕ Topics to research
 UID: 210902204546
 tags:
-  - '#created/2021/Sep/02'
+  - 'created/2021/Sep/02'
   - 'garden🏡'
-  - '#permanent/think'
+  - 'permanent/think'
 publish: True
 ---
 # ❕ Topics to research

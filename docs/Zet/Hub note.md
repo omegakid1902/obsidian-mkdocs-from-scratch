@@ -8,7 +8,7 @@ backlinks:
 title: Hub note
 created: July 1, 2021 12:22 PM
 tags:
-  - 'created/2021/Jul/1'
+  - 'created/2021/Jul/01'
   - 'seed🥜'
   - 'permanent/concept'
 publish: True

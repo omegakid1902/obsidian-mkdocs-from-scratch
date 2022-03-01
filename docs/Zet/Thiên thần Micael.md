@@ -18,9 +18,9 @@ title: Thiên thần Micael
 UID: 210920222202
 created: 20-Sep-2021
 tags:
-  - '#created/2021/Sep/20'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/20'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Micae
   - Thánh Micae

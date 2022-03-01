@@ -14,9 +14,9 @@ backlinks:
 title: Linh Từ Quốc mẫu
 UID: 210902132230
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 1259
 aliases:

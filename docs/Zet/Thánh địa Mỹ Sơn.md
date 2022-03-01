@@ -8,9 +8,9 @@ backlinks:
 title: Thánh địa Mỹ Sơn
 UID: 210908211542
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/place'
 publish: True
 ---
 # Thánh địa Mỹ Sơn

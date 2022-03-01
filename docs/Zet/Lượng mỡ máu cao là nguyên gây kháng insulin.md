@@ -6,9 +6,9 @@ backlinks:
 title: Lượng mỡ máu cao là nguyên gây kháng insulin
 UID: 210903150403
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Lượng mỡ máu cao là nguyên gây kháng insulin

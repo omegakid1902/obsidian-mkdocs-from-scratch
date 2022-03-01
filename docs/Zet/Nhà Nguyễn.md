@@ -14,9 +14,9 @@ title: Nhà Nguyễn
 UID: 
 created: 
 tags:
-  - '#created/2021/Jul/15'
-  - '#garden🏡'
-  - '#permanent/nation'
+  - 'created/2021/Jul/15'
+  - 'garden🏡'
+  - 'permanent/nation'
 publish: True
 ---
 # Nhà Nguyễn

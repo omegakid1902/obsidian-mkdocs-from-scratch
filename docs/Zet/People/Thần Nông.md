@@ -10,9 +10,9 @@ backlinks:
 title: Thần Nông
 UID: 210906223215
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 publish: True

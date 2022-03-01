@@ -4,9 +4,9 @@ outgoing_links:
 title: Hồ Quý Ly còn được gọi là Lê Quý Ly
 UID: 210821223916
 tags:
-  - '#created/2021/Aug/21'
-  - '#permanent/fact'
-  - '#flashcards'
+  - 'created/2021/Aug/21'
+  - 'permanent/fact'
+  - 'flashcards'
 publish: True
 ---
 # Hồ Quý Ly còn được gọi là Lê Quý Ly

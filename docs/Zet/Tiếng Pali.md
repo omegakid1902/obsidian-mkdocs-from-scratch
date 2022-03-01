@@ -2,9 +2,9 @@
 title: Tiếng Pali
 UID: 210907220101
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Nam Phạn
 publish: True

@@ -5,9 +5,9 @@ outgoing_links:
 title: Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng
 UID: 210906222359
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng

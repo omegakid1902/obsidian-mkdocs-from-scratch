@@ -4,9 +4,9 @@ outgoing_links:
 title: Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein
 UID: 210903144259
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein

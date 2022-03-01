@@ -17,9 +17,9 @@ title: Ngô Đình Diệm
 UID: 
 created: 12-Dec-2021
 tags:
-  - '#created/2020/Dec/12'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2020/Dec/12'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Tổng thống Ngô Đình Diệm
 publish: True

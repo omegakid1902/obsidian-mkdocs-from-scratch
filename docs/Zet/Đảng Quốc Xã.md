@@ -7,9 +7,9 @@ title: Đảng Quốc Xã
 UID: 
 created: Jun 20, 2021 2:42 PM
 tags:
-  - '#created/2021/Jun/20'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jun/20'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Đức Quốc Xã
 publish: True

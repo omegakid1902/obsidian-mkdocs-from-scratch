@@ -7,9 +7,9 @@ backlinks:
 title: Nhà Liêu
 UID: 210817214421
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept/nation'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept/nation'
+  - 'flashcards'
 aliases: 
   - "Nhà Liêu"
   - Nước Khiết Đan

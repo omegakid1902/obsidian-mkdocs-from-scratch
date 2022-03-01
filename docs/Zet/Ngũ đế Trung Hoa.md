@@ -7,9 +7,9 @@ backlinks:
 title: Ngũ đế Trung Hoa
 UID: 210905223103
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Ngũ đế
 publish: True

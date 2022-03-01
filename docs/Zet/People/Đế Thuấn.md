@@ -7,9 +7,9 @@ backlinks:
 title: Đế Thuấn
 UID: 210905222344
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

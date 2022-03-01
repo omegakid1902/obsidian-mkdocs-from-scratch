@@ -8,9 +8,9 @@ title: Đàng Ngoài
 UID: P-210714-0818
 created: 
 tags:
-  - '#created/2021/Jul/14'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jul/14'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Đàng Ngoài
 publish: True

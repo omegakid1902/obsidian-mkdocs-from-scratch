@@ -7,9 +7,9 @@ backlinks:
 title: Các Đại Hãn Mông Cổ
 UID: 210817211914
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/fact'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/fact'
+  - 'flashcards'
 publish: True
 ---
 # Các Đại Hãn Mông Cổ

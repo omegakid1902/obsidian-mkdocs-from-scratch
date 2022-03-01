@@ -7,7 +7,7 @@ title: Bệnh ung thư
 UID: 211010170612
 created: 10-Oct-2021
 tags:
-  - '#created/2021/Oct/10'
+  - 'created/2021/Oct/10'
   - 'seed🥜'
   - 'permanent/concept'
 publish: True

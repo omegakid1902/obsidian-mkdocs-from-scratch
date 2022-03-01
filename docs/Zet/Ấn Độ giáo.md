@@ -19,9 +19,9 @@ backlinks:
 title: Ấn Độ giáo
 UID: P-210704-1610
 tags:
-  - '#created/2021/Jul/4'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jul/04'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Đạo Hindu
   - Hindu

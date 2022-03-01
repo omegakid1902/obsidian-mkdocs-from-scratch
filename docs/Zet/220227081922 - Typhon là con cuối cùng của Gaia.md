@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/220301222943 - Typhon là con của Gaia và Tartarus
 title: Typhon là con cuối cùng của Gaia
 UID: 220227081922
 created: 27-Feb-2022

@@ -10,9 +10,9 @@ title: Interests
 UID: 210911134848
 created: 11-Sep-2021
 tags:
-  - '#created/2021/Sep/11'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Sep/11'
+  - 'garden🏡'
+  - 'permanent/concept'
 aliases:
   - Interests
 publish: True

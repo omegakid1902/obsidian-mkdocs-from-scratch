@@ -17,9 +17,9 @@ backlinks:
 title: Nhà Hậu Lê
 UID: 
 tags:
-  - '#created/2021/Jul/12'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jul/12'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Hậu Lê
 publish: True

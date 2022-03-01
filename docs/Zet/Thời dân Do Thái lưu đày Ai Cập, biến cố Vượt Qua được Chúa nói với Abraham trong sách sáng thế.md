@@ -6,7 +6,7 @@ title: Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua đượ
 UID: 211006233353
 created: 06-Oct-2021
 tags:
-  - '#created/2021/Oct/06'
+  - 'created/2021/Oct/06'
   - 'seed🥜'
   - 'permanent/linking'
 publish: True

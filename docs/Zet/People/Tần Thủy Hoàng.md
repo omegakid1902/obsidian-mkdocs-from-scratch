@@ -11,9 +11,9 @@ backlinks:
 title: Tần Thủy Hoàng
 UID: 210828110531
 tags:
-  - '#created/2021/Jul/24'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Jul/24'
+  - 'seed🥜'
+  - 'permanent/people'
 aliases:
   - Doanh Chính
 publish: True

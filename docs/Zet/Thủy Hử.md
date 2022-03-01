@@ -6,9 +6,9 @@ backlinks:
 title: Thủy Hử
 UID: 210906230804
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/concept'
 publish: True
 ---
 # Thủy Hử

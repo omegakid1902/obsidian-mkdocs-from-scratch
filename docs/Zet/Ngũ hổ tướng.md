@@ -4,9 +4,9 @@ outgoing_links:
 title: Ngũ hổ tướng
 UID: 210828134525
 tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/28'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Ngũ hổ tướng
 publish: True

@@ -4,9 +4,9 @@ outgoing_links:
 title: Chu Vũ Vương sau khi lật đổ nhà Thương, muốn làm hình ảnh của Đế Tân trở nên xấu xa, nên đã đặt tên là Trụ Vương
 UID: 210828094909
 tags:
-  - '#created/2021/Aug/28'
-  - '#seeding🌱'
-  - '#permanent/fact'
+  - 'created/2021/Aug/28'
+  - 'seeding🌱'
+  - 'permanent/fact'
 publish: True
 ---
 # Chu Vũ Vương sau khi lật đổ nhà Thương, muốn làm hình ảnh của Đế Tân trở nên xấu xa, nên đã đặt tên là Trụ Vương

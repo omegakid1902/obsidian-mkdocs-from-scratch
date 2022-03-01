@@ -5,7 +5,7 @@ title: Nhà Ngô
 UID: 211007232617
 created: 07-Oct-2021
 tags:
-  - '#created/2021/Oct/07'
+  - 'created/2021/Oct/07'
   - 'garden'
   - 'permanent/concept'
 publish: True

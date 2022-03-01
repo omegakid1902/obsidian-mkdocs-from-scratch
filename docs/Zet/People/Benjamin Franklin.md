@@ -12,9 +12,9 @@ title: Benjamin Franklin
 UID: 210908193844
 created: August 6, 2021 10:25 PM
 tags:
-  - '#created/2021/Aug/08'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Aug/08'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 publish: True

@@ -6,9 +6,9 @@ backlinks:
 title: Tứ đại mỹ nhân Trung Hoa
 UID: 210828133332
 tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Aug/28'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - Tứ đại mỹ nhân
 publish: True

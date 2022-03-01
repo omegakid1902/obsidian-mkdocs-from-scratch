@@ -5,7 +5,7 @@ title: Nephilim
 UID: 211003173039
 created: 03-Oct-2021
 tags:
-  - '#created/2021/Oct/03'
+  - 'created/2021/Oct/03'
   - 'seed🥜'
   - 'permanent/concept'
 publish: True

@@ -6,9 +6,9 @@ outgoing_links:
 title: Tứ đại danh tác
 UID: 210906225735
 tags:
-  - '#created/2021/Sep/06'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/06'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Tứ đại danh tác
 publish: True

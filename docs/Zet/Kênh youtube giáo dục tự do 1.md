@@ -10,7 +10,7 @@ title: Kênh youtube giáo dục tự do 1
 UID: 211004220513
 created: 04-Oct-2021
 tags:
-  - '#created/2021/Oct/04'
+  - 'created/2021/Oct/04'
   - 'seed🥜'
   - 'permanent/concept'
 publish: True

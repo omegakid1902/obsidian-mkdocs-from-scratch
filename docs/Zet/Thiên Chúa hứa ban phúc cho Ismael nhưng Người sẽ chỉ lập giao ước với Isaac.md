@@ -9,7 +9,7 @@ title: Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập 
 UID: 211007223753
 created: 07-Oct-2021
 tags:
-  - '#created/2021/Oct/07'
+  - 'created/2021/Oct/07'
   - 'seed🥜'
   - 'permanent/concept'
   - 'religion'

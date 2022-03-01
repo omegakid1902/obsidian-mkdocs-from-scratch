@@ -7,9 +7,9 @@ title: Language
 UID: 210911142238
 created: 11-Sep-2021
 tags:
-  - '#created/2021/Sep/11'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Sep/11'
+  - 'garden🏡'
+  - 'permanent/concept'
 aliases:
   - Language
 publish: True

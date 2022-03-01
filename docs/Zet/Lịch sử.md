@@ -11,9 +11,9 @@ title: Lịch sử
 UID: 210911134312
 created: 2021/Sep/11
 tags:
-  - '#created/2021/Sep/11'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Sep/11'
+  - 'garden🏡'
+  - 'permanent/concept'
 aliases:
   - 
 publish: True

@@ -5,7 +5,7 @@ title: Sưu tầm mem chế
 UID: 210929225902
 created: 29-Sep-2021
 tags:
-  - '#created/2021/Sep/29'
+  - 'created/2021/Sep/29'
   - 'garden🏡'
   - 'funny'
 publish: True

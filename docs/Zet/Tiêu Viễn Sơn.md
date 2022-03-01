@@ -7,9 +7,9 @@ backlinks:
 title: Tiêu Viễn Sơn
 UID: 210816212253
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/16'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: [Tiêu Viễn Sơn]
 publish: True
 ---

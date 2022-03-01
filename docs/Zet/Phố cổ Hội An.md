@@ -7,9 +7,9 @@ backlinks:
 title: Phố cổ Hội An
 UID: 210908204925
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/place'
 aliases:
   - Hội An
 publish: True

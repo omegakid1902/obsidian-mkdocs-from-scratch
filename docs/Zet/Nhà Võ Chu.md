@@ -6,9 +6,9 @@ backlinks:
 title: Nhà Võ Chu
 UID: 210907224024
 tags:
-  - '#created/2021/Sep/07'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/07'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Nhà Võ Chu
 publish: True

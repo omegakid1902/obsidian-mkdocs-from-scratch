@@ -6,9 +6,9 @@ backlinks:
 title: Phông chữ Sans Serif
 UID: 210831215048
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Phông chữ Sans Serif
 publish: True

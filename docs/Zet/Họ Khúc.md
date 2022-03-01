@@ -6,9 +6,9 @@ backlinks:
 title: Họ Khúc
 UID: 210821215315
 tags:
-  - '#created/2021/Aug/21'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/21'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: 
   - "Họ Khúc"
 publish: True

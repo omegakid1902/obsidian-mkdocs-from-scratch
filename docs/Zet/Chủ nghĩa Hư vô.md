@@ -7,9 +7,9 @@ title: Chủ nghĩa Hư vô
 UID: 210831220447
 created: Dec 28, 2020 9:48 PM
 tags:
-  - '#created/2020/Dec/28'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2020/Dec/28'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Nihilism
 publish: True

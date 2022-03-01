@@ -7,10 +7,10 @@ backlinks:
 title: Nhà Hậu Hán
 UID: 210822235104
 tags:
-  - '#created/2021/Aug/22'
-  - '#permanent/concept'
-  - '#seed🥜'
-  - '#flashcards'
+  - 'created/2021/Aug/22'
+  - 'permanent/concept'
+  - 'seed🥜'
+  - 'flashcards'
 aliases: 
   - "Đông Hán"
 publish: True

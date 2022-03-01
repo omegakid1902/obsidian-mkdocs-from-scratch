@@ -16,9 +16,9 @@ backlinks:
 title: Lý Huệ Tông
 UID: 210902154142
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

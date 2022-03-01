@@ -5,9 +5,9 @@ outgoing_links:
 title: Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh
 UID: 210902162906
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Trần Thừa có ba người con là Trần Liễu, Thụy Bà và Trần Cảnh

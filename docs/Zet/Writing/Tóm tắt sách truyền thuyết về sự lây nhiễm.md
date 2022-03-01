@@ -19,7 +19,7 @@ title: Tóm tắt sách truyền thuyết bệnh lây nhiễm
 UID: 211016110010
 created: 16-Oct-2021
 tags:
-  - '#created/2021/Oct/16'
+  - 'created/2021/Oct/16'
   - 'garden🏡'
   - 'permanent/linking'
 publish: True

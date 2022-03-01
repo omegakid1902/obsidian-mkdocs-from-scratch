@@ -22,9 +22,9 @@ backlinks:
   - Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
 title: Nhà Trần
 tags:
-  - '#created/2021/Jul/09'
-  - '#garden🏡'
-  - '#permanent/place'
+  - 'created/2021/Jul/09'
+  - 'garden🏡'
+  - 'permanent/place'
 publish: True
 ---
 # Nhà Trần

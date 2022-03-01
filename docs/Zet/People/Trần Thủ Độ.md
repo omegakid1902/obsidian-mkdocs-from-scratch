@@ -26,7 +26,7 @@ title: Trần Thủ Độ
 UID: 2107090001
 tags:
   - 'created/2021/Jul/09'
-  - '#seed🥜'
+  - 'seed🥜'
   - 'permanent/people'
 birth: 
 death:

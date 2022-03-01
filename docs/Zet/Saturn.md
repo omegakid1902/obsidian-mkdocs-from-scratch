@@ -9,7 +9,7 @@ title: Saturn
 UID: 211010225520
 created: 10-Oct-2021
 tags:
-  - '#created/2021/Oct/10'
+  - 'created/2021/Oct/10'
   - 'seed🥜'
   - 'permanent/concept'
   - 'Qmap'

@@ -2,9 +2,9 @@
 title: Vũ trụ điện ảnh Marvel
 UID: 210902211434
 tags:
-  - '#created/2021/Sep/02'
-  - '#garden🏡'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'garden🏡'
+  - 'permanent/fact'
 publish: True
 ---
 # Vũ trụ điện ảnh Marvel

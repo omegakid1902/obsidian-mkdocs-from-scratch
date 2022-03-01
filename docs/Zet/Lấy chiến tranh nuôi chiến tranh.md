@@ -8,9 +8,9 @@ backlinks:
 title: Lấy chiến tranh nuôi chiến tranh
 UID: 210817224428
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: 
   - "Lấy chiến tranh nuôi chiến tranh"
 publish: True

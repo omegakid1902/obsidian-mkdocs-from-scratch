@@ -8,9 +8,9 @@ backlinks:
 title: Vườn không nhà trống
 UID: 210817224757
 tags:
-  - '#created/2021/Aug/17'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/17'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: 
   - "Vườn không nhà trống"
   - Tiêu Thổ

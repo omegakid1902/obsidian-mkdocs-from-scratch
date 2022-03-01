@@ -2,9 +2,9 @@
 title: Node package manager
 UID: 210909223548
 tags:
-  - '#created/2021/Sep/09'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/09'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - npm
 publish: True

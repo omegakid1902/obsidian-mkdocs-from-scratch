@@ -15,9 +15,9 @@ backlinks:
 title: Trần Liễu
 UID: 210902130250
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 1211
 death: 1251
 aliases:

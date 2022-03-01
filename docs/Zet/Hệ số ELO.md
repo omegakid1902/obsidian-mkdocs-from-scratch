@@ -4,9 +4,9 @@ backlinks:
 title: Hệ số ELO
 UID: 210826212741
 tags:
-  - '#created/2021/Aug/26'
-  - '#🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/26'
+  - '🥜'
+  - 'permanent/concept'
 aliases:
   - ELO
 publish: True

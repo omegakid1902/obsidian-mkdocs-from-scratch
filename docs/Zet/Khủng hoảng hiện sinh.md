@@ -14,9 +14,9 @@ title: Khủng hoảng hiện sinh
 UID: 
 created: Jan 07, 2021 10:29 PM
 tags:
-  - '#created/2021/Jan/07'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jan/07'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Existential Crisis
 publish: True

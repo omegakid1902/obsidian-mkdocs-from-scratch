@@ -14,9 +14,9 @@ title: Chúa Trịnh
 UID: P-210712-2120
 created: 
 tags:
-  - '#created/2021/Jul/12'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Jul/12'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Chúa Trịnh
 publish: True

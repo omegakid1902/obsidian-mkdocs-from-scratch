@@ -2,9 +2,9 @@
 title: Magnus Carlsen
 UID: 210826215029
 tags:
-  - '#created/2021/Aug/26'
-  - '#seeding🌱'
-  - '#permanent/people'
+  - 'created/2021/Aug/26'
+  - 'seeding🌱'
+  - 'permanent/people'
 publish: True
 ---
 # Magnus Carlsen

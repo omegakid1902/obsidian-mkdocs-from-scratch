@@ -5,9 +5,9 @@ backlinks:
 title: Friedrich Nietzsche
 UID: 210815204255
 tags:
-  - '#created/2020/Oct/22'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2020/Oct/22'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: [Nietzsche, Friedrich Wilhelm Nietzsche]
 publish: True
 ---

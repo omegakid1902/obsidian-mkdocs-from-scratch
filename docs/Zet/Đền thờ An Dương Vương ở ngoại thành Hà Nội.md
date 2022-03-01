@@ -5,9 +5,9 @@ title: Đền thờ An Dương Vương ở ngoại thành Hà Nội
 UID: P-210724-0933
 created: 
 tags:
-  - '#created/2021/Jul/24'
+  - 'created/2021/Jul/24'
   - 'evergreen'
-  - '#permanent/fact'
+  - 'permanent/fact'
 publish: True
 ---
 # Đền thờ An Dương Vương ở ngoại thành Hà Nội

@@ -11,8 +11,8 @@ outgoing_links:
 title: "Chiến tranh Nguyên Mông - Đại Việt lần 1"
 UID: 210817221428
 tags:
-  - '#created/2021/Aug/17'
-  - '#MOC'
+  - 'created/2021/Aug/17'
+  - 'MOC'
 aliases: 
 publish: True
 ---

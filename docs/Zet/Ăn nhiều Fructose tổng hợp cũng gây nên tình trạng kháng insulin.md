@@ -6,9 +6,9 @@ backlinks:
 title: Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin
 UID: 210903151619
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Ăn nhiều Fructose tổng hợp cũng gây nên tình trạng kháng insulin

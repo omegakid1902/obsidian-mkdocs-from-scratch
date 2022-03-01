@@ -8,9 +8,9 @@ backlinks:
 title: Xích Thố
 UID: 210828140126
 tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/28'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Xích Thố
 publish: True

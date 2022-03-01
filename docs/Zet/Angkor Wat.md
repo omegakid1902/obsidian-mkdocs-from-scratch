@@ -8,9 +8,9 @@ backlinks:
 title: Angkor Wat
 UID: 210908211804
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/place'
 publish: True
 ---
 # Angkor Wat

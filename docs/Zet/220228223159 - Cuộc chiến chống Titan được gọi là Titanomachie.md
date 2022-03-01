@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/220228222058 - Phe Zeus trong cuộc chiến chống lại các Titan
+backlinks:
+  - Zet/220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan
 title: Cuộc chiến chống Titan được gọi là Titanomachie
 UID: 220228223159
 created: 28-Feb-2022

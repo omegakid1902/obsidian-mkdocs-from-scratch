@@ -6,9 +6,9 @@ backlinks:
 title: Đế Nghiêu
 UID: 210905222312
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 
 death: 
 aliases:

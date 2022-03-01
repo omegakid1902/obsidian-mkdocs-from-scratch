@@ -9,7 +9,7 @@ title: Theo tài liệu FBI, Tesla là người Sao Kim
 UID: 211011224457
 created: 11-Oct-2021
 tags:
-  - '#created/2021/Oct/11'
+  - 'created/2021/Oct/11'
   - 'seed🥜'
   - 'permanent/fact'
 publish: True

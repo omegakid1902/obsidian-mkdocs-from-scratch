@@ -8,9 +8,9 @@ title: 208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng l�
 UID: 2107240932
 created: 26-Sep-2021
 tags:
-  - '#created/2021/Jul/24'
+  - 'created/2021/Jul/24'
   - 'evergreen'
-  - '#permanent/fact'
+  - 'permanent/fact'
 publish: True
 ---
 # 208 TCN, Triệu Đà ly khai nhà Tần, đánh Âu Lạc mở rộng lãnh thổ

@@ -5,7 +5,7 @@ title: D3js
 UID: 211002105103
 created: 02-Oct-2021
 tags:
-  - '#created/2021/Oct/02'
+  - 'created/2021/Oct/02'
   - 'seed🥜'
   - 'permanent/concept'
 publish: True

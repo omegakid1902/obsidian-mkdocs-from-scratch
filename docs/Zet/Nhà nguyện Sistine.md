@@ -5,9 +5,9 @@ title: Nhà nguyện Sistine
 UID: 210908194433
 created: Nov 07, 2020 11:13 PM
 tags:
-  - '#created/2020/Nov/07'
-  - '#seed🥜'
-  - '#permanent/place'
+  - 'created/2020/Nov/07'
+  - 'seed🥜'
+  - 'permanent/place'
 aliases:
   - Sistine Chapel
 publish: True

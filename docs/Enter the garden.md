@@ -2,9 +2,9 @@
 title: Enter the garden
 UID: 210826204735
 tags:
-  - '#created/2021/Aug/26'
-  - '#🏡'
-  - '#permanent/concept'
+  - 'created/2021/Aug/26'
+  - '🏡'
+  - 'permanent/concept'
 publish: True
 ---
 # Enter the garden

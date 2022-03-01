@@ -2,7 +2,7 @@
 title: Phúc Âm nhất lãm
 UID: 2107312205
 tags:
-  - '#created/2021/Jul/31'
+  - 'created/2021/Jul/31'
   - 'seed🥜'
   - 'permanent/concept'
 publish: True

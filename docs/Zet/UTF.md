@@ -2,9 +2,9 @@
 title: UTF
 UID: 210831203552
 tags:
-  - '#created/2021/Aug/31'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Aug/31'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - UTF
   - Unicode Transformation Format

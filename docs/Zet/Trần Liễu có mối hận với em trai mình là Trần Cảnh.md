@@ -10,9 +10,9 @@ backlinks:
 title: Trần Liễu có mối hận với em trai mình là Trần Cảnh
 UID: 210902153027
 tags:
-  - '#created/2021/Sep/02'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/02'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Trần Liễu có mối hận với em trai mình là Trần Cảnh

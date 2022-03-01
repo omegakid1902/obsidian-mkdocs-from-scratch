@@ -2,9 +2,9 @@
 title: "Amino acid"
 UID: 2108141959
 tags:
-  - '#created/2021/Aug/14'
-  - '#permanent/concept'
-  - '#flashcards'
+  - 'created/2021/Aug/14'
+  - 'permanent/concept'
+  - 'flashcards'
 aliases: 
   - "Amino acid"
   - Acid Amin

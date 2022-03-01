@@ -7,9 +7,9 @@ outgoing_links:
 title: Tam Vương Trung Hoa
 UID: 210905225056
 tags:
-  - '#created/2021/Sep/05'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/05'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Tam Vương
 publish: True

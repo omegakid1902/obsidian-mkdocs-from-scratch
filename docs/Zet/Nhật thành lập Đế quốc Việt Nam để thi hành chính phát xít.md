@@ -5,9 +5,9 @@ title: Nhật thành lập Đế quốc Việt Nam để thi hành chính phát 
 UID: 210911140856
 created: 11-Sep-2021
 tags:
-  - '#created/2021/Jul/17'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Jul/17'
+  - 'seed🥜'
+  - 'permanent/fact'
 aliases:
   - 
 publish: True

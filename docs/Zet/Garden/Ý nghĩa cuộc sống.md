@@ -17,9 +17,9 @@ backlinks:
 title: ❕ Ý nghĩa cuộc sống
 UID: 210831230006
 tags:
-  - '#created/2021/Aug/31'
-  - '#garden🏡'
-  - '#permanent/think'
+  - 'created/2021/Aug/31'
+  - 'garden🏡'
+  - 'permanent/think'
 aliases:
   - Ý nghĩa cuộc sống
   - Meaning of life

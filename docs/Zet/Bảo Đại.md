@@ -12,9 +12,9 @@ backlinks:
 title: "Bảo Đại"
 UID: 2107171330
 tags:
-  - '#created/2021/Jul/17'
-  - '#permanent/people'
-  - '#flashcards'
+  - 'created/2021/Jul/17'
+  - 'permanent/people'
+  - 'flashcards'
 aliases: 
   - "Bảo Đại"
   - Vĩnh Thụy

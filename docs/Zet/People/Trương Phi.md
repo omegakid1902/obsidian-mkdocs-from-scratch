@@ -7,9 +7,9 @@ backlinks:
 title: Trương Phi
 UID: 210828134916
 tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Aug/28'
+  - 'seed🥜'
+  - 'permanent/people'
 birth: 163
 death: 221
 aliases:

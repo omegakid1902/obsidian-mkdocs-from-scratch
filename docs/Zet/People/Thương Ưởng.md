@@ -7,9 +7,9 @@ backlinks:
 title: Thương Ưởng
 UID: 210828105217
 tags:
-  - '#created/2021/Aug/28'
-  - '#seed🥜'
-  - '#permanent/people'
+  - 'created/2021/Aug/28'
+  - 'seed🥜'
+  - 'permanent/people'
 aliases:
   - Vệ Ưởng
 publish: True

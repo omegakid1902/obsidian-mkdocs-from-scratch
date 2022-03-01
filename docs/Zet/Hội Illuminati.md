@@ -15,7 +15,7 @@ title: Hội Illuminati
 UID: 211010224808
 created: 10-Oct-2021
 tags:
-  - '#created/2021/Oct/10'
+  - 'created/2021/Oct/10'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:

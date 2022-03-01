@@ -12,7 +12,7 @@ title: Akashic records
 UID: 211012230027
 created: 12-Oct-2021
 tags:
-  - '#created/2021/Oct/12'
+  - 'created/2021/Oct/12'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:

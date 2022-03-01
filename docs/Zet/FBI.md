@@ -6,7 +6,7 @@ title: FBI
 UID: 211012224955
 created: 12-Oct-2021
 tags:
-  - '#created/2021/Oct/12'
+  - 'created/2021/Oct/12'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:

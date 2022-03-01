@@ -6,9 +6,9 @@ backlinks:
 title: Lão Tử
 UID: 21007041257
 tags:
-  - '#created/2021/Jul/4'
-  - '#permanent/people'
-  - '#flashcards'
+  - 'created/2021/Jul/04'
+  - 'permanent/people'
+  - 'flashcards'
 publish: True
 ---
 # Lão Tử

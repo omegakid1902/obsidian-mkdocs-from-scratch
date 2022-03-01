@@ -1,4 +1,6 @@
 ---
+backlinks:
+  - Zet/220301222943 - Typhon là con của Gaia và Tartarus
 title: Echidna và Typhon là con của Gaia và Tartarus
 UID: 220227081849
 created: 27-Feb-2022

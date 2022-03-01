@@ -7,9 +7,9 @@ backlinks:
 title: Đoàn Dự
 UID: 210816212508
 tags:
-  - '#created/2021/Aug/16'
-  - '#permanent/people'
-  - '#flashcards'
+  - 'created/2021/Aug/16'
+  - 'permanent/people'
+  - 'flashcards'
 publish: True
 ---
 # Đoàn Dự

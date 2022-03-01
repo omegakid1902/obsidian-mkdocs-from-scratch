@@ -6,9 +6,9 @@ backlinks:
 title: Chùa Cầu còn được gọi là Cầu Nhật Bản
 UID: 210908210753
 tags:
-  - '#created/2021/Sep/08'
-  - '#seed🥜'
-  - '#permanent/fact'
+  - 'created/2021/Sep/08'
+  - 'seed🥜'
+  - 'permanent/fact'
 publish: True
 ---
 # Chùa Cầu còn được gọi là Cầu Nhật Bản

@@ -14,9 +14,9 @@ title: Nhà Tây Sơn
 UID: 
 created: 
 tags:
-  - '#created/2021/Jul/16'
-  - '#garden🏡'
-  - '#permanent/concept'
+  - 'created/2021/Jul/16'
+  - 'garden🏡'
+  - 'permanent/concept'
 aliases:
   - Tây Sơn
 publish: True

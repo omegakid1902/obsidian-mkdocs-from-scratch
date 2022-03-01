@@ -7,9 +7,9 @@ backlinks:
 title: Intermittent Fasting
 UID: 210903084049
 tags:
-  - '#created/2021/Sep/03'
-  - '#seed🥜'
-  - '#permanent/concept'
+  - 'created/2021/Sep/03'
+  - 'seed🥜'
+  - 'permanent/concept'
 aliases:
   - Nhịn ăn cách quãng
 publish: True

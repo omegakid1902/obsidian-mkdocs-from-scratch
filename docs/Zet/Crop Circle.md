@@ -7,7 +7,7 @@ title: Crop Circle
 UID: 211015224629
 created: 15-Oct-2021
 tags:
-  - '#created/2021/Oct/15'
+  - 'created/2021/Oct/15'
   - 'seed🥜'
   - 'permanent/concept'
 aliases:
