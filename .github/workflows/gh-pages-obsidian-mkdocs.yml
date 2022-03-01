@@ -49,6 +49,7 @@ jobs:
         run: |
           mv zettelkasten ../
           python publish.py
+          python publish_date.py
           cp -rf src/images docs/
           cp -rf src/stylesheets docs/
           cp -rf src/javascripts docs/
