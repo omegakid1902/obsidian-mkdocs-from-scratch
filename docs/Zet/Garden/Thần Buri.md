@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Vị thần đầu tiên thần thoại Bắc Âu là Buri
 backlinks:
   - Zet/220122 - Buri được sinh ra từ một tảng đá

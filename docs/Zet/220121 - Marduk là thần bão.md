@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Marduk
+  - Zet/Garden/Thần thoại Lưỡng Hà
 backlinks:
   - Zet/Garden/Thần Marduk
 title: 220121 - Marduk là thần bão

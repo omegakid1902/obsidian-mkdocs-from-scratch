@@ -22,6 +22,8 @@ Các cặp phối ngẫu giữa [[Người khổng lồ Titan|Titan]] và Titani
 - [[Titan Hyperion]] cưới [[Titan Theia|Titanide Theia]]
 - [[Titan Cronus]] cưới [[Titan Rhea|Titanide Rhea]]
 
+![[Pasted image 20220302213605.png]]
+
 ## Source:
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.57
 

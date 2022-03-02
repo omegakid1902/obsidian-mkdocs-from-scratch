@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Njord là thần biển cả
 UID: 220122163112
 created: 22-Jan-2022

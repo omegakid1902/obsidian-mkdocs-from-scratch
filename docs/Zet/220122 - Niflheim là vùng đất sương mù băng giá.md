@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap
 backlinks:
   - Zet/220122 - Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap

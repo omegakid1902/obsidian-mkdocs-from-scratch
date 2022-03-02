@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Forseti là con của Balder
 UID: 220122163845
 created: 22-Jan-2022

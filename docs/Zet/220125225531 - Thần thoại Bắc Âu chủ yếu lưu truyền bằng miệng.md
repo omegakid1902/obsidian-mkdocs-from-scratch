@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Thần thoại Bắc Âu chủ yếu lưu truyền bằng miệng
 UID: 220125225531
 created: 25-Jan-2022

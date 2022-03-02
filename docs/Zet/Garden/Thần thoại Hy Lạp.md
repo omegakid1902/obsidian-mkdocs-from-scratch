@@ -18,6 +18,7 @@ outgoing_links:
   - Zet/220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt
   - Zet/Thinking/❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite
 backlinks:
+  - Zet/220302211230 - Trong thần thoại Hy Lạp, Deucalion và Pyrrha là đôi vợ chống sống sót sau Đại Hồng Thủy
   - Zet/220122 - Atlas là con của Titan Iapetus và tiên nữ Asia
   - Zet/Saturn
   - Zet/220228200856 - Chaos tồn tại khi chưa có thế gian
@@ -25,7 +26,9 @@ backlinks:
   - Zet/220226213736 - Nữ thần Eos là thần bình minh trong thần thoại Hy Lạp
   - Zet/220227081548 - Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp
   - Zet/220226213719 - Nữ thần Selene là thần Mặt trăng trong thần thoại Hy Lạp
+  - Zet/220302203704 - Có 5 thời đại trước khi con người được tạo ra trong Thần Thoại Hy Lạp
   - Zet/220226215142 - Gia Phả Thần thoại Hy Lạp
+  - Zet/Thinking/❕ 220302211422 - Deucalion và Pyrrha trong thần thoại Hy Lạp là phiên bản của Noah
 title: Thần thoại Hy Lạp
 UID: 220227152431
 created: 27-Feb-2022

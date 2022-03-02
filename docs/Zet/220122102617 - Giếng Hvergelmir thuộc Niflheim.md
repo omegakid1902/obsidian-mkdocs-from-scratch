@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Giếng Hvergelmir thuộc Niflheim
 UID: 220122102617
 created: 22-Jan-2022

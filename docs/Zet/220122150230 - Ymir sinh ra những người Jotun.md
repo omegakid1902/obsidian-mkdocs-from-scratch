@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Ymir sinh ra những người Jotun
 UID: 220122150230
 created: 22-Jan-2022

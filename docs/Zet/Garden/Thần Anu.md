@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Lưỡng Hà
 backlinks:
   - Zet/220220120333 - Ishtar yêu cầu các vị thần giết một trong hai Enkidu và Gilgamesh
   - Zet/220220120000 - Ishtar xin Anu trừng phạt Gilgamesh

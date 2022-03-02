@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Lưỡng Hà
   - Zet/220121 - Enlil thần gió và không khí
 backlinks:
   - Zet/220121 - Enki và Enlil là 2 anh em nhưng tính cách trái ngược

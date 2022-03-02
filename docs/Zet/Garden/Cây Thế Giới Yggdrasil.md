@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Cây Yggdrasil lấy nước từ giếng Hvergelmir
   - Zet/220125230547 - Cây Yggdrasil được gọi là Mimameid trong sử thi Edda thể thơ
 backlinks:

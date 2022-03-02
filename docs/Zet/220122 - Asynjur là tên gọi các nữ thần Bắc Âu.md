@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 backlinks:
   - Zet/220122 - Aesir là tên gọi các nam thần Bắc Âu
 title: Asynjur là tên gọi các nữ thần Bắc Âu

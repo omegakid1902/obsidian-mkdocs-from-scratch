@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Ngựa Gulltopp của Heimdall chạy nhanh thứ 10 trong thần thoại Bắc Âu
 UID: 220123231723
 created: 23-Jan-2022

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Lưỡng Hà
   - Zet/Garden/Nữ thần Ishtar
 title: 220121 - Ishtar là nữ thần tình yêu, chiến tranh
 UID: 220121223924

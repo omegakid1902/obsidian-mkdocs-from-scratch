@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Cơ Đốc Giáo
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Các học giả Kito giáo ghi chép lại các câu truyện Thần thoại Bắc Âu
 UID: 220125225730
 created: 25-Jan-2022

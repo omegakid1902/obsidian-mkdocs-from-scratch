@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122105125 - Bò Audhumla được sinh ra từ những tảng băng vùng Ginnungagap
 backlinks:
   - Zet/220124231553 - Bò Audhumla sinh ra từ sương muối

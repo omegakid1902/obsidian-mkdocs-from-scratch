@@ -2,6 +2,7 @@
 outgoing_links:
   - Zet/220227094251 - Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus
 backlinks:
+  - Zet/220302201942 - 3 cuộc chiến giữa Zeus với những khổng lồ bắt nguồn từ tác động của Gaia
   - Zet/220228221440 - Cyclops chế tạo mũ tàng hình cho Hades
   - Zet/220228221526 - Các Cyclops tạo ra chớp, sấm và sét cho Zeus
   - Zet/220228221849 - Cyclops tạo đinh ba cho Poseidon

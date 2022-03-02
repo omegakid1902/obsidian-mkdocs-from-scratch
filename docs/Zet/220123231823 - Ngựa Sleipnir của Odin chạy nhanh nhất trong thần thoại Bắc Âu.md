@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Ngựa Sleipnir của Odin chạy nhanh nhất trong thần thoại Bắc Âu
 UID: 220123231823
 created: 23-Jan-2022

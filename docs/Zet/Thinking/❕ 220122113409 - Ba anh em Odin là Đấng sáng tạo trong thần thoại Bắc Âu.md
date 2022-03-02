@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/God
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Ba anh em Odin tạo ra loài người
   - Zet/220122 - Ba anh em Odin dùng xác Ymir xây dựng thế giới
 backlinks:

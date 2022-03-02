@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Buri
+  - Zet/Garden/Thần thoại Bắc Âu
 backlinks:
   - Zet/Garden/Thần Buri
 title: Vị thần đầu tiên thần thoại Bắc Âu là Buri

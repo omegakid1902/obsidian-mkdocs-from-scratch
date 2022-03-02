@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/220302205935 - Zeus sai Hephaestus tạo ra Pandora
 backlinks:
   - Zet/220222211653 - Biết được Prometheus cho con người, Zeus phạt con người thông qua Pandora
 title: Hephaestus tạo ra người phụ nữ Pandora
@@ -16,7 +18,8 @@ publish: True
 
 ## Source:
 - [[@ peterpotter90.wordpress.com, Chiếc hộp của Pandora]]
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.97
 
-
-
+## Relate:
+- [[220302205935 - Zeus sai Hephaestus tạo ra Pandora]]
 

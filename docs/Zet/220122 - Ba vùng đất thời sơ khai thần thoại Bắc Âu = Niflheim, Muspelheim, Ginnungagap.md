@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Niflheim là vùng đất sương mù băng giá
   - Zet/220122 - Muspelheim vùng đất của lửa
   - Zet/220122102403 - Ginnungagap là vùng đất hư vô ở trung tâm

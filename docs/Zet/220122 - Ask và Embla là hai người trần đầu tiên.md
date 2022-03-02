@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Ba anh em Odin tạo ra loài người
   - Zet/Thinking/❕ 220122114147 - Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva
 backlinks:

@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Tiamat
+  - Zet/Garden/Thần thoại Lưỡng Hà
 backlinks:
   - Zet/Garden/Thần Tiamat
 title: 220121 - Tiamat thần đại dương thần thoại Lưỡng Hà

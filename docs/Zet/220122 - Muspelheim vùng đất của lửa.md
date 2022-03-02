@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 backlinks:
   - Zet/220122 - Ba vùng đất thời sơ khai thần thoại Bắc Âu = Niflheim, Muspelheim, Ginnungagap
   - Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất

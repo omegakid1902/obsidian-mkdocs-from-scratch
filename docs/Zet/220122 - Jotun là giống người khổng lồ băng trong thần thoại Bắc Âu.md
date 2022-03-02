@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122122429 - Jotunheim là vùng đất của Jotun
 title: Jotun là giống người khổng lồ băng trong thần thoại Bắc Âu
 UID: 220122150053

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Lưỡng Hà
   - Zet/Garden/Thần Enlil
   - Zet/Garden/Thần Anu
   - Zet/220121 - Enlil là con của Anu và Ki

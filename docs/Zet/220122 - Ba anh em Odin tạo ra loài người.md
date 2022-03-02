@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/Thinking/❕ 220122113409 - Ba anh em Odin là Đấng sáng tạo trong thần thoại Bắc Âu
 backlinks:
   - Zet/220122 - Ask và Embla là hai người trần đầu tiên

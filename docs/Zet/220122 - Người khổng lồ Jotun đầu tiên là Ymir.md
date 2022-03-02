@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Ymir được tạo ra bởi dòng sông Elivagar và dòng dung nham
 title: Người khổng lồ Jotun đầu tiên là Ymir
 UID: 220122104803

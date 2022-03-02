@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Asynjur là tên gọi các nữ thần Bắc Âu
 backlinks:
   - Zet/220122 - Ba anh em Odin là những vị thần Aesir thời đầu

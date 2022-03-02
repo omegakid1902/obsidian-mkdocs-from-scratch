@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Ba anh em Odin giết Ymir, tàn sát người Jotun
   - Zet/220122 - Ba anh em Odin là những vị thần Aesir thời đầu
 title: Dòng dõi Jotun mang mối thù với Aesir

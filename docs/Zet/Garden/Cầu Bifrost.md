@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Cầu Bifost nối Midgard và Asgard
 backlinks:
   - Zet/220122 - Cầu Bifost nối Midgard và Asgard

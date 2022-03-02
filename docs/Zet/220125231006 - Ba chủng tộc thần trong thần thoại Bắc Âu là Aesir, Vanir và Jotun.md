@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Ba chủng tộc thần trong thần thoại Bắc Âu là Aesir, Vanir và Jotun
 UID: 220125231006
 created: 25-Jan-2022

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/Garden/Dòng sông băng Elivagar
 title: Dòng sông Elivagar khởi nguồn Thế Giới
 UID: 220122103109

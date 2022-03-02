@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Loài người sống ở Midgard
 UID: 220122113154
 created: 22-Jan-2022

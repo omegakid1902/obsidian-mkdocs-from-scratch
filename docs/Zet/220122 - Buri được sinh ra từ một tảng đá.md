@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/Garden/Thần Buri
   - Zet/Garden/Con bò Audhumla
   - Zet/220124231810 - Audhumla niếm tảng băng muối để sống

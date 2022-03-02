@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Giếng Hvergelmir được rồng Nidhug canh giữ
 UID: 220122115021
 created: 22-Jan-2022

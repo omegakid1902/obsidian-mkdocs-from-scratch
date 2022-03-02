@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
 title: Odin, Vili và Ve là con thần Borr và Bestla
 UID: 220122110002
 created: 22-Jan-2022

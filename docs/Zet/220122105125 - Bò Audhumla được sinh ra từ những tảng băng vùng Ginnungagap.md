@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần thoại Bắc Âu
   - Zet/Garden/Con bò Audhumla
 backlinks:
   - Zet/Garden/Con bò Audhumla
