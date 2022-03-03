@@ -3,6 +3,7 @@ outgoing_links:
   - Zet/Garden/Thần Poseidon
 backlinks:
   - Zet/220222215244 - Zeus là con út của Cronus và Rhea
+  - Zet/220303210736 - Hera là vợ của Zeus
   - Zet/220228220327 - Gaia và Rhea giao cho Zeus nhiệm vụ giải cứu các anh chị khỏi bụng Cronus
   - Zet/220222215522 - Hera là con gái của Cronus và Rhea
   - Zet/220222220022 - Poseidon là con của Cronus và Rhea

@@ -26,7 +26,9 @@ backlinks:
   - Zet/220226213736 - Nữ thần Eos là thần bình minh trong thần thoại Hy Lạp
   - Zet/220227081548 - Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp
   - Zet/220226213719 - Nữ thần Selene là thần Mặt trăng trong thần thoại Hy Lạp
+  - Zet/220303203421 - Theo thần thoại Hy Lạp, Epaphos là vua đầu tiên của Ai Cập
   - Zet/220302203704 - Có 5 thời đại trước khi con người được tạo ra trong Thần Thoại Hy Lạp
+  - Zet/220303210303 - Thanatos là thần chết
   - Zet/220226215142 - Gia Phả Thần thoại Hy Lạp
   - Zet/Thinking/❕ 220302211422 - Deucalion và Pyrrha trong thần thoại Hy Lạp là phiên bản của Noah
 title: Thần thoại Hy Lạp

@@ -1,6 +1,9 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần thoại Hy Lạp
+backlinks:
+  - Zet/220303201905 - Gia phả của Zeus
+  - Zet/220303204951 - Gia phả của Poseidon
 title: Gia Phả Thần thoại Hy Lạp
 UID: 220226215142
 created: 26-Feb-2022

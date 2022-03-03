@@ -1,5 +1,6 @@
 ---
 backlinks:
+  - Zet/220303210736 - Hera là vợ của Zeus
   - Zet/220222215522 - Hera là con gái của Cronus và Rhea
   - Zet/220222215801 - Hera thường trả thù tình nhân và con riêng của Zeus
   - Zet/220222220052 - Poseidon là anh của Zeus và em của Hades
@@ -18,6 +19,7 @@ publish: True
 
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.156
 
 
 
