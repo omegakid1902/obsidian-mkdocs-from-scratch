@@ -24,3 +24,5 @@ Vườn không nhà trống, hay còn gọi là Tiêu Thổ, là một chiến t
 Trái ngược với chiến thuật [[Lấy chiến tranh nuôi chiến tranh]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-17]]

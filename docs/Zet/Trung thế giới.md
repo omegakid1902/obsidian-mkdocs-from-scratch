@@ -33,3 +33,5 @@ Mục đích của giai đoạn này là phát triển nhân cách, bản ngã. 
 - [[Thượng thế giới]]
 
 [^1]: [Làm thế nào để bắt đầu hành trình tâm linh của bạn? | Just BE. (wordpress.com)](https://innermostselves.wordpress.com/2021/06/16/lam-the-nao-de-bat-dau-hanh-trinh-tam-linh-cua-ban/)
+## Created:
+- [[2021-10-19]]

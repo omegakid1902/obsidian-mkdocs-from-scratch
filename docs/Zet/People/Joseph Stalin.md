@@ -32,3 +32,5 @@ Stalin là một chính trị gia [[Người Gruzia]]. [[Stalin là nhà cách m
 - [[Joseph Stalin là người Gruzia]]
 - [[@ wiki, Chủ nghĩa Stalin]]
 
+## Created:
+- [[2021-11-19]]

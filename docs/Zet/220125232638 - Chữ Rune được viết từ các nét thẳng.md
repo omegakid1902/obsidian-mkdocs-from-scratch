@@ -15,3 +15,5 @@ Các ký tự của [[Chữ Rune]] được tạo thành từ các nét thẳng,
 - [[@ wiki, Chữ Rune]]
 
 
+## Created:
+- [[2022-01-25]]

@@ -52,3 +52,5 @@ publish: True
 - [[Lễ Giáng Sinh]]
 - Được nhắc đến với một khía cạnh cực kỳ khác trong [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo#Lịch sử Trái Đất theo các Đấng Sáng Tạo - Phần 10]], Phần Lịch sử Trái Đất theo các Đấng Sáng Tạo - Phần 10.
 
+## Created:
+- [[2021-07-31]]

@@ -43,4 +43,5 @@ Xem chi tiết [[Front Matter Of Book]]
 - [[Fleeting Note]]
 - [[Permanent Note]]
 - [[Zettelkasten]]
-- [[Niklas Luhmann]]
+- [[Niklas Luhmann]]## Created:
+- [[2020-10-21]]

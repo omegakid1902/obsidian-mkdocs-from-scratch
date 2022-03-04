@@ -18,3 +18,5 @@ Sau khi [[Nữ thần Ereshkigal]] cưới [[Nergal]] làm chồng, Ereshkigal n
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
+## Created:
+- [[2022-01-21]]

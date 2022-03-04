@@ -17,3 +17,5 @@ publish: True
 Insulin là một hormon giúp điều hòa [[Đường huyết]]. [[Insulin được tiết ra ở tuyến tụy]] giúp tế bào hấp thụ [[Glucose|Glucose]] từ máu.
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-13]]

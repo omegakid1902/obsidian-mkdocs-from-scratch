@@ -50,3 +50,5 @@ Tôn giáo là nơi ta đi theo một lãnh tụ tôn giáo, tôn giáo là mộ
 - [[Boriska Kipriyanovich]]
 
 
+## Created:
+- [[2021-10-17]]

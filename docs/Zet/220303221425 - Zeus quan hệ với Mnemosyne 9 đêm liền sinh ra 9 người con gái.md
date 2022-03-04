@@ -20,4 +20,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.187
 
 ## Relate:
-- [[220303221209 - Các tiên nữ Muses là con gái của Zeus và Mnemosyne]]
+- [[220303221209 - Các tiên nữ Muses là con gái của Zeus và Mnemosyne]]## Created:
+- [[2022-03-03]]

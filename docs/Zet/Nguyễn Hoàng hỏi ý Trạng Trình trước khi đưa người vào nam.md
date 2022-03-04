@@ -25,3 +25,5 @@ Nguyễn Hoàng sai người đến am [[Bạch Vân]] tham khảo ý kiến c�
 
 ## Ideas & thoughts:
 
+## Created:
+- [[2021-07-15]]

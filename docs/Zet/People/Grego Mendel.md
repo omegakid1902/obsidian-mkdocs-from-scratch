@@ -29,4 +29,5 @@ Grego Mendel bắt đầu thí nghiệm di truyền trên giống đậu hà lan
 - Định luật phân ly độc lập các cặp tính trạng.
 
 ## Ideas & thoughts:
-- [[Định luật Mendel về Di truyền]]
+- [[Định luật Mendel về Di truyền]]## Created:
+- [[2022-01-13]]

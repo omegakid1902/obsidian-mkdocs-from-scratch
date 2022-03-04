@@ -26,3 +26,5 @@ Chi tộc Levi là một trong [[Israel có 12 chi tộc|12 chi tộc Do thái]]
 ## Ideas & thoughts:
 - [Bàn luận, so sánh, đối chiếu các tôn giáo - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/van-hoa-xa-hoi/ban-luan-so-sanh-doi-chieu-cac-ton-giao-1441.html)
 
+## Created:
+- [[2021-11-20]]

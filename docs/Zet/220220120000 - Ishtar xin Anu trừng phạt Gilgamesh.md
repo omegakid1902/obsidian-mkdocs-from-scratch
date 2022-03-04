@@ -23,3 +23,5 @@ Tức giận vì bị [[Vua Gilgamesh|Gilgamesh]] khước từ tình cảm, [[N
 - [[@ truyenxuatichcu.com, Sử thi Gilgamesh - sử thi anh hùng cổ xưa nhất thế giới]]
 
 
+## Created:
+- [[2022-02-20]]

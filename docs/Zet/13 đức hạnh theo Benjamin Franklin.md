@@ -29,3 +29,5 @@ publish: True
 13.  "**Khiêm tốn**. Học theo [Giêsu](https://vi.wikipedia.org/wiki/Gi%C3%AA-su "Giê-su") và [Sokrates](https://vi.wikipedia.org/wiki/Sokrates "Sokrates")."
 
 ## Ideas & thoughts:
+## Created:
+- [[2020-12-29]]

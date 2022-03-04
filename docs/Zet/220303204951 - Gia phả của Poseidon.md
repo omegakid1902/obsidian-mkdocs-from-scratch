@@ -28,4 +28,5 @@ Gia phả của [[Thần Poseidon|Poseidon]]:
 
 ## Relate:
 - [[220303201905 - Gia phả của Zeus]]
-- [[220226215142 - Gia Phả Thần thoại Hy Lạp]]
+- [[220226215142 - Gia Phả Thần thoại Hy Lạp]]## Created:
+- [[2022-03-03]]

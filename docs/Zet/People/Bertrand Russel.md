@@ -17,4 +17,5 @@ publish: True
 ## Ideas & thoughts:
 
 ## Ref:
-- [Bertrand Russell – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Bertrand_Russell)
+- [Bertrand Russell – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Bertrand_Russell)## Created:
+- [[2021-11-13]]

@@ -23,3 +23,5 @@ Hồng Lâu Mộng do [[Tào Tuyết Cần]] viết 80 hồi đầu, sau đượ
 Hai nhân vật chính của Hồng lâu mộng là [[Giả Bảo Ngọc]] và [[Lâm Đại Ngọc]]
 [[Giả Bảo Ngọc và Lâm Đại Ngọc là hai anh em họ]]
 ## Ideas & thoughts:
+## Created:
+- [[2021-09-06]]

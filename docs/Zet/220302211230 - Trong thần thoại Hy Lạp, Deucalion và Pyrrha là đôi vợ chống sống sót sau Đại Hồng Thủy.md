@@ -25,4 +25,5 @@ Trong [[Thần thoại Hy Lạp]], [[Deucalion]] và [[Pyrrha]] là hai người
 
 ## Relate:
 - [[💥 Atrahasiz là phiên bản của Noah]]
-- [[220122234213 - Utnapishtim là một phiên bản của Noah]]
+- [[220122234213 - Utnapishtim là một phiên bản của Noah]]## Created:
+- [[2022-03-02]]

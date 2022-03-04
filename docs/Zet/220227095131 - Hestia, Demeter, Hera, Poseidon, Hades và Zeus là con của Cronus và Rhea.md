@@ -24,4 +24,5 @@ publish: True
 
 ## Source:
 - [[@ wiki, Cronus]]
-- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.58
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.58## Created:
+- [[2022-02-27]]

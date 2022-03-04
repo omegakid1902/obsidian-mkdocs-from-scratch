@@ -32,3 +32,5 @@ publish: True
 - [[Titan Rhea|Rhea]]
 - [[Người khổng lồ Cyclops|Cyclops]]
 - [[Nữ thần Gaia|Gaia]]
+## Created:
+- [[2022-02-27]]

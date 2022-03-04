@@ -12,4 +12,5 @@ publish: True
 # Paramahansa Yogananda
 
 ## Notes:
-Tác giả quyển [[[[Invalid date]]
+Tác giả quyển [[[[Invalid date]]## Created:
+- [[2021-12-18]]

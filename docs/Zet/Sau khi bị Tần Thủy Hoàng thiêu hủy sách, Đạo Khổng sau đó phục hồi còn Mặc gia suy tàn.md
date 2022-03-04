@@ -16,3 +16,5 @@ Sau khi bị [[Tần Thủy Hoàng]] thiêu hủy sách, [[Nho giáo|Đạo Kh�
 
 ## Ideas & thoughts:
 [[Mặc Tử chê bai đạo Khổng không thi hành được ở nước Lỗ]]
+## Created:
+- [[2021-09-05]]

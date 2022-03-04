@@ -19,3 +19,5 @@ Lưu ý, các tín hiệu điện truyền đi không theo dòng chảy mà là 
 
 ## Ideas & thoughts:
 - [[Tế bào thần kinh]]
+## Created:
+- [[2020-10-22]]

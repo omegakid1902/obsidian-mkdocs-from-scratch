@@ -23,3 +23,5 @@ Rudolf Clausius, tên đầy đủ là Rudolf Julius Emanuel Clausius, sinh ngà
 Rudolf Clausius là cha đẻ [[Định luật Entropy]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2022-01-14]]

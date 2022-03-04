@@ -31,3 +31,5 @@ Cha đẻ của công nghệ mRNA là tiến sĩ [[Robert Wallace Malone]]
 - [[Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ]]
 
 [^1]: [Nhà phát minh công nghệ vắc-xin Covid-19 mRNA: Tôi có nguy cơ 'bị ám sát' vì phản đối việc tiêm chủng (ntdvn.com)](https://www.ntdvn.com/suc-khoe/nha-phat-minh-cong-nghe-vac-xin-covid-19-mrna-toi-co-nguy-co-bi-am-sat-vi-phan-doi-viec-tiem-chung-217990.html)
+## Created:
+- [[2021-07-10]]

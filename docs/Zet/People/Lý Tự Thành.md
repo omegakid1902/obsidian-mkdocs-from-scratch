@@ -19,3 +19,5 @@ publish: True
 - Khi rút quân, [[Lý Tự Thành]] đã phóng hỏa đốt [[Tử Cấm Thành]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-12]]

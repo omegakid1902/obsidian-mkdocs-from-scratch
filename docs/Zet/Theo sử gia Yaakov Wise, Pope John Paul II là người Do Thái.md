@@ -20,3 +20,5 @@ Trong một bài viết mang tên *The Pope was Jewish says historian* trên t�
 ## Ideas & thoughts:
 - [[Khazars]]
 
+## Created:
+- [[2021-10-30]]

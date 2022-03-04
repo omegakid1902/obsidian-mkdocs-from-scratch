@@ -19,4 +19,5 @@ Nghịch lý Fermi nói về sự trái ngược giữa khả năng cao có con 
 
 
 ## Ref:
-- [Những lý thuyết kỳ dị khiến bạn đánh mất nhận thức và lòng tin (thoidaitamlinh.top)](https://www.thoidaitamlinh.top/2019/08/nhung-ly-thuyet-ky-di-khien-ban-danh-mat-nhan-thu-va-long-tin.html)
+- [Những lý thuyết kỳ dị khiến bạn đánh mất nhận thức và lòng tin (thoidaitamlinh.top)](https://www.thoidaitamlinh.top/2019/08/nhung-ly-thuyet-ky-di-khien-ban-danh-mat-nhan-thu-va-long-tin.html)## Created:
+- [[2021-12-30]]

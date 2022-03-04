@@ -19,3 +19,5 @@ publish: True
 Bản dịch Vulgate là bản dịch kinh thánh của thánh [[Thánh Jerome]] từ tiếng Hy Lạp sang tiếng La tinh. Bản dịch này dịch từ [[Bản bảy mươi]].
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-31]]

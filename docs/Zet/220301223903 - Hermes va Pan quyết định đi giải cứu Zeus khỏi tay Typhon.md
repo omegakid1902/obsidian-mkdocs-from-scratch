@@ -22,4 +22,5 @@ Sau khi Zeus bị hạ gục bởi [[Typhon]], [[Thần Hermes|Hermes]] va [[Pan
 
 ## Relate:
 - [[220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon]]
-- [[220301223636 - Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile]]
+- [[220301223636 - Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile]]## Created:
+- [[2022-03-01]]

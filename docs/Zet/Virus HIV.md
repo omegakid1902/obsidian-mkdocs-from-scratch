@@ -27,4 +27,5 @@ Virus HIV, viết tắt của human immunodeficiency virus, được cho là ngu
 - [[Zidovudin|AZT]]
 
 ## Ref:
-- Kary Mullis nói rằng virus HIV không phải là nguyên nhân gây ra bệnh AIDS [Kary Mullis (wickedtruths.org)](https://wickedtruths.org/en/kary-mullis/)
+- Kary Mullis nói rằng virus HIV không phải là nguyên nhân gây ra bệnh AIDS [Kary Mullis (wickedtruths.org)](https://wickedtruths.org/en/kary-mullis/)## Created:
+- [[2021-12-29]]

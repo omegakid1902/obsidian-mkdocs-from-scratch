@@ -16,3 +16,5 @@ Nhiều học giả so sánh văn hóa như ký sinh trùng trong não người
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.305
 
 
+## Created:
+- [[2022-02-18]]

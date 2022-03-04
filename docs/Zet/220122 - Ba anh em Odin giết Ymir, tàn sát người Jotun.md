@@ -22,3 +22,5 @@ Ymir bị ba anh em Odin giết chết, máu của gã chảy ra nhấn chìm ch
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
 
 
+## Created:
+- [[2022-01-22]]

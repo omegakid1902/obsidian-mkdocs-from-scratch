@@ -20,4 +20,5 @@ publish: True
 
 ## Relate:
 - [[220303215902 - Hera xin Gaia tạo ra Python để đánh ghen Leto]]
-- [[220222220614 - Apollo là con trai của Zeus và Leto]]
+- [[220222220614 - Apollo là con trai của Zeus và Leto]]## Created:
+- [[2022-03-03]]

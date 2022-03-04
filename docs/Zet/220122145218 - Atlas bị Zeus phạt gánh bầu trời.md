@@ -22,3 +22,5 @@ Olympus giành chiến thắng trước phe [[Người khổng lồ Titan|Titan]
 - [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.74
 
+## Created:
+- [[2022-01-22]]

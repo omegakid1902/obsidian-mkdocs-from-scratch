@@ -60,3 +60,5 @@ Khi bạn đang đọc một quyển sách, văn bản mà bạn có thời gian
 - [[Các tài liệu zettelkasten]]
 
 
+## Created:
+- [[2021-10-01]]

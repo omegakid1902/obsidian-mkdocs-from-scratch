@@ -17,4 +17,5 @@ Hoà thượng Thích Quảng Đức tự thiêu tại ngã tư Lê Văn Duyệ
 - [[Sự kiện phật Đản]]
 
 ## Ref:
-- [Malcolm Browne, Journalist Who Took The 'Burning Monk' Photo, Dies : The Two-Way : NPR](https://www.npr.org/sections/thetwo-way/2012/08/28/160186991/malcolm-browne-journalist-who-took-the-burning-monk-photo-dies)
+- [Malcolm Browne, Journalist Who Took The 'Burning Monk' Photo, Dies : The Two-Way : NPR](https://www.npr.org/sections/thetwo-way/2012/08/28/160186991/malcolm-browne-journalist-who-took-the-burning-monk-photo-dies)## Created:
+- [[2020-12-12]]

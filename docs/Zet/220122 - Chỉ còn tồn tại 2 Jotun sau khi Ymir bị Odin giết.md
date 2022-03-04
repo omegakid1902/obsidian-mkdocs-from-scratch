@@ -20,3 +20,5 @@ Sau khi [[Người khổng lồ Ymir|Ymir]] bị [[Thần Odin]] giết, chỉ c
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
 
 
+## Created:
+- [[2022-01-22]]

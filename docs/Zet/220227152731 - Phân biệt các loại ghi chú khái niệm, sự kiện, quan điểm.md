@@ -13,3 +13,5 @@ publish: True
 - [Entelechy's Designing Training Based on Five Content Types (unlockit.com)](https://www.unlockit.com/wp-content/uploads/five_content_types.pdf)
 - [Facts, Concepts, and Generalizations or Big Ideas (homeofbob.com)](https://www.homeofbob.com/glossaries/fctsConGen.html)
 
+## Created:
+- [[2022-02-27]]

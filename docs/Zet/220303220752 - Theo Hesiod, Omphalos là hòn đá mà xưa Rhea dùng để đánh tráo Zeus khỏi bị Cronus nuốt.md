@@ -14,3 +14,5 @@ Theo [[Hesiod]], [[Omphalos]] là hòn đá mà xưa [[Titan Rhea|Titanide Rhea]
 
 ## Source:
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.176
+## Created:
+- [[2022-03-03]]

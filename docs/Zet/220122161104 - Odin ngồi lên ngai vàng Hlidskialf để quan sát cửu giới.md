@@ -15,3 +15,5 @@ Ngai vàng của [[Thần Odin]] được gọi là [[Hlidskialf]], được ôn
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
 
 
+## Created:
+- [[2022-01-22]]

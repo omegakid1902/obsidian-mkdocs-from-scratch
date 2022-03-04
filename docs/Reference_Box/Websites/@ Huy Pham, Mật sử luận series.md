@@ -15,4 +15,5 @@ tags:
 - [[@ Huy Phạm, Mật sử luận 3 - Lịch sử Khazaria Mafia]]
 - [[@ Huy Phạm, Mật sử luận 5 - KMR]]
 - [[@ Huy Phạm, Mật sử luận 4 - Rothschild và Mafia Khazaria]]
-- [[@ Huy Phạm, Mật sử luận 6]]
+- [[@ Huy Phạm, Mật sử luận 6]]## Created:
+- [[2021-11-18]]

@@ -21,3 +21,5 @@ Viên Thiệu là một chư hậu hùng mạnh nhất cuối thời Đông Hán
 
 ## Ideas & thoughts:
 - [ ] Viên Thiệu là một nhân vật trong [[Tam Quốc Diễn nghĩa]]
+## Created:
+- [[2021-08-28]]

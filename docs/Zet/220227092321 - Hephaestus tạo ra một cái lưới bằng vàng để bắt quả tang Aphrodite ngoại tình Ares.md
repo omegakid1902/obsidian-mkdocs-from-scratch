@@ -21,4 +21,5 @@ publish: True
 - [[@ wiki, Aphrodite]]
 
 ## Relate:
-- [[220227092145 - Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares]]
+- [[220227092145 - Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares]]## Created:
+- [[2022-02-27]]

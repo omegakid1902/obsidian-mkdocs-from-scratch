@@ -19,3 +19,5 @@ Tên của 11 dòng sông chảy ra từ [[Giếng Hvergelmir]] là Svöl, Gunnt
 - [[@ thanthoaibacau.info, Kiến tạo thế giới  Thần thoại Bắc Âu]]
 
 
+## Created:
+- [[2022-01-24]]

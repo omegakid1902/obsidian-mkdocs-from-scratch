@@ -17,4 +17,5 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[VÁN BÀI LỊCH SỬ - Lá bài số 8 - Xi JinPing]]
+- [[VÁN BÀI LỊCH SỬ - Lá bài số 8 - Xi JinPing]]## Created:
+- [[2021-10-08]]

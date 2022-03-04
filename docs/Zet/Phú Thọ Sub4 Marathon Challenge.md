@@ -25,3 +25,5 @@ Thái Hòa Nhất 10K
 ## Ideas & thoughts:
 
 
+## Created:
+- [[2021-12-12]]

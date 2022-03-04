@@ -47,3 +47,5 @@ Các bài viết được tổng hợp từ [[Zettelkasten]], các bài viết n
 - [[Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓]]
 - [[Zettelkasten Workflow]]
 
+## Created:
+- [[2021-11-20]]

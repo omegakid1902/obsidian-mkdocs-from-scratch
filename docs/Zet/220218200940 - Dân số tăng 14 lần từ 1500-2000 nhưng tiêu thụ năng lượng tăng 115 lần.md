@@ -16,3 +16,5 @@ Trong 500 năm từ 1500 đến 2000, dân số tăng 14 lần nhưng tiêu th�
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.308
 
 
+## Created:
+- [[2022-02-18]]

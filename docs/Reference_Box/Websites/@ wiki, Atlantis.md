@@ -33,4 +33,5 @@ publish: True
 - [[220118 - Các học giả thế kỷ 19 hiểu sai về Atlantis của Plato]]
 - [[220118 - Plato nhắc đến Atlantis nguồn chính trong Timaeus và Critias]]
 - [[220118 - Timaeus và Critias nói Solon dịch tài liệu Ai Cập về Atlantis]]
-- [[220118223634 - Bốn nhân vật trong Timaeus và Critias của Plato]]
+- [[220118223634 - Bốn nhân vật trong Timaeus và Critias của Plato]]## Created:
+- [[2022-01-18]]

@@ -24,4 +24,5 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[Trotsky mâu thuẫn chia rẽ với Lenin]]
+- [[Trotsky mâu thuẫn chia rẽ với Lenin]]## Created:
+- [[2021-11-19]]

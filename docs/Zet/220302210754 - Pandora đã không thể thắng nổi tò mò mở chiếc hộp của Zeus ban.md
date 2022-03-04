@@ -20,4 +20,5 @@ Mặc dù Zeus ban cho Pandora chiếc hộp và dặn nàng không được m�
 
 ## Relate:
 - [[220302210509 - Zeus ban cho Pandora một cái hộp và dặn không được mở ra]]
-- [[220302210649 - Sau khi chiếc hộp Pandora bị mở, con người càng trở nên tha hóa]]
+- [[220302210649 - Sau khi chiếc hộp Pandora bị mở, con người càng trở nên tha hóa]]## Created:
+- [[2022-03-02]]

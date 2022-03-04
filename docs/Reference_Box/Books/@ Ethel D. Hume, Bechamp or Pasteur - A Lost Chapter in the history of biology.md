@@ -9,3 +9,5 @@ tags:
 
 ## Notes:
 Một quyển sách về sự đối chọi giữa hai nhà khoa học [[Antoine Beauchamp|Antoine Bechamp]] và [[Louis Pasteur]] về nguồn gốc của bệnh tật và vi khuẩn.
+## Created:
+- [[2021-10-10]]

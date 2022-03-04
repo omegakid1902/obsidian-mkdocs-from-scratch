@@ -20,4 +20,5 @@ Stephen Hawking nhà vật lý, thiên văn học người Anh
 ## Ideas & thoughts:
 
 ## Reference:
-- [khoahoc.tv](https://khoahoc.tv/nhung-tien-tri-dang-so-cua-thien-tai-stephen-hawking-62717)
+- [khoahoc.tv](https://khoahoc.tv/nhung-tien-tri-dang-so-cua-thien-tai-stephen-hawking-62717)## Created:
+- [[2021-10-15]]

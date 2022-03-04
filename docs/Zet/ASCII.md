@@ -17,3 +17,5 @@ Về sau khi chuẩn [[Unicode]] được công bố, Unicode dành đúng 128 k
 
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-31]]

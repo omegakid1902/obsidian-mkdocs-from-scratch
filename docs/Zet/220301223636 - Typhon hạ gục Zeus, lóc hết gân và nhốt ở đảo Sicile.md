@@ -26,4 +26,5 @@ publish: True
 ## Relate:
 - [[220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon]]
 - [[220301223350 - Các thần Olympus chốn sang Ai Cập còn Zeus ở lại đấu với Typhon]]
-- [[220301224355 - Zeus chỉ thua Typhon trong lần đối đầu đầu tiên, lần 2 Zeus thắng]]
+- [[220301224355 - Zeus chỉ thua Typhon trong lần đối đầu đầu tiên, lần 2 Zeus thắng]]## Created:
+- [[2022-03-01]]

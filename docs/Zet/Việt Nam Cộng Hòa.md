@@ -22,3 +22,5 @@ Người lãnh đạo thời kỳ đầu - [[Đệ Nhất Cộng Hòa]]-  là [[
 [[Đảo chính VNCH 1963]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-06-22]]

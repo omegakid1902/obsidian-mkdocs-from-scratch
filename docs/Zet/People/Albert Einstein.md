@@ -20,4 +20,5 @@ publish: True
 
 ## Ideas & thoughts:
 -   [[Albert Einstein]] từng nói [[Nicola Tesla]] là người thông minh hơn mình!?
--   Ông tin thượng để của [[Spinoza]]!? [[@ Jillene Moore, Thượng đế của Spinoza]]
+-   Ông tin thượng để của [[Spinoza]]!? [[@ Jillene Moore, Thượng đế của Spinoza]]## Created:
+- [[2021-10-15]]

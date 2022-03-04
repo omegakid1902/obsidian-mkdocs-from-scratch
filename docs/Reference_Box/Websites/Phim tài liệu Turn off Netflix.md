@@ -11,3 +11,5 @@ tags:
 Phim tài liệu "Turn off [[Netflix]]"
 
 [NETFLIX is NOT what you think it is **PLEASE SHARE** - YouTube](https://www.youtube.com/watch?v=hNyipNpcllY)
+## Created:
+- [[2022-01-05]]

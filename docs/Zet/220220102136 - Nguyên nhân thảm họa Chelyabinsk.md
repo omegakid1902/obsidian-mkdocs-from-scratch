@@ -15,3 +15,5 @@ Nguyên nhân [[Thảm họa Kyshtym]] là các thùng phế phẩm hạt nhân 
 - [[@ youtube, Nga đã từng tìm thấy em bé ngoài hành tinh như thế nào]]
 
 
+## Created:
+- [[2022-02-20]]

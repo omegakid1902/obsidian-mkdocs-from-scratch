@@ -33,3 +33,5 @@ Abraham được nhắc đến trong sách sáng [[Genesis|Sáng Thế]] [[Gen-1
 [[Abraham là cha của Isaac và Ishmael]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-11-11]]

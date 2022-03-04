@@ -24,3 +24,5 @@ publish: True
 **Shoah** là một tên gọi khác của [[Holocaust]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-06-19]]

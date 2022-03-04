@@ -18,3 +18,5 @@ publish: True
 
 ## Ideas & thoughts:
 - [[@ wiki, Chủ nghĩa Stalin]]
+## Created:
+- [[2021-07-18]]

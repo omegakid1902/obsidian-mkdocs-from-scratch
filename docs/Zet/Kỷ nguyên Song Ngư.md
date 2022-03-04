@@ -23,3 +23,5 @@ Kỷ nguyên Song Ngư đại diện cho lòng tin, tín ngưỡng và tôn giá
 ## Ideas & thoughts:
 - Liền sau kỷ nguyên Song Ngư là [[Kỷ nguyên Bảo Bình]]
 
+## Created:
+- [[2021-11-24]]

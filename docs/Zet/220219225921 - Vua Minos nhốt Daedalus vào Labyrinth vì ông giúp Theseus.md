@@ -21,3 +21,5 @@ Vì [[Daedalus]] giúp [[Theseus]], [[Vua Minos]] nổi giận và nhốt [[Daed
 - [[@ tinhhoa.net, Thần thoại Hy Lạp - Icarus muốn chinh phục bầu trời và vọng tưởng của những tín đồ khoa học]]
 
 
+## Created:
+- [[2022-02-19]]

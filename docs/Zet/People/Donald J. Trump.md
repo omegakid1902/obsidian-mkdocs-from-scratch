@@ -30,3 +30,5 @@ Donald J. Trump là tổng thống thứ 45 của [[Hoa Kỳ]]
 
 ## Ideas & thoughts:
 - Trump là người ủng hộ [[QAnon]]
+## Created:
+- [[2021-09-20]]

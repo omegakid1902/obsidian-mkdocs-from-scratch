@@ -21,4 +21,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.76
 
 ## Relate:
-- [[220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan]]
+- [[220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan]]## Created:
+- [[2022-03-01]]

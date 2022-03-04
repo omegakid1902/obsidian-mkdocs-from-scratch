@@ -20,3 +20,5 @@ Năm 843, triều đình Trung Quốc nghiêm cấm [[Phật Giáo]] và [[Mani 
 - [[@ wiki, Mani giáo]]
 
 
+## Created:
+- [[2022-02-20]]

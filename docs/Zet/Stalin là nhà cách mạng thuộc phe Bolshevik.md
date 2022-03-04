@@ -22,3 +22,5 @@ publish: True
 ## Ideas & thoughts:
 - [[Lev Davidovich Trotsky]] chỉ trích [[Joseph Stalin]] và tư tưởng của ông trong việc lãnh đạo Nga.
 
+## Created:
+- [[2021-11-19]]

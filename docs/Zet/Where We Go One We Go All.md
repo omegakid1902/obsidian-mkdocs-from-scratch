@@ -18,3 +18,5 @@ Where We Go One We Go All (WWG1WGA) là một câu khẩu hiệu của [[Nhân v
 ## Ideas & thoughts:
 
 
+## Created:
+- [[2021-10-30]]

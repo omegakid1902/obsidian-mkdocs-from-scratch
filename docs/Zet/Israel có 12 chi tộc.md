@@ -53,3 +53,5 @@ Các bộ lạc bao gồm: (Xem thêm [[Gen-46]])
 ## Ref:
 - [12 bộ tộc của Israel là gì? (greelane.com)](https://www.greelane.com/vi/nh%C3%A2n-v%C4%83n/l%E1%BB%8Bch-s%E1%BB%AD--v%C4%83n-h%C3%B3a/twelve-tribes-of-israel-119340/)
 - [Các tôn giáo khởi nguồn từ Abraham – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/C%C3%A1c_t%C3%B4n_gi%C3%A1o_kh%E1%BB%9Fi_ngu%E1%BB%93n_t%E1%BB%AB_Abraham)
+## Created:
+- [[2021-10-29]]

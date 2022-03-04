@@ -25,4 +25,5 @@ Mahatma Gandhi (1869-1948) tên thật là Mohandas Karamchand Gandhi, là lãnh
 
 ## Ideas & thoughts:
 - [[Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo]]
-- Gandhi ảnh hưởng bởi tư tưởng [[Leo Tolstoy]]
+- Gandhi ảnh hưởng bởi tư tưởng [[Leo Tolstoy]]## Created:
+- [[2021-07-25]]

@@ -16,3 +16,5 @@ Hai anh em [[Jacob Bernoulli]] và [[Johann Bernoulli]] từng có thời gian h
 ## Source:
 - [[@ tiasang.com.vn, Gia đình Bernoulli]]
 
+## Created:
+- [[2022-01-20]]

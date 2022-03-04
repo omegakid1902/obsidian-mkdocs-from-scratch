@@ -20,4 +20,5 @@ Trong cuộc chiến với [[Typhon]], Các thần Olympus chốn sang Ai Cập,
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.81
 
 ## Relate:
-- [[220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon]]
+- [[220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon]]## Created:
+- [[2022-03-01]]

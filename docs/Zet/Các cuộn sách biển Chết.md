@@ -31,3 +31,5 @@ Các cuộn sách biển chết là tập hợp 981 bản ghi phát hiện tại
 
 ## Ref:
 - [Các cuộn sách Biển Chết – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/C%C3%A1c_cu%E1%BB%99n_s%C3%A1ch_Bi%E1%BB%83n_Ch%E1%BA%BFt)
+## Created:
+- [[2021-11-13]]

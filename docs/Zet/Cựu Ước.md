@@ -30,3 +30,5 @@ Cựu Ước tiếng Latinh là _Vetus Testamentum_ nghĩa là Giao Ước cũ. 
 
 ### Tóm tắt cựu ước
 - [[Tóm tắt sách Sáng Thế]]
+## Created:
+- [[2021-07-31]]

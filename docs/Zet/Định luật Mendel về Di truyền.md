@@ -26,3 +26,5 @@ publish: True
 
 ## Ref:
 - [Gärtner – Mendel: Species are fixed / Gärtner – Mendel: Loài là cố định | PhamVietHung's Home (viethungpham.com)](https://viethungpham.com/2021/08/21/gartner-mendel-species-are-fixed-gartner-mendel-loai-la-co-dinh/)
+## Created:
+- [[2022-01-13]]

@@ -20,3 +20,5 @@ Có 2 bản kinh Nicea, bản nguyên thủy do Công đồng Nicea I (325) so�
 ## Ideas & thoughts:
 
 
+## Created:
+- [[2020-12-06]]

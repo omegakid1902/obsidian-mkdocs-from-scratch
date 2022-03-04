@@ -17,3 +17,5 @@ Người [[Homo Neanderthal|Homo Neanderthal]] và [[Homo Sapiens|Homo Sapiens]]
 
 ## Ideas & thoughts:
 - Lập luận về người Sapiens đẩy Neanderthal và những loài Homo khác tuyệt chủng?
+## Created:
+- [[2021-06-27]]

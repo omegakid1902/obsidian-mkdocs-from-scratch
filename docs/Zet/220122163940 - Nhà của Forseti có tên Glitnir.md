@@ -15,3 +15,5 @@ Nhà của [[Thần Forseti]] có tên [[Glitnir]], mái của Glitnir làm bằ
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
 
 
+## Created:
+- [[2022-01-22]]

@@ -27,3 +27,5 @@ Từ này bắt nguồn từ [[Mayer Amschel Bauer]]. Cha ông là [[Moses Amsch
 - [[@ vovankienthuc.com, Rothschild – Một dòng họ gây chiến tàn bạo]]
 
 
+## Created:
+- [[2021-11-13]]

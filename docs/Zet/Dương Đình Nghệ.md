@@ -23,4 +23,5 @@ Ngô quyền được Dương Đình Nghệ gả con gái là [[Dương Thị Nh
 
 ## Ideas & thoughts:
 
-[^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], Chương 3
+[^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], Chương 3## Created:
+- [[2021-08-21]]

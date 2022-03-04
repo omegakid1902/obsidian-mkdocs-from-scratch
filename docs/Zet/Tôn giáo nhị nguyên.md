@@ -19,3 +19,5 @@ Tôn giáo nhị nguyên là tôn giáo cho rằng cái ác và cái thiện t�
 - [[Zarathustra]]
 
 
+## Created:
+- [[2021-10-23]]

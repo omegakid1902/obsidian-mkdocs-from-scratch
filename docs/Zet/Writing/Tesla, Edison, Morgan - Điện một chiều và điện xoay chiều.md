@@ -37,4 +37,5 @@ Nhờ thành công của hội chợ, điện xoay chiều được công chúng
 
 ## Ref:
 - [[@ fb.com, Những người kiến tạo nước Mỹ P4 - JP Morgan vua ngân hàng]]
-- [Morgan-Edison-Tesla những con người vĩ đại - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/tinh-hoa-nhan-loai/morgan-edison-tesla-nhung-con-nguoi-vi-dai-1504.html)
+- [Morgan-Edison-Tesla những con người vĩ đại - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/tinh-hoa-nhan-loai/morgan-edison-tesla-nhung-con-nguoi-vi-dai-1504.html)## Created:
+- [[2021-11-20]]

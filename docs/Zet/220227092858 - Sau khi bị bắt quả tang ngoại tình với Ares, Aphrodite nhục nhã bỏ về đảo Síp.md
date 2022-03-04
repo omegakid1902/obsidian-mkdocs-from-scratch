@@ -17,4 +17,5 @@ Sau khi bị [[Thần Hephaestus|Hephaestus]] bắt quả tang ngoại tình v�
 - [[@ wiki, Aphrodite]]
 
 ## Relate:
-- [[220227091115 - Aphrodite thường được cho là sinh ra ở đảo Síp]]
+- [[220227091115 - Aphrodite thường được cho là sinh ra ở đảo Síp]]## Created:
+- [[2022-02-27]]

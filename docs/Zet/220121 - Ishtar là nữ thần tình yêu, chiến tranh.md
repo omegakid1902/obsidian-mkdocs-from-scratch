@@ -17,3 +17,5 @@ Theo [[Thần thoại Lưỡng Hà]], [[Nữ thần Ishtar]] là nữ thần tì
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
+## Created:
+- [[2022-01-21]]

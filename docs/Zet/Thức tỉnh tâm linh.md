@@ -44,4 +44,5 @@ Quá trình thức tỉnh thường khởi đầu bằng một sự kiện, nơi
 ## Ref:
 - [ĐỊNH LUẬT TIẾN HÓA LINH HỒN (thegioivohinh.com)](http://thegioivohinh.com/diendan/showthread.php?459043-%C4%90%E1%BB%8ANH-LU%E1%BA%ACT-TI%E1%BA%BEN-H%C3%93A-LINH-H%E1%BB%92N)
 - [Khám phá quá trình tỉnh thức & phát triển bản thân/con đường giác ngộ/mục đích sống - YouTube](https://www.youtube.com/watch?v=AnJJtOaVS5o)
-- [Diep Bui - Care to SHARE - Bài viết | Facebook](https://www.facebook.com/diepbui1019/posts/351141562899269)
+- [Diep Bui - Care to SHARE - Bài viết | Facebook](https://www.facebook.com/diepbui1019/posts/351141562899269)## Created:
+- [[2021-10-17]]

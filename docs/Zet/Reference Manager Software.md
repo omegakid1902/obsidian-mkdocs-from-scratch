@@ -22,3 +22,5 @@ Nó là một ứng dụng có lưu trữ các tệp pdf, hình ảnh, ghi âm. 
 
 ## Reference:
 - [This is how I did it: created the best reference manager set up for research & writing – Natural Resource Ecology Laboratory at Colorado State University](https://www.nrel.colostate.edu/set-up-best-reference-manager/)
+## Created:
+- [[2020-10-21]]

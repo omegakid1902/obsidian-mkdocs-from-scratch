@@ -23,4 +23,5 @@ publish: True
 Ngũ kinh [[Cựu Ước]] là năm sách đầu tiên trong cựu ước, tương đương với [[Torah]] của [[Do Thái Giáo]].
 
 ## Ideas & thoughts:
-- [[Năm sách trong Ngũ Kinh Cựu Ước]]
+- [[Năm sách trong Ngũ Kinh Cựu Ước]]## Created:
+- [[2021-07-31]]

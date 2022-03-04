@@ -18,4 +18,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.71
 
 ## Relate:
-- [[220227100639 - Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus]]
+- [[220227100639 - Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus]]## Created:
+- [[2022-02-28]]

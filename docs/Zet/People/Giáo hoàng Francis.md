@@ -23,4 +23,5 @@ publish: True
 
 ## Ideas & thoughts:
 - Giáo hoàng Francis là tu sĩ [[Dòng Tên]]
-- Giáo hoàng Francis lấy tước hiệu theo thánh [[Thánh Phanxico-Assisi]] 
+- Giáo hoàng Francis lấy tước hiệu theo thánh [[Thánh Phanxico-Assisi]] ## Created:
+- [[2021-10-24]]

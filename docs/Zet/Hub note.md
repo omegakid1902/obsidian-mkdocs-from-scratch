@@ -24,3 +24,5 @@ Khi số lượng ghi chú lớn, liên kết giữa các ghi chú cũng lớn, 
 
 ## Ideas & thoughts:
 - [[The Luhmann Notes]]
+## Created:
+- [[2021-07-01]]

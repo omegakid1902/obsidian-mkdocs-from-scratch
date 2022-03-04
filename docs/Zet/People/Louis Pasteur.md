@@ -38,4 +38,5 @@ Louis Pasteur đưa ra [[The Germ theory]]
 ## Ideas & thoughts:
 - Đối đầu với [[Antoine Beauchamp]] về lý thuyết vi khuẩn và nguồn gốc của bệnh tật
 - [[Các lý thuyết về nguyên nhân gây bệnh ung thư]]
-- Dựa trên The Germ theory, [[Edward Jenner]] đã đưa ra [[Vaccination]] 
+- Dựa trên The Germ theory, [[Edward Jenner]] đã đưa ra [[Vaccination]] ## Created:
+- [[2021-10-10]]

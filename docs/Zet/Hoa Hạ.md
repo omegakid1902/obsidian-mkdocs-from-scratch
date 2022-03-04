@@ -15,3 +15,5 @@ publish: True
 Hoa Hạ là tên dùng để chỉ những cư dân nông nghiệp ở phía bắc sông Dương Tử. Người Hoa Hạ là tổ tiên của [[Người Hán]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-28]]

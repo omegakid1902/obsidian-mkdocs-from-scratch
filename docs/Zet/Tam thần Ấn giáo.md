@@ -32,3 +32,5 @@ Trimurti, hay Tam thần Ấn giáo, là 3 vị thần tối cao trong [[Ấn Đ
 - [[Thần Shiva]] là đấng hủy diệt.
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-04]]

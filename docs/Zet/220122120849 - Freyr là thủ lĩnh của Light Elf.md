@@ -15,3 +15,5 @@ Thủ lĩnh của [[Light Elf]] là [[Thần Freyr]]
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Cửu giới]]
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
 
+## Created:
+- [[2022-01-22]]

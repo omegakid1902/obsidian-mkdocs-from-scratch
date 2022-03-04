@@ -19,3 +19,5 @@ publish: True
 Hồng Tú Toàn (1814-1864) có nguồn gốc từ [[Người Hakka]]. Ông là lãnh tụ cuộc khởi nghĩa [[Thái Bình Thiên Quốc]] chống [[Nhà Thanh]].  
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-12]]

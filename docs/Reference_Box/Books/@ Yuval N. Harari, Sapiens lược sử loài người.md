@@ -81,3 +81,5 @@ Note:
 - [[❕ 220218215653 - Cách thức để tìm hạnh phúc]]
 - [[220218220022 - Giải pháp thoát khổ theo Phật giáo]]
 - [[❕ 220218220119 - Hạnh phúc bắt nguồn từ bên trong]]
+## Created:
+- [[2021-06-27]]

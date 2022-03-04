@@ -16,3 +16,5 @@ publish: True
 UTF là viết tắt của Unicode Transformation Format, là một chuẩn để biểu diễn các ký tự [[Unicode]]. 
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-31]]

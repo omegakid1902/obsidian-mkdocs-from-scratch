@@ -23,3 +23,5 @@ publish: True
 Người Do Thái Sephardi là nhóm [[Người Do Thái]] có nguồn gốc từ [[Bán Đảo Iberia]]. Đến thế kỷ 15, họ bị nhà vua [[Bồ Đào Nha]] trục xuất ra khỏi [[Bán Đảo Iberia]] cùng với những người [[Hồi Giáo]].
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-06-19]]

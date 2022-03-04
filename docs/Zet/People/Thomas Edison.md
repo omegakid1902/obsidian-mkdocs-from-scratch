@@ -26,4 +26,5 @@ Thomas Edison, tên đầy đủ Thomas Alva Edison, là một nhà phát minh v
 
 ## Ideas & thoughts:
 - [[Nicola Tesla|Tesla]]
-- [[John Pierpont Morgan|JP Morgan]]
+- [[John Pierpont Morgan|JP Morgan]]## Created:
+- [[2021-11-20]]

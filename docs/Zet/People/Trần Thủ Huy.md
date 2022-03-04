@@ -20,4 +20,5 @@ publish: True
 Trần Thủ Huy cha của của [[Trần Thủ Độ]].
 
 ## Ideas & thoughts:
-- Có người cho rằng Trần Thủ Huy chỉ là một nhân vật hư cấu trong truyện [[Anh hùng Đông A]].
+- Có người cho rằng Trần Thủ Huy chỉ là một nhân vật hư cấu trong truyện [[Anh hùng Đông A]].## Created:
+- [[2021-11-25]]

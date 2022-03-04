@@ -23,3 +23,5 @@ Giao Châu thất hùng là danh sách 7 vị anh hùng người [[Giao Châu]] 
 - [[Phạm Cự Lạng]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-14]]

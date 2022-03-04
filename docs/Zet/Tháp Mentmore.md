@@ -26,3 +26,5 @@ Tháp Mentmore là một ngôi nhà được xây dựng từ 1852-1854 cho [[Gi
 ## Ideas & thoughts:
 - [[Qmap]]
 
+## Created:
+- [[2021-10-25]]

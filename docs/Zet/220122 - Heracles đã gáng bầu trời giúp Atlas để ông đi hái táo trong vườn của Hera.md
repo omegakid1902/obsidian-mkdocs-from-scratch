@@ -15,3 +15,5 @@ Trong truyền thuyết 12 chiến công, [[Heracles]] đã tạm thời thay [[
 - [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]
 
 
+## Created:
+- [[2022-01-22]]

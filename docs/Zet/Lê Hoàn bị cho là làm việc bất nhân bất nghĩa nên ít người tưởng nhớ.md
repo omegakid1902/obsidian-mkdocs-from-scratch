@@ -26,3 +26,5 @@ Hiện nay, còn nhiều di tích thời [[Nguyễn Bặc]] và [[Đinh Điền]
 ## Ideas & thoughts:
 - Vụ án này giống với [[Vụ án Lệ Chi Viên]]
 
+## Created:
+- [[2021-07-14]]

@@ -18,3 +18,5 @@ publish: True
 Tiếng Pali là ngôn ngữ kinh lễ của [[Phật giáo Nam Tông]]
 [[Ngữ hệ Ấn-Âu]]
 [[Tiếng Pali còn được gọi là Nam Phạn]]
+## Created:
+- [[2021-09-07]]

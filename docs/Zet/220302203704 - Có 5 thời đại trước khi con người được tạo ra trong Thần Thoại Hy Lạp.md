@@ -22,3 +22,5 @@ Theo [[Hesiod]], trong [[Thần thoại Hy Lạp]], có 5 thời đại trước
 
 ## Source:
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.90
+## Created:
+- [[2022-03-02]]

@@ -58,3 +58,5 @@ Ngay cả thói quen tốt cũng có mặt xấu của nó:
 
 - Mặt trái của thói quen cũ có thể giam hãm ta trong tư duy và hành động trước đó - nhưng thế giới thì không ngừng thay đổi. -> Cần thường xuyên xem lại các thói quen và niềm tin cũ có còn thực sự hữu ích không
 
+## Created:
+- [[2022-01-01]]

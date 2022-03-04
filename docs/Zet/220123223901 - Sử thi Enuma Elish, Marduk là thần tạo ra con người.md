@@ -19,3 +19,5 @@ Trong [[Sử thi Enuma Elish]], [[Thần Marduk]] trộn đất sét và máu c�
 - [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
 
 
+## Created:
+- [[2022-01-23]]

@@ -35,4 +35,5 @@ Liên quan
 [[Ngôi sao David]]
 
 ## Questions:
-- [[❓211003-1738]]
+- [[❓211003-1738]]## Created:
+- [[2021-06-21]]

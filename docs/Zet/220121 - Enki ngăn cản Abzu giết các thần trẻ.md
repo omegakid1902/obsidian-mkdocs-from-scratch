@@ -19,3 +19,5 @@ Khi các vị thần trẻ sinh sôi nhiều, [[Thần Abzu|Thần Apzu]] muốn
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
+## Created:
+- [[2022-01-21]]

@@ -16,4 +16,5 @@ publish: True
 
 ## Ideas & thoughts:
 
-[^1]: [wiki](https://vi.wikipedia.org/wiki/Tr%E1%BB%A5_V%C6%B0%C6%A1ng)
+[^1]: [wiki](https://vi.wikipedia.org/wiki/Tr%E1%BB%A5_V%C6%B0%C6%A1ng)## Created:
+- [[2021-08-28]]

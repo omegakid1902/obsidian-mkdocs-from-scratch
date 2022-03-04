@@ -25,3 +25,5 @@ publish: True
 
 ## Ref:
 - [Gödel Refuted Darwinism / Gödel bác bỏ Thuyết Darwin | PhamVietHung's Home (viethungpham.com)](https://viethungpham.com/2020/09/23/godel-refuted-darwinism-godel-bac-bo-thuyet-darwin/)
+## Created:
+- [[2022-01-12]]

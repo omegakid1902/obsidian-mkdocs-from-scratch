@@ -34,4 +34,5 @@ Lên 7 tuổi, [[Adam Weishaupt học tại một trường dòng Tên]]
 - [[Hội Illuminati|Illuminati]]
 
 ## Ref:
-- [Adam Weishaupt – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Adam_Weishaupt)
+- [Adam Weishaupt – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Adam_Weishaupt)## Created:
+- [[2021-11-13]]

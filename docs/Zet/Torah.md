@@ -24,3 +24,5 @@ Torah là bản kinh thánh chính của [[Do Thái Giáo]]. [[Torah tương 
 
 ## Ideas & thoughts:
 - [[Năm sách trong Ngũ Kinh Cựu Ước]]
+## Created:
+- [[2021-07-31]]

@@ -50,4 +50,5 @@ Thuyết ưu sinh được đưa ra bởi [[Francis Galton]] vào 1883 dựa tr�
 	- [[Theodore Roosevelt]]
 	- [[Alexander Graham Bell]]
 
-[^1]:[wiki](https://vi.wikipedia.org/wiki/Thuy%E1%BA%BFt_%C6%B0u_sinh)
+[^1]:[wiki](https://vi.wikipedia.org/wiki/Thuy%E1%BA%BFt_%C6%B0u_sinh)## Created:
+- [[2021-09-19]]

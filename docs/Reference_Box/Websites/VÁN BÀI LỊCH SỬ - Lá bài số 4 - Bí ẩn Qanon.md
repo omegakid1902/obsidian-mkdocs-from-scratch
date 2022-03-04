@@ -91,3 +91,5 @@ BÍ ẨN “QANON” (tt)
 2- Q: LĂNG KÍNH SỰ THẬT?
 
 [https://www.facebook.com/permalink.php?story_fbid=256202839511199&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=256202839511199&id=100053644548330&__cft__[0]=AZUivp6APIwiBhQRZFDGvZC767INfhufJH3nuFZGSW2A-QYRPeWq3OHOgWLdI4c8zYA3rYrMzjGTGsjcuP20oQeIgczNMpV-uS_JZ0AfZB93RbfJYz1zR04okekgXCGZShI&__tn__=-UK-R)
+## Created:
+- [[2021-11-17]]

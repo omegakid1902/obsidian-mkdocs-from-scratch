@@ -45,3 +45,5 @@ Hindu giáo, hay còn gọi là Ấn Độ giáo.
 ## Ideas & thoughts:
 - [[Thần Brahma]]
 
+## Created:
+- [[2021-07-04]]

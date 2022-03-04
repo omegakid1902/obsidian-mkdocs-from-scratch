@@ -26,3 +26,5 @@ Hành động dùng máy bay để thải những chất khác một các có ch
 ## Ideas & thoughts:
 - Dùng Contrails để dự báo thời tiết, dựa vào đặc tính của vệt để lại.
 - [Chemtrails là gì? Bật mí bí mật Contrails & Chemtrails - wowhay](https://wowhay.com/2021/08/chemtrails-la-gi-bat-mi-bi-mat.html)
+## Created:
+- [[2021-10-23]]

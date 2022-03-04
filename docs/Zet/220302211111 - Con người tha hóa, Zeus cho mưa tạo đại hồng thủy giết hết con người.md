@@ -18,4 +18,5 @@ Con người tha hóa, [[Thần Zeus|Zeus]] cho mưa tạo đại hồng thủy 
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.102
 
 ## Relate:
-- [[220302210649 - Sau khi chiếc hộp Pandora bị mở, con người càng trở nên tha hóa]]
+- [[220302210649 - Sau khi chiếc hộp Pandora bị mở, con người càng trở nên tha hóa]]## Created:
+- [[2022-03-02]]

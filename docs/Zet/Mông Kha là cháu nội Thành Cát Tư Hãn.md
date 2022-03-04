@@ -15,3 +15,5 @@ publish: True
 [[Mông Kha]] là cháu nội [[Thành Cát Tư Hãn]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-17]]

@@ -16,3 +16,5 @@ Hình tượng [[Pandora]] giống với [[Adam và Eva|Eva]] ăn trái cấm, �
 
 ## Source:
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.109
+## Created:
+- [[2022-03-02]]

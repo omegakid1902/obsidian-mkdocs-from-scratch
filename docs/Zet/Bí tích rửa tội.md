@@ -34,3 +34,5 @@ Rửa tội là một bí tích trong [[Công Giáo]].
 ## Reference:
 - [Rửa tội – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/R%E1%BB%ADa_t%E1%BB%99i)
 
+## Created:
+- [[2021-11-12]]

@@ -30,4 +30,5 @@ Trước công đồng Vaticanô II, có lễ kính dành riêng cho [[Thiên th
 - [[Lễ kính thiên thần Micael là 29 tháng 9]]
 - [[Lễ kính thiên thần Raphael là 24 tháng 10]]
 
-[^1]:[Thiên Thần Sêraphim Là Ai? | Tỉnh Dòng Đa Minh Việt Nam (daminhvn.net)](http://daminhvn.net/hieu-de-song-duc-tin/thien-than-seraphim-la-ai-3318.html)
+[^1]:[Thiên Thần Sêraphim Là Ai? | Tỉnh Dòng Đa Minh Việt Nam (daminhvn.net)](http://daminhvn.net/hieu-de-song-duc-tin/thien-than-seraphim-la-ai-3318.html)## Created:
+- [[2021-11-12]]

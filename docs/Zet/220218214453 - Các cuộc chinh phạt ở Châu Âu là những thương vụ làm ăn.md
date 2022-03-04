@@ -24,3 +24,5 @@ Các cuộc khám phá, chinh phạt những vùng đất mới của người C
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]]
 
 
+## Created:
+- [[2022-02-18]]

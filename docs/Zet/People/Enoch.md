@@ -23,3 +23,5 @@ Enoch là con trai của [[Seth]], Seth là con thứ 3 của [[Adam và Eva]]. 
 Tức Enoch là cháu nội [[Adam và Eva]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-10-13]]

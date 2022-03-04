@@ -21,3 +21,5 @@ Người Châu Âu nhờ của cải, kỹ thuật sau khi khám phá những v�
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.371
 
 
+## Created:
+- [[2022-02-18]]

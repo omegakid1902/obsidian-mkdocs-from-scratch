@@ -54,3 +54,5 @@ Trần Thủ Độ sau khi lật đổ là Lý, ông lấy hoàng hậu [[Linh T
 - [Trần Thủ Độ – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%E1%BB%A7_%C4%90%E1%BB%99)
 - [Lý giải tường tận con người Trần Thủ Độ qua xuất thân và lá số tử vi (trithucvn.org)](https://trithucvn.org/van-hoa/tran-thu-do-la-so-tu-vi-xuat-than.html)
 - [Từ xuất thân và lá số tử vi của Trần Thủ Độ, lý giải tường tận về cuộc đời vị Thái sư nổi tiếng (tinhhoa.net)](https://tinhhoa.net/tu-xuat-than-va-la-so-tu-vi-cua-tran-thu-do-ly-giai-tuong-tan-ve-cuoc-doi-vi-thai-su-noi-tieng.html)
+## Created:
+- [[2021-07-09]]

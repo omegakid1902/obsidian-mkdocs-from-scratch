@@ -23,3 +23,5 @@ Người Do thái Ethiopia có nguồn gốc từ những [[Người Do Thái]] 
 
 ## Ideas & thoughts:
 - [Tìm hiểu về Cộng đồng Do Thái gốc Ethiopia - Trip14](https://trip14.com/tim-hieu-ve-cong-dong-do-thai-goc-ethiopia_lv86823r)
+## Created:
+- [[2021-06-19]]

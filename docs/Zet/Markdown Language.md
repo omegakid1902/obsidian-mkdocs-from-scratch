@@ -29,3 +29,5 @@ File markdown có phần mở rộng là *.md
 ## Ideas & thoughts:
 - Viết định lại định nghĩa dễ hiểu hơn #TODO 
 
+## Created:
+- [[2021-10-07]]

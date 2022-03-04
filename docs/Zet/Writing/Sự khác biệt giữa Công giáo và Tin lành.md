@@ -25,3 +25,5 @@ Sự khác biệt giữa [[Công Giáo]] và [[Tin Lành]]
 1. Công giáo có 7 bí tích, Tin Lành chỉ công nhận 2 bí tích được cử hành bởi [[Đức Jesus|Chúa Jesus]] được nhắc đến trong [[The Bible|Kinh thánh]] là [[Bí tích rửa tội|bí tích rửa tội]] và [[Bí tích thánh thể]].
 2. Tin lành tin rằng [[Kito hữu]] chỉ cần tin là được cứu rỗi, các việc đền tội hãm mình đã được thực hiện thông qua cái chết [[Đức Jesus|Chúa Jesus]].
 
+## Created:
+- [[2021-11-21]]

@@ -24,4 +24,5 @@ Lưu ý, Thiên hà Andromedan không liên quan đến chòm sao Andromedan.
 - [[Milky Way]] được tách ra từ Thiên hà Andromedan #todo/research 
 
 ## Reference:
-- [Thiên hà Andromeda | Chòm sao Andromeda và Chủng tộc Andromedan – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/08/04/thien-ha-andromeda-chom-sao-andromeda-va-chung-toc-andromedan/)
+- [Thiên hà Andromeda | Chòm sao Andromeda và Chủng tộc Andromedan – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/08/04/thien-ha-andromeda-chom-sao-andromeda-va-chung-toc-andromedan/)## Created:
+- [[2021-10-24]]

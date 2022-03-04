@@ -15,3 +15,5 @@ publish: True
 **Vạ tuyệt thông tiền kết** (là một loại vạ tuyệt thông) là ngay khi phạm một số tội được quy định bởi giáo hội, người vi phạm sẽ bị phạt vạ này mà không cần Giáo Hội phải ra công bố. Một số tội trong đó có: bội giáo, ly giáo; ném bỏ bánh thánh, hành hung giáo hoàng hoặc **phá thai**...
 
 ## Ideas & thoughts:
+## Created:
+- [[2020-12-12]]

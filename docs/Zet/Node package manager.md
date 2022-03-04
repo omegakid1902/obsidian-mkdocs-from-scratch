@@ -19,3 +19,5 @@ Node package manager là một kho các thư viên [[JavaScript]] cho [[Nodejs]]
 ## Ideas & thoughts:
 [[❕ Node package manager cũng giống như python package manager]]
 Node package manager của nodejs cũng giống như [[Python Package Manager]] cho [[Python|Python]]
+## Created:
+- [[2021-09-09]]

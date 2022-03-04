@@ -43,4 +43,5 @@ Khi sự việc này xảy ra, Trần Cảnh quyết không chịu làm việc t
 - [[Quan hệ huyết thống nhà Trần - Lý]]
 
 ## Ref:
-- [Lý Chiêu Hoàng - Bi kịch nữ hoàng bị chồng cũ Trần Cảnh đem rao bán (khamphalichsu.com)](https://khamphalichsu.com/ly-chieu-hoang-tran-canh-n44.html)
+- [Lý Chiêu Hoàng - Bi kịch nữ hoàng bị chồng cũ Trần Cảnh đem rao bán (khamphalichsu.com)](https://khamphalichsu.com/ly-chieu-hoang-tran-canh-n44.html)## Created:
+- [[2021-09-02]]

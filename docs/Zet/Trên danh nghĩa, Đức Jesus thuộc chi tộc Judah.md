@@ -30,3 +30,5 @@ Tuy nhiên, [[Thánh Cả Giuse]] trên danh nghĩa là đấng bảo trợ 
 ## Ideas & thoughts:
 - Trong trường hợp này, phải xem lại gia phả của [[Đức Maria]] mới đúng!? Gia phả Đức Mẹ #todo/research 
 
+## Created:
+- [[2021-11-21]]

@@ -23,4 +23,5 @@ Năm 1959, cách mạng Cuba thắng lợi. [[Fidel Castro]] tuyên bố Cuba s�
 
 
 ## Ref:
-- [Khủng hoảng tên lửa Cuba (Cuban missile crisis) (nghiencuuquocte.org)](http://nghiencuuquocte.org/2015/10/03/khung-hoang-ten-lua-cuba/)
+- [Khủng hoảng tên lửa Cuba (Cuban missile crisis) (nghiencuuquocte.org)](http://nghiencuuquocte.org/2015/10/03/khung-hoang-ten-lua-cuba/)## Created:
+- [[2021-11-27]]

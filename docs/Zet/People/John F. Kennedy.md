@@ -37,4 +37,5 @@ John Fitzgerald Kennedy, thường được gọi là Jack Kennedy hoặc JF
 - [[John F. Kennedy và Chiến tranh Việt Nam]]
 
 ## Ref:
-- [John F. Kennedy – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/John_F._Kennedy)
+- [John F. Kennedy – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/John_F._Kennedy)## Created:
+- [[2021-11-14]]

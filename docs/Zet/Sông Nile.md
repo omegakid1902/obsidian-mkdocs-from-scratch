@@ -22,4 +22,5 @@ publish: True
 ## Ideas & thoughts:
 
 ## Reference:
-- [Những bí ẩn của sông Nile (tinhhoa.net)](https://tinhhoa.net/nhung-bi-an-cua-song-nile.html)
+- [Những bí ẩn của sông Nile (tinhhoa.net)](https://tinhhoa.net/nhung-bi-an-cua-song-nile.html)## Created:
+- [[2021-07-27]]

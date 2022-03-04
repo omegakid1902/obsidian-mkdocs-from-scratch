@@ -77,3 +77,5 @@ Satan trong hình dạng 1 con rắn theo sách khải huyền
 ## Reference:
 - https://vi.wikipedia.org/wiki/Lucifer
 - [20 Bible Verses about Lucifer - Advisory Scripture Quotes (biblestudytools.com)](https://www.biblestudytools.com/topical-verses/bible-verses-about-lucifer/)
+## Created:
+- [[2021-09-20]]

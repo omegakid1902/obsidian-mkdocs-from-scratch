@@ -122,3 +122,5 @@ Insulin resistance may be one of the key drivers of many — if not most — of 
 Yet, you can improve this condition with simple lifestyle measures, such as [losing fat](https://www.healthline.com/nutrition/how-to-lose-weight-as-fast-as-possible), eating [healthy food](https://www.healthline.com/nutrition/50-super-healthy-foods), and exercising.
 
 Preventing insulin resistance may be among the most powerful ways to live a longer, healthier life.
+## Created:
+- [[2021-09-03]]

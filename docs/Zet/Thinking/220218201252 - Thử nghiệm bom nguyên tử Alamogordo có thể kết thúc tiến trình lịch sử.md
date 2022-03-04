@@ -16,3 +16,5 @@ Thử nghiệm bom nguyên tử tại Alamogordo 16/07/1945 không chỉ thay đ
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.310
 
 
+## Created:
+- [[2022-02-18]]

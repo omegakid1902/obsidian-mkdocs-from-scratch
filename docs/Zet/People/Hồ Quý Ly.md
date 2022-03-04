@@ -23,3 +23,5 @@ publish: True
 - [ ] Hồ Quý Ly sai người giết vua [[Trần Thuận Tông]]
 - [ ] Từng truất phế [[Trần Phế Đế]]
 - [ ] Hồ Quý Ly được Nguyễn Gia Kiểng đề cao trong [[@ Nguyễn Gia Kiểng, Tổ Quốc ăn ăn]]
+## Created:
+- [[2021-07-15]]

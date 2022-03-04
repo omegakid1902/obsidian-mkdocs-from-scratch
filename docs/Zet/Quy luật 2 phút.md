@@ -21,3 +21,5 @@ Và bạn sẽ nhận ra bạn có thể làm được nhiều hơn thế sau kh
 ## Ref:
 - [[@ James Clear, Atomic Habits]]
 - [[@ David Allen, Getting Things Done]] - [[David Allen]]
+## Created:
+- [[2020-10-22]]

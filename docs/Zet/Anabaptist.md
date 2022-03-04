@@ -24,4 +24,5 @@ publish: True
 Rửa tội còn được gọi là báp-têm, **Anabaptists** nghĩa là báp-têm lại. Giáo hội Công Giáo La Mã, Martin Luther và John Calvin coi nhóm này là tà giáo và đàn áp quyết liệt. Cuộc đàn áp kéo dài từ 1535 đến 1600 và sinh ra 2 nhánh là [[Người Amish]] và [[Mennonite ]]
 
 ## Ideas & thoughts:
-- [[Bí tích rửa tội]]
+- [[Bí tích rửa tội]]## Created:
+- [[2020-11-06]]

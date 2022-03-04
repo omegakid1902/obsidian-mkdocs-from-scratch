@@ -18,3 +18,5 @@ Việc dân [[Người Do Thái]] lưu đày [[Ai Cập]], biến cố [[Vượt
 
 ## Ideas & thoughts:
 
+## Created:
+- [[2021-10-06]]

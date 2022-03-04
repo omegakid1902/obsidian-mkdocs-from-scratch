@@ -21,4 +21,5 @@ Sau khi [[chiếc hộp Pandora]] bị mở, con người càng trở nên tha h
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.101
 
 ## Relate:
-- [[220302210509 - Zeus ban cho Pandora một cái hộp và dặn không được mở ra]]
+- [[220302210509 - Zeus ban cho Pandora một cái hộp và dặn không được mở ra]]## Created:
+- [[2022-03-02]]

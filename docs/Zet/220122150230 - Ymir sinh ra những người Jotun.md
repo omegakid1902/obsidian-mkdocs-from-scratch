@@ -19,3 +19,5 @@ Giống người [[Người khổng lồ Jotun]] được sinh ra từ người 
 - [[@ peterpotter90.wordpress, Những người khổng lồ nổi tiếng trong truyền thuyết]]
 
 
+## Created:
+- [[2022-01-22]]

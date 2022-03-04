@@ -19,3 +19,5 @@ Trong [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam|Thế
 ## Ideas & thoughts:
 - Như thế nghĩa là Trọng Thủy đã chết như truyền thuyết hay không? #idea
 - Triệu Hồ có phải là con của [[Trọng Thủy]] với [[Mỵ Châu]] hay không? #idea
+## Created:
+- [[2021-08-22]]

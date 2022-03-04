@@ -19,3 +19,5 @@ Thế giới Astra là thế giới của các linh hồn ánh sáng mang rung �
 ## Ideas & thoughts:
 - [[Tần số rung động]]
 - [[Thế giới tâm linh]]
+## Created:
+- [[2021-12-21]]

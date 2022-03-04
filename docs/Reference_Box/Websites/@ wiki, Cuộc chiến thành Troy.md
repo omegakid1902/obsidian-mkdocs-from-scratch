@@ -44,3 +44,5 @@ publish: True
 - [[220119 - Odysseus trở về được quê hương nhờ sự giúp đỡ của nữ thần Athena]]
 - [[220119 - Cassandra và Laocoon đã ngăn không cho đưa con ngựa gỗ vào thành Troy]]
 - [[220119 - Paris bắn trúng gót chân Achilles]]
+## Created:
+- [[2022-01-18]]

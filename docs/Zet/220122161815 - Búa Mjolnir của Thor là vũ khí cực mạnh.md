@@ -15,3 +15,5 @@ Vũ khí của [[Thần Thor|Thor]] là [[Cây búa Mjolnir]] có sức mạnh n
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Những vị thần Asgard phần 1]]
 
 
+## Created:
+- [[2022-01-22]]

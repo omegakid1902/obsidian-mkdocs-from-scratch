@@ -29,3 +29,5 @@ Essenes là nhưng người khổ hạnh, phi chính trị, hoặc những nhà 
 
 ## Ref:
 - [This Dead Sea Scrolls Interpretation Says Jesus Was Misinterpreted | Gaia](https://www.gaia.com/article/dead-sea-scrolls-conspiracy)
+## Created:
+- [[2021-11-13]]

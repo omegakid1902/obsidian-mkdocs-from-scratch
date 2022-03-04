@@ -28,3 +28,5 @@ Chính Thống Giáo bao gồm các giáo hội tự chủ và được cai qu�
 Chính thống ảnh hưởng bởi văn hóa Hy Lạp thuộc các thành phố như Alexandria, Antiochia, và Constantinopolis (nay là Istanbul). Thành phố Constantinopolis của Chính Thống Giáo giống như Roma của Công giáo.
 
 ## Ideas & thoughts:
+## Created:
+- [[2020-12-25]]

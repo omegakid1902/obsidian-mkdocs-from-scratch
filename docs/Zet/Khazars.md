@@ -39,3 +39,5 @@ Khazars là chi tộc [[Người Do Thái]] thứ 13. Vương quốc của họ 
 - [Sự thật về dân tộc Do Thái: Do Thái Israel và Do Thái Khazaria | VN-Zoom | Cộng đồng Chia Sẻ Kiến Thức Công Nghệ và Phần Mềm Máy Tính](https://vn-z.vn/threads/su-that-ve-dan-toc-do-thai-do-thai-israel-va-do-thai-khazaria.9795/)
 - [Rothschild – Một dòng họ gây chiến tàn bạo (vovankienthuc.com)](https://vovankienthuc.com/blog/rothschild-mot-dong-ho-gay-chien-tan-bao.303)
 - 
+## Created:
+- [[2021-10-29]]

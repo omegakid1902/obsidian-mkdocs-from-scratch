@@ -18,4 +18,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.159
 
 ## Relate:
-- [[220303213143 - Ares, Hephaestus, Hebe và Ilithyie là con của Zeus và Hera]]
+- [[220303213143 - Ares, Hephaestus, Hebe và Ilithyie là con của Zeus và Hera]]## Created:
+- [[2022-03-03]]

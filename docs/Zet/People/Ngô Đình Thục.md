@@ -25,4 +25,5 @@ publish: True
 
 ## Ideas & thoughts:
 - [[Phanxico-Xavie Nguyễn Văn Thuận]]
-- [[Ngô Đình Diệm]]
+- [[Ngô Đình Diệm]]## Created:
+- [[2020-12-09]]

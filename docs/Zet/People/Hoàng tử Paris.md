@@ -22,4 +22,5 @@ Hoàng tử thành Troy, em của [[Hoàng tử Hector]]
 [[220119 - Paris nhờ Aphrodite chiếm hoàng hậu Helen]]
 
 ## Ideas & thoughts:
-- [[Hoàng hậu Helen]]
+- [[Hoàng hậu Helen]]## Created:
+- [[2022-01-19]]

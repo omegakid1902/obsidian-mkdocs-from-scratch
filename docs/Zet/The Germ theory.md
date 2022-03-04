@@ -41,3 +41,5 @@ Lý thuyết này nói rằng, vi khuẩn là nguồn gốc của các bệnh t�
 [^edward]: [[@ kduoc.com, Nguyên nhân gây ra ung thư#^644fee]]
 
 
+## Created:
+- [[2021-10-10]]

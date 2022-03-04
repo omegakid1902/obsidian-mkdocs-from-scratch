@@ -19,3 +19,5 @@ Typhon là con cuối cùng của [[Nữ thần Gaia|Gaia]]
 
 
 
+## Created:
+- [[2022-02-27]]

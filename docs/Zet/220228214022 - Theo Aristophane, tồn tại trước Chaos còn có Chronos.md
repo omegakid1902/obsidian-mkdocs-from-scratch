@@ -18,4 +18,5 @@ Theo [[Aristophane]], [[Chronos]] tồn tại trước [[Thần Hỗn Mang|Chaos
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.60
 
 ## Relate:
-- [[220228213925 - Theo Aristophane, Chronos sinh ra Chaos]]
+- [[220228213925 - Theo Aristophane, Chronos sinh ra Chaos]]## Created:
+- [[2022-02-28]]

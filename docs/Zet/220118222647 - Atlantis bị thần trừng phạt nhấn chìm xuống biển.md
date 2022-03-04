@@ -19,3 +19,5 @@ Kết cục của [[Atlantis]] là bị các vị thần trừng phạt nhấn c
 - [[@ wiki, Atlantis]]
 
 
+## Created:
+- [[2022-01-18]]

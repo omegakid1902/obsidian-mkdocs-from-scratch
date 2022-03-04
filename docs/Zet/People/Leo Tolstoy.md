@@ -31,3 +31,5 @@ Lev Nikolayevich Tolstoy là một nhà văn, triết gia người Nga. Leo Tols
 - Hai tác phẩm nổi tiếng của ông là [[Chiến tranh và hoà bình]] và [[Anna Karenina]]
 - Ông có ảnh hưởng nhiều đến [[Martin Luther King, Jr]] và [[Mahatma Gandhi]]
 - Leo Tolstoy trong quyển suy niệm mỗi ngày, ông nói rằng mọi sinh vật đều có linh hồn và nó có mối liên kết với linh hồn của tất cả mọi sinh vật khác, vì thế, ông không làm hại các sinh vật, ông chỉ ăn chay.
+## Created:
+- [[2021-12-03]]

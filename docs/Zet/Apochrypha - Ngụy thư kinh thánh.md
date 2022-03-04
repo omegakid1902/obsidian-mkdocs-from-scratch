@@ -21,3 +21,5 @@ publish: True
 - Hai là những quyển không được giáo hội công nhận và không được liệt kê vào sách thánh. Nhưng những quyển này chứa những giáo thuyết lành mạnh nên nhiều Giáo phụ sử dụng riêng tư, không được công khai cho các [[Kito hữu]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2020-12-25]]

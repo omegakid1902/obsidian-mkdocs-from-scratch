@@ -24,3 +24,5 @@ Bảy nhà hiền triết Hy Lạp theo danh sách của [[Plato]] bao gồm
 - [[Loài Chilo]]
 
 https://vi.delachieve.com/cac-nha-hien-triet-cua-hy-lap-co-djai-bay-nha-hien-triet-cua-hy-lap-co-djai/
+## Created:
+- [[2021-07-10]]

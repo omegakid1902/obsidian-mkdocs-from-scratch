@@ -19,3 +19,5 @@ Baphomet là một vị thần trong hình dạng người lai dê mang cánh.
 ## Ideas & thoughts:
 
 
+## Created:
+- [[2021-11-13]]

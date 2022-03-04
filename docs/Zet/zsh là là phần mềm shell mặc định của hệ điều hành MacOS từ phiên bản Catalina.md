@@ -13,3 +13,5 @@ publish: True
 [[zsh]] là là phần mềm shell mặc định của hệ điều hành macOS từ phiên bản [[macOS Catalina|Catalina]] [wiki](https://vi.wikipedia.org/wiki/Bash)
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-30]]

@@ -30,4 +30,5 @@ Phe [[Thần Zeus|Zeus]] trong cuộc chiến chống lại các Titan:
 
 ## Relate:
 - [[220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea]]
-- [[220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus]]
+- [[220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus]]## Created:
+- [[2022-02-28]]

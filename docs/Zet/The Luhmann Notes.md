@@ -28,3 +28,5 @@ Phân loại ghi chú theo nội dung [[Các loại ghi chú theo nội dung]]
 
 ## Ideas & thoughts:
 
+## Created:
+- [[2020-10-22]]

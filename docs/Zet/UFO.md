@@ -36,4 +36,5 @@ UFO, viết tắt của Unidentified flying object, có nghĩa là vật thể b
 	- **CE-3** – Occupant
 
 ## Reference:
-- [[Project Blue Book] Hệ thống phân loại UFO của Hynek – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/09/12/project-blue-book-he-thong-phan-loai-ufo-cua-hynek/)
+- [[Project Blue Book] Hệ thống phân loại UFO của Hynek – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/09/12/project-blue-book-he-thong-phan-loai-ufo-cua-hynek/)## Created:
+- [[2021-10-23]]

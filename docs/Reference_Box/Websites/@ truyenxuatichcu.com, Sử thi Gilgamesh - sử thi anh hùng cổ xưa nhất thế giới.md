@@ -47,3 +47,5 @@ publish: True
 - [[220122234553 - Gilgamesh không có bí mật trường sinh từ Utnapishtim]]
 - [[220220120837 - Gilgamesh thất bại trong thử thách thức 7 ngày liên tục]]
 - [[220220121030 - Gilgamesh được vợ của Utnapishtim tiết lộ về cây làm trẻ]]
+## Created:
+- [[2022-02-20]]

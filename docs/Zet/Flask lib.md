@@ -36,4 +36,5 @@ def hello_world():
 ## Questions:
 
 ## Relate to:
-- [[Python]]
+- [[Python]]## Created:
+- [[2021-09-27]]

@@ -26,3 +26,5 @@ publish: True
 ## Ideas & thoughts:
 - Bệnh tiểu đường chữa trị đơn giản, [[Big Medicine]] làm cho bệnh tiểu đường làm người bệnh hoang mang, càng uống thuốc. Chỉ cần thay đổi cách ăn uống và lối sống.
 - [[John D. Rockefeller]] ông trùm dâù hỏa.
+## Created:
+- [[2021-10-04]]

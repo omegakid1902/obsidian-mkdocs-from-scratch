@@ -36,3 +36,5 @@ Sau đó, ông chuyển đến Paris làm việc trong một tờ báo. Tại đ
 ## Ideas & thoughts:
 - Albert Camus góp phần mở khai sinh [[Chủ nghĩa phi lý]], nhằm phản bác lại  [[Chủ nghĩa Hư vô]]
 
+## Created:
+- [[2021-06-30]]

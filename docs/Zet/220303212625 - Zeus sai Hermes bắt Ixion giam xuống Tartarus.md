@@ -25,4 +25,5 @@ Sau khi phát hiện được mưu đồ xấu của Ixion với Hera vợ mình
 ## Relate:
 - [[220303212520 - Ixion mưu tính chuyện bỉ ổi với Hera]]
 - [[220303212426 - Zeus tạo ra đám mây Nephele giống hệt Hera]]
-- [[220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaure]]
+- [[220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaure]]## Created:
+- [[2022-03-03]]

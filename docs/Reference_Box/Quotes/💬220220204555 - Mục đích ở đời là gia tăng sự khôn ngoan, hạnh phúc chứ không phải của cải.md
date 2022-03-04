@@ -13,4 +13,5 @@ source:
 Source: [[Arthur Schopenhauer]]
 
 ## Ideas & thoughts:
-- Mục đích ở đời này là gia tăng sự khôn ngoan, hạnh phúc chứ không phải của cải.
+- Mục đích ở đời này là gia tăng sự khôn ngoan, hạnh phúc chứ không phải của cải.## Created:
+- [[2022-02-20]]

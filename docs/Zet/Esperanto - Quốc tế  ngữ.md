@@ -20,3 +20,5 @@ Esperanto (Quốc tế ngữ) là một ngôn ngữ được tạo ra vào năm 
 Esperanto dịch sang tiếng Anh có nghĩa là "một người đang hy vọng"
 
 ## Ideas & thoughts:
+## Created:
+- [[2020-11-13]]

@@ -37,4 +37,5 @@ Thông qua [[Thức tỉnh tâm linh]], chúng ta tiếp nhận những khía c�
 ## Reference:
 - https://ocdvietnam.org/category/thu-vien-cat-minh/tac-pham-cua-thanh-gioan-thanh-gia/
 - https://ocdvietnam.org/2018/07/12/duong-len-dinh-cat-minh-thanh-gioan-thanh-gia/
-- [[eBookThanhGioanThanhGia_Tap3_DemDay.pdf]]
+- [[eBookThanhGioanThanhGia_Tap3_DemDay.pdf]]## Created:
+- [[2021-10-22]]

@@ -20,4 +20,5 @@ publish: True
 
 ## Relate:
 - [[220303221425 - Zeus quan hệ với Mnemosyne 9 đêm liền sinh ra 9 người con gái]]
-- [[220303221209 - Các tiên nữ Muses là con gái của Zeus và Mnemosyne]]
+- [[220303221209 - Các tiên nữ Muses là con gái của Zeus và Mnemosyne]]## Created:
+- [[2022-03-03]]

@@ -38,3 +38,5 @@ publish: True
 - [[Edward Jenner]]
 - [[Virus SV-40]] gây ung thư chậm có trong vaccine theo [[@ Huy Phạm, Mật sử luận 6]].
 
+## Created:
+- [[2021-10-10]]

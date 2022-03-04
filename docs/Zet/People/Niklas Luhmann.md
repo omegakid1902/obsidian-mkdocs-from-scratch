@@ -31,3 +31,5 @@ Niklas Luhmann là giáo sư người Đức. Trong cuộc đời 40 năm nghiê
 
 ## Ref:
 - [[@ Sönke Ahrens, How to take smart notes]]
+## Created:
+- [[2020-10-21]]

@@ -14,3 +14,5 @@ publish: True
 Theo các nghiên cứu sử học, thời đại các [[Vua Hùng]] chỉ tồn khoảng 300 năm chứ không đến 2000 năm như mọi người vẫn thường nghe. ([[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam|Thế thứ các triều vua Việt Nam, p15]])
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-22]]

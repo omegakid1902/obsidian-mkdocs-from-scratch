@@ -27,3 +27,5 @@ Hạ Vũ tên thật là Hạ Tử Thành, là một vị vua truyền thuyết 
 
 ## Ideas & thoughts:
 [[Nhà Hạ]]
+## Created:
+- [[2021-09-05]]

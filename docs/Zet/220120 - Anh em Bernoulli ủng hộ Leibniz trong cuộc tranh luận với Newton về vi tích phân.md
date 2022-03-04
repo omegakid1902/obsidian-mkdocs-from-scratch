@@ -16,3 +16,5 @@ Anh em [[Jacob Bernoulli]] và [[Johann Bernoulli]] đứng về phía [[Gottfri
 ## Source:
 - [[@ tiasang.com.vn, Gia đình Bernoulli]]
 
+## Created:
+- [[2022-01-20]]

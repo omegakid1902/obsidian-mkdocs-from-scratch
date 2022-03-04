@@ -26,4 +26,5 @@ Sau khi [[Gigantos]] bị [[Thần Zeus|Zeus]] đánh bại, [[Nữ thần Gaia|
 ## Relate:
 - [[220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan]]
 - [[220301221942 - Gaia nhờ các Gigantos giải thoát các Titan khỏi sự trừng phạt của Zeus]]
-- [[220301222444 - Phe Zeus tiếp tục chiến thắng trong cuộc giao tranh với Gigantos]]
+- [[220301222444 - Phe Zeus tiếp tục chiến thắng trong cuộc giao tranh với Gigantos]]## Created:
+- [[2022-03-01]]

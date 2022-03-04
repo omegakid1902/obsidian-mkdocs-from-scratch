@@ -18,3 +18,5 @@ Sau khi nghỉ chơi với nhau, [[Jean Paul Sartre]] nói xấu [[Albert Camus]
 - [[@ youtube, Vì sao Camus không phải một Triết gia Hiện sinh]]
 
 
+## Created:
+- [[2022-01-27]]

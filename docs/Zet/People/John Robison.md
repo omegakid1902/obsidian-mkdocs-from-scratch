@@ -22,4 +22,5 @@ publish: True
 - [[Freemasons]]
 
 ## Ref:
-- [The French Revolution and the Bavarian Illuminati (bcy.ca)](http://freemasonry.bcy.ca/texts/robison-barruel.html)
+- [The French Revolution and the Bavarian Illuminati (bcy.ca)](http://freemasonry.bcy.ca/texts/robison-barruel.html)## Created:
+- [[2021-11-13]]

@@ -24,3 +24,5 @@ Operation Mockingbird là một chiến dịch truyền thông tuyên truyê
 - [[Frank Church đã công bố sự thật về chiến dịch Mockingbird giữa thập niên 1970]]
 - [[Chiến dịch Mockingbird liên quan tới vụ ám sát Kennedy]]
 
+## Created:
+- [[2021-11-14]]

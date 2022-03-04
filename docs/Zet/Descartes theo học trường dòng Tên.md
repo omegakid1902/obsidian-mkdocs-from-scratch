@@ -22,3 +22,5 @@ publish: True
 
 ## Ref:
 - [René Descartes – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+## Created:
+- [[2021-11-13]]

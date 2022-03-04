@@ -29,3 +29,5 @@ Các ngôn ngữ tương ứng với bash:
 - Lỗ hổng bảo mật [[Shellshock]]
 - [[sh đơn giản và gọn nhẹ hơn bash]]
 - [[Một hệ điều hành Unix có thể không có bash nhưng sẽ luôn có sh]]
+## Created:
+- [[2021-08-30]]

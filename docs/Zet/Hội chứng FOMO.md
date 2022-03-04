@@ -19,3 +19,5 @@ Người mắc phải hội chứng này ám ảnh về việc người xung qua
 Nguyên nhân chính gây ra hội chứng này là các mạng xã hội.
 
 ## Ideas & thoughts:
+## Created:
+- [[2020-11-21]]

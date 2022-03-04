@@ -21,3 +21,5 @@ publish: True
 Bản bảy mươi hay còn gọi là bản dịch Septuaginta, bản dịch [[Cựu Ước]] bằng tiếng Hy Lạp của [[Kinh thánh Hebrew]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-31]]

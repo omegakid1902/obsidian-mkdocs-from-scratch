@@ -20,4 +20,5 @@ publish: True
 
 ## Relate:
 - [[220227092321 - Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares]]
-- [[220227092540 - Sau khi bắt quả tang Aphrodite và Aries ngoại tình, Hephaestus bắt họ bằng lưới vàng và mời các thần chứng kiến]]
+- [[220227092540 - Sau khi bắt quả tang Aphrodite và Aries ngoại tình, Hephaestus bắt họ bằng lưới vàng và mời các thần chứng kiến]]## Created:
+- [[2022-02-27]]

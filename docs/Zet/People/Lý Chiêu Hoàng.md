@@ -53,4 +53,5 @@ Lý Chiêu Hoàng có [[Các tên gọi của vua Lý Chiêu Hoàng|nhiều tên
 - Số phận Lý Chiêu hoàng lận đận từ ngôi vua xuống hoàng hậu, rồi truất phế trở thành một món hàng ban thưởng cho quan.
 
 ## Ref:
-- [Lý Chiêu Hoàng - Bi kịch nữ hoàng bị chồng cũ Trần Cảnh đem rao bán (khamphalichsu.com)](https://khamphalichsu.com/ly-chieu-hoang-tran-canh-n44.html)
+- [Lý Chiêu Hoàng - Bi kịch nữ hoàng bị chồng cũ Trần Cảnh đem rao bán (khamphalichsu.com)](https://khamphalichsu.com/ly-chieu-hoang-tran-canh-n44.html)## Created:
+- [[2021-07-08]]

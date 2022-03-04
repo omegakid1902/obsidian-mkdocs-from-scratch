@@ -101,3 +101,5 @@ VÁN BÀI LỊCH SỬ (tt)
 LÁ BÀI SỐ 2: QUÂN ĐỘI
 
 [https://www.facebook.com/permalink.php?story_fbid=246408847157265&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=246408847157265&id=100053644548330&__cft__[0]=AZV1lRzmb5mxwtzR7t2krCMBwgCE1d7RzD7JgPmOxrylWfPQjGG9mlH5FbQuYDmhbw8cfrjdsYrlLhOwXgJZw27gQW9f-qkI2krYxmrekm_Ya20rkEO4Im6maj5YbYAXQdc&__tn__=-UK-R)
+## Created:
+- [[2021-11-17]]

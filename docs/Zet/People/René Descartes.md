@@ -28,4 +28,5 @@ René Descartes là nhà nhà triết học, khoa học và toán học người
 ## Ideas & thoughts:
 
 ## Ref:
-- [René Descartes – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+- [René Descartes – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Ren%C3%A9_Descartes)## Created:
+- [[2021-11-13]]

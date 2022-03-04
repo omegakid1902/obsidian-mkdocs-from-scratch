@@ -15,3 +15,5 @@ publish: True
 Mahatma là một tên gọi của người [[Ấn Độ]] dành cho [[Mahatma Gandhi]], ý chỉ "Vĩ nhân", "Linh hồn lớn"
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-25]]

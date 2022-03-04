@@ -34,4 +34,5 @@ Edward Jenner là người đầu tiên nghiên cứu [[Vaccine]] và sử dụn
 - Nếu [[The Terrain Theory|Lý thuyết địa hình]] của [[Antoine Beauchamp|Bechamp]] là đúng. Thì tại sao trong trường hợp bệnh đậu mùa, [[Vaccine]] có hiệu quả, phải giải thích như thế nào? #todo/research 
 
 ## Relate to:
-- [Edward Jenner – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Edward_Jenner)
+- [Edward Jenner – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Edward_Jenner)## Created:
+- [[2021-10-10]]

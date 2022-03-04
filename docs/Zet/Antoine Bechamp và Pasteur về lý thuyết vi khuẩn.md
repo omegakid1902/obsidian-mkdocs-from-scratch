@@ -51,4 +51,5 @@ publish: True
 
  ## Reference:
  - [Sự khác biệt giữa lý thuyết mầm và lý thuyết địa hình (Khoa học & Tự nhiên) | Sự khác biệt giữa các đối tượng, từ và thuật ngữ tương tự. (sawakinome.com)](https://vi.sawakinome.com/articles/science--nature/difference-between-germ-theory-and-terrain-theory-2.html)
- - [Nguyên Nhân Gây Ra Ung Thư? [giải Thích Dễ Hiểu] | K Dược (kduoc.com)](https://kduoc.com/kien-thuc-chung/kien-thuc-ung-thu/nguyen-nhan-gay-ra-ung-thu/)
+ - [Nguyên Nhân Gây Ra Ung Thư? [giải Thích Dễ Hiểu] | K Dược (kduoc.com)](https://kduoc.com/kien-thuc-chung/kien-thuc-ung-thu/nguyen-nhan-gay-ra-ung-thu/)## Created:
+- [[2021-10-10]]

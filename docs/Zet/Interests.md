@@ -120,4 +120,5 @@ For those that want to maintain an alphabetical "Map of Maps" list, here's an in
 - [[Vocals MOC]]
 - [[Words MOC]]
 
-[^1]: Too much structure stifles innovation and organic, emergent growth.
+[^1]: Too much structure stifles innovation and organic, emergent growth.## Created:
+- [[2021-09-11]]

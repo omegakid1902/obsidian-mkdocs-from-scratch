@@ -16,3 +16,5 @@ Nếu Trái Đất nổ tung vào sáng mai thì mọi ý nghĩ chủ quan của
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.493
 
 
+## Created:
+- [[2022-02-18]]

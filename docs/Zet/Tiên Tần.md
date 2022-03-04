@@ -21,3 +21,5 @@ Tiên Tần là một khái niệm để chỉ một khoảng thời gian trong 
 Tiên Tần bao cũng có ý chỉ 3 thời đại [[Nhà Hạ]], [[Nhà Thương]], [[Nhà Chu]].
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-28]]

@@ -17,4 +17,5 @@ Theo [[Phim tài liệu Ancient Aliens]]:
 Moroni không nói mình là một thiên thần, ông ấy nói từng sống ở trái đất và giờ anh ta đang đang sống ở chòm Pleiades và nhiều người giống bản thân mình.
 
 ## Source:
-- [Ancient Aliens: The Alien Origins of Mormonism (Season 8) | History - YouTube](https://www.youtube.com/watch?v=4oy8joWxouM&feature=youtu.be)
+- [Ancient Aliens: The Alien Origins of Mormonism (Season 8) | History - YouTube](https://www.youtube.com/watch?v=4oy8joWxouM&feature=youtu.be)## Created:
+- [[2022-01-05]]

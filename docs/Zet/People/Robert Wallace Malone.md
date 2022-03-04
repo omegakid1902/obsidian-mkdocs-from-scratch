@@ -31,4 +31,5 @@ Robert Wallace Malone cha đẻ của [[Vaccine mRNA|Công nghệ vaccine mRNA]]
 - Xem series bài phỏng vấn của ông về [[Đại dịch COVID-19]] để hiểu rõ hơn về sự thao túng tin tức
 	- [Những nghịch lý xảy ra ở người đã tiêm vắc-xin Covid-19 | Phỏng vấn Tiến sĩ Robert Malone | Phần 1 - YouTube](https://www.youtube.com/watch?v=z1bzq1cDMcQ)
 	- [Hậu quả khi Hệ thống miễn dịch chạm “trạng thái ĐỈNH ĐIỂM”| Phỏng vấn Tiến sĩ Robert Malone | Phần 2 - YouTube](https://www.youtube.com/watch?v=EOmP0IhZjDU)
-	- Về [[Ivermectin]]: [Ivermectin đã bị giới truyền thông phá hoại như thế nào? | Phỏng vấn Tiến sĩ Robert Malone | Phần 3 - YouTube](https://www.youtube.com/watch?v=HPHl9DijPzY)
+	- Về [[Ivermectin]]: [Ivermectin đã bị giới truyền thông phá hoại như thế nào? | Phỏng vấn Tiến sĩ Robert Malone | Phần 3 - YouTube](https://www.youtube.com/watch?v=HPHl9DijPzY)## Created:
+- [[2021-11-08]]

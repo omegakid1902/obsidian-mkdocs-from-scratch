@@ -18,4 +18,5 @@ Các [[Gigantos]] sẽ bị chết nếu cùng lúc bị thần và người tr�
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.76
 
 ## Relate:
-- [[220301222218 - Các Gigantos không bất tử]]
+- [[220301222218 - Các Gigantos không bất tử]]## Created:
+- [[2022-03-01]]

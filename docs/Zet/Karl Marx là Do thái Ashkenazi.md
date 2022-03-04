@@ -18,4 +18,5 @@ publish: True
 [[Karl Marx]] là [[người Do thái Ashkenazi]]
 
 ## Reference:
-- [[@ vovankienthuc.com, Rothschild – Một dòng họ gây chiến tàn bạo]]
+- [[@ vovankienthuc.com, Rothschild – Một dòng họ gây chiến tàn bạo]]## Created:
+- [[2021-11-13]]

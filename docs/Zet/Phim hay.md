@@ -25,3 +25,5 @@ Các bộ phim thức thần và [[Ý nghĩa cuộc sống]]: [^1]
 
 
 [^1]: https://triethocduongpho.net/2021/07/20/thdp-translation-18-bo-phim-thuc-than-moi-du-than-gia-psychonaut-can-xem/
+## Created:
+- [[2021-09-01]]

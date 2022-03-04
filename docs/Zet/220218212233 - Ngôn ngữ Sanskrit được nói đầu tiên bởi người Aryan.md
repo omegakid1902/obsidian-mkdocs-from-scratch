@@ -19,3 +19,5 @@ Sau khi khám phá ra các ngôn ngữ thuộc hệ Ấn Âu xuất phát chung 
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.378
 
 
+## Created:
+- [[2022-02-18]]

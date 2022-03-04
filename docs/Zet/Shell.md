@@ -17,3 +17,5 @@ Shell là một phần mềm được phát triển trên hệ điều hành Uni
 ## Ideas & thoughts:
 [[❕ Mọi người thường nhầm lẫn giữa shell và bash hoặc sh]]
 [[❕ Khái niệm shell tương ứng với phần mềm terminal, console]]
+## Created:
+- [[2021-08-30]]

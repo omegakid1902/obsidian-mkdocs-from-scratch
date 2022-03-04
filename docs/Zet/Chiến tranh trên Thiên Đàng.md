@@ -37,4 +37,5 @@ Chiến tranh trên Thiên Đàng là một cuộc chiến xảy ra giữa [[Luc
 - Trong [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]] có nêu sự kiện này 
 	- [[💬211217-2242]]
 	- xảy ra vào khoảng 500 ngàn năm TCN [[💬211217-2245]]
-	- [[💬211217-2247]]
+	- [[💬211217-2247]]## Created:
+- [[2021-09-20]]

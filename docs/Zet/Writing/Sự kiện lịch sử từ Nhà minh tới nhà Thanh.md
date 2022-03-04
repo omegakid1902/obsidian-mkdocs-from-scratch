@@ -27,3 +27,5 @@ publish: True
 [[Ngô Tam Quế]] gửi thư cho [[Nhà Thanh]] hỗ trợ đánh quân của Lý Tự Thành. [[Nhà Thanh]] tức tốc đem quân tiến vào Trung Nguyên tham chiến. Quân của Lý Tự Thành thất bại, chạy về Bắc Kinh. Trên đường rút quân cướp bóc, đốt phá. Lý Tự Thành khi về đến kinh thành, trong cơn cùng quẫn, ông làm lễ tự xưng vương lấy tên quốc hiệu là [[Nhà Đại Thuận]]. Ông cho người đốt phá kinh thành rồi rút chạy. Tàn quân của [[Lý Tự Thành]] sau đó cũng bị quân của nhà Thanh và Ngô Tam Quế dẹp sạch.
 
 Thành Bắc Kinh nghe tin [[Ngô Tam Quế]] thắng trận thì ra nghênh đón, người dân mong chờ một người nối dõi của [[Nhà Minh]] lên làm vua. Nhưng lúc đó, họ không ngờ người tiếp quản kinh thành là [[Đa Nhĩ Cổn]]. [[Đa Nhĩ Cổn]] ra lệnh mọi người đều phải cạo đầu để tóc đuôi sam, ai thuận theo thì sống chống lại bị giết.
+## Created:
+- [[2021-08-12]]

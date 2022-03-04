@@ -41,4 +41,5 @@ Xem xong video, mình tin chắc rằng nếu còn sống, Mullis sẽ phản đ
 
 ## Videos:
 - [Corporate Greed and AIDS - With Kary Mullis (bitchute.com)](https://www.bitchute.com/video/n0bGKH57vdH9/?fbclid=IwAR3T0OMxGlwcrEVbbTBzO-n_psve1XWYbFqGMPkKeTGtaHuNz7r61rXgcOg)
-- [Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection - YouTube](https://www.youtube.com/watch?v=9vuxibKj4z8)
+- [Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection - YouTube](https://www.youtube.com/watch?v=9vuxibKj4z8)## Created:
+- [[2022-01-07]]

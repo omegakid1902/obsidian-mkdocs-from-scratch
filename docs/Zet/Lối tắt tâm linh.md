@@ -35,4 +35,5 @@ Con đường tâm linh cần thời gian tu tập và trải nghiệm.
 - [Có nên tin vào những lá bài Tarot? | Vietcetera](https://vietcetera.com/vn/co-nen-tin-vao-nhung-la-bai-tarot)
 - [Né tránh bằng tâm linh (spiritual bypassing) – Quả Cầu (xn--qucu-hr5aza.cc)](https://xn--qucu-hr5aza.cc/ne-tranh-bang-tam-linh-spiritual-bypassing/)
 - [spiritual bypassing – Viết để tự do (vietdetudo.com)](https://vietdetudo.com/2021/10/08/spiritual-bypassing/comment-page-1/)
-- [Bạn có bị mắc bẫy tâm linh ? - Thiền Chữa Lành (thienchualanh.com)](https://thienchualanh.com/chua-phan-loai/ban-co-bi-mac-bay-tam-linh/)
+- [Bạn có bị mắc bẫy tâm linh ? - Thiền Chữa Lành (thienchualanh.com)](https://thienchualanh.com/chua-phan-loai/ban-co-bi-mac-bay-tam-linh/)## Created:
+- [[2021-12-07]]

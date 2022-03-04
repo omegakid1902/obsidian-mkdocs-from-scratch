@@ -16,3 +16,5 @@ Chuyến đi của [[James Cook]] mục đích ban đầu là quan sát thiên v
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.344
 
 
+## Created:
+- [[2022-02-18]]

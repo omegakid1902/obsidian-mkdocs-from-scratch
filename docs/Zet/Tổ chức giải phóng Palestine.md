@@ -23,3 +23,5 @@ Tổ chức giải phóng Palestine, viết tắt PLO, được thành lập và
 ## Ideas & thoughts:
 
 
+## Created:
+- [[2021-11-25]]

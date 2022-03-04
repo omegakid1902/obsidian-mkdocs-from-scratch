@@ -15,3 +15,5 @@ publish: True
 [[Mahatma Gandhi]] lấy cảm hứng từ [[Chí tôn ca]] và các tác phẩm của [[Lev Tolstoy]] và đặc biệt là tiểu luận [[Bất tuân dân sự]] của [[Henry David Thoreau]] .
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-25]]

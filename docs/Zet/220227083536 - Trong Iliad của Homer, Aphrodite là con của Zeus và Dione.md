@@ -16,3 +16,5 @@ Trong [[Iliad]] của [[Homer]], [[Nữ thần Aphrodite|Aphrodite]] là con c�
 
 ## Source:
 - [[@ wiki, Aphrodite]]
+## Created:
+- [[2022-02-27]]

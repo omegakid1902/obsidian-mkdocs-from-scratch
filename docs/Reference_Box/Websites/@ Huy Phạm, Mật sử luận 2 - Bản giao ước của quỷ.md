@@ -57,3 +57,5 @@ MẬT-SỬ-LUẬN [3]
 LỊCH SỬ MAFIA KHAZARIA
 
 [https://www.facebook.com/permalink.php?story_fbid=364313745366774&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=364313745366774&id=100053644548330&__cft__[0]=AZW8VV3vVRKylbOM-bQEStZfiVVyE0fsjHGuA2Rww6h0cttEDsDmP9h4kMMFwXIyUnw6XH8V5nNTKnELjm4VhXVeZnJZE1gBS9u_OLeu20yb5XbhBeFM70PTYcXxI8xKVxI&__tn__=-UK-R)
+## Created:
+- [[2021-11-18]]

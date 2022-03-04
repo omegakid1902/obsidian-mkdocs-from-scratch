@@ -20,4 +20,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.163
 
 ## Relate:
-- [[220303214824 - Khi Hera đến, Zeus biến Io thành 1 con bò trắng để giấu hiện trường ngoại tình]]
+- [[220303214824 - Khi Hera đến, Zeus biến Io thành 1 con bò trắng để giấu hiện trường ngoại tình]]## Created:
+- [[2022-03-03]]

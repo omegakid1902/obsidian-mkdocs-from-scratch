@@ -17,3 +17,5 @@ publish: True
 Tiếng Yiddish là ngôn ngữ của người [[Người Do Thái Ashkenazi]]. Yiddish được hình thành khi người ashkenazi đến Trung Âu thế kỷ IX, nó là tiếng German mang yếu tố lấy từ [[Tiếng Hebrew]] và tiếng Aram.
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-06-19]]

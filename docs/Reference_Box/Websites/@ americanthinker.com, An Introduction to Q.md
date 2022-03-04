@@ -145,4 +145,5 @@ Q for Beginners Part 1: Who is [Q](https://www.youtube.com/watch?time_continue=1
 
 **_Deborah Franklin is the pen name of a writer who fears professional retribution._**
 
-**If you would like to comment on this or any other _American Thinker_ article or post, we invite you to visit [the _American Thinker_ Forum at MeWe](https://mewe.com/p/americanthinkerforum). There, you can converse with other _American Thinker_ readers and comment freely (subject to [MeWe's terms of use](https://mewe.com/terms)). The Forum will be fully populated and ready for comments by midday (Eastern time) each day.**
+**If you would like to comment on this or any other _American Thinker_ article or post, we invite you to visit [the _American Thinker_ Forum at MeWe](https://mewe.com/p/americanthinkerforum). There, you can converse with other _American Thinker_ readers and comment freely (subject to [MeWe's terms of use](https://mewe.com/terms)). The Forum will be fully populated and ready for comments by midday (Eastern time) each day.**## Created:
+- [[2021-10-30]]

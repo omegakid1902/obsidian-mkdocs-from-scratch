@@ -15,3 +15,5 @@ Những con sâu bò ra từ xác của [[Người khổng lồ Ymir|Ymir]] hóa
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
 
 
+## Created:
+- [[2022-01-22]]

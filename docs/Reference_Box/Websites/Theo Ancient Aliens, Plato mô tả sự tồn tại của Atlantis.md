@@ -11,4 +11,5 @@ tags:
 Theo [[Phim tài liệu Ancient Aliens]], [[Plato]] đã từng mô tả sự tồn tại của thành phố [[Atlantis]], nó tồn tại cùng với thời kỳ hoàng kim ([[Golden Age]]) của Ai Cập.
 
 ## Source:
-- [Ancient Aliens: The Sphinx and the Secrets of Atlantis (Season 9) | History](https://www.youtube.com/watch?v=IoQ7qkm31Pw)
+- [Ancient Aliens: The Sphinx and the Secrets of Atlantis (Season 9) | History](https://www.youtube.com/watch?v=IoQ7qkm31Pw)## Created:
+- [[2022-01-05]]

@@ -73,3 +73,5 @@ publish: True
 - [[💬211217-2313]]: Nguyên nhân sụp đổ theo [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]]
 - [[💬211217-2322]]
 
+## Created:
+- [[2021-10-25]]

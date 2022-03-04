@@ -21,3 +21,5 @@ Tiêu Viễn Sơn là cha ruột của [[Tiêu Phong]].
 Tiêu Viễn Sơn bị các cao thủ của [[Nhà Tống|nước Tống]] phục kích, ông phải nhảy xuống vực, để lại đứa con mình.
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-16]]

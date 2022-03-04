@@ -18,3 +18,5 @@ publish: True
 ## Ref:
 - [Đường Vào Triết Học Và Đạo Học: Chương 20. Ra Đời, Vào Đạo (khoahoctamlinh.vn)](https://khoahoctamlinh.vn/sach-tam-linh/duong-vao-triet-hoc-va-dao-hoc-chuong-20-ra-doi-vao-dao-3138.html)
 
+## Created:
+- [[2021-12-04]]

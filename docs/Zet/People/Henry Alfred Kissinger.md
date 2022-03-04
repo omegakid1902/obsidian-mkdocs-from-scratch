@@ -29,4 +29,5 @@ publish: True
 
 [^1]: [blogchiasekienthuc.com](https://blogchiasekienthuc.com/lich-su-viet-nam/cuoc-dam-phan-giua-ong-le-duc-tho-va-henry-kissinger.html)
 [^2]: [henry-kissinger-la-ai](https://vi.wikipedia.org/wiki/Henry_Kissinger)
-[^3]: [henry-kissinger-la-ai](https://hoigi.info/henry-kissinger-la-ai/)
+[^3]: [henry-kissinger-la-ai](https://hoigi.info/henry-kissinger-la-ai/)## Created:
+- [[2021-10-09]]

@@ -47,4 +47,5 @@ Người khởi đầu lịch sử Gia tộc Rothschild là [[Mayer Amschel Baue
 - [[@ Huy Phạm, Mật sử luận 5 - KMR]]
 - [[History Of The House Of Rothschild - By Andrew Hitchcock.pdf]]
 - [Rothschild Khazarian Mafia (RKM) & Zionists – Brutal Proof](https://brutalproof.net/topic/rothschild-khazarian-mafia-rkm-zionists/)
-- [NEW Bí Ẩn Gia Tộc Rothschild Ngày Nay, Gia Tộc Bí Ẩn Rothschild (leephan.com)](https://leephan.com/new-bi-an-gia-toc-rothschild-ngay-nay-gia-toc-bi-an-rothschild/)
+- [NEW Bí Ẩn Gia Tộc Rothschild Ngày Nay, Gia Tộc Bí Ẩn Rothschild (leephan.com)](https://leephan.com/new-bi-an-gia-toc-rothschild-ngay-nay-gia-toc-bi-an-rothschild/)## Created:
+- [[2021-10-10]]

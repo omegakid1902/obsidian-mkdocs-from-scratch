@@ -18,3 +18,5 @@ Phương pháp [[Temptation Bundling Method|Temptation Bundling]] là liên kế
 
 
 
+## Created:
+- [[2022-02-24]]

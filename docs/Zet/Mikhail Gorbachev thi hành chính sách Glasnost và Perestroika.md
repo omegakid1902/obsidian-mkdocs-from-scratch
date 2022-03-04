@@ -22,3 +22,5 @@ Khi nắm quyền tổng thống Liên Xô tháng 3 năm 1985, [[Mikhail Gorbach
 
 ## Ref:
 - [Glasnost và Perestroika là gì? (greelane.com)](https://www.greelane.com/vi/nh%c3%a2n-v%c4%83n/l%e1%bb%8bch-s%e1%bb%ad--v%c4%83n-h%c3%b3a/glasnost-and-perestroika-1779417/)
+## Created:
+- [[2021-11-22]]

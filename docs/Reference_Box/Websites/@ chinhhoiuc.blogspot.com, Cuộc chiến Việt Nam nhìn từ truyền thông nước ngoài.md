@@ -265,3 +265,5 @@ Chương 8: _Thời mở cửa_ (Bước vào nghề báo, thập niên 80)
 Chương 9: _Thời hội nhập_ (Bút ký những chuyến đi tới 15 quốc gia và lãnh thổ) 
 
 Tác giả còn dự tính viết tiếp một Chương cuối cùng sẽ mang tên… _Thời xuống lỗ_ (thập niên 2000 cho đến ngày xuống lỗ)!
+## Created:
+- [[2021-11-21]]

@@ -22,4 +22,5 @@ Theo [[Hesiod]], [[Nữ thần Aphrodite|Aphrodite]] được sinh ra ở biển
 
 ## Relate:
 - [[220226222251 - Aphrodite có nghĩa là Sinh ra từ bọt biển]]
-- [[220226222653 - Tinh hoàn của Uranus rơi xuống biển, bọt biển sinh ra Aphrodite]]
+- [[220226222653 - Tinh hoàn của Uranus rơi xuống biển, bọt biển sinh ra Aphrodite]]## Created:
+- [[2022-02-27]]

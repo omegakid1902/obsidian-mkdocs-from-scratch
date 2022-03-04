@@ -18,3 +18,5 @@ publish: True
 - [[220220153826 - Enkidu là người hoang dã, sống trong rừng giữa thú vật cỏ cây]]
 - [[220220153927 - Enkidu giao đấu với Gilgamesh và sau đó hai người trở thành bạn thân]]
 
+## Created:
+- [[2022-02-20]]

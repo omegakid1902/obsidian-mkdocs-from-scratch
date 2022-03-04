@@ -17,3 +17,5 @@ Trong quyển 8 [[@ Homer, Odyssey]],  [[Demodocus]] kể rằng [[Nữ thần A
 
 ## Source:
 - [[@ wiki, Aphrodite]]
+## Created:
+- [[2022-02-27]]

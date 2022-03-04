@@ -22,4 +22,5 @@ publish: True
 ![[Pasted image 20211023115557.png]]
 
 ## Ideas & thoughts:
-- Teresa of Avila là thầy dạy cho [[Thánh Gioan Thánh giá]]
+- Teresa of Avila là thầy dạy cho [[Thánh Gioan Thánh giá]]## Created:
+- [[2021-10-23]]

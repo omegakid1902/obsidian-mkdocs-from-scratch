@@ -36,3 +36,5 @@ publish: True
 ## Ref:
 - [[@ Huy Phạm, Mật sử luận 3 - Lịch sử Khazaria Mafia]]
 - [[@ Huy Phạm, Mật sử luận 4 - Rothschild và Mafia Khazaria]]
+## Created:
+- [[2021-11-18]]

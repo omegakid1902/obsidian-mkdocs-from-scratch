@@ -191,4 +191,5 @@ _[\- Có Do hay không có Do? Trả lời bạn hung898](http://soi.today/?p=23
 
 _[\- Cấm thịt heo trong đạo Do Thái](http://soi.today/?p=238466 "Cấm thịt heo trong đạo Do Thái")_  
 
-#### [» Xem tiếp](http://soi.today/?p=129827&cat=16&xt=cmt)
+#### [» Xem tiếp](http://soi.today/?p=129827&cat=16&xt=cmt)## Created:
+- [[2021-10-30]]

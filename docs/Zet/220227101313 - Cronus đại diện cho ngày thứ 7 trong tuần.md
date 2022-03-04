@@ -17,4 +17,5 @@ publish: True
 - [[@ wiki, Cronus]]
 
 ## Relate:
-- [[220227094101 - Saturn trong thần thoại La Mã tương đương với Cronus]]
+- [[220227094101 - Saturn trong thần thoại La Mã tương đương với Cronus]]## Created:
+- [[2022-02-27]]

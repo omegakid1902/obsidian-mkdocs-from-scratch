@@ -24,4 +24,5 @@ Sau khi đánh bại các Titan, Zeus đã đưa ra các hình phạt đối v�
 
 ## Relate:
 - [[220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire]]
-- [[220228223159 - Cuộc chiến chống Titan được gọi là Titanomachie]]
+- [[220228223159 - Cuộc chiến chống Titan được gọi là Titanomachie]]## Created:
+- [[2022-03-01]]

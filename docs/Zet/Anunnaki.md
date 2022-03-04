@@ -26,3 +26,5 @@ Người [[Sumer]] xem Anunnaki là những vị thần
 - [tindaumoi.com](https://tindaumoi.com/anunnaki--chung-nguoi-ngoai-hanh-tinh-tung-den-trai-at.html)
 - [thoidaitamlinh.top](https://www.thoidaitamlinh.top/2018/11/top-14-su-that-ve-nguoi-ngoai-hanh-tinh-Anunnaki.html)
 - [khoahoctamlinh.vn](https://khoahoctamlinh.vn/kham-pha/chinh-phu-iraq-thua-nhan-chung-nguoi-ngoai-hanh-tinh-anunnaki-la-co-that-1330.html)
+## Created:
+- [[2021-10-25]]

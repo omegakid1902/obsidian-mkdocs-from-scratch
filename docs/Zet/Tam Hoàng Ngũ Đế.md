@@ -22,3 +22,5 @@ publish: True
 ![[Ngũ đế Trung Hoa#Notes]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-09-05]]

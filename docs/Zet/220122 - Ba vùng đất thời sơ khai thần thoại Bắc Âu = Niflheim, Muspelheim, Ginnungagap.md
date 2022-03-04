@@ -31,3 +31,5 @@ Trong [[Thần thoại Bắc Âu]], thời kỳ ban đầu, tồn tại 3 vùng 
 - [[@ peterpotter90.wordpress, Thần thoại Bắc Âu - Thế Giới được hình thành như thế nào]]
 
 
+## Created:
+- [[2022-01-22]]

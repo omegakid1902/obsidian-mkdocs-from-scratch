@@ -17,3 +17,5 @@ Tính giản dị phải dựa trên nội tâm, vứt bỏ đồ đạc, mặc 
 
 
 
+## Created:
+- [[2022-02-20]]

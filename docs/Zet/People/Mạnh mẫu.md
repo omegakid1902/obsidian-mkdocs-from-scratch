@@ -21,3 +21,5 @@ Mạnh mẫu ý chỉ mẹ của [[Mạnh Tử]], tên gọi này gắn liền v
 ## Ideas & thoughts:
 - Tạo ghi chú tóm tắt câu chuyện 3 lần chuyển nhà #task/todo 
 
+## Created:
+- [[2021-07-11]]

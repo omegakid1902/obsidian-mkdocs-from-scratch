@@ -20,4 +20,5 @@ Cuộc chiến giữa phe [[Thần Zeus]] và [[Người khổng lồ Titan|Các
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.71
 
 ## Relate:
-- [[220228222058 - Phe Zeus trong cuộc chiến chống lại các Titan]]
+- [[220228222058 - Phe Zeus trong cuộc chiến chống lại các Titan]]## Created:
+- [[2022-02-28]]

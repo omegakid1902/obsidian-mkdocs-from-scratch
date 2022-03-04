@@ -26,3 +26,5 @@ Có hai loại trích dẫn thường gặp trong một tài liệu học thuậ
 
 ## Reference:
 - [[Reference Manager]]
+## Created:
+- [[2020-10-21]]

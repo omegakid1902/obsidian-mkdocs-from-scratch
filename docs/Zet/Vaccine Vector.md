@@ -26,3 +26,5 @@ Sau đó, [[Hệ miễn dịch]] của cơ thể nhận biết mảnh [[ADN]] đ
 - Kháng thể là gì?
 
 
+## Created:
+- [[2021-07-10]]

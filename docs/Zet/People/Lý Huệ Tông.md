@@ -32,3 +32,5 @@ Lý Huệ Tông, tên thật là Lý Hạo Sảm, là vua thứ 8 của [[Nhà L
 
 ## Ideas & thoughts:
 [[Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng]]
+## Created:
+- [[2021-09-02]]

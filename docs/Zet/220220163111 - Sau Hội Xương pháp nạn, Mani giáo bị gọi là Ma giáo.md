@@ -19,3 +19,5 @@ Sau [[Hội Xương pháp nạn]], [[Mani giáo]] bị gọi là Ma giáo, mang 
 - [[@ wiki, Mani giáo]]
 
 
+## Created:
+- [[2022-02-20]]

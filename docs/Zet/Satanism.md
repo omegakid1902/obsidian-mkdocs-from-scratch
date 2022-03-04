@@ -29,3 +29,5 @@ Satanism, hay Satan giáo, là một giáo phái ngầm tôn thờ [[Satan]].
 - [[Mật mã Da Vinci]], [[Dan Brown]]
 - [[Hội Illuminati]]
 - Satanism liên quan tới [[Talmudism Babylon]] theo [[@ Huy Phạm, Mật sử luận 5 - KMR]]
+## Created:
+- [[2021-10-10]]

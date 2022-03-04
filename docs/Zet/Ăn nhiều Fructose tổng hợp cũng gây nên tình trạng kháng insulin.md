@@ -18,4 +18,5 @@ publish: True
 
 ## Ideas & thoughts:
 
-[^1]:[[@ healthline.com, Insulin and Insulin Resistance — The Ultimate Guide]]
+[^1]:[[@ healthline.com, Insulin and Insulin Resistance — The Ultimate Guide]]## Created:
+- [[2021-09-03]]

@@ -21,3 +21,5 @@ Theo [[Thần thoại Lưỡng Hà]], ban đầu trời đất gắn liền nhau
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
+## Created:
+- [[2022-01-21]]

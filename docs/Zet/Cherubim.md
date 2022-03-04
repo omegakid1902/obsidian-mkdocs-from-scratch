@@ -23,4 +23,5 @@ publish: True
 	- [[Ezekiel]]: [[Ezek-41#v15]]
 
 ## Reference:
-- [What are Cherubim? Bible Meaning and Definition (biblestudytools.com)](https://www.biblestudytools.com/dictionary/cherubim-1/)
+- [What are Cherubim? Bible Meaning and Definition (biblestudytools.com)](https://www.biblestudytools.com/dictionary/cherubim-1/)## Created:
+- [[2021-11-12]]

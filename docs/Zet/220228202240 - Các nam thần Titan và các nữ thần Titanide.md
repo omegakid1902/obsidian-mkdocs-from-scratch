@@ -24,3 +24,5 @@ Titan là tên gọi các nam thần khổng lồ, Titanide là các nữ thần
 
 ## Relate:
 - [[220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire]]
+## Created:
+- [[2022-02-28]]

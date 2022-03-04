@@ -30,3 +30,5 @@ publish: True
 ## Ideas & thoughts:
 - [[Khoa học và các cú mị dân]]
 
+## Created:
+- [[2021-11-15]]

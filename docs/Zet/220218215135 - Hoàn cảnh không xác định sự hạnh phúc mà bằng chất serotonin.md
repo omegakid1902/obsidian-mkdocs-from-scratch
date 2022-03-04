@@ -16,3 +16,5 @@ Hoàn cảnh khác nhau giữa hai người không xác định ai là người 
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.488
 
 
+## Created:
+- [[2022-02-18]]

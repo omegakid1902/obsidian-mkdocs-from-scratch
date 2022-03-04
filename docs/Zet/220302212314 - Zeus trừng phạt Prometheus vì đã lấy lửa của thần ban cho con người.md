@@ -18,4 +18,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.105
 
 ## Relate:
-- [[220222211050 - Prometheus ăn cắp lửa cho con người]]
+- [[220222211050 - Prometheus ăn cắp lửa cho con người]]## Created:
+- [[2022-03-02]]

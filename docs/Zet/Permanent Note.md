@@ -33,4 +33,5 @@ Ghi chú này vĩnh cữu vì nó sẽ không bị xóa theo thời gian, nếu 
 - [[Niklas Luhmann]]
 - [[Literature Note]]
 - [[Fleeting Note]]
-- [[@ Sönke Ahrens, How to take smart notes]]
+- [[@ Sönke Ahrens, How to take smart notes]]## Created:
+- [[2020-10-21]]

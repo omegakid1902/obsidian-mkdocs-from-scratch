@@ -19,3 +19,5 @@ publish: True
 ## Source:
 - [[@ tiasang.com.vn, Gia đình Bernoulli]]
 
+## Created:
+- [[2022-01-20]]

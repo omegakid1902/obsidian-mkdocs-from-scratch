@@ -22,3 +22,5 @@ publish: True
 [[Đinh Bộ Lĩnh]] sau khi dẹp được 12 sứ quân lên ngôi hoàng đế lấy tên là Đinh Tiên Hoàng, lấy tên nước là [[Đại Cồ Việt]].
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-14]]

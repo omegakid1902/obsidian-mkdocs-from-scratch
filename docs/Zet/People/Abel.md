@@ -21,3 +21,5 @@ publish: True
 Abel là một nhân vật trong [[The Bible|Kinh thánh]]. Abel con trai thứ 2 của [[Adam và Eva]]. [[Abel làm nghề chăn nuôi súc vật]]. [[Cain sát hại Abel|Abel bị anh mình là Cain sát hại]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-14]]

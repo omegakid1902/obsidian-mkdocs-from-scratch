@@ -25,3 +25,5 @@ Mẹ Mạnh Tử là Chương thị, được người đời sau biết với c
 Thời còn nhỏ, Mạnh Tử là môn sinh [[Tử Tư]].
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-04]]

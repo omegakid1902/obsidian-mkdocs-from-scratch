@@ -20,4 +20,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook Tve-4u) p.56
 
 ## Relate:
-- [[220226215334 - Chaos sinh ra Gaia, Nyx, Erebus, Tartarus, Eros]]
+- [[220226215334 - Chaos sinh ra Gaia, Nyx, Erebus, Tartarus, Eros]]## Created:
+- [[2022-02-28]]

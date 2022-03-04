@@ -12,3 +12,5 @@ Theo [[Phim tài liệu Ancient Aliens]] Season 9, Cayce tuyên bố rằng phí
 
 ## Ref:
 - [Ancient Aliens: The Sphinx and the Secrets of Atlantis (Season 9) | History](https://www.youtube.com/watch?v=IoQ7qkm31Pw)
+## Created:
+- [[2022-01-05]]

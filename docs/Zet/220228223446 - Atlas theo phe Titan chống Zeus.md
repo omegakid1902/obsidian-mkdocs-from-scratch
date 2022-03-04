@@ -21,4 +21,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.72
 
 ## Relate:
-- [[220122144855 - Atlas thuộc phe Titan đối đầu với Olympus]]
+- [[220122144855 - Atlas thuộc phe Titan đối đầu với Olympus]]## Created:
+- [[2022-02-28]]

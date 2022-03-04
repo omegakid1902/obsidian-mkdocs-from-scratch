@@ -27,3 +27,5 @@ publish: True
 - [[Micael có nghĩa là Ai bằng Thiên Chúa❓]]
 
 [^daminh]: [Thiên Thần Sêraphim Là Ai? | Tỉnh Dòng Đa Minh Việt Nam (daminhvn.net)](http://daminhvn.net/hieu-de-song-duc-tin/thien-than-seraphim-la-ai-3318.html)
+## Created:
+- [[2021-11-12]]

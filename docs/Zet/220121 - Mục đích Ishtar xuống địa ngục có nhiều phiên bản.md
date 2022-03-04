@@ -17,3 +17,5 @@ Có truyền thuyết cho rằng [[Nữ thần Ishtar|Ishtar]] xuống địa ng
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
+## Created:
+- [[2022-01-21]]

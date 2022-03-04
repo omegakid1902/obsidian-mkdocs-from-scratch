@@ -23,3 +23,5 @@ Thứ tự các [[Đại Hãn]] Mông Cổ
 
 ## Ideas & thoughts:
 
+## Created:
+- [[2021-08-17]]

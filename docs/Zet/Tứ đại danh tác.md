@@ -24,3 +24,5 @@ Tứ đại danh tác là từ dùng để chỉ bốn tác phẩm văn học c�
 - [[Hồng Lâu Mộng]] của [[Tào Tuyết Cần]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-09-06]]

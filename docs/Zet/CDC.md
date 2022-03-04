@@ -32,3 +32,5 @@ Centers for Disease Control and Prevention, viết tắt là CDC, tiếng Việt
 - [[Vaccine]]
 - [[FDA]]
 
+## Created:
+- [[2021-10-17]]

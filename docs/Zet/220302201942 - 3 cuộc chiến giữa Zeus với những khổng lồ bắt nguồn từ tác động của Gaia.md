@@ -28,4 +28,5 @@ Cả 3 cuộc chiến, phần thắng cuối cùng thuộc về Zeus.
 ## Relate:
 - [[220301223636 - Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile]]
 - [[220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus]]
-- [[220226223627 - Zeus giết Cronus cha mình giải thoát các anh chị mình]]
+- [[220226223627 - Zeus giết Cronus cha mình giải thoát các anh chị mình]]## Created:
+- [[2022-03-02]]

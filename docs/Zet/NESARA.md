@@ -34,4 +34,5 @@ Các công bố chính của đạo luật, xem thêm [[@ fb Khaitridongtam, TÌ
 ## Questions:
 
 ## Reference:
-- [[@ fb Khaitridongtam, TÌM HIỂU VỀ NESARA VÀ GESARA]]
+- [[@ fb Khaitridongtam, TÌM HIỂU VỀ NESARA VÀ GESARA]]## Created:
+- [[2021-10-14]]

@@ -29,4 +29,5 @@ Tuy nhiên, theo [[Plato]], ông cho rằng hai Aphrodite trên là hai nhân v�
 - [[220226222251 - Aphrodite có nghĩa là Sinh ra từ bọt biển]]
 - [[220227083536 - Trong Iliad của Homer, Aphrodite là con của Zeus và Dione]]
 - [[220227083326 - Theo Hesiod, Aphrodite được sinh ra ở biển Cythera từ bọt biển]]
-- [[220227084648 - Theo Plato, Aphrodite bọt biển và Aphrodite con Zeus là hai nhân vật khác nhau]]
+- [[220227084648 - Theo Plato, Aphrodite bọt biển và Aphrodite con Zeus là hai nhân vật khác nhau]]## Created:
+- [[2022-02-27]]

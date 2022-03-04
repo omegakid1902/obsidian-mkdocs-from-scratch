@@ -16,3 +16,5 @@ publish: True
 
 ## Ideas & thoughts:
 - [ ] Trần Thánh Tông gả An Tư công chúa cho [[Thoát Hoan]] để làm chậm đường tiến quân
+## Created:
+- [[2021-08-17]]

@@ -22,3 +22,5 @@ Các lĩnh vực được trao giải Nobel: vật lý, hoá học, y học, vă
 [[Giải Nobel Hòa bình]] được trao thưởng ở Oslo, [[Na Uy]], trong khi các giải khác được trao ở Stockholm, [[Thụy Điển]].
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-06-16]]

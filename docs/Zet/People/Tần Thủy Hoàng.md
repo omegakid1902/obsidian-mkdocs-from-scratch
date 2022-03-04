@@ -27,3 +27,5 @@ Tần Thủy Hoàng (18 tháng 2 năm 259 TCN – 11 tháng 7 năm 210 TCN) là 
 - [ ] [[Lã Bất Vi]] là cha của Tần Thủy Hoàng.
 
 ## Related:
+## Created:
+- [[2021-07-24]]

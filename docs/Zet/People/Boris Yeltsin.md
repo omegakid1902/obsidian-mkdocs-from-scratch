@@ -17,3 +17,5 @@ publish: True
 [[Boris Yeltsin là tổng thống đầu tiên của Liên bang Nga]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-11-22]]

@@ -30,3 +30,5 @@ Kháng Insulin là hiện tượng mà tế bào không phản hồi trước s�
 - [[Không hoạt động thể chất là nguyên nhân gây kháng insulin]]
 - 
 ## Ideas & thoughts:
+## Created:
+- [[2021-09-03]]

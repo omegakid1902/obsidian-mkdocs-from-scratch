@@ -15,3 +15,5 @@ publish: True
 [[Benjamin Franklin]] là thành viên [[Hội tam điểm]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-08]]

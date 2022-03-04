@@ -17,3 +17,5 @@ publish: True
 ## Notes:
 [[Moses]] nghĩa là "được đưa ra khỏi nước" ([[Exod-02#v10]])
 
+## Created:
+- [[2021-11-20]]

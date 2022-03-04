@@ -19,3 +19,5 @@ publish: True
 
 ## Ref:
 - [LỊCH SỬ CỦA TRÁI ĐẤT – Sal Rachele | days for living (wordpress.com)](https://daysforliving.wordpress.com/2013/10/12/lich-su-cua-trai-dat-theo-tu-lieu-ngoai-cam/)
+## Created:
+- [[2021-12-21]]

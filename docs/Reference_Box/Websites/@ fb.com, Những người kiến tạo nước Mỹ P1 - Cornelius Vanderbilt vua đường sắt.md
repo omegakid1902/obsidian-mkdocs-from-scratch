@@ -213,3 +213,5 @@ Phần 3-5: Andrew Carnegie - “Vua sắt thép”
 Phần 4-5: J.P. Morgan - "Vua ngân hàng”
 
 Phần 5-5: Và cuối cùng là Henry Ford
+## Created:
+- [[2021-11-20]]

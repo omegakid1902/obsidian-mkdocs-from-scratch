@@ -25,4 +25,5 @@ Phương pháp này còn được ghi tắt là +,-,= tương ứng với 3 nhó
 ## Ideas & thoughts:
 
 ## Source:
-- [[@ Ryan Holiday, Ego is Enemy]] p70
+- [[@ Ryan Holiday, Ego is Enemy]] p70## Created:
+- [[2020-10-21]]

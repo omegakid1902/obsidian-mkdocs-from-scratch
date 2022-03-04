@@ -27,3 +27,5 @@ publish: True
 
 ## Questions:
 [^1]:[[Gen-17#v20]], [[Gen-17#v21]]
+## Created:
+- [[2021-10-07]]

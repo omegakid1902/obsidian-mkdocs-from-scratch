@@ -26,4 +26,5 @@ publish: True
 - [[Bolshevik là tên nhóm người theo Vladimir Lenin]]
 
 ## Ref:
-- [Menshevik – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Menshevik)
+- [Menshevik – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Menshevik)## Created:
+- [[2021-11-19]]

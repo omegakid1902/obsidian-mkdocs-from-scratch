@@ -26,4 +26,5 @@ Dịch ra tiếng việt là "**Ở trong thế gian nhưng không thuộc về 
 - [[Người Amish]]
 
 ## Ref:
-- [How can believers be in the world, but not of the world?](https://www.gotquestions.org/in-but-not-of-world.html)
+- [How can believers be in the world, but not of the world?](https://www.gotquestions.org/in-but-not-of-world.html)## Created:
+- [[2020-10-22]]

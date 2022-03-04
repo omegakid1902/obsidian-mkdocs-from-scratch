@@ -22,3 +22,5 @@ Trong [[Sử thi Gilgamesh]], ban đầu các vị thần phải làm việc c�
 - [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
 
 
+## Created:
+- [[2022-01-23]]

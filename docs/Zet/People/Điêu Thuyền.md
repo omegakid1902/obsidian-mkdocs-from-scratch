@@ -21,3 +21,5 @@ publish: True
 [[Điêu Thuyền]] là một trong [[Tứ đại mỹ nhân Trung Hoa]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-28]]

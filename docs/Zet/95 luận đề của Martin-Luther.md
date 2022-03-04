@@ -18,4 +18,5 @@ publish: True
 
 ## Ref:
 - [[@ Alan Schreck, The Compact History of the Catholic Church]]
-- [[@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]]
+- [[@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]]## Created:
+- [[2020-12-06]]

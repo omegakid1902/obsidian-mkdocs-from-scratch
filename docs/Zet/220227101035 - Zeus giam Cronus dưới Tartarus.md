@@ -17,4 +17,5 @@ Sau khi giải thoát 5 anh chị mình, tất cả 6 anh em chống lại và l
 - [[@ wiki, Cronus]]
 
 ## Relate:
-- [[220227100639 - Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus]]
+- [[220227100639 - Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus]]## Created:
+- [[2022-02-27]]

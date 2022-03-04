@@ -46,4 +46,5 @@ Hiện nay chưa ghi nhận tác dụng phụ viêm cơ tim của các vắc xin
 
 **Nguyễn Thanh Bình, Đỗ Văn Chiến**
 
-**Khoa Nội Tim mạch, Bệnh viện Trung ương Quân đội 108**
+**Khoa Nội Tim mạch, Bệnh viện Trung ương Quân đội 108**## Created:
+- [[2021-11-01]]

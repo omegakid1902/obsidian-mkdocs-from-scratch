@@ -43,4 +43,5 @@ Yersin được chôn ở Suối Dầu huyện Diên Khánh, Nha Trang.
 > "Bệnh nhân An Nam từ khắp nơi đổ về đây, những lúc con không đi chơi đâu đó. Nói cho đúng, họ lợi dụng hiểu biết khoa học của con, nhất là những lúc để trả tiền cho con, họ lại thân ái đánh cắp ví của con. Nhưng biết làm sao bây giờ, trong óc họ, ăn cắp tiền của một người Pháp là một hành động tốt. Vả lại, người Pháp đến xứ Đông Dương này để làm gì đây, nếu không phải là ăn cắp của người An Nam?"
 
 - Yersin thần tượng [[David Livingstone]], cả đời ông phấn đấu theo Livingstone.
-- Yersin được đặt tên cho nhiều địa danh, tên đường ở Việt Nam
+- Yersin được đặt tên cho nhiều địa danh, tên đường ở Việt Nam## Created:
+- [[2021-11-27]]

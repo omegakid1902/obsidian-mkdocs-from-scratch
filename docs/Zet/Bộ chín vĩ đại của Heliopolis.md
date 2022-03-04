@@ -52,4 +52,5 @@ Bộ chín vĩ đại của Heliopolis bao gồm:
 
 
 ## Ideas & thoughts:
-- [[Geb và Nut là hai anh em song sinh]]
+- [[Geb và Nut là hai anh em song sinh]]## Created:
+- [[2021-11-19]]

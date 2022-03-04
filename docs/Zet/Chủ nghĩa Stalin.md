@@ -20,3 +20,5 @@ Chủ nghĩa Stalin là chủ nghĩa mà [[Joseph Stalin]] áp dụng trong th�
 ## Ideas & thoughts:
 - [[Chủ nghĩa toàn trị]]
 - [[Chủ nghĩa độc tài]]
+## Created:
+- [[2021-07-18]]

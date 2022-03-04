@@ -46,3 +46,5 @@ publish: True
 - [[220122 - Dòng dõi Jotun mang mối thù với Aesir]]
 - [[220122 - Goliath là người khổng lồ Philistines thế kỷ X TCN]]
 - [[220122 - David hạ gục Goliath trong một trận chiến tay đôi]]
+## Created:
+- [[2022-01-21]]

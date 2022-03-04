@@ -31,3 +31,5 @@ Thời kỳ [[Bắc Nguyên]]: bắt đầu từ 1402 khi Quỷ Lực Xích sát
 
 ## Ideas & thoughts:
 
+## Created:
+- [[2021-08-17]]

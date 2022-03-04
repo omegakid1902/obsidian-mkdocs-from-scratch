@@ -52,3 +52,5 @@ MẬT-SỬ-LUẬN [4]
 MAFIA KHAZARIA | ROTHSCHILD
 
 [https://www.facebook.com/permalink.php?story_fbid=371696207961861&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=371696207961861&id=100053644548330&__cft__[0]=AZUXwg6YGZcx-dc6NkOt4jRBcf0uSBq8r1WV6VLuC8-UKnrHXHyuqTFwqorv2T702jDOctIo-9xwF-qWekTZRRmOrnwXrF2eTkXhUWHDScNUsg1TMf4yNzQLxkY8RERfP8M&__tn__=-UK-R)
+## Created:
+- [[2021-11-18]]

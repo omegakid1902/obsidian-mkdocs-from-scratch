@@ -25,3 +25,5 @@ Lúc bấy giờ, vua [[Pharaon]] muốn triệt dòng dõi Do Thái, ông sai c
 [[Moses thuộc chi tộc Levi|Moses là người Do thái thuộc họ Levi]]. Sau khi giấu Moses được 3 tháng, không thể giấu thêm được nữa, mẹ cậu thả cậu trôi sông rồi đứng từ xa theo dõi. May đó có các công chúa Ai cập xuống sông tắm và họ nhìn thấy cậu. Họ vớt lên đưa về cung nuôi và đặt tên là [[Moses nghĩa là được đưa ra khỏi nước|Moses, nghĩa là "được đưa ra khỏi nước"]] ([[Exod-02#v10]]). Moses được nuôi trong cung và trở thành Hoàng tử của Ai cập.
 
 [[📑 Bookmark]]
+## Created:
+- [[2021-11-20]]

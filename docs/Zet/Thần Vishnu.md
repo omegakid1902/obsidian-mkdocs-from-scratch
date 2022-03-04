@@ -26,3 +26,5 @@ publish: True
 Vishnu là vị thần bảo hộ trọng [[Ấn Độ giáo]] và [[Đạo Bà La Môn]]. Ông là đấng tối cao trong [[Vishnu giáo]]. Vishnu là một trong ba vị thần [[Tam thần Ấn giáo]].
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-04]]

@@ -16,4 +16,5 @@ publish: True
 
 ## Ideas & thoughts:
 
-[^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], chương 6
+[^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], chương 6## Created:
+- [[2021-08-21]]

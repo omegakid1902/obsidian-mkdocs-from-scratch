@@ -17,3 +17,5 @@ Ba rễ của [[Cây Thế Giới Yggdrasil|Yggdrasil]] nối với Hel, [[Vùng
 - [[@ wiki, Yggdrasil]]
 
 
+## Created:
+- [[2022-01-25]]

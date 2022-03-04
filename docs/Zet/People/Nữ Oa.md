@@ -27,3 +27,5 @@ Nữ Oa dùng đất nặn hình tượng con người rồi sử dụng phép t
 
 ## Ideas & thoughts:
 [[Nữ Oa vừa là em gái, vừa là vợ Phục Hi]]
+## Created:
+- [[2021-09-06]]

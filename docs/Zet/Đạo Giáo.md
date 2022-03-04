@@ -20,3 +20,5 @@ publish: True
 Đạo Giáo là một nhánh triết học tôn giáo của Trung Quốc. Đạo Giáo bắt nguồn từ thế kỷ 4 TCN được sáng lập bởi [[Lão Tử]]. Tư tưởng của Đạo Giáo bao gồm nhưng tư tưởng về trời đất, âm dương, thiên địa, ngũ hành, bát quái.
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-04]]

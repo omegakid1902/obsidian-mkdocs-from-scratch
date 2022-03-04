@@ -19,3 +19,5 @@ publish: true
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing - Forte Labs](https://fortelabs.co/blog/how-to-take-smart-notes/) 
 - [https://leananki.com/zettelkasten-method-smart-notes/](https://leananki.com/zettelkasten-method-smart-notes/)
 
+## Created:
+- [[2022-02-21]]

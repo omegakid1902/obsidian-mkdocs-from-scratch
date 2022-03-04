@@ -24,4 +24,5 @@ David Livingstone là Nhà thám hiểm, bác sỹ và nhà truyền giáo tại
 
 
 ## Ideas & thoughts:
-- Idol của [[Alexandre Yersin]] :)
+- Idol của [[Alexandre Yersin]] :)## Created:
+- [[2021-11-27]]

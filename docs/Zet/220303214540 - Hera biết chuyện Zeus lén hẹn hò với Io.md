@@ -22,4 +22,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.162
 
 ## Relate:
-- [[220303214425 - Zeus hóa mây đen tối mịt giấu Hera hẹn hò với Io]]
+- [[220303214425 - Zeus hóa mây đen tối mịt giấu Hera hẹn hò với Io]]## Created:
+- [[2022-03-03]]

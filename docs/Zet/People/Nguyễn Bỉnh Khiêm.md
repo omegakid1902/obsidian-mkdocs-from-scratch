@@ -38,4 +38,5 @@ Nguyễn Bỉnh Khiêm có thể được xem là một nhà tiên tri với r�
 
 ## Ref:
 - [BÌNH GIẢI SẤM KÝ  TRẠNG TRÌNH NGUYỄN BỈNH KHIÊM – Cuộc Đời Mới (cuocdoimoi.com)](http://cuocdoimoi.com/binh-giai-sam-ky-trang-trinh-nguyen-binh-khiem/)
-- [Sấm Trạng Trình toàn tập | Nghiên Cứu Lịch Sử (nghiencuulichsu.com)](https://nghiencuulichsu.com/2013/10/15/sam-trang-trinh-toan-tap/)
+- [Sấm Trạng Trình toàn tập | Nghiên Cứu Lịch Sử (nghiencuulichsu.com)](https://nghiencuulichsu.com/2013/10/15/sam-trang-trinh-toan-tap/)## Created:
+- [[2021-12-13]]

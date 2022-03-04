@@ -41,3 +41,5 @@ Các lập luận phủ định [[Thuyết tiến hóa]] của [[Charles Darwin]
 
 
 
+## Created:
+- [[2022-01-13]]

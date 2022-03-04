@@ -15,3 +15,5 @@ publish: True
 [[Will Durant]] cho rằng, [[Mặc Tử]] là một trong những lý luận gia lí sự vô lý
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-09-05]]

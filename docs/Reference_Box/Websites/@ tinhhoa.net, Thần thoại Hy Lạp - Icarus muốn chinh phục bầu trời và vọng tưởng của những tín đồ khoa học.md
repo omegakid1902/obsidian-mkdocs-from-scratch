@@ -25,3 +25,5 @@ publish: True
 - [[220219230427 - Icarus quên mất lời Daedalus, cậu bay cao đôi cánh tan chảy và cậu rớt xuống biển]]
 
 
+## Created:
+- [[2022-02-19]]

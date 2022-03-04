@@ -25,3 +25,5 @@ Trịnh Kiểm (1503-1570) là người gầy dựng sự nghiệp của [[Chúa
 
 ## Ideas & thoughts:
 - [[Trịnh Tùng]] con của Trịnh Kiểm sau này lật đổ được [[Nhà Mạc]]
+## Created:
+- [[2021-07-12]]

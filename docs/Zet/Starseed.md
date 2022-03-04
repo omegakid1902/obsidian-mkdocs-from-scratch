@@ -27,3 +27,5 @@ Starseed được định nghĩa là con người vật lý, sống luân hồi 
 - [Trẻ Em Rainbow - Trẻ Em Cầu Vòng (khoahoctamlinh.vn)](https://khoahoctamlinh.vn/dai-ky-nguyen/tre-em-rainbow---tre-em-cau-vong-813.html)
 - [12 dấu hiệu nhận biết bạn đang nuôi một đứa trẻ cầu vồng Rainbow Child (thoidaitamlinh.top)](https://www.thoidaitamlinh.top/2021/05/12-dau-hieu-nhan-biet-ban-dang-nuoi-mot-dua-tre-cau-vong-rainbow-child.html)
 - [Thời Đại Thức Tỉnh Tâm Linh và Indigo, Starseed: Indigo Child (thoidaitamlinh.top)](https://www.thoidaitamlinh.top/search/label/Indigo%20Child)
+## Created:
+- [[2021-10-23]]

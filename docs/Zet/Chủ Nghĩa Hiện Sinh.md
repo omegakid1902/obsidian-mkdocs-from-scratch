@@ -31,4 +31,5 @@ Mỗi cá nhân tự chịu trách nhiệm cho ý nghĩa cuộc đời mình và
 - [[❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh]]
 
 ## Ref:
-- [Chủ nghĩa hiện sinh - Chủ đề tiểu luận (greelane.com)](https://www.greelane.com/vi/nh%c3%a2n-v%c4%83n/tri%e1%ba%bft-h%e1%bb%8dc/existentialism-essay-topics-2670727/)
+- [Chủ nghĩa hiện sinh - Chủ đề tiểu luận (greelane.com)](https://www.greelane.com/vi/nh%c3%a2n-v%c4%83n/tri%e1%ba%bft-h%e1%bb%8dc/existentialism-essay-topics-2670727/)## Created:
+- [[2020-12-25]]

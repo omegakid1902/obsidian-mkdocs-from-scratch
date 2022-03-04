@@ -36,3 +36,5 @@ publish: True
 ## Questions:
 [^1]: [illuminati-thong-tri-the-gioi-p-1](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
 [^xungdot]: [illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat](https://tinhhoa.net/illuminati-thong-tri-the-gioi-p-1-nguon-goc-va-ban-chat.html)
+## Created:
+- [[2021-10-10]]

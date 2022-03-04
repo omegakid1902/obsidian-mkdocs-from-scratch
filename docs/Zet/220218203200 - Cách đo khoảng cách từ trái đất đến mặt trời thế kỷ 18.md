@@ -19,3 +19,5 @@ Thế kỷ 18, người ta đo khoảng cách từ trái đất đến mặt tr�
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]]
 
 
+## Created:
+- [[2022-02-18]]

@@ -22,3 +22,5 @@ Ba vụ thảm họa hạt nhân trong lịch sử theo độ nghiêm trọng
 - [[@ wiki, Thảm họa Kyshtym]]
 
 
+## Created:
+- [[2022-02-20]]

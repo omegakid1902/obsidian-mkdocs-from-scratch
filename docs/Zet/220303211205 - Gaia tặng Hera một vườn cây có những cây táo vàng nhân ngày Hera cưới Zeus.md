@@ -18,4 +18,5 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.156
 
 ## Relate:
-- [[220303210736 - Hera là vợ của Zeus]]
+- [[220303210736 - Hera là vợ của Zeus]]## Created:
+- [[2022-03-03]]

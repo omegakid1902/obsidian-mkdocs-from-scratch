@@ -15,3 +15,5 @@ Bẳng [[Chữ Rune]] giống bảng chữ cái [[Tiếng Anh]] nhưng ít hơn 
 - [[@ wiki, Chữ Rune]]
 
 
+## Created:
+- [[2022-01-25]]

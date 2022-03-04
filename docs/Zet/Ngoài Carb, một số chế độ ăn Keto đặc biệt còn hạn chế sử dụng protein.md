@@ -17,3 +17,5 @@ Ngoài [[Carbohydrate]], [[Chế độ Keto]] hạn chế sử dụng protein v�
 ## Ideas & thoughts:
 [[Chế độ Keto, năng lượng chủ yếu cung cấp từ chất béo]]
 [[Xeton được sử dụng làm năng lượng nuôi não]]
+## Created:
+- [[2021-09-03]]

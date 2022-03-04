@@ -20,4 +20,5 @@ publish: True
 
 ## Relate:
 - [[220227081922 - Typhon là con cuối cùng của Gaia]]
-- [[220227081849 - Echidna và Typhon là con của Gaia và Tartarus]]
+- [[220227081849 - Echidna và Typhon là con của Gaia và Tartarus]]## Created:
+- [[2022-03-01]]

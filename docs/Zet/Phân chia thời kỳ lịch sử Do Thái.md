@@ -21,4 +21,5 @@ Lịch sử Do Thái được phân chia làm 3 giai đoại chính: [^1]
 ## Ideas & thoughts:
 
 
- [^1]:[[Jun 21, 2021 11 11 PM note_09]]
+ [^1]:[[Jun 21, 2021 11 11 PM note_09]]## Created:
+- [[2021-06-21]]

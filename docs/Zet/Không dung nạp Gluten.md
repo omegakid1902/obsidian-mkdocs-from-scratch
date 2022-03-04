@@ -12,3 +12,5 @@ publish: True
 Không dung nạp Gluten là một bệnh dị ứng với [[Gluten]], trong đó kể đến [[Bệnh celiac]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-14]]

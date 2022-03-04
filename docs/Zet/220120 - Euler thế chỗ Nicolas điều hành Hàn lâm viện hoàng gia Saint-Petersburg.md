@@ -16,3 +16,5 @@ Khi đang điều hành ngành toán thuộc Hàn lâm viện hoàng gia Saint-P
 ## Source:
 - [[@ tiasang.com.vn, Gia đình Bernoulli]]
 
+## Created:
+- [[2022-01-20]]

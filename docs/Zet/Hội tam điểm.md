@@ -63,4 +63,5 @@ Thành viên hội tam điểm có những cái tên lẫy lừng:
 - [Hiệp sĩ Dòng Đền (P1): Nguồn gốc và nguyên nhân biến chất (tinhhoa.net)](https://tinhhoa.net/hiep-si-dong-den-va-hoi-tam-diem.html)
 - [Hiệp sĩ Dòng Đền (P2): Bước ra ánh sáng (tinhhoa.net)](https://tinhhoa.net/hiep-si-dong-den-p2-buoc-ra-anh-sang.html)
 
-[^1]: [Hội Tam Điểm :: Suy ngẫm & Tự vấn :: ChúngTa.com (chungta.com)](https://www.chungta.com/nd/tu-lieu-tra-cuu/hoi-tam-diem.html)
+[^1]: [Hội Tam Điểm :: Suy ngẫm & Tự vấn :: ChúngTa.com (chungta.com)](https://www.chungta.com/nd/tu-lieu-tra-cuu/hoi-tam-diem.html)## Created:
+- [[2021-11-09]]

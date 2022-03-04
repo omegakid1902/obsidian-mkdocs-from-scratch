@@ -13,3 +13,5 @@ publish: True
 ## Notes:
 - [The Bible - Read and Study Free Online (biblestudytools.com)](https://www.biblestudytools.com/)
 
+## Created:
+- [[2021-11-13]]

@@ -25,3 +25,5 @@ Theo [[Sử thi Gilgamesh]], [[Thần Enki|Enki]] là vị thần tạo ra con n
 - [[@ truyenxuatichcu, Thủy thần Lưỡng Hà]]
 
 
+## Created:
+- [[2022-01-23]]

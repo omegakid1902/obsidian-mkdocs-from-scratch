@@ -18,3 +18,5 @@ publish: True
 
 ## Notes:
 [[Lev Davidovich Trotsky|Trotsky]] mâu thuẫn chia rẽ với [[Vladimir Lenin]].
+## Created:
+- [[2021-11-19]]

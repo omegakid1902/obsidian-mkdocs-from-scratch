@@ -17,3 +17,5 @@ Truyền thống trang trí [[Chúa Giáng Sinh]] nằm trong máng cỏ đặt 
 
 ## Ideas & thoughts:
 
+## Created:
+- [[2020-12-25]]

@@ -23,4 +23,5 @@ Thu thập các khái niệm, các thông tin thời sự trên các nư
 - [[GESARA]]
 - [[NESARA]]
 
-Tìm hiểu thêm các trang của Huy Phạm và Quang Do
+Tìm hiểu thêm các trang của Huy Phạm và Quang Do## Created:
+- [[2021-11-07]]

@@ -13,4 +13,5 @@ source:
 Source: [[@ Leo Tolstoy, Suy niệm mỗi ngày]], location: 1029
 
 ## Ideas & thoughts:
-- [[220220183634 - Lặp lại chân lý không phải là chân lý]]
+- [[220220183634 - Lặp lại chân lý không phải là chân lý]]## Created:
+- [[2022-02-20]]

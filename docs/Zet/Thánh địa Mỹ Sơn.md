@@ -21,3 +21,5 @@ Thánh địa Mỹ Sơn là một khu đền đài [[Ấn Độ giáo]] nằm �
 
 ## Ideas & thoughts:
 Các khu đền đài tương tự trong khu vực: [[Borobudur]], [[Angkor Wat]],...
+## Created:
+- [[2021-09-08]]

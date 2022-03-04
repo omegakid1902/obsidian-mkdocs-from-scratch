@@ -9,3 +9,5 @@ tags:
 
 ## Notes:
 [source](http://www.thongthienhoc.com/bai%20vo%20venmanbimatnuthanisis%20pdf.htm)
+## Created:
+- [[2021-10-26]]

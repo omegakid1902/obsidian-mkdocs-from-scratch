@@ -21,3 +21,5 @@ Bà La Môn hay còn biết đến với tên gọi là Brahmin một tôn giáo
 Bà La Môn xuất phát từ [[Vệ Đà]]. Đạo Bà-La-Môn thờ Đấng [[Thần Brahma]] là Đấng tối cao tối linh, là linh hồn của vũ trụ.
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-07-04]]

@@ -23,3 +23,5 @@ Không chỉ ăn chay về thể xác, ông còn ăn chay về mặt tinh thần
 ## Ideas & thoughts:
 - Gandhi chịu ảnh hưởng bởi [[Leo Tolstoy]], [[Leo Tolstoy]] cũng là một người ăn chay với tư tưởng vạn vật đều có linh hồn. xem quyển [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
 
+## Created:
+- [[2021-07-25]]

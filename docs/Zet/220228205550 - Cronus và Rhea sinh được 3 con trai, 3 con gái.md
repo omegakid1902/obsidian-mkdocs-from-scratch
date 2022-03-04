@@ -24,4 +24,5 @@ publish: True
 
 ## Relate:
 - [[220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea]]
-- [[220227094917 - Rhea là chị gái cũng là vợ của Cronus]]
+- [[220227094917 - Rhea là chị gái cũng là vợ của Cronus]]## Created:
+- [[2022-02-28]]

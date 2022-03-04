@@ -28,4 +28,5 @@ Grigori bị trục xuất khỏi [[Thiên Đàng]] vì có quan hệ tình cả
 - [[Nephilim]] là giống người khổng lồ sinh ra bởi Grigori - con trai của Chúa và con gái loài người.
 
 [^1]: https://lostbird.vn/kham-pha-cung-lac/kinh-di/chuyen-ve-grigori-thien-than-sa-nga-xuong-tran-gian-day-doa-loai-nguoi-1072393.html
-[^2]:https://chuyenbian.com/bi-an-cau-chuyen-ve-grigori-thien-than-sa-nga-xuong-tran-gian-day-doa-loai-nguoi/
+[^2]:https://chuyenbian.com/bi-an-cau-chuyen-ve-grigori-thien-than-sa-nga-xuong-tran-gian-day-doa-loai-nguoi/## Created:
+- [[2021-09-22]]

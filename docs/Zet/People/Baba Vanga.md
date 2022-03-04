@@ -19,3 +19,5 @@ Baba Vanga tiên tri mù người [[Bulgaria]]
 ![[Pasted image 20211015223933.png]]
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-10-15]]

@@ -14,3 +14,5 @@ Từng xảy ra cuộc tranh luận giữa [[Isaac Newton]] và [[Gottfried Wilh
 ## Source:
 - [[@ tiasang.com.vn, Gia đình Bernoulli]]
 
+## Created:
+- [[2022-01-20]]

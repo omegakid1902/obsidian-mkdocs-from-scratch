@@ -54,3 +54,5 @@ Sau 2000 năm lưu lạc, [[Người Do Thái]] chia thành nhiều sắc tô
 
 ## Ideas & thoughts:
 - [[2021 06 21 21 12 note_01]]
+## Created:
+- [[2021-06-19]]

@@ -29,3 +29,5 @@ publish: True
 - [[Trotsky mâu thuẫn chia rẽ với Lenin]]
 - [[Lev Davidovich Trotsky|Trotsky]]
 
+## Created:
+- [[2021-11-19]]

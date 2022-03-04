@@ -20,3 +20,5 @@ Sau khi phát xít Nhật đánh bại Pháp ở Đông Dương, Nhật lập l�
 ## Questions & thoughts:
 
 ## Related:
+## Created:
+- [[2021-07-17]]

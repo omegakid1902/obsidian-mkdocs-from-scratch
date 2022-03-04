@@ -53,3 +53,5 @@ Kỳ thủ A bị thua kỳ thủ B. điểm số mới
 - Rb’ = 1609 + 20(1 – 0.494) = 1619
 
 ## Ideas & thoughts:
+## Created:
+- [[2021-08-26]]

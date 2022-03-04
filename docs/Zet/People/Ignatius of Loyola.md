@@ -41,3 +41,5 @@ Tháng 9/1540, [[Giáo hoàng Paul III]] đã phê chuẩn đề cương của I
 - [[@ thedailybeast.com, Pope Francis Is a Jesuit, Seven Things You Need to Know About the Society of Jesus]]
 
 [^1]: [Pope Francis Is a Jesuit: Seven Things You Need to Know About the Society of Jesus (thedailybeast.com)](https://www.thedailybeast.com/pope-francis-is-a-jesuit-seven-things-you-need-to-know-about-the-society-of-jesus)
+## Created:
+- [[2021-10-24]]

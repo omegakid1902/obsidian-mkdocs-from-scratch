@@ -39,3 +39,5 @@ Chúa.
 tính xác thịt vào Thánh Giá Chúa.
 ([[John|Gioan]] [[John-19#v17|19, 17]]-[[John-19#v18|18]]-[[John-19#v19|19]])
 
+## Created:
+- [[2021-10-01]]

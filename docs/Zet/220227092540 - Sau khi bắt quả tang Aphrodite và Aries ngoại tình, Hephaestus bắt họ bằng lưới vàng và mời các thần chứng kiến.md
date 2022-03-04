@@ -22,4 +22,5 @@ Sau khi bắt quả tang [[Nữ thần Aphrodite|Aphrodite]] và [[Thần Ares|A
 
 ## Relate:
 - [[220227092145 - Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares]]
-- [[220227092321 - Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares]]
+- [[220227092321 - Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares]]## Created:
+- [[2022-02-27]]
