@@ -8,7 +8,7 @@ backlinks:
 title: Nhà Triệu
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 publish: True
 ---

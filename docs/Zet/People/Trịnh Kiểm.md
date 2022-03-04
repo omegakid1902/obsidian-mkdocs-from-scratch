@@ -12,10 +12,10 @@ title: Trịnh Kiểm
 UID: 2107122127
 tags:
   - 'created/2021/Jul/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Trịnh Kiểm

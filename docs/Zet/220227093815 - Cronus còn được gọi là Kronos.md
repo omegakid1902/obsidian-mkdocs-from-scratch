@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Titan Cronus
+backlinks:
+  - Zet/Garden/Titan Cronus
 title: Cronus còn được gọi là Kronos
 UID: 220227093815
 created: 27-Feb-2022

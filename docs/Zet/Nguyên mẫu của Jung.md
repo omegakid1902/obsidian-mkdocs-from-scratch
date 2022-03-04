@@ -3,7 +3,7 @@ title: Nguyên mẫu của Jung
 created: Jun 05, 2021 9:52 AM
 tags:
   - 'created/2021/Jun/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Nguyên mẫu của Jung

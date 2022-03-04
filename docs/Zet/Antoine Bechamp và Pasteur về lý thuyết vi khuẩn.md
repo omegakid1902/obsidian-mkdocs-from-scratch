@@ -15,7 +15,7 @@ UID: 211010110308
 created: 10-Oct-2021
 tags:
   - 'created/2021/Oct/10'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

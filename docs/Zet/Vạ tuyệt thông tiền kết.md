@@ -5,7 +5,7 @@ title: Vạ tuyệt thông tiền kết
 created: Dec 12, 2020 2:48 PM
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

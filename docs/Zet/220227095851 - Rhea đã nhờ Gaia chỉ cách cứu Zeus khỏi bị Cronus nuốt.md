@@ -1,5 +1,9 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần Zeus
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia
 backlinks:

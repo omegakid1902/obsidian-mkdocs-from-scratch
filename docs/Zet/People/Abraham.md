@@ -16,10 +16,10 @@ title: Abraham
 UID: 211111235421
 tags:
   - 'created/2021/Nov/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Abraham

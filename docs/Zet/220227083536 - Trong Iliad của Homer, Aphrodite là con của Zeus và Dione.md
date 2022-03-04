@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Zeus
 backlinks:
   - Zet/220222221341 - Aphrodite là con gái của Zeus và Dione
   - Zet/Thinking/❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite

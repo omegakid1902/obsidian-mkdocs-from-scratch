@@ -8,7 +8,7 @@ UID: 211027230936
 created: 27-Oct-2021
 tags:
   - 'created/2021/Oct/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

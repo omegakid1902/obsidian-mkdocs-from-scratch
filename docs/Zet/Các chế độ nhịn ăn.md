@@ -12,7 +12,7 @@ title: Các chế độ nhịn ăn
 UID: 210903083839
 tags:
   - 'created/2021/Sep/03'
-  - 'garden🏡'
+  - 'garden'
 publish: True
 ---
 # Các chế độ nhịn ăn

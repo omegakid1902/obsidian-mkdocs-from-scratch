@@ -2,7 +2,7 @@
 title: Không dung nạp Gluten
 tags:
   - 'created/2021/Aug/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

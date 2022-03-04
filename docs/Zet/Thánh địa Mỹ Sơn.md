@@ -9,7 +9,7 @@ title: Thánh địa Mỹ Sơn
 UID: 210908211542
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/place'
 publish: True
 ---

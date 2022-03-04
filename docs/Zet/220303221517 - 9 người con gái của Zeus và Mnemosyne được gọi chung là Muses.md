@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220303221425 - Zeus quan hệ với Mnemosyne 9 đêm liền sinh ra 9 người con gái
   - Zet/220303221209 - Các tiên nữ Muses là con gái của Zeus và Mnemosyne
 title: 9 người con gái của Zeus và Mnemosyne được gọi chung là Muses

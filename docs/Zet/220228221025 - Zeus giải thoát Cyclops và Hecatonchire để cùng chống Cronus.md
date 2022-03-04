@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Titan Cronus
   - Zet/220227094251 - Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus
 backlinks:
   - Zet/220302201942 - 3 cuộc chiến giữa Zeus với những khổng lồ bắt nguồn từ tác động của Gaia

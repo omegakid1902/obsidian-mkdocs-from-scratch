@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Thần Zeus
   - Zet/220301223636 - Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile
   - Zet/220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus
   - Zet/220226223627 - Zeus giết Cronus cha mình giải thoát các anh chị mình

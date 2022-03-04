@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
 backlinks:
   - Zet/220226222653 - Tinh hoàn của Uranus rơi xuống biển, bọt biển sinh ra Aphrodite
   - Zet/220227083326 - Theo Hesiod, Aphrodite được sinh ra ở biển Cythera từ bọt biển

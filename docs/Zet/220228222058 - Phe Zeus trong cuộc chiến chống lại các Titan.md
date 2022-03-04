@@ -1,6 +1,13 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Nữ thần Hera
   - Zet/Garden/Thần Poseidon
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Địa ngục Tartarus
+  - Zet/Garden/Titan Oceanus
   - Zet/220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea
   - Zet/220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus
 backlinks:

@@ -4,7 +4,7 @@ backlinks:
 title: Các bộ tộc Bách Việt
 tags:
   - 'created/2021/Jul/24'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 publish: True
 ---

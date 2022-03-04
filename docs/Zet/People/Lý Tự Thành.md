@@ -7,10 +7,10 @@ backlinks:
 title: Lý Tự Thành
 tags:
   - 'created/2021/Aug/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Lý Tự Thành

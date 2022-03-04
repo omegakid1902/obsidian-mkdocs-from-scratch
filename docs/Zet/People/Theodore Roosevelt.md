@@ -10,10 +10,10 @@ title: Theodore Roosevelt
 UID: 211120154713
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Theodore Roosevelt

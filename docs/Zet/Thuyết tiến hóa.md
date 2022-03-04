@@ -23,7 +23,7 @@ UID: 211011231044
 created: 11-Oct-2021
 tags:
   - 'created/2021/Oct/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Học thuyết Darwin

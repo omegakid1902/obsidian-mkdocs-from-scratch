@@ -7,7 +7,7 @@ title: Phương pháp con vịt cao su
 created: Oct 23, 2020 9:40 PM
 tags:
   - 'created/2020/Oct/23'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

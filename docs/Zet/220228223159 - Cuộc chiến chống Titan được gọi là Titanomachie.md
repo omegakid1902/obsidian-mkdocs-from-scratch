@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220228222058 - Phe Zeus trong cuộc chiến chống lại các Titan
 backlinks:
   - Zet/220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan

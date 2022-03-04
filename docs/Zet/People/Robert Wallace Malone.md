@@ -11,10 +11,10 @@ title: Robert Wallace Malone
 UID: 211108234554
 tags:
   - 'created/2021/Nov/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Robert W. Malone
 publish: True

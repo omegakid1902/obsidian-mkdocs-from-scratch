@@ -18,7 +18,7 @@ title: Chủ Nghĩa Zion
 created: Jun 18, 2021 10:34 PM
 tags:
   - 'created/2021/Jun/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 aliases:

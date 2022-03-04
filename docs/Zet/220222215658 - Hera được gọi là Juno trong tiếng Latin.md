@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Hera
+backlinks:
+  - Zet/Garden/Nữ thần Hera
 title: Hera được gọi là Juno trong tiếng Latin
 UID: 220222215658
 created: 22-Feb-2022

@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Zeus
   - Zet/220227083536 - Trong Iliad của Homer, Aphrodite là con của Zeus và Dione
 title: Aphrodite là con gái của Zeus và Dione
 UID: 220222221341

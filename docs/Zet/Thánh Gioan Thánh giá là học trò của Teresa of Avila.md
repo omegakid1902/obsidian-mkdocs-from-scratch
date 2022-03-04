@@ -9,7 +9,7 @@ UID: 211023115323
 created: 23-Oct-2021
 tags:
   - 'created/2021/Oct/23'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

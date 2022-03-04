@@ -6,7 +6,7 @@ UID: 211120150140
 created: 20-Nov-2021
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - AC

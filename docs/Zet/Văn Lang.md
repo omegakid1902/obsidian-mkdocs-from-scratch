@@ -9,7 +9,7 @@ backlinks:
 title: Văn Lang
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

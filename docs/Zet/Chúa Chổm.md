@@ -7,7 +7,7 @@ backlinks:
 title: Chúa Chổm
 tags:
   - 'created/2021/Jul/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -7,10 +7,10 @@ title: Enoch
 UID: 211013224549
 tags:
   - 'created/2021/Oct/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Ê-nóc
 publish: True

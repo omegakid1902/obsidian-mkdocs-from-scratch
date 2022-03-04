@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Bảo Bình
+  - Zet/Garden/Thần Zeus
   - Zet/220222211050 - Prometheus ăn cắp lửa cho con người
 backlinks:
   - Zet/220222211348 - Heracles giải thoát Prometheus khỏi núi Caucasian

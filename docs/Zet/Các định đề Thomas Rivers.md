@@ -15,7 +15,7 @@ UID: 211016110917
 created: 16-Oct-2021
 tags:
   - 'created/2021/Oct/16'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 aliases:
   - Các định đề Thomas Rivers

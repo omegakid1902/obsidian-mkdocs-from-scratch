@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
 backlinks:
   - Zet/220301222943 - Typhon là con của Gaia và Tartarus
 title: Typhon là con cuối cùng của Gaia

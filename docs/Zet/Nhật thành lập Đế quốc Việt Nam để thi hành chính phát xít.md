@@ -6,10 +6,10 @@ UID: 210911140856
 created: 11-Sep-2021
 tags:
   - 'created/2021/Jul/17'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
-  - 
+  - null
 publish: True
 ---
 # Nhật thành lập Đế quốc Việt Nam để thi hành chính phát xít

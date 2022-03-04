@@ -12,11 +12,11 @@ UID: 211025220400
 created: Jun 19, 2021 9:08 PM
 tags:
   - 'created/2021/Jun/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
   - 'Qmap'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Adolf Hitler

@@ -16,10 +16,10 @@ title: Albert Camus
 created: June 30, 2021 9:34 PM
 tags:
   - 'created/2021/Jun/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Camus
 publish: True

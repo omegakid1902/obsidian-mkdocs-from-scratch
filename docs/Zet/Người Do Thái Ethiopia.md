@@ -9,7 +9,7 @@ title: Người Do Thái Ethiopia
 created: Jun 19, 2021 7:26 AM
 tags:
   - 'created/2021/Jun/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -15,7 +15,7 @@ UID: 2107251056
 created: 20-Nov-2021
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

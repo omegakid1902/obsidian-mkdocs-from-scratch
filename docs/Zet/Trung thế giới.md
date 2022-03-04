@@ -10,7 +10,7 @@ UID: 211019231030
 created: 19-Oct-2021
 tags:
   - 'created/2021/Oct/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Kay Pacha

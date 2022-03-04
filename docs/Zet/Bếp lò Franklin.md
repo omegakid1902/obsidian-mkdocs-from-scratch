@@ -5,7 +5,7 @@ title: Bếp lò Franklin
 created: August 6, 2021 10:22 PM
 tags:
   - 'created/2021/Aug/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

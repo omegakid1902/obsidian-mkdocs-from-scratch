@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220302205935 - Zeus sai Hephaestus tạo ra Pandora
 title: Zeus tạo ra Pandora làm vợ của Epimetheus
 UID: 220302210205

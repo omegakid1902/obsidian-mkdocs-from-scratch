@@ -3,10 +3,10 @@ title: Seneca
 UID: 2107111625
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death:
+birth: null
+death: null
 aliases:
   - Lucius Annaeus Seneca
 publish: True

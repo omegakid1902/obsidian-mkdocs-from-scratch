@@ -6,7 +6,7 @@ title: Ngô Đình Thục từng bị phạt vạ tuyệt thông
 created: Dec 12, 2020 11:45 AM
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

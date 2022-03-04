@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
 title: Cyclops được sinh ra bởi Gaia và Titan Uranus
 UID: 220122144533
 created: 22-Jan-2022

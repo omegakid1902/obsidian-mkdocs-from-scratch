@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Nữ thần Gaia
 backlinks:
   - Zet/220226214504 - Gaia sinh ra Uranus
 title: Uranus là con trai cũng là chồng của Gaia

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Hera
   - Zet/220303211918 - Gigantos Porphyrion xếp các quá núi leo lên Olympus để bắt Hera
   - Zet/220303212014 - Zeus ngăn chặn Gigantos Porphyrion bắt cóc Hera
 backlinks:

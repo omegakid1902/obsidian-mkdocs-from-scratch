@@ -3,10 +3,10 @@ title: Edward Bernays
 UID: 220105224448
 tags:
   - 'created/2022/Jan/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Edward Bernays

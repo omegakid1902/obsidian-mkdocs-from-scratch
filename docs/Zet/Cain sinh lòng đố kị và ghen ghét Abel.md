@@ -7,7 +7,7 @@ backlinks:
 title: Cain sinh lòng đố kị và ghen ghét Abel
 tags:
   - 'created/2021/Aug/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

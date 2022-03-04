@@ -10,7 +10,7 @@ UID: 220114222741
 created: 14-Jan-2022
 tags:
   - 'created/2022/Jan/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Định luật nhiệt động lực học

@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Atlas
 title: Atlas là một nhân vật trong 12 chiến công của Heracles
 UID: 220122145612
 created: 22-Jan-2022

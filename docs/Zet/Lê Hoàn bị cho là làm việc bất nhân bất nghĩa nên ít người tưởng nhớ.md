@@ -8,7 +8,7 @@ title: Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít ngư
 UID: 2107142114
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

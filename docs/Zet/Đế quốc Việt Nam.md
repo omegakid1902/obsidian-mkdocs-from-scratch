@@ -10,7 +10,7 @@ UID: P-210711-1014
 created: 11-Sep-2021
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 publish: True
 ---

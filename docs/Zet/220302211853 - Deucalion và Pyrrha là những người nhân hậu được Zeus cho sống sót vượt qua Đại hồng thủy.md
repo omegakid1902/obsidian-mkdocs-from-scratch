@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220302211230 - Trong thần thoại Hy Lạp, Deucalion và Pyrrha là đôi vợ chống sống sót sau Đại Hồng Thủy
   - Zet/Thinking/❕ 220302211422 - Deucalion và Pyrrha trong thần thoại Hy Lạp là phiên bản của Noah
 title: Deucalion và Pyrrha là những người nhân hậu được Zeus cho sống sót vượt qua Đại hồng thủy

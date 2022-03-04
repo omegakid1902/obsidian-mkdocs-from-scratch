@@ -7,7 +7,7 @@ title: Phim Thiên mệnh anh hùng
 UID: 2107142142
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

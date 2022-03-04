@@ -8,7 +8,7 @@ title: Thuyết Domino
 UID: 2107180952
 tags:
   - 'created/2021/Jul/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

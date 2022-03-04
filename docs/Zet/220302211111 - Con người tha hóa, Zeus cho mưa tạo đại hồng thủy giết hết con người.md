@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220302210649 - Sau khi chiếc hộp Pandora bị mở, con người càng trở nên tha hóa
 title: Con người tha hóa, Zeus cho mưa tạo đại hồng thủy giết hết con người
 UID: 220302211111

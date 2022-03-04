@@ -7,10 +7,10 @@ title: Henry Alfred Kissinger
 UID: 211009095616
 tags:
   - 'created/2021/Oct/09'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Heinz Alfred Kissinger
   - Kissinger

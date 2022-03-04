@@ -5,10 +5,10 @@ title: Buzz Aldrin
 UID: 211110232836
 tags:
   - 'created/2021/Nov/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Buzz Aldrin

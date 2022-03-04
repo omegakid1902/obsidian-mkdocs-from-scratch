@@ -13,7 +13,7 @@ UID: 211112232616
 created: 12-Nov-2021
 tags:
   - 'created/2021/Nov/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
   - Trước công đồng Vaticanô II, Lễ kính thiên thần Raphael là 24 tháng 10

@@ -6,7 +6,7 @@ title: Tam Hoàng Ngũ Đế
 UID: 210905223738
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Tam Hoàng Ngũ Đế

@@ -4,7 +4,7 @@ UID: 211001203814
 created: 01-Oct-2021
 tags:
   - 'created/2021/Oct/01'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/howto'
 aliases:
   - Github action

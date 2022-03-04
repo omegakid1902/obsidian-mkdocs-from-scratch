@@ -7,10 +7,10 @@ title: Nữ Oa
 UID: 210906222416
 tags:
   - 'created/2021/Sep/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Nữ Oa nương nương
 publish: True

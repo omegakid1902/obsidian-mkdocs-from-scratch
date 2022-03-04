@@ -5,7 +5,7 @@ title: Shell
 UID: 210830221056
 tags:
   - 'created/2021/Aug/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

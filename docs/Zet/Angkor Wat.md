@@ -9,7 +9,7 @@ title: Angkor Wat
 UID: 210908211804
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/place'
 publish: True
 ---

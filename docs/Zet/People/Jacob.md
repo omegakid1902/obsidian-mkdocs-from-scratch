@@ -12,10 +12,10 @@ title: Jacob
 UID: 211121104342
 tags:
   - 'created/2021/Nov/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Jacob

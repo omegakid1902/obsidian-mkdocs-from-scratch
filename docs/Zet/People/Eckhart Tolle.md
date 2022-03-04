@@ -5,7 +5,7 @@ title: Eckhart Tolle
 UID: 211022220317
 tags:
   - 'created/2021/Oct/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 publish: True
 ---

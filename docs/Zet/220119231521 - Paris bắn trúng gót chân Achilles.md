@@ -1,7 +1,8 @@
 ---
 outgoing_links:
   - Zet/People/Hoàng tử Paris
-title: 220119 - Paris bắn trúng gót chân Achilles
+  - Zet/Garden/Thần Apollo
+title: Paris bắn trúng gót chân Achilles
 UID: 220119233614
 created: 19-Jan-2022
 tags:

@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Nữ thần Hera
+  - Zet/Garden/Thần Zeus
   - Zet/220303210736 - Hera là vợ của Zeus
 title: Gaia tặng Hera một vườn cây có những cây táo vàng nhân ngày Hera cưới Zeus
 UID: 220303211205

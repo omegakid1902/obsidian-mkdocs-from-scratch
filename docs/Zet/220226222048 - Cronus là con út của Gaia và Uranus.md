@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
 backlinks:
   - Zet/220226222000 - Cronus nhận lời Gaia giết Uranus cha mình
   - Zet/Garden/Thần thoại Hy Lạp

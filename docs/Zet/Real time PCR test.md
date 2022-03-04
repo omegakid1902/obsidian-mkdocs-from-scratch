@@ -18,7 +18,7 @@ UID: 211017163408
 created: 17-Oct-2021
 tags:
   - 'created/2021/Oct/17'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - PCR test

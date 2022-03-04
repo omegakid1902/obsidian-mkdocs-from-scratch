@@ -15,9 +15,9 @@ title: Linh Từ Quốc mẫu
 UID: 210902132230
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
+birth: null
 death: 1259
 aliases:
   - Kiến Gia Hoàng hậu

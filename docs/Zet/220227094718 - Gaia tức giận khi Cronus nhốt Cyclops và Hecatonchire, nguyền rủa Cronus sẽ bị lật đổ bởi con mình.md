@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Titan Cronus
   - Zet/220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus
   - Zet/220227094251 - Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus
   - Zet/220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình

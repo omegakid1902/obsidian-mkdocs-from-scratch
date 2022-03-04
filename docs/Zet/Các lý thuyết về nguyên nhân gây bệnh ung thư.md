@@ -9,7 +9,7 @@ UID: 211010163138
 created: 10-Oct-2021
 tags:
   - 'created/2021/Oct/10'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

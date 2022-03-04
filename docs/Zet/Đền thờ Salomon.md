@@ -3,7 +3,7 @@ title: Đền thờ Salomon
 UID: 210902155439
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Đền thờ Salomon

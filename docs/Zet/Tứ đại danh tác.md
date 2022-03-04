@@ -7,7 +7,7 @@ title: Tứ đại danh tác
 UID: 210906225735
 tags:
   - 'created/2021/Sep/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Tứ đại danh tác

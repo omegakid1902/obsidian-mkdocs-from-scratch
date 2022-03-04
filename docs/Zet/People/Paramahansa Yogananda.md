@@ -3,10 +3,10 @@ title: Paramahansa Yogananda
 UID: 211218000333
 tags:
   - 'created/2021/Dec/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Paramahansa Yogananda

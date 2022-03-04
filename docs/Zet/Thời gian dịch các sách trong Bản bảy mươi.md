@@ -7,7 +7,7 @@ title: Thời gian dịch các sách trong Bản bảy mươi
 UID: 2107311633
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

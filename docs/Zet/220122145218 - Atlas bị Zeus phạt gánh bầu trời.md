@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Atlas
   - Zet/220122144855 - Atlas thuộc phe Titan đối đầu với Olympus
   - Zet/220228223446 - Atlas theo phe Titan chống Zeus
 title: Atlas bị Zeus phạt gánh bầu trời

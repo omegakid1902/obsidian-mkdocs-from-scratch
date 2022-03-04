@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/People/Plato
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Zeus
 backlinks:
   - Zet/Thinking/❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite
 title: Theo Plato, Aphrodite bọt biển và Aphrodite con Zeus là hai nhân vật khác nhau

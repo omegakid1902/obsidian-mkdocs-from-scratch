@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Bảo Bình
   - Zet/220222211050 - Prometheus ăn cắp lửa cho con người
 title: Zeus trừng phạt Prometheus vì đã lấy lửa của thần ban cho con người
 UID: 220302212314

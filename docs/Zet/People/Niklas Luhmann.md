@@ -12,10 +12,10 @@ title: Niklas Luhmann
 created: Oct 21, 2020 9:30 PM
 tags:
   - 'created/2020/Oct/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death:
+birth: null
+death: null
 aliases:
   - Luhmann
 publish: True

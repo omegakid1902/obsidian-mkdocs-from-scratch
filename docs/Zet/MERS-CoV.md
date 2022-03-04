@@ -9,7 +9,7 @@ title: MERS-CoV
 UID: 2107101351
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

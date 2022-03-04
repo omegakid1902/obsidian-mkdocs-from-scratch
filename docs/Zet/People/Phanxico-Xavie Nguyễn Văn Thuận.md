@@ -8,10 +8,10 @@ title: Phanxico-Xavie Nguyễn Văn Thuận
 created: Dec 12, 2020 11:54 AM
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Phanxico-Xavie Nguyễn Văn Thuận

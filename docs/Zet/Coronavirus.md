@@ -16,7 +16,7 @@ title: Coronavirus
 UID: 2107101256
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -13,10 +13,10 @@ title: John F. Kennedy
 UID: 211114152824
 tags:
   - 'created/2021/Nov/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - JFK
   - John Fitzgerald Kennedy

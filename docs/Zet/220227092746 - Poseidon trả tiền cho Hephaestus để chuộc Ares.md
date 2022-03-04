@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Poseidon
+  - Zet/Garden/Thần Ares
   - Zet/220227092321 - Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares
   - Zet/220227092540 - Sau khi bắt quả tang Aphrodite và Aries ngoại tình, Hephaestus bắt họ bằng lưới vàng và mời các thần chứng kiến
 title: Poseidon trả tiền cho Hephaestus để chuộc Ares

@@ -16,7 +16,7 @@ UID: 211029235040
 created: 29-Oct-2021
 tags:
   - 'created/2021/Oct/29'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - 12 chi tộc Israel

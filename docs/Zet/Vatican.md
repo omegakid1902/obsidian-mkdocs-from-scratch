@@ -15,7 +15,7 @@ UID: 211121131022
 created: 21-Nov-2021
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/place'
 publish: True
 ---

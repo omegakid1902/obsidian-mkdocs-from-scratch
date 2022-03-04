@@ -1,5 +1,5 @@
 ---
-title: 220119 - Mẹ của Achilles giấu cậu trong cung điện của Lycomedes
+title: Mẹ của Achilles giấu cậu trong cung điện của Lycomedes
 UID: 220119232626
 created: 19-Jan-2022
 tags:

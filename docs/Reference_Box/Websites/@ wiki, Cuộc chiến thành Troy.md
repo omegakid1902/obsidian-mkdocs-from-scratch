@@ -26,24 +26,24 @@ publish: True
 - Có thời điểm Achilles không chịu ra trận, người tình của Achilles là [[Patroclus]] sau khi bị [[Hoàng tử Hector]] giết, Achilles mới quay lại chiến trường. Achillies đấu tay đôi và giết Hector trả thù cho Patroclus
 - Cuộc chiến kéo dài 10 năm, quân Hy Lạp không thể chiếm được thành Troy. Họ làm một con ngựa lớn có một kẽ hở cho quân lính chui vào. Quân Hy Lạp giả rút quân để lại con ngựa. Quân thành Troy ra khỏi thành thấy con ngựa thì họ kéo vào thành. 
 - Nữ tiên tri Cassandra và tu sĩ Laocoon đã can ngăn nhưng không thành. Người thành Troy ăn mừng vì quân Hy Lạp đã rút lui. Nửa đêm, những binh lính trong con ngựa chui ra và mở cổng thành cho quân Hy Lạp tràn vào đốt phá thành. Paris được thần Apollo tiết lộ điểm yếu của Achilles ở nơi gót chân, Paris đã dùng cung bắn vào trúng gót chân và Achilles bị kết liễu.
-- Melenaus bắt được [[Hoàng hậu Helen]] nhưng vẫn còn yêu nên không giết nàng. Con của Hector bị giết để tế thần.
+- Melenaus bắt được [[Hoàng hậu Helene]] nhưng vẫn còn yêu nên không giết nàng. Con của Hector bị giết để tế thần.
 - Poseidon đã góp phần trong chiến thắng của quân Hy Lạp khi giết tu sĩ già, người ngăn cản quân thành Troy kéo con ngựa gỗ vào thành. Nhưng không ai nhắc tới công của Poseidon, dẫn đến quân Hy Lạp khi trở về quê hương bị chết gần hết. Chỉ còn Odysseus một phần may mắn và với sự giúp đỡ của nữ thần Athena về tới Ithaca.
 
 ## Permanent:
-- [[220119 - Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy]]
-- [[220119 - Cuộc chiến Troy xảy ra khoảng 1184 TCN]]
-- [[220119 - Xung đột giữa ba nữ thần gây ra cuộc chiến thành Troy]]
-- [[220119 - Cuộc chiến thành Troy là cuộc chiến của thần]]
-- [[220119 - Achilles đã đấu và kết liễu Hector trong trận tay đôi]]
-- [[220119 - Thành Troy được xây bởi Apollo và Poseidon]]
-- [[220119 - Paris nhờ Aphrodite chiếm hoàng hậu Helen]]
-- [[220119 - Achilles là con của vua Peleus và nữ thần Thetis]]
-- [[220119 - Achilles là bán thần]]
-- [[220119 - Achilles được tôi luyện mình đồng da sắt]]
-- [[220119 - Mẹ của Achilles giấu cậu trong cung điện của Lycomedes]]
-- [[220119 - Odysseus trở về được quê hương nhờ sự giúp đỡ của nữ thần Athena]]
-- [[220119 - Cassandra và Laocoon đã ngăn không cho đưa con ngựa gỗ vào thành Troy]]
-- [[220119 - Paris bắn trúng gót chân Achilles]]
+- [[220119225522 - Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy]]
+- [[220119225744 - Cuộc chiến Troy xảy ra khoảng 1184 TCN]]
+- [[220119230049 - Xung đột giữa ba nữ thần gây ra cuộc chiến thành Troy]]
+- [[220119230850 - Cuộc chiến thành Troy là cuộc chiến của thần]]
+- [[220119231339 - Achilles đã đấu và kết liễu Hector trong trận tay đôi]]
+- [[220119231521 - Thành Troy được xây bởi Apollo và Poseidon]]
+- [[220119231726 - Paris nhờ Aphrodite chiếm hoàng hậu Helen]]
+- [[220119232041 - Achilles là con của vua Peleus và nữ thần Thetis]]
+- [[220119232129 - Achilles là bán thần]]
+- [[220119232330 - Achilles được tôi luyện mình đồng da sắt]]
+- [[220119232626 - Mẹ của Achilles giấu cậu trong cung điện của Lycomedes]]
+- [[220119233102 - Odysseus trở về được quê hương nhờ sự giúp đỡ của nữ thần Athena]]
+- [[220119233404 - Cassandra và Laocoon đã ngăn không cho đưa con ngựa gỗ vào thành Troy]]
+- [[220119231521 - Paris bắn trúng gót chân Achilles]]
 
 ## Created:
 - [[2022-01-18]]

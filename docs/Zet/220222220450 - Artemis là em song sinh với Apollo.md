@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Apollo
 backlinks:
   - Zet/220303215902 - Hera xin Gaia tạo ra Python để đánh ghen Leto
 title: Artemis là em song sinh với Apollo

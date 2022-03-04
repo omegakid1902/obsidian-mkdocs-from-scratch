@@ -5,7 +5,7 @@ outgoing_links:
 title: Benjamin Franklin là thành viên Hội tam điểm
 tags:
   - 'created/2021/Aug/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

@@ -8,10 +8,10 @@ title: Theodor Herzl
 created: Jun 18, 2021 11:52 PM
 tags:
   - 'created/2021/Jun/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Theodor Herzl

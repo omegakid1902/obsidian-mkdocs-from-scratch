@@ -12,7 +12,7 @@ title: Adam Weishaupt
 UID: 211113154015
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1748-02-06
 death: 1830-11-18

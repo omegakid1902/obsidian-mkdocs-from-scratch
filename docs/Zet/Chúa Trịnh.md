@@ -12,10 +12,10 @@ backlinks:
   - Zet/People/Trịnh Kiểm
 title: Chúa Trịnh
 UID: P-210712-2120
-created: 
+created: null
 tags:
   - 'created/2021/Jul/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Chúa Trịnh

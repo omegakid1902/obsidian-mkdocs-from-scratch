@@ -7,7 +7,7 @@ outgoing_links:
 title: Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
 tags:
   - 'created/2021/Jul/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

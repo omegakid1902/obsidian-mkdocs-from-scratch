@@ -7,7 +7,7 @@ title: Homo Sapiens
 created: June 27, 2021 10:41 AM
 tags:
   - 'created/2021/Jun/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -15,7 +15,7 @@ title: Quan điểm cho rằng Nhà Triệu là triều đại chính thống l�
 UID: 2107251023
 tags:
   - 'created/2021/Jul/25'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

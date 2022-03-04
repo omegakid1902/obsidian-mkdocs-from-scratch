@@ -5,7 +5,7 @@ title: Định lý Thales
 UID: 2107102221
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -7,10 +7,10 @@ title: Mạnh mẫu
 UID: 2107111044
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Mạnh mẫu

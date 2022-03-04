@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần thoại Hy Lạp
+  - Zet/Garden/Thần Zeus
   - Zet/Satanism
 backlinks:
   - Zet/220227094101 - Saturn trong thần thoại La Mã tương đương với Cronus
@@ -10,7 +11,7 @@ UID: 211010225520
 created: 10-Oct-2021
 tags:
   - 'created/2021/Oct/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 aliases:

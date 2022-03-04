@@ -6,7 +6,7 @@ UID: 210927231239
 created: 27-Sep-2021
 tags:
   - 'created/2021/Sep/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 aliases:

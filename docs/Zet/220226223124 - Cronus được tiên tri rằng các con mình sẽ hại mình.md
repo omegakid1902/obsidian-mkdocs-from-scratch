@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
 backlinks:

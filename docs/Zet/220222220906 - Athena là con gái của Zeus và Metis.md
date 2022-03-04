@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Athena
+  - Zet/Garden/Thần Zeus
 title: Athena là con gái của Zeus và Metis
 UID: 220222220906
 created: 22-Feb-2022

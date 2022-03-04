@@ -16,7 +16,7 @@ title: Cải Cách Kháng Nghị
 created: Dec 06, 2020 10:47 PM
 tags:
   - 'created/2020/Dec/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

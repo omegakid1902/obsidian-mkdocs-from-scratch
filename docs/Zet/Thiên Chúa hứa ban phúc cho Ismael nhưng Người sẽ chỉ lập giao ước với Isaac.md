@@ -10,7 +10,7 @@ UID: 211007223753
 created: 07-Oct-2021
 tags:
   - 'created/2021/Oct/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'religion'
 publish: True

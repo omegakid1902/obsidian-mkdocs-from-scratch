@@ -9,10 +9,10 @@ title: Mikhail Gorbachev
 UID: 211122214505
 tags:
   - 'created/2021/Nov/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Mikhail Gorbachev

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Apollo
   - Zet/220303215902 - Hera xin Gaia tạo ra Python để đánh ghen Leto
   - Zet/220222220614 - Apollo là con trai của Zeus và Leto
 title: Apollo giết Python để trả thù cho Leto

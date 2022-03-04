@@ -9,7 +9,7 @@ title: Chúa Giáng Sinh
 UID: 2107111601
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Noel

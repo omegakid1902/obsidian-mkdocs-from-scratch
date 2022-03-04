@@ -6,7 +6,7 @@ title: ❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal
 created: June 27, 2021 10:50 PM
 tags:
   - 'created/2021/Jun/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 publish: True
 ---

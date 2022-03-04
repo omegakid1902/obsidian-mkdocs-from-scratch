@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Bảo Bình
 title: Zeus đã giao cho Prometheus và Epimetheus tạo ra con người
 UID: 220222210734
 created: 22-Feb-2022

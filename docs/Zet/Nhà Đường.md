@@ -9,7 +9,7 @@ backlinks:
 title: Nhà Đường
 tags:
   - 'created/2021/Jul/24'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/nation'
 publish: True
 ---

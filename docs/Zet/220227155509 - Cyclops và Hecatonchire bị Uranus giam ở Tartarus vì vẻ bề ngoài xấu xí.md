@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Địa ngục Tartarus
 backlinks:
   - Zet/220226220326 - Uranus bắt giam các Cyclops và Hecatonchire giam vào Tartarus
 title: Cyclops và Hecatonchire bị Uranus giam ở Tartarus vì vẻ bề ngoài xấu xí

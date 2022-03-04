@@ -10,7 +10,7 @@ title: Sông Nile
 created: July 27, 2021 10:49 PM
 tags:
   - 'created/2021/Jul/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

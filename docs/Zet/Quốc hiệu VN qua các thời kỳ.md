@@ -11,7 +11,7 @@ UID: 210926155940
 created: 26-Sep-2021
 tags:
   - 'created/2021/Sep/26'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/fact'
 publish: True
 ---

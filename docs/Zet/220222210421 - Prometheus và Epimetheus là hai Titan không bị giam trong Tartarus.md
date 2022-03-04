@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Địa ngục Tartarus
+  - Zet/Bảo Bình
   - Zet/220222210622 - Prometheus và Epimetheus là 2 Titan không tham gia cuộc chiến với Olympus
 backlinks:
   - Zet/220222210622 - Prometheus và Epimetheus là 2 Titan không tham gia cuộc chiến với Olympus

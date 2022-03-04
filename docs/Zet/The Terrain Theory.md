@@ -17,7 +17,7 @@ UID: 211010113408
 created: 10-Oct-2021
 tags:
   - 'created/2021/Oct/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Lý thuyết địa hình

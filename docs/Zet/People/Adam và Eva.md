@@ -19,10 +19,10 @@ title: Adam và Eva
 UID: 2108142139
 tags:
   - 'created/2021/Aug/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Adam
   - Eva

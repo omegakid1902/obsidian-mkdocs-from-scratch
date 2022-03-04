@@ -1,10 +1,11 @@
 ---
 outgoing_links:
-  - Zet/Garden/Cuộc chiến thành Troy
+  - Zet/Garden/Thần Apollo
+  - Zet/Garden/Thần Poseidon
 backlinks:
   - Zet/Garden/Cuộc chiến thành Troy
-title: 220119 - Cuộc chiến Troy xảy ra khoảng 1184 TCN
-UID: 220119225744
+title: Thành Troy được xây bởi Apollo và Poseidon
+UID: 220119231521
 created: 19-Jan-2022
 tags:
   - 'created/2022/Jan/19'
@@ -13,11 +14,10 @@ tags:
 publish: True
 ---
 ## Notes:
-Thời điểm xảy ra [[Cuộc chiến thành Troy]] là khoảng năm 1184 TCN.
+Tường [[Thành Troy]] rất kiên cố do được xây dựng bởi thần [[Thần Apollo]] và [[Thần Poseidon]]
 
 ## Source:
 - [[@ wiki, Cuộc chiến thành Troy]]
-
 
 
 ## Created:

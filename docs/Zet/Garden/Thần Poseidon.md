@@ -11,9 +11,10 @@ backlinks:
   - Zet/220228221849 - Cyclops tạo đinh ba cho Poseidon
   - Zet/220303204951 - Gia phả của Poseidon
   - Zet/220228222058 - Phe Zeus trong cuộc chiến chống lại các Titan
-  - Zet/220119 - Thành Troy được xây bởi Apollo và Poseidon
   - Zet/220227092540 - Sau khi bắt quả tang Aphrodite và Aries ngoại tình, Hephaestus bắt họ bằng lưới vàng và mời các thần chứng kiến
   - Zet/220222220052 - Poseidon là anh của Zeus và em của Hades
+  - Zet/220119231521 - Thành Troy được xây bởi Apollo và Poseidon
+  - Zet/220304210711 - Hermes từng ăn cắp đồ của của thần Apollo, Zeus, Ares, Poseidon
   - Zet/220303204410 - Nguyễn Văn Khỏa không thống nhất về thông tin người tạo ra đinh ba Poseidon
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
 title: Thần Poseidon

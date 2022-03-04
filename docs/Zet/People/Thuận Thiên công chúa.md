@@ -18,10 +18,10 @@ title: Thuận Thiên công chúa
 UID: 210902131203
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Lý Oánh
 publish: True

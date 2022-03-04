@@ -9,7 +9,7 @@ title: Người Do Thái Mizrahi
 created: Jun 19, 2021 9:02 AM
 tags:
   - 'created/2021/Jun/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

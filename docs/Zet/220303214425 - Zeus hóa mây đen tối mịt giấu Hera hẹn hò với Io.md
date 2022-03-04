@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Nữ thần Hera
   - Zet/220303214052 - Io là con gái thần Sông Inachos
   - Zet/220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io
 backlinks:

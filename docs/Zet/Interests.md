@@ -11,7 +11,7 @@ UID: 210911134848
 created: 11-Sep-2021
 tags:
   - 'created/2021/Sep/11'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
   - Interests

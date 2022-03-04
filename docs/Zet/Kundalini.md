@@ -8,7 +8,7 @@ UID: 211229221846
 created: 29-Dec-2021
 tags:
   - 'created/2021/Dec/29'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Kundalini yoga

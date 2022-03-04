@@ -26,10 +26,10 @@ title: Trần Thủ Độ
 UID: 2107090001
 tags:
   - 'created/2021/Jul/09'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death:
+birth: null
+death: null
 aliases:
   - Trung Vũ đại vương
   - Thái sư Trần Thủ Độ

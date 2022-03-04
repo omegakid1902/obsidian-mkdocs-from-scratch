@@ -12,7 +12,7 @@ aliases: 220228201456
 publish: True
 ---
 ## Notes:
-[[Eros]] là người con xinh đẹp nhất của [[Thần Hỗn Mang|Chaos]]
+[[Thần Eros]] là người con xinh đẹp nhất của [[Thần Hỗn Mang|Chaos]]
 
 ## Source:
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook Tve-4u) p.56

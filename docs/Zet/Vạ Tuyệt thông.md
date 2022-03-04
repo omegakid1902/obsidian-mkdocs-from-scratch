@@ -11,7 +11,7 @@ title: Vạ Tuyệt thông
 created: Dec 08, 2020 10:43 PM
 tags:
   - 'created/2020/Dec/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

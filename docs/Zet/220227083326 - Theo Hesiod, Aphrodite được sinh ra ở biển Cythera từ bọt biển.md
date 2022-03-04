@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220226222251 - Aphrodite có nghĩa là Sinh ra từ bọt biển
   - Zet/220226222653 - Tinh hoàn của Uranus rơi xuống biển, bọt biển sinh ra Aphrodite
 backlinks:

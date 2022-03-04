@@ -21,13 +21,13 @@ backlinks:
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Trần Cảnh
 title: Lý Chiêu Hoàng
-UID:  P-210708-2317
+UID: P-210708-2317
 tags:
   - 'created/2021/Jul/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Lý Phật Kim
   - Chiêu Thánh công chúa

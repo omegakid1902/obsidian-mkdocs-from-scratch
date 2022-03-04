@@ -15,7 +15,7 @@ UID: 211017224440
 created: 17-Oct-2021
 tags:
   - 'created/2021/Oct/17'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Centers for Disease Control and Prevention

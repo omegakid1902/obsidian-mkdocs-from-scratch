@@ -13,7 +13,7 @@ UID: 211012230027
 created: 12-Oct-2021
 tags:
   - 'created/2021/Oct/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Thư viện Akashic

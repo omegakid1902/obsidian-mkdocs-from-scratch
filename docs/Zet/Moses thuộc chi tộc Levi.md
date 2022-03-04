@@ -10,7 +10,7 @@ UID: 211120205151
 created: 20-Nov-2021
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
   - Moses là người Do thái thuộc chi tộc Levi

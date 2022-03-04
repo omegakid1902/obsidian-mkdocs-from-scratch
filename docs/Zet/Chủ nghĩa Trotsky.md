@@ -9,7 +9,7 @@ title: Chủ nghĩa Trotsky
 UID: 2107181040
 tags:
   - 'created/2021/Jul/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -7,10 +7,10 @@ title: Richard Feymann
 created: Jun 16, 2021 11:15 PM
 tags:
   - 'created/2021/Jun/16'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Richard Feymann

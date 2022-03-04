@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
 title: Zeus ban cho Hermes một đôi dép có cánh
 UID: 220302213932
 created: 02-Mar-2022

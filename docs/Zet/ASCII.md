@@ -3,7 +3,7 @@ title: ASCII
 UID: 210831204114
 tags:
   - 'created/2021/Aug/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: true
 ---

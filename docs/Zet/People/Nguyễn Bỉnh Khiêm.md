@@ -13,10 +13,10 @@ title: Nguyễn Bỉnh Khiêm
 UID: 211213220051
 tags:
   - 'created/2021/Dec/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Trạng Trình
   - Bạch Vân Cư Sĩ

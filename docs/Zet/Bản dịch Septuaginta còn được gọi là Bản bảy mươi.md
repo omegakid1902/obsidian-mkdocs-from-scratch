@@ -5,7 +5,7 @@ title: Bản dịch Septuaginta còn được gọi là Bản bảy mươi
 UID: 2107311630
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

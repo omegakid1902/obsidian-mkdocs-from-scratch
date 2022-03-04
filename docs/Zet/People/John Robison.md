@@ -3,10 +3,10 @@ title: John Robison
 UID: 211113160709
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # John Robison

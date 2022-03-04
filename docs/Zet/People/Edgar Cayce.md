@@ -6,10 +6,10 @@ title: Edgar Cayce
 UID: 220103155903
 tags:
   - 'created/2022/Jan/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Edgar Cayce

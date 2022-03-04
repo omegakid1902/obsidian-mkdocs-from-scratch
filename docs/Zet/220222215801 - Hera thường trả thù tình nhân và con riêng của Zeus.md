@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Hera
+  - Zet/Garden/Thần Zeus
   - Zet/220222215419 - Zeus là em trai và là chồng của Hera
 backlinks:
   - Zet/220303210736 - Hera là vợ của Zeus

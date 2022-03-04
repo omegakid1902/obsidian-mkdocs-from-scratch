@@ -7,7 +7,7 @@ backlinks:
 title: Công Đồng Nicea 325
 tags:
   - 'created/2021/Jan/01'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
   - Counsil of Nicaea

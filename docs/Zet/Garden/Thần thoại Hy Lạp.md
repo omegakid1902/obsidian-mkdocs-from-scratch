@@ -1,5 +1,9 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Địa ngục Tartarus
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Titan Cronus
   - Zet/220226215334 - Chaos sinh ra Gaia, Nyx, Erebus, Tartarus, Eros
   - Zet/220226214358 - Gaia là nữ thần đất mẹ
   - Zet/220226214504 - Gaia sinh ra Uranus
@@ -16,6 +20,7 @@ outgoing_links:
   - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/Thinking/❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite
 backlinks:
   - Zet/220302211230 - Trong thần thoại Hy Lạp, Deucalion và Pyrrha là đôi vợ chống sống sót sau Đại Hồng Thủy
@@ -27,9 +32,11 @@ backlinks:
   - Zet/220227081548 - Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp
   - Zet/220226213719 - Nữ thần Selene là thần Mặt trăng trong thần thoại Hy Lạp
   - Zet/220303203421 - Theo thần thoại Hy Lạp, Epaphos là vua đầu tiên của Ai Cập
+  - Zet/Bảo Bình
   - Zet/220302203704 - Có 5 thời đại trước khi con người được tạo ra trong Thần Thoại Hy Lạp
   - Zet/220303210303 - Thanatos là thần chết
   - Zet/220226215142 - Gia Phả Thần thoại Hy Lạp
+  - Zet/Garden/Thần Atlas
   - Zet/Thinking/❕ 220302211422 - Deucalion và Pyrrha trong thần thoại Hy Lạp là phiên bản của Noah
 title: Thần thoại Hy Lạp
 UID: 220227152431
@@ -47,7 +54,7 @@ publish: True
 | UID             | Description                                                                                                                                                       |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                 | Khởi sinh bắt đầu từ [[Thần Hỗn Mang]] - Chaos, khoảng không vô tận                                                                                               |
-| [^220226215334] | Chaos sinh ra [[Nữ thần Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus]], [[Eros]].                                                                             |
+| [^220226215334] | Chaos sinh ra [[Nữ thần Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus]], [[Thần Eros]].                                                                             |
 | [^220226214358] | Gaia là nữ thần đất mẹ                                                                                                                                            |
 | [^220226214504] | Gaia sinh ra [[Thần bầu trời Uranus]]                                                                                                                             |
 | [^220226215707] | Gaia và Uranus sinh ra 12 [[Người khổng lồ Titan]], 3 [[Người khổng lồ Cyclops]] và 3 [[Hecatonchire]]                                                            |

@@ -9,7 +9,7 @@ title: Homo Neanderthal
 created: June 27, 2021 10:48 PM
 tags:
   - 'created/2021/Jun/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Người Neanderthal

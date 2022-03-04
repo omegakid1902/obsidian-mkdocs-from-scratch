@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon
   - Zet/220301223350 - Các thần Olympus chốn sang Ai Cập còn Zeus ở lại đấu với Typhon
   - Zet/220301224355 - Zeus chỉ thua Typhon trong lần đối đầu đầu tiên, lần 2 Zeus thắng

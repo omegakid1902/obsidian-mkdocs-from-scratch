@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/Garden/Nữ thần Ishtar
 title: Aphrodite có liên hệ với Inanna và Ishtar của Sumer
 UID: 220227090650

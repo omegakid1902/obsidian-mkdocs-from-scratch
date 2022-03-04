@@ -9,7 +9,7 @@ title: Vaccine virus bất hoạt
 UID: 2107100952
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

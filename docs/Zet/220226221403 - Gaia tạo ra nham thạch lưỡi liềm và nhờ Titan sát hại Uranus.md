@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
   - Zet/220226220326 - Uranus bắt giam các Cyclops và Hecatonchire giam vào Tartarus
   - Zet/220226220658 - Cyclops và Hecatonchire bị nhốt trong Tartarus, Gaia nhận những cơn đau vì chúng là con bà
   - Zet/220226221101 - Gaia nảy sinh ý định nhờ Titan ngăn chặn hành động tàn ác của Uranus

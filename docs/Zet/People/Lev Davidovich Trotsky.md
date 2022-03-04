@@ -10,10 +10,10 @@ title: Lev Davidovich Trotsky
 UID: 211119224647
 tags:
   - 'created/2021/Nov/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Trotsky
 publish: True

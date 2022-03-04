@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Nữ thần Gaia
   - Zet/220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan
   - Zet/220301221942 - Gaia nhờ các Gigantos giải thoát các Titan khỏi sự trừng phạt của Zeus
   - Zet/220301222444 - Phe Zeus tiếp tục chiến thắng trong cuộc giao tranh với Gigantos

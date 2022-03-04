@@ -8,7 +8,7 @@ title: Lúcia dos Santos
 UID: 220110231316
 tags:
   - 'created/2022/Jan/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1907-03-28
 death: 2005-02-13

@@ -3,7 +3,7 @@ title: Chất dự trữ trong tế bào nấm là glycogen
 UID: 210902100627
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

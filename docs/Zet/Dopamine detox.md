@@ -6,7 +6,7 @@ UID: 2108102159
 created: August 2, 2021 10:14 PM
 tags:
   - 'created/2021/Aug/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -11,11 +11,11 @@ backlinks:
   - Zet/Ba Chân lý của thông thiên học
   - Zet/Khủng hoảng hiện sinh có nhiều điểm tương đồng với thức tỉnh tâm linh
 title: Khủng hoảng hiện sinh
-UID: 
+UID: null
 created: Jan 07, 2021 10:29 PM
 tags:
   - 'created/2021/Jan/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Existential Crisis

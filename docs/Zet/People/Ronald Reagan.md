@@ -5,10 +5,10 @@ title: Ronald Reagan
 UID: 211127210308
 tags:
   - 'created/2021/Nov/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Ronald Reagan

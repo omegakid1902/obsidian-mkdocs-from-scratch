@@ -6,7 +6,7 @@ UID: 211127163605
 created: 27-Nov-2021
 tags:
   - 'created/2021/Nov/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - League of Nations

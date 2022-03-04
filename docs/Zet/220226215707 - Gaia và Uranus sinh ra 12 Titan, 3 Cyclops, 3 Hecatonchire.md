@@ -1,5 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Titan Oceanus
+  - Zet/Garden/Titan Rhea
+  - Zet/Garden/Titan Cronus
   - Zet/220226214758 - Uranus và Gaia sinh ra các Titan, các Cyclops, Hecatonchire
   - Zet/220228203437 - Tên của 3 Cyclops
 backlinks:

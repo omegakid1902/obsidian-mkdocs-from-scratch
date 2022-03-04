@@ -8,7 +8,7 @@ title: Đại vương cung thánh đường
 created: Dec 12, 2020 11:28 AM
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

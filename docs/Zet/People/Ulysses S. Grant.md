@@ -4,10 +4,10 @@ backlinks:
 title: Ulysses S. Grant
 tags:
   - 'created/2021/Aug/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Ulysses Simpson Grant
   - Hiram Ulysses Grant

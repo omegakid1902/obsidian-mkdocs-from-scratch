@@ -10,10 +10,10 @@ title: Teresa of Avila
 UID: 211023115409
 tags:
   - 'created/2021/Oct/23'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Teresa of Avila

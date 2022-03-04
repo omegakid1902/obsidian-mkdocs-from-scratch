@@ -4,7 +4,7 @@ UID: 211120160541
 created: 20-Nov-2021
 tags:
   - 'created/2021/Nov/20'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 publish: True
 ---

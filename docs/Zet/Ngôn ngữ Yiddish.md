@@ -7,7 +7,7 @@ title: Ngôn ngữ Yiddish
 created: Jun 19, 2021 8:04 AM
 tags:
   - 'created/2021/Jun/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

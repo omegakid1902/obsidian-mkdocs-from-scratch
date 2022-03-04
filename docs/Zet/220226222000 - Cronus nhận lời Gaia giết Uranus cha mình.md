@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
   - Zet/220226222048 - Cronus là con út của Gaia và Uranus
 backlinks:
   - Zet/220227094251 - Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus

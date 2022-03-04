@@ -8,7 +8,7 @@ title: Giải Nobel
 created: Jun 16, 2021 11:19 PM
 tags:
   - 'created/2021/Jun/16'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

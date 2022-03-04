@@ -1,9 +1,12 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
   - Zet/220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus
   - Zet/220228221440 - Cyclops chế tạo mũ tàng hình cho Hades
   - Zet/220122144630 - Cyclops giỏi chế tạo vũ khí
   - Zet/220228221849 - Cyclops tạo đinh ba cho Poseidon
+backlinks:
+  - Zet/220304203917 - Apollo giết 3 Cyclops để trả thù cho con mình
 title: Các Cyclops tạo ra chớp, sấm và sét cho Zeus
 UID: 220228221526
 created: 28-Feb-2022

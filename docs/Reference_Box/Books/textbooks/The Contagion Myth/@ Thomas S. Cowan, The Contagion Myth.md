@@ -938,7 +938,7 @@ https://www.youtube.com/watch?v=3STOGvsVCPs&feature=youtu.be
 43
  Denis G. Rancourt, PhD, “Masks Don’t Work: A Review of Science Relevant to COVID-19 Social Policy,” River Cities’ Reader, June 11, 2020, https://www.rcreader.com/commentary/masks-dont-work-covid-a-review-of-science-relevant-to-covide-19-social-policy.
 44
- Zy Marquiez, “3 Studies Reveal How Social Distancing (i.e. Social Isolation) Can Increase Mortality | #SocialDistancing,” GreenMedInfo.com, April 3, 2020, https://breakawayindividual.com/2020/04/07/13-studies-reveal-how-social-distancing-i-e-social-isolation-can-increase-mortality-socialdistancing/.
+ Zy Marquiez, “3 Studies Reveal How Social Distancing (i.e. Social Isolation) Can Increase Mortality | SocialDistancing,” GreenMedInfo.com, April 3, 2020, https://breakawayindividual.com/2020/04/07/13-studies-reveal-how-social-distancing-i-e-social-isolation-can-increase-mortality-socialdistancing/.
 45
  Peter Sullivan, “WHO official: Asymptomatic spread of coronavirus ‘very rare,’” The Hill, June 8, 2020, https://www.msn.com/en-us/news/politics/who-official-asymptomatic-spread-of-coronavirus-very-rare/ar-BB15cBHW.
 46

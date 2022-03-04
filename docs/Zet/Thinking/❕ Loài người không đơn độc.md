@@ -6,7 +6,7 @@ title: ❕ Loài người không đơn độc
 created: June 27, 2021 10:52 AM
 tags:
   - 'created/2021/Jun/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 publish: True
 ---

@@ -14,10 +14,10 @@ title: Ngô Sĩ Liên
 UID: 2107152343
 tags:
   - 'created/2021/Jul/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Ngô Sĩ Liên

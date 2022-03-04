@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
 title: Các thần biển Nereus, Thaumas, Phorcys, Ceto và Euribya là con của Gaia và Pontus
 UID: 220227081820
 created: 27-Feb-2022

@@ -4,7 +4,7 @@ UID: 211229220046
 created: 29-Dec-2021
 tags:
   - 'created/2021/Dec/29'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Người Pleiades

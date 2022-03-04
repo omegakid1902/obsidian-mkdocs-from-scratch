@@ -6,7 +6,7 @@ title: Baba Vanga
 UID: 211015223859
 tags:
   - 'created/2021/Oct/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1911-01-31
 death: 1996-08-11

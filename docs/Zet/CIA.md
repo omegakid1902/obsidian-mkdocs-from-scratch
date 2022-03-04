@@ -7,7 +7,7 @@ UID: 211119225910
 created: 19-Nov-2021
 tags:
   - 'created/2021/Nov/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Cơ quan tình báo Hoa kỳ

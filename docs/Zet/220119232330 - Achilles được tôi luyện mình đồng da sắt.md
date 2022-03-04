@@ -1,5 +1,5 @@
 ---
-title: 220119 - Achilles được tôi luyện mình đồng da sắt
+title: Achilles được tôi luyện mình đồng da sắt
 UID: 220119232330
 created: 19-Jan-2022
 tags:

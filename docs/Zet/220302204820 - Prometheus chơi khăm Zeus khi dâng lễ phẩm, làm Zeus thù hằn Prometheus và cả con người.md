@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Bảo Bình
 title: Prometheus chơi khăm Zeus khi dâng lễ phẩm, làm Zeus thù hằn Prometheus và cả con người
 UID: 220302204820
 created: 02-Mar-2022

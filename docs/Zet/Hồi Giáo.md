@@ -23,7 +23,7 @@ UID: 201225213853
 created: 25-Dec-2021
 tags:
   - 'created/2020/Dec/25'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
   - Islam

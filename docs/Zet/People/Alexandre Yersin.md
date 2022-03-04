@@ -9,7 +9,7 @@ title: Alexandre Yersin
 UID: 211127091508
 tags:
   - 'created/2021/Nov/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1863-09-22
 death: 1943-03-01

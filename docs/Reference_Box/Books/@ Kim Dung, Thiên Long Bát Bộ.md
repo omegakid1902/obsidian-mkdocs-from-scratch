@@ -2,7 +2,7 @@
 UID: 210816221258
 tags:
   - '#created/2021/Aug/16'
-  - '#permanent/book'
+  - 'source/book'
   - '#flashcards'
 aliases:
   - Thiên Long Bát Bộ

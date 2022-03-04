@@ -8,7 +8,7 @@ title: Ignatius of Loyola
 UID: 211024215353
 tags:
   - 'created/2021/Oct/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
   - 'Qmap'
 birth: 1491

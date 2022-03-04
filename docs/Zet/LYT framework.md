@@ -10,7 +10,7 @@ UID: 211120162122
 created: 20-Nov-2021
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Fluid frameworks

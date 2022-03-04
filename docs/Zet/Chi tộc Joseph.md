@@ -13,7 +13,7 @@ UID: 211121104012
 created: 21-Nov-2021
 tags:
   - 'created/2021/Nov/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Joseph

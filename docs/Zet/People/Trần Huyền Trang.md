@@ -8,10 +8,10 @@ title: Trần Huyền Trang
 UID: 210906230319
 tags:
   - 'created/2021/Sep/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Đường Tăng
   - Đường Tam Tạng

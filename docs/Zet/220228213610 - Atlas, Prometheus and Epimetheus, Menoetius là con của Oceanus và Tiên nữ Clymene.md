@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Atlas
+  - Zet/Bảo Bình
 title: Atlas, Prometheus and Epimetheus, Menoetius là con của Oceanus và Tiên nữ Clymene
 UID: 220228213610
 created: 28-Feb-2022

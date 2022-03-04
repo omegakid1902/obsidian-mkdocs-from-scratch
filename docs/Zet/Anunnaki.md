@@ -6,7 +6,7 @@ UID: 211025225734
 created: 25-Oct-2021
 tags:
   - 'created/2021/Oct/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 publish: True

@@ -10,7 +10,7 @@ UID: 220115223955
 created: 15-Jan-2022
 tags:
   - 'created/2022/Jan/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 publish: True
 ---

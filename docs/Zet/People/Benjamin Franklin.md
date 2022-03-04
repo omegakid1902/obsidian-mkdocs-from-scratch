@@ -13,10 +13,10 @@ UID: 210908193844
 created: August 6, 2021 10:25 PM
 tags:
   - 'created/2021/Aug/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Benjamin Franklin

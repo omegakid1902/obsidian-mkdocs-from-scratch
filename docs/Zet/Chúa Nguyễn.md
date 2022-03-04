@@ -16,7 +16,7 @@ title: Chúa Nguyễn
 UID: 2107140826
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Chúa Nguyễn

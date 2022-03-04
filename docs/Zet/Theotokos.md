@@ -5,7 +5,7 @@ title: Theotokos
 created: Dec 06, 2020 1:13 AM
 tags:
   - 'created/2020/Dec/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

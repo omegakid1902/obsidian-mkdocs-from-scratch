@@ -7,10 +7,10 @@ title: Điêu Thuyền
 UID: 210828132434
 tags:
   - 'created/2021/Aug/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Điêu Thuyền

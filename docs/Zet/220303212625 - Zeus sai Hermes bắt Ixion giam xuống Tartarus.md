@@ -1,11 +1,13 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Địa ngục Tartarus
   - Zet/220303212520 - Ixion mưu tính chuyện bỉ ổi với Hera
   - Zet/220303212426 - Zeus tạo ra đám mây Nephele giống hệt Hera
-  - Zet/220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaure
+  - Zet/220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaur
 backlinks:
   - Zet/220303212520 - Ixion mưu tính chuyện bỉ ổi với Hera
-  - Zet/220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaure
+  - Zet/220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaur
 title: Zeus sai Hermes bắt Ixion giam xuống Tartarus
 UID: 220303212625
 created: 03-Mar-2022
@@ -25,6 +27,6 @@ Sau khi phát hiện được mưu đồ xấu của Ixion với Hera vợ mình
 ## Relate:
 - [[220303212520 - Ixion mưu tính chuyện bỉ ổi với Hera]]
 - [[220303212426 - Zeus tạo ra đám mây Nephele giống hệt Hera]]
-- [[220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaure]]
+- [[220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaur]]
 ## Created:
 - [[2022-03-03]]

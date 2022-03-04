@@ -7,10 +7,10 @@ UID: 2107041356
 created: Nov 06, 2020 10:05 PM
 tags:
   - 'created/2020/Nov/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # William Penn

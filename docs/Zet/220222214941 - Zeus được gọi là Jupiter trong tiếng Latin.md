@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
 title: Zeus được gọi là Jupiter trong tiếng Latin
 UID: 220222214941
 created: 22-Feb-2022

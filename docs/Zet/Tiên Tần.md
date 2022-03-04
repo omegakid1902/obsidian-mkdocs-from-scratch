@@ -8,7 +8,7 @@ title: Tiên Tần
 UID: 210828111522
 tags:
   - 'created/2021/Aug/28'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/concept'
 aliases:
   - Tiên Tần

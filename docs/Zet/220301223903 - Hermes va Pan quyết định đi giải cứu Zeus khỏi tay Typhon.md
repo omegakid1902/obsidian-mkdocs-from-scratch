@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon
   - Zet/220301223636 - Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile
 backlinks:

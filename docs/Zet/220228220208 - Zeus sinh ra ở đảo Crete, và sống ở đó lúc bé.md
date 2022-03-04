@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Titan Cronus
   - Zet/220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt
 title: Zeus sinh ra ở đảo Crete, và sống ở đó lúc bé
 UID: 220228220208

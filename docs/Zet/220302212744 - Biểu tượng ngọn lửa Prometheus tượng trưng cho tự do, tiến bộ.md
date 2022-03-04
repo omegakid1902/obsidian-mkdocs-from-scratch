@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Bảo Bình
   - Zet/220222211050 - Prometheus ăn cắp lửa cho con người
 title: Biểu tượng ngọn lửa Prometheus tượng trưng cho tự do, tiến bộ
 UID: 220302212744

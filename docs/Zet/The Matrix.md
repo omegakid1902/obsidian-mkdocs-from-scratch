@@ -4,7 +4,7 @@ UID: 211107215006
 created: 07-Nov-2021
 tags:
   - 'created/2021/Nov/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Ma trận

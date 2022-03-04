@@ -12,7 +12,7 @@ backlinks:
 title: Nhà Đinh
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 publish: True
 ---

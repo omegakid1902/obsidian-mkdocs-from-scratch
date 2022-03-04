@@ -6,7 +6,7 @@ UID: 211118235702
 created: 18-Nov-2021
 tags:
   - 'created/2021/Nov/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 aliases:

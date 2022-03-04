@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Oceanus
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
   - Zet/220228202240 - Các nam thần Titan và các nữ thần Titanide
   - Zet/220228211255 - Do 2 titanide Themis và Mnemosyne không chịu kết hôn nên Crius và Iapetus phải lấy người ngoài
 backlinks:

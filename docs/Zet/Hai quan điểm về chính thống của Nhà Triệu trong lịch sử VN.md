@@ -10,7 +10,7 @@ title: Hai quan điểm về chính thống của Nhà Triệu trong lịch sử
 UID: 210725-1020
 tags:
   - 'created/2021/Jul/25'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

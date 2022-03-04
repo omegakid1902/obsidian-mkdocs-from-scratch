@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220227091115 - Aphrodite thường được cho là sinh ra ở đảo Síp
 backlinks:
   - Zet/220227091115 - Aphrodite thường được cho là sinh ra ở đảo Síp

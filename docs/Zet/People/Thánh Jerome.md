@@ -9,10 +9,10 @@ title: Thánh Jerome
 UID: 2107312044
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Giêrônimô
 publish: True

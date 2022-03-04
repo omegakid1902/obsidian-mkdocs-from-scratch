@@ -5,7 +5,7 @@ title: Autophagy
 UID: 210903093535
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

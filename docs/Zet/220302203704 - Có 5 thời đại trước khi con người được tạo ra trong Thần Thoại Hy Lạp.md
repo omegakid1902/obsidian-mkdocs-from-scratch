@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần thoại Hy Lạp
+  - Zet/Garden/Titan Cronus
 title: Có 5 thời đại trước khi con người được tạo ra trong Thần Thoại Hy Lạp
 UID: 220302203704
 created: 02-Mar-2022

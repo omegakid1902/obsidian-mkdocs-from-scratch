@@ -3,7 +3,7 @@ title: Chữ nổi Braille
 UID: 2108071316
 tags:
   - 'created/2021/Aug/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: true
 ---

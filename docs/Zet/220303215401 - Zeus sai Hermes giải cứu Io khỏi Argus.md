@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220303214824 - Khi Hera đến, Zeus biến Io thành 1 con bò trắng để giấu hiện trường ngoại tình
   - Zet/220303215126 - Hera giao con bò trắng cho Argus canh giữ
 title: Zeus sai Hermes giải cứu Io khỏi Argus

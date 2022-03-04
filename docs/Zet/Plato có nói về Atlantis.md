@@ -13,7 +13,7 @@ UID: 211027215101
 created: 27-Oct-2021
 tags:
   - 'created/2021/Oct/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
   - 'Qmap'
   - 'todo/research'

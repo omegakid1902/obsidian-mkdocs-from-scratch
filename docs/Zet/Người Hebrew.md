@@ -8,7 +8,7 @@ UID: 2106212116
 created: Jun 21, 2021 9:16 PM
 tags:
   - 'created/2021/Jun/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

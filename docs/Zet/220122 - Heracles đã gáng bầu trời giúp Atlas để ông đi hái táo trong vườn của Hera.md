@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Atlas
+  - Zet/Garden/Nữ thần Hera
 title: Heracles đã gáng bầu trời giúp Atlas để ông đi hái táo trong vườn của Hera
 UID: 220122145735
 created: 22-Jan-2022

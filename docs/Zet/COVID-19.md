@@ -21,7 +21,7 @@ title: COVID 19
 UID: 2107101155
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

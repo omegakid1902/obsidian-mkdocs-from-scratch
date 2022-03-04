@@ -12,7 +12,7 @@ UID: 211123224544
 created: 23-Nov-2021
 tags:
   - 'created/2021/Nov/23'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Cold War

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Hera
   - Zet/220222215801 - Hera thường trả thù tình nhân và con riêng của Zeus
   - Zet/220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io
 title: Hera đánh ghen nàng Io

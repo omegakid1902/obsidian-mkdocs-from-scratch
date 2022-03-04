@@ -8,10 +8,10 @@ title: Trần Thủ Huy
 UID: 211125220933
 tags:
   - 'created/2021/Nov/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Trần Thủ Huy

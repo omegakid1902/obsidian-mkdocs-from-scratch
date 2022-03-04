@@ -1,5 +1,9 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Titan Oceanus
+  - Zet/Garden/Titan Rhea
   - Zet/220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire
 backlinks:
   - Zet/220228210518 - Các cặp phối ngẫu giữa Titan và Titanide

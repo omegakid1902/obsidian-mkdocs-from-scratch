@@ -10,7 +10,7 @@ UID: 211124222418
 created: 24-Nov-2021
 tags:
   - 'created/2021/Nov/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -8,10 +8,10 @@ title: Grego Mendel
 UID: 220113002103
 tags:
   - 'created/2022/Jan/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Grego Mendel

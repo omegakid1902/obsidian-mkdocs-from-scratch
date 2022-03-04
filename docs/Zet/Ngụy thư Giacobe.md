@@ -8,7 +8,7 @@ title: Ngụy thư Giacobe
 created: Dec 25, 2020 11:28 AM
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

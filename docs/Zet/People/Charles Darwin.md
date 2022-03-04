@@ -15,10 +15,10 @@ title: Charles Darwin
 UID: 210908201024
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Charles Darwin

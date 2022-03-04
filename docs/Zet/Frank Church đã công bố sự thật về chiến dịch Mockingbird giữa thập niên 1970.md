@@ -8,7 +8,7 @@ UID: 211114120149
 created: 14-Nov-2021
 tags:
   - 'created/2021/Nov/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

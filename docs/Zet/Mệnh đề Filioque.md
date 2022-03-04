@@ -7,7 +7,7 @@ title: Mệnh đề Filioque
 created: Dec 06, 2020 12:30 AM
 tags:
   - 'created/2020/Dec/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

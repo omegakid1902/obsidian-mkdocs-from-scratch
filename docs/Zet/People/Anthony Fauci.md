@@ -9,10 +9,10 @@ title: Anthony Fauci
 UID: 211014235000
 tags:
   - 'created/2021/Oct/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Anthony Fauci

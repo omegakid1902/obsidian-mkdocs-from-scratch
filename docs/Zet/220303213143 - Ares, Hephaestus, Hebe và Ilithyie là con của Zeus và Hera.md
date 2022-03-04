@@ -1,6 +1,11 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Ares
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Nữ thần Hera
 backlinks:
   - Zet/220303213647 - Nữ thần Ilithyie là nữ thần hộ sinh
+  - Zet/220304211131 - Ares là con của Zeus và Hera
   - Zet/220303213611 - Nữ thần Hebe phục vụ nước và thức ăn trên đỉnh Olympus
 title: Ares, Hephaestus, Hebe và Ilithyie là con của Zeus và Hera
 UID: 220303213143

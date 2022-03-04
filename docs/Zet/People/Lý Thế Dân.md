@@ -8,7 +8,7 @@ title: Lý Thế Dân
 UID: 210828135532
 tags:
   - 'created/2021/Aug/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 0900-01-28
 death: '649-07-10'

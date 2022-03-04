@@ -5,7 +5,7 @@ title: Từ Mahatma trong tên Gandhi được người Ấn đặt để thể 
 UID: 2107251424
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

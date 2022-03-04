@@ -9,7 +9,7 @@ title: SM-Algorithm
 created: Nov 20, 2020 11:54 PM
 tags:
   - 'created/2020/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - SM

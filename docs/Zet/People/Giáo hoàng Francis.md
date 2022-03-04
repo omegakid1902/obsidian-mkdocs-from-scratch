@@ -7,10 +7,10 @@ title: Giáo hoàng Francis
 UID: 211024223150
 tags:
   - 'created/2021/Oct/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Giáo hoàng Phanxicô
   - Pope Francis

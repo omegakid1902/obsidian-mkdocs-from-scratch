@@ -7,10 +7,10 @@ title: Albert Einstein
 UID: 211015223014
 tags:
   - 'created/2021/Oct/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Albert Einstein

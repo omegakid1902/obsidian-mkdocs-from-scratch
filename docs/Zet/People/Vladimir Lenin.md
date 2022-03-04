@@ -9,10 +9,10 @@ title: Vladimir Lenin
 UID: 211119224848
 tags:
   - 'created/2021/Nov/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Vladimir Ilyich Lenin
   - Lenin

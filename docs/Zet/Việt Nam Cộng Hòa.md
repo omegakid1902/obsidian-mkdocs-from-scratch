@@ -10,7 +10,7 @@ backlinks:
 title: Việt Nam Cộng Hòa
 tags:
   - 'created/2021/Jun/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

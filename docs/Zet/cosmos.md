@@ -7,7 +7,7 @@ title: cosmos
 created: Nov 28, 2020 12:17 AM
 tags:
   - 'created/2020/Nov/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Atlas
+  - Zet/Garden/Thần Zeus
   - Zet/220122144855 - Atlas thuộc phe Titan đối đầu với Olympus
 backlinks:
   - Zet/220122145218 - Atlas bị Zeus phạt gánh bầu trời

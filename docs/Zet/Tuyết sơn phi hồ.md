@@ -8,7 +8,7 @@ title: Tuyết sơn phi hồ
 UID: 2108120819
 tags:
   - 'created/2021/Aug/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

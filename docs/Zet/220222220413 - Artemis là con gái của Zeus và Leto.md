@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
 title: Artemis là con gái của Zeus và Leto
 UID: 220222220413
 created: 22-Feb-2022
@@ -14,7 +16,7 @@ publish: True
 
 ## Source:
 - [[@ wiki, Mười hai vị thần trên đỉnh Olympus]]
-
+- [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.205
 
 
 

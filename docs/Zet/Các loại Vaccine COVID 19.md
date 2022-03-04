@@ -15,7 +15,7 @@ title: Các loại Vaccine COVID 19
 UID: 2107100843
 tags:
   - 'created/2021/Jul/10'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 publish: True
 ---

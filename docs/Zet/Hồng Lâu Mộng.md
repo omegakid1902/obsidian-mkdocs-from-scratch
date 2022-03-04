@@ -7,7 +7,7 @@ title: Hồng Lâu Mộng
 UID: 210906224835
 tags:
   - 'created/2021/Sep/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Thạch đầu ký

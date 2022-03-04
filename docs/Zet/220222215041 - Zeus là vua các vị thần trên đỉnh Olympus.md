@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
 title: Zeus là vua các vị thần trên đỉnh Olympus
 UID: 220222215041
 created: 22-Feb-2022

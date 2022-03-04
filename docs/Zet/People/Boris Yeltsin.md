@@ -5,10 +5,10 @@ title: Boris Yeltsin
 UID: 211122214339
 tags:
   - 'created/2021/Nov/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Boris Yeltsin

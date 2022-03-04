@@ -11,10 +11,10 @@ title: Alberto Rivera
 UID: 211027225951
 tags:
   - 'created/2021/Oct/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Alberto Rivera

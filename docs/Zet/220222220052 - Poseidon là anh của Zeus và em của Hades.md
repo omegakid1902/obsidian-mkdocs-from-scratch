@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Poseidon
+  - Zet/Garden/Thần Zeus
   - Zet/220222220022 - Poseidon là con của Cronus và Rhea
   - Zet/220222215244 - Zeus là con út của Cronus và Rhea
   - Zet/220222215522 - Hera là con gái của Cronus và Rhea

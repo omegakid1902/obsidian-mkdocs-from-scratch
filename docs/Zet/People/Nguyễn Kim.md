@@ -7,10 +7,10 @@ backlinks:
 title: Nguyễn Kim
 tags:
   - 'created/2021/Jul/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Nguyễn Kim

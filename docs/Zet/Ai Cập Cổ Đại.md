@@ -13,7 +13,7 @@ title: Ai Cập Cổ Đại
 created: July 27, 2021 10:45 PM
 tags:
   - 'created/2021/Jul/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -4,7 +4,7 @@ UID: 210929001627
 created: 29-Sep-2021
 tags:
   - '#created/2021/Sep/29'
-  - '#garden🏡'
+  - '#garden'
   - '#permanent/concept'
 aliases:
   - Mác-cô

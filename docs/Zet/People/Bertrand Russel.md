@@ -3,10 +3,10 @@ title: Bertrand Russel
 UID: 211113161156
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Bertrand Russel

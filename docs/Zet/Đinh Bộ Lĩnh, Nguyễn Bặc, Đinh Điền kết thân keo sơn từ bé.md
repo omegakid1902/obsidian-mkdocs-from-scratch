@@ -6,7 +6,7 @@ outgoing_links:
 title: Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

@@ -9,7 +9,7 @@ UID: 211109221804
 created: Dec 02, 2020 12:15 AM
 tags:
   - 'created/2020/Dec/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

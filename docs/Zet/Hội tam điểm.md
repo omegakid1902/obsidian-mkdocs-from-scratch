@@ -15,7 +15,7 @@ UID: 211109231052
 created: 09-Nov-2021
 tags:
   - 'created/2021/Nov/09'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Freemasonry

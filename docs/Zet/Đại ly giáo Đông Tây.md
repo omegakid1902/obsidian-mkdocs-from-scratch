@@ -10,7 +10,7 @@ title: Đại ly giáo Đông Tây
 created: Dec 06, 2020 12:59 AM
 tags:
   - 'created/2020/Dec/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -9,10 +9,10 @@ title: Thomas More
 created: Dec 08, 2020 10:59 PM
 tags:
   - 'created/2020/Dec/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Thomas More

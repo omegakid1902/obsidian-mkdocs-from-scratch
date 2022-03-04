@@ -3,7 +3,7 @@ outgoing_links:
   - Zet/Garden/Cuộc chiến thành Troy
 backlinks:
   - Zet/Garden/Cuộc chiến thành Troy
-title: 220119 - Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy
+title: Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy
 UID: 220119225522
 created: 19-Jan-2022
 tags:

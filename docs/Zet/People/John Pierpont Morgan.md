@@ -12,10 +12,10 @@ title: John Pierpont Morgan
 UID: 211119234436
 tags:
   - 'created/2021/Nov/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - J. P. Morgan
   - JP Morgan

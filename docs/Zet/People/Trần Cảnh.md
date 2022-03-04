@@ -22,10 +22,10 @@ title: Trần Cảnh
 UID: 210902130435
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Trần Thái Tông
 publish: True

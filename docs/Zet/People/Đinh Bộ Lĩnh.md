@@ -12,10 +12,10 @@ title: Đinh Bộ Lĩnh
 UID: 2107152233
 tags:
   - 'created/2021/Jul/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Đinh Bộ Lĩnh

@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Ares
   - Zet/220227092321 - Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares
 backlinks:
   - Zet/220227092540 - Sau khi bắt quả tang Aphrodite và Aries ngoại tình, Hephaestus bắt họ bằng lưới vàng và mời các thần chứng kiến

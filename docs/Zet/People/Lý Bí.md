@@ -5,10 +5,10 @@ title: Lý Bí
 UID: P-210706-2221
 tags:
   - 'created/2021/Jul/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Lý Bôn
   - Lý Nam Đế

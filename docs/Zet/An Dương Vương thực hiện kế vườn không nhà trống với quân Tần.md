@@ -9,7 +9,7 @@ UID: 2107240939
 created: 24-Jul-2021
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

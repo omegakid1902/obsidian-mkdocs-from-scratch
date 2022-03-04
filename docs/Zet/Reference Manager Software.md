@@ -7,7 +7,7 @@ title: Reference Manager Software
 created: Oct 21, 2020 10:16 PM
 tags:
   - 'created/2020/Oct/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

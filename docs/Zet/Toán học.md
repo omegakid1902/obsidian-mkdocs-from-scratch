@@ -5,11 +5,11 @@ outgoing_links:
 backlinks:
   - Zet/Interests
 title: Toán học
-UID: 
-created: 
+UID: null
+created: null
 tags:
   - 'created/2021/Jul/10'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
   - Toán học

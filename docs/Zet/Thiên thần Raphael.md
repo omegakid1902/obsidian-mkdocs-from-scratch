@@ -12,7 +12,7 @@ UID: 211112231508
 created: 12-Nov-2021
 tags:
   - 'created/2021/Nov/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Raphael

@@ -1,8 +1,12 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Athena
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Zeus
 backlinks:
-  - Zet/220119 - Cuộc chiến thành Troy là cuộc chiến của thần
+  - Zet/220119230850 - Cuộc chiến thành Troy là cuộc chiến của thần
   - Zet/Garden/Cuộc chiến thành Troy
-title: 220119 - Xung đột giữa ba nữ thần gây ra cuộc chiến thành Troy
+title: Xung đột giữa ba nữ thần gây ra cuộc chiến thành Troy
 UID: 220119230049
 created: 19-Jan-2022
 tags:

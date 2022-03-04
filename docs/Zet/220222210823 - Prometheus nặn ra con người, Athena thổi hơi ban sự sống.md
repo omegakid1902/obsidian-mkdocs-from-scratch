@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Bảo Bình
+  - Zet/Garden/Nữ thần Athena
 title: Prometheus nặn ra con người, Athena thổi hơi ban sự sống
 UID: 220222210823
 created: 22-Feb-2022

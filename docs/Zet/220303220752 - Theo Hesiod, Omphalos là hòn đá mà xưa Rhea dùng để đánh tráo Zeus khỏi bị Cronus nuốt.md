@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Titan Rhea
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Titan Cronus
 title: Theo Hesiod, Omphalos là hòn đá mà xưa Rhea dùng để đánh tráo Zeus khỏi bị Cronus nuốt
 UID: 220303220752
 created: 03-Mar-2022

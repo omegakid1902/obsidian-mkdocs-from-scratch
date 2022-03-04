@@ -9,7 +9,7 @@ UID: 211017145535
 created: 17-Oct-2021
 tags:
   - 'created/2021/Oct/17'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Solar Plexus chakra

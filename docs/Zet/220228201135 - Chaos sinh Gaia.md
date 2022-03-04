@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
   - Zet/220226215334 - Chaos sinh ra Gaia, Nyx, Erebus, Tartarus, Eros
 title: Chaos sinh Gaia
 UID: 220228201135

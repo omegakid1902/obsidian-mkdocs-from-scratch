@@ -19,7 +19,7 @@ UID: 211017225545
 created: 17-Oct-2021
 tags:
   - 'created/2021/Oct/17'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Phát triển tâm linh

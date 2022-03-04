@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Ares
 title: Trong Odyssey, Aphrodite ngoại tình với Ares
 UID: 220227090019
 created: 27-Feb-2022

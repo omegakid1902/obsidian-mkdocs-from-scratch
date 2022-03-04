@@ -3,7 +3,7 @@ title: zsh là là phần mềm shell mặc định của hệ điều hành mac
 UID: 210830222854
 tags:
   - 'created/2021/Aug/30'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

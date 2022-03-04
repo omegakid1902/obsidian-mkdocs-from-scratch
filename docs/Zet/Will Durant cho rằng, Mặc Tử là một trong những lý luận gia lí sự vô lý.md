@@ -5,7 +5,7 @@ title: Will Durant cho rằng, Mặc Tử là một trong những lý luận gia
 UID: 210905214915
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

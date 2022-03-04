@@ -10,7 +10,7 @@ title: Karl Marx
 UID: 211113103159
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1818-05-05
 death: 1883-03-14

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Bảo Bình
   - Zet/220222211201 - Zeus xích Prometheus vào núi Caucasian sau khi ăn cắp lửa cho con người
 title: Heracles giải thoát Prometheus khỏi núi Caucasian
 UID: 220222211348

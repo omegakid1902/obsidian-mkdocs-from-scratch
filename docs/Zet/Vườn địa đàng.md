@@ -10,7 +10,7 @@ title: Vườn địa đàng
 UID: 2107312210
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Vườn Eden

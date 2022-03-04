@@ -9,7 +9,7 @@ title: Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
 UID: 2107182231
 tags:
   - 'created/2021/Jul/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

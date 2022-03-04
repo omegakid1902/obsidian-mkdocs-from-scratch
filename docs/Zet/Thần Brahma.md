@@ -14,7 +14,7 @@ UID: 2107041542
 created: July 4, 2021 3:42 PM
 tags:
   - 'created/2021/Jul/04'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Brahma

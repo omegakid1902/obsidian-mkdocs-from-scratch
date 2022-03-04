@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220227091605 - Demodocus kể rằng Aphrodite là ngoại tình với Ares trong cuộc chiến Troy
 backlinks:
   - Zet/220222221516 - Hephaestus là chồng của Aphrodite

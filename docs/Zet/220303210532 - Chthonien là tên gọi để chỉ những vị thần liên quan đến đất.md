@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
 title: Chthonien là tên gọi để chỉ những vị thần liên quan đến đất
 UID: 220303210532
 created: 03-Mar-2022

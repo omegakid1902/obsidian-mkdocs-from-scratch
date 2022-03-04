@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần Zeus
   - Zet/220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire
   - Zet/220228223159 - Cuộc chiến chống Titan được gọi là Titanomachie
 backlinks:

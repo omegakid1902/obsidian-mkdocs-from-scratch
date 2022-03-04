@@ -10,7 +10,7 @@ UID: 211017224634
 created: 17-Oct-2021
 tags:
   - 'created/2021/Oct/17'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Tổ chức Y tế thế giới

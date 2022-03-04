@@ -23,7 +23,7 @@ backlinks:
 title: Nhà Trần
 tags:
   - 'created/2021/Jul/09'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/place'
 publish: True
 ---

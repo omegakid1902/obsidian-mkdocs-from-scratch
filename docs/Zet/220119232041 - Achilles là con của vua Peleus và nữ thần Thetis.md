@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/220119 - Achilles là bán thần
-title: 220119 - Achilles là con của vua Peleus và nữ thần Thetis
+  - Zet/220119232129 - Achilles là bán thần
+title: Achilles là con của vua Peleus và nữ thần Thetis
 UID: 220119232041
 created: 19-Jan-2022
 tags:

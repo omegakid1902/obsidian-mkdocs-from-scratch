@@ -13,10 +13,11 @@ UID: 211016104248
 created: 16-Oct-2021
 tags:
   - 'created/2021/Oct/16'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 aliases:
-  - Các định đề Robert Koch để chứng minh một loại vi sinh vật là nguồn gốc gây bệnh
+  - Các định đề Robert Koch để chứng minh một loại vi sinh vật là nguồn gốc gây
+    bệnh
 publish: True
 ---
 # Các định đề Robert Koch

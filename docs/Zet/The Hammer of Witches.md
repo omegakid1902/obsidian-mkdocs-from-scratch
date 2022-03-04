@@ -9,7 +9,7 @@ UID: 211125230056
 created: 25-Nov-2021
 tags:
   - 'created/2021/Nov/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Malleus Maleficarum

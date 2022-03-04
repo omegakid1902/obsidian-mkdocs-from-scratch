@@ -8,7 +8,7 @@ title: Đảo chính VNCH 1963
 created: Dec 12, 2020 9:30 PM
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

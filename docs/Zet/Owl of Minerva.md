@@ -8,7 +8,7 @@ UID: 211113224844
 created: 13-Nov-2021
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Con cú của Minerva

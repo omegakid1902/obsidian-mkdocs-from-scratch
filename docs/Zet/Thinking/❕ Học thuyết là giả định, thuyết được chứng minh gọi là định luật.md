@@ -6,7 +6,7 @@ UID: 220114222331
 created: 14-Jan-2022
 tags:
   - 'created/2022/Jan/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 publish: True
 ---

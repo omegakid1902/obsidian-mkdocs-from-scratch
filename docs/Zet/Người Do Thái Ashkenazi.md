@@ -16,7 +16,7 @@ title: Người Do Thái Ashkenazi
 created: Jun 19, 2021 7:14 AM
 tags:
   - 'created/2021/Jun/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Ashkenazi Jews

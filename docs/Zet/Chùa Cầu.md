@@ -9,7 +9,7 @@ title: Chùa Cầu
 UID: 210908210641
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/place'
 aliases:
   - Cầu Nhật Bản

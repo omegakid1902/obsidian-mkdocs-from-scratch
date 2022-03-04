@@ -1,6 +1,8 @@
 ---
 outgoing_links:
   - Zet/Garden/Thần Poseidon
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
   - Zet/220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea
 backlinks:
   - Zet/220222220052 - Poseidon là anh của Zeus và em của Hades

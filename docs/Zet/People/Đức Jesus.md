@@ -23,10 +23,10 @@ title: Đức Jesus
 UID: P-210731-2219
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Chúa Jesus
   - Jesus Christ

@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+backlinks:
+  - Zet/Garden/Nữ thần Aphrodite
 title: Aphrodite được gọi là Venus trong tiếng Latin
 UID: 220222221207
 created: 22-Feb-2022

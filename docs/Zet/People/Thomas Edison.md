@@ -9,10 +9,10 @@ title: Thomas Edison
 UID: 211120203056
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Thomas Alva Edison
 publish: True

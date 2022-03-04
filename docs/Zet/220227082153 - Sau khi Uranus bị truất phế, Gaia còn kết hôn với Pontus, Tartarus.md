@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Địa ngục Tartarus
 title: Sau khi Uranus bị truất phế, Gaia còn kết hôn với Pontus, Tartarus
 UID: 220227082153
 created: 27-Feb-2022

@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Hera
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
   - Zet/220222215419 - Zeus là em trai và là chồng của Hera
   - Zet/220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea
 backlinks:

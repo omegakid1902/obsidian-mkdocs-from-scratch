@@ -6,7 +6,7 @@ title: Phim hay
 UID: 210901221242
 tags:
   - 'created/2021/Sep/01'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/fact'
 publish: True
 ---

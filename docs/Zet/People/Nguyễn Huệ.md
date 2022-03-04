@@ -10,10 +10,10 @@ title: Nguyễn Huệ
 UID: P-210716-2212
 tags:
   - 'created/2021/Jul/16'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Quang Trung
   - Quang Trung - Nguyễn Huệ

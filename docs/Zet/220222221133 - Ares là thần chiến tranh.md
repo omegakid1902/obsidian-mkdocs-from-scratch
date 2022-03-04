@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Ares
+backlinks:
+  - Zet/Garden/Thần Ares
 title: Ares là thần chiến tranh
 UID: 220222221133
 created: 22-Feb-2022

@@ -5,7 +5,7 @@ title: Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn ch�
 UID: 210903144259
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

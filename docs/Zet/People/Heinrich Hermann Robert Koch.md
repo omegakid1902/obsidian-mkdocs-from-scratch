@@ -7,10 +7,10 @@ title: Heinrich Hermann Robert Koch
 UID: 211016103904
 tags:
   - 'created/2021/Oct/16'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Heinrich Hermann Robert Koch

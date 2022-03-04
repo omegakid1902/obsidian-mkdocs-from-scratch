@@ -14,7 +14,7 @@ title: Tiếng Sanskrit
 UID: 210907214735
 tags:
   - 'created/2021/Jun/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Tiếng Phạn

@@ -6,7 +6,7 @@ title: Cộng Đoàn Taize
 created: Dec 07, 2020 12:12 AM
 tags:
   - 'created/2020/Dec/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

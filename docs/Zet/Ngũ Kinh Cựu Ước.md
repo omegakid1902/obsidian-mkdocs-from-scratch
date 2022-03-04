@@ -13,7 +13,7 @@ title: Ngũ Kinh Cựu Ước
 UID: 2107311642
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

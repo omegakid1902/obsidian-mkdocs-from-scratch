@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Nữ thần Hera
   - Zet/220303211856 - Gigantos Porphyrion bị sắc đẹp Hera quyến rũ
   - Zet/220303211918 - Gigantos Porphyrion xếp các quá núi leo lên Olympus để bắt Hera
 backlinks:

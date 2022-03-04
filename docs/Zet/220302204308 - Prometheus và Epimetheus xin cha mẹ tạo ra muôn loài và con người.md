@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Bảo Bình
 backlinks:
   - Zet/220302204443 - Prometheus bay lên tới tận cỗ xe mặt trời Helios để lấy cắp lửa cho con người
 title: Prometheus và Epimetheus xin cha mẹ tạo ra muôn loài và con người

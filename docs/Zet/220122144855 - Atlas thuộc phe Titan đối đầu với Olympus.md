@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Atlas
   - Zet/220228223446 - Atlas theo phe Titan chống Zeus
 backlinks:
   - Zet/220122 - Zues giam các Titan trong Tartarus

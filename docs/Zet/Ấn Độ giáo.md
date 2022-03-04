@@ -20,7 +20,7 @@ title: Ấn Độ giáo
 UID: P-210704-1610
 tags:
   - 'created/2021/Jul/04'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Đạo Hindu

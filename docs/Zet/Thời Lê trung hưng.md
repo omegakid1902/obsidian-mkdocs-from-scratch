@@ -12,7 +12,7 @@ title: Thời Lê trung hưng
 UID: 210712-2141
 tags:
   - 'created/2021/Jul/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Thời Lê trung hưng

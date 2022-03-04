@@ -3,7 +3,7 @@ title: Tiếng Việt và Mường cùng một chi trong ngữ hệ Nam Á
 UID: 210907222055
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

@@ -12,10 +12,10 @@ UID: 210911134312
 created: 2021/Sep/11
 tags:
   - 'created/2021/Sep/11'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
-  - 
+  - null
 publish: True
 ---
 # Lịch sử

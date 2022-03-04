@@ -11,7 +11,7 @@ title: Chủ Nghĩa Hiện Sinh
 created: Dec 25, 2020 10:15 PM
 tags:
   - 'created/2020/Dec/25'
-  - 'seeding🌱'
+  - 'seeding'
   - 'permanent/concept'
 aliases:
   - Existentialism

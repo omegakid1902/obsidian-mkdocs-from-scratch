@@ -6,7 +6,7 @@ outgoing_links:
 title: Moise được cho là đã viết Ngũ Kinh Cựu Ước
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

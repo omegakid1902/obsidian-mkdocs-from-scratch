@@ -6,7 +6,7 @@ UID: 211113223452
 created: 13-Nov-2021
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

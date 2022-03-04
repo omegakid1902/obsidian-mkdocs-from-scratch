@@ -19,7 +19,7 @@ title: Nicola Tesla
 UID: 211011224701
 tags:
   - 'created/2021/Oct/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1856
 death: 1943

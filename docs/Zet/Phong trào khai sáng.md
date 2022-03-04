@@ -6,7 +6,7 @@ UID: 211113155449
 created: 13-Nov-2021
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Phong trào Duy lí

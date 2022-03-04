@@ -9,13 +9,13 @@ backlinks:
   - Zet/Chúa Nguyễn
   - Zet/Lịch Sử Việt Nam
 title: Nguyễn Hoàng
-UID: 
+UID: null
 tags:
   - 'created/2021/Jul/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Chúa Tiên
   - Nguyễn Thái Tổ

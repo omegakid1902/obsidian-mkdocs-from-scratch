@@ -11,10 +11,10 @@ title: Anton Lavey
 UID: 211113224518
 tags:
   - 'created/2021/Nov/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Anton Lavey

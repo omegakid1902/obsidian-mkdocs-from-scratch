@@ -3,7 +3,7 @@ title: Tô Hiến Thành tiến cử Trần Trung Tá giúp nước
 UID: 2107082252
 tags:
   - 'created/2021/Jul/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

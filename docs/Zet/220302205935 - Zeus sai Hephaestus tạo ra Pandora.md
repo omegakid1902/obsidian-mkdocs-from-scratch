@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
 backlinks:
   - Zet/220222211603 - Hephaestus tạo ra người phụ nữ Pandora
   - Zet/220302210205 - Zeus tạo ra Pandora làm vợ của Epimetheus

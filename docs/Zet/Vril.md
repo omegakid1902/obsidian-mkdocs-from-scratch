@@ -9,7 +9,7 @@ UID: 211027220031
 created: 27-Oct-2021
 tags:
   - 'created/2021/Oct/27'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 publish: True

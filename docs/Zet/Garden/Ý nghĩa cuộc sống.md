@@ -18,7 +18,7 @@ title: ❕ Ý nghĩa cuộc sống
 UID: 210831230006
 tags:
   - 'created/2021/Aug/31'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/think'
 aliases:
   - Ý nghĩa cuộc sống

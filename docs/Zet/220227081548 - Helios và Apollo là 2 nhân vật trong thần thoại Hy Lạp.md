@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Apollo
   - Zet/Garden/Thần thoại Hy Lạp
   - Zet/220222220520 - Apollo được gọi là Helios trong tiếng Latin
 backlinks:

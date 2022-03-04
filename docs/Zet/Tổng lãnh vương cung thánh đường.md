@@ -6,7 +6,7 @@ title: Tổng lãnh vương cung thánh đường
 created: Dec 12, 2020 1:09 PM
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

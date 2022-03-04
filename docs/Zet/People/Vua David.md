@@ -9,10 +9,10 @@ title: Vua David
 created: Jun 21, 2021 10:35 PM
 tags:
   - 'created/2021/Jun/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Vua David

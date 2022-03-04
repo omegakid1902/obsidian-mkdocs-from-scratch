@@ -9,7 +9,7 @@ title: Bản bảy mươi
 UID: 2107312115
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Bản dịch Septuaginta

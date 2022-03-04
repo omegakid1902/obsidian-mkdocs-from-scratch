@@ -15,7 +15,7 @@ UID: 211107211929
 created: June 28, 2021 11:27 PM
 tags:
   - 'created/2021/Jun/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -3,7 +3,7 @@ title: Chủ động hồi tưởng
 created: Oct 23, 2020 10:12 PM
 tags:
   - 'created/2020/Oct/23'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

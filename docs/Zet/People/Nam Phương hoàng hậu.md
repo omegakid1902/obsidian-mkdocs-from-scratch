@@ -5,10 +5,10 @@ title: Nam Phương hoàng hậu
 UID: 211125221523
 tags:
   - 'created/2021/Nov/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Nam Phương hoàng hậu

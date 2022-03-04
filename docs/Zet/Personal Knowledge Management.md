@@ -8,7 +8,7 @@ backlinks:
 title: Personal Knowledge Management
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

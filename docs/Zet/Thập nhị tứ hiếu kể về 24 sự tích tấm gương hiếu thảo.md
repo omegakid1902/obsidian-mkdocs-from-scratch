@@ -3,7 +3,7 @@ title: Thập nhị tứ hiếu kể về 24 sự tích tấm gương hiếu th�
 UID: 210905230452
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

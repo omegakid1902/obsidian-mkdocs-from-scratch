@@ -3,7 +3,7 @@ title: Bạn khỏi cúm là do hệ miễn dịch của bạn
 created: August 10, 2021 11:45 AM
 tags:
   - 'created/2021/Aug/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

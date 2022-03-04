@@ -12,7 +12,7 @@ title: Anabaptist
 created: Nov 06, 2020 9:59 PM
 tags:
   - 'created/2020/Nov/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

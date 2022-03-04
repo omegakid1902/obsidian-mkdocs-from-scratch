@@ -1,4 +1,9 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Ares
+backlinks:
+  - Zet/220304212159 - Aphrodite lấy Ares sau khi bỏ Hepheasus
 title: Helios nhìn thấy Aphrodite ngoại tình với Ares ngay trên giường của Hephaestus
 UID: 220227091924
 created: 27-Feb-2022

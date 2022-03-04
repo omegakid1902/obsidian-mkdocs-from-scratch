@@ -8,10 +8,10 @@ title: Nguyễn Anh Vũ
 UID: 2107142159
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Nguyễn Anh Vũ

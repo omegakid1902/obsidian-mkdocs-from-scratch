@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt
   - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia

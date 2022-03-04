@@ -16,7 +16,7 @@ UID: 211113091335
 created: 13-Nov-2021
 tags:
   - 'created/2021/Nov/13'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/fact'
 publish: True
 ---

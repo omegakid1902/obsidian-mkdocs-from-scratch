@@ -43,7 +43,7 @@ UID: 211107214433
 created: 07-Nov-2021
 tags:
   - 'created/2021/Nov/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Thiên Chúa

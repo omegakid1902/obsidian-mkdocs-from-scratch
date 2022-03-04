@@ -10,7 +10,7 @@ title: ❕ Quan điểm cho rằng Nhà Triệu là ngoại xâm
 UID: 2107251024
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/think'
 publish: True
 ---

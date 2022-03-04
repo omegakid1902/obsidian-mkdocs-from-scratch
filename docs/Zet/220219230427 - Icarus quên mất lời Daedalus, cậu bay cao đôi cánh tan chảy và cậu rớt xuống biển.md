@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
 title: Icarus quên mất lời Daedalus, cậu bay cao đôi cánh tan chảy và cậu rớt xuống biển
 UID: 220219230427
 created: 19-Feb-2022

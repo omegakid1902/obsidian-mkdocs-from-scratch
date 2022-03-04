@@ -4,6 +4,7 @@ outgoing_links:
   - Zet/Kỷ nguyên chiêm tinh
   - Zet/Năm vũ trụ
   - Zet/Kỷ nguyên Song Ngư
+  - Zet/Bảo Bình
 backlinks:
   - Zet/Năm vũ trụ
   - Zet/Kỷ nguyên Song Ngư
@@ -13,7 +14,7 @@ UID: 211124221820
 created: 24-Nov-2021
 tags:
   - 'created/2021/Nov/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Kỷ nguyên ánh sáng

@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
 title: Gaia giúp cho Aristaeus bất tử
 UID: 220227081938
 created: 27-Feb-2022

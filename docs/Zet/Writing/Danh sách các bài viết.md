@@ -22,7 +22,7 @@ UID: 211120161539
 created: 20-Nov-2021
 tags:
   - 'created/2021/Nov/20'
-  - 'garden🏡'
+  - 'garden'
 publish: True
 ---
 # Danh sách các bài viết

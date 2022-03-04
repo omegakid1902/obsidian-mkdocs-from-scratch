@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Bảo Bình
 backlinks:
   - Zet/220222211201 - Zeus xích Prometheus vào núi Caucasian sau khi ăn cắp lửa cho con người
   - Zet/220302212314 - Zeus trừng phạt Prometheus vì đã lấy lửa của thần ban cho con người

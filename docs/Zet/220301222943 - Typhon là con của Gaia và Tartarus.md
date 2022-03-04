@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Địa ngục Tartarus
   - Zet/220227081922 - Typhon là con cuối cùng của Gaia
   - Zet/220227081849 - Echidna và Typhon là con của Gaia và Tartarus
 title: Typhon là con của Gaia và Tartarus

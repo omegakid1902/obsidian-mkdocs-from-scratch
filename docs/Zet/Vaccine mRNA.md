@@ -11,7 +11,7 @@ title: Vaccine mRNA
 UID: 2107100907
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Công nghệ vaccine mRNA

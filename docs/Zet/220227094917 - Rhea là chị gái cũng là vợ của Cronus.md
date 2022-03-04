@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Titan Rhea
+  - Zet/Garden/Titan Cronus
 backlinks:
   - Zet/220228205550 - Cronus và Rhea sinh được 3 con trai, 3 con gái
 title: Rhea là chị gái cũng là vợ của Cronus

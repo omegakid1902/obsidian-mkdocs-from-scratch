@@ -1,11 +1,12 @@
 ---
 outgoing_links:
   - Zet/People/Tần Thủy Hoàng
-title: Sau khi bị Tần Thủy Hoàng thiêu hủy sách, Đạo Khổng sau đó phục hồi còn Mặc gia suy tàn
+title: Sau khi bị Tần Thủy Hoàng thiêu hủy sách, Đạo Khổng sau đó phục hồi còn
+  Mặc gia suy tàn
 UID: 210905215513
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

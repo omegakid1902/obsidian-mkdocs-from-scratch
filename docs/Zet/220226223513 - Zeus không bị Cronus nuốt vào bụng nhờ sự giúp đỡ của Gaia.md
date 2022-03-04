@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Nữ thần Gaia
   - Zet/220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt

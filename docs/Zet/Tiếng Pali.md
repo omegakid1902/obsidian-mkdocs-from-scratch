@@ -3,7 +3,7 @@ title: Tiếng Pali
 UID: 210907220101
 tags:
   - 'created/2021/Sep/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Nam Phạn

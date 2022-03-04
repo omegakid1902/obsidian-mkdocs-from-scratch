@@ -5,7 +5,7 @@ title: Martin Luther King, Jr
 UID: 211122221011
 tags:
   - 'created/2021/Nov/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1929-01-15
 death: 1968-04-04

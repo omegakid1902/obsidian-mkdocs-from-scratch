@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Địa ngục Tartarus
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
   - Zet/220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire
   - Zet/220226220326 - Uranus bắt giam các Cyclops và Hecatonchire giam vào Tartarus
   - Zet/220226220658 - Cyclops và Hecatonchire bị nhốt trong Tartarus, Gaia nhận những cơn đau vì chúng là con bà

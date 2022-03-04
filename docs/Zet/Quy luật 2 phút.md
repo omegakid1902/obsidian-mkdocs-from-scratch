@@ -3,7 +3,7 @@ title: Quy luật 2 phút
 created: Oct 22, 2020 5:50 AM
 tags:
   - 'created/2020/Oct/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Two Minutes Rule

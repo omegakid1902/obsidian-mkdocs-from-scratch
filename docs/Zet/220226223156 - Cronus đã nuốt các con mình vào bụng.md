@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
+  - Zet/Garden/Nữ thần Hera
   - Zet/Garden/Thần Poseidon
   - Zet/220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình
   - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình

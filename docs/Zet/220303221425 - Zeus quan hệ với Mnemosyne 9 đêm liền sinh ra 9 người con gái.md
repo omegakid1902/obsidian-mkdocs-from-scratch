@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
   - Zet/220303221209 - Các tiên nữ Muses là con gái của Zeus và Mnemosyne
 backlinks:
   - Zet/220303221517 - 9 người con gái của Zeus và Mnemosyne được gọi chung là Muses

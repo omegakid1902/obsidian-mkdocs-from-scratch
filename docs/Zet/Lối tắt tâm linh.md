@@ -9,7 +9,7 @@ UID: 211207224334
 created: 07-Dec-2021
 tags:
   - 'created/2021/Dec/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Spiritual Bypassing

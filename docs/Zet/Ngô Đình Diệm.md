@@ -14,11 +14,11 @@ backlinks:
   - Zet/People/Phanxico-Xavie Nguyễn Văn Thuận
   - Zet/People/Ngô Đình Thục
 title: Ngô Đình Diệm
-UID: 
+UID: null
 created: 12-Dec-2021
 tags:
   - 'created/2020/Dec/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Tổng thống Ngô Đình Diệm

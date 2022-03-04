@@ -11,10 +11,10 @@ title: Nguyễn Bặc
 UID: 2107142104
 tags:
   - 'created/2021/Jul/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Nguyễn Bặc

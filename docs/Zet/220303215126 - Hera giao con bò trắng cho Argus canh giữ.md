@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Hera
+  - Zet/Garden/Thần Zeus
   - Zet/220303214824 - Khi Hera đến, Zeus biến Io thành 1 con bò trắng để giấu hiện trường ngoại tình
 backlinks:
   - Zet/220303215401 - Zeus sai Hermes giải cứu Io khỏi Argus

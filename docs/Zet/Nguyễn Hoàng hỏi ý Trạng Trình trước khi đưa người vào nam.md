@@ -10,7 +10,7 @@ backlinks:
 title: Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam
 tags:
   - 'created/2021/Jul/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

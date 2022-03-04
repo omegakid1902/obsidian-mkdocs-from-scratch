@@ -31,10 +31,10 @@ title: Nguyễn Trãi
 UID: 2107241024
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Ức Trai
 publish: True

@@ -9,9 +9,9 @@ UID: 210822235104
 tags:
   - 'created/2021/Aug/22'
   - 'permanent/concept'
-  - 'seed🥜'
+  - 'seed'
   - 'flashcards'
-aliases: 
+aliases:
   - "Đông Hán"
 publish: True
 ---

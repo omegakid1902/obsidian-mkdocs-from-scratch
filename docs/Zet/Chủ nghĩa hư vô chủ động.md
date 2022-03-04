@@ -5,7 +5,7 @@ title: Chủ nghĩa hư vô chủ động
 created: June 30, 2021 9:46 PM
 tags:
   - 'created/2021/Jun/04'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

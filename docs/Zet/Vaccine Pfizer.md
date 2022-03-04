@@ -12,7 +12,7 @@ title: Vaccine Pfizer
 UID: P-210710-1124
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Vaccine Pfizer

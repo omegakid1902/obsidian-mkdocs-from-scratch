@@ -9,10 +9,10 @@ title: Thánh Phaolo
 created: 25-12-2020
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Thánh Phaolo

@@ -8,7 +8,7 @@ title: Bản dịch Vulgate là bản dịch Cựu ước từ tiếng Hipri c�
 UID: 2107312107
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

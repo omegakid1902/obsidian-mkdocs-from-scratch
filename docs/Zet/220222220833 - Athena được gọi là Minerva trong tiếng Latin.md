@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Athena
 title: Athena được gọi là Minerva trong tiếng Latin
 UID: 220222220833
 created: 22-Feb-2022

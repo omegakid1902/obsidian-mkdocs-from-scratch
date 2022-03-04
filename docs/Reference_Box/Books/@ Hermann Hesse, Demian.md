@@ -3,7 +3,7 @@ title: '@ Hermann Hesse, Demian'
 UID: 2108142145
 tags:
   - '#created/2021/Aug/14'
-  - 'seed🥜'
+  - 'seed'
   - '#source/book'
 aliases:
   - Demian

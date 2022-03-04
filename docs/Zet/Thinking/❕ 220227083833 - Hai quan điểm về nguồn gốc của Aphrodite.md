@@ -1,5 +1,9 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Thần Zeus
   - Zet/People/Plato
   - Zet/220226222251 - Aphrodite có nghĩa là Sinh ra từ bọt biển
   - Zet/220227083536 - Trong Iliad của Homer, Aphrodite là con của Zeus và Dione

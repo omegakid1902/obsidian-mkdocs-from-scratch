@@ -7,10 +7,10 @@ backlinks:
 title: Hồ Quý Ly
 tags:
   - 'created/2021/Jul/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Hồ Quý Ly

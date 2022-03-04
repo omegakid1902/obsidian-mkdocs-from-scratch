@@ -3,7 +3,7 @@ title: Hiệu ứng Pygmalion
 created: Nov 21, 2020 10:06 PM
 tags:
   - 'created/2020/Nov/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

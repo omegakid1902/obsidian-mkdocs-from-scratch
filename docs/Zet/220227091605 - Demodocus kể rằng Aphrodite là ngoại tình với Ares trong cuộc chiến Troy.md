@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Ares
   - Zet/Garden/Cuộc chiến thành Troy
 backlinks:
   - Zet/220227091519 - Demodocus kể rằng Aphrodite là vợ của Hephaestus

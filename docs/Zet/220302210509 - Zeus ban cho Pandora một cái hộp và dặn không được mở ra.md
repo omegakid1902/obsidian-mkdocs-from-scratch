@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
 backlinks:
   - Zet/220302210649 - Sau khi chiếc hộp Pandora bị mở, con người càng trở nên tha hóa
   - Zet/220302210754 - Pandora đã không thể thắng nổi tò mò mở chiếc hộp của Zeus ban

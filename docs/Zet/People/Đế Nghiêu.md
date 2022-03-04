@@ -7,12 +7,12 @@ title: Đế Nghiêu
 UID: 210905222312
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
-  - 
+  - null
 publish: True
 ---
 # Đế Nghiêu

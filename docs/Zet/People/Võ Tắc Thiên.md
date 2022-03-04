@@ -9,7 +9,7 @@ title: Võ Tắc Thiên
 UID: 210828135253
 tags:
   - 'created/2021/Aug/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 624-02-17
 death: 705-12-16

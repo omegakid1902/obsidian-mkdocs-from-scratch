@@ -6,7 +6,7 @@ title: Các di sản thế giới tại Việt Nam
 UID: 210908204717
 tags:
   - 'created/2021/Sep/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

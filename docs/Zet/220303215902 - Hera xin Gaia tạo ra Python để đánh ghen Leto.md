@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Hera
+  - Zet/Garden/Nữ thần Gaia
   - Zet/220222220614 - Apollo là con trai của Zeus và Leto
   - Zet/220222220450 - Artemis là em song sinh với Apollo
 backlinks:

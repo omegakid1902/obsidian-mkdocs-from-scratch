@@ -7,10 +7,10 @@ title: Pope Gregory XIII
 UID: 211120222348
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Đức giáo hoàng Gregory XIII
   - Gregory XIII

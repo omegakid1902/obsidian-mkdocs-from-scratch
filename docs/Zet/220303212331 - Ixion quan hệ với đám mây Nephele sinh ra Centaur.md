@@ -6,7 +6,8 @@ outgoing_links:
 backlinks:
   - Zet/220303212520 - Ixion mưu tính chuyện bỉ ổi với Hera
   - Zet/220303212625 - Zeus sai Hermes bắt Ixion giam xuống Tartarus
-title: Ixion quan hệ với đám mây Nephele sinh ra Centaure
+  - Zet/220304201713 - Có hai Centaur khác nhau trong Thần thoại thoại Hy Lạp
+title: Ixion quan hệ với đám mây Nephele sinh ra Centaur
 UID: 220303212331
 created: 03-Mar-2022
 tags:
@@ -17,7 +18,7 @@ aliases: 220303212331
 publish: True
 ---
 ## Notes:
-[[Ixion]] quan hệ với [[Đám mây Nephele]] sinh ra [[Centaure]]
+[[Ixion]] quan hệ với [[Đám mây Nephele]] sinh ra [[Centaur (Ixion)]]
 
 ## Source:
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.158

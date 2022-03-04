@@ -8,7 +8,7 @@ title: Chủ nghĩa Stalin
 UID: 2107181113
 tags:
   - 'created/2021/Jul/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

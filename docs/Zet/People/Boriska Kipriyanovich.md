@@ -10,7 +10,7 @@ title: Boriska Kipriyanovich
 UID: 211015223547
 tags:
   - 'created/2021/Oct/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1996-01-11
 aliases:

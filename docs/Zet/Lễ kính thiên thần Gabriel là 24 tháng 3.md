@@ -13,7 +13,7 @@ UID: 211112232710
 created: 12-Nov-2021
 tags:
   - 'created/2021/Nov/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 aliases:
   - Trước công đồng Vaticanô II, lễ kính thiên thần Gabriel là 24 tháng 3

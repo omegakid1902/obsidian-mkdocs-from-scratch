@@ -5,7 +5,7 @@ title: Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau
 UID: 2107251435
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

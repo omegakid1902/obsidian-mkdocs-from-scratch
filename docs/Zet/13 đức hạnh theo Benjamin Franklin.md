@@ -5,7 +5,7 @@ title: 13 đức hạnh theo Benjamin Franklin
 created: Dec 29, 2020 11:18 PM
 tags:
   - 'created/2020/Dec/29'
-  - 'evergreen🌲'
+  - 'evergreen'
   - 'permanent/concept'
 publish: True
 ---

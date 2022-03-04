@@ -14,7 +14,7 @@ aliases: 220228201330
 publish: True
 ---
 ## Notes:
-[[Eros]] là con út của [[Thần Hỗn Mang|Chaos]]
+[[Thần Eros]] là con út của [[Thần Hỗn Mang|Chaos]]
 
 ## Source:
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook Tve-4u) p.56

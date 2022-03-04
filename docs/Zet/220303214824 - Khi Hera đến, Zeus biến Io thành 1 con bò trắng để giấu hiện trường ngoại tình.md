@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Hera
+  - Zet/Garden/Thần Zeus
   - Zet/220303214425 - Zeus hóa mây đen tối mịt giấu Hera hẹn hò với Io
   - Zet/220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io
 backlinks:

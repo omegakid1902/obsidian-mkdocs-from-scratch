@@ -3,7 +3,7 @@ title: Hội chứng FOMO
 created: Nov 21, 2020 9:43 PM
 tags:
   - 'created/2020/Nov/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

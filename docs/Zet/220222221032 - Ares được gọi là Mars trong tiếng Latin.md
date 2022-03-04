@@ -1,4 +1,8 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Ares
+backlinks:
+  - Zet/Garden/Thần Ares
 title: Ares được gọi là Mars trong tiếng Latin
 UID: 220222221032
 created: 22-Feb-2022

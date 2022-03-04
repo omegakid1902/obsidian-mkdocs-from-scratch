@@ -15,7 +15,7 @@ title: Edward Jenner
 UID: 211010164903
 tags:
   - 'created/2021/Oct/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1749-05-17
 death: 1823-01-26

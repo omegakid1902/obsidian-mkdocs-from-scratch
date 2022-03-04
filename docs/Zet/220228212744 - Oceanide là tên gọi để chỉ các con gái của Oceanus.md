@@ -1,4 +1,6 @@
 ---
+outgoing_links:
+  - Zet/Garden/Titan Oceanus
 backlinks:
   - Zet/220228213457 - Tiên nữ Clymene là một Oceanide
   - Zet/220228213324 - Titan Iapetus cưới tiên nữ Clymene

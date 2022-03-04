@@ -12,7 +12,7 @@ UID: 211109222225
 created: Dec 25, 2020 11:07 AM
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

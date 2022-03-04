@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
   - Zet/220227094101 - Saturn trong thần thoại La Mã tương đương với Cronus
 title: Cronus đại diện cho ngày thứ 7 trong tuần
 UID: 220227101313

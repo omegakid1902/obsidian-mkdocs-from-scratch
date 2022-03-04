@@ -5,10 +5,10 @@ title: Thánh Justino
 created: Jan 01, 2021 11:47 AM
 tags:
   - 'created/2021/Jan/01'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Thánh Justino

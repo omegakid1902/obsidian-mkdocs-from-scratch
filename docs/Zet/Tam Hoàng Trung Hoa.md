@@ -10,7 +10,7 @@ title: Tam Hoàng Trung Hoa
 UID: 210905223343
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Tam Hoàng

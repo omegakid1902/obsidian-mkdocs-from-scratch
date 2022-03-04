@@ -10,7 +10,7 @@ UID: 2107052127
 created: July 5, 2021 9:27 PM
 tags:
   - 'created/2021/Oct/07'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Markdown

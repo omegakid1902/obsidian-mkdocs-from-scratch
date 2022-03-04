@@ -1,10 +1,11 @@
 ---
 outgoing_links:
   - Zet/People/Hoàng tử Paris
+  - Zet/Garden/Nữ thần Aphrodite
 backlinks:
   - Zet/Garden/Cuộc chiến thành Troy
   - Zet/People/Hoàng tử Paris
-title: 220119 - Paris nhờ Aphrodite chiếm hoàng hậu Helen
+title: Paris nhờ Aphrodite chiếm hoàng hậu Helen
 UID: 220119231726
 created: 19-Jan-2022
 tags:
@@ -14,7 +15,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Hoàng tử Paris]] đến chơi thành Sparta, và gặp được [[Hoàng hậu Helen]] có sắc đẹp tuyệt trần. [[Nữ thần Aphrodite]] đã giúp Paris có được nàng. Khi Paris rời đi, Helen bỏ [[Vua Menelaus]] đi theo chàng Paris.
+[[Hoàng tử Paris]] đến chơi thành Sparta, và gặp được [[Hoàng hậu Helene]] có sắc đẹp tuyệt trần. [[Nữ thần Aphrodite]] đã giúp Paris có được nàng. Khi Paris rời đi, Helen bỏ [[Vua Menelaus]] đi theo chàng Paris.
 
 ## Source:
 - [[@ wiki, Cuộc chiến thành Troy]]

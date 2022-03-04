@@ -8,7 +8,7 @@ title: Hạ Vũ
 UID: 210905222429
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 2298
 death: 2198

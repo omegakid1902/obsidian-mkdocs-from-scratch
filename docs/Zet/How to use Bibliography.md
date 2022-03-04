@@ -3,7 +3,7 @@ title: How to use Bibliography
 created: Oct 21, 2020 10:38 PM
 tags:
   - 'created/2020/Oct/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/howto'
 publish: True
 ---

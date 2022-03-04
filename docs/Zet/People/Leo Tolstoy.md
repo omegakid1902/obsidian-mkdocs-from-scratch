@@ -12,10 +12,10 @@ title: Leo Tolstoy
 UID: 211203220657
 tags:
   - 'created/2021/Dec/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Lev Nikolayevich Tolstoy
 publish: True

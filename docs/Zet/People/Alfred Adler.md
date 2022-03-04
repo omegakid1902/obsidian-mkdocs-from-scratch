@@ -2,10 +2,10 @@
 title: Alfred Adler
 tags:
   - 'created/2021/Aug/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Alfred Adler

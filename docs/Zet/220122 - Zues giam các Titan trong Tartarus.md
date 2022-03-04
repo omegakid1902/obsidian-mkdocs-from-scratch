@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Địa ngục Tartarus
   - Zet/220122144855 - Atlas thuộc phe Titan đối đầu với Olympus
 title: Zues giam các Titan trong Tartarus
 UID: 220122145041

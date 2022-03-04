@@ -16,7 +16,7 @@ UID: 220113221618
 created: 13-Jan-2022
 tags:
   - 'created/2022/Jan/13'
-  - 'garden🏡'
+  - 'garden'
 publish: True
 ---
 # Các lập luận phủ định thuyết tiến hóa

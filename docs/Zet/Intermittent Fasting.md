@@ -8,7 +8,7 @@ title: Intermittent Fasting
 UID: 210903084049
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Nhịn ăn cách quãng

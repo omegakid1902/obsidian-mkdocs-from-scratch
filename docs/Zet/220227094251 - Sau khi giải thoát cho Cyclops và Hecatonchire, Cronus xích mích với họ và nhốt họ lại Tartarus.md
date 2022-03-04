@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Địa ngục Tartarus
   - Zet/220226222000 - Cronus nhận lời Gaia giết Uranus cha mình
   - Zet/220226220326 - Uranus bắt giam các Cyclops và Hecatonchire giam vào Tartarus
   - Zet/220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus

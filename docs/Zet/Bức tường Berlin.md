@@ -8,7 +8,7 @@ UID: 211122215029
 created: 22-Nov-2021
 tags:
   - 'created/2021/Nov/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Bức tường ô nhục

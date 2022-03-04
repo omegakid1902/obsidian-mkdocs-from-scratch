@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Nữ thần Hera
 backlinks:
   - Zet/220303210736 - Hera là vợ của Zeus
   - Zet/220222215522 - Hera là con gái của Cronus và Rhea

@@ -4,7 +4,7 @@ UID: 211216232639
 created: 16-Dec-2021
 tags:
   - 'created/2021/Dec/16'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Hành tinh Maldek

@@ -7,10 +7,10 @@ title: Lord Kelvin
 UID: 220112233531
 tags:
   - 'created/2022/Jan/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - William Thomson
 publish: True

@@ -12,7 +12,7 @@ UID: 211110223510
 created: 10-Nov-2021
 tags:
   - 'created/2021/Nov/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Knights Templar

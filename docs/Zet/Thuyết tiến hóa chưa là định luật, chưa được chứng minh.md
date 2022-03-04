@@ -9,7 +9,7 @@ UID: 220114222540
 created: 14-Jan-2022
 tags:
   - 'created/2022/Jan/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

@@ -7,10 +7,10 @@ title: Hồng Tú Toàn
 UID: 2108120657
 tags:
   - 'created/2021/Aug/12'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Hồng Tú Toàn

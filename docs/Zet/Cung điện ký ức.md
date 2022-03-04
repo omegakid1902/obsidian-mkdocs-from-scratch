@@ -5,7 +5,7 @@ title: Cung điện ký ức
 created: Oct 23, 2020 9:50 PM
 tags:
   - 'created/2020/Oct/23'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

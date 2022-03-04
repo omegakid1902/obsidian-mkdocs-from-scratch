@@ -8,7 +8,7 @@ title: Vaccine AstraZeneca
 UID: 2107100936
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

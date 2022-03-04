@@ -64,7 +64,7 @@ UID: 210920220953
 created: 20-Sep-2021
 tags:
   - 'created/2021/Sep/20'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 aliases:
   - Qanon map

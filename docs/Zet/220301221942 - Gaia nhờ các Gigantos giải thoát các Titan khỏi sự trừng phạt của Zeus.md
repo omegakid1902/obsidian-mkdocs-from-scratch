@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần Zeus
   - Zet/220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan
 backlinks:
   - Zet/220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon

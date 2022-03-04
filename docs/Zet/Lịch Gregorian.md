@@ -9,7 +9,7 @@ UID: 211120220858
 created: 20-Nov-2021
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Lịch Gregorius

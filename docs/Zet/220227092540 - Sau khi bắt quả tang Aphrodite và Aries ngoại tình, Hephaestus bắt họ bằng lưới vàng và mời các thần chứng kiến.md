@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Ares
+  - Zet/Garden/Thần Apollo
   - Zet/Garden/Thần Poseidon
   - Zet/220227092145 - Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares
   - Zet/220227092321 - Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares

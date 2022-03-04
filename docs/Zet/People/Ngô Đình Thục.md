@@ -10,10 +10,10 @@ title: Ngô Đình Thục
 created: Dec 09, 2020 5:24 AM
 tags:
   - 'created/2020/Dec/09'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Ngô Đình Thục

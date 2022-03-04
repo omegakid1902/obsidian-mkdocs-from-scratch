@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Địa ngục Tartarus
   - Zet/220228201330 - Eros là con út của Chaos
 backlinks:
   - Zet/220228201456 - Eros là người con xinh đẹp nhất của Chaos
@@ -16,7 +18,7 @@ tags:
 publish: True
 ---
 ## Notes:
-[[Thần Hỗn Mang|Chaos]] sinh ra [[Nữ thần Gaia|Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus|Tartarus]], [[Eros]].
+[[Thần Hỗn Mang|Chaos]] sinh ra [[Nữ thần Gaia|Gaia]], [[Nyx]], [[Erebus]], [[Địa ngục Tartarus|Tartarus]], [[Thần Eros]].
 
 ## Source:
 - [[@ wiki, Gaia]]

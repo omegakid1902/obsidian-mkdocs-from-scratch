@@ -4,7 +4,7 @@ UID: 210827223923
 URL: https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Trung_Qu%E1%BB%91c
 tags:
   - '#created/2021/Aug/27'
-  - '#seed🥜'
+  - '#seed'
   - '#source/website'
 publish: True
 ---

@@ -16,10 +16,10 @@ title: Moses
 UID: 211120203909
 tags:
   - 'created/2021/Nov/20'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 aliases:
   - Moise
 publish: True

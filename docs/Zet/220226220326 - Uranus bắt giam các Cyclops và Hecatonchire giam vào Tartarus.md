@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Địa ngục Tartarus
   - Zet/220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire
   - Zet/220227155509 - Cyclops và Hecatonchire bị Uranus giam ở Tartarus vì vẻ bề ngoài xấu xí
 backlinks:

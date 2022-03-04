@@ -6,7 +6,7 @@ title: Chế độ ăn 5-2
 UID: 210903091119
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

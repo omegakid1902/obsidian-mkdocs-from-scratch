@@ -11,7 +11,7 @@ title: Helena Blavatsky
 UID: 211026230536
 tags:
   - 'created/2021/Oct/26'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
   - 'Qmap'
 aliases:

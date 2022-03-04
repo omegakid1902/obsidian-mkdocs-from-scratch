@@ -7,7 +7,7 @@ title: Rudolf Clausius
 UID: 220114225404
 tags:
   - 'created/2022/Jan/14'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1822-01-02
 death: 1888-08-22

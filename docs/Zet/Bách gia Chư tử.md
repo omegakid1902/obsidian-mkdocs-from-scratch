@@ -7,7 +7,7 @@ title: Bách gia Chư tử
 UID: 2107110915
 tags:
   - 'created/2021/Jul/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

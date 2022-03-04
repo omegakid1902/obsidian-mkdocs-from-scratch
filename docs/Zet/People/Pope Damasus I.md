@@ -4,10 +4,10 @@ outgoing_links:
 title: Pope Damasus I
 tags:
   - 'created/2021/Aug/01'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Pope Damasus I

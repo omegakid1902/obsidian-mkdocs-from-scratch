@@ -3,7 +3,7 @@ title: John Adams
 UID: 211024221819
 tags:
   - 'created/2021/Oct/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 birth: 1735-10-30
 death: 1826-07-04

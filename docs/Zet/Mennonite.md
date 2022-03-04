@@ -9,7 +9,7 @@ title: Mennonite
 created: Nov 05, 2020 11:34 PM
 tags:
   - 'created/2020/Nov/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

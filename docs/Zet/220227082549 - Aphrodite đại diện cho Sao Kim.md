@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220227082729 - Sao Kim có tên là Venus, tên Latinh của Aphrodite
 backlinks:
   - Zet/220227082729 - Sao Kim có tên là Venus, tên Latinh của Aphrodite

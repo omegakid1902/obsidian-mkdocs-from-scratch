@@ -7,7 +7,7 @@ title: Đạo Bà La Môn
 created: July 4, 2021 3:24 PM
 tags:
   - 'created/2021/Jul/04'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Brahmin

@@ -11,7 +11,7 @@ UID: 211103225606
 created: 03-Nov-2021
 tags:
   - 'created/2021/Nov/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

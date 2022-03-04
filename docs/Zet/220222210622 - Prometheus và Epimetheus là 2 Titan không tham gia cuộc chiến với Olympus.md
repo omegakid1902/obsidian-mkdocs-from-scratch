@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Bảo Bình
   - Zet/220222210421 - Prometheus và Epimetheus là hai Titan không bị giam trong Tartarus
 backlinks:
   - Zet/220222210421 - Prometheus và Epimetheus là hai Titan không bị giam trong Tartarus

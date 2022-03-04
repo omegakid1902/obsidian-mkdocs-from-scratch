@@ -7,7 +7,7 @@ title: Learning Curl - Đường cong học tập
 created: Nov 21, 2020 12:43 AM
 tags:
   - 'created/2020/Nov/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Learning Curl

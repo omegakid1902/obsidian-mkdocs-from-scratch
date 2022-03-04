@@ -4,7 +4,7 @@ outgoing_links:
 title: Bảy nhà hiền triết Hy Lạp theo Plato
 tags:
   - 'created/2021/Jul/10'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

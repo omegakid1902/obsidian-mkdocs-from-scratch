@@ -7,7 +7,7 @@ backlinks:
 title: Nhà Tiền Lê
 tags:
   - 'created/2021/Jul/12'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/nation'
 publish: True
 ---

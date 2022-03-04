@@ -8,7 +8,7 @@ title: Thương Ưởng
 UID: 210828105217
 tags:
   - 'created/2021/Aug/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
 aliases:
   - Vệ Ưởng

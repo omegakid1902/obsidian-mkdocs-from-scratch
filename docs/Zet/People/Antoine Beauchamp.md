@@ -13,10 +13,10 @@ title: Antoine Beauchamp
 UID: 211010110846
 tags:
   - 'created/2021/Oct/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death:
+birth: null
+death: null
 aliases:
   - Antoine Bechamp
   - Pierre Jacques Antoine Béchamp

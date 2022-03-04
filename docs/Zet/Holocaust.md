@@ -7,10 +7,10 @@ backlinks:
   - Zet/People/Adolf Hitler
 title: Holocaust
 UID: 2106192059
-created: Jun 19, 2021 8:57 PM 
+created: Jun 19, 2021 8:57 PM
 tags:
   - 'created/2021/Jun/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Shoah

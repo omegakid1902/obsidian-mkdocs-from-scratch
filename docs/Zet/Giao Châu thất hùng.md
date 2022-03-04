@@ -5,7 +5,7 @@ outgoing_links:
 title: Giao Châu thất hùng
 tags:
   - 'created/2021/Jul/14'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

@@ -6,10 +6,10 @@ title: Abhigya Anand
 UID: 211015223315
 tags:
   - 'created/2021/Oct/15'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Abhigya Anand

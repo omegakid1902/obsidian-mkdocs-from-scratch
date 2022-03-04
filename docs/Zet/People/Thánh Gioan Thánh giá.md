@@ -12,10 +12,10 @@ title: Thánh Gioan Thánh giá
 UID: 211022211249
 tags:
   - 'created/2021/Oct/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - St John of the Cross
 publish: True

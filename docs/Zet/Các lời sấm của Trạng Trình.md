@@ -10,7 +10,7 @@ UID: 211213220905
 created: 13-Dec-2021
 tags:
   - 'created/2021/Dec/13'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

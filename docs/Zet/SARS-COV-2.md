@@ -9,7 +9,7 @@ title: SARS-CoV-2
 UID: 2107101047
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Virus cúm Vũ Hán

@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Oceanus
   - Zet/220228204008 - Titan Oceanus là thần biển, sông suối
 title: Oceanus sống tách biệt với các Titan còn lại
 UID: 220228204749

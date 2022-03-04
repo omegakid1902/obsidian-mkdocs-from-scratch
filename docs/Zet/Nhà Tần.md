@@ -16,7 +16,7 @@ title: Nhà Tần
 UID: 210828103407
 tags:
   - 'created/2021/Jul/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 aliases:
   - Nước Tần

@@ -8,7 +8,7 @@ UID: 211008224618
 created: 08-Oct-2021
 tags:
   - 'created/2021/Oct/08'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/concept'
 publish: True
 ---

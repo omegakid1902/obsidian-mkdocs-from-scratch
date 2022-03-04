@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
+  - Zet/Garden/Thần Ares
   - Zet/220227092145 - Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares
 backlinks:
   - Zet/220227092746 - Poseidon trả tiền cho Hephaestus để chuộc Ares

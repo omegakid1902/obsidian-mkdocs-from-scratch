@@ -9,7 +9,7 @@ UID: 211124224447
 created: 24-Nov-2021
 tags:
   - 'created/2021/Nov/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Astrological Age

@@ -1,4 +1,7 @@
 ---
+outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Địa ngục Tartarus
 backlinks:
   - Zet/220301222943 - Typhon là con của Gaia và Tartarus
 title: Echidna và Typhon là con của Gaia và Tartarus

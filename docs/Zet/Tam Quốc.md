@@ -8,7 +8,7 @@ title: Tam Quốc
 UID: 2107062243
 tags:
   - 'created/2021/Jul/06'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

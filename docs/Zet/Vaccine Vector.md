@@ -9,7 +9,7 @@ title: Vaccine Vector
 UID: 210710-0918
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

@@ -1,5 +1,7 @@
 ---
-title: 220119 - Odysseus trở về được quê hương nhờ sự giúp đỡ của nữ thần Athena
+outgoing_links:
+  - Zet/Garden/Nữ thần Athena
+title: Odysseus trở về được quê hương nhờ sự giúp đỡ của nữ thần Athena
 UID: 220119233102
 created: 19-Jan-2022
 tags:

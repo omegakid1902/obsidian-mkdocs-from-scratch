@@ -19,7 +19,7 @@ UID: 2107311703
 created: 22-Sep-2021
 tags:
   - 'created/2021/Jul/31'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

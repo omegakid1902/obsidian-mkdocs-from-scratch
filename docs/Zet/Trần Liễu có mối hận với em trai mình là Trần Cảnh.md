@@ -11,7 +11,7 @@ title: Trần Liễu có mối hận với em trai mình là Trần Cảnh
 UID: 210902153027
 tags:
   - 'created/2021/Sep/02'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

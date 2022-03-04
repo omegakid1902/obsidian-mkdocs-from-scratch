@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220227091519 - Demodocus kể rằng Aphrodite là vợ của Hephaestus
 title: Hephaestus là chồng của Aphrodite
 UID: 220222221516

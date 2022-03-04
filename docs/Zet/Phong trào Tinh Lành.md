@@ -9,7 +9,7 @@ title: Phong trào Tinh Lành
 created: Dec 25, 2020 10:21 AM
 tags:
   - 'created/2020/Dec/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

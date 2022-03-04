@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
   - Zet/220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea
 title: Demeter là con gái của Titan Cronus và Rhea
 UID: 220222221648

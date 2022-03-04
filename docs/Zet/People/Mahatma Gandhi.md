@@ -10,10 +10,10 @@ backlinks:
 title: Mahatma Gandhi
 tags:
   - 'created/2021/Jul/25'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth:
-death:
+birth: null
+death: null
 publish: True
 ---
 # Mahatma Gandhi

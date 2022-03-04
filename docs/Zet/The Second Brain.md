@@ -8,7 +8,7 @@ title: The Second Brain
 created: Oct 21, 2020 10:23 PM
 tags:
   - 'created/2020/Oct/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

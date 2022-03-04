@@ -16,10 +16,10 @@ title: Bill Gates
 UID: 210918172501
 tags:
   - 'created/2021/Sep/18'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 publish: True
 ---
 # Bill Gates

@@ -1,6 +1,10 @@
 ---
 outgoing_links:
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Titan Rhea
   - Zet/Garden/Thần Poseidon
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Nữ thần Hera
   - Zet/220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea
   - Zet/220227094917 - Rhea là chị gái cũng là vợ của Cronus
 title: Cronus và Rhea sinh được 3 con trai, 3 con gái

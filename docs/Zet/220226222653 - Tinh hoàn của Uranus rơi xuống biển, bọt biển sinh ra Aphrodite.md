@@ -1,5 +1,8 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần bầu trời Uranus
+  - Zet/Garden/Titan Cronus
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220226221101 - Gaia nảy sinh ý định nhờ Titan ngăn chặn hành động tàn ác của Uranus
   - Zet/220226221403 - Gaia tạo ra nham thạch lưỡi liềm và nhờ Titan sát hại Uranus
   - Zet/220226222000 - Cronus nhận lời Gaia giết Uranus cha mình

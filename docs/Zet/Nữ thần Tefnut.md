@@ -10,7 +10,7 @@ UID: 211119233114
 created: 19-Nov-2021
 tags:
   - 'created/2021/Nov/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - Tefenet

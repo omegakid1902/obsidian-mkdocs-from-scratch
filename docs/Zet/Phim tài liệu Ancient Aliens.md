@@ -4,7 +4,7 @@ UID: 220105220804
 created: 05-Jan-2022
 tags:
   - 'created/2022/Jan/05'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

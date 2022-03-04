@@ -12,7 +12,7 @@ title: Nhà Chu
 UID: 210828103407
 tags:
   - 'created/2021/Aug/28'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/nation'
 publish: True
 ---

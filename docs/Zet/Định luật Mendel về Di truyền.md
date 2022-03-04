@@ -10,7 +10,7 @@ UID: 220113001903
 created: 13-Jan-2022
 tags:
   - 'created/2022/Jan/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

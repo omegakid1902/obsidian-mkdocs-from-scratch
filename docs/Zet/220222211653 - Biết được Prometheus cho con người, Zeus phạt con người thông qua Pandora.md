@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Bảo Bình
+  - Zet/Garden/Thần Zeus
   - Zet/220222211050 - Prometheus ăn cắp lửa cho con người
   - Zet/220222211603 - Hephaestus tạo ra người phụ nữ Pandora
 title: Biết được Prometheus cho con người, Zeus phạt con người thông qua Pandora

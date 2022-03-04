@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220227082549 - Aphrodite đại diện cho Sao Kim
 backlinks:
   - Zet/220227082549 - Aphrodite đại diện cho Sao Kim

@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Nữ thần Gaia
+  - Zet/Garden/Thần bầu trời Uranus
   - Zet/220226214628 - Uranus là con trai cũng là chồng của Gaia
 backlinks:
   - Zet/Garden/Thần thoại Hy Lạp

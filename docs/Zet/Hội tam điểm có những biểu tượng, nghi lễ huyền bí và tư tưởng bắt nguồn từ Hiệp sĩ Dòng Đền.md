@@ -5,12 +5,13 @@ outgoing_links:
 backlinks:
   - Zet/Hiệp sĩ Đền Thánh
   - Zet/Hội tam điểm
-title: Hội tam điểm có những biểu tượng, nghi lễ huyền bí và tư tưởng bắt nguồn từ Hiệp sĩ Dòng Đền
+title: Hội tam điểm có những biểu tượng, nghi lễ huyền bí và tư tưởng bắt nguồn
+  từ Hiệp sĩ Dòng Đền
 UID: 211110230531
 created: 10-Nov-2021
 tags:
   - 'created/2021/Nov/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

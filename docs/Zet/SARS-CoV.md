@@ -9,7 +9,7 @@ backlinks:
 title: SARS-CoV
 tags:
   - 'created/2021/Jul/10'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

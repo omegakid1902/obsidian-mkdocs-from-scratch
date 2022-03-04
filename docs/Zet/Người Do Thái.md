@@ -36,7 +36,7 @@ title: Người Do Thái
 created: Jun 19, 2021 9:05 PM
 tags:
   - 'created/2021/Jun/19'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

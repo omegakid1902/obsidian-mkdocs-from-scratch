@@ -6,10 +6,10 @@ title: Mặc Tử
 UID: 210905214957
 tags:
   - 'created/2021/Sep/05'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Mặc Địch
 publish: True

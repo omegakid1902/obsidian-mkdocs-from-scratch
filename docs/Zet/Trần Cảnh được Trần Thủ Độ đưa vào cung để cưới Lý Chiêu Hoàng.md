@@ -10,7 +10,7 @@ UID: 210913000322
 created: 13-Sep-2021
 tags:
   - 'created/2021/Sep/13'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

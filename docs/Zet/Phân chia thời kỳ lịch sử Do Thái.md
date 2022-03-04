@@ -5,7 +5,7 @@ title: Phân chia thời kỳ lịch sử Do Thái
 created: Jun 21, 2021 11:12 PM
 tags:
   - 'created/2021/Jun/21'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 publish: True
 ---

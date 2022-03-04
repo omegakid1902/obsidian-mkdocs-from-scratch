@@ -15,7 +15,7 @@ UID: 211022211018
 created: 22-Oct-2021
 tags:
   - 'created/2021/Oct/22'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - The dark night of the soul

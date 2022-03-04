@@ -3,10 +3,10 @@ title: Tập Cận Bình
 UID: 211008222837
 tags:
   - 'created/2021/Oct/08'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/people'
-birth: 
-death: 
+birth: null
+death: null
 aliases:
   - Xi Jinping
 publish: True

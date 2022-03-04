@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Zeus
+  - Zet/Garden/Titan Cronus
   - Zet/220227100639 - Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus
 title: Metis chỉ cách Zeus cứu anh chị em mình khỏi bụng Cronus
 UID: 220228220610

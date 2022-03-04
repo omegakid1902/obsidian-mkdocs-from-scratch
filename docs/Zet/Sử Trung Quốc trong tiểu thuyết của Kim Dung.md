@@ -10,7 +10,7 @@ UID: 210828140618
 URL: https://www.oxii.vn/song/xa-hoi/dong-chay-lich-su-cua-truyen-kiem-hiep-kim-dung-anh-em-nen-biet-11195.html
 tags:
   - 'created/2021/Aug/28'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/fact'
 publish: True
 ---

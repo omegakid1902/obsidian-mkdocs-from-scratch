@@ -10,7 +10,7 @@ UID: 211011224457
 created: 11-Oct-2021
 tags:
   - 'created/2021/Oct/11'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/fact'
 publish: True
 ---

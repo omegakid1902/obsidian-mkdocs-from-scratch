@@ -3,7 +3,7 @@ title: Chất béo bão hòa
 UID: 210903112406
 tags:
   - 'created/2021/Sep/03'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
 aliases:
   - saturated fat

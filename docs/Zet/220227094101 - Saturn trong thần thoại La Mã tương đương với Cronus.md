@@ -1,6 +1,7 @@
 ---
 outgoing_links:
   - Zet/Saturn
+  - Zet/Garden/Titan Cronus
 backlinks:
   - Zet/220227101313 - Cronus đại diện cho ngày thứ 7 trong tuần
 title: Saturn trong thần thoại La Mã tương đương với Cronus

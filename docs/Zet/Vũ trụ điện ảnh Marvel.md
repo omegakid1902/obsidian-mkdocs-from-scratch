@@ -3,7 +3,7 @@ title: Vũ trụ điện ảnh Marvel
 UID: 210902211434
 tags:
   - 'created/2021/Sep/02'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/fact'
 publish: True
 ---

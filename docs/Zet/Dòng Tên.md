@@ -20,7 +20,7 @@ UID: 211024215717
 created: 24-Oct-2021
 tags:
   - 'created/2021/Oct/24'
-  - 'seed🥜'
+  - 'seed'
   - 'permanent/concept'
   - 'Qmap'
 aliases:

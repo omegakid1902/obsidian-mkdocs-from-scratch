@@ -1,5 +1,7 @@
 ---
 outgoing_links:
+  - Zet/Garden/Thần Ares
+  - Zet/Garden/Nữ thần Aphrodite
   - Zet/220227091115 - Aphrodite thường được cho là sinh ra ở đảo Síp
 title: Sau khi bị bắt quả tang ngoại tình với Ares, Aphrodite nhục nhã bỏ về đảo Síp
 UID: 220227092858

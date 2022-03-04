@@ -6,7 +6,7 @@ UID: 211203221658
 created: 03-Dec-2021
 tags:
   - 'created/2021/Dec/03'
-  - 'garden🏡'
+  - 'garden'
   - 'permanent/linking'
 publish: True
 ---

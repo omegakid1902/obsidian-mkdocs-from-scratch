@@ -1,5 +1,6 @@
 ---
 outgoing_links:
+  - Zet/Bảo Bình
   - Zet/220222211050 - Prometheus ăn cắp lửa cho con người
   - Zet/220302204308 - Prometheus và Epimetheus xin cha mẹ tạo ra muôn loài và con người
 title: Prometheus bay lên tới tận cỗ xe mặt trời Helios để lấy cắp lửa cho con người
