@@ -59,12 +59,15 @@ for root, dirs, files in os.walk(target):
 
                             # if not os.path.isfile(date_file):
                             with open(date_path + "/" + date_file + ".md", 'a', encoding="utf-8") as f:
-                                f.write("- [[" + file + "]]\n")
+                                f.write("- [[" + file.strip('.md') + "]]\n")
                                 
 total_date_file.sort(reverse=True)
-
+month = "0000-00"
 with open(date_path + "/date_list" + ".md", 'a', encoding="utf-8") as f:
     for file in total_date_file:
-        f.write("- [[" + file + "]]\n")
-
-
+        num_lines = sum(1 for line in open(date_path + '/' + file + '.md', encoding="utf-8"))
+        if month not in file:
+            month = file.strip('[[').strip(']]')[:7]
+            f.write("## " + month + "\n")
+        f.write("- [[" + file + "]] (" + str(num_lines) + " notes)\n")
+        
