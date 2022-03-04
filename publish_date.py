@@ -36,7 +36,7 @@ total_date_file = []
 for root, dirs, files in os.walk(target):
     for file in files:
         if file.endswith(".md"):
-            with open(os.path.join(root, file), encoding="utf-8") as f:
+            with open(os.path.join(root, file), 'a', encoding="utf-8") as f:
 
                 content = f.read()
                 try:
@@ -56,10 +56,12 @@ for root, dirs, files in os.walk(target):
 
                             if date_file not in total_date_file:
                                 total_date_file.append(date_file)
-
+                            
+                            f.write("\n[[" + date_file + "]]\n")
+                            
                             # if not os.path.isfile(date_file):
-                            with open(date_path + "/" + date_file + ".md", 'a', encoding="utf-8") as f:
-                                f.write("- [[" + file.replace('.md', '') + "]]\n")
+                            with open(date_path + "/" + date_file + ".md", 'a', encoding="utf-8") as d_f:
+                                d_f.write("- [[" + file.replace('.md', '') + "]]\n")
                                 
 total_date_file.sort(reverse=True)
 month = "0000-00"
