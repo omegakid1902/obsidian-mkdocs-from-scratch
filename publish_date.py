@@ -59,7 +59,7 @@ for root, dirs, files in os.walk(target):
 
                             # if not os.path.isfile(date_file):
                             with open(date_path + "/" + date_file + ".md", 'a', encoding="utf-8") as f:
-                                f.write("- [[" + file.strip('.md') + "]]\n")
+                                f.write("- [[" + file.replace('.md', '') + "]]\n")
                                 
 total_date_file.sort(reverse=True)
 month = "0000-00"
