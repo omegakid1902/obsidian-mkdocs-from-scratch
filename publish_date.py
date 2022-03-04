@@ -57,7 +57,7 @@ for root, dirs, files in os.walk(target):
                             if date_file not in total_date_file:
                                 total_date_file.append(date_file)
 
-                            f.write("## Created:\n- [[" + date_file + "]]\n")
+                            f.write("\n## Created:\n- [[" + date_file + "]]\n")
 
                             # if not os.path.isfile(date_file):
                             with open(date_path + "/" + date_file + ".md", 'a', encoding="utf-8") as d_f:
