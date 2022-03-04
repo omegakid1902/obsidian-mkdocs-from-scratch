@@ -16,5 +16,6 @@ Nếu tìm hiểu về 10.000 năm trước thì tôn giáo độc thần phát 
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.279
 
 
+
 ## Created:
 - [[2022-02-18]]

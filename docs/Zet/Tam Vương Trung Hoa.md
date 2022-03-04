@@ -24,5 +24,6 @@ Tam Vương là tên gọi để chỉ vị vua thành lập ra 3 triều đại
 - [[Chu Vũ Vương]] lập [[Nhà Chu]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-05]]

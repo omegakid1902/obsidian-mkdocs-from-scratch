@@ -20,5 +20,6 @@ Chuyên về chiêm tinh học
 ![[Pasted image 20211015223347.png]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-10-15]]

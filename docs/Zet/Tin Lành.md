@@ -35,5 +35,6 @@ Tin Lành chỉ công nhận hai bí tích được [[Đức Jesus|Chúa Jesus]]
 - [[Bí tích rửa tội]]
 - [[Bí tích thánh thể]]
 
+
 ## Created:
 - [[2020-12-25]]

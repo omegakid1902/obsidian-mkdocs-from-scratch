@@ -21,5 +21,6 @@ Homo Sapiens (người tinh khôn) là loài người sống trên Trái Đất 
 
 ## Ideas & thoughts:
 
+
 ## Created:
 - [[2021-06-27]]

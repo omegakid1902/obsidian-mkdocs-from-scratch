@@ -22,5 +22,6 @@ Nói về cuộc phiêu lưu, của đứa cháu nội [[Nguyễn Trãi]] thoát
 - Một tình tiết hư cấu trong phim là tên của đứa bé được hư cấu đổi thành Trần Nguyên Vũ thay vì [[Nguyễn Anh Vũ]] theo như lịch sử.
 
 
+
 ## Created:
 - [[2021-07-14]]

@@ -18,5 +18,6 @@ Mỗi chữ cái được thể hiện bằng cách nối 6 điểm từ 2 côt 
 
 ## Ideas & thoughts:
 
+
 ## Created:
 - [[2021-08-07]]

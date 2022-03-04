@@ -25,5 +25,6 @@ Sau khi [[Cronus]] lật đổ cha mình là [[Thần bầu trời Uranus|Uranus
 ## Relate:
 - [[220226222000 - Cronus nhận lời Gaia giết Uranus cha mình]]
 - [[220226220326 - Uranus bắt giam các Cyclops và Hecatonchire giam vào Tartarus]]
-- [[220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus]]## Created:
+- [[220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus]]
+## Created:
 - [[2022-02-27]]

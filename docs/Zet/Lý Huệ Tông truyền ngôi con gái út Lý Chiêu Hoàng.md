@@ -21,5 +21,6 @@ Vua [[Lý Huệ Tông]] bệnh tình dai dẳng không dứt, ông thì có 2 ng
 ## Ref:
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
 
+
 ## Created:
 - [[2021-07-08]]

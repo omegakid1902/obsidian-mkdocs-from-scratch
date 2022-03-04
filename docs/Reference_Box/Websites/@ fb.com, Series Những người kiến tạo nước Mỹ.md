@@ -12,5 +12,6 @@ tags:
 [[@ fb.com, Những người kiến tạo nước Mỹ P2 - Rockefeller vua dầu lửa]]
 [[@ fb.com, Những người kiến tạo nước Mỹ P3 - Andrew Carnegie vua sắt thép]]
 [[@ fb.com, Những người kiến tạo nước Mỹ P4 - JP Morgan vua ngân hàng]]
-[[@ fb.com, Những người kiến tạo nước Mỹ P5 - Henry Ford]]## Created:
+[[@ fb.com, Những người kiến tạo nước Mỹ P5 - Henry Ford]]
+## Created:
 - [[2021-11-20]]

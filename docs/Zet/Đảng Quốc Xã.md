@@ -22,5 +22,6 @@ publish: True
 
 ## Ideas & thoughts:
 [[210620_DQX_01]]
+
 ## Created:
 - [[2021-06-20]]

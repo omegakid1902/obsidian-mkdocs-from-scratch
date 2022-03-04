@@ -40,5 +40,6 @@ Các chỉ số xét nghiệm cận trên cận dưới theo quy ước là khô
 ## Relate to:
 - [[Sức khỏe]]
 - [[Big Medicine]]
-- [Thực dưỡng hiện đại](https://thucduonghiendai.com/)## Created:
+- [Thực dưỡng hiện đại](https://thucduonghiendai.com/)
+## Created:
 - [[2021-10-04]]

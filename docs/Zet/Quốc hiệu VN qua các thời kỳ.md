@@ -31,5 +31,6 @@ publish: True
 
 
 [^1]:[[@ Trần Trọng Kim, Việt Nam sử lược]]
+
 ## Created:
 - [[2021-09-26]]

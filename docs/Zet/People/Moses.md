@@ -39,5 +39,6 @@ Xem chi tiết [[Tiểu sử tiên tri Moses]]
 
 ## Ref:
 - [Tiểu sử Thánh Môi-se (Do thái giáo) - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/van-hoa-xa-hoi/tieu-su-thanh-moi-se-do-thai-giao-1520.html)
-- [Bàn luận, so sánh, đối chiếu các tôn giáo - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/van-hoa-xa-hoi/ban-luan-so-sanh-doi-chieu-cac-ton-giao-1441.html)## Created:
+- [Bàn luận, so sánh, đối chiếu các tôn giáo - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/van-hoa-xa-hoi/ban-luan-so-sanh-doi-chieu-cac-ton-giao-1441.html)
+## Created:
 - [[2021-11-20]]

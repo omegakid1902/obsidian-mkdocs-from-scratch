@@ -31,5 +31,6 @@ Là nền văn minh ở Bắc Phi, cai trị bởi vua [[Pharaon]]
 [[Kim tự tháp Khufu]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-27]]

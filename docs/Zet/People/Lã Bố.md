@@ -27,5 +27,6 @@ Lã Bố có một con ngựa chiến đặc biệt gọi là [[Xích Thố]]. C
 Lã Bố ban đầu là một thuộc hạ của [[Đổng Trác]], nhưng sau này, chính Lã Bố ám sát Đổng Trác.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-28]]

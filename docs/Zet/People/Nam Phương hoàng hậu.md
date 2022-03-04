@@ -18,5 +18,6 @@ publish: True
 
 ## Ideas & thoughts:
 ## Ref:
-- [Nam Phương hoàng hậu: Tôi tự hỏi bà đã bao giờ hạnh phúc hay chưa? (khamphalichsu.com)](https://khamphalichsu.com/nam-phuong-hoang-hau-n294.html)## Created:
+- [Nam Phương hoàng hậu: Tôi tự hỏi bà đã bao giờ hạnh phúc hay chưa? (khamphalichsu.com)](https://khamphalichsu.com/nam-phuong-hoang-hau-n294.html)
+## Created:
 - [[2021-11-25]]

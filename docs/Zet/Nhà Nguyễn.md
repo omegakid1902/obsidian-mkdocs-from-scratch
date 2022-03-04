@@ -38,5 +38,6 @@ publish: True
 - [[Duy Tân]]
 - [[Khải Định]]
 - [[Bảo Đại]]
+
 ## Created:
 - [[2021-07-15]]

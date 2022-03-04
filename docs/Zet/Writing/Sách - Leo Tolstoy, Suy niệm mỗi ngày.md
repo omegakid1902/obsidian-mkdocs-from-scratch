@@ -45,5 +45,6 @@ Hy vọng lần sau quay lại sẽ giải đáp được những vấn đề sa
 5. Thế giới này đang tạo ra một trò đùa? #COVID
 
 ## Ref:
-- [[Sách đã đọc]]## Created:
+- [[Sách đã đọc]]
+## Created:
 - [[2021-12-03]]

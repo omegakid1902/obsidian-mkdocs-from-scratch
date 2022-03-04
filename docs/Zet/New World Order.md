@@ -25,5 +25,6 @@ publish: True
 
 ## Reference:
 - https://www.abovetopsecret.com/forum/index.php
-- https://extraterrestrialbeing.home.blog/2021/09/03/luc-luong-bong-toi-dang-sau-nwo-new-world-order-trat-tu-the-gioi-moi/## Created:
+- https://extraterrestrialbeing.home.blog/2021/09/03/luc-luong-bong-toi-dang-sau-nwo-new-world-order-trat-tu-the-gioi-moi/
+## Created:
 - [[2021-10-18]]

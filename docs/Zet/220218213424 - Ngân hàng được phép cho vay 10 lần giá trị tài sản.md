@@ -16,5 +16,6 @@ Các ngân hàng được phép cho vay 10 lần giá trị thực mình sở h�
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.384
 
 
+
 ## Created:
 - [[2022-02-18]]

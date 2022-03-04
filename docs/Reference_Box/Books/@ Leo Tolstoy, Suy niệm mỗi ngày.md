@@ -443,5 +443,6 @@ Hãy học, không phải để trở thành một học giả, mà để bạn 
 ---
 Sống với một điều dối trá đôi khi dễ hơn, và thuận tiện hơn nói sự thật, và thật khó mà ngừng nói dối. Khi bạn nói sự thật, bạn không cần phải nói thêm cái gì khác. Khi bạn nói dối, bạn phải tiếp tục nói dối, để biện minh cho những lời nói dối trước đó. — location: [3802]() ^ref-41402
 
-- Khi tạo ra một lời nói dối, ta phải nghĩ ra một lời nói dối khác để che đậy lời nói dối đầu tiên. Nhưng khi ta nói thật, ta không phải làm thêm điều gì khác.## Created:
+- Khi tạo ra một lời nói dối, ta phải nghĩ ra một lời nói dối khác để che đậy lời nói dối đầu tiên. Nhưng khi ta nói thật, ta không phải làm thêm điều gì khác.
+## Created:
 - [[2021-12-04]]

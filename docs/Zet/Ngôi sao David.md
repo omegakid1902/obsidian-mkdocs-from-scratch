@@ -22,5 +22,6 @@ Ngôi sao David có hình ngôi sao 6 cánh gồm hai tam giác đều lồng v�
 ## Ideas & thoughts:
 - [[Ngôi sao sáu cánh gộp từ 3 số 6]]
 
+
 ## Created:
 - [[2021-06-21]]

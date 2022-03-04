@@ -23,5 +23,6 @@ Khi [[Nữ thần Hera|Hera]] đến, [[Thần Zeus|Zeus]] biến [[Nữ thần 
 
 ## Relate:
 - [[220303214425 - Zeus hóa mây đen tối mịt giấu Hera hẹn hò với Io]]
-- [[220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io]]## Created:
+- [[220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io]]
+## Created:
 - [[2022-03-03]]

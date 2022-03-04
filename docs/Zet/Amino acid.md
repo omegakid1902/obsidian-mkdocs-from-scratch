@@ -21,5 +21,6 @@ Amino acid là hợp chất hữu cơ chứa nhóm [[Amin -NH2]] và nhóm [[Car
 ![[Amino-Acid-Structure.jpg]]
 
 ## Questions & thoughts:
+
 ## Created:
 - [[2021-08-14]]

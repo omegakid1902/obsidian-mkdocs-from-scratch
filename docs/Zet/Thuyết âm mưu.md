@@ -26,5 +26,6 @@ Thuyết âm mưu, tiếng Anh là Conspiracy Theory,
 ## Ideas & thoughts:
 
 
+
 ## Created:
 - [[2021-10-23]]

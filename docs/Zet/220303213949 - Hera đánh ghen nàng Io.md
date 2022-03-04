@@ -20,5 +20,6 @@ publish: True
 
 ## Relate:
 - [[220222215801 - Hera thường trả thù tình nhân và con riêng của Zeus]]
-- [[220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io]]## Created:
+- [[220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io]]
+## Created:
 - [[2022-03-03]]

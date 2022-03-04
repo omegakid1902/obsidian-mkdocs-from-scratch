@@ -19,5 +19,6 @@ Trang Tử tên thật là [[Trang Chu]], là một triết gia [[Đạo Giáo]]
 Ông là tác giả quyển [[Nam Hoa kinh]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-04]]

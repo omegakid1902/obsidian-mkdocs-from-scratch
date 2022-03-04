@@ -18,5 +18,6 @@ Trong quyển Của cải của các dân tộc, [[Adam Smith]] cho rằng sự 
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.390
 
 
+
 ## Created:
 - [[2022-02-18]]

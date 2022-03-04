@@ -25,5 +25,6 @@ publish: True
 Ông được [[Pope Pio XI]] phong thánh tử đạo năm 1935.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-08]]

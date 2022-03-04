@@ -16,5 +16,6 @@ Khi [[Tô Hiến Thành]] lâm trọng bệnh, Vũ Tán Đường ngày đêm b�
 
 ## Ref:
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
+
 ## Created:
 - [[2021-07-08]]

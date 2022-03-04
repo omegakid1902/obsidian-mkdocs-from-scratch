@@ -230,5 +230,6 @@ _Tài liệu tham khảo:_
 5.  [Everythings Electric: War Saturn The Sun](https://www.everythingselectric.com/saturn-sun/)
 6.  [SATURN: THE ANCIENT SUN GOD; by David Talbott](http://qdl.scs-inc.us/2ndParty/Pages/7285.html)
 7.  Horseshoe orbit, Wikipedia
-8.  Bloodlines of the Illuminati; by Fritz Springmeier## Created:
+8.  Bloodlines of the Illuminati; by Fritz Springmeier
+## Created:
 - [[2021-11-07]]

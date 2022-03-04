@@ -30,5 +30,6 @@ LYT Framework được [[Nick Milo]] hiện thực hóa bằng [[LYT Kit]] 
 - [[Các nguyên tắc của Zettelkasten]]
 
 ## Ref:
-- [Linking Your Thinking - Resources - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/linking-your-thinking-resources/6177)## Created:
+- [Linking Your Thinking - Resources - Knowledge management - Obsidian Forum](https://forum.obsidian.md/t/linking-your-thinking-resources/6177)
+## Created:
 - [[2021-11-20]]

@@ -20,5 +20,6 @@ publish: True
 
 ## Relate:
 - [[220302211230 - Trong thần thoại Hy Lạp, Deucalion và Pyrrha là đôi vợ chống sống sót sau Đại Hồng Thủy]]
-- [[❕ 220302211422 - Deucalion và Pyrrha trong thần thoại Hy Lạp là phiên bản của Noah]]## Created:
+- [[❕ 220302211422 - Deucalion và Pyrrha trong thần thoại Hy Lạp là phiên bản của Noah]]
+## Created:
 - [[2022-03-02]]

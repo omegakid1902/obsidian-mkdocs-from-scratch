@@ -28,5 +28,6 @@ Lưu Bị kết giao huynh đệ với [[Quan Vũ]] và [[Trương Phi]]
 
 ## Ideas & thoughts:
 
-[^1]: [wiki](https://vi.wikipedia.org/wiki/L%C6%B0u_B%E1%BB%8B)## Created:
+[^1]: [wiki](https://vi.wikipedia.org/wiki/L%C6%B0u_B%E1%BB%8B)
+## Created:
 - [[2021-08-28]]

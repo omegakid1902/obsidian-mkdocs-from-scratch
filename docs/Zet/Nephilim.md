@@ -18,5 +18,6 @@ publish: True
 Nephilim được nhắc đến trong [[Gen-06#v4]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-10-03]]

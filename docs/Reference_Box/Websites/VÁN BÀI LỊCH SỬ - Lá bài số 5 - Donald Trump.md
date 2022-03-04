@@ -199,5 +199,6 @@ Bài tiếp
 LÁ BÀI SỐ 6: TT JOE BIDEN
 
 [https://www.facebook.com/permalink.php?story_fbid=277176007413882&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=277176007413882&id=100053644548330&__cft__[0]=AZWX8Ke-T52AAvfeFxLi4PGjCJlOY7DDJYZ_QDWEE8GEPZUDvYzIoM5nGnQr7s1spURv22kYc3-Iz69fkmsm_qLPK42ygxrknRbf1iLNYPYIpUN_mgZJEMqrcbSHVrRUC8g&__tn__=-UK-R)
+
 ## Created:
 - [[2021-11-17]]

@@ -18,5 +18,6 @@ Theo [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]],  Sao Malde
 ## Ideas & thoughts:
 
 
+
 ## Created:
 - [[2021-12-16]]

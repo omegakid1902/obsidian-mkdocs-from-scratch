@@ -27,5 +27,6 @@ Yasser Arafat được trao [[Giải Nobel]]
 
 ## Ideas & thoughts:
 ## Ref:
-- [Yasser Arafat – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Yasser_Arafat)## Created:
+- [Yasser Arafat – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Yasser_Arafat)
+## Created:
 - [[2021-11-25]]

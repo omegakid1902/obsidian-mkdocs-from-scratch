@@ -29,5 +29,6 @@ publish: True
 
 ## Ref:
 - [List of Illuminati Symbols and Meanings - Illuminati Symbols](https://illuminatisymbols.info/)
+
 ## Created:
 - [[2021-11-13]]

@@ -149,5 +149,6 @@ VÁN BÀI LỊCH SỬ (tt)
 LÁ BÀI SỐ 7: TT NGA V. PUTIN
 
 [https://www.facebook.com/permalink.php?story_fbid=279147307216752&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=279147307216752&id=100053644548330&__cft__[0]=AZVxdUf4pq5d6cpQY_OFNup87ebBZUXuYfA86jEYuYozfFBpxMoPoNl0ZrLu0CkMJc1dNBcFWCOSq8JRAvV-fbuZ6tOK6gYnWl75gMu6tSiACqIrUIE8ubgmhgyiubjYEkKPVbbuB87DMoCEdpWwC1hBxTi-qDMPb-TxWKWnaD4BzA&__tn__=-UK-R)
+
 ## Created:
 - [[2021-11-17]]

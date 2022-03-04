@@ -21,5 +21,6 @@ Trong tác phẩm [[@ Plato, Timaeus và Critias]], nhân vật Solon người �
 ## Source:
 - [[@ wiki, Atlantis]]
 
+
 ## Created:
 - [[2022-01-18]]

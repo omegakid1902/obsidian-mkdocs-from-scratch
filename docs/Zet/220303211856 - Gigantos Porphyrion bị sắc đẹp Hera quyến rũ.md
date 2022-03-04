@@ -23,5 +23,6 @@ publish: True
 
 ## Relate:
 - [[220303211918 - Gigantos Porphyrion xếp các quá núi leo lên Olympus để bắt Hera]]
-- [[220303212014 - Zeus ngăn chặn Gigantos Porphyrion bắt cóc Hera]]## Created:
+- [[220303212014 - Zeus ngăn chặn Gigantos Porphyrion bắt cóc Hera]]
+## Created:
 - [[2022-03-03]]

@@ -13,5 +13,6 @@ source:
 Source: [[Marcus Aurelius]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2022-02-20]]

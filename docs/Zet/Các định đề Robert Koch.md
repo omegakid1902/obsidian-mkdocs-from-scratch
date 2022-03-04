@@ -40,5 +40,6 @@ Nguyên tắc được [[Heinrich Hermann Robert Koch]] để xác định một
 [^koch]:[[@ Thomas S. Cowan, The Contagion Myth, Ch01]]
 [^river]:[[@ Thomas S. Cowan, The Contagion Myth, Ch01]]
 
+
 ## Created:
 - [[2021-10-16]]

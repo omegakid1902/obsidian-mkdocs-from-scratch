@@ -21,5 +21,6 @@ Theodor Herzl (1860-1904) là một nhà báo Áo-Hung gốc [[Người Do Thái
 
 ## Ideas & thoughts:
 
+
 ## Created:
 - [[2021-06-18]]

@@ -37,5 +37,6 @@ Helena Blavatsky (1831-1891) là một nhà [[Thần bí học]] người [[Nga]
 - [wiki](https://vi.wikipedia.org/wiki/Helena_Blavatsky)
 - [thongthienhoc.com](http://www.thongthienhoc.com/tieusu.htm)
 - [ichi.pro](https://ichi.pro/vi/madame-blavatsky-va-bi-mat-cua-cac-bac-thay-56349123042371)
-- [vi.public-welfare.com](https://vi.public-welfare.com/3952338-helena-blavatsky-quotsecret-doctrinequot-was-there-a-secret)## Created:
+- [vi.public-welfare.com](https://vi.public-welfare.com/3952338-helena-blavatsky-quotsecret-doctrinequot-was-there-a-secret)
+## Created:
 - [[2021-10-26]]

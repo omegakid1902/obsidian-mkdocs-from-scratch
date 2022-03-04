@@ -25,5 +25,6 @@ Lấy chiến tranh nuôi chiến tranh là thuật ngữ được sử dụng b
 Trái ngược với [[Vườn không nhà trống|Tiêu Thổ]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-17]]

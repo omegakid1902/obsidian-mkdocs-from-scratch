@@ -73,5 +73,6 @@ _Tuy-3-1-1944". (7)_
 - [Lời tiên báo thứ 3 - bí mật Fatima của Đức Mẹ Vô Nhiễm (thongdiepkhancap.com)](https://thongdiepkhancap.com/loi-tien-bao-thu-3-bi-mat-fatima.html)
 - [Nguyên văn Bí Mật Fatima phần III và lời giải thích của Giáo hội (hdgmvietnam.com)](https://hdgmvietnam.com/chi-tiet/nguyen-van-bi-mat-fatima-phan-iii-va-loi-giai-thich-cua-giao-hoi-39579)
 - [Bí mật Fatima: dâng hiến nước Nga & Sơ Lucia giả mạo - Tu Viện Thánh Gia (conggiaovatican.com)](https://conggiaovatican.com/fatima-so-lucia-gia-mao/) Trái chiều.
+
 ## Created:
 - [[2022-01-05]]

@@ -21,5 +21,6 @@ Các nguyên tắc của phương pháp [[Zettelkasten]] được đúc kết qu
 #TODO reread and take more note for this
 
 
+
 ## Created:
 - [[2022-02-21]]

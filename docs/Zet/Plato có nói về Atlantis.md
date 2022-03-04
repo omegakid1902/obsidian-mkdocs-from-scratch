@@ -37,5 +37,6 @@ publish: True
 ## Reference:
 - [thoughtco.com](https://www.thoughtco.com/platos-atlantis-from-the-timaeus-119667)
 - [nationalgeographic.com](https://www.nationalgeographic.com/history/article/atlantis)
+
 ## Created:
 - [[2021-10-27]]

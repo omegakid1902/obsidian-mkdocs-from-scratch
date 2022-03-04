@@ -51,5 +51,6 @@ Giai đoạn này tương đương với [[Khủng hoảng hiện sinh]] trong t
 - [Viet Psychotherapy: Đêm tối của linh hồn](http://vietpsychotherapy.blogspot.com/2014/06/em-toi-cua-linh-hon.html)
 - [The Dark Night of the Soul - YouTube](https://www.youtube.com/watch?v=lMA43kVVldc)
 - [ĐÊM TỐI LINH HỒN – Lòng Chúa thương xót (longchuathuongxot.vn)](http://longchuathuongxot.vn/v2/dem-toi-linh-hon/)
-- [Đêm đen của tâm hồn (Dark Night of the Soul) – Câu trả lời cho câu hỏi “Mục đích cuộc sống của chúng ta là gì?” | Just BE. (wordpress.com)](https://innermostselves.wordpress.com/2017/07/03/dem-den-cua-tam-hon-dark-night-of-the-soul-cau-tra-loi-cho-cau-hoi-muc-dich-cuoc-song-cua-chung-ta-la-gi/)## Created:
+- [Đêm đen của tâm hồn (Dark Night of the Soul) – Câu trả lời cho câu hỏi “Mục đích cuộc sống của chúng ta là gì?” | Just BE. (wordpress.com)](https://innermostselves.wordpress.com/2017/07/03/dem-den-cua-tam-hon-dark-night-of-the-soul-cau-tra-loi-cho-cau-hoi-muc-dich-cuoc-song-cua-chung-ta-la-gi/)
+## Created:
 - [[2021-10-22]]

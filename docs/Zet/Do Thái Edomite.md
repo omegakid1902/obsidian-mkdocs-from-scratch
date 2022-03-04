@@ -26,5 +26,6 @@ Do Thái Edomite, còn được biết đến là Do Thái Kharzar.
 [^1]: https://www.truthcontrol.com/articles/serpent-bloodline-edomitekhazar-jews-and-sons-cain
 
 
+
 ## Created:
 - [[2021-10-29]]

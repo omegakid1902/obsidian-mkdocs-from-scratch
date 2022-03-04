@@ -19,5 +19,6 @@ Backlink (= back-link) là sự liên kết giữa hai đối tượng. Liên k�
 Định nghĩa này được sử dụng nhiều trong lĩnh vực internet.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-10-21]]

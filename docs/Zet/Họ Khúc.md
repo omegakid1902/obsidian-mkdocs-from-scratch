@@ -27,5 +27,6 @@ Năm 930, nhà Nam Hán đưa quân sang xâm lược, [[Khúc Thừa Mỹ]] b�
 
 ## Ideas & thoughts:
 
-[^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], Chương 3## Created:
+[^1]: [[@ Nguyễn Khắc Thuần, Thế thứ các triều vua Việt Nam]], Chương 3
+## Created:
 - [[2021-08-21]]

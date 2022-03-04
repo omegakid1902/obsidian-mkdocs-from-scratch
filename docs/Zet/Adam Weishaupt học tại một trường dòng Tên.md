@@ -21,5 +21,6 @@ Lúc lên 7, [[Johann Adam Weishaupt|Adam Weishaupt]] học tại một trườn
 ## Ideas & thoughts:
 - [Adam Weishaupt – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Adam_Weishaupt)
 
+
 ## Created:
 - [[2021-11-13]]

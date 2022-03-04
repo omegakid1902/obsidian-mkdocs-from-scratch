@@ -27,5 +27,6 @@ Hình ảnh Ishmael và mẹ.
 - Anh trai cùng cha khác mẹ với [[Isaac]]
 
 ## Reference:
-- [Ishmael – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Ishmael)## Created:
+- [Ishmael – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Ishmael)
+## Created:
 - [[2021-10-06]]

@@ -29,5 +29,6 @@ Dòng dõi chúa Trịnh khởi đi từ [[Trịnh Kiểm]]
 
 ## Ideas & thoughts:
 
+
 ## Created:
 - [[2021-07-12]]

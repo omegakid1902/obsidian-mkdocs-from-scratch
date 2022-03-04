@@ -18,5 +18,6 @@ Người Samari cho rằng họ có nguồn gốc từ [[Chi tộc Ephraim]] và
 ## Ideas & thoughts:
 
 
+
 ## Created:
 - [[2021-11-21]]

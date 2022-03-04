@@ -20,5 +20,6 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.
 
 ## Relate:
-- [[220303214142 - Thần Sông Inchos là vua đất Argos]]## Created:
+- [[220303214142 - Thần Sông Inchos là vua đất Argos]]
+## Created:
 - [[2022-03-03]]

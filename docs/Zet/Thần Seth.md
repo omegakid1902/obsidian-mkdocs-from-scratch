@@ -23,5 +23,6 @@ Thần Seth là thần bão tố và hỗn loạn của [[Ai Cập Cổ Đại]]
 ## Ideas & thoughts:
 - [[Bộ chín vĩ đại của Heliopolis]]
 
+
 ## Created:
 - [[2021-11-19]]

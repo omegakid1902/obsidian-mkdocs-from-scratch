@@ -22,5 +22,6 @@ Khi [[Thần Zeus|Zeus]] đủ lớn khôn, [[Nữ thần Gaia|Gaia]] và [[Tita
 ## Relate:
 - [[220226223156 - Cronus đã nuốt các con mình vào bụng]]
 - [[220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia]]
-- [[220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea]]## Created:
+- [[220227095131 - Hestia, Demeter, Hera, Poseidon, Hades và Zeus là con của Cronus và Rhea]]
+## Created:
 - [[2022-02-28]]

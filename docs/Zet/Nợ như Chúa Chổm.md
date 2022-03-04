@@ -20,5 +20,6 @@ Sau này, người phụ nữ ấy sinh ra một đứa con trai, đặt tên l�
 
 ## Ideas & thoughts:
 - [[Chúa Chổm]]
+
 ## Created:
 - [[2021-07-12]]

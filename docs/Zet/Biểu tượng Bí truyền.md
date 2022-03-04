@@ -21,5 +21,6 @@ publish: True
 ## Ideas & thoughts:
 
 ## Reference:
-- https://extraterrestrialbeing.home.blog/2021/09/03/nhung-bieu-tuong-bi-truyen-den-va-bo-mat-cua-nen-cong-nghiep-am-nhac-pt-2/## Created:
+- https://extraterrestrialbeing.home.blog/2021/09/03/nhung-bieu-tuong-bi-truyen-den-va-bo-mat-cua-nen-cong-nghiep-am-nhac-pt-2/
+## Created:
 - [[2021-10-19]]

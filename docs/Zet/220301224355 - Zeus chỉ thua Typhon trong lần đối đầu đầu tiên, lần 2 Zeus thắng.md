@@ -22,5 +22,6 @@ Sau khi được hai con trai là [[Thần Hermes|Hermes]] và Pan cứu khỏi 
 
 ## Relate:
 - [[220301223636 - Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile]]
-- [[220301223903 - Hermes va Pan quyết định đi giải cứu Zeus khỏi tay Typhon]]## Created:
+- [[220301223903 - Hermes va Pan quyết định đi giải cứu Zeus khỏi tay Typhon]]
+## Created:
 - [[2022-03-01]]

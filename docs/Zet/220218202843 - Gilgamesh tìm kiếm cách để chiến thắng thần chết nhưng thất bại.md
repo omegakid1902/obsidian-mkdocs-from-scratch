@@ -19,5 +19,6 @@ Huyền thoại vua [[Vua Gilgamesh]] của người [[Sumer]] kể rằng ông 
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.333
 
 
+
 ## Created:
 - [[2022-02-18]]

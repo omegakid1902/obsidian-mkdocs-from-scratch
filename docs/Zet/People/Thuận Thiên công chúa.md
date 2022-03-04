@@ -38,5 +38,6 @@ Khi lập bà làm hoàng hậu, bà đang có thai 4 tháng, sau đó sinh ra [
 Sau khi làm hoàng hậu của Trần Cảnh, bà sinh được hai người con là [[Trần Thánh Tông]] và [[Trần Quang Khải]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-02]]

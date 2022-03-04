@@ -106,5 +106,6 @@ Và nếu bạn cho phép mình kiên nhẫn, sự khó khăn ban đầu sẽ bi
 5.Nếu tài chính không cho phép bạn mua sách mới thường xuyên thì hãy đọc ebook và nghe sách nói trên Youtube. Ebook thì có hàng nghìn cuốn sách điện tử, trong số đó cũng có không ít những cuốn sách chất lượng cao mà bạn có thể khai thác.
 
 Sách nói thì có ưu điểm là nhiều sách mới và nằm trong top bestseller hơn. Hiện tại mình đang tiết kiệm tiền mua sách bằng việc nghe những cuốn mới mua qua sách nói. Cả hai đều là lựa chọn tốt dù không đem tới cảm giác quen thuộc, thú vị như sách giấy khi đọc. Nhưng chắc chắn chúng sẽ đem lại rất nhiều những ghi chép cho bạn. Đó mới là điều quan trọng và ăn tiền.
+
 ## Created:
 - [[2021-11-23]]

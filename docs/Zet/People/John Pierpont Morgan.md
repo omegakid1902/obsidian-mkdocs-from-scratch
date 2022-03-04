@@ -32,5 +32,6 @@ publish: True
 ## Ref:
 - [Morgan-Edison-Tesla những con người vĩ đại - PGS Hà Hoàng Kiệm (hahoangkiem.com)](https://hahoangkiem.com/tinh-hoa-nhan-loai/morgan-edison-tesla-nhung-con-nguoi-vi-dai-1504.html)
 
-[^wiki]:[J. P. Morgan – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/J._P._Morgan)## Created:
+[^wiki]:[J. P. Morgan – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/J._P._Morgan)
+## Created:
 - [[2021-11-19]]

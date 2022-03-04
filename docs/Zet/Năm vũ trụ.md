@@ -40,5 +40,6 @@ Hiện tại là 2021, chúng ta đang sống trong [[Kỷ nguyên Bảo Bình]]
 
 ## Ref:
 - [Thời Đại Bảo Bình - Kỷ Nguyên Ánh Sáng Tràn Đầy Tình Yêu, Tự Do Và Sáng Tạo (khoahoctamlinh.vn)](https://khoahoctamlinh.vn/dai-ky-nguyen/thoi-dai-bao-binh---ky-nguyen-anh-sang-tran-day-tinh-yeu-tu-do-va-sang-tao-669.html)
+
 ## Created:
 - [[2021-11-24]]

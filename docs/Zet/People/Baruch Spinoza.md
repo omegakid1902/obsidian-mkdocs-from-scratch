@@ -19,5 +19,6 @@ Baruch Spinoza (1632-1677) là một [[Người Do Thái]] gốc [[Bồ Đào Nh
 Tên gọi khác [[Benedict Spinoza]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-31]]

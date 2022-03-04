@@ -31,5 +31,6 @@ Bảo Đại là vị hoàng đế thứ 13, cũng là cuối cùng của [[Nhà
 
 ## Ideas & thoughts:
 
+
 ## Created:
 - [[2021-07-17]]

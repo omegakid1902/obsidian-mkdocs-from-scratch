@@ -42,5 +42,6 @@ Vaccination, tạm dịch là tiêm chủng, là phương pháp tiêm [[Vaccine]
 	- [[Vaccine Moderna]]
 	- [[Vaccine AstraZeneca]]
 - [[Big Medicine]]
+
 ## Created:
 - [[2021-10-10]]

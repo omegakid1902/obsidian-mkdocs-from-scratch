@@ -23,5 +23,6 @@ Ba Chân lý của [[Thông thiên học]]:[^1]
 ## Ideas & thoughts:
 - Chân lý là đây sao!? [[Ý nghĩa cuộc sống|Ý nghĩa cuộc đời]], [[Khủng hoảng hiện sinh]]
 
-[^1]: [[@ Marcel Bohrer, Thông thiên học dẫn giải#211026-2353]]## Created:
+[^1]: [[@ Marcel Bohrer, Thông thiên học dẫn giải#211026-2353]]
+## Created:
 - [[2021-10-26]]

@@ -38,5 +38,6 @@ Các bác sĩ thời đó cho rằng, dịch hạch có thể lây nhiễm qua �
 - [[Các định đề Robert Koch]]
 - 
 ## Ref:
-- [Dịch hạch – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_h%E1%BA%A1ch)## Created:
+- [Dịch hạch – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/D%E1%BB%8Bch_h%E1%BA%A1ch)
+## Created:
 - [[2021-11-27]]

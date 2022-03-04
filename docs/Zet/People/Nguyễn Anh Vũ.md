@@ -21,5 +21,6 @@ Nguyễn Anh Vũ là con trai của [[Nguyễn Trãi]] với vợ thứ 4 là [[
 
 ## Ideas & thoughts:
 - Nguyễn Anh Vũ gồm 7 người con, dòng dõi của 7 người này nổi tiếng cho đến ngày nay ở miền bắc.
+
 ## Created:
 - [[2021-07-14]]

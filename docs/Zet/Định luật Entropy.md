@@ -26,5 +26,6 @@ publish: True
 ## Ideas & thoughts:
 - [[💬220114-2250]]
 
+
 ## Created:
 - [[2022-01-14]]

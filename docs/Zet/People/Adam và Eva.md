@@ -44,5 +44,6 @@ Trong [[The Bible|Kinh thánh]], Adam và Eva có 3 người con là
 [[Cain sinh lòng đố kị và ghen ghét Abel]] vì [[God|Thiên Chúa]] ưu ái của lễ của [[Abel]]. [[Cain sát hại Abel]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-14]]

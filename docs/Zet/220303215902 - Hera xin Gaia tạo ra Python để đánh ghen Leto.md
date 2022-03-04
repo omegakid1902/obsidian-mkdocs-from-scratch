@@ -22,5 +22,6 @@ publish: True
 
 ## Relate:
 - [[220222220614 - Apollo là con trai của Zeus và Leto]]
-- [[220222220450 - Artemis là em song sinh với Apollo]]## Created:
+- [[220222220450 - Artemis là em song sinh với Apollo]]
+## Created:
 - [[2022-03-03]]

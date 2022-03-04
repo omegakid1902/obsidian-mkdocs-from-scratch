@@ -28,5 +28,6 @@ Lúcia dos Santos (28 tháng 3 năm  - 13 tháng 2 năm 2005) thường được
 
 ## Ideas & thoughts:
 - Tên hai đứa trẻ cùng Lucia chứng kiến Đức Mẹ hiện ra là  Francisco Marto và Jacinta Marto. Tuy nhiên, hai đứa trẻ này đã mất trong bệnh dịch
-- [[Có phân tích cho rằng Lucia bị thay thế bởi một người khác từ năm 1960]]## Created:
+- [[Có phân tích cho rằng Lucia bị thay thế bởi một người khác từ năm 1960]]
+## Created:
 - [[2022-01-10]]

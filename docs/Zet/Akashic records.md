@@ -42,5 +42,6 @@ Thư viện Akashic được định nghĩa lần đầu bởi nhà thông thiê
 - [Thuc Tinh Tam Linh: Thư viện Akashic (Akashic Record) - P1](https://thuctinhtamlinh.blogspot.com/2014/07/thu-vien-akashic-akashic-record-p1.html)
 - [Hồ sơ Akashic: “Bộ nhớ Vũ trụ” lưu giữ tất cả sự kiện từng xảy ra của nhân loại. - Thiền Chữa Lành (thienchualanh.com)](https://thienchualanh.com/chua-phan-loai/ho-so-akashic-bo-nho-vu-tru-luu-giu-tat-ca-su-kien-tung-xay-ra-cua-nhan-loai/)
 
-[^1]:[What Are the Akashic Records? - trueself](https://www.trueself.com/what-are-the-akashic-records-2651201381.html)## Created:
+[^1]:[What Are the Akashic Records? - trueself](https://www.trueself.com/what-are-the-akashic-records-2651201381.html)
+## Created:
 - [[2021-10-12]]

@@ -85,5 +85,6 @@ Ideas:
 - PCR không nói được sự khác nhau giữa các phân tử/hạt virus hoặc virus đang sống!?
 - Câu cuối ông MC nói một ẩn ý *"so even if you believe in hiv"*!????
 
+
 ## Created:
 - [[2021-11-04]]

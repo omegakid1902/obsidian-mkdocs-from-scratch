@@ -21,5 +21,6 @@ publish: True
 Theo [[Đại Việt sử ký]], [[Trần Liễu]] trước lúc lâm trung dặn [[Trần Hưng Đạo]] cướp quyền [[Nhà Trần|Nhà Trần]]. [[Trần Liễu có mối hận với em trai mình là Trần Cảnh]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-02]]

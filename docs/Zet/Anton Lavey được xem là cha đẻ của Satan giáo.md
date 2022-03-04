@@ -23,5 +23,6 @@ publish: True
 
 
 ## Ref:
-- [ĐI TÌM NGUỒN GỐC CỦA TÍN NGƯỠNG SATAN VÀ SATAN GIÁO - BOOKHUNTER - Đọc để nhận thức một thế giới đa chiều (bookhunterclub.com)](https://bookhunterclub.com/di-tim-nguon-goc-cua-tin-nguong-satan-va-satan-giao/)## Created:
+- [ĐI TÌM NGUỒN GỐC CỦA TÍN NGƯỠNG SATAN VÀ SATAN GIÁO - BOOKHUNTER - Đọc để nhận thức một thế giới đa chiều (bookhunterclub.com)](https://bookhunterclub.com/di-tim-nguon-goc-cua-tin-nguong-satan-va-satan-giao/)
+## Created:
 - [[2021-11-13]]

@@ -22,5 +22,6 @@ Do 2 titanide [[Titan Themis|Titanide Themis]] và [[Titan Mnemosyne|Titanide Mn
 
 ## Relate:
 - [[220228210518 - Các cặp phối ngẫu giữa Titan và Titanide]]
-- [[220228210117 - Astreos, Pallas và Perses là con của Titan Crius và Eurybie]]## Created:
+- [[220228210117 - Astreos, Pallas và Perses là con của Titan Crius và Eurybie]]
+## Created:
 - [[2022-02-28]]

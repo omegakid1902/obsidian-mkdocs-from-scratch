@@ -1113,5 +1113,6 @@ The final move may or may not involve microchipping people to where their entire
 A quote from the book 1984 is most fitting for such a scenario:
 
 > We are not content with negative obedience, nor even with the most abject submission. When finally you surrender to us, it must be of your own free will. We do not destroy the heretic because he resists us; so long as he resists us we never destroy him. We convert him, we capture his inner mind, we reshape him. We burn all evil and all illusion out of him; we bring him over to our side, not in appearance, but genuinely, heart and soul. We make him one of ourselves before we kill him. It is intolerable to us that an erroneous thought should exist anywhere in the world, however secret and powerless it may be. Even in the instance of death we cannot permit any deviation . . . we make the brain perfect before we blow it out.  
-> George Orwell - 1984## Created:
+> George Orwell - 1984
+## Created:
 - [[2021-10-30]]

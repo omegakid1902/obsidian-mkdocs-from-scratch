@@ -22,5 +22,6 @@ source:
 
 ## Ideas & thoughts:
 - [[220225202106 - Gilgamesh giết Humbaba giúp dân và giải cứu Ishtar]]
+
 ## Created:
 - [[2022-02-25]]

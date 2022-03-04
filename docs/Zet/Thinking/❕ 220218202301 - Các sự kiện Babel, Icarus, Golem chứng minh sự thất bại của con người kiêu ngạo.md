@@ -16,5 +16,6 @@ Sự kiện [[Tháp Babel]], [[Icarus]], [[Golem]] là những sự kiện thả
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.330
 
 
+
 ## Created:
 - [[2022-02-18]]

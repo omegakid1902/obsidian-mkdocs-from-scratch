@@ -22,5 +22,6 @@ Thương Ưởng (khoảng 390 TCN-338 TCN) gốc từ họ Cơ con cháu của 
 
 ## Ideas & thoughts:
 
-[^1]: https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_%C6%AF%E1%BB%9Fng## Created:
+[^1]: https://vi.wikipedia.org/wiki/Th%C6%B0%C6%A1ng_%C6%AF%E1%BB%9Fng
+## Created:
 - [[2021-08-28]]

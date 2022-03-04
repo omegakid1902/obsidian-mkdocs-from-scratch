@@ -37,5 +37,6 @@ Note: có người cho rằng Triệu là [[Triệu Việt Vương]] ([[Triệu 
 - Thời [[Triệu Việt Vương]] không đủ tự chủ về lãnh thổ, binh lực nên cũng không thể so sánh với [[Nhà Hán]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-25]]

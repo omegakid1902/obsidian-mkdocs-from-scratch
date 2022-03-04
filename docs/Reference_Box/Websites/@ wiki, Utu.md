@@ -16,5 +16,6 @@ publish: True
 - [[220226211522 - Shamash thường được xem là con của thần mặt trăng Nanna và nữ thần Ningal]]
 - [[220226211640 - Sherida là vợ của Shamash]]
 
+
 ## Created:
 - [[2022-02-26]]

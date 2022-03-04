@@ -20,5 +20,6 @@ publish: True
 
 ## Relate:
 - [[220222211050 - Prometheus ăn cắp lửa cho con người]]
-- [[220302204308 - Prometheus và Epimetheus xin cha mẹ tạo ra muôn loài và con người]]## Created:
+- [[220302204308 - Prometheus và Epimetheus xin cha mẹ tạo ra muôn loài và con người]]
+## Created:
 - [[2022-03-02]]

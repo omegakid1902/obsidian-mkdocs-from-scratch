@@ -40,5 +40,6 @@ Hồi giáo là một nhánh của [[Thiên Chúa giáo]], bắt ngồn từ t�
 ## Ideas & thoughts:
 - [[Thuyết âm mưu]]
 - [kofc.org](https://www.kofc.org/un/en/resources/cis/cis317.pdf)
-- [linkedin.com](https://www.linkedin.com/pulse/plain-simple-hidden-truth-islam-ernesto-jeshurum-giro)## Created:
+- [linkedin.com](https://www.linkedin.com/pulse/plain-simple-hidden-truth-islam-ernesto-jeshurum-giro)
+## Created:
 - [[2020-12-25]]

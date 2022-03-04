@@ -29,5 +29,6 @@ Năm 350, [[Giáo Hoàng Julius I]] đã chính thức công bố ngày ngày 25
 - [[Sol Invictus]]
 - Ngày sinh thực sự của Chúa Jesus là ngày nào!? #todo/research 
 	- [[💬211217-2347]]: Theo [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]], ngày sinh của [[Đức Jesus|Chúa Jesus]] là ngày 31 tháng 3.
+
 ## Created:
 - [[2021-10-28]]

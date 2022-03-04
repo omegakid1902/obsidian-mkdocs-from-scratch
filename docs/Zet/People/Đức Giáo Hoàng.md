@@ -37,5 +37,6 @@ Giáo Hoàng là giám mục [[Giáo phận Roma]], là người đứng đầu 
 ## Ideas & thoughts:
 - Trong [[Qmap]], ĐGH có biệt danh là White Pope
 
+
 ## Created:
 - [[2021-06-27]]

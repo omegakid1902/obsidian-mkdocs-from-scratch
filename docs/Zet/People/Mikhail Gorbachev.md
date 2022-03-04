@@ -23,5 +23,6 @@ publish: True
 [[Mikhail Gorbachev thi hành chính sách Glasnost và Perestroika]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-11-22]]

@@ -18,5 +18,6 @@ Biểu tượng [[Ngọn lửa Prometheus]] tượng trưng cho tự do, tiến 
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.107
 
 ## Relate:
-- [[220222211050 - Prometheus ăn cắp lửa cho con người]]## Created:
+- [[220222211050 - Prometheus ăn cắp lửa cho con người]]
+## Created:
 - [[2022-03-02]]

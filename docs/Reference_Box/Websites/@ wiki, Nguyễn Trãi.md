@@ -62,5 +62,6 @@ publish: True
 - [[220131111924 - Theo Trần Trọng Kim, Nguyễn Trãi gia nhập Lam Sơn 1420]]
 - [[220131112102 - Một số nhà sử học cho rằng Nguyễn Trãi tham gia Lam Sơn 1416 từ hội thề Lũng Nhai]]
 - [[220131112216 - Theo Trần huy Liệu, Nguyễn Trãi gia nhập Lam Sơn khoảng sau 1420 - 1421]]
-- [[220131112305 - Nguyễn Trãi viết Bình Ngô đại cáo khi Lê Lợi lên làm vua]]## Created:
+- [[220131112305 - Nguyễn Trãi viết Bình Ngô đại cáo khi Lê Lợi lên làm vua]]
+## Created:
 - [[2022-01-31]]

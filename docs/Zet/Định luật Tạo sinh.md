@@ -27,5 +27,6 @@ publish: True
 - [[Định luật Tạo sinh phủ định thuyết tiến hóa]]
 
 ## Source:
-- [9 lý do chứng minh thuyết tiến hóa của Darwin sai - Trí Thức VN (trithucvn.org)](https://trithucvn.org/khoa-hoc/9-ly-do-chung-minh-thuyet-tien-hoa-cua-darwin-sai.html)## Created:
+- [9 lý do chứng minh thuyết tiến hóa của Darwin sai - Trí Thức VN (trithucvn.org)](https://trithucvn.org/khoa-hoc/9-ly-do-chung-minh-thuyet-tien-hoa-cua-darwin-sai.html)
+## Created:
 - [[2022-01-13]]

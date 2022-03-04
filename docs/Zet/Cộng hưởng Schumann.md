@@ -28,5 +28,6 @@ Tần số này lần đầu tiên thay đổi vào 6/2014: 8.5Hz. Sau đó đ�
 ## Reference:
 - https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/rung-dong-nang-luong-va-doi-song-phan-3-882.html
 
-[^1]:https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/rung-dong-nang-luong-va-doi-song-phan-3-882.html## Created:
+[^1]:https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/rung-dong-nang-luong-va-doi-song-phan-3-882.html
+## Created:
 - [[2021-10-20]]

@@ -25,5 +25,6 @@ Bối cảnh của vụ án là tại vườn Lệ Chi Viên, khi vua [[Lê Thá
 Sau này, vào năm 1464, vua [[Lê Thánh Tông]] minh oan cho Nguyễn Trãi, ông được truy tặng tước hiệu, đứa con duy nhất thoát chết được làm quan và ban đất.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-14]]

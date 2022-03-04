@@ -20,5 +20,6 @@ publish: True
 Nguyên nhân cuộc đảo chính là do sự bất mãn trước sự cai trị của Ngô Đình Diệm và nhằm chấm dứt cuộc khủng hoảng Phật giáo 1963 bắt đầu từ sự kiện [[Sự kiện phật Đản]], cuộc đảo chính còn được chính Hoa Kỳ bật đèn xanh cho các tướng lĩnh. Nguyên nhân do Chính phủ của Diệm muốn giảm bớt lệ thuộc vào Hoa Kỳ và chủ trương độc lập gây ra nhiều mâu thuẫn với Hoa Kỳ.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-12]]

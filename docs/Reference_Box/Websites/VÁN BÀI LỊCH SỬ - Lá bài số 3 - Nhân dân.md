@@ -105,5 +105,6 @@ VÁN BÀI LỊCH SỬ (tt)
 LÁ BÀI SỐ 4: BÍ ẨN “QANON”
 
 [https://www.facebook.com/permalink.php?story_fbid=252559906542159&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=252559906542159&id=100053644548330&__cft__[0]=AZXalDG-B2FqRf4OzkmdSl1gTGjBmF6JsALYh9_DpgCqW7hDbnIo6c5ln-pVxbTVgST-NpHt12AFozRBeRsiDi2KV5YA7cXa7wCmL54ZCZIUgXLpwMOEnlRgg_OYjdMXiGM&__tn__=-UK-R)
+
 ## Created:
 - [[2021-11-17]]

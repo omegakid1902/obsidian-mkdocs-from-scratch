@@ -23,5 +23,6 @@ Các virus bị bất hoạt không còn khả năng gây bệnh và sinh sản.
 ## Ideas & thoughts:
 - Nuôi cấy số lượng lớn như thế nào? nó chỉ phát triển trên cơ thể người!?
 
+
 ## Created:
 - [[2021-07-10]]

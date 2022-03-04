@@ -20,5 +20,6 @@ publish: True
 [[Trần Cảnh]] được [[Trần Thủ Độ]] đưa vào cung để cưới [[Lý Chiêu Hoàng]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-13]]

@@ -92,5 +92,6 @@ Cuộc đối thoại với Chúa và Abraham về thành Sodom và thành Gomor
 Ông [[Lot]] được Chúa báo dắt gia đình ra khỏi thành Sodom để tránh nạn hủy diệt
 
 ## Relate to:
-- [[🛠️211003-Tóm tắt sách Sáng Thế]]## Created:
+- [[🛠️211003-Tóm tắt sách Sáng Thế]]
+## Created:
 - [[2021-10-03]]

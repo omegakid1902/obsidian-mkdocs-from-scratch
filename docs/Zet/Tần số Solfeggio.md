@@ -51,5 +51,6 @@ Solfeggio bao gồm 6 tần số:
 - [[HEALING CODES FOR THE BIOLOGICAL APOCALYPSE]]
 ## Reference:
 - 
-- https://spiralcreator.wordpress.com/2020/02/04/5-tan-so-solfeggio-cac-rung-dong-cua-tam-series-huyen-hoc/## Created:
+- https://spiralcreator.wordpress.com/2020/02/04/5-tan-so-solfeggio-cac-rung-dong-cua-tam-series-huyen-hoc/
+## Created:
 - [[2021-10-20]]

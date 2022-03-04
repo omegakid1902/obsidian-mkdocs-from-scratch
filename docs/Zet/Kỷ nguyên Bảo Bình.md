@@ -43,5 +43,6 @@ Xu thế trong kỷ nguyên Bảo Bình:
 ## Ref:
 - [Thời Đại Bảo Bình - Kỷ Nguyên Ánh Sáng Tràn Đầy Tình Yêu, Tự Do Và Sáng Tạo (khoahoctamlinh.vn)](https://khoahoctamlinh.vn/dai-ky-nguyen/thoi-dai-bao-binh---ky-nguyen-anh-sang-tran-day-tinh-yeu-tu-do-va-sang-tao-669.html)
 - [Kỷ nguyên Bảo Bình – Chương tiếp theo của nhân loại – Triết Học Đường Phố 2.0 (triethocduongpho.net)](https://triethocduongpho.net/2021/01/02/ky-nguyen-bao-binh-chuong-tiep-theo-cua-nhan-loai/)
-- [Kỷ nguyên Bảo Bình và sự chuyển dịch lớn của Lịch sử Nhân loại (bookhunterclub.com)](https://bookhunterclub.com/ky-nguyen-bao-binh-va-su-chuyen-dich-lon-cua-lich-su-nhan-loai/)## Created:
+- [Kỷ nguyên Bảo Bình và sự chuyển dịch lớn của Lịch sử Nhân loại (bookhunterclub.com)](https://bookhunterclub.com/ky-nguyen-bao-binh-va-su-chuyen-dich-lon-cua-lich-su-nhan-loai/)
+## Created:
 - [[2021-11-24]]

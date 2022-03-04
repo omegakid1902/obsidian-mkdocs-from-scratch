@@ -32,5 +32,6 @@ Thần Ra là biểu tượng của thần mặt trời.
 - [[Nữ thần Tefnut]]
 - [[Bộ chín vĩ đại của Heliopolis]]
 - Các [[Pharaon]] tự xưng là con của thần Ra
+
 ## Created:
 - [[2021-11-19]]

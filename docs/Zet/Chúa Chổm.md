@@ -19,5 +19,6 @@ Chúa Chổm tên gọi dân gian đặt cho vua [[Lê Trang Tông]] thời [[Nh
 Trong dân gian có truyền nhau câu [[Nợ như Chúa Chổm]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-12]]

@@ -20,5 +20,6 @@ publish: True
 - [[@ wiki, Aphrodite]]
 
 ## Relate:
-- [[220227084332 - Aphrodite được gọi là Cytherea và Cypris]]## Created:
+- [[220227084332 - Aphrodite được gọi là Cytherea và Cypris]]
+## Created:
 - [[2022-02-27]]

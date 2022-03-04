@@ -37,5 +37,6 @@ Các kỹ thuật để khám phá cõi này bao gồm[^1]
 	- Giả kim thuật [[Alchemy]]
 - Khái niệm này tương đượng với [[Địa ngục]] trong [[Cơ Đốc Giáo]].[^1]
 
-[^1]: [How Do I Start Soulwork? ⋆ LonerWolf](https://lonerwolf.com/how-do-i-start-soulwork/)## Created:
+[^1]: [How Do I Start Soulwork? ⋆ LonerWolf](https://lonerwolf.com/how-do-i-start-soulwork/)
+## Created:
 - [[2021-10-19]]

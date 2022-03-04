@@ -40,5 +40,6 @@ publish: True
 - [[@ Cal Newport, Digital Minimalism]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-10]]

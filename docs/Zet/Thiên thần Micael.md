@@ -52,5 +52,6 @@ publish: True
 - [[Jude-01#v9]] và [[1 Thess-04#v16]] là sao chép của nhau?
 - [[Chiến tranh trên Thiên Đàng]] được kể lại trong sách [[Tân Ước]] - [[Revelation|Sách Khải Huyền]] ([wiki](https://vi.wikipedia.org/wiki/T%E1%BB%95ng_l%C3%A3nh_thi%C3%AAn_th%E1%BA%A7n_Micae))
 - [Archangel Michael in the Bible - Scripture Quotes and Prayer (biblestudytools.com)](https://www.biblestudytools.com/topical-verses/archangel-michael-in-the-bible/)
+
 ## Created:
 - [[2021-09-20]]

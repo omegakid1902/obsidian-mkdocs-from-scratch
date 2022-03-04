@@ -38,5 +38,6 @@ Karl Marx, phiên âm Các Mác, là một nhà kinh tế học, triết học v
 - Luận án tiến sĩ của ông: _Sự khác biệt giữa triết học tự nhiên của [Epicurus](https://vi.wikipedia.org/wiki/Epicuros "Epicuros") với triết học tự nhiên của [Democritus](https://vi.wikipedia.org/wiki/Democritos)_
 ## Ref:
 - [Tiểu sử Các Mác | C. Mác; Ph. Ăngghen; V. I. Lênin; Hồ Chí Minh (dangcongsan.vn)](https://tulieuvankien.dangcongsan.vn/c-mac-angghen-lenin-ho-chi-minh/c-mac/tieu-su-cuoc-doi-va-su-nghiep/tieu-su-cac-mac-149)
+
 ## Created:
 - [[2021-11-13]]

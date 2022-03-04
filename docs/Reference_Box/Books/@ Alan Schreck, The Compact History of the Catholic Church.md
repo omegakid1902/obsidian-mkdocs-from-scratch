@@ -395,5 +395,6 @@ Kết quả của việc hiện ra này được nhận thấy vào bảy năm s
 Ðiều hiển nhiên khi Ðức Maria hiện ra với Bernadette Soubirous, một thiếu nữ mười bốn tuổi ở Lộ Ðức nước Pháp, đó là ngài tiết lộ một danh hiệu đã được Ðức Giáo Hoàng Piô IX dùng quyền bất khả ngộ để phê chuẩn bốn năm trước đó. Ðức Maria nói với Bernadette Soubirous, “Ta là Ðức Vô Nhiễm Nguyên Tội.” — location: [2791]() ^ref-8136
 
 ---
+
 ## Created:
 - [[2021-11-13]]

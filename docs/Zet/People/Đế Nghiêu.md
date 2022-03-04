@@ -22,5 +22,6 @@ publish: True
 
 ## Ideas & thoughts:
 [[Đế Nghiêu nhường ngôi cho Đế Thuấn]]
+
 ## Created:
 - [[2021-09-05]]

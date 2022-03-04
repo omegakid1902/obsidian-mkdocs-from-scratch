@@ -25,5 +25,6 @@ Reference Manager là nơi mà ta có thể lưu trữ các tài liệu tham kh�
 - [[Zettelkasten]]
 - [[Niklas Luhmann]]
 - [[Citation]]
-- [[Front Matter Of Book]]## Created:
+- [[Front Matter Of Book]]
+## Created:
 - [[2020-10-21]]

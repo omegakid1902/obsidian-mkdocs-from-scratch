@@ -30,5 +30,6 @@ Dưới đây là phủ nhận của báo chính thống:
 - 
 ## Questions:
 
-[^1]:[telegram](https://t.me/TinCOVID19VaccineCapNhat/1547): Trong Vắc-xin Covid, chúng ta có các dạng sinh học và tổng hợp và ký sinh trùng. **Ký sinh trùng** khó chịu này (Trypanosoma cruzi) một mình được biết đến **lây nhiễm các tế bào của bạn và nó sẽ tiếp tục sao chép khắp cơ thể bạn phá hủy mọi tế bào trong quá trình này, gây tử vong.**## Created:
+[^1]:[telegram](https://t.me/TinCOVID19VaccineCapNhat/1547): Trong Vắc-xin Covid, chúng ta có các dạng sinh học và tổng hợp và ký sinh trùng. **Ký sinh trùng** khó chịu này (Trypanosoma cruzi) một mình được biết đến **lây nhiễm các tế bào của bạn và nó sẽ tiếp tục sao chép khắp cơ thể bạn phá hủy mọi tế bào trong quá trình này, gây tử vong.**
+## Created:
 - [[2021-10-08]]

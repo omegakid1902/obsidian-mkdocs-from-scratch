@@ -19,5 +19,6 @@ Obsidian Publish ý nói đến những ghi chú trên nền tảng [[Obsidian]]
 Obsidian có một dịch vụ hỗ trợ người dùng publish website cá nhân khá là và bắt mắt, nó thường bao gồm một giao diện [[Backlink graph view]] trực quan trên giao diện web. Ngoài ra, người dùng có thể tự mình publish website thông qua việc chuyển file md thành html hoặc cũng có rất nhiều công cụ hỗ trợ việc tạo website từ markdown. Các bạn có thể tham khảo trên [[Github]] hoặc [[Obsidian Forum]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-22]]

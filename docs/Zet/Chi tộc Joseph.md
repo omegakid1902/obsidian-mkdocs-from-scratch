@@ -33,5 +33,6 @@ Chi tộc Joseph được phân thành 2 chi tộc, trước khi chết, Jacob c
 ## Ideas & thoughts:
 - [[Israel có 12 chi tộc]].
 
+
 ## Created:
 - [[2021-11-21]]

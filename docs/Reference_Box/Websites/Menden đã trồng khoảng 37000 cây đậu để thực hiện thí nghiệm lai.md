@@ -12,5 +12,6 @@ tags:
 
 ## Source:
 - [Di truyền Mendel – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Di_truy%E1%BB%81n_Mendel)
+
 ## Created:
 - [[2022-01-13]]

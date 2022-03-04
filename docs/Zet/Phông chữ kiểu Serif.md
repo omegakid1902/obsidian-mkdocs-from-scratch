@@ -22,5 +22,6 @@ Phông chữ kiểu serif là phông chữ có chân, là phông chữ có một
 
 ## Ideas & thoughts:
 Trái ngược lại là [[Phông chữ Sans Serif]]
+
 ## Created:
 - [[2021-08-31]]

@@ -40,5 +40,6 @@ Người Palestine thực sự đáng thương, và giờ không ai công nhận
 Đứng trên phương diện chủng tộc, quốc gia thì họ càng không có lý do gì làm việc này. Nhưng người Palestine cải đạo sang [[Hồi Giáo]] đang sống ở đó mới chính là dân tộc có huyết thống với người Do Thái cổ đại. 
 
 Hơn thế nữa, có những nghiên cứu những người theo [[Chủ Nghĩa Zion]] lại là Do thái giả. [[Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả]]. Và [[Andrew Hitchcock cho rằng Ashkenazi chính là Khazars]]. Vương quốc của họ là [[Khazaria]] cách vùng đất [[Israel]] 800 dặm về hướng bắc. [[Người Do Thái Ashkenazi|Ashkenazi Jews]] chiếm phần lớn số lượng người Do Thái trên thế giới. Khi lập quốc Israel, họ kỳ thị các dân tộc Do Thái khác.
+
 ## Created:
 - [[2021-10-30]]

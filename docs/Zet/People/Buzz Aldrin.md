@@ -25,5 +25,6 @@ publish: True
 - Buzz Aldrin từng nói nhìn thấy [[UFO]] trên đường bay tới mặt trăng.[^ufo]
 
 [^wiki]:[Buzz Aldrin – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Buzz_Aldrin)
-[^ufo]: [Phi hành gia Apollo 11 nói thật về việc thấy UFO (tinhhoa.net)](https://tinhhoa.net/phi-hanh-gia-apollo-11-noi-that-ve-viec-thay-ufo.html)## Created:
+[^ufo]: [Phi hành gia Apollo 11 nói thật về việc thấy UFO (tinhhoa.net)](https://tinhhoa.net/phi-hanh-gia-apollo-11-noi-that-ve-viec-thay-ufo.html)
+## Created:
 - [[2021-11-10]]

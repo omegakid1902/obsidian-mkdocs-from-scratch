@@ -24,5 +24,6 @@ publish: True
 - [[220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus]]
 - [[220228221440 - Cyclops chế tạo mũ tàng hình cho Hades]]
 - [[220122144630 - Cyclops giỏi chế tạo vũ khí]]
-- [[220228221849 - Cyclops tạo đinh ba cho Poseidon]]## Created:
+- [[220228221849 - Cyclops tạo đinh ba cho Poseidon]]
+## Created:
 - [[2022-02-28]]

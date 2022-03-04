@@ -16,5 +16,6 @@ Năm 1725, [[Nữ hoàng Nga Catherine I]] mời [[Daniel Bernoulli]] và anh tr
 ## Source:
 - [[@ tiasang.com.vn, Gia đình Bernoulli]]
 
+
 ## Created:
 - [[2022-01-20]]

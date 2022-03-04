@@ -28,5 +28,6 @@ publish: True
 Sau cuộc cải cách làm phát sinh một số giáo phái như Giáo hội Lutheran (phần lớn ở Đức, vùng Nordic và Baltic), các Giáo hội Cải cách (hay Calvinist, hầu hết ở Pháp, Thụy Sĩ, Hà Lan, Hungary, và Scotland), và [[Anh giáo]]. Bên cạnh đó cũng tồn tại các phong trào như [[Anabaptist]] được gọi chung là Cải cách Triệt để.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-06]]

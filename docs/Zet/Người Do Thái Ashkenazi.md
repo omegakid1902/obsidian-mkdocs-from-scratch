@@ -37,5 +37,6 @@ Vào thời Trung cổ, người Ashkenazi bị đàn áp và phần lớn phả
 - Ashkenazi không phải Do thái thuần chủng như các luồng thông tin chính thống!?
 - [[Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả]]
 
-[^1]:[Do Thái Israel và Do Thái Khazaria | Nghiên Cứu Lịch Sử (nghiencuulichsu.com)](https://nghiencuulichsu.com/2013/11/01/do-thai-israel-va-do-thai-khazaria/)## Created:
+[^1]:[Do Thái Israel và Do Thái Khazaria | Nghiên Cứu Lịch Sử (nghiencuulichsu.com)](https://nghiencuulichsu.com/2013/11/01/do-thai-israel-va-do-thai-khazaria/)
+## Created:
 - [[2021-06-19]]

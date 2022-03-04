@@ -25,5 +25,6 @@ publish: True
 ## Relate:
 - [[220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus]]
 - [[220227094251 - Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus]]
-- [[220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình]]## Created:
+- [[220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình]]
+## Created:
 - [[2022-02-27]]

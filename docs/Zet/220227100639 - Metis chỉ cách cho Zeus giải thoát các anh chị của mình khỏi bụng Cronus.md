@@ -24,5 +24,6 @@ publish: True
 ## Relate:
 - [[220226223156 - Cronus đã nuốt các con mình vào bụng]]
 - [[220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt]]
-- [[220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia]]## Created:
+- [[220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia]]
+## Created:
 - [[2022-02-27]]

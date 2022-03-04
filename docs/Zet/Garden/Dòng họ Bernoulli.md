@@ -47,5 +47,6 @@ publish: True
 - [[Johann Bernoulli]]
 - [[Daniel Bernoulli]]
 
+
 ## Created:
 - [[2022-01-20]]

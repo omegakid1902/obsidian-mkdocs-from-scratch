@@ -15,5 +15,6 @@ Thái ất thần kinh là một tác phẩm chiêm tinh được nghiên cứu 
 
 ## Ref:
 - [Cơ sở Toán học và Ý nghĩa Triết học của THÁI ẤT THẦN KINH | PhamVietHung's Home (viethungpham.com)](https://viethungpham.com/2020/08/04/co-so-toan-hoc-va-y-nghia-triet-hoc-cua-thai-at-than-kinh/)
+
 ## Created:
 - [[2022-01-12]]

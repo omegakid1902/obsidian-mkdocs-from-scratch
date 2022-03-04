@@ -48,5 +48,6 @@ Tác giả: [[James Clear]]
 - [[220224203730 - Giữ các tác nhân xấu ở xa để loại bỏ thói quen xấu]]
 - [[220224203927 - Sự mong muốn phần thưởng thôi thúc hơn sự thỏa mãn có được phần thưởng]]
 - [[220224204339 - Phương pháp Temptation bundling là liên kết 1 hành đồng muốn với 1 hành động phải làm]]
-- [[❕ 220224204447 - Temptation Bundling Method dựa trên nguyên tắc Premack]]## Created:
+- [[❕ 220224204447 - Temptation Bundling Method dựa trên nguyên tắc Premack]]
+## Created:
 - [[2021-08-11]]

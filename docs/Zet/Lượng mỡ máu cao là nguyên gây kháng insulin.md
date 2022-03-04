@@ -18,5 +18,6 @@ Lượng mỡ máu cao là nguyên gây ra [[Insulin resistance|Kháng Insulin]]
 
 ## Ideas & thoughts:
 [[Insulin kích thích tế bào mở màng bào tương]]. Vì thế, [[Insulin giúp glucose từ máu đi vào tế bào]].
+
 ## Created:
 - [[2021-09-03]]

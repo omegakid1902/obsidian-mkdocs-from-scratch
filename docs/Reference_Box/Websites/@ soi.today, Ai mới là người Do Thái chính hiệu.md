@@ -192,5 +192,6 @@ _[\- Cao nguyên Golan (phần 2): Ba món quà ngon của Mỹ](http://soi.toda
 _[\- Có Do hay không có Do? Trả lời bạn hung898](http://soi.today/?p=237306 "Có Do hay không có Do? Trả lời bạn hung898")_  
 
 _[\- Cấm thịt heo trong đạo Do Thái](http://soi.today/?p=238466 "Cấm thịt heo trong đạo Do Thái")_  
+
 ## Created:
 - [[2021-10-30]]

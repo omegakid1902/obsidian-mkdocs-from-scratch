@@ -29,5 +29,6 @@ publish: True
 - [[NATO]]
 - 
 
+
 ## Created:
 - [[2021-08-08]]

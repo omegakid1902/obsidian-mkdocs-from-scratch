@@ -24,5 +24,6 @@ Sau khi [[Bò Gugalanna]] bị giết, [[Nữ thần Ishtar|Ishtar]] tức giậ
 - [[@ truyenxuatichcu.com, Sử thi Gilgamesh - sử thi anh hùng cổ xưa nhất thế giới]]
 
 
+
 ## Created:
 - [[2022-02-20]]

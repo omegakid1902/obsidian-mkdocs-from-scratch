@@ -21,5 +21,6 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook Tve-4u) p.58
 
 ## Relate:
-- [[220228212744 - Oceanide là tên gọi để chỉ các con gái của Oceanus]]## Created:
+- [[220228212744 - Oceanide là tên gọi để chỉ các con gái của Oceanus]]
+## Created:
 - [[2022-02-28]]

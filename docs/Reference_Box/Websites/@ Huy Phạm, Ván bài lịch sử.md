@@ -19,5 +19,6 @@ Huy Phạm một fbkers chuyên nghiên cứu và giải mã [[Q's Drop]]. Dư�
 - [[VÁN BÀI LỊCH SỬ - Lá bài số 5 - Donald Trump]]
 - [[VÁN BÀI LỊCH SỬ - Lá bài số 6 - Joe Biden]]
 - [[VÁN BÀI LỊCH SỬ - Lá bài số 7 - Vadimir Putin]]
-- [[VÁN BÀI LỊCH SỬ - Lá bài số 8 - Xi JinPing]]## Created:
+- [[VÁN BÀI LỊCH SỬ - Lá bài số 8 - Xi JinPing]]
+## Created:
 - [[2021-11-17]]

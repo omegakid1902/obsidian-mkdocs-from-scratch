@@ -23,5 +23,6 @@ publish: True
 ![[Pasted image 20211023230022.png]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-10-23]]

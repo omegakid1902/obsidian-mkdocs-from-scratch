@@ -11,5 +11,6 @@ tags:
 [[Khi còn bé Adler mắc bệnh còi xương, bệnh phổi]]. Vì thế, [[Alfred Adler]] có quyết tâm trở thành bác sĩ ngay thời điểm này
 
 ## Source:
-- [[@ wiki, Alfred Adler]]## Created:
+- [[@ wiki, Alfred Adler]]
+## Created:
 - [[2021-08-14]]

@@ -135,5 +135,6 @@ VÁN BÀI LỊCH SỬ (tt)
 LÁ BÀI SỐ 8: XI JINPING
 
 [https://www.facebook.com/permalink.php?story_fbid=284905109974305&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=284905109974305&id=100053644548330&__cft__[0]=AZXp23ha31bkRcf4nfLi0qGmB1RPSXq6argniJqxvxXLkP2Q-jpX03YCOzeiIEL_4-e282MFi_T22OnfoDj6HooMEsB2mkV_GG3-MliY8BOc2FhkXKqVzN5nLGHSzjTmeVenPcdkgO3AFhXrv3YU-QXb&__tn__=-UK-R)
+
 ## Created:
 - [[2021-11-17]]

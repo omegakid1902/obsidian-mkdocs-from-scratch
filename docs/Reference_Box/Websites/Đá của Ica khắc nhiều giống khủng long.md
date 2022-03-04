@@ -19,5 +19,6 @@ Trong Series [[Phim tài liệu Ancient Aliens]]: Dinosaur Secrets Revealed in I
 ->họ sống cùng thời với [[Khủng long]]?
 
 ## Ref:
-- [Ancient Aliens: Dinosaur Secrets Revealed in Ica Stones (Season 4) - YouTube](https://www.youtube.com/watch?v=87UEd0zYu2E&feature=youtu.be)## Created:
+- [Ancient Aliens: Dinosaur Secrets Revealed in Ica Stones (Season 4) - YouTube](https://www.youtube.com/watch?v=87UEd0zYu2E&feature=youtu.be)
+## Created:
 - [[2022-01-05]]

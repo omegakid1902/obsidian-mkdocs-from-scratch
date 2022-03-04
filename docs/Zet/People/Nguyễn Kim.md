@@ -24,5 +24,6 @@ publish: True
 ## Ideas & thoughts:
 - Nguyễn Kim phò tá [[Lê Trang Tông]] đánh [[Mạc Đăng Dung]]
 
+
 ## Created:
 - [[2021-07-12]]

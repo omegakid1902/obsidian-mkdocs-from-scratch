@@ -19,5 +19,6 @@ publish: True
 **Thập tự chinh** là một chuỗi các cuộc chiến tranh tôn giáo được phát động bởi [[Đức Giáo Hoàng]] và được tiến hành bởi quý tộc và những người tự nguyện tham gia để khôi phục lại vị thế của Kito giáo ở vùng [[Đất Thánh]].
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-02]]

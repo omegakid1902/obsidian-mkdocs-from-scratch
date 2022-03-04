@@ -20,5 +20,6 @@ publish: True
 Đại ly giáo Đông Tây là một sự kiện Kito giáo xảy ra 1054 khi [[Chính thống giáo Đông Phương]] và [[Công Giáo]] mâu thuẫn và chia rẽ. Mâu thuẫn khởi nguồn từ trước do khác biệt về mặt địa lý, văn hoá dẫn đến khác biệt về tư tưởng thần học. Mâu thuẫn về quyền hạn [[Đức Giáo Hoàng]].
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-06]]

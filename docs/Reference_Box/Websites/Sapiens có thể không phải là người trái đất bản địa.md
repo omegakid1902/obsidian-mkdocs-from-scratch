@@ -11,5 +11,6 @@ tags:
 Series [[Phim tài liệu Ancient Aliens]] Season 4 nói rằng: [[Homo Sapiens]] có thể không là người trái đất bản địa. 
 
 ## Ref:
-- [Ancient Aliens: Proof of Bigfoot Discovered in Massive Fossil (Season 4)](https://youtu.be/ZjSkA5zMX6o)## Created:
+- [Ancient Aliens: Proof of Bigfoot Discovered in Massive Fossil (Season 4)](https://youtu.be/ZjSkA5zMX6o)
+## Created:
 - [[2022-01-05]]

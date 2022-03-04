@@ -17,5 +17,6 @@ Chúng ta chọn cuộc sống mà chúng ta không dùng tự do của mình đ
 ## Ideas & thoughts:
 - Để nhất quán được con đường, định hướng lựa chọn, ta phải xác định điều gì mà ta theo đuổi trong cuộc này. Trên cơ sở đó, ta mới xác lập quyết định dựa trên những giá trị đó.
 - [[Ý nghĩa cuộc sống]]
+
 ## Created:
 - [[2021-08-31]]

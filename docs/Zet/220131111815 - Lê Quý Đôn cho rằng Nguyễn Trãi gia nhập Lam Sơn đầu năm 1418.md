@@ -17,5 +17,6 @@ Theo [[Đại Việt thông sử]], [[Lê Quý Đôn]] cho rằng [[Nguyễn Tr�
 - [[@ wiki, Nguyễn Trãi]]
 
 
+
 ## Created:
 - [[2022-01-31]]

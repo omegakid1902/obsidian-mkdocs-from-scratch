@@ -40,5 +40,6 @@ publish: True
 - [[220120 - Nữ hoàng Nga mời 2 anh em Bernoulli điều hành ngành toán Hàn lâm viện hoàng gia]]
 - [[220120 - Euler thế chỗ Nicolas điều hành Hàn lâm viện hoàng gia Saint-Petersburg]]
 
+
 ## Created:
 - [[2022-01-20]]

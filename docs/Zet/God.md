@@ -66,5 +66,6 @@ God tương đương với các định nghĩa
   - Thần
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-11-07]]

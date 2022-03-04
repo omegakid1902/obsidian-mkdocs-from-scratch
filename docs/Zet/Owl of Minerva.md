@@ -23,5 +23,6 @@ Con cú của Minerva biểu trưng cho sự thông tuệ ở trong bóng tối.
 ## Ideas & thoughts:
 - [[Hội Illuminati|Illuminati]]
 
+
 ## Created:
 - [[2021-11-13]]

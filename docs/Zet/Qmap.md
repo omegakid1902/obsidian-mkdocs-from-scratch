@@ -251,5 +251,6 @@ click Ignatius "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FIgnatius%
 
 click Hitler "obsidian://open?vault=zettelkasten&file=Zet%2FPeople%2FAdolf%20Hitler"
 ```
+
 ## Created:
 - [[2021-09-20]]

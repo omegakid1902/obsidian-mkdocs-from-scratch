@@ -24,5 +24,6 @@ Trần Trọng Kim là một học giả, nhà nghiên cứu sử học, văn h�
 
 ## Ideas & thoughts:
 
+
 ## Created:
 - [[2021-07-11]]

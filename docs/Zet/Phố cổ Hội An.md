@@ -25,5 +25,6 @@ Phố cổ Hội An là một khu đô thị cổ nằm ở ven biển tỉnh Qu
 [[Chùa Cầu]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-08]]

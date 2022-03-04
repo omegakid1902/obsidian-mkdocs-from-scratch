@@ -19,5 +19,6 @@ Hình tượng [[Atlantis]] của Plato được sử dụng lại trong [[@ Tho
 ## Source:
 - [[@ wiki, Atlantis]]
 
+
 ## Created:
 - [[2022-01-18]]

@@ -28,5 +28,6 @@ Alberto Rivera là một người chống [[Công Giáo]], ông có nhiều bằ
 - Alberto Rivera cho rằng [[Vatican]] tạo ra [[Hồi Giáo]] #todo/research 
 
 ## Reference:
-- [tabublog.com](https://tabublog.com/2015/12/27/how-the-vatican-created-islam-by-former-jesuit-priest-alberto-rivera/)## Created:
+- [tabublog.com](https://tabublog.com/2015/12/27/how-the-vatican-created-islam-by-former-jesuit-priest-alberto-rivera/)
+## Created:
 - [[2021-10-27]]

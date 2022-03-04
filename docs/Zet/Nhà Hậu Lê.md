@@ -37,5 +37,6 @@ Nhà Hậu Lê là một triều đại kéo dài từ 1428-1789 do [[Lê Lợi]
 - [[Nguyễn Kim]] phò tá nhà Lê chống lại Nhà Mạc, sau khi Nguyễn Kim mất, [[Trịnh Kiểm]] tiếp tục lãnh đạo quân đội. Thời kỳ hai nhà Lê Mạc đánh nhau còn gọi là [[Nam Bắc Triều]].
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-12]]

@@ -25,5 +25,6 @@ publish: True
 ## Relate:
 - [[220303212520 - Ixion mưu tính chuyện bỉ ổi với Hera]]
 - [[220303212426 - Zeus tạo ra đám mây Nephele giống hệt Hera]]
-- [[220303212625 - Zeus sai Hermes bắt Ixion giam xuống Tartarus]]## Created:
+- [[220303212625 - Zeus sai Hermes bắt Ixion giam xuống Tartarus]]
+## Created:
 - [[2022-03-03]]

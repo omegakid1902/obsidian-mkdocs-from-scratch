@@ -17,5 +17,6 @@ publish: True
 ## Notes:
 [[Trần Thủ Độ]] là em họ [[Linh Từ Quốc Mẫu]]. Trần Thủ Độ là em cháu họ của [[Trần Lý]], gọi ông là bác.
 
+
 ## Created:
 - [[2021-11-25]]

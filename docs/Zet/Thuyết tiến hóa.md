@@ -50,5 +50,6 @@ publish: True
 - Bác bỏ thuyết tiến hóa [Alex Collier – Góc nhìn của một Andromedan về Lịch sử Thiên hà (Pt.1) – Extraterrestrial Messages (home.blog)](https://extraterrestrialbeing.home.blog/2020/08/17/alex-collier-goc-nhin-cua-mot-andromedan-ve-lich-su-thien-ha-pt-1/)
 - [Was Darwin Wrong? Darwin đã sai? | PhamVietHung's Home (viethungpham.com)](https://viethungpham.com/2019/11/11/was-darwin-wrong-darwin-da-sai/)
 
-[^1]:[Thuyết tiến hóa Darwin: Đã đến lúc chấm dứt sự lừa dối vĩ đại (nghiencuuquocte.org)](http://nghiencuuquocte.org/forums/topic/thuyet-tien-hoa-darwin-da-den-luc-cham-dut-su-lua-doi-vi-dai/)## Created:
+[^1]:[Thuyết tiến hóa Darwin: Đã đến lúc chấm dứt sự lừa dối vĩ đại (nghiencuuquocte.org)](http://nghiencuuquocte.org/forums/topic/thuyet-tien-hoa-darwin-da-den-luc-cham-dut-su-lua-doi-vi-dai/)
+## Created:
 - [[2021-10-11]]

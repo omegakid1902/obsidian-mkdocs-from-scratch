@@ -22,5 +22,6 @@ Hoạt động chính là cầu nguyện và chiêm niệm cho nền công lý v
 ## Ideas & thoughts:
 - [[Cầu nguyện Taize]]
 - [[Phong trào Đại Kết]]
+
 ## Created:
 - [[2020-12-07]]

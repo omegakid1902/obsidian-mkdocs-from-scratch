@@ -25,5 +25,6 @@ Anthony Fauci giám đốc [[Viện dị ứng và bệnh truyền nhiễm quố
 
 ## Reference:
 - https://www.ntdvn.com/the-gioi/dang-cong-hoa-keu-goi-sa-thai-fauci-vi-moi-lien-he-voi-vien-virus-hoc-vu-han-189794.html
-- https://www.ntdvn.com/doi-song/tien-si-fauci-cuoi-cung-cung-lo-mat-184843.html## Created:
+- https://www.ntdvn.com/doi-song/tien-si-fauci-cuoi-cung-cung-lo-mat-184843.html
+## Created:
 - [[2021-10-14]]

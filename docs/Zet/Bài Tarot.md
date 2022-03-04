@@ -17,5 +17,6 @@ Tarot là một bộ bài dùng để chơi bài xuất hiện nhiều vùng kh�
 
 ## Ideas & thoughts:
 - [[Carl Jung]] tìm hiểu bài tarot để nghiên cứu tâm lý
+
 ## Created:
 - [[2021-07-02]]

@@ -23,5 +23,6 @@ publish: True
 Trần Huyền Trang là một nhà sư thời [[Nhà Đường]], ông có công dịch sách kinh từ [[Tiếng Sanskrit]] sang tiếng Hán
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-06]]

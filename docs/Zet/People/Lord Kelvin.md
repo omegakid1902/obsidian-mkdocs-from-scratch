@@ -21,5 +21,6 @@ publish: True
 Lord Kelvin tên khai sinh là William Thomson, 
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2022-01-12]]

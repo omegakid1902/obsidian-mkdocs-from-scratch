@@ -21,5 +21,6 @@ D3js là một công cụ [[Data visualization]] được phát triển dựa tr
 
 ## Relate to:
 - [vasturiano/force-graph](https://github.com/vasturiano/force-graph)
-- [d3 gallery](https://github.com/d3/d3/wiki/Gallery)## Created:
+- [d3 gallery](https://github.com/d3/d3/wiki/Gallery)
+## Created:
 - [[2021-10-02]]

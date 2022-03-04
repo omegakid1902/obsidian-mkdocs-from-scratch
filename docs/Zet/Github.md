@@ -16,5 +16,6 @@ publish: True
 
 ## Ideas & thoughts:
 - [[Git]]
-- [[Gitlab]]## Created:
+- [[Gitlab]]
+## Created:
 - [[2021-07-17]]

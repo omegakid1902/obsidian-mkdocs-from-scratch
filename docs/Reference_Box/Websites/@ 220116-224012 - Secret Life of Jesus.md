@@ -15,5 +15,6 @@ link: [The UnXplained: Secret Life of Jesus REVEALED in CONTROVERSIAL Texts (Sea
 	- Phúc âm của Thomas
 	- Phúc Âm của Phillip
 	- Phúc Âm của [[Mary Magdalene]]
-- Mary Magdalene theo các quyển sách ngộ đạo này là một môn đồ, thậm chí là người tình của Đức Jesus.## Created:
+- Mary Magdalene theo các quyển sách ngộ đạo này là một môn đồ, thậm chí là người tình của Đức Jesus.
+## Created:
 - [[2022-01-16]]

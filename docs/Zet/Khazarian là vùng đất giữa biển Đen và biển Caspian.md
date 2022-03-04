@@ -24,5 +24,6 @@ publish: True
 ## Reference:
 - [Rothschild – Một dòng họ gây chiến tàn bạo (vovankienthuc.com)](https://vovankienthuc.com/blog/rothschild-mot-dong-ho-gay-chien-tan-bao.303)
 
+
 ## Created:
 - [[2021-11-13]]

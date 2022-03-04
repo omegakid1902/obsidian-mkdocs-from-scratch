@@ -39,5 +39,6 @@ publish: True
 - [[220220200451 - Tính giản dị phải dựa trên nội tâm]]
 
 
+
 ## Created:
 - [[2022-02-20]]

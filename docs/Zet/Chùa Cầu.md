@@ -25,5 +25,6 @@ publish: True
 - [[Chúa Nguyễn Phúc Chu đặt tên Chùa Cầu là Lai Viễn Kiều]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-08]]

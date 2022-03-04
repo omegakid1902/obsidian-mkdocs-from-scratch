@@ -19,5 +19,6 @@ Giống như phương pháp digital declutter trong [[@ Cal Newport, Digital Min
 
 ## Ideas & thoughts:
 - https://www.youtube.com/watch?v=bV_NdUZEmnE
+
 ## Created:
 - [[2021-08-10]]

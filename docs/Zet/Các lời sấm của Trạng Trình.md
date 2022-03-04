@@ -25,5 +25,6 @@ Các lời sấm của [[Nguyễn Bỉnh Khiêm|Trạng Trình]]
 
 ## Ref:
 - [Giải mã những lời sấm truyền của Nguyễn Bỉnh Khiêm (songdep.com.vn)](https://songdep.com.vn/350-giai-ma-nhung-loi-sam-truyen-cua-nguyen-binh-khiem-d758.html)
+
 ## Created:
 - [[2021-12-13]]

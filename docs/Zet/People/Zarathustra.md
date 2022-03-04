@@ -21,5 +21,6 @@ Zarathustra, hay Zoroaster, là một [[tiên tri]] [[Ba Tư]] cổ đại. Ông
 ![[Pasted image 20211023222946.png]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-10-23]]

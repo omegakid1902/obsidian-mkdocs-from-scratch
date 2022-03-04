@@ -18,5 +18,6 @@ Sau khi [[Nữ thần Ishtar|Ishtar]] bị giết, trần gian thiếu vắng t�
 ## Source:
 - [[@ peterpotter90.wordpress, Các vị thần trong thần thoại Lưỡng Hà]]
 
+
 ## Created:
 - [[2022-01-21]]

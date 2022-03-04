@@ -17,5 +17,6 @@ Ban đầu, [[Vua Gilgamesh]] là một vị vua xấu xa tàn ác khiến ngư�
 - [[@ angesus.com, Truyền thuyết về Thần Anu]]
 
 
+
 ## Created:
 - [[2022-01-22]]

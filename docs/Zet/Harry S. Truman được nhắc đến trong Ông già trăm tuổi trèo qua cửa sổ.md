@@ -14,5 +14,6 @@ publish: True
 [[Harry S. Truman]] được nhắc đến trong [[@ Jonas Jonasson, Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-08]]

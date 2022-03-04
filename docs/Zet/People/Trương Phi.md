@@ -22,5 +22,6 @@ publish: True
 Trương Phi là một tướng nổi tiếng của [[Thục Hán]] dưới thời [[Tam Quốc]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-28]]

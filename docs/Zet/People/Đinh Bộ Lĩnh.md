@@ -26,5 +26,6 @@ publish: True
 
 ## Ideas & thoughts:
 
+
 ## Created:
 - [[2021-07-15]]

@@ -15,5 +15,6 @@ Source: [[@ James Clear, Atomic Habits]], 14%
 
 ## Ideas & thoughts:
 - [[220223212749 - Để thay đổi một thói quen hãy thay đổi theo cấp độ đặc tính (220223212454)]]
+
 ## Created:
 - [[2022-02-23]]

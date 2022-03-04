@@ -31,5 +31,6 @@ Câu hỏi được đặt ra là [[Vatican]] đã hoàn toàn công bố hết 
 - [Fatima. Third Secret. About. John Paul II, Pope (1260.org)](http://www.1260.org/Mary/Apparitions_Fatima/Fatima_3rd_Secret_About_John_Paul_II_en.htm)
 - [The Third Secret of Fatima - Original Text (marianland.com)](https://www.marianland.com/thirdsec.html)
 - [Library : Fatima’s Third Secret—More Relevant than Ever? | Catholic Culture](https://www.catholicculture.org/culture/library/view.cfm?recnum=11967)
+
 ## Created:
 - [[2022-01-07]]

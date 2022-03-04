@@ -20,5 +20,6 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.72
 
 ## Relate:
-- [[220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus]]## Created:
+- [[220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus]]
+## Created:
 - [[2022-02-28]]

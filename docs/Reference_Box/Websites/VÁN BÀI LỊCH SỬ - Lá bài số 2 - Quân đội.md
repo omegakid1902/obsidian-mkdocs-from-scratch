@@ -109,5 +109,6 @@ VÁN BÀI LỊCH SỬ (tt)
 LÁ BÀI SỐ 3: NHÂN DÂN
 
 [https://www.facebook.com/permalink.php?story_fbid=247666293698187&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=247666293698187&id=100053644548330&__cft__[0]=AZWJH4XsnGRthVfilRpVLiNZpf3SB_u99Y1_sDGC3MwDkfhqV0_SSmu9ycaoHF_crxRFKw5T-mW-vv-3KF3CLRQH0kbxkWqNPI8hT1tkL3_MBRkitNZ5vCBhRkIZnXrmPpg&__tn__=-UK-R)
+
 ## Created:
 - [[2021-11-17]]

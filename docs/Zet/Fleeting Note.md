@@ -30,5 +30,6 @@ Fleeting Note sẽ được bỏ đi sau khi ta sắp xếp ý tưởng, và ho�
 - [[Literature Note]]
 - [[Permanent Note]]
 - [[Zettelkasten]]
-- [[Niklas Luhmann]]## Created:
+- [[Niklas Luhmann]]
+## Created:
 - [[2020-10-21]]

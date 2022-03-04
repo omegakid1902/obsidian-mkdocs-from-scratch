@@ -29,5 +29,6 @@ Các cặp phối ngẫu giữa [[Người khổng lồ Titan|Titan]] và Titani
 
 ## Relate:
 - [[220228202240 - Các nam thần Titan và các nữ thần Titanide]]
-- [[220228211255 - Do 2 titanide Themis và Mnemosyne không chịu kết hôn nên Crius và Iapetus phải lấy người ngoài]]## Created:
+- [[220228211255 - Do 2 titanide Themis và Mnemosyne không chịu kết hôn nên Crius và Iapetus phải lấy người ngoài]]
+## Created:
 - [[2022-02-28]]

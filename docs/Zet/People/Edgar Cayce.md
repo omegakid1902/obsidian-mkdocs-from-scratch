@@ -23,5 +23,6 @@ publish: True
 
 ## Ref:
 - [The Wild Predictions Of Edgar Cayce - The Sleeping Prophet | Random Thursday - YouTube](https://www.youtube.com/watch?v=KCg04Z5BeSA)
-- [Edgar Cayce's Amazing Interpretation of The Book Of Revelation - YouTube](https://www.youtube.com/watch?v=vTc9IZH0Ed8)## Created:
+- [Edgar Cayce's Amazing Interpretation of The Book Of Revelation - YouTube](https://www.youtube.com/watch?v=vTc9IZH0Ed8)
+## Created:
 - [[2022-01-03]]

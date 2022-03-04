@@ -21,5 +21,6 @@ publish: True
 ## Ideas & thoughts:
 - Theo [[@ Huy Phạm, Mật sử luận 5 - KMR]], [[Khazarian Mafia]] tạo nên cuộc cách mạng để trả thù [[Sa hoàng Nga]] và nước Nga. Cuộc cách mạng tra tấn, giết hại dã man người vô tội, thường dân. Tìm hiểu thêm về `Bolshevik Cheka`, `Cuộc khủng bố đỏ` hay video `The Checklist`  trên [[Youtube]].
 
+
 ## Created:
 - [[2021-11-18]]

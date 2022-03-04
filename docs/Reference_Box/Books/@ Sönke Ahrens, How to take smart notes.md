@@ -12,5 +12,6 @@ How to take smart notes là một quyển sách nói về phương pháp [[Zette
 
 Quyển sách giới thiệu về nguyên tắc ghi chú của [[Niklas Luhmann]] và cách để tạo ra các ghi chú [[Fleeting Note]], [[Literature Note]] và [[Permanent Note]]
 
-[[Tóm tắt sách - How to take smart notes]]## Created:
+[[Tóm tắt sách - How to take smart notes]]
+## Created:
 - [[2021-07-11]]

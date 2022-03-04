@@ -12,5 +12,6 @@ publish: True
 [[Sử thi Edda]] bằng thơ gồm 29 bài thơ, trong đó có 11 bài thơ nói về các vị thần
 ## Source:
 - [[@ wiki, Thần thoại Bắc Âu]]
+
 ## Created:
 - [[2022-01-25]]

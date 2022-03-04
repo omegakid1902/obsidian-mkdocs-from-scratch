@@ -28,5 +28,6 @@ Jacob là con của [[Isaac]], cháu nội của [[Abraham]].
 [[Israel có 12 chi tộc|Jacob có 12 người con trai]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-11-21]]

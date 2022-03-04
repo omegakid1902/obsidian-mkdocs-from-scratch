@@ -27,5 +27,6 @@ Kháng thể được sản xuất bởi bạch cầu [[Lympho B]] để [[Hệ 
 - Gamma protein, hay còn được gọi là [[Kháng thể]] là một loại [[Globulin]], Gamma protein là có hình cầu và tan trong Globulin???
 - Gamma protein bao gồm kháng thể IgA, IgD, IgE, IgG và IgM.
 
+
 ## Created:
 - [[2021-07-11]]

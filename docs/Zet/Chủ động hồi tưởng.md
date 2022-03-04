@@ -15,5 +15,6 @@ publish: True
 Khác với ôn tập thụ động, bạn chỉ đọc hoặc xem lại tài liệu nhiều lần
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-10-23]]

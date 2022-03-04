@@ -17,5 +17,6 @@ publish: True
 Hệ số ELO là một chỉ số tính điểm trong các trò chơi, thường là các trò chơi đối kháng hai người như cờ vua. Hệ số này được phát minh bởi [[Arpad Elo]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-26]]

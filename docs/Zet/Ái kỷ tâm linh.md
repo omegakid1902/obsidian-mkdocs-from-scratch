@@ -19,5 +19,6 @@ publish: True
 
 
 ## Ref:
-- [Né tránh bằng tâm linh (spiritual bypassing) – Quả Cầu (xn--qucu-hr5aza.cc)](https://xn--qucu-hr5aza.cc/ne-tranh-bang-tam-linh-spiritual-bypassing/)## Created:
+- [Né tránh bằng tâm linh (spiritual bypassing) – Quả Cầu (xn--qucu-hr5aza.cc)](https://xn--qucu-hr5aza.cc/ne-tranh-bang-tam-linh-spiritual-bypassing/)
+## Created:
 - [[2021-12-07]]

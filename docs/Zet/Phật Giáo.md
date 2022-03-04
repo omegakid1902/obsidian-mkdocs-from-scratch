@@ -34,5 +34,6 @@ Giáo lý được tập trung trong [[Tam Tạng kinh thư]] bao gồm:
 
 - [[Kinh tạng]]
 - [[Luật tạng]]
-- [[Luận tạng]]## Created:
+- [[Luận tạng]]
+## Created:
 - [[2021-10-01]]

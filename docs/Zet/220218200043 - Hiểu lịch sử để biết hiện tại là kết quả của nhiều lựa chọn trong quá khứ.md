@@ -16,5 +16,6 @@ Nghiên cứu lịch sử không phải để dự đoán tương lai mà để 
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.302
 
 
+
 ## Created:
 - [[2022-02-18]]

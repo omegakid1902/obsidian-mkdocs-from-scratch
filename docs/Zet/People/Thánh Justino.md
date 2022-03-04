@@ -19,5 +19,6 @@ publish: True
 Khi còn trẻ, ông có khuynh hướng tìm hiểu triết học, tìm kiếm chân lý. Và ông đã tìm đến [[God]] thông thông qua việc tìm kiếm chân lý.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-01-01]]

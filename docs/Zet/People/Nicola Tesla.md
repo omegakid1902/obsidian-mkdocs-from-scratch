@@ -49,5 +49,6 @@ publish: True
 - [FBI](https://vault.fbi.gov/nikola-tesla)
 - [https://hello-earth.com/](https://hello-earth.com/)
 - [Nếu 6 công nghệ này của Nikola Tesla được công bố, lịch sử thế giới có lẽ sẽ phải viết lại! - TinhHoa.Net](https://tinhhoa.net/neu-6-cong-nghe-nay-cua-nikola-tesla-duoc-cong-bo-lich-su-the-gioi-co-le-se-phai-viet-lai.html)
+
 ## Created:
 - [[2021-10-11]]

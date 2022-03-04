@@ -53,5 +53,6 @@ Theo Bechamp, vi khuẩn là sản phẩm sinh ra từ bệnh chứ không phả
 [^sick]:[[Kary Mullis, inventor of the PCR, talks about the HIV-AIDS connection]]
 [^kduoc]:[[@ kduoc.com, Nguyên nhân gây ra ung thư]]
 
+
 ## Created:
 - [[2021-10-10]]

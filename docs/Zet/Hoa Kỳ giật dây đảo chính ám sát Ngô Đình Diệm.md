@@ -22,5 +22,6 @@ Hoa Kỳ quyết định loại bỏ [[Ngô Đình Diệm]]. Hoa Kỳ hậu thu�
 
 ## Ideas & thoughts:
 - [[Đệ Nhị Cộng Hòa]]
+
 ## Created:
 - [[2021-07-18]]

@@ -26,5 +26,6 @@ publish: True
 [[Trần Hưng Đạo và Trần Quang Khải là hai anh em họ]]
 Có mối bất hòa với [[Trần Hưng Đạo]]
 
+
 ## Created:
 - [[2021-09-02]]

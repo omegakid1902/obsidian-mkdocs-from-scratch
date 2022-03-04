@@ -15,5 +15,6 @@ publish: True
 Bản dịch Cựu Ước Septuaginta còn được gọi là [[Bản bảy mươi]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-31]]

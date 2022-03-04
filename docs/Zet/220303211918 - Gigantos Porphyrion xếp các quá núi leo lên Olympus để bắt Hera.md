@@ -21,5 +21,6 @@ Bị mê mẩn bởi sắc đẹp của Hera, [[Gigantos Porphyrion]] xếp các
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.157
 
 ## Relate:
-- [[220303211856 - Gigantos Porphyrion bị sắc đẹp Hera quyến rũ]]## Created:
+- [[220303211856 - Gigantos Porphyrion bị sắc đẹp Hera quyến rũ]]
+## Created:
 - [[2022-03-03]]

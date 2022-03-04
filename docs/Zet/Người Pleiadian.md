@@ -20,5 +20,6 @@ publish: True
 
 ## Ref:
 - [[@ Sal Rachele, Thông điệp từ các Đấng Sáng Tạo]]
+
 ## Created:
 - [[2021-12-29]]

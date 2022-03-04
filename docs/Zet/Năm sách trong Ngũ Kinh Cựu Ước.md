@@ -25,5 +25,6 @@ Năm sách trong [[Ngũ Kinh Cựu Ước]]
 ## Ideas & thoughts:
 
 
+
 ## Created:
 - [[2021-07-31]]

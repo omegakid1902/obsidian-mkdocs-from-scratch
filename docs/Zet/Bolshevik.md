@@ -39,5 +39,6 @@ Ngay sau khi giành được quyền lực 9 năm 1917, đảng đổi tên thà
 - [[Joseph Stalin]]
 
 ## Ref:
-- [Bolshevik – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Bolshevik)## Created:
+- [Bolshevik – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Bolshevik)
+## Created:
 - [[2021-11-19]]

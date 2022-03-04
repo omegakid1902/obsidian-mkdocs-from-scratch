@@ -20,5 +20,6 @@ Pythagore là nhà triết học, toán học Hy Lạp. Ông là người thông
 Ông là người chứng minh [[Định lý Pythagoras|định lý mang tên ông]] về độ dài các cạnh trong tam giác vuông. Ông cũng được xem là cha đẻ của số học. 
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-10]]

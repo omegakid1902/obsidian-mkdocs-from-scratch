@@ -20,5 +20,6 @@ publish: True
 ## Ideas & thoughts:
 - [[Người Gruzia]] chủ yếu theo [[Cơ Đốc Giáo]] Đông phương.
 
+
 ## Created:
 - [[2021-11-19]]

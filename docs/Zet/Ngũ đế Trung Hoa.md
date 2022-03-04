@@ -26,5 +26,6 @@ Theo sách [[Sử ký Tư Mã Thiên]], Ngũ Đế bao gồm:
 - [[Đế Thuấn]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-05]]

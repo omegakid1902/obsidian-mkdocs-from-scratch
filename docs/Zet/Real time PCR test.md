@@ -41,5 +41,6 @@ publish: True
 ## Reference:
 - [(Vietsub) Theo khoa học? (rumble.com)](https://rumble.com/vm1729-vietsub-theo-khoa-hc.html) xem phút 7
 - [Bombshell Evidence: COVID RNA Base Pairs are Identical to Chromosome 8 Human DNA | Our Greater Destiny](https://ourgreaterdestiny.org/2020/08/bombshell-evidence-covid-rna-base-pairs-are-identical-to-chromosome-8-human-dna/)
-- [COVID-19 test is scientific fraud (wickedtruths.org)](https://wickedtruths.org/en/covid-19-test-is-scientific-fraud/)## Created:
+- [COVID-19 test is scientific fraud (wickedtruths.org)](https://wickedtruths.org/en/covid-19-test-is-scientific-fraud/)
+## Created:
 - [[2021-10-17]]

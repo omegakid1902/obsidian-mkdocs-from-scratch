@@ -21,5 +21,6 @@ Khi [[Enkidu]] biết được sự bạo ngược của [[Vua Gilgamesh|Gilgame
 - [[@ wiki, Enkidu]]
 
 
+
 ## Created:
 - [[2022-02-20]]

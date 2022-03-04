@@ -19,5 +19,6 @@ publish: True
 
 ## Ideas & thoughts:
 - [[Zettelkasten]]
-- [[Personal Knowledge Management]]## Created:
+- [[Personal Knowledge Management]]
+## Created:
 - [[2020-10-21]]

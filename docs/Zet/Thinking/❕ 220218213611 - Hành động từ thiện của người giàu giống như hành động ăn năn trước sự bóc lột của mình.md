@@ -16,5 +16,6 @@ Hành động từ thiện của người giàu cũng chỉ như một hành đ�
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.387
 
 
+
 ## Created:
 - [[2022-02-18]]

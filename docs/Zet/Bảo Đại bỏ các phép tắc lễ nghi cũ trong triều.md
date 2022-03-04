@@ -17,5 +17,6 @@ Khi [[Bảo Đại]] về nước nắm quyền, ông thực hiện một cuộc
 
 ## Ref:
 - [[@ wiki, Bảo Đại]]
+
 ## Created:
 - [[2021-07-17]]

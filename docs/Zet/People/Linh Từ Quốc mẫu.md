@@ -36,5 +36,6 @@ Linh Từ Quốc mẫu là hoàng hậu cuối cùng của [[Nhà Lý]], vợ c�
 Bà được gọi là Thiên Cực Công Chúa sau khi tái hôn lấy [[Trần Thủ Độ]].
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-02]]

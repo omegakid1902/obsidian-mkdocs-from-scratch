@@ -23,5 +23,6 @@ publish: True
 ## Ideas & thoughts:
 - [Các tôn giáo khởi nguồn từ Abraham – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/C%C3%A1c_t%C3%B4n_gi%C3%A1o_kh%E1%BB%9Fi_ngu%E1%BB%93n_t%E1%BB%AB_Abraham)
 
+
 ## Created:
 - [[2021-11-21]]

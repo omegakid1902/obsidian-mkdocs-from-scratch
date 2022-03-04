@@ -43,5 +43,6 @@ Trần Hưng Đạo là tác giả của:
 - [[Tượng Trần Hưng Đạo ở Sài Gòn, Vũng Tàu, Quy Nhơn đều do thiết kế Phạm Thông]]
 
 ## Reference:
-- [Ai tạc tượng Trần Hưng Đạo ở bờ sông Sài Gòn? (vovankienthuc.com)](https://vovankienthuc.com/blog/ai-tac-tuong-tran-hung-dao-o-bo-song-sai-gon-.2359)## Created:
+- [Ai tạc tượng Trần Hưng Đạo ở bờ sông Sài Gòn? (vovankienthuc.com)](https://vovankienthuc.com/blog/ai-tac-tuong-tran-hung-dao-o-bo-song-sai-gon-.2359)
+## Created:
 - [[2021-09-02]]

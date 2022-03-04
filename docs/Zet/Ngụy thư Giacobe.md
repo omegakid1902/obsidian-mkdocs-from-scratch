@@ -21,5 +21,6 @@ publish: True
 
 
 ## Ideas & thoughts:
-- [[@ vi.wikipedia.org, Ngụy thư Giacobe]]## Created:
+- [[@ vi.wikipedia.org, Ngụy thư Giacobe]]
+## Created:
 - [[2020-12-25]]

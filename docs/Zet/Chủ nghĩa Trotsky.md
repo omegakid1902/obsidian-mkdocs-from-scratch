@@ -23,5 +23,6 @@ publish: True
 - [ ] [[Lev Davidovich Trotsky]]
 - [ ] Chủ nghĩa Trotsky kế thừa từ chủ nghĩa [[Chủ nghĩa Marx Lenin]] nhưng nó lại không được xem là chủ nghĩa cộng sản #question❓ 
 - [ ] Trotsky tổ chức [[Quốc tế cộng sản lần 4]] tại Pháp phê phán [[Quốc tế Cộng sản]] hay [[Quốc tế thứ ba]] đã bị ảnh hưởng bởi [[Chủ nghĩa Stalin]] #question❓ 
+
 ## Created:
 - [[2021-07-18]]

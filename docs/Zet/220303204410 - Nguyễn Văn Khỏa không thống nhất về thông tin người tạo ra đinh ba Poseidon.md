@@ -20,5 +20,6 @@ publish: True
 - Ở phần [[Thần Poseidon|Poseidon]], ông lại nói đinh ba là do [[Thần Hephaestus]]. [^220303204246]
 
  [^220228221849]: [[220228221849 - Cyclops tạo đinh ba cho Poseidon]]
-[^220303204246]: [[220303204246 - Đinh ba Poseidon do Hephaestus tạo ra]]## Created:
+[^220303204246]: [[220303204246 - Đinh ba Poseidon do Hephaestus tạo ra]]
+## Created:
 - [[2022-03-03]]

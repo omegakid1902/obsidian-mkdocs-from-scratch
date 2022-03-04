@@ -83,5 +83,6 @@ publish: True
 - [[220121 - Ereshkigal bị rồng Kur bắt cóc xuống địa ngục]]
 - [[220121 - Ereshkigal nhường quyền cai quản địa ngục cho chồng]]
 - [[220121 - Marduk giết Tiamat]]
-- [[Quan hệ giữa các vị thần Lưỡng Hà]]## Created:
+- [[Quan hệ giữa các vị thần Lưỡng Hà]]
+## Created:
 - [[2022-01-20]]

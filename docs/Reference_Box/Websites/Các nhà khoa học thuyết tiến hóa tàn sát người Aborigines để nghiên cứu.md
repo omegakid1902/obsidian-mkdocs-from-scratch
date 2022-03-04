@@ -12,5 +12,6 @@ tags:
 
 ## Source:
 - [Thuyết tiến hóa Darwin: Đã đến lúc chấm dứt sự lừa dối vĩ đại (nghiencuuquocte.org)](http://nghiencuuquocte.org/forums/topic/thuyet-tien-hoa-darwin-da-den-luc-cham-dut-su-lua-doi-vi-dai/)
+
 ## Created:
 - [[2022-01-13]]

@@ -18,5 +18,6 @@ Học giả William Jone đã khám phá ra sự tương đồng giữa [[Tiến
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.375
 
 
+
 ## Created:
 - [[2022-02-18]]

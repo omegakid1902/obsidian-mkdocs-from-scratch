@@ -26,5 +26,6 @@ Một số tên gọi tương ứng với [[Nguyên thủ Quốc gia]]:
 - [[Sa hoàng]], [[Thiên hoàng]], [[Đại công tước]], [[Thân vương]]... là một số tên gọi chỉ dùng ở một số quốc gia.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-17]]

@@ -28,5 +28,6 @@ Thuyết Trí Huệ là tên gọi khác của Thuyết Ngộ Đạo
 ## Reference:
 - [[@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo]], p.143
 
+
 ## Created:
 - [[2020-12-31]]

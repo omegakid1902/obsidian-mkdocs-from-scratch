@@ -1656,5 +1656,6 @@ zidovudine. See azidothymidine
 Zika virus, 28
 zinc, 28, 85, 94
 coronavirus and, 94, 95, 119
-zinc deficiency, 94, 95## Created:
+zinc deficiency, 94, 95
+## Created:
 - [[2021-10-15]]

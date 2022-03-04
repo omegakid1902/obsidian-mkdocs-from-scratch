@@ -39,5 +39,6 @@ Vaccin COVID-19 được chia làm 3 loại theo công nghệ sản xuất
 ## Ideas & thoughts:
 - Công nghệ mRNA liên quan đến [[Bill Gates]]
 - [[COVID-19 map]]
+
 ## Created:
 - [[2021-07-10]]

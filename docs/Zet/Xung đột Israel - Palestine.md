@@ -38,5 +38,6 @@ Cuộc xung đột khởi ra sau khi [[Chủ Nghĩa Zion]] đưa tất cả 
 ## Ref:
 - [Nguyên nhân xung đột Israel và Palestine: Quýt làm, cam chịu (khamphalichsu.com)](https://khamphalichsu.com/lich-su-nguyen-nhan-xung-dot-israel-va-palestine-n234.html)
 - [Tóm tắt lịch sử, nguyên nhân cuộc chiến Israel và Palestine (khamphalichsu.com)](https://khamphalichsu.com/nguyen-nhan-lich-su-cuoc-chien-israel-palestine-n232.html)
+
 ## Created:
 - [[2021-11-09]]

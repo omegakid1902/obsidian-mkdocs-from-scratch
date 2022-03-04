@@ -16,5 +16,6 @@ Nhờ có [[Đại Việt]] lãnh đạo bởi [[Nhà Trần]] mà [[Nhà Nguyê
 Việc thua trước quân nhà Trần lúc bấy giờ là một sự nhục nhã cực kỳ lớn. Thua một lần không phục đánh lần 2, thua hai lần càng tức quyết đánh lần 3, nhưng quá tam ba bận, đánh lần ba cũng thua thì đành từ bỏ ý đồ.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-16]]

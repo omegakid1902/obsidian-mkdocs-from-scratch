@@ -21,5 +21,6 @@ Phong trào khai sáng, hay Phong trào Duy lí, là phong trào ảnh hưởng 
 ## Ideas & thoughts:
 - [[René Descartes]]
 
+
 ## Created:
 - [[2021-11-13]]

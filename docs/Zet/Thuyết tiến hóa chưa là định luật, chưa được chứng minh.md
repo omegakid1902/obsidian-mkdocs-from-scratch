@@ -23,5 +23,6 @@ publish: True
 ## Ideas & thoughts:
 
 ## Source:
-- [MỘT ĐỊNH LUẬT VẬT LÝ ĐÃ PHỦ ĐỊNH HOÀN TOÀN THUYẾT TIẾN HÓA - YouTube](https://www.youtube.com/watch?v=gTfflUngBZA)## Created:
+- [MỘT ĐỊNH LUẬT VẬT LÝ ĐÃ PHỦ ĐỊNH HOÀN TOÀN THUYẾT TIẾN HÓA - YouTube](https://www.youtube.com/watch?v=gTfflUngBZA)
+## Created:
 - [[2022-01-14]]

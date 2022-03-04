@@ -32,5 +32,6 @@ publish: True
 - Một khi thức tỉnh, sẽ có nhiều cách tiếp cận và phát triển khác nhau?
 - Một người thức tỉnh họ có tránh bị hủy diệt bởi các quy luật tự nhiên: không ăn thì sẽ không có sức khỏe, không vận động sẽ không có sức khỏe, không ngủ sẽ suy giảm sức khỏe?
 - Các môi trường bên ngoài chỉ là sự kiện, Tất cả cảm xúc là do tự ta sau khi đi qua giác quan và thông qua não bộ sinh ra cảm xúc? Như thế có thể nói là một người khác làm ta nóng giận?
+
 ## Created:
 - [[2021-12-03]]

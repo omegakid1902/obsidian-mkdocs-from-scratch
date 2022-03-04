@@ -25,5 +25,6 @@ Thánh Anna cũng được tôn kính trong [[Hồi Giáo]], trong [[Kinh Koran]
 Em gái của Anna là Sobe, là mẹ của Elizabeth. **Elizabeth** là người chị họ của Maria được nhắc đến trong Kinh thánh tân ước, và là mẹ của thánh **Gioan Baotixita**.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-25]]

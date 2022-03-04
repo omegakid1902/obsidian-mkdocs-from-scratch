@@ -26,5 +26,6 @@ Ví dụ một vấn đề xa xưa, tác giả nêu các dẫn chứng và đưa
 Các thể chế chính trị, các nền văn hóa, tôn giáo ngày nay tồn tại và phát triển đến ngày nay có thực sự là tốt cho loài người không, nếu nó thay bằng một thứ khác thì có thể sẽ tốt đẹp hơn.
 
 Đọc quyển này như bị tác giả dắt mũi không nói được lời nào vì đa phần những sự kiện được phân tích theo một quan điểm mới. Những quan điểm thiên kiến trước đây có thể bị xô đổ không thương tiếc.
+
 ## Created:
 - [[2021-12-21]]

@@ -14,5 +14,6 @@ Nhưng các sử gia, vì chỉ nhìn vào những sự kiện bên ngoài, coi 
 - [[@ Bùi Đức Sinh O.P, Lịch sử Giáo Hội Công Giáo#p 19]]
 
 
+
 ## Created:
 - [[2022-02-03]]

@@ -30,5 +30,6 @@ Như thế định luật entropy gạt bỏ giả [[Thuyết tiến hóa|giả 
 ## Source:
 - [MỘT ĐỊNH LUẬT VẬT LÝ ĐÃ PHỦ ĐỊNH HOÀN TOÀN THUYẾT TIẾN HÓA - YouTube](https://www.youtube.com/watch?v=gTfflUngBZA)
 
+
 ## Created:
 - [[2022-01-14]]

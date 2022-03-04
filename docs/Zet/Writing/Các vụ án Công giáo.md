@@ -12,5 +12,6 @@ publish: True
 
 ## Notes:
 - [[Jan Hus]]
+
 ## Created:
 - [[2021-11-21]]

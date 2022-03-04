@@ -21,5 +21,6 @@ Thuyết Truman là một chính sách của [[Hoa Kỳ]] dưới thời [[Harry
 
 ## Ideas & thoughts:
 - Thuyết Truman dẫn đến [[Thuyết Domino]], khơi mào cho việc [[Hoa Kỳ]] tài trợ cho các cuộc đảo chính ở nhiều quốc gia trên thế giới.
+
 ## Created:
 - [[2021-11-27]]

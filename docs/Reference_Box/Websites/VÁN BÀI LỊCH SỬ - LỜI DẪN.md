@@ -103,5 +103,6 @@ VÁN BÀI LỊCH SỬ (tt)
 LÁ BÀI SỐ 1: TÀI CHÍNH
 
 [https://www.facebook.com/permalink.php?story_fbid=246345547163595&id=100053644548330](https://www.facebook.com/permalink.php?story_fbid=246345547163595&id=100053644548330&__cft__[0]=AZWsIWdryF3Tu800Vh56cFiiWH0Qw4yZRc-Xoz9XiLl5EFx59YmQaODNStVp8Ac2wziqzldyoMgh03KFA1EUByK_fSqgY9CuKDBpO6EAjkQBuItTWjBGPltZussUm3ke0M0&__tn__=-UK-R)
+
 ## Created:
 - [[2021-11-17]]

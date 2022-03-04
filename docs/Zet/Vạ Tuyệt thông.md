@@ -28,5 +28,6 @@ Có hai loại:
 - [[Vạ tuyệt thông hậu kết]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-08]]

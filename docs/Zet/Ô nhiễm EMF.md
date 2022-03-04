@@ -26,5 +26,6 @@ publish: True
 ## Ideas & thoughts:
 - Công nghệ [[Mạng 5G]]
 
+
 ## Created:
 - [[2022-01-03]]

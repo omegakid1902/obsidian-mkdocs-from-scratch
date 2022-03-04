@@ -18,5 +18,6 @@ Tuy vua [[Lý Huệ Tông]] đã xuất gia, nhưng [[Trần Thủ Độ]] âm m
 
 ## Ideas & thoughts:
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
+
 ## Created:
 - [[2021-07-08]]

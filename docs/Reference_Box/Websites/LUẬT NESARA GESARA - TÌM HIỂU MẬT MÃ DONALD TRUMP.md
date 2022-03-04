@@ -304,5 +304,6 @@ Có hai thằng điên trèo tường trốn thoát ra khỏi nhà thương đi�
 -“không có đèn, tối thui, không làm việc được” thằng điên ngơ ngác trả lời
 
 Phải công nhận điên cũng dễ thương quá xá chứ ha? hóa ra thằng cầm xẻng lúc nãy đóng vai cây cột đèn … hahaha
+
 ## Created:
 - [[2021-11-17]]

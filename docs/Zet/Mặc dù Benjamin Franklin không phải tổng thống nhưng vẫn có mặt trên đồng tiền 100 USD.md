@@ -17,5 +17,6 @@ publish: True
 Mặc dù [[Benjamin Franklin]] không phải tổng thống nhưng vẫn có mặt trên đồng tiền 100 USD
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-09]]

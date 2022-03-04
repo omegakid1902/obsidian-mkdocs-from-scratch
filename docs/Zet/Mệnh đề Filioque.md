@@ -19,5 +19,6 @@ Filioque nghĩa là "và con" trong tiếng La Tinh. Mệnh đề filioque ("và
 Khó có thể xác định được rạch ròi rằng đức thánh linh được sai đi bởi chúa cha hay cả đức chúa cha và đức chúa con. Nên mệnh đề này vẫn là một tranh cãi.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-12-06]]

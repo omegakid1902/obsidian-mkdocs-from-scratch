@@ -27,5 +27,6 @@ Có rất nhiều bình loạn đã chỉ đến do [[Vaccine]]
 ![[Pasted image 20211212220207.png]]
 
 ## Ideas & thoughts:
-- [[Đại dịch COVID-19]]## Created:
+- [[Đại dịch COVID-19]]
+## Created:
 - [[2021-12-12]]

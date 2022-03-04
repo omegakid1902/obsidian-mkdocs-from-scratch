@@ -22,5 +22,6 @@ Người Do thái Mizrahi hay còn gọi là Do thái Phương Đông có nguồ
 
 ## Reference:
 - [Các anh em dân tộc thiểu số Do Thái (spiderum.com)](https://spiderum.com/bai-dang/Cac-anh-em-dan-toc-thieu-so-Do-Thai-7z6)
+
 ## Created:
 - [[2021-06-19]]

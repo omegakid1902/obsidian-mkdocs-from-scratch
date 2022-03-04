@@ -20,5 +20,6 @@ publish: True
 
 ## Ideas & thoughts:
 [[Kinh Dịch]]
+
 ## Created:
 - [[2021-09-05]]

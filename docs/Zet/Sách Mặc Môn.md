@@ -18,5 +18,6 @@ publish: True
 ## Ideas & thoughts:
 - [[Joseph Smith]] tìm thấy bản kinh bằng vàng nhờ [[Moroni]]
 
+
 ## Created:
 - [[2022-01-05]]

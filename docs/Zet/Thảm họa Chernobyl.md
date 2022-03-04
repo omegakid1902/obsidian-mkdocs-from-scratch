@@ -23,5 +23,6 @@ Thảm họa Chernobyl là thảm họa hạt nhân xảy ra vào 26/04/1986 t�
 ## Ideas & thoughts:
 - Bộ phim [[Phim Chernobyl 2019]] nói về thảm họa
 - Lượng phóng xạ phát ra trong thảm họa này lớn gấp 400 lần quả bom nguyên tử [[Hoa Kỳ]] thả xuống [[Hiroshima]]
+
 ## Created:
 - [[2021-11-27]]

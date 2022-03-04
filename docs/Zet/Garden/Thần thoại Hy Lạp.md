@@ -85,5 +85,6 @@ publish: True
 [^220227094718]:[[220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình]]
 [^220226223156]:[[220226223156 - Cronus đã nuốt các con mình vào bụng]]
 [^220227095851]:[[220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt]]
-[^Aphrodite]: Có hai quan điểm về nguồn gốc [[Nữ thần Aphrodite|Aphrodite]], xem thêm [[❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite|220227083833]]## Created:
+[^Aphrodite]: Có hai quan điểm về nguồn gốc [[Nữ thần Aphrodite|Aphrodite]], xem thêm [[❕ 220227083833 - Hai quan điểm về nguồn gốc của Aphrodite|220227083833]]
+## Created:
 - [[2022-02-27]]

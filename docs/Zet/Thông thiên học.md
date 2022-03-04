@@ -27,5 +27,6 @@ Thông thiên học hiện nay được khởi nguồn từ [[Helena Blavatsky|M
 ## Ideas & thoughts:
 
 
-[^1]: [[@ Marcel Bohrer, Thông thiên học dẫn giải]]## Created:
+[^1]: [[@ Marcel Bohrer, Thông thiên học dẫn giải]]
+## Created:
 - [[2021-10-26]]

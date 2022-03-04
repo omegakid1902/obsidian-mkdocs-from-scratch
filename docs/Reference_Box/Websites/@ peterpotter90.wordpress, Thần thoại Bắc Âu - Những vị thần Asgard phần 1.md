@@ -108,5 +108,6 @@ publish: True
 - [[220122164541 - Odin luôn mang theo đầu Mirmir bên mình]]
 - [[220122164619 - Mirmir có một chiếc giếng thần ở vùng đất Jotunheim]]
 - [[220122161251 - Odin đánh đổi 1 mắt lấy sự thông thái]]
-- [[220122164812 - Kvasir được tạo ra từ nước bọt của các Aesir và Vanir]]## Created:
+- [[220122164812 - Kvasir được tạo ra từ nước bọt của các Aesir và Vanir]]
+## Created:
 - [[2022-01-21]]

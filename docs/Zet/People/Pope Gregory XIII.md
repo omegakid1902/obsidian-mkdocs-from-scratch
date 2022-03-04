@@ -23,5 +23,6 @@ publish: True
 ![[Pasted image 20211120222433.png]]
 
 ## Ideas & thoughts:
-- [[Lịch Gregorian]]## Created:
+- [[Lịch Gregorian]]
+## Created:
 - [[2021-11-20]]

@@ -80,5 +80,6 @@ Tạm dịch:
 
 “Giáo lý Ba ngôi khởi nguồn tại Babylon cổ đại với Nimrod-Tammuz-Semiramis. Semiramis đòi hỏi người ta phải tôn thờ chồng và con trai của mình cũng như bản thân mình. Bà tuyên bố rằng Con trai của bà vừa là Cha và vừa là Con. Như vậy, đứa con trai đồng thời là Chúa-Cha và là Chúa-Con. Đây là giáo lý Ba ngôi mầu nhiệm không thể hiểu được xuất hiện sớm nhất". (Trích từ The Two Babylons của Alexander Hislop, trang 51).
 
-Như vậy, kỷ niệm Christmas 25/12 chính là thể hiện lòng tôn kính với Nimrod – nhân vật chống nghịch lại JEHOVAH Đức Chúa Trời có Một và Thật. Hơn nữa, có một thực tế rõ ràng là hiện nay chỉ có các Giáo Hội Công giáo, Tin Lành là những tôn giáo tôn thờ Chúa Ba Ngôi Trinity mới tổ chức kỷ niệm## Created:
+Như vậy, kỷ niệm Christmas 25/12 chính là thể hiện lòng tôn kính với Nimrod – nhân vật chống nghịch lại JEHOVAH Đức Chúa Trời có Một và Thật. Hơn nữa, có một thực tế rõ ràng là hiện nay chỉ có các Giáo Hội Công giáo, Tin Lành là những tôn giáo tôn thờ Chúa Ba Ngôi Trinity mới tổ chức kỷ niệm
+## Created:
 - [[2021-10-28]]

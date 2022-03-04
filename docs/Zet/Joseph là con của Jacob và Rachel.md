@@ -19,5 +19,6 @@ publish: True
 ## Notes:
 [[Chi tộc Joseph|Joseph]] là con của [[Jacob]] và Rachel
 
+
 ## Created:
 - [[2021-11-21]]

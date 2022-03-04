@@ -29,5 +29,6 @@ Vladimir Lenin, tên đầy đủ là Vladimir Ilyich Lenin, là một nhà chí
 Lenin đã tạo ra [[Chủ nghĩa Lenin]] dựa trên [[Chủ nghĩa Marx]].
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-11-19]]

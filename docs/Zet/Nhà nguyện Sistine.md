@@ -18,5 +18,6 @@ publish: True
 **Sistine** là nhà nguyện trung tâm [[Vatican]] được xây dựng vào những năm 1477-1480 thời Giáo hoàng Sixtus IV. **Sistine**  được Trang hoàng bởi một bức vẽ tuyệt tác của [[201107_michelangelo]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-11-07]]

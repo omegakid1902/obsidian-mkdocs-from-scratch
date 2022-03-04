@@ -19,5 +19,6 @@ The Matrix, hay Ma trận, là một bộ phim khoa học viễn tưởng 
 - [[Take the red pill]]
 - Gần giống với phim [[Westworld]]
 
+
 ## Created:
 - [[2021-11-07]]

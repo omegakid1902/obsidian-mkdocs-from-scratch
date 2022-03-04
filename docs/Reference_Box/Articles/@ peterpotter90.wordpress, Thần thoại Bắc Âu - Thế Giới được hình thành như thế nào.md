@@ -86,5 +86,6 @@ publish: True
 - [[220122 - Dwarf tạo ra cây búa Mjolnir của Thor]]
 - [[220122 - Ba anh em Odin tạo ra loài người]]
 - [[220122 - Ask và Embla là hai người trần đầu tiên]]
-- [[220122 - Loài người sống ở Midgard]]## Created:
+- [[220122 - Loài người sống ở Midgard]]
+## Created:
 - [[2022-01-21]]

@@ -32,5 +32,6 @@ Thánh Jerome (347 - 420), hay còn gọi Giêrônimô, là một linh mục Kit
 - [[Thánh Jerome là người đầu tiên dịch Cựu Ước từ Hy Lạp sang Latinh]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-31]]

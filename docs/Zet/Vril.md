@@ -23,5 +23,6 @@ Vril theo [[Thuyết âm mưu]] là một loài bò sát sống dưới lòng đ
 - [[Qmap]]
 
 ## Reference:
-- [khoahoctamlinh.vn](https://khoahoctamlinh.vn/kham-pha/su-that-kinh-hoang-dang-sau-cong-nghe-nhan-ban-nguoi-cua-nguoi-bo-sat-1449.html)## Created:
+- [khoahoctamlinh.vn](https://khoahoctamlinh.vn/kham-pha/su-that-kinh-hoang-dang-sau-cong-nghe-nhan-ban-nguoi-cua-nguoi-bo-sat-1449.html)
+## Created:
 - [[2021-10-27]]

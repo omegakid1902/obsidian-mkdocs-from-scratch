@@ -19,5 +19,6 @@ Nếu không có những nhà buôn muốn kiếm tiền là chủ nghĩa tư b�
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.381
 
 
+
 ## Created:
 - [[2022-02-18]]

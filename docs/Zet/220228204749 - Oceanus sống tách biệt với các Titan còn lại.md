@@ -18,5 +18,6 @@ publish: True
 - [[@ Nguyễn Văn Khỏa, Thần thoại Hy Lạp]] (ebook mobi Tve-4u) p.58
 
 ## Relate:
-- [[220228204008 - Titan Oceanus là thần biển, sông suối]]## Created:
+- [[220228204008 - Titan Oceanus là thần biển, sông suối]]
+## Created:
 - [[2022-02-28]]

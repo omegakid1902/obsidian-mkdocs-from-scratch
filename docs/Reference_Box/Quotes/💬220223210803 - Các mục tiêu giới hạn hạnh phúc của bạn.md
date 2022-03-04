@@ -15,5 +15,6 @@ Source: [[@ James Clear, Atomic Habits]], 11%
 
 ## Ideas & thoughts:
 - [[❕ 220223211033 - Việc theo đuổi mục tiêu khiến ta đánh mất việc tận hưởng hạnh phúc quá trình]]
+
 ## Created:
 - [[2022-02-23]]

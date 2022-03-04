@@ -31,5 +31,6 @@ Nguyên tắc cốt lõi của phương pháp này là:
 
 ## Ideas & thoughts:
 - [https://www.youtube.com/watch?v=uoUHlZP094Q](https://www.youtube.com/watch?v=uoUHlZP094Q)
+
 ## Created:
 - [[2021-07-27]]

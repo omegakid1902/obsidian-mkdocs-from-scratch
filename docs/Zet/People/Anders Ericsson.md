@@ -19,5 +19,6 @@ publish: True
 Anders Erricson người đã sáng lập ra [[Deliberate Practice]] hay còn gọi [[Deliberate Practice]]. Ông là tác giả quyển sách [[@ Anders Ericsson, Peak]] để mô tả chi tiết về phương pháp này
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-08-08]]

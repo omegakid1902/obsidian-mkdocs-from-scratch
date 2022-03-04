@@ -44,5 +44,6 @@ Rivers đã loại bỏ định đề đầu tiên của Koch
 ## Ideas & thoughts:
 - Phát triển dựa trên [[Các định đề Robert Koch]] của [[Heinrich Hermann Robert Koch]]
 
+
 ## Created:
 - [[2021-10-16]]

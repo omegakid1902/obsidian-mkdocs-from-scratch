@@ -28,5 +28,6 @@ Ngô Sĩ Liên là một nhà sử học thời [[Nhà Hậu Lê]], ông là ng�
 Ông tham gia [[Khởi nghĩa Lam Sơn]] và từng được cử đi giao thiệp với quân [[Nhà Minh]] trong thời kỳ hòa hoãn.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-15]]

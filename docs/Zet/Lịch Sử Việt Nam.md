@@ -114,5 +114,6 @@ publish: True
 ### Book
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
 - [[@ George J. Veith, Gươm đã tuốt ra nơi miền đất xa xôi]]
+
 ## Created:
 - [[2021-06-22]]

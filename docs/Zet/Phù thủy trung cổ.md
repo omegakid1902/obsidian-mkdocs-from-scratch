@@ -31,5 +31,6 @@ Các phù thủy trung cổ thường là những người bị [[Cơ Đốc Gi�
 ## Ref:
 - [Sự phát triển của phù thủy thời trung cổ tại châu Âu (khamphalichsu.com)](https://khamphalichsu.com/su-phat-trien-cua-phu-thuy-va-thoi-ky-den-toi-trung-co-tai-chau-au-n26.html)
 
+
 ## Created:
 - [[2021-11-25]]

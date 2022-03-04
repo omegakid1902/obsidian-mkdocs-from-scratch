@@ -28,5 +28,6 @@ Sau mấy ngày, Andrew gỡ hết tất cả các trăn trở của cậu về 
 - Có nhắc đến [[@ Aldous Huxley, Brave New World]]
 - [[Ý nghĩa cuộc sống]]
 - Có chút hơi hướng [[Chủ nghĩa hiện sinh]], cuộc đời do mình quyết định, có rất nhiều thứ cần khám phá.
+
 ## Created:
 - [[2021-09-02]]

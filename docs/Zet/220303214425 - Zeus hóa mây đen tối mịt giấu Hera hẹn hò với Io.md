@@ -23,5 +23,6 @@ publish: True
 
 ## Relate:
 - [[220303214052 - Io là con gái thần Sông Inachos]]
-- [[220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io]]## Created:
+- [[220303214540 - Hera biết chuyện Zeus lén hẹn hò với Io]]
+## Created:
 - [[2022-03-03]]

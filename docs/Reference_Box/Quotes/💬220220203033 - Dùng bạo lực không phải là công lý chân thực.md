@@ -13,5 +13,6 @@ source:
 Source: [[Blaise Pascal]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2022-02-20]]

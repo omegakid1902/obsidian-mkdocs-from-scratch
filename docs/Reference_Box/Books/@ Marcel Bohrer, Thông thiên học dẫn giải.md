@@ -32,5 +32,6 @@ Thông thiên học hỗ trợ tôn giáo, bài trừ quan điểm Duy vật
 >Tóm lại, Thông Thiên Học có ba Chơn lý chánh yếu cần ghi nhớ :
  _a/ Nguyên lý về sự sống có sẵn ở ta và ngoài ta. Nó không bao giờ chết; nó luôn luôn nhân từ; nó không thể thấy, không thể nghe, không thể cảm được, nhưng ai có nhiệt tâm sẽ ý thức được nó._
  b/ Linh hồn của con người là bất tử. Tương lai của nó rất huy hoàng vì sự phát triển và sự vinh quang của nó là vô biên.
- c/ Mỗi người quyết định đời sống của mình. Chính mình đặt cho mình mọi sự thưởng và phạt.## Created:
+ c/ Mỗi người quyết định đời sống của mình. Chính mình đặt cho mình mọi sự thưởng và phạt.
+## Created:
 - [[2021-10-26]]

@@ -20,5 +20,6 @@ Theo [[Sử ký Tư Mã Thiên]], [[Tần Thủy Hoàng]] băng hà 210 TCN, [[N
 
 ## Source:
 - [[@ wiki, Vấn đề chính thống của nhà Triệu]]
-- [[@ wiki, Lịch sử Việt Nam]]## Created:
+- [[@ wiki, Lịch sử Việt Nam]]
+## Created:
 - [[2021-07-24]]

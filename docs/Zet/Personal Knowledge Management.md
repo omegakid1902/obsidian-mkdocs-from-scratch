@@ -23,5 +23,6 @@ Ví dụ:
 - Hệ thống ghi chú [[Zettelkasten]] bằng phương pháp thẻ ghi chú và thể hiện được liên kết bằng số..
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-14]]

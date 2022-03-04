@@ -28,5 +28,6 @@ Judah là con trai cả của [[Jacob]].
 
 ## Ideas & thoughts:
 - [[💥 Từ Jew để chỉ chi tộc Judah]]
+
 ## Created:
 - [[2021-11-21]]

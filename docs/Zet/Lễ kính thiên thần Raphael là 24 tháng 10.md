@@ -29,5 +29,6 @@ Trước công đồng Vaticanô II, có lễ kính riêng cho [[Thiên thần R
 ## Ideas & thoughts:
 - [[Lễ kính thiên thần Micael là 29 tháng 9]]
 - [[Lễ kính thiên thần Gabriel là 24 tháng 3]]
+
 ## Created:
 - [[2021-11-12]]

@@ -33,5 +33,6 @@ publish: True
 ## Các định lý 
 [[Định lý Thales]]
 [[Định lý Pythagoras]]
+
 ## Created:
 - [[2021-07-10]]

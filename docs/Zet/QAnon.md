@@ -30,5 +30,6 @@ Từ Anon là một từ tiếng Anh mang nghĩa là
 - Theo [[Fbker Huy Phạm]], [[Nhân vật Q]] là tên gọi một nhóm người, một tổ chức, không phải 1 một cá nhân đơn lẻ.
 - 
 ## Ref:
-- [[VÁN BÀI LỊCH SỬ - Lá bài số 4 - Bí ẩn Qanon]]## Created:
+- [[VÁN BÀI LỊCH SỬ - Lá bài số 4 - Bí ẩn Qanon]]
+## Created:
 - [[2021-09-18]]

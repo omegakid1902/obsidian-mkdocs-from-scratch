@@ -16,5 +16,6 @@ publish: True
 Thụy Bà công chúa là chị ruột [[Trần Cảnh]], cô của [[Trần Hưng Đạo]]. [[Thụy Bà Công chúa]] nhận [[Trần Hưng Đạo]] làm con nuôi.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-02]]

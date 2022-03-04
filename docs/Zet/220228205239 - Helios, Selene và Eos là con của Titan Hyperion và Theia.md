@@ -22,5 +22,6 @@ publish: True
 
 ## Relate:
 - [[220226213145 - Helios là con của hai Titan Hyperion và Theia]]
-- [[220227081548 - Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp]]## Created:
+- [[220227081548 - Helios và Apollo là 2 nhân vật trong thần thoại Hy Lạp]]
+## Created:
 - [[2022-02-28]]

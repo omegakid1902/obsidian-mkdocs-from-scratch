@@ -20,5 +20,6 @@ Trong phần đầu quyển [[@ Yuval N. Harari, Sapiens lược sử loài ngư
 - Sự kiện gì/Tại sao người Sapiens lại tiến hóa vượt trội so với Neanderthal và những loài Homo khác, trong khi có thể họ cùng chung một tổ tiên duy nhất?
 
 
+
 ## Created:
 - [[2021-06-27]]

@@ -96,5 +96,6 @@ PyQT
 
 ## Standard libraries
 - [[Python standard library]]
+
 ## Created:
 - [[2021-07-07]]

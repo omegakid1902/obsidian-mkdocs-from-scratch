@@ -34,5 +34,6 @@ Chiến tranh lạnh (1947-1991)
 - Quá trình phi thực dân hóa -> Các nước giành được độc lập -> hai siêu cường Hoa Kỳ và Liên Xô lại gia tăng sự ảnh hưởng
 
 ## Ref:
-- [Chiến tranh Lạnh (Cold War) (nghiencuuquocte.org)](http://nghiencuuquocte.org/2015/01/18/chien-tranh-lanh/)## Created:
+- [Chiến tranh Lạnh (Cold War) (nghiencuuquocte.org)](http://nghiencuuquocte.org/2015/01/18/chien-tranh-lanh/)
+## Created:
 - [[2021-11-23]]

@@ -21,5 +21,6 @@ Giáo lý chính của [[Mani giáo]] nằm trong bộ [[Nhị Tông kinh]] vớ
 - [[@ wiki, Mani giáo]]
 
 
+
 ## Created:
 - [[2022-02-20]]

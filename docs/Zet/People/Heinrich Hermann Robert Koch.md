@@ -19,5 +19,6 @@ publish: True
 
 ## Ideas & thoughts:
 - Nhắc đến là người sáng lập ra vi khuẩn học hiện đại trong quyển [[@ Thomas S. Cowan, The Contagion Myth, Ch01]]
+
 ## Created:
 - [[2021-10-16]]

@@ -27,5 +27,6 @@ Lý Tịnh là một viên quan tổng binh, con trai của Lý Tịnh là Na Tr
 list
 from [[@ wiki, Phong thần diễn nghĩa]]
 sort file.name asc
-```## Created:
+```
+## Created:
 - [[2021-08-28]]

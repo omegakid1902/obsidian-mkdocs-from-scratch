@@ -40,5 +40,6 @@ publish: True
 ## Reference:
 - https://khoahoctamlinh.vn/khoa-hoc-tam-linh/tan-so-tam-linh/tim-hieu-ve-tan-so-rung-dong-875.html
 
+
 ## Created:
 - [[2021-10-19]]

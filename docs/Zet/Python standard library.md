@@ -17,5 +17,6 @@ publish: True
 - [[Tkinter]]
 - [[python-frontmatter]]
 - [[PyYAML]]
-- [[pytest]]## Created:
+- [[pytest]]
+## Created:
 - [[2021-07-07]]

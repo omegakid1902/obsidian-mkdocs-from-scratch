@@ -51,5 +51,6 @@ Hội Illuminati là một hội kín được cho là thành lập vào 1/5/177
 	- [[💬211218-1603]]
 
 [^gaga]:[lady-gaga-toi-rat-hoi-han](https://tinhhoa.net/lady-gaga-toi-rat-hoi-han-vi-da-ban-linh-hon-cho-the-luc-den-toi-illuminati.html)
-[^1]: [Hội Kín Illuminati - Tổ chức chuyên thờ phụng quỷ Satan (tinhhoa.net)](https://tinhhoa.net/illuminati-hoi-kin-tho-phung-quy-satan.html)## Created:
+[^1]: [Hội Kín Illuminati - Tổ chức chuyên thờ phụng quỷ Satan (tinhhoa.net)](https://tinhhoa.net/illuminati-hoi-kin-tho-phung-quy-satan.html)
+## Created:
 - [[2021-10-10]]

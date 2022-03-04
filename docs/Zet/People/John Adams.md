@@ -16,5 +16,6 @@ publish: True
 John Adams ((30 tháng 10 năm 1735 - 4 tháng 7 năm 1826)) là tổng thống thứ 2 của [[Hoa Kỳ]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-10-24]]

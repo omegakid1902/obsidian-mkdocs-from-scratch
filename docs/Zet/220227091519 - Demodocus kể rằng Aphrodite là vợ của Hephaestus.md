@@ -20,5 +20,6 @@ Trong quyển 8 [[@ Homer, Odyssey]], [[Demodocus]] kể rằng [[Nữ thần Ap
 
 ## Relate:
 - [[220227091605 - Demodocus kể rằng Aphrodite là ngoại tình với Ares trong cuộc chiến Troy]]
+
 ## Created:
 - [[2022-02-27]]

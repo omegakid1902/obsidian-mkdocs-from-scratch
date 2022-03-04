@@ -24,5 +24,6 @@ Phương pháp học tập của Feymann là một kỹ thuật được sáng t
 - Đơn giản hóa ngôn ngữ biểu đạt.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-10-22]]

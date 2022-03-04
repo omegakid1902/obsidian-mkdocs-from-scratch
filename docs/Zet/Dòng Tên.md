@@ -59,5 +59,6 @@ Dòng Tên, hay Dòng Chúa Jesus, là một dòng tu [[Công Giáo]]. [[Ignatiu
 [^3]: https://www.thedailybeast.com/pope-francis-is-a-jesuit-seven-things-you-need-to-know-about-the-society-of-jesus
 [^4]: https://prepareforchange.net/2019/11/05/10-facts-you-must-know-about-the-jesuits/
 [^5]:http://www.pickle-publishing.com/papers/triple-crown-clement-xiv.htm
-[^wiki]:[Dòng Tên – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/D%C3%B2ng_T%C3%AAn)## Created:
+[^wiki]:[Dòng Tên – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/D%C3%B2ng_T%C3%AAn)
+## Created:
 - [[2021-10-24]]

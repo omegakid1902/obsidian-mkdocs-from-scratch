@@ -17,5 +17,6 @@ publish: True
 **Cosmos** là một từ trong tiếng Hy lạp, ám chỉ loài người sống trên trái đất, khác với thế giới của [[God|Thiên Chúa]]. Và [[Satan]] thống trị thế giới này.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2020-11-28]]

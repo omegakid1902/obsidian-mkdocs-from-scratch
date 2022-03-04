@@ -42,5 +42,6 @@ publish: True
 - [[220122234213 - Utnapishtim là một phiên bản của Noah]]
 - [[220122234320 - Utnapishtim được ban cho sự trường sinh sau Đại hồng thủy]]
 - [[220122234458 - Gilgamesh tìm đến Utnapishtim để hỏi về sự bất tử]]
-- [[220122234553 - Gilgamesh không có bí mật trường sinh từ Utnapishtim]]## Created:
+- [[220122234553 - Gilgamesh không có bí mật trường sinh từ Utnapishtim]]
+## Created:
 - [[2022-01-22]]

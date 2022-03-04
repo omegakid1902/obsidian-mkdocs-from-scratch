@@ -22,5 +22,6 @@ publish: True
 
 ## Relate:
 - [[220303211856 - Gigantos Porphyrion bị sắc đẹp Hera quyến rũ]]
-- [[220303211918 - Gigantos Porphyrion xếp các quá núi leo lên Olympus để bắt Hera]]## Created:
+- [[220303211918 - Gigantos Porphyrion xếp các quá núi leo lên Olympus để bắt Hera]]
+## Created:
 - [[2022-03-03]]

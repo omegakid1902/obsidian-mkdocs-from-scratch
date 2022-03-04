@@ -25,5 +25,6 @@ Trong [[The Thirteenth Tribe]], [[Arthur Koestler]] cho rằng [[Người Do Th�
 
 ## Reference:
 - [[The Thirteenth Tribe]]
+
 ## Created:
 - [[2021-10-29]]

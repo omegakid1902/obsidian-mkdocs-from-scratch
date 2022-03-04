@@ -33,5 +33,6 @@ publish: True
 	- [[@ John of the Cross, Dark Night of the Soul]]: Đêm Tối Linh Hồn
 	- Spiritual Canticle: Ca Khúc Linh Thiêng
 	- Living Flame of Love: Lửa Sống Yêu Thương
-- _Nếu một người đàn ông muốn chắc chắn về con đường anh ta đang đi thì  anh ta phải nhắm mắt lại và đi trong bóng tối._## Created:
+- _Nếu một người đàn ông muốn chắc chắn về con đường anh ta đang đi thì  anh ta phải nhắm mắt lại và đi trong bóng tối._
+## Created:
 - [[2021-10-22]]

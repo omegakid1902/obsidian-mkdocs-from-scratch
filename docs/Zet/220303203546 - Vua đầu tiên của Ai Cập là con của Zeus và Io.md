@@ -22,5 +22,6 @@ Vua đầu tiên của Ai Cập là con của [[Thần Zeus|Zeus]] và [[Nữ th
 
 ## Relate:
 - [[220303203421 - Theo thần thoại Hy Lạp, Epaphos là vua đầu tiên của Ai Cập]]
-- [[220303203506 - Epaphos là con của Zeus và Io]]## Created:
+- [[220303203506 - Epaphos là con của Zeus và Io]]
+## Created:
 - [[2022-03-03]]

@@ -30,5 +30,6 @@ Ulysses Simpson Grant tên khai sinh là Hiram Ulysses Grant
 - Về cuối đời, Grant bị phá sản và sống trong cảnh nghèo khó. Ông mắc bệnh ung thư vòm họng. Ông phải viết hồi ký để có tiền cho gia đình mình khi trên giường bệnh.
 
 ## Ref:
-- [Cuộc đời và nhiệm kỳ chủ tịch của Ulysses Grant (greelane.com)](https://www.greelane.com/vi/nh%c3%a2n-v%c4%83n/l%e1%bb%8bch-s%e1%bb%ad--v%c4%83n-h%c3%b3a/ulysses-grant-18th-president-united-states-105375/)## Created:
+- [Cuộc đời và nhiệm kỳ chủ tịch của Ulysses Grant (greelane.com)](https://www.greelane.com/vi/nh%c3%a2n-v%c4%83n/l%e1%bb%8bch-s%e1%bb%ad--v%c4%83n-h%c3%b3a/ulysses-grant-18th-president-united-states-105375/)
+## Created:
 - [[2021-08-11]]

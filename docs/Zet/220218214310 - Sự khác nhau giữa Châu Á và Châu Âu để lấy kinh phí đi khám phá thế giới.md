@@ -25,5 +25,6 @@ Các cuộc chinh phạt ở Châu Âu thì lấy nguồn tài chính từ tín 
 - [[@ Yuval N. Harari, Sapiens lược sử loài người]], p.397
 
 
+
 ## Created:
 - [[2022-02-18]]

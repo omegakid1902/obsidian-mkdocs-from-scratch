@@ -29,5 +29,6 @@ Brahma, phiên âm là Phạm Thiên, là một vị thần trong đạo [[Ấn 
 ![[Brahma_on_hamsa.jpg]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-04]]

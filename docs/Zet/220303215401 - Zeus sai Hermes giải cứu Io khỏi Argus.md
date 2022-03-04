@@ -20,5 +20,6 @@ publish: True
 
 ## Relate:
 - [[220303214824 - Khi Hera đến, Zeus biến Io thành 1 con bò trắng để giấu hiện trường ngoại tình]]
-- [[220303215126 - Hera giao con bò trắng cho Argus canh giữ]]## Created:
+- [[220303215126 - Hera giao con bò trắng cho Argus canh giữ]]
+## Created:
 - [[2022-03-03]]

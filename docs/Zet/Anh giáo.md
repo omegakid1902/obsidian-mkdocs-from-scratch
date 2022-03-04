@@ -25,5 +25,6 @@ Cho đến năm 1054, Anh Giáo chính thức ly khai khỏi sự cai quản c�
 
 ## Ideas & thoughts:
 - Giáo dân vùng Celtic trước khi DGH cử người sang có nguồn gốc từ đâu? tại sao phải cử người sang quy phục?
+
 ## Created:
 - [[2020-12-25]]

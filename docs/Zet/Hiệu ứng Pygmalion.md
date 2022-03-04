@@ -17,5 +17,6 @@ Hiệu ứng Pygmalion đã được **Rosenthal** và **Jacobson** chứng minh
 ## Ideas & thoughts:
 ## Ref:
 - https://tamly.blog/hieu-ung-pygmalion-vi-sao-nguoi-anh-huong-toi-ban-lai-la-nguoi-tin-vao-ban/
+
 ## Created:
 - [[2020-11-21]]

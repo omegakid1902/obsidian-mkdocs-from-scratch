@@ -23,5 +23,6 @@ Tuy nhiên, trong khi chủ nghĩa hiện sinh đưa ra cách giải quyết là
 - So sánh với chủ nghĩ phi lý [[Chủ nghĩa phi lý]] của [[Albert Camus]]
 - https://danielmiessler.com/blog/difference-existentialism-nihilism-absurdism/
 
-[^1]:[[ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 6]]## Created:
+[^1]:[[ichi.pro, Chủ nghĩa hiện sinh vs Chủ nghĩa hư vô#Quote 6]]
+## Created:
 - [[2021-06-30]]

@@ -16,5 +16,6 @@ publish: True
 [[Trần Thừa]] có ba người con là [[Trần Liễu]], [[Thụy Bà Công chúa]] và [[Trần Cảnh]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-09-02]]

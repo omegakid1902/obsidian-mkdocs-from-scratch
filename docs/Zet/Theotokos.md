@@ -19,5 +19,6 @@ Khái niệm được nêu ra lần đầu tiên tại công đồng Epheso nh�
 ## Ideas & thoughts:
 
 ## Ref:
-- [[@ Alan Schreck, The Compact History of the Catholic Church]]## Created:
+- [[@ Alan Schreck, The Compact History of the Catholic Church]]
+## Created:
 - [[2020-12-06]]

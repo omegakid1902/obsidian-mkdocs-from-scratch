@@ -25,5 +25,6 @@ Thần Shu là thần gió của người [[Ai Cập Cổ Đại]]
 ## Ideas & thoughts:
 - [[Bộ chín vĩ đại của Heliopolis]]
 
+
 ## Created:
 - [[2021-11-19]]

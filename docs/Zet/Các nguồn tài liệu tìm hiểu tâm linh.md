@@ -22,5 +22,6 @@ publish: True
 - [thongthienhoc.com](http://www.thongthienhoc.com/index.html)
 - [Homepage - Thiền Chữa Lành (thienchualanh.com)](https://thienchualanh.com/)
 - [Viết để tự do – ngôi nhà thực hành Viết để tự do (vietdetudo.com)](https://vietdetudo.com/)
-- [Exploring Psychology – Khám Phá Tâm Lý Học (trangtamly.blog)](https://trangtamly.blog/)## Created:
+- [Exploring Psychology – Khám Phá Tâm Lý Học (trangtamly.blog)](https://trangtamly.blog/)
+## Created:
 - [[2021-10-19]]

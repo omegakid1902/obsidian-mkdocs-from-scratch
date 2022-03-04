@@ -20,5 +20,6 @@ publish: True
 ## Ideas & thoughts:
 ## Ref:
 - [[@ Trần Trọng Kim, Việt Nam sử lược]]
+
 ## Created:
 - [[2021-07-08]]

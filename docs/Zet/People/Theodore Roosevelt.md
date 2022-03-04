@@ -24,5 +24,6 @@ publish: True
 ## Ideas & thoughts:
 - Khi làm tổng thống, ông tiến hành xóa bỏ độc quyền:
 	- [[Standard Oil]] của [[John D. Rockefeller]]
-	- Công ty đường sắt của [[John Pierpont Morgan|JP Morgan]]## Created:
+	- Công ty đường sắt của [[John Pierpont Morgan|JP Morgan]]
+## Created:
 - [[2021-11-20]]

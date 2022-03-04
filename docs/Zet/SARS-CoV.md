@@ -19,5 +19,6 @@ publish: True
 SARS-CoV là một loại [[Coronavirus]] gây đại dịch SARS năm 2003.
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-07-10]]

@@ -19,5 +19,6 @@ Eckhart Tolle tác giả của các tác phẩm nổi tiếng.
 - [[@ Eckhart Tolle, Thức tỉnh mục đích sống]]
 
 ## Ideas & thoughts:
+
 ## Created:
 - [[2021-10-22]]

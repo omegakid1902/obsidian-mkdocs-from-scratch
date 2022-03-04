@@ -30,5 +30,6 @@ publish: True
 
 ## Ref:
 - [Diễn Đàn Trái Chiều : BÀI 18: TT KENNEDY VÀ VIỆT NAM (diendantraichieu.blogspot.com)](https://diendantraichieu.blogspot.com/2018/04/tt-kennedy-va-viet-nam.html)
+
 ## Created:
 - [[2021-11-14]]
