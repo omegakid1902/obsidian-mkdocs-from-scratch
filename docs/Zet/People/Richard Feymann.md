@@ -9,8 +9,8 @@ tags:
   - 'created/2021/Jun/16'
   - 'seed'
   - 'permanent/people'
-birth: null
-death: null
+birth:
+death:
 publish: True
 ---
 # Richard Feymann

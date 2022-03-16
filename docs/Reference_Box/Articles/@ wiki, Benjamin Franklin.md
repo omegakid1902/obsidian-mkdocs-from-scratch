@@ -33,12 +33,3 @@
 [[Năm 1753, Benjamin được Harvard và Yale trao bằng danh dự]]
 
 [[13 đức hạnh theo Benjamin Franklin]]
-## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ wiki, Benjamin Franklin]]
-sort file.name asc
-```
