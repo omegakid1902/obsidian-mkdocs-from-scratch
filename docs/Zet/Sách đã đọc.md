@@ -45,7 +45,7 @@ publish: True
 - [[@ Jonas Jonasson, Ông Trăm Tuổi Trèo Qua Cửa Sổ Và Biến Mất]]
 - [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
 - [[@ Michael Guillen, 5 phương trình làm thay đổi thế giới]]
-- 
+- [[@ Harper Lee, Giết con chim nhại]]
 
 
 

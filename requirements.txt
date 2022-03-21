@@ -118,7 +118,7 @@ pygments==2.11.2
     #   -r requirements.in
     #   ipython
     #   mkdocs-material
-pymdown-extensions==9.2
+pymdown-extensions==9.3
     # via mkdocs-material
 pyparsing==3.0.7
     # via packaging
