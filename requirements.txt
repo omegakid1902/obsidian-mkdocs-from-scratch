@@ -73,7 +73,7 @@ mkdocs==1.2.3
     #   mkdocs-section-index
 mkdocs-autolinks-plugin==0.5.0
     # via -r requirements.in
-mkdocs-material==8.2.5
+mkdocs-material==8.2.7
     # via -r requirements.in
 mkdocs-material-extensions==1.0.3
     # via
@@ -145,7 +145,7 @@ traitlets==5.1.1
     #   matplotlib-inline
 typing-extensions==4.1.1
     # via importlib-metadata
-watchdog==2.1.6
+watchdog==2.1.7
     # via mkdocs
 wcwidth==0.2.5
     # via
@@ -155,5 +155,5 @@ zipp==3.7.0
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==60.10.0
+setuptools==61.1.0
     # via ipython

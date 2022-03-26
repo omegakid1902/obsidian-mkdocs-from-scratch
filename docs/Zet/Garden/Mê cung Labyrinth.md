@@ -20,7 +20,8 @@ publish: True
 
 
 ## Ideas & thoughts:
-
+- Mình biết tên gọi này lần đầu tiên khi tìm hiểu thần thoại Hy Lạp.
+- Là tựa đề của quyển sách [[@ Rick Riordan, The Battle of the Labyrinth|Cuộc Chiến Chốn Mê Cung]]
 
 
 ## Created:
