@@ -42,5 +42,8 @@ Các tốc độ
 
 ![[Pasted image 20220329204445.png]]
 ### Chap5: VDOT Values
+
+## Permanents
+- [[220401204130 - Tempo và Cruise intervals]]
 ## Created:
 - [[2021-08-14]]
