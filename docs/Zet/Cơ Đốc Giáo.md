@@ -5,21 +5,21 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Tin Lành
 backlinks:
+  - Zet/Phù thủy trung cổ
+  - Zet/220218195600 - Hoàng đế cải đạo cho La Mã sang Kito giáo TK 4
   - Zet/Người Amish
   - Zet/Do Thái Giáo
-  - Zet/220218195600 - Hoàng đế cải đạo cho La Mã sang Kito giáo TK 4
-  - Zet/Lễ Giáng Sinh
-  - Zet/Hiệp sĩ Đền Thánh
+  - Zet/Bí tích rửa tội
   - Zet/220125225730 - Các học giả Kito giáo ghi chép lại các câu truyện Thần thoại Bắc Âu
   - Zet/God
   - Zet/Người Gruzia
   - Zet/Hạ thế giới
-  - Zet/Phù thủy trung cổ
-  - Zet/Bí tích rửa tội
-  - Zet/People/Alberto Rivera
+  - Zet/Hiệp sĩ Đền Thánh
+  - Zet/Lễ Giáng Sinh
   - Zet/People/Moses
   - Zet/People/Thánh Phaolo
   - Zet/People/Leo Tolstoy
+  - Zet/People/Alberto Rivera
 title: Cơ Đốc giáo
 tags:
   - 'created/2021/Jul/31'

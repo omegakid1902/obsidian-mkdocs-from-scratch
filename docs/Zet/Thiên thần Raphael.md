@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/Lễ kính thiên thần Raphael là 24 tháng 10
 backlinks:
-  - Zet/Thiên thần Micael
   - Zet/Sau Vaticanô II, lễ kính của Raphael, Gabriel và Micael gộp thành một
+  - Zet/Thiên thần Micael
   - Zet/Raphael có nghĩa là Thiên Chúa cứu chữa
   - Zet/Lễ kính thiên thần Raphael là 24 tháng 10
 title: Thiên thần Raphael

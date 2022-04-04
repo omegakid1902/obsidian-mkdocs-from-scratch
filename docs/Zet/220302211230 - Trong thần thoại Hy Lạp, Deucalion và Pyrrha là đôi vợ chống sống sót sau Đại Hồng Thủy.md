@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Thần thoại Hy Lạp
   - Zet/220122234213 - Utnapishtim là một phiên bản của Noah
 backlinks:
-  - Zet/220302211603 - Deucalion là con trai của Prometheus và Clymene
   - Zet/220302211853 - Deucalion và Pyrrha là những người nhân hậu được Zeus cho sống sót vượt qua Đại hồng thủy
+  - Zet/220302211603 - Deucalion là con trai của Prometheus và Clymene
   - Zet/220302211712 - Pyrrha là con của Epimetheus và Pandora
   - Zet/Thinking/❕ 220302211422 - Deucalion và Pyrrha trong thần thoại Hy Lạp là phiên bản của Noah
 title: Trong thần thoại Hy Lạp, Deucalion và Pyrrha là đôi vợ chống sống sót sau Đại Hồng Thủy

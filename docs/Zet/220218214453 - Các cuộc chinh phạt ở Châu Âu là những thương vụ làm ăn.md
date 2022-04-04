@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220218214310 - Sự khác nhau giữa Châu Á và Châu Âu để lấy kinh phí đi khám phá thế giới
 backlinks:
-  - Zet/220218205103 - Người Châu Âu khám phá vùng đất mới rồi trở nên vượt trội so với Châu Á rồi họ đi xâm chiếm Châu Á
   - Zet/220218214310 - Sự khác nhau giữa Châu Á và Châu Âu để lấy kinh phí đi khám phá thế giới
+  - Zet/220218205103 - Người Châu Âu khám phá vùng đất mới rồi trở nên vượt trội so với Châu Á rồi họ đi xâm chiếm Châu Á
 title: Các cuộc chinh phạt ở Châu Âu là những thương vụ làm ăn
 UID: 220218214453
 created: 18-Feb-2022

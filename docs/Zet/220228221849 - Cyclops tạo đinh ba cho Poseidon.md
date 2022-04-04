@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus
 backlinks:
   - Zet/220303204246 - Đinh ba Poseidon do Hephaestus tạo ra
-  - Zet/220228221526 - Các Cyclops tạo ra chớp, sấm và sét cho Zeus
   - Zet/220303204410 - Nguyễn Văn Khỏa không thống nhất về thông tin người tạo ra đinh ba Poseidon
+  - Zet/220228221526 - Các Cyclops tạo ra chớp, sấm và sét cho Zeus
 title: Cyclops tạo đinh ba cho Poseidon
 UID: 220228221849
 created: 28-Feb-2022

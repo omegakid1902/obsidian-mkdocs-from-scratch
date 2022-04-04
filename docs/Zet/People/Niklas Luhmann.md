@@ -2,12 +2,12 @@
 outgoing_links:
   - Zet/Zettelkasten
 backlinks:
-  - Zet/Hub note
+  - Zet/Literature Note
+  - Zet/Fleeting Note
   - Zet/Zettelkasten
   - Zet/Reference Manager
+  - Zet/Hub note
   - Zet/Permanent Note
-  - Zet/Fleeting Note
-  - Zet/Literature Note
 title: Niklas Luhmann
 created: Oct 21, 2020 9:30 PM
 tags:

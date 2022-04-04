@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Louis Pasteur
 backlinks:
-  - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
+  - Zet/Các lập luận phủ định thuyết tiến hóa
 title: Định luật Tạo sinh
 UID: 220113222706
 created: 13-Jan-2022

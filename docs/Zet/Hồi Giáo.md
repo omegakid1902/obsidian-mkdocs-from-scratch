@@ -8,16 +8,16 @@ outgoing_links:
   - Zet/Kinh Koran
   - Zet/Thuyết âm mưu
 backlinks:
-  - Zet/Qmap
-  - Zet/Người Do Thái Sephardi
-  - Zet/Religion
-  - Zet/God
-  - Zet/220225204848 - Tín đồ Hồi giáo cầu nguyện 5 lần 1 ngày
-  - Zet/220225204621 - Hồi giáo không thờ ảnh tượng
   - Zet/Kinh Koran
-  - Zet/People/Alberto Rivera
-  - Zet/People/Thánh Anna
+  - Zet/Qmap
+  - Zet/God
+  - Zet/Religion
+  - Zet/220225204848 - Tín đồ Hồi giáo cầu nguyện 5 lần 1 ngày
+  - Zet/Người Do Thái Sephardi
+  - Zet/220225204621 - Hồi giáo không thờ ảnh tượng
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
+  - Zet/People/Thánh Anna
+  - Zet/People/Alberto Rivera
 title: Hồi Giáo
 UID: 201225213853
 created: 25-Dec-2021

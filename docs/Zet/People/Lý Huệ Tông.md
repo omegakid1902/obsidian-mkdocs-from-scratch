@@ -5,14 +5,14 @@ outgoing_links:
   - Zet/People/Lý Chiêu Hoàng
   - Zet/Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng
 backlinks:
-  - Zet/Các tên gọi của vua Lý Chiêu Hoàng
-  - Zet/Trần Thủ Độ bức chết Lý Huệ Tông
-  - Zet/Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng
   - Zet/Quan hệ huyết thống nhà Trần - Lý
-  - Zet/People/Lý Chiêu Hoàng
-  - Zet/People/Linh Từ Quốc mẫu
+  - Zet/Trần Thủ Độ bức chết Lý Huệ Tông
+  - Zet/Các tên gọi của vua Lý Chiêu Hoàng
+  - Zet/Lý Huệ Tông truyền ngôi con gái út Lý Chiêu Hoàng
   - Zet/People/Thuận Thiên công chúa
+  - Zet/People/Linh Từ Quốc mẫu
   - Zet/People/Trần Thủ Độ
+  - Zet/People/Lý Chiêu Hoàng
 title: Lý Huệ Tông
 UID: 210902154142
 tags:

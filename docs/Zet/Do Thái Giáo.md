@@ -16,9 +16,9 @@ outgoing_links:
 backlinks:
   - Zet/Torah
   - Zet/Giáo phái Essenes
+  - Zet/Hồi Giáo
   - Zet/Khazarian Mafia
   - Zet/Religion
-  - Zet/Hồi Giáo
   - Zet/Ngũ Kinh Cựu Ước
   - Zet/People/Moses
 title: Do Thái Giáo

@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Luân xa xương cùng
   - Zet/Luân xa rốn
 backlinks:
+  - Zet/Thế giới tâm linh
   - Zet/Cơ thể con người có 7 luân xa
   - Zet/Kundalini
-  - Zet/Thế giới tâm linh
 title: Luân xa
 UID: 211017144348
 created: 17-Oct-2021

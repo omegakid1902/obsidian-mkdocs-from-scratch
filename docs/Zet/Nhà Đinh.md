@@ -2,11 +2,11 @@
 outgoing_links:
   - Zet/People/Đinh Bộ Lĩnh
 backlinks:
+  - Zet/Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé
   - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
   - Zet/Lịch Sử Việt Nam
-  - Zet/Nhà Tiền Lê
-  - Zet/Đinh Bộ Lĩnh, Nguyễn Bặc, Đinh Điền kết thân keo sơn từ bé
   - Zet/Quốc hiệu VN qua các thời kỳ
+  - Zet/Nhà Tiền Lê
   - Zet/People/Nguyễn Bặc
   - Zet/People/Đinh Bộ Lĩnh
 title: Nhà Đinh

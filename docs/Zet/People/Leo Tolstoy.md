@@ -6,8 +6,8 @@ outgoing_links:
 backlinks:
   - Zet/220220204335 - Bốn giai đoạn của cuộc đời theo Tolstoy
   - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
-  - Zet/People/Mahatma Gandhi
   - Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày
+  - Zet/People/Mahatma Gandhi
 title: Leo Tolstoy
 UID: 211203220657
 tags:

@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Nhà Tần
 backlinks:
-  - Zet/Nhà Tần
   - Zet/Lịch sử Trung Quốc
+  - Zet/Nhà Tần
 title: Thương Ưởng
 UID: 210828105217
 tags:

@@ -2,11 +2,11 @@
 outgoing_links:
   - Zet/Thảm họa hạt nhân
 backlinks:
-  - Zet/Qmap
-  - Zet/220220101919 - Thảm họa Fukushima là thảm họa hạt nhân cấp độ 7
   - Zet/220220102042 - Ba thảm họa hạt nhân lớn nhất trong lịch sử Fukushima, Chernobyl, Kyshtym
+  - Zet/220220101919 - Thảm họa Fukushima là thảm họa hạt nhân cấp độ 7
   - Zet/220220102020 - Thảm họa Fukushima và Chernobyl đều là thảm họa rò rỉ nhà máy điện hạt nhân
   - Zet/Thảm họa hạt nhân
+  - Zet/Qmap
 title: Thảm họa Fukushima
 UID: 211127103605
 created: 27-Nov-2021

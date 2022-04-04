@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Descartes theo học trường dòng Tên
 backlinks:
-  - Zet/Phong trào khai sáng
   - Zet/220224210248 - Descartes đưa ra lý thuyết về sự lặp lại màu sắc cầu vồng
+  - Zet/Phong trào khai sáng
   - Zet/Descartes theo học trường dòng Tên
 title: René Descartes
 UID: 211113155758

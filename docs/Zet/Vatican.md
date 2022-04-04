@@ -3,13 +3,13 @@ outgoing_links:
   - Zet/Công Giáo
   - Zet/People/Đức Giáo Hoàng
 backlinks:
-  - Zet/Qmap
   - Zet/Một số tên gọi tương ứng với Nguyên thủ quốc gia
-  - Zet/Nhà nguyện Sistine
-  - Zet/Dòng Tên
   - Zet/Vương cung thánh đường Thánh Phêrô
-  - Zet/People/Alberto Rivera
+  - Zet/Nhà nguyện Sistine
+  - Zet/Qmap
+  - Zet/Dòng Tên
   - Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓
+  - Zet/People/Alberto Rivera
 title: Vatican
 UID: 211121131022
 created: 21-Nov-2021

@@ -4,10 +4,10 @@ outgoing_links:
 backlinks:
   - Zet/Qmap
   - Zet/Tháp Wardenclyffe
+  - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
   - Zet/People/Thomas Edison
   - Zet/People/Theodore Roosevelt
   - Zet/People/Nicola Tesla
-  - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
 title: John Pierpont Morgan
 UID: 211119234436
 tags:

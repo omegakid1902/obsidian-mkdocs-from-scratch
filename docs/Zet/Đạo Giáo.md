@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Lão Tử
 backlinks:
-  - Zet/220220162715 - Tư tưởng Mani giáo phù hợp với quan điểm đương thời Trung Quốc nên phát triển mạnh
   - Zet/Bách gia Chư tử
+  - Zet/220220162715 - Tư tưởng Mani giáo phù hợp với quan điểm đương thời Trung Quốc nên phát triển mạnh
   - Zet/People/Trang Tử
 title: Đạo Giáo
 UID: 2107041310

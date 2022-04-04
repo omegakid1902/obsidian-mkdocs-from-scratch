@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/220220183634 - Lặp lại chân lý không phải là chân lý
 backlinks:
-  - Zet/220220184403 - Sự lặp lại các câu chữ trong cổ thư, thánh kinh không mang lại lợi ích gì
   - Zet/220220183634 - Lặp lại chân lý không phải là chân lý
   - Zet/220220184503 - Chúng ta thường là độc giả, khán giả hơn là tác giả, diễn viên
+  - Zet/220220184403 - Sự lặp lại các câu chữ trong cổ thư, thánh kinh không mang lại lợi ích gì
 title: Đa số chỉ lặp lại tư tưởng chứ không hề sáng tạo
 UID: 220220195526
 created: 20-Feb-2022

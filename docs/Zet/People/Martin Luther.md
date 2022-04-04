@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Cải Cách Kháng Nghị
 backlinks:
-  - Zet/Tin Lành
   - Zet/Cải Cách Kháng Nghị
   - Zet/95 luận đề của Martin-Luther
+  - Zet/Tin Lành
 title: Martin Luther
 tags:
   - 'created/2020/Dec/25'

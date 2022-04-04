@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Big Medicine
 backlinks:
   - Zet/Các kênh thông tin trái chiều
-  - Zet/The Terrain Theory
   - Zet/Đại dịch COVID-19
+  - Zet/The Terrain Theory
 title: Kênh youtube giáo dục tự do 1
 UID: 211004220513
 created: 04-Oct-2021

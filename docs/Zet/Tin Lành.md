@@ -7,11 +7,11 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/Bí tích rửa tội
 backlinks:
-  - Zet/Cơ Đốc Giáo
-  - Zet/Religion
-  - Zet/God
   - Zet/Cộng Đoàn Taize
+  - Zet/God
+  - Zet/Religion
   - Zet/220120 - Gia đình Bernoulli theo Tin Lành Calvin
+  - Zet/Cơ Đốc Giáo
   - Zet/Tên gọi Kháng Nghị và Tin Lành
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Tin Lành

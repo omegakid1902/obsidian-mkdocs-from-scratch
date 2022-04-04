@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Spaced Repetition
   - Zet/Incremental Reading
 backlinks:
-  - Zet/SM-Algorithm
   - Zet/Incremental Reading
+  - Zet/SM-Algorithm
 title: SuperMemo
 created: Nov 21, 2020 12:36 AM
 tags:

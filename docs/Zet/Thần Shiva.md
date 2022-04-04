@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Tam thần Ấn giáo
   - Zet/Ấn Độ giáo
 backlinks:
-  - Zet/220225214755 - Thần Shiva có có 3 mắt, con mắt thứ 3 ở trán
-  - Zet/Ấn Độ giáo
-  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
   - Zet/Tam thần Ấn giáo
+  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
+  - Zet/Ấn Độ giáo
+  - Zet/220225214755 - Thần Shiva có có 3 mắt, con mắt thứ 3 ở trán
 title: Thần Shiva
 created: July 4, 2021 3:56 PM
 tags:

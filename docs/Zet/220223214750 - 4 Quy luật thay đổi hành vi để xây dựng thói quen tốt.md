@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/220223214605 - Chu kỳ 4 bước của một thói quen
 backlinks:
+  - Zet/220224202747 - Dựa vào quy luật 1 Dấu hiệu (Cue) để xây dựng thói quen
   - Zet/220224203730 - Giữ các tác nhân xấu ở xa để loại bỏ thói quen xấu
   - Zet/220224203507 - Dựa trên quy luật 1 thói quen, Chuyên biệt hóa không gian sống
-  - Zet/220224202747 - Dựa vào quy luật 1 Dấu hiệu (Cue) để xây dựng thói quen
 title: 4 Quy luật thay đổi hành vi để xây dựng thói quen tốt
 UID: 220223214750
 created: 23-Feb-2022

@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Các chế độ nhịn ăn
   - Zet/Intermittent Fasting
 backlinks:
-  - Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ
   - Zet/Các chế độ nhịn ăn
   - Zet/FDA
+  - Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ
 title: Sức khỏe
 UID: 210903101749
 tags:

@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Định luật Mendel về Di truyền
 backlinks:
-  - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Định luật Mendel về Di truyền
+  - Zet/Các lập luận phủ định thuyết tiến hóa
 title: Grego Mendel
 UID: 220113002103
 tags:

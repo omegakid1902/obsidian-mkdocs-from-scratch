@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Titan Oceanus
   - Zet/220228212744 - Oceanide là tên gọi để chỉ các con gái của Oceanus
 backlinks:
-  - Zet/220228204428 - Các con trai của Oceanus cai quản sông hồ
   - Zet/220228204603 - Các con gái của Oceanus trú ngụ ở biển, một số ít ở sông hồ
+  - Zet/220228204428 - Các con trai của Oceanus cai quản sông hồ
 title: Oceanus cưới Tethys sinh ra 3000 nam, 3000 nữ
 UID: 220228204304
 created: 28-Feb-2022

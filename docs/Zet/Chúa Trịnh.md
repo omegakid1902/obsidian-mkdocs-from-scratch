@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Thời Lê trung hưng
   - Zet/People/Trịnh Kiểm
 backlinks:
-  - Zet/Nguyễn Ánh
   - Zet/Thời Lê trung hưng
+  - Zet/Nguyễn Ánh
   - Zet/Đàng Ngoài
   - Zet/Nhà Tây Sơn
   - Zet/Chúa Nguyễn

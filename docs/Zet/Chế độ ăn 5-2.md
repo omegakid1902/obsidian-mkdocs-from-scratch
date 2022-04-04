@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Intermittent Fasting
   - Zet/Các chế độ nhịn ăn
+  - Zet/Intermittent Fasting
 title: Chế độ ăn 5-2
 UID: 210903091119
 tags:

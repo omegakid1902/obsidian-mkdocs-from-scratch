@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/220219225747 - Daedalus giúp Theseus đánh bại quái vật Minotaur
   - Zet/220219225921 - Vua Minos nhốt Daedalus vào Labyrinth vì ông giúp Theseus
+  - Zet/220219225747 - Daedalus giúp Theseus đánh bại quái vật Minotaur
   - Zet/220219230115 - Deadalus đã chế tạo đôi cánh bằng sáp và lông chim để thoát khỏi Labyrinth
 title: Mê cung Labyrinth
 UID: 220220100411

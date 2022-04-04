@@ -2,10 +2,10 @@
 outgoing_links:
   - Zet/Spacing Effect
 backlinks:
-  - Zet/SM-Algorithm
-  - Zet/Đường cong học tập
   - Zet/Incremental Reading
   - Zet/SuperMemo
+  - Zet/SM-Algorithm
+  - Zet/Đường cong học tập
 title: Spaced Repetition
 created: Nov 21, 2020 12:22 AM
 tags:

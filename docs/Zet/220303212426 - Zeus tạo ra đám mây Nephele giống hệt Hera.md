@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Garden/Thần Zeus
   - Zet/Garden/Nữ thần Hera
 backlinks:
+  - Zet/220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaur
   - Zet/220303212520 - Ixion mưu tính chuyện bỉ ổi với Hera
   - Zet/220303212625 - Zeus sai Hermes bắt Ixion giam xuống Tartarus
-  - Zet/220303212331 - Ixion quan hệ với đám mây Nephele sinh ra Centaur
 title: Zeus tạo ra đám mây Nephele giống hệt Hera
 UID: 220303212426
 created: 03-Mar-2022

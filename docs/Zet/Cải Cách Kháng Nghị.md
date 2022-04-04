@@ -6,12 +6,12 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Anabaptist
 backlinks:
+  - Zet/Phong trào Phản Cải cách
   - Zet/Tin Lành
   - Zet/Phong trào Tinh Lành
-  - Zet/Phong trào Phản Cải cách
   - Zet/Tên gọi Kháng Nghị và Tin Lành
-  - Zet/People/Thomas More
   - Zet/People/Martin Luther
+  - Zet/People/Thomas More
 title: Cải Cách Kháng Nghị
 created: Dec 06, 2020 10:47 PM
 tags:

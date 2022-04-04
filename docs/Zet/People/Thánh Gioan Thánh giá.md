@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/People/Teresa of Avila
   - Zet/Thánh Gioan Thánh giá là học trò của Teresa of Avila
 backlinks:
-  - Zet/Thức tỉnh tâm linh
   - Zet/Bóng tối linh hồn
-  - Zet/Gioan Thánh giá gọi Chúa là nada
   - Zet/Thánh Gioan Thánh giá là học trò của Teresa of Avila
+  - Zet/Thức tỉnh tâm linh
+  - Zet/Gioan Thánh giá gọi Chúa là nada
   - Zet/People/Teresa of Avila
 title: Thánh Gioan Thánh giá
 UID: 211022211249

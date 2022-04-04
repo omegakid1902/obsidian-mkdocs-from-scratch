@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Richard Feymann
 backlinks:
-  - Zet/Phương pháp con vịt cao su
   - Zet/Self Improvement
+  - Zet/Phương pháp con vịt cao su
 title: Kỹ thuật học tập Feymann
 created: Oct 22, 2020 5:50 AM
 tags:

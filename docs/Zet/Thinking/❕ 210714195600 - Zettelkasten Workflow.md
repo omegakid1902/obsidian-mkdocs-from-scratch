@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Permanent Note
 backlinks:
   - Zet/Garden/Các tài liệu zettelkasten
-  - Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow
   - Zet/Writing/Zettelkasten Workflow
+  - Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow
 title: Zettelkasten Workflow
 UID: 210714195600
 created: 27-Feb-2022

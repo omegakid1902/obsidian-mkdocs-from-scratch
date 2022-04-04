@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
+  - Zet/Lịch sử Trung Quốc
   - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung
   - Zet/Họ Khúc
   - Zet/People/Lý Thế Dân

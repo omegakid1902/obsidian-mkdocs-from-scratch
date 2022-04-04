@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Anton Lavey được xem là cha đẻ của Satan giáo
   - Zet/Anton Lavey thành lập nhà thờ Satan 1966
 backlinks:
-  - Zet/Qmap
   - Zet/Satanism
-  - Zet/Anton Lavey thành lập nhà thờ Satan 1966
   - Zet/Anton Lavey được xem là cha đẻ của Satan giáo
+  - Zet/Qmap
+  - Zet/Anton Lavey thành lập nhà thờ Satan 1966
 title: Anton Lavey
 UID: 211113224518
 tags:

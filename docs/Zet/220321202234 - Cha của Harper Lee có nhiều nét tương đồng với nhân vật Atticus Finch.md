@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/220321202522 - Cha của Harper Lee là luật sư, từng biện hộ cho một người da đen
   - Zet/220321201754 - Giết con chim nhại gần giống tự truyện của Harper Lee
 backlinks:
-  - Zet/220321202522 - Cha của Harper Lee là luật sư, từng biện hộ cho một người da đen
   - Zet/220321203051 - Harper Lee có nhiều điểm tương đồng với Scout trong Giết con chim nhại
+  - Zet/220321202522 - Cha của Harper Lee là luật sư, từng biện hộ cho một người da đen
   - Zet/220321201754 - Giết con chim nhại gần giống tự truyện của Harper Lee
 title: Cha của Harper Lee có nhiều nét tương đồng với nhân vật Atticus Finch
 UID: 220321202234

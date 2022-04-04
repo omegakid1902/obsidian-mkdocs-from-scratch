@@ -7,10 +7,10 @@ outgoing_links:
   - Zet/People/Trần Thủ Độ
 backlinks:
   - Zet/Quan hệ huyết thống nhà Trần - Lý
-  - Zet/People/Lý Chiêu Hoàng
   - Zet/People/Thuận Thiên công chúa
   - Zet/People/Trần Cảnh
   - Zet/People/Trần Thủ Độ
+  - Zet/People/Lý Chiêu Hoàng
 title: Linh Từ Quốc mẫu
 UID: 210902132230
 tags:

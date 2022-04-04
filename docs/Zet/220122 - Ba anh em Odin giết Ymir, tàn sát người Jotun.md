@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/220122 - Chỉ còn tồn tại 2 Jotun sau khi Ymir bị Odin giết
-  - Zet/220122111015 - Thế giới được tạo thành từ xác Ymir
-  - Zet/220124232116 - Ba anh em Odin giết Ymir vì nó trở nên độc ác
   - Zet/220122 - Dòng dõi Jotun mang mối thù với Aesir
+  - Zet/220122 - Chỉ còn tồn tại 2 Jotun sau khi Ymir bị Odin giết
+  - Zet/220124232116 - Ba anh em Odin giết Ymir vì nó trở nên độc ác
+  - Zet/220122111015 - Thế giới được tạo thành từ xác Ymir
 title: Ba anh em Odin giết Ymir, tàn sát người Jotun
 UID: 220122110418
 created: 22-Jan-2022

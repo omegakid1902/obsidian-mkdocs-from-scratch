@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Các nhà tiên tri
   - Zet/Thế giới tâm linh
+  - Zet/Các nhà tiên tri
 title: Abhigya Anand
 UID: 211015223315
 tags:

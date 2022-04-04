@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Atlantis
   - Zet/220117 - Người Atlantis có thể là người ngoài hành tinh
+  - Zet/Atlantis
 title: Người Atlantis tuổi thọ cao tới 800 năm
 UID: 220117235307
 created: 17-Jan-2022

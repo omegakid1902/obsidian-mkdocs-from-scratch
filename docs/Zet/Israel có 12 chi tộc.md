@@ -7,9 +7,9 @@ outgoing_links:
   - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
   - Zet/Jacob có hai vợ chính và 2 vợ lẽ
 backlinks:
-  - Zet/Chi tộc Joseph
-  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
   - Zet/Chi tộc Levi
+  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
+  - Zet/Chi tộc Joseph
   - Zet/People/Jacob
 title: Israel có 12 chi tộc
 UID: 211029235040

@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220220195526 - Đa số chỉ lặp lại tư tưởng chứ không hề sáng tạo
 backlinks:
-  - Zet/220220184403 - Sự lặp lại các câu chữ trong cổ thư, thánh kinh không mang lại lợi ích gì
   - Zet/220220183828 - Để tránh 220220183634, Krishnamurti khuyên ta không nên đọc kinh văn nào
+  - Zet/220220184403 - Sự lặp lại các câu chữ trong cổ thư, thánh kinh không mang lại lợi ích gì
 title: Chúng ta thường là độc giả, khán giả hơn là tác giả, diễn viên
 UID: 220220184503
 created: 20-Feb-2022

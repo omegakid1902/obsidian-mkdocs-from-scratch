@@ -1,10 +1,10 @@
 ---
 backlinks:
-  - Zet/220225210753 - Ba tập Kinh Vệ Đà Rig, Sama, Yayur kể về tình hình người Arya vào Ấn Độ
   - Zet/220218212233 - Ngôn ngữ Sanskrit được nói đầu tiên bởi người Aryan
-  - Zet/220218212931 - Học thuyết Darwin dẫn đến kỳ thị chủng tộc
-  - Zet/Tiếng Sanskrit
   - Zet/Eugenics
+  - Zet/220225210753 - Ba tập Kinh Vệ Đà Rig, Sama, Yayur kể về tình hình người Arya vào Ấn Độ
+  - Zet/Tiếng Sanskrit
+  - Zet/220218212931 - Học thuyết Darwin dẫn đến kỳ thị chủng tộc
 title: Người Aryan
 created: Jun 19, 2021 9:08 PM
 tags:

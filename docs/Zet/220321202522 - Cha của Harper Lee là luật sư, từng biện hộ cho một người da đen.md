@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220321202234 - Cha của Harper Lee có nhiều nét tương đồng với nhân vật Atticus Finch
 backlinks:
-  - Zet/220321202234 - Cha của Harper Lee có nhiều nét tương đồng với nhân vật Atticus Finch
   - Zet/220321201754 - Giết con chim nhại gần giống tự truyện của Harper Lee
+  - Zet/220321202234 - Cha của Harper Lee có nhiều nét tương đồng với nhân vật Atticus Finch
 title: Cha của Harper Lee là luật sư, từng biện hộ cho một người da đen
 UID: 220321202522
 created: 21-Mar-2022

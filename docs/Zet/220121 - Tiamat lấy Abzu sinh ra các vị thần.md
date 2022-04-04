@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Thần Tiamat
   - Zet/Garden/Thần Abzu
 backlinks:
-  - Zet/Garden/Thần Tiamat
   - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
+  - Zet/Garden/Thần Tiamat
 title: 220121 - Tiamat lấy Abzu sinh ra các vị thần
 UID: 220121233724
 created: 21-Jan-2022

@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Carbohydrate
 backlinks:
-  - Zet/Carbohydrate
   - Zet/Ngoài Carb, một số chế độ ăn Keto đặc biệt còn hạn chế sử dụng protein
+  - Zet/Carbohydrate
 publish: True
 ---
 # Carbohydrate

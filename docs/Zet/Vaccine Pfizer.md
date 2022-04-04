@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Các loại Vaccine COVID 19
   - Zet/Phía sau Vaccine Pfizer
 backlinks:
+  - Zet/Vaccination
   - Zet/Phía sau Vaccine Pfizer
   - Zet/Các loại Vaccine COVID 19
-  - Zet/Vaccination
   - Zet/Đại dịch COVID-19
   - Zet/People/Bill Gates
 title: Vaccine Pfizer

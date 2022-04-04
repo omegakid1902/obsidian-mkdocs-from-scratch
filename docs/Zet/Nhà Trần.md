@@ -8,18 +8,18 @@ outgoing_links:
   - Zet/People/Trần Quang Khải
 backlinks:
   - Zet/220131110245 - Hồ Quý Ly lật đổ nhà Trần 1400
-  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
-  - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
-  - Zet/Nhà Đại Lý
-  - Zet/220131110118 - Dù là tôn thất nhà Trần, Trần Nguyên Đán không chống Hồ Quý Ly
+  - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
   - Zet/Lịch Sử Việt Nam
-  - Zet/People/Lý Chiêu Hoàng
+  - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
+  - Zet/220131110118 - Dù là tôn thất nhà Trần, Trần Nguyên Đán không chống Hồ Quý Ly
+  - Zet/Nhà Đại Lý
+  - Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
   - Zet/People/Trần Liễu
   - Zet/People/Trần Cảnh
-  - Zet/People/Trần Hưng Đạo
   - Zet/People/Trần Thủ Độ
-  - Zet/Thinking/❕ Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được
+  - Zet/People/Lý Chiêu Hoàng
+  - Zet/People/Trần Hưng Đạo
 title: Nhà Trần
 tags:
   - 'created/2021/Jul/09'

@@ -46,7 +46,9 @@ publish: True
 - [[@ Leo Tolstoy, Suy niệm mỗi ngày]]
 - [[@ Michael Guillen, 5 phương trình làm thay đổi thế giới]]
 - [[@ Harper Lee, Giết con chim nhại]]
-
+- [[@ Anne Frank, Nhật ký Anne Frank]]
+- [[@ E.B. White, Charlotte's Web]]
+- [[@ Richard Adams, Đồi thỏ]]
 
 
 ## Created:

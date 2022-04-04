@@ -9,29 +9,29 @@ outgoing_links:
   - Zet/Người Do Thái Sephardi
   - Zet/Người Do Thái Mizrahi
 backlinks:
-  - Zet/Do Thái Giáo
-  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
-  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
-  - Zet/Người Do Thái Ethiopia
   - Zet/Người Do Thái tin rằng bắt nguồn từ 3 chi tộc Judah, Benjamin và Levi
-  - Zet/Người Do Thái Sephardi
-  - Zet/Xung đột Israel - Palestine
-  - Zet/Ngôi sao David
+  - Zet/Người Hebrew
+  - Zet/Người Do Thái Ethiopia
+  - Zet/Do Thái Giáo
   - Zet/Eugenics
-  - Zet/Chủ Nghĩa Zion
   - Zet/Khazars
+  - Zet/Ngôi sao David
+  - Zet/Xung đột Israel - Palestine
+  - Zet/Thời dân Do Thái lưu đày Ai Cập, biến cố Vượt Qua được Chúa nói với Abraham trong sách sáng thế
   - Zet/Bức tường than khóc
   - Zet/Holocaust
-  - Zet/Người Hebrew
+  - Zet/Người Do Thái Sephardi
+  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
   - Zet/Moses thuộc chi tộc Levi
+  - Zet/Chủ Nghĩa Zion
+  - Zet/Writing/Tiểu sử tiên tri Moses
+  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
   - Zet/People/Adolf Hitler
-  - Zet/People/Moses
-  - Zet/People/Abraham
   - Zet/People/Henry Alfred Kissinger
   - Zet/People/Karl Marx
+  - Zet/People/Moses
+  - Zet/People/Abraham
   - Zet/People/Baruch Spinoza
-  - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
-  - Zet/Writing/Tiểu sử tiên tri Moses
 title: Người Do Thái
 created: Jun 19, 2021 9:05 PM
 tags:

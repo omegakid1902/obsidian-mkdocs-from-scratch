@@ -7,10 +7,10 @@ outgoing_links:
   - Zet/Zettelkasten
   - Zet/People/Niklas Luhmann
 backlinks:
-  - Zet/Zettelkasten
-  - Zet/Permanent Note
   - Zet/Fleeting Note
+  - Zet/Zettelkasten
   - Zet/The Luhmann Notes
+  - Zet/Permanent Note
   - Zet/Thinking/❕ 210714195600 - Zettelkasten Workflow
 title: Literature Note
 created: Oct 21, 2020 10:09 PM

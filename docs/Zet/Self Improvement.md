@@ -9,8 +9,8 @@ outgoing_links:
   - Zet/Kỹ thuật học tập Feymann
   - Zet/Dopamine detox
 backlinks:
-  - Zet/Rat race
   - Zet/Interests
+  - Zet/Rat race
 title: Self Improvement
 tags:
   - 'created/2021/Aug/10'
