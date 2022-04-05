@@ -43,10 +43,12 @@ Metadata:
 	- Blackavar
 - Các nhân vật phản diện, đứng đầu các đồng thỏ
 	- Thống Soái Hoắc Hương (General Woundwort) đứng đầu Efrafa
-	- Chúa Thanh Lương Trà (Threarah) đứng đầu Sandleford
 	- Anh Thảo Vàng (Cowslip)
+	- Chúa Thanh Lương Trà (Threarah) đứng đầu Sandleford
 
 ## Tóm tắt
+
+**Sandleford**
 
 Câu chuyện bắt đầu từ một cánh đồng thỏ hoang. Nhưng lại bắt đầu với một biểu tượng của con người "Tấm biển thông báo" với nội dung *"MẢNH ĐẤT Ở VỊ TRÍ LÝ TƯỞNG, GỒM 6 HÉCTA ĐẤT XÂY DỰNG TUYỆT ĐẸP NÀY SẼ ĐƯỢC PHÁT TRIỂN THÀNH KHU DÂN CƯ HIỆN ĐẠI, CAO CẤP DO CÔNG TY TRÁCH NHIỆM HỮU HẠN SUTCH VÀ MARTIN, NEWBURY, XỨ BERKS THỰC HIỆN"*. 
 
@@ -54,13 +56,37 @@ Câu chuyện bắt đầu từ một cánh đồng thỏ hoang. Nhưng lại b�
 
 Ôi, tại sao lúc đọc lần đầu mình lại bỏ lỡ dữ kiện quan trọng bậc nhất này nhỉ!
 
-Tuy nhiên, có một chú thỏ, có khả năng dự cảm từ những giấc mơ của mình, đã nhìn thấy một tương lai u tối sắp xảy đến với đồng cỏ. Và nếu loài thỏ không kịp dời đi, thì chúng cũng sẽ có số phận tương tự. Chú thỏ đó tên là Thứ Năm (Fiver). Cậu là chú thỏ trong bầy thỏ 5 con. Anh cậu tên là Cây Phỉ (Hazel). Thứ Năm kể cho Cây Phỉ linh cảm xấu của mình. Hazel tin tưởng vào khả năng tiên đoán của người em mình, cậu mạnh dạn dẫn Thứ Năm đi gặp Thủ Lĩnh của bầy thỏ là Chúa Thanh Lương Trà. Sau khi trình bày mọi thứ, thì Chúa Thanh Lương Trà, tất nhiên, không thể mạo hiểm vì một lời nói của một đứa trẻ con mà dẫn cả bầy đi nơi khác, sẽ gặp biết bao rủi ro, nguy hiểm cho cả bầy. Không thể thuyết phục được Thủ lĩnh của bầy thỏ, Cây Phỉ cùng Thứ Năm chuẩn bị kế hoạch đi khỏi Sandleford. Cậu loan tin đến cho mọi người trong cánh đồng thỏ, và nhiều chú thỏ tìm đến để cùng được đi. Khi kế hoạch đến tai thủ lĩnh của đội cận vệ, chúng dùng vũ lực ngăn cản cả bọn, không cho nhóm của Cây Phỉ được rời khỏi Sandleford. Tuy nhiên, vào lúc đó, nhóm của Cây Phỉ cũng mới tiếp nhận một số thành viên của đội cận vệ và chúng đủ sức đánh trả lại vài ba người của đội cận vệ. Trước khi đội cận vệ kéo đủ quân số tới, Cây Phỉ vội vã dẫn nhóm mình đi khỏi Sandleford vượt qua con sông.
+**Chạy trốn khỏi Sandleford**
 
-Cánh đồng Anh Thảo Vàng
-Tới Watership Down
-Trang trại Nuthanger
-Efrafa
+Tuy nhiên, có một chú thỏ, có khả năng dự cảm từ những giấc mơ của mình, đã nhìn thấy một tương lai u tối sắp xảy đến với đồng cỏ. Và nếu loài thỏ không kịp dời đi, thì chúng cũng sẽ có số phận tương tự. Chú thỏ đó tên là Thứ Năm (Fiver). Cậu là chú thỏ trong bầy thỏ 5 con. Anh cậu tên là Cây Phỉ (Hazel). Thứ Năm kể cho Cây Phỉ linh cảm xấu của mình. Hazel tin tưởng vào khả năng tiên đoán của người em mình, cậu mạnh dạn dẫn Thứ Năm đi gặp Thủ Lĩnh của bầy thỏ là Chúa Thanh Lương Trà. Sau khi trình bày mọi thứ, thì Chúa Thanh Lương Trà, tất nhiên, không thể mạo hiểm vì một lời nói của một đứa trẻ con mà dẫn cả bầy đi nơi khác, sẽ gặp biết bao rủi ro, nguy hiểm cho cả bầy. Không thể thuyết phục được Thủ lĩnh của bầy thỏ, Cây Phỉ cùng Thứ Năm chuẩn bị kế hoạch đi khỏi Sandleford. Cậu loan tin đến cho mọi người trong cánh đồng thỏ, và nhiều chú thỏ tìm đến để cùng được đi. Khi kế hoạch đến tai thủ lĩnh của đội cận vệ, chúng dùng vũ lực ngăn cản cả bọn, không cho nhóm của Cây Phỉ được rời khỏi Sandleford. Tuy nhiên, vào lúc đó, nhóm của Cây Phỉ cũng mới tiếp nhận một số thành viên của đội cận vệ và chúng đủ sức đánh trả lại vài ba người của đội cận vệ. Trước khi đội cận vệ kéo đủ quân số tới, Cây Phỉ vội vã dẫn nhóm mình đi khỏi Sandleford. 
 
+**Vượt Sông**
+
+Trên đường đi, chúng bị truy đuổi bởi một con chó rừng. Nhưng may mắn là chú ta có lẽ vừa mới ăn no nên cả bọn thỏ thoát khỏi chú chó rừng dễ dàng. Khi thoát khỏi  sự truy đuổi của chó, chúng vượt qua con sông để đi qua cánh đồng phía bên kia. Đang lưỡng lự có nên qua ngay hay không thì trong bọn thấy bóng con chó ở trong rừng. Cả bọn quyết định sẽ qua sông ngay lập tức. Tuy nhiên, Thứ Năm và Nồi Đất yếu ớt và sợ hãi gần như không thể bơi qua sông trong lúc này. Đúng lúc đó, Mâm Xôi nhìn thấy một khúc gỗ trôi trên sông và cậu nảy ra sáng kiến là để Thứ Năm và Nồi Đất ở trên khúc gỗ và cả bọn sẽ đẩy hai chú thỏ sang sông. Và cuối cùng cả bọn cũng vượt sông thành công.
+
+**Cánh đồng Anh Thảo Vàng**
+
+Khi qua được sông, chúng biết là sắp có mưa, chúng chuẩn bị đào hang để trú ẩn. Lúc đó, thì có một chú thỏ lạ mặt đến đề nghị rằng chỗ chú còn nhiều hang còn trống và mời cả bọn đến đó và gia nhập cánh đồng nếu muốn. Chú ta là Anh Thảo Vàng. Cả bọn phẩn vân vì thái độ của chú thỏ kia khá bí ẩn. Riêng Thứ Năm, chú có linh cảm xấu về chú thỏ kia nên cậu nhất quyết sẽ không gia nhập cánh đồng đó. Cuối cùng, cả bọn nhất trí sẽ đến cánh đồng của Anh Thảo Vàng, ít là sẽ có chỗ tá túc khi mưa đến, cả bọn đã mệt nhoài và không hề có ai có kinh nghiệm đào hang cả. Ở cánh đồng thỏ của Anh Thảo Vàng, chúng gặp Dâu Tây và được chú ta dẫn đi giới thiệu chỗ ở. Không lâu sau đó, Tóc Giả bị mắc phải bẫy, nhóm Cây Phỉ chạy đến để cứu cậu ta đồng thời báo cho Anh Thảo Vàng. Tuy nhiên, Anh Thảo Vàng làm ngơ và dọa không được nói chuyện này cho ai biết. Lúc đó, nhóm Cây Phỉ mới nhận ra rằng cánh đồng này được con người giám sát, họ âm thầm cung cấp lương thực, đồ ăn, xua đuổi thú giữ khỏi cánh đồng. Đổi lại, con người cũng sẽ âm thầm bẫy nhưng không quá nhiều để bọn thỏ sợ hãi mà bỏ đi. Cả bọn quyết định bỏ đi. Và Dâu Tây nhập bọn với Cây Phỉ, vợ của Dâu Tây cũng mới bị bẫy bởi kẽm gai của con người.
+
+**Watership Down**
+
+Nhóm Cây Phỉ gặp lại Nhựa Ruồi và Hoa Chuông, họ mới trải qua cuộc hành trình đầy nguy hiểm. Họ thoát khỏi sự tàn sát của loài người ở Sandleford, chạm trán với lũ thỏ Anh Thảo Vàng. Phiền Lộ bị chúng giết chết, chỉ còn 2 người đến được Watership Down
+
+Mòng biển Kehaar bị một con mèo vồ gẫy cánh không thể bay được, Cây Phỉ tìm đến giúp đỡ, tìm thức ăn cho cậu, cho cậu chỗ trú ẩn. Sau khi Kehaar bình phục, Cây Phỉ nhờ Kehaar đi xem xét những khu vực xung quanh xem có cánh đồng thỏ nào không. Mục đích của chú là tìm những chú thỏ cái, nếu không có thỏ cái, cả nhóm cuối cùng cũng sẽ lụi tàn. Kehaar sau khi đi thám thính, cậu trở về báo tin rằng có 1 cánh đồng thỏ rất lớn ở xa, và có 1 nông trại gần đó có vài chú thỏ được con người nuôi trong chuồng.
+
+Cây Phỉ lên kế hoạch. Cậu và Nồi Đất sẽ đi đến nông trại Nuthanger còn Nhựa Ruồi sẽ đi thành phố thỏ còn lại. 
+
+**Nông Trại Nuthanger**
+
+Khi Cây Phỉ đến nông trại, cậu tiếp cận được 4 con thỏ 2 đực 2 cái và bày tỏ mong muốn của nhóm mình. Dể cho các chú thỏ có thời gian suy nghĩ và quyết định, cậu sẽ về cánh đồng và sau đó sẽ quay lại. Khi chuẩn bị dời đi, hai chú thỏ đụng độ với 1 chú mèo nhưng chúng may mắn rời khỏi đó an toàn.
+
+Khi quay lại, Cây Phỉ lần này đi với Tóc Giả, Mâm Xôi và Bồ Công Anh. Đang giải cứu cho 4 chú thỏ trong chuồng, khi đang chạy khỏi nông trại thì không may bị con người phát hiện, Cây Phỉ đã cố tình chạy trước mặt con người để đánh lạc hướng giúp những con thỏ có thể dễ dàng chạy thoát. Tuy nhiên, con người có mang súng và Cây Phỉ bị bắn trúng chân. Trong cái rủi có cái may, Cây Phỉ tìm thấy 1 cái hố và chui vào trước khi con người kịp chạy tới nơi. Nhóm Cây Phỉ đưa về được 3 thỏ, còn 1 chú thỏ đực bị con người bắt lại được.
+
+Khi trở về, Thứ Năm biết chuyện nhưng cậu tin vào giấc mơ của mình và cậu biết rằng Cây Phỉ Còng sống. Cậu nhờ Mâm Xôi dẫn mình đến chỗ hôm trước Cây Phỉ gặp nạn. Lần theo vết máu, cậu tìm thấy cái hố nơi Cây Phỉ trú ẩn, cậu động viên Cây Phỉ ráng chịu đau để quay về Watership Down. 
+
+**Efrafa**
+
+Khi đến lãnh địa thỏ Efrafa, nhóm của Nhựa Ruồi bị ép buộc phải gia nhập nhưng chú cùng các bạn tẩu thoát khỏi đó một cách đầy ngoạn mục. Sau khi hồi phục vết thương, Cây Phỉ lựa chọn vài chú thỏ cùng đến Efrafa để thám thính tình hình, đây 
 ## Concept:
 - [[Lapine Language]]
 ## Created:
