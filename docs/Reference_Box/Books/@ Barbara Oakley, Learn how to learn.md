@@ -10,6 +10,10 @@ tags:
 ## Notes:
 - Tác giả [[Barbara Oakley]]
 - [[Chủ động hồi tưởng]]
+- [[Theo Barbara Oakley não có 2 chế độ làm việc]]
+- [[Phương pháp Pomodoro]]
+- [[Cung điện ký ức]]
+- 
 
 
 ## Created:

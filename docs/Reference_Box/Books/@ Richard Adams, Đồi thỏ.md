@@ -84,10 +84,14 @@ Khi quay lại, Cây Phỉ lần này đi với Tóc Giả, Mâm Xôi và Bồ C
 
 Khi trở về, Thứ Năm biết chuyện nhưng cậu tin vào giấc mơ của mình và cậu biết rằng Cây Phỉ Còng sống. Cậu nhờ Mâm Xôi dẫn mình đến chỗ hôm trước Cây Phỉ gặp nạn. Lần theo vết máu, cậu tìm thấy cái hố nơi Cây Phỉ trú ẩn, cậu động viên Cây Phỉ ráng chịu đau để quay về Watership Down. 
 
-**Efrafa**
+**[[Efrafa]]**
 
 Khi đến lãnh địa thỏ Efrafa, nhóm của Nhựa Ruồi bị ép buộc phải gia nhập nhưng chú cùng các bạn tẩu thoát khỏi đó một cách đầy ngoạn mục. Sau khi hồi phục vết thương, Cây Phỉ lựa chọn vài chú thỏ cùng đến Efrafa để thám thính tình hình, đây 
 ## Concept:
 - [[Lapine Language]]
+
+## Relate
+- [[Phim Watership Down (2018)]]
+- [[220406204950 - Khác với truyện, Dâu Tây trong phim chuyển thể là thỏ cái]]
 ## Created:
 - [[2022-04-04]]
