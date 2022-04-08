@@ -3,12 +3,12 @@ outgoing_links:
   - Zet/Nhà Trần
   - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
 backlinks:
-  - Zet/Lịch Sử Việt Nam
-  - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
-  - Zet/Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi
   - Zet/Nhà Trần
-  - Zet/People/Trần Liễu
+  - Zet/Thụy Bà Công chúa nhận Trần Hưng Đạo làm con nuôi
+  - Zet/Theo Đại Việt sử ký, Trần Liễu trước lúc lâm trung dặn Trần Hưng Đạo cướp quyền nhà Trần
+  - Zet/Lịch Sử Việt Nam
   - Zet/People/Trần Quang Khải
+  - Zet/People/Trần Liễu
 title: Trần Hưng Đạo
 UID: 210902131110
 tags:

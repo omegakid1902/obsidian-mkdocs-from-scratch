@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Thuyết Truman
   - Zet/NATO
 backlinks:
-  - Zet/Thuyết Truman
   - Zet/Các đời tổng thống Hoa Kỳ
   - Zet/Xung đột Israel - Palestine
   - Zet/Harry S. Truman được nhắc đến trong Ông già trăm tuổi trèo qua cửa sổ
+  - Zet/Thuyết Truman
 title: Harry S. Truman
 UID: 211127165449
 tags:

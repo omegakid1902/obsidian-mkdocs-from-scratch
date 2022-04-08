@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/Các lời sấm của Trạng Trình
   - Zet/Các nhà tiên tri
 backlinks:
-  - Zet/Triều Mạc chuyển lên Cao Bằng theo lời khuyên của Trạng Trình
-  - Zet/Các lời sấm của Trạng Trình
-  - Zet/Các nhà tiên tri
   - Zet/Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam
+  - Zet/Các nhà tiên tri
+  - Zet/Các lời sấm của Trạng Trình
+  - Zet/Triều Mạc chuyển lên Cao Bằng theo lời khuyên của Trạng Trình
 title: Nguyễn Bỉnh Khiêm
 UID: 211213220051
 tags:

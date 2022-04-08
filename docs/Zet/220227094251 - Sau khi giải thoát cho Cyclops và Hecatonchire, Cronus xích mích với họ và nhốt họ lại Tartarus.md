@@ -6,8 +6,8 @@ outgoing_links:
   - Zet/220226220326 - Uranus bắt giam các Cyclops và Hecatonchire giam vào Tartarus
   - Zet/220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus
 backlinks:
-  - Zet/220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus
   - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
+  - Zet/220228221025 - Zeus giải thoát Cyclops và Hecatonchire để cùng chống Cronus
   - Zet/Garden/Thần thoại Hy Lạp
 title: Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus
 UID: 220227094251

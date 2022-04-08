@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220225210753 - Ba tập Kinh Vệ Đà Rig, Sama, Yayur kể về tình hình người Arya vào Ấn Độ
 backlinks:
-  - Zet/220225210753 - Ba tập Kinh Vệ Đà Rig, Sama, Yayur kể về tình hình người Arya vào Ấn Độ
   - Zet/220225210200 - Kinh Vệ Đà có 4 tập
+  - Zet/220225210753 - Ba tập Kinh Vệ Đà Rig, Sama, Yayur kể về tình hình người Arya vào Ấn Độ
 title: Ba tập Vệ Đà là Rig, Sama, Yayur có điểm tương đồng
 UID: 220225211035
 created: 25-Feb-2022

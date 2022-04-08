@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/People/Anders Ericsson
 backlinks:
   - Zet/Self Improvement
-  - Zet/Writing/Tóm tắt sách - How to take smart notes
   - Zet/People/Anders Ericsson
+  - Zet/Writing/Tóm tắt sách - How to take smart notes
 title: Deliberate Practice
 created: July 27, 2021 8:33 PM
 tags:

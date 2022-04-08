@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Thần Zeus
   - Zet/Garden/Nữ thần Athena
 backlinks:
-  - Zet/220304205320 - Thần Hephaestus bổ đầu Zeus, sinh ra Athena
   - Zet/220304205124 - Athena sinh ra từ đầu của Zeus
+  - Zet/220304205320 - Thần Hephaestus bổ đầu Zeus, sinh ra Athena
 title: Zeus nuốt Metis khi bà đang mang thai Athena
 UID: 220304205225
 created: 04-Mar-2022

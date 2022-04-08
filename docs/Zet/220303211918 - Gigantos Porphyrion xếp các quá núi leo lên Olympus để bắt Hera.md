@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Nữ thần Hera
   - Zet/220303211856 - Gigantos Porphyrion bị sắc đẹp Hera quyến rũ
 backlinks:
-  - Zet/220303211856 - Gigantos Porphyrion bị sắc đẹp Hera quyến rũ
   - Zet/220303212014 - Zeus ngăn chặn Gigantos Porphyrion bắt cóc Hera
+  - Zet/220303211856 - Gigantos Porphyrion bị sắc đẹp Hera quyến rũ
 title: Gigantos Porphyrion xếp các quá núi leo lên Olympus để bắt Hera
 UID: 220303211918
 created: 03-Mar-2022

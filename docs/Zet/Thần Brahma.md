@@ -3,12 +3,12 @@ outgoing_links:
   - Zet/Ấn Độ giáo
   - Zet/Tam thần Ấn giáo
 backlinks:
-  - Zet/Tam thần Ấn giáo
-  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
-  - Zet/Ấn Độ giáo
-  - Zet/220225214702 - Thần Brahma được diễn tả bằng hình người 4 đầu
   - Zet/220225214616 - Bốn tập kinh Vệ Đà được phát từ 4 cái miệng của Brahma
   - Zet/Đạo Bà La Môn
+  - Zet/220225214702 - Thần Brahma được diễn tả bằng hình người 4 đầu
+  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
+  - Zet/Tam thần Ấn giáo
+  - Zet/Ấn Độ giáo
 title: Thần Brahma
 UID: 2107041542
 created: July 4, 2021 3:42 PM

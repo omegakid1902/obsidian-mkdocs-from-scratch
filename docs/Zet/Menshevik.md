@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/People/Vladimir Lenin
   - Zet/Bolshevik
 backlinks:
-  - Zet/Bolshevik và Menshevik
   - Zet/Bolshevik
+  - Zet/Bolshevik và Menshevik
 title: Menshevik
 UID: 211119223137
 created: 19-Nov-2021

@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/People/Niklas Luhmann
   - Zet/Citation
 backlinks:
-  - Zet/Reference Manager Software
   - Zet/Zettelkasten
+  - Zet/Reference Manager Software
   - Zet/Citation
 title: Reference Manager
 created: Oct 21, 2020 10:16 PM

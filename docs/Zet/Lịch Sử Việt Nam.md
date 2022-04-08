@@ -35,8 +35,8 @@ outgoing_links:
   - Zet/Quốc hiệu VN qua các thời kỳ
   - Zet/Hai quan điểm về chính thống của Nhà Triệu trong lịch sử VN
 backlinks:
-  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
   - Zet/Lịch sử
+  - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
 title: Lịch Sử Việt Nam
 UID: null
 created: null

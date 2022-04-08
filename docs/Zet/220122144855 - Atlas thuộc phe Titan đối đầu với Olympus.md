@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/Garden/Thần Atlas
   - Zet/220228223446 - Atlas theo phe Titan chống Zeus
 backlinks:
+  - Zet/220122 - Zues giam các Titan trong Tartarus
   - Zet/220122145218 - Atlas bị Zeus phạt gánh bầu trời
   - Zet/220228223446 - Atlas theo phe Titan chống Zeus
-  - Zet/220122 - Zues giam các Titan trong Tartarus
 title: Atlas thuộc phe Titan đối đầu với Olympus
 UID: 220122144855
 created: 22-Jan-2022

@@ -4,11 +4,11 @@ backlinks:
   - Zet/Coronavirus
   - Zet/Đại dịch COVID-19
   - Zet/Virus HIV
-  - Zet/SARS-COV-2
+  - Zet/Đại dịch COVID-19
   - Zet/COVID-19
   - Zet/Các định đề Thomas Rivers
+  - Zet/SARS-COV-2
   - Zet/Vaccine virus bất hoạt
-  - Zet/Đại dịch COVID-19
 title: Virus
 UID: 2108102215
 tags:

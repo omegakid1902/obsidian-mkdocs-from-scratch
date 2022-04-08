@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Garden/Thần Enki
 backlinks:
   - Zet/220123224023 - Sự không thống nhất về vị thần tạo ra con người trong thần thoại Lưỡng Hà
-  - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
   - Zet/Garden/Thần Enki
+  - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
 title: 220121231251 - Marduk con trai Enki
 UID: 220121231251
 created: 21-Jan-2022

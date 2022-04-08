@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220225204024 - Ngày của người Lưỡng Hà cổ đại bắt đầu từ lúc mặt trời lặn
 backlinks:
-  - Zet/220225204024 - Ngày của người Lưỡng Hà cổ đại bắt đầu từ lúc mặt trời lặn
   - Zet/220225203021 - Thần Shamash là con của thần Mặt trăng
+  - Zet/220225204024 - Ngày của người Lưỡng Hà cổ đại bắt đầu từ lúc mặt trời lặn
 title: Theo quan niệm người Sumer, đêm sinh ra ngày
 UID: 220225203136
 created: 25-Feb-2022

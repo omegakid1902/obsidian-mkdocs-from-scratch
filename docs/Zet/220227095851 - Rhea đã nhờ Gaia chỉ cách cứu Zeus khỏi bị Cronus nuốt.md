@@ -7,8 +7,8 @@ outgoing_links:
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia
 backlinks:
-  - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia
   - Zet/220228220208 - Zeus sinh ra ở đảo Crete, và sống ở đó lúc bé
+  - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia
   - Zet/220227100639 - Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus
   - Zet/Garden/Thần thoại Hy Lạp
 title: Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt

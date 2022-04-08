@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/220225211654 - Sử thi Ramayana dài 48.000 câu
   - Zet/220225211523 - Sử thi Ramayana kể về cuộc tình của hoàng tử Rama và người vợ Sita
 backlinks:
-  - Zet/220225211406 - Mahabharata và Ramayana là hai bộ sử thi lớn nhất của Ấn Độ
   - Zet/220225211523 - Sử thi Ramayana kể về cuộc tình của hoàng tử Rama và người vợ Sita
+  - Zet/220225211406 - Mahabharata và Ramayana là hai bộ sử thi lớn nhất của Ấn Độ
   - Zet/220225211654 - Sử thi Ramayana dài 48.000 câu
 title: Sử thi Ramayana
 UID: 220225211724

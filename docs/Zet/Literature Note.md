@@ -9,8 +9,8 @@ outgoing_links:
 backlinks:
   - Zet/Fleeting Note
   - Zet/Zettelkasten
-  - Zet/The Luhmann Notes
   - Zet/Permanent Note
+  - Zet/The Luhmann Notes
   - Zet/Thinking/❕ 210714195600 - Zettelkasten Workflow
 title: Literature Note
 created: Oct 21, 2020 10:09 PM

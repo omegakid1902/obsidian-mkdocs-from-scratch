@@ -1,8 +1,8 @@
 ---
 backlinks:
-  - Zet/Vril
-  - Zet/Build back better
   - Zet/Khazars
+  - Zet/Build back better
+  - Zet/Vril
   - Zet/Hồi Giáo
   - Zet/QAnon
   - Zet/Lịch Gregorian

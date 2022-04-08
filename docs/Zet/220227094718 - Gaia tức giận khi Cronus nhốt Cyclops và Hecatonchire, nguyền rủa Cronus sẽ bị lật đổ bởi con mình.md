@@ -6,8 +6,8 @@ outgoing_links:
   - Zet/220227094251 - Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus
   - Zet/220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình
 backlinks:
-  - Zet/220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
+  - Zet/220226223124 - Cronus được tiên tri rằng các con mình sẽ hại mình
   - Zet/Garden/Thần thoại Hy Lạp
 title: Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
 UID: 220227094718

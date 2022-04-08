@@ -7,14 +7,14 @@ outgoing_links:
   - Zet/People/Anthony Fauci
   - Zet/Virus HIV
 backlinks:
-  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
-  - Zet/Khoa học và các cú mị dân
   - Zet/Đại dịch COVID-19
   - Zet/Real time PCR test
   - Zet/The Terrain Theory
+  - Zet/Kary B. Mullis chết vào 08-2019, trước đại dịch Covid vài tháng
+  - Zet/Khoa học và các cú mị dân
+  - Zet/People/Kary B. Mullis
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
-  - Zet/People/Kary B. Mullis
 title: Kary B. Mullis
 UID: 211101231452
 tags:

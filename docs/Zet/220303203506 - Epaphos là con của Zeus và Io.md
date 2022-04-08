@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Garden/Thần Zeus
 backlinks:
-  - Zet/220303203546 - Vua đầu tiên của Ai Cập là con của Zeus và Io
   - Zet/220303203421 - Theo thần thoại Hy Lạp, Epaphos là vua đầu tiên của Ai Cập
+  - Zet/220303203546 - Vua đầu tiên của Ai Cập là con của Zeus và Io
 title: Epaphos là con của Zeus và Io
 UID: 220303203506
 created: 03-Mar-2022

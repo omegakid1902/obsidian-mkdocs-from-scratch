@@ -4,18 +4,18 @@ backlinks:
   - Zet/Virus
   - Zet/Antoine Bechamp và Pasteur về lý thuyết vi khuẩn
   - Zet/Đại dịch COVID-19
-  - Zet/WHO
-  - Zet/CDC
-  - Zet/SARS-COV-2
-  - Zet/Ivermectin
-  - Zet/Vaccination
-  - Zet/Big Medicine
-  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
-  - Zet/FDA
-  - Zet/Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021
-  - Zet/Các kênh thông tin trái chiều
   - Zet/Đại dịch COVID-19
+  - Zet/WHO
+  - Zet/FDA
+  - Zet/Big Medicine
+  - Zet/Các kênh thông tin trái chiều
+  - Zet/Robert Malone phản đối việc ép buộc tiêm chủng Vaccine của các chính phủ
   - Zet/The Terrain Theory
+  - Zet/SARS-COV-2
+  - Zet/Cầu thủ Đan mạch Christian Eriksen ngã gục tại Euro 2021
+  - Zet/Vaccination
+  - Zet/CDC
+  - Zet/Ivermectin
   - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: COVID 19
 UID: 2107101155

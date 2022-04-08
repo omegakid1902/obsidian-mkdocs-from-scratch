@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Bách gia Chư tử
   - Zet/Will Durant cho rằng, Mặc Tử là một trong những lý luận gia lí sự vô lý
+  - Zet/Bách gia Chư tử
 title: Mặc Tử
 UID: 210905214957
 tags:

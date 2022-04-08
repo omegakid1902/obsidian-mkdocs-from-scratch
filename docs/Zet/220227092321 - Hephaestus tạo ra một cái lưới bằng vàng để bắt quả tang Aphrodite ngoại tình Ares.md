@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Garden/Thần Ares
   - Zet/220227092145 - Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares
 backlinks:
-  - Zet/220227092746 - Poseidon trả tiền cho Hephaestus để chuộc Ares
   - Zet/220227092145 - Helios tiết lộ cho Hephaestus rằng Aphrodite ngoại tình với Ares
+  - Zet/220227092746 - Poseidon trả tiền cho Hephaestus để chuộc Ares
   - Zet/220227092540 - Sau khi bắt quả tang Aphrodite và Aries ngoại tình, Hephaestus bắt họ bằng lưới vàng và mời các thần chứng kiến
 title: Hephaestus tạo ra một cái lưới bằng vàng để bắt quả tang Aphrodite ngoại tình Ares
 UID: 220227092321

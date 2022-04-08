@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/Literature Note
   - Zet/Fleeting Note
 backlinks:
-  - Zet/Literature Note
   - Zet/Fleeting Note
+  - Zet/Literature Note
   - Zet/Zettelkasten
   - Zet/The Luhmann Notes
   - Zet/Thinking/❕ 210714195600 - Zettelkasten Workflow

@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/220301223350 - Các thần Olympus chốn sang Ai Cập còn Zeus ở lại đấu với Typhon
   - Zet/220301224355 - Zeus chỉ thua Typhon trong lần đối đầu đầu tiên, lần 2 Zeus thắng
 backlinks:
+  - Zet/220301224355 - Zeus chỉ thua Typhon trong lần đối đầu đầu tiên, lần 2 Zeus thắng
   - Zet/220302201942 - 3 cuộc chiến giữa Zeus với những khổng lồ bắt nguồn từ tác động của Gaia
   - Zet/220301223903 - Hermes va Pan quyết định đi giải cứu Zeus khỏi tay Typhon
-  - Zet/220301224355 - Zeus chỉ thua Typhon trong lần đối đầu đầu tiên, lần 2 Zeus thắng
 title: Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile
 UID: 220301223636
 created: 01-Mar-2022

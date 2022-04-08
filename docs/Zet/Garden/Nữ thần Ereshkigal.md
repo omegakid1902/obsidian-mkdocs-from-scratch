@@ -5,13 +5,13 @@ outgoing_links:
   - Zet/220121 - Ereshkigal bị rồng Kur bắt cóc xuống địa ngục
   - Zet/220121 - Ereshkigal nhường quyền cai quản địa ngục cho chồng
 backlinks:
-  - Zet/220121 - Ereshkigal cai quản địa ngục
-  - Zet/220121 - Enki buộc Ereshkigal hồi sinh Ishtar
   - Zet/220121 - Mục đích Ishtar xuống địa ngục có nhiều phiên bản
   - Zet/220121 - Ereshkigal bị rồng Kur bắt cóc xuống địa ngục
-  - Zet/220121 - Ishtar vượt qua 7 cánh cổng địa ngục
   - Zet/220121 - Ereshkigal nhường quyền cai quản địa ngục cho chồng
   - Zet/220121 - Ereshkigal chị em song sinh của Enki
+  - Zet/220121 - Ishtar vượt qua 7 cánh cổng địa ngục
+  - Zet/220121 - Enki buộc Ereshkigal hồi sinh Ishtar
+  - Zet/220121 - Ereshkigal cai quản địa ngục
   - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
 title: Nữ thần Ereshkigal
 UID: 220121232940

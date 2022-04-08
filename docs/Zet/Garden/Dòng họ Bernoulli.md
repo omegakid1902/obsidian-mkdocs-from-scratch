@@ -12,8 +12,8 @@ outgoing_links:
   - Zet/220120 - Nữ hoàng Nga mời 2 anh em Bernoulli điều hành ngành toán Hàn lâm viện hoàng gia
   - Zet/220120 - Euler thế chỗ Nicolas điều hành Hàn lâm viện hoàng gia Saint-Petersburg
 backlinks:
-  - Zet/220120 - Dòng họ Bernoulli thế kỷ 17,18 nổi tiếng về toán học
   - Zet/220120 - Gia đình Bernoulli theo Tin Lành Calvin
+  - Zet/220120 - Dòng họ Bernoulli thế kỷ 17,18 nổi tiếng về toán học
 title: Dòng họ Bernoulli
 UID: 220120223401
 created: 20-Jan-2022

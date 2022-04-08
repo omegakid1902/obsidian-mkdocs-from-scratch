@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/220119231726 - Paris nhờ Aphrodite chiếm hoàng hậu Helen
 backlinks:
-  - Zet/220119231726 - Paris nhờ Aphrodite chiếm hoàng hậu Helen
   - Zet/220304211752 - Aphrodite cho Paris mượn thắt lưng để chinh phục Helene
+  - Zet/220119231726 - Paris nhờ Aphrodite chiếm hoàng hậu Helen
   - Zet/220119231521 - Paris bắn trúng gót chân Achilles
 title: Hoàng tử Paris
 UID: 220119234147

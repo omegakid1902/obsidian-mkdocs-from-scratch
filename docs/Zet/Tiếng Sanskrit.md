@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
 backlinks:
   - Zet/220218212233 - Ngôn ngữ Sanskrit được nói đầu tiên bởi người Aryan
-  - Zet/220218211138 - William Jone khám phá ra sự tương đồng của Sanskrit và các ngôn ngữ Latinh
-  - Zet/Tiếng Sanskrit còn được gọi là Bắc Phạn
-  - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
   - Zet/Akashic records
+  - Zet/Tiếng Sanskrit còn được gọi là Bắc Phạn
+  - Zet/220218211138 - William Jone khám phá ra sự tương đồng của Sanskrit và các ngôn ngữ Latinh
+  - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
   - Zet/People/Trần Huyền Trang
 title: Tiếng Sanskrit
 UID: 210907214735

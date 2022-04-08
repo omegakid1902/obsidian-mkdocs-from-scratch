@@ -8,9 +8,9 @@ outgoing_links:
   - Zet/Vaccine virus bất hoạt
   - Zet/People/Bill Gates
 backlinks:
-  - Zet/Vaccine mRNA
-  - Zet/Vaccine Pfizer
   - Zet/Đại dịch COVID-19
+  - Zet/Vaccine Pfizer
+  - Zet/Vaccine mRNA
 title: Các loại Vaccine COVID 19
 UID: 2107100843
 tags:

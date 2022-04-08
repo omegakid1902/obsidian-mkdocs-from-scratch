@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Khazarian Mafia
 backlinks:
-  - Zet/Qmap
   - Zet/Khazarian Mafia
+  - Zet/Qmap
 title: Cách mạng tháng 10 Nga
 UID: 211118233645
 created: 18-Nov-2021

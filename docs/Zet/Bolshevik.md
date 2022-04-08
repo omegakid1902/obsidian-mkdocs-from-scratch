@@ -6,10 +6,10 @@ outgoing_links:
   - Zet/People/Vladimir Lenin
   - Zet/People/Joseph Stalin
 backlinks:
-  - Zet/Bolshevik và Menshevik
-  - Zet/Khazarian Mafia
   - Zet/Menshevik
+  - Zet/Khazarian Mafia
   - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
+  - Zet/Bolshevik và Menshevik
 title: Bolshevik
 UID: 211119221755
 created: 19-Nov-2021

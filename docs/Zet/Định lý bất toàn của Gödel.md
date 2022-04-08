@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/People/Charles Darwin
   - Zet/Godel bác bỏ Thuyết tiến hóa Darwin
 backlinks:
-  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/Các lập luận phủ định thuyết tiến hóa
+  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
 title: Định lý bất toàn của Gödel
 UID: 220112235704
 created: 12-Jan-2022

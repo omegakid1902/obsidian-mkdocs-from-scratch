@@ -4,10 +4,10 @@ outgoing_links:
   - Zet/Thời Lê sơ
   - Zet/Chúa Trịnh
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Nhà Hậu Lê
   - Zet/Chúa Nguyễn
   - Zet/Chúa Trịnh
+  - Zet/Lịch Sử Việt Nam
 title: Thời Lê trung hưng
 UID: 210712-2141
 tags:

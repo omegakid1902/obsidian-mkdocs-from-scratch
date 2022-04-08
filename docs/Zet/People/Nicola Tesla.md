@@ -5,16 +5,16 @@ outgoing_links:
   - Zet/Tháp Wardenclyffe
   - Zet/People/John Pierpont Morgan
 backlinks:
-  - Zet/Tần số Solfeggio
-  - Zet/Qmap
+  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Tần số rung động
   - Zet/Akashic records
-  - Zet/NESARA
-  - Zet/Theo tài liệu FBI, Tesla là người Sao Kim
   - Zet/Tháp Wardenclyffe
-  - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
-  - Zet/People/Thomas Edison
+  - Zet/Tần số Solfeggio
+  - Zet/NESARA
+  - Zet/Qmap
   - Zet/People/Albert Einstein
+  - Zet/People/Thomas Edison
+  - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
 title: Nicola Tesla
 UID: 211011224701
 tags:

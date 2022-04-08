@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Thần Enlil
   - Zet/Garden/Thần Anu
 backlinks:
-  - Zet/220121 - Enki và Enlil là 2 anh em nhưng tính cách trái ngược
   - Zet/220121 - Enlil tách rời trời và đất
+  - Zet/220121 - Enki và Enlil là 2 anh em nhưng tính cách trái ngược
   - Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà
 title: 220121 - Enlil là con của Anu và Ki
 UID: 220121225958

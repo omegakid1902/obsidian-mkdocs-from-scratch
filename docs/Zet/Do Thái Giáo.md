@@ -15,11 +15,11 @@ outgoing_links:
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 backlinks:
   - Zet/Torah
-  - Zet/Giáo phái Essenes
-  - Zet/Hồi Giáo
-  - Zet/Khazarian Mafia
-  - Zet/Religion
   - Zet/Ngũ Kinh Cựu Ước
+  - Zet/Khazarian Mafia
+  - Zet/Giáo phái Essenes
+  - Zet/Religion
+  - Zet/Hồi Giáo
   - Zet/People/Moses
 title: Do Thái Giáo
 UID: 211025233526

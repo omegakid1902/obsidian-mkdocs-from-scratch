@@ -5,8 +5,8 @@ outgoing_links:
 backlinks:
   - Zet/Chủ nghĩa Stalin
   - Zet/Bolshevik
-  - Zet/Qmap
   - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
+  - Zet/Qmap
 title: Joseph Stalin
 UID: 211119223903
 tags:

@@ -7,8 +7,8 @@ outgoing_links:
   - Zet/220227095851 - Rhea đã nhờ Gaia chỉ cách cứu Zeus khỏi bị Cronus nuốt
   - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia
 backlinks:
-  - Zet/220227101035 - Zeus giam Cronus dưới Tartarus
   - Zet/220228220610 - Metis chỉ cách Zeus cứu anh chị em mình khỏi bụng Cronus
+  - Zet/220227101035 - Zeus giam Cronus dưới Tartarus
 title: Metis chỉ cách cho Zeus giải thoát các anh chị của mình khỏi bụng Cronus
 UID: 220227100639
 created: 27-Feb-2022

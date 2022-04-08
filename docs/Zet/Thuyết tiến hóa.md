@@ -7,16 +7,16 @@ outgoing_links:
   - Zet/Định luật Mendel về Di truyền
   - Zet/People/Adolf Hitler
 backlinks:
-  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
-  - Zet/Định luật entropy phủ định quá trình tiến hóa
-  - Zet/Định luật Mendel về Di truyền
+  - Zet/220218212931 - Học thuyết Darwin dẫn đến kỳ thị chủng tộc
   - Zet/Eugenics
+  - Zet/Định luật Mendel về Di truyền
   - Zet/Godel bác bỏ Thuyết tiến hóa Darwin
-  - Zet/Các lập luận phủ định thuyết tiến hóa
+  - Zet/Định luật entropy phủ định quá trình tiến hóa
   - Zet/Thuyết tiến hóa chưa là định luật, chưa được chứng minh
   - Zet/Định lý bất toàn của Gödel
-  - Zet/220218212931 - Học thuyết Darwin dẫn đến kỳ thị chủng tộc
+  - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Homo Neanderthal
+  - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
   - Zet/People/Charles Darwin
 title: Thuyết tiến hóa
 UID: 211011231044

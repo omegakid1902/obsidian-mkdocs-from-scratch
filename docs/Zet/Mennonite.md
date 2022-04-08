@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Anabaptist
   - Zet/Công Giáo
 backlinks:
-  - Zet/Người Amish
   - Zet/Anabaptist
+  - Zet/Người Amish
 title: Mennonite
 created: Nov 05, 2020 11:34 PM
 tags:

@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Bắc Tống
 backlinks:
   - Zet/Nguyễn Trãi công nhận Nhà Triệu chính thống qua Bình Ngô Đại Cáo
+  - Zet/Tiêu Viễn Sơn
   - Zet/Lịch sử Trung Quốc
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
-  - Zet/Tiêu Viễn Sơn
   - Zet/Nhà Đại Lý
 title: Nhà Tống
 UID: P-210814-2202

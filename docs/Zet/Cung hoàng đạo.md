@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Bảo Bình
 backlinks:
-  - Zet/Thế giới tâm linh
-  - Zet/Chiêm tinh học
   - Zet/Bảo Bình
+  - Zet/Chiêm tinh học
+  - Zet/Thế giới tâm linh
 title: Cung hoàng đạo
 UID: 211124225403
 created: 24-Nov-2021

@@ -8,8 +8,8 @@ outgoing_links:
   - Zet/Jacob có hai vợ chính và 2 vợ lẽ
 backlinks:
   - Zet/Chi tộc Levi
-  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
   - Zet/Chi tộc Joseph
+  - Zet/Trong The Thirteenth Tribe, Arthur Koestler cho rằng Ashkenazi là Do thái giả
   - Zet/People/Jacob
 title: Israel có 12 chi tộc
 UID: 211029235040

@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Plato
 backlinks:
-  - Zet/220118 - Timaeus và Critias nói Solon dịch tài liệu Ai Cập về Atlantis
   - Zet/Plato có nói về Atlantis
+  - Zet/220118 - Timaeus và Critias nói Solon dịch tài liệu Ai Cập về Atlantis
   - Zet/Atlantis
 title: 220118 - Plato nhắc đến Atlantis nguồn chính trong Timaeus và Critias
 UID: 220118223319

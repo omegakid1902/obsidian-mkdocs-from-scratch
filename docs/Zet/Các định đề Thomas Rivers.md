@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Virus
   - Zet/Các định đề Robert Koch
 backlinks:
-  - Zet/Các định đề Robert Koch
-  - Zet/The Germ theory
   - Zet/Coronavirus
+  - Zet/The Germ theory
+  - Zet/Các định đề Robert Koch
   - Zet/Vaccine Moderna
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV

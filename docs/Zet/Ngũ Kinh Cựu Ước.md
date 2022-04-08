@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/Do Thái Giáo
   - Zet/Năm sách trong Ngũ Kinh Cựu Ước
 backlinks:
+  - Zet/Công Giáo
   - Zet/Moise được cho là đã viết Ngũ Kinh Cựu Ước
   - Zet/Thời gian dịch các sách trong Bản bảy mươi
-  - Zet/Công Giáo
   - Zet/Năm sách trong Ngũ Kinh Cựu Ước
 title: Ngũ Kinh Cựu Ước
 UID: 2107311642

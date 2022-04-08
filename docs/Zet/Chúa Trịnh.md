@@ -4,11 +4,11 @@ outgoing_links:
   - Zet/Thời Lê trung hưng
   - Zet/People/Trịnh Kiểm
 backlinks:
-  - Zet/Thời Lê trung hưng
   - Zet/Nguyễn Ánh
-  - Zet/Đàng Ngoài
-  - Zet/Nhà Tây Sơn
+  - Zet/Thời Lê trung hưng
   - Zet/Chúa Nguyễn
+  - Zet/Nhà Tây Sơn
+  - Zet/Đàng Ngoài
   - Zet/People/Trịnh Kiểm
 title: Chúa Trịnh
 UID: P-210712-2120

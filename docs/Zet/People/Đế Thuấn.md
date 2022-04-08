@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Đế Nghiêu
 backlinks:
-  - Zet/Lịch sử Trung Quốc
   - Zet/Ngũ đế Trung Hoa
+  - Zet/Lịch sử Trung Quốc
 title: Đế Thuấn
 UID: 210905222344
 tags:

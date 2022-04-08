@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/Lịch Sử Việt Nam
   - Zet/Nhà Hậu Lê
-  - Zet/People/Nguyễn Hoàng
+  - Zet/Lịch Sử Việt Nam
   - Zet/People/Trịnh Kiểm
+  - Zet/People/Nguyễn Hoàng
 title: Nguyễn Kim
 tags:
   - 'created/2021/Jul/12'

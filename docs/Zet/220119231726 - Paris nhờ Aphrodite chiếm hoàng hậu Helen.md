@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/People/Hoàng tử Paris
   - Zet/Garden/Nữ thần Aphrodite
 backlinks:
-  - Zet/Garden/Cuộc chiến thành Troy
   - Zet/People/Hoàng tử Paris
+  - Zet/Garden/Cuộc chiến thành Troy
 title: Paris nhờ Aphrodite chiếm hoàng hậu Helen
 UID: 220119231726
 created: 19-Jan-2022

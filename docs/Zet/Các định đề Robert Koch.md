@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Các định đề Thomas Rivers
 backlinks:
   - Zet/The Germ theory
-  - Zet/Các định đề Thomas Rivers
   - Zet/Dịch hạch
+  - Zet/Các định đề Thomas Rivers
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
   - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 title: Các định đề Robert Koch

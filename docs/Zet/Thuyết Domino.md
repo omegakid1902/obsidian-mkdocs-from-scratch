@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Hoa Kỳ giật dây đảo chính ám sát Ngô Đình Diệm
 backlinks:
-  - Zet/Thuyết Truman
   - Zet/Hoa Kỳ thành lập chính phủ miền nam VN do Ngô Đình Diệm, ngăn cản tổng tuyển cử
+  - Zet/Thuyết Truman
 title: Thuyết Domino
 UID: 2107180952
 tags:

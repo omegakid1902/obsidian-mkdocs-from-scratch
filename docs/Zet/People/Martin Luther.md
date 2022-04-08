@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Cải Cách Kháng Nghị
 backlinks:
-  - Zet/Cải Cách Kháng Nghị
   - Zet/95 luận đề của Martin-Luther
+  - Zet/Cải Cách Kháng Nghị
   - Zet/Tin Lành
 title: Martin Luther
 tags:

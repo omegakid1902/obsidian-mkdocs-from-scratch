@@ -5,15 +5,15 @@ outgoing_links:
   - Zet/To be in the world but not of it
   - Zet/Rat race
 backlinks:
-  - Zet/Bóng tối linh hồn
-  - Zet/Phim hay
+  - Zet/Thức tỉnh tâm linh
   - Zet/Rat race
   - Zet/Garden state
   - Zet/Khủng hoảng hiện sinh
-  - Zet/Thức tỉnh tâm linh
+  - Zet/Bóng tối linh hồn
+  - Zet/Phim hay
   - Zet/Ba Chân lý của thông thiên học
-  - Zet/Thinking/❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith
   - Zet/Thinking/❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người
+  - Zet/Thinking/❕ Chúng ta chọn cuộc sống lệ thuộc là đang sống trong bad faith
 title: ❕ Ý nghĩa cuộc sống
 UID: 210831230006
 tags:

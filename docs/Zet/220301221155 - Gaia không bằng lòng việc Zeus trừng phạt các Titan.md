@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/220226215707 - Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire
   - Zet/220228223159 - Cuộc chiến chống Titan được gọi là Titanomachie
 backlinks:
+  - Zet/220301221942 - Gaia nhờ các Gigantos giải thoát các Titan khỏi sự trừng phạt của Zeus
   - Zet/220301222444 - Phe Zeus tiếp tục chiến thắng trong cuộc giao tranh với Gigantos
   - Zet/220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon
-  - Zet/220301221942 - Gaia nhờ các Gigantos giải thoát các Titan khỏi sự trừng phạt của Zeus
 title: Gaia không bằng lòng việc Zeus trừng phạt các Titan
 UID: 220301221155
 created: 01-Mar-2022
