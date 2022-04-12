@@ -37,14 +37,14 @@ theme:
 #      - navigation.tabs.sticky
       - navigation.tracking
       - navigation.instant
-      - search.suggest          # sugess when use plugin.search
-      - search.highlight
+#      - search.suggest          # sugess when use plugin.search
+#      - search.highlight
       - header.autohide
 
 plugins:
-  - search:
-      separator: '[\s\-\.]+'    # no need to match case
-      prebuild_index: true      # recommend on with large number of page to speed up search
+#  - search:
+#      separator: '[\s\-\.]+'    # no need to match case
+#      prebuild_index: true      # recommend on with large number of page to speed up search
 #  - ezlinks
   - roamlinks 
   - autolinks
