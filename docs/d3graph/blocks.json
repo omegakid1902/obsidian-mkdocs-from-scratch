@@ -1,13 +1,3 @@
-{
-  "nodes": [
-    { "id": "Zettelkasten", "group": 1 , "url": "https://omegakid1902.github.io/Zet/Zettelkasten/" },
-    { "id": "Lịch Sử Việt Nam", "group": 1, "url": "https://omegakid1902.github.io/Zet/Lịch Sử Việt Nam/"},
-    { "id": "Mme.Baptistine", "group": 1, "url": "https://omegakid1902.github.io/Zet/Lịch Sử Việt Nam/"},
-    { "id": "Mme.Hucheloup", "group": 8, "url": "https://omegakid1902.github.io/Zet/Lịch Sử Việt Nam/"}
-  ],
-  "links": [
-    { "source": "Zettelkasten", "target": "Lịch Sử Việt Nam", "value": 1 },
-    { "source": "Mme.Baptistine", "target": "Mme.Hucheloup", "value": 8 },
-    { "source": "Mme.Hucheloup", "target": "Lịch Sử Việt Nam", "value": 1 }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfcda9bc4061768c735e052494b9f9e726a7bc8953ac4d83026a575977e3aee6
+size 735
