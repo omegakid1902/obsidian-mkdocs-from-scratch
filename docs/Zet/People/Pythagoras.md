@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Toán học
   - Zet/Hội tam điểm
+  - Zet/Toán học
 title: Pythagoras
 UID: 2107102146
 tags:

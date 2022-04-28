@@ -6,9 +6,9 @@ outgoing_links:
   - Zet/220226220658 - Cyclops và Hecatonchire bị nhốt trong Tartarus, Gaia nhận những cơn đau vì chúng là con bà
   - Zet/220226221101 - Gaia nảy sinh ý định nhờ Titan ngăn chặn hành động tàn ác của Uranus
 backlinks:
+  - Zet/220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus
   - Zet/220226222653 - Tinh hoàn của Uranus rơi xuống biển, bọt biển sinh ra Aphrodite
   - Zet/220226222417 - Gaia dụ Uranus xuống quan hệ, thừa cơ Cronus hại Uranus
-  - Zet/220226222939 - Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus
   - Zet/Garden/Thần thoại Hy Lạp
 title: Gaia tạo ra nham thạch lưỡi liềm và nhờ Titan sát hại Uranus
 UID: 220226221403

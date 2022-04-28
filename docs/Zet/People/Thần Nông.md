@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Tam Hoàng Trung Hoa
 backlinks:
   - Zet/220205104452 - Thần Nông là thủy tổ người Bách Việt
+  - Zet/Theo Đại việt sử ký toàn thư, Thần Nông là tổ tiên của người Việt
   - Zet/220205104346 - Kinh Dương Vương con của Đế Minh, cháu nội Đế Thừa, chắt của Thần Nông
   - Zet/Tam Hoàng Trung Hoa
   - Zet/Lịch sử Trung Quốc
-  - Zet/Theo Đại việt sử ký toàn thư, Thần Nông là tổ tiên của người Việt
 title: Thần Nông
 UID: 210906223215
 tags:

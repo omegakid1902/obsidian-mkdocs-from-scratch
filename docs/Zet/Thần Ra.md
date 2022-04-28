@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/Nữ thần Tefnut
   - Zet/Bộ chín vĩ đại của Heliopolis
 backlinks:
-  - Zet/Thần Ra có hai người con là Shu và Tefnut
   - Zet/Bộ chín vĩ đại của Heliopolis
+  - Zet/Thần Ra có hai người con là Shu và Tefnut
   - Zet/Qmap
 title: Thần Ra
 UID: 211119231518

@@ -4,10 +4,10 @@ outgoing_links:
   - Zet/People/Nguyễn Kim
   - Zet/Nhà Hậu Lê
 backlinks:
-  - Zet/Nhà Hậu Lê
   - Zet/Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam
   - Zet/Chúa Trịnh
   - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Hậu Lê
 title: Trịnh Kiểm
 UID: 2107122127
 tags:

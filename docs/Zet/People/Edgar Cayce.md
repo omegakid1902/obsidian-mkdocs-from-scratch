@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Bản đồ thế giới tương lai
   - Zet/Các nhà tiên tri
+  - Zet/Bản đồ thế giới tương lai
 title: Edgar Cayce
 UID: 220103155903
 tags:

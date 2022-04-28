@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Việt Nam Cộng Hòa
   - Zet/Vườn không nhà trống
 backlinks:
-  - Zet/Vườn không nhà trống
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/Vườn không nhà trống
 title: Lấy chiến tranh nuôi chiến tranh
 UID: 210817224428
 tags:

@@ -6,8 +6,8 @@ outgoing_links:
   - Zet/Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam
 backlinks:
   - Zet/Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam
-  - Zet/Chúa Nguyễn
   - Zet/Lịch Sử Việt Nam
+  - Zet/Chúa Nguyễn
 title: Nguyễn Hoàng
 UID: null
 tags:

@@ -1,8 +1,8 @@
 ---
 backlinks:
-  - Zet/Thuyết tiến hóa
   - Zet/Các lập luận phủ định thuyết tiến hóa
   - Zet/Kelvin phản đối thuyết tiến hóa của Darwin
+  - Zet/Thuyết tiến hóa
 title: Lord Kelvin
 UID: 220112233531
 tags:

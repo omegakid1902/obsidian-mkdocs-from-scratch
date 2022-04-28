@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/People/Lý Thế Dân
 backlinks:
-  - Zet/220220162850 - Võ Tắc Thiên công nhận Mani giáo năm 694
-  - Zet/Lịch sử Trung Quốc
   - Zet/Nhà Võ Chu
+  - Zet/Lịch sử Trung Quốc
+  - Zet/220220162850 - Võ Tắc Thiên công nhận Mani giáo năm 694
 title: Võ Tắc Thiên
 UID: 210828135253
 tags:

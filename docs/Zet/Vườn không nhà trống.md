@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Lấy chiến tranh nuôi chiến tranh
 backlinks:
-  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
   - Zet/Chiến tranh Nguyên Mông - Đại Việt lần 1
+  - Zet/An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
   - Zet/Lấy chiến tranh nuôi chiến tranh
 title: Vườn không nhà trống
 UID: 210817224757

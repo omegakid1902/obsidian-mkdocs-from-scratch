@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Trotsky mâu thuẫn chia rẽ với Lenin
 backlinks:
-  - Zet/Chủ nghĩa Trotsky
-  - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
   - Zet/Trotsky mâu thuẫn chia rẽ với Lenin
+  - Zet/Stalin là nhà cách mạng thuộc phe Bolshevik
+  - Zet/Chủ nghĩa Trotsky
   - Zet/Bolshevik và Menshevik
 title: Lev Davidovich Trotsky
 UID: 211119224647

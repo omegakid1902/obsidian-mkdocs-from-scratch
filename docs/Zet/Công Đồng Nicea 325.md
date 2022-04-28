@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Qmap
 backlinks:
-  - Zet/Kinh Tin Kính Nicea
   - Zet/Qmap
+  - Zet/Kinh Tin Kính Nicea
 title: Công Đồng Nicea 325
 tags:
   - 'created/2021/Jan/01'

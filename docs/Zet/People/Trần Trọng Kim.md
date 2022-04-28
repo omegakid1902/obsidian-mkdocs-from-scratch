@@ -2,11 +2,11 @@
 outgoing_links:
   - Zet/Đế quốc Việt Nam
 backlinks:
-  - Zet/220131111924 - Theo Trần Trọng Kim, Nguyễn Trãi gia nhập Lam Sơn 1420
   - Zet/Quan điểm cho rằng Nhà Triệu là triều đại chính thống lịch sử VN
-  - Zet/Đế quốc Việt Nam
   - Zet/Lịch Sử Việt Nam
   - Zet/Hội tam điểm
+  - Zet/Đế quốc Việt Nam
+  - Zet/220131111924 - Theo Trần Trọng Kim, Nguyễn Trãi gia nhập Lam Sơn 1420
 title: Trần Trọng Kim
 UID: 210711-1012
 tags:

@@ -5,13 +5,13 @@ outgoing_links:
   - Zet/People/Nguyễn Kim
   - Zet/People/Trịnh Kiểm
 backlinks:
-  - Zet/Thời Lê trung hưng
-  - Zet/Vụ án Lệ Chi Viên
   - Zet/220205094812 - Nguyễn Công Trứ bổ sung lịch sử nhà Hậu Lê vào Đại Việt sử ký toàn thư
-  - Zet/220205093753 - Đại Việt sử ký toàn thư bản Hồng Đức chỉ ghi lại thời gian từ 2879 TCN đến 1427
-  - Zet/Chúa Chổm
   - Zet/220204222259 - Đại Việt sử ký toàn thư ghi chép từ thời Hồng Bàng đến thời Hậu Lê
   - Zet/Lịch Sử Việt Nam
+  - Zet/Thời Lê trung hưng
+  - Zet/Vụ án Lệ Chi Viên
+  - Zet/Chúa Chổm
+  - Zet/220205093753 - Đại Việt sử ký toàn thư bản Hồng Đức chỉ ghi lại thời gian từ 2879 TCN đến 1427
   - Zet/People/Trịnh Kiểm
   - Zet/People/Ngô Sĩ Liên
 title: Nhà Hậu Lê

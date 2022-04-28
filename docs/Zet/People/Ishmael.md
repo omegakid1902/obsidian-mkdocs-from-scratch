@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Abraham
 backlinks:
-  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
   - Zet/Hồi Giáo
+  - Zet/Thiên Chúa hứa ban phúc cho Ismael nhưng Người sẽ chỉ lập giao ước với Isaac
 title: Ishmael
 UID: 211006234523
 tags:

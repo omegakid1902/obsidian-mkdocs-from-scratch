@@ -6,12 +6,12 @@ outgoing_links:
   - Zet/Vaccine Pfizer
   - Zet/Vaccine Moderna
 backlinks:
-  - Zet/Đại dịch COVID-19
-  - Zet/WHO
-  - Zet/Big Medicine
   - Zet/Eugenics
-  - Zet/Các loại Vaccine COVID 19
+  - Zet/WHO
   - Zet/Vaccine Moderna
+  - Zet/Đại dịch COVID-19
+  - Zet/Big Medicine
+  - Zet/Các loại Vaccine COVID 19
 title: Bill Gates
 UID: 210918172501
 tags:

@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Người Do Thái
 backlinks:
   - Zet/Do Thái Giáo
-  - Zet/Lịch Sử Do Thái
   - Zet/Người Do Thái
+  - Zet/Lịch Sử Do Thái
 title: Người Do Thái Ethiopia
 created: Jun 19, 2021 7:26 AM
 tags:

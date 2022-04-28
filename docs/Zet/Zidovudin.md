@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/People/Anthony Fauci
   - Zet/Virus HIV
 backlinks:
-  - Zet/Đại dịch COVID-19
   - Zet/Virus HIV
-  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/Đại dịch COVID-19
   - Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
+  - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Zidovudin
 UID: 211105234951
 created: 05-Nov-2021

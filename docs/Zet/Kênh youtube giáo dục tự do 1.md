@@ -3,9 +3,9 @@ outgoing_links:
   - Zet/BỆNH TIỂU ĐƯỜNG và MAFIA Y TẾ
   - Zet/Big Medicine
 backlinks:
-  - Zet/Đại dịch COVID-19
   - Zet/Các kênh thông tin trái chiều
   - Zet/The Terrain Theory
+  - Zet/Đại dịch COVID-19
 title: Kênh youtube giáo dục tự do 1
 UID: 211004220513
 created: 04-Oct-2021

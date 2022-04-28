@@ -5,8 +5,8 @@ outgoing_links:
   - Zet/People/Nguyễn Bỉnh Khiêm
 backlinks:
   - Zet/Các lời sấm của Trạng Trình
-  - Zet/People/Nguyễn Bỉnh Khiêm
   - Zet/People/Nguyễn Hoàng
+  - Zet/People/Nguyễn Bỉnh Khiêm
 title: Nguyễn Hoàng hỏi ý Trạng Trình trước khi đưa người vào nam
 tags:
   - 'created/2021/Jul/15'

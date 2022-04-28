@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Nhà Hậu Lê
   - Zet/People/Nguyễn Trãi
 backlinks:
-  - Zet/Phim Thiên mệnh anh hùng
   - Zet/Lê Hoàn bị cho là làm việc bất nhân bất nghĩa nên ít người tưởng nhớ
+  - Zet/Phim Thiên mệnh anh hùng
   - Zet/220131105354 - Nguyễn Trãi bị tru di tam tộc trong Vụ án Lệ Chi Viên 1442
   - Zet/People/Nguyễn Anh Vũ
 title: Vụ án Lệ Chi Viên

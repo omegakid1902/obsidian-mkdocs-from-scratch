@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Phần mềm Notion
   - Zet/Zettelkasten
 backlinks:
-  - Zet/Zettelkasten
   - Zet/The Second Brain
+  - Zet/Zettelkasten
 title: Personal Knowledge Management
 tags:
   - 'created/2021/Jul/14'

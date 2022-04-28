@@ -9,10 +9,10 @@ outgoing_links:
   - Zet/220228203437 - Tên của 3 Cyclops
 backlinks:
   - Zet/220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan
+  - Zet/220228202240 - Các nam thần Titan và các nữ thần Titanide
   - Zet/220226221101 - Gaia nảy sinh ý định nhờ Titan ngăn chặn hành động tàn ác của Uranus
   - Zet/220226220658 - Cyclops và Hecatonchire bị nhốt trong Tartarus, Gaia nhận những cơn đau vì chúng là con bà
   - Zet/220226220326 - Uranus bắt giam các Cyclops và Hecatonchire giam vào Tartarus
-  - Zet/220228202240 - Các nam thần Titan và các nữ thần Titanide
   - Zet/Garden/Thần thoại Hy Lạp
 title: Gaia và Uranus sinh ra 12 Titan, 3 Cyclops, 3 Hecatonchire
 UID: 220226215707

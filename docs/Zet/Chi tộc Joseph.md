@@ -4,9 +4,9 @@ outgoing_links:
   - Zet/Joseph là con của Jacob và Rachel
   - Zet/Israel có 12 chi tộc
 backlinks:
-  - Zet/Joseph là con của Jacob và Rachel
-  - Zet/Người Samari
   - Zet/Mormon giáo
+  - Zet/Người Samari
+  - Zet/Joseph là con của Jacob và Rachel
   - Zet/Israel có 12 chi tộc
 title: Chi tộc Joseph
 UID: 211121104012

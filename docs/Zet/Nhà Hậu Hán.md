@@ -1,8 +1,8 @@
 ---
 backlinks:
   - Zet/Xích Thố
-  - Zet/People/Đổng Trác
   - Zet/People/Viên Thiệu
+  - Zet/People/Đổng Trác
   - Zet/People/Lã Bố
 title: Nhà Hậu Hán
 UID: 210822235104

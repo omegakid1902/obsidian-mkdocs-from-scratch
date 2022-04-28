@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/People/Đổng Trác
-  - Zet/People/Viên Thiệu
-  - Zet/People/Trương Phi
   - Zet/People/Lưu Bị
+  - Zet/People/Viên Thiệu
+  - Zet/People/Đổng Trác
+  - Zet/People/Trương Phi
 title: Tam Quốc
 UID: 2107062243
 tags:

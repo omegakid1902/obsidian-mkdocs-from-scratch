@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Nữ thần Ishtar
   - Zet/Garden/Vua Gilgamesh
 backlinks:
-  - Zet/220225202305 - Ishtar phải lòng Gilgamesh
   - Zet/220220120000 - Ishtar xin Anu trừng phạt Gilgamesh
+  - Zet/220225202305 - Ishtar phải lòng Gilgamesh
 title: Gilgamesh khước từ tình cảm của thần Ishtar
 UID: 220220115810
 created: 20-Feb-2022

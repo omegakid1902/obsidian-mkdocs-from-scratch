@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/220220102020 - Thảm họa Fukushima và Chernobyl đều là thảm họa rò rỉ nhà máy điện hạt nhân
+  - Zet/Thảm họa hạt nhân
   - Zet/220220101945 - Thảm họa Chernobyl là thảm họa hạt nhân cấp độ 7
   - Zet/220220102042 - Ba thảm họa hạt nhân lớn nhất trong lịch sử Fukushima, Chernobyl, Kyshtym
-  - Zet/Thảm họa hạt nhân
+  - Zet/220220102020 - Thảm họa Fukushima và Chernobyl đều là thảm họa rò rỉ nhà máy điện hạt nhân
 title: Thảm họa Chernobyl
 UID: 211127104419
 created: 27-Nov-2021

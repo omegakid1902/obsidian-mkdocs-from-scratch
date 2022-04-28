@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/Menshevik
-  - Zet/Bolshevik
-  - Zet/Chủ nghĩa Stalin phát triển lý thuyết của Lenin
   - Zet/Trotsky mâu thuẫn chia rẽ với Lenin
+  - Zet/Menshevik
+  - Zet/Chủ nghĩa Stalin phát triển lý thuyết của Lenin
+  - Zet/Bolshevik
   - Zet/Bolshevik và Menshevik
 title: Vladimir Lenin
 UID: 211119224848

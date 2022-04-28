@@ -9,13 +9,13 @@ outgoing_links:
   - Zet/Chủ Nghĩa Zion
   - Zet/Khazars tự nhận mình là do thái Ashkenazi
 backlinks:
-  - Zet/Khazars tự nhận mình là do thái Ashkenazi
-  - Zet/Chủ Nghĩa Zion
-  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
-  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
   - Zet/Khazaria
-  - Zet/Qmap
+  - Zet/Andrew Hitchcock cho rằng Ashkenazi chính là Khazars
+  - Zet/Khazars tự nhận mình là do thái Ashkenazi
   - Zet/Do Thái Edomite
+  - Zet/Qmap
+  - Zet/Chủ Nghĩa Zion
+  - Zet/Theo sử gia Yaakov Wise, Pope John Paul II là người Do Thái
 title: Khazars
 UID: 211029233335
 created: 29-Oct-2021

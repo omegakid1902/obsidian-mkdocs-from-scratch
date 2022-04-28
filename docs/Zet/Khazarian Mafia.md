@@ -9,8 +9,8 @@ outgoing_links:
   - Zet/Operation Paperclip
 backlinks:
   - Zet/Cách mạng tháng 10 Nga
-  - Zet/Khazars
   - Zet/Qmap
+  - Zet/Khazars
 title: Khazarian Mafia
 UID: 211118230321
 created: 18-Nov-2021

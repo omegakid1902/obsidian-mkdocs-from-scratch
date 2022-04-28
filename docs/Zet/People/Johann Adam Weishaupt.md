@@ -5,9 +5,9 @@ outgoing_links:
   - Zet/Dòng Tên
   - Zet/Hội Illuminati
 backlinks:
-  - Zet/Hội Illuminati
   - Zet/Adam Weishaupt thành lập Illuminati 1776
   - Zet/Adam Weishaupt học tại một trường dòng Tên
+  - Zet/Hội Illuminati
 title: Adam Weishaupt
 UID: 211113154015
 tags:

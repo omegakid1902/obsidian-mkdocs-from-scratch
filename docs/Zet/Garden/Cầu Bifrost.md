@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Garden/Thần thoại Bắc Âu
   - Zet/220122 - Cầu Bifost nối Midgard và Asgard
 backlinks:
-  - Zet/220122 - Cầu Bifost nối Midgard và Asgard
   - Zet/220122164005 - Heimdall là thần canh giữ cầu Bifost
+  - Zet/220122 - Cầu Bifost nối Midgard và Asgard
   - Zet/220125230645 - Surt làm gãy cây cầu Biforst trong Ragnarok
   - Zet/220123231004 - Cầu Bifrost là con đường duy nhất để vào Asgard
 title: Cầu Bifost

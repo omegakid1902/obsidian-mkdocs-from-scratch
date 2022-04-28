@@ -2,13 +2,13 @@
 outgoing_links:
   - Zet/People/Siddhartha Gautama
 backlinks:
+  - Zet/220220162715 - Tư tưởng Mani giáo phù hợp với quan điểm đương thời Trung Quốc nên phát triển mạnh
+  - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
+  - Zet/Religion
   - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
+  - Zet/220220163016 - Sự kiện Hội Xương pháp nạn 843 nghiêm cấm Phật giáo và Mani giáo hoạt động
   - Zet/220218220022 - Giải pháp thoát khổ theo Phật giáo
   - Zet/Angkor Wat
-  - Zet/220220162715 - Tư tưởng Mani giáo phù hợp với quan điểm đương thời Trung Quốc nên phát triển mạnh
-  - Zet/Religion
-  - Zet/Chính sách phân biệt tôn giáo của Ngô Đình Diệm gây căm phẫn dư luận
-  - Zet/220220163016 - Sự kiện Hội Xương pháp nạn 843 nghiêm cấm Phật giáo và Mani giáo hoạt động
 title: Phật Giáo
 UID: 211001213956
 created: 01-Oct-2021

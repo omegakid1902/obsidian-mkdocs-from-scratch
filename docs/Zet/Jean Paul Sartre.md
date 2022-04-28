@@ -2,10 +2,10 @@
 outgoing_links:
 backlinks:
   - Zet/People/Albert Camus
-  - Zet/220127222106 - Camus phủ nhận mình là thuộc trường phái hiện sinh
-  - Zet/Chủ Nghĩa Hiện Sinh
   - Zet/220127222341 - Camus và Sartre từng là bạn thân
   - Zet/220127222429 - Sartre nói xấu Camus chỉ đáng tầm giáo viên
+  - Zet/Chủ Nghĩa Hiện Sinh
+  - Zet/220127222106 - Camus phủ nhận mình là thuộc trường phái hiện sinh
 title: Jean Paul Sartre
 created: Nov 07, 2020 11:14 PM
 tags:

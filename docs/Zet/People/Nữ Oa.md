@@ -1,8 +1,8 @@
 ---
 backlinks:
   - Zet/Tam Hoàng Trung Hoa
-  - Zet/Lịch sử Trung Quốc
   - Zet/Theo Sơn hải kinh, Phục Hi và Nữ Oa là vợ chồng
+  - Zet/Lịch sử Trung Quốc
 title: Nữ Oa
 UID: 210906222416
 tags:

@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/People/Boriska Kipriyanovich
 backlinks:
-  - Zet/Atlantis
   - Zet/Qmap
+  - Zet/Atlantis
   - Zet/People/Boriska Kipriyanovich
 title: Lục địa Lemuria
 UID: 211015224331

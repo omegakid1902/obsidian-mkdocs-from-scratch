@@ -8,8 +8,8 @@ outgoing_links:
   - Zet/220226222000 - Cronus nhận lời Gaia giết Uranus cha mình
   - Zet/220226222417 - Gaia dụ Uranus xuống quan hệ, thừa cơ Cronus hại Uranus
 backlinks:
-  - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
   - Zet/220227094251 - Sau khi giải thoát cho Cyclops và Hecatonchire, Cronus xích mích với họ và nhốt họ lại Tartarus
+  - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
   - Zet/Garden/Thần thoại Hy Lạp
 title: Cronus sau khi thế chỗ Uranus, ông thả Cyclop và Hecatonchire ra khỏi Tartarus
 UID: 220226222939

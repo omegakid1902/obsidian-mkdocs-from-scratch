@@ -7,13 +7,13 @@ outgoing_links:
   - Zet/Bồ Đào Nha
   - Zet/Chiến tranh Việt Nam
 backlinks:
-  - Zet/Công Giáo
-  - Zet/Descartes theo học trường dòng Tên
   - Zet/Adam Weishaupt học tại một trường dòng Tên
-  - Zet/Phong trào Phản Cải cách
+  - Zet/Công Giáo
   - Zet/Qmap
-  - Zet/People/Ignatius of Loyola
+  - Zet/Descartes theo học trường dòng Tên
+  - Zet/Phong trào Phản Cải cách
   - Zet/People/Johann Adam Weishaupt
+  - Zet/People/Ignatius of Loyola
   - Zet/People/Giáo hoàng Francis
 title: Dòng Tên
 UID: 211024215717

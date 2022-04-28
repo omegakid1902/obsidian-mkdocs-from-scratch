@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
 backlinks:
-  - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220226223627 - Zeus giết Cronus cha mình giải thoát các anh chị mình
+  - Zet/220226223156 - Cronus đã nuốt các con mình vào bụng
   - Zet/220227094718 - Gaia tức giận khi Cronus nhốt Cyclops và Hecatonchire, nguyền rủa Cronus sẽ bị lật đổ bởi con mình
   - Zet/220226223513 - Zeus không bị Cronus nuốt vào bụng nhờ sự giúp đỡ của Gaia
 title: Cronus được tiên tri rằng các con mình sẽ hại mình

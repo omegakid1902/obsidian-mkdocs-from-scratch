@@ -2,12 +2,12 @@
 outgoing_links:
   - Zet/Nhà Nguyễn
 backlinks:
-  - Zet/Ngô Đình Diệm
-  - Zet/Đế quốc Việt Nam
   - Zet/Bảo Đại bỏ các phép tắc lễ nghi cũ trong triều
+  - Zet/Ngô Đình Diệm
   - Zet/1955, Ngô Đình Diệm phế truất Quốc trưởng Bảo Đại
-  - Zet/Nhà Nguyễn
   - Zet/Lịch Sử Việt Nam
+  - Zet/Nhà Nguyễn
+  - Zet/Đế quốc Việt Nam
   - Zet/People/Nam Phương hoàng hậu
 title: "Bảo Đại"
 UID: 2107171330

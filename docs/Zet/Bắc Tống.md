@@ -1,8 +1,8 @@
 ---
 backlinks:
+  - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung
   - Zet/Nhà Tống
   - Zet/Thủy Hử
-  - Zet/Sử Trung Quốc trong tiểu thuyết của Kim Dung
 title: Bắc Tống
 UID: 210906230839
 tags:

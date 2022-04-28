@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Ấn Độ giáo
   - Zet/Angkor Wat
 backlinks:
-  - Zet/Angkor Wat
   - Zet/Các di sản thế giới tại Việt Nam
+  - Zet/Angkor Wat
 title: Thánh địa Mỹ Sơn
 UID: 210908211542
 tags:

@@ -5,11 +5,11 @@ outgoing_links:
   - Zet/Thần Vishnu
   - Zet/Thần Shiva
 backlinks:
-  - Zet/Thần Brahma
-  - Zet/Thần Vishnu
+  - Zet/Ấn Độ giáo
   - Zet/Thần Shiva
   - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
-  - Zet/Ấn Độ giáo
+  - Zet/Thần Vishnu
+  - Zet/Thần Brahma
 title: Tam thần Ấn giáo
 UID: 210704-1545
 created: July 4, 2021 3:45 PM

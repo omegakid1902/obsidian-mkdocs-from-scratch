@@ -8,13 +8,13 @@ outgoing_links:
   - Zet/Cain sát hại Abel
 backlinks:
   - Zet/Lucifer
-  - Zet/Bí tích rửa tội
   - Zet/Vườn địa đàng
-  - Zet/People/Enoch
-  - Zet/People/Abel
+  - Zet/Bí tích rửa tội
+  - Zet/Thinking/❕ 220122114147 - Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva
   - Zet/Thinking/Tóm tắt sách Sáng Thế
   - Zet/Thinking/❕ 220302213046 - Hình tượng Pandora giống với Eva ăn trái cấm
-  - Zet/Thinking/❕ 220122114147 - Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva
+  - Zet/People/Abel
+  - Zet/People/Enoch
 title: Adam và Eva
 UID: 2108142139
 tags:

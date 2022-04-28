@@ -3,10 +3,10 @@ outgoing_links:
   - Zet/Nhà Thương
   - Zet/Nhà Tần
 backlinks:
-  - Zet/Nhà Tần
-  - Zet/Lịch sử Trung Quốc
-  - Zet/Tam Vương Trung Hoa
   - Zet/Tiên Tần
+  - Zet/Nhà Tần
+  - Zet/Tam Vương Trung Hoa
+  - Zet/Lịch sử Trung Quốc
   - Zet/People/Tần Thủy Hoàng
 title: Nhà Chu
 UID: 210828103407

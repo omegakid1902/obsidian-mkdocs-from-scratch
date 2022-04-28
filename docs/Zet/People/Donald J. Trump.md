@@ -2,13 +2,13 @@
 outgoing_links:
   - Zet/QAnon
 backlinks:
-  - Zet/Các đời tổng thống Hoa Kỳ
-  - Zet/Đại dịch COVID-19
-  - Zet/The Epoch Times
-  - Zet/FED
   - Zet/NESARA
-  - Zet/QAnon
+  - Zet/Các đời tổng thống Hoa Kỳ
   - Zet/Qmap
+  - Zet/FED
+  - Zet/The Epoch Times
+  - Zet/QAnon
+  - Zet/Đại dịch COVID-19
 title: Donald J. Trump
 UID: 210920224100
 tags:

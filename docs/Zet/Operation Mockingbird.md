@@ -2,8 +2,8 @@
 outgoing_links:
   - Zet/Frank Church đã công bố sự thật về chiến dịch Mockingbird giữa thập niên 1970
 backlinks:
-  - Zet/Chiến tranh Việt Nam
   - Zet/Frank Church đã công bố sự thật về chiến dịch Mockingbird giữa thập niên 1970
+  - Zet/Chiến tranh Việt Nam
 title: Operation Mockingbird
 UID: 211114115813
 created: 14-Nov-2021

@@ -2,9 +2,9 @@
 outgoing_links:
   - Zet/Thuyết tiến hóa
 backlinks:
-  - Zet/Thuyết tiến hóa
-  - Zet/Định lý bất toàn của Gödel
   - Zet/Các lập luận phủ định thuyết tiến hóa
+  - Zet/Định lý bất toàn của Gödel
+  - Zet/Thuyết tiến hóa
 title: Godel bác bỏ Thuyết tiến hóa Darwin
 UID: 220112235013
 created: 12-Jan-2022

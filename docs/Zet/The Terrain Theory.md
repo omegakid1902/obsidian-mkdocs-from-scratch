@@ -10,8 +10,8 @@ outgoing_links:
 backlinks:
   - Zet/The Germ theory
   - Zet/Đại dịch COVID-19
-  - Zet/People/Edward Jenner
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
+  - Zet/People/Edward Jenner
 title: The Terrain Theory
 UID: 211010113408
 created: 10-Oct-2021

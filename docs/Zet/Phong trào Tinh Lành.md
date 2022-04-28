@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Cải Cách Kháng Nghị
   - Zet/Công Giáo
 backlinks:
-  - Zet/Tên gọi Kháng Nghị và Tin Lành
   - Zet/Tin Lành
+  - Zet/Tên gọi Kháng Nghị và Tin Lành
 title: Phong trào Tinh Lành
 created: Dec 25, 2020 10:21 AM
 tags:

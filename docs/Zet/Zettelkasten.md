@@ -11,18 +11,18 @@ outgoing_links:
   - Zet/Phần mềm Notion
   - Zet/Garden/Các tài liệu zettelkasten
 backlinks:
-  - Zet/Reference Manager
+  - Zet/The Second Brain
+  - Zet/Self Improvement
+  - Zet/Phần mềm Notion
+  - Zet/Permanent Note
   - Zet/LYT framework
+  - Zet/Personal Knowledge Management
+  - Zet/Reference Manager
   - Zet/Fleeting Note
   - Zet/Literature Note
-  - Zet/Permanent Note
-  - Zet/Phần mềm Notion
-  - Zet/Personal Knowledge Management
-  - Zet/Self Improvement
-  - Zet/The Second Brain
-  - Zet/People/Niklas Luhmann
-  - Zet/Writing/Danh sách các bài viết
   - Zet/Garden/Các nguyên tắc của phương pháp Zettelkasten
+  - Zet/Writing/Danh sách các bài viết
+  - Zet/People/Niklas Luhmann
 title: Zettelkasten
 UID: 211001214142
 created: 01-Oct-2021

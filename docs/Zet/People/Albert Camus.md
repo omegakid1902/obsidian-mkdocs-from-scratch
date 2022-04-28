@@ -4,12 +4,12 @@ backlinks:
   - Zet/Giải Nobel
   - Zet/People/Friedrich Nietzsche
   - Zet/Chủ nghĩa Hư vô
-  - Zet/220127222106 - Camus phủ nhận mình là thuộc trường phái hiện sinh
-  - Zet/Rat race
-  - Zet/220226204239 - Camus chết trong vụ tai nạn xe hơi
   - Zet/220127222341 - Camus và Sartre từng là bạn thân
+  - Zet/Rat race
   - Zet/220127222831 - Sự phi lý trong absurdism là con người tìm kiếm ý nghĩ nhưng cuộc đời ko có ý nghĩa
+  - Zet/220226204239 - Camus chết trong vụ tai nạn xe hơi
   - Zet/220127222429 - Sartre nói xấu Camus chỉ đáng tầm giáo viên
+  - Zet/220127222106 - Camus phủ nhận mình là thuộc trường phái hiện sinh
   - Zet/Jean Paul Sartre
   - Zet/Writing/So sánh giữa Existentialism và Nihilism
 title: Albert Camus

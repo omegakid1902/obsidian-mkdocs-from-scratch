@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Garden/Thần Zeus
   - Zet/220301221155 - Gaia không bằng lòng việc Zeus trừng phạt các Titan
 backlinks:
-  - Zet/220301222444 - Phe Zeus tiếp tục chiến thắng trong cuộc giao tranh với Gigantos
   - Zet/220301222714 - Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon
+  - Zet/220301222444 - Phe Zeus tiếp tục chiến thắng trong cuộc giao tranh với Gigantos
 title: Gaia nhờ các Gigantos giải thoát các Titan khỏi sự trừng phạt của Zeus
 UID: 220301221942
 created: 01-Mar-2022

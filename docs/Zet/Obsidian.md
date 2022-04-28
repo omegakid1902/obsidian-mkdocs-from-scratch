@@ -3,13 +3,13 @@ outgoing_links:
   - Zet/Markdown Language
   - Zet/Backlink
 backlinks:
-  - Zet/LYT framework
-  - Zet/Zettelkasten
-  - Zet/Backlink Graph View
   - Zet/Obsidian Publish
   - Zet/Phần mềm Notion
-  - Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow
+  - Zet/Backlink Graph View
+  - Zet/LYT framework
+  - Zet/Zettelkasten
   - Zet/Writing/Tóm tắt sách - How to take smart notes
+  - Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow
 title: Obsidian
 UID: 211107211929
 created: June 28, 2021 11:27 PM

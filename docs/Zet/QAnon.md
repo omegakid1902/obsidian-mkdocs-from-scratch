@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Thuyết âm mưu
   - Zet/People/Donald J. Trump
 backlinks:
-  - Zet/Big Medicine
   - Zet/Qmap
+  - Zet/Big Medicine
   - Zet/People/Donald J. Trump
   - Zet/People/Bill Gates
 title: QAnon

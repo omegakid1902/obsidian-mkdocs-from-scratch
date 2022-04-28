@@ -9,10 +9,10 @@ outgoing_links:
   - Zet/Nữ thần ISIS
   - Zet/Thần Seth
 backlinks:
-  - Zet/Nữ thần ISIS
-  - Zet/Thần Shu
-  - Zet/Thần Seth
   - Zet/Thần Ra
+  - Zet/Thần Seth
+  - Zet/Thần Shu
+  - Zet/Nữ thần ISIS
   - Zet/Nữ thần Nut
 title: Bộ chín vĩ đại của Heliopolis
 UID: 211119231342

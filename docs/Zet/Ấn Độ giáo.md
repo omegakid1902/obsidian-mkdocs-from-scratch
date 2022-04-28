@@ -5,17 +5,17 @@ outgoing_links:
   - Zet/Thần Vishnu
   - Zet/Thần Shiva
 backlinks:
-  - Zet/Thần Brahma
-  - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
-  - Zet/Thần Vishnu
-  - Zet/Thần Shiva
-  - Zet/220225215928 - Đạo Hindu chia thành 2 phái Vishnu và Shiva
-  - Zet/Angkor Wat
-  - Zet/Thánh địa Mỹ Sơn
-  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
-  - Zet/Tam thần Ấn giáo
   - Zet/Tiếng Phạn là ngôn ngữ nghi lễ của một số tôn giáo, trong đó có Ấn Độ giáo, Phật giáo Bắc Tông
+  - Zet/Tam thần Ấn giáo
   - Zet/Religion
+  - Zet/220225215928 - Đạo Hindu chia thành 2 phái Vishnu và Shiva
+  - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
+  - Zet/Thần Shiva
+  - Zet/220225214402 - Đạo Hindu sùng bái 3 thần chính là Brahma, Shiva, Vishnu
+  - Zet/Thần Vishnu
+  - Zet/Thần Brahma
+  - Zet/Thánh địa Mỹ Sơn
+  - Zet/Angkor Wat
 title: Ấn Độ giáo
 UID: P-210704-1610
 tags:

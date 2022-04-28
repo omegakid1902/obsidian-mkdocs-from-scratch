@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Phố cổ Hội An
   - Zet/Chùa Cầu còn được gọi là Cầu Nhật Bản
 backlinks:
-  - Zet/Chùa Cầu còn được gọi là Cầu Nhật Bản
   - Zet/Phố cổ Hội An
+  - Zet/Chùa Cầu còn được gọi là Cầu Nhật Bản
 title: Chùa Cầu
 UID: 210908210641
 tags:

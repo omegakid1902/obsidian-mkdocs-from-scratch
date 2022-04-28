@@ -4,14 +4,14 @@ outgoing_links:
   - Zet/People/Đức Jesus
   - Zet/Thinking/Tóm tắt sách Sáng Thế
 backlinks:
-  - Zet/Bản bảy mươi
   - Zet/Lucifer
-  - Zet/Công Giáo
   - Zet/Grigori
-  - Zet/Ngũ Kinh Cựu Ước
-  - Zet/Bản dịch Vulgate là bản dịch Cựu ước từ tiếng Hipri của Thánh Jerome
+  - Zet/Bản bảy mươi
   - Zet/Vườn địa đàng
+  - Zet/Công Giáo
   - Zet/Người Do Thái
+  - Zet/Bản dịch Vulgate là bản dịch Cựu ước từ tiếng Hipri của Thánh Jerome
+  - Zet/Ngũ Kinh Cựu Ước
   - Zet/People/Moses
   - Zet/People/Adam và Eva
 title: Cựu Ước

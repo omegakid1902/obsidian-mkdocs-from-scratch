@@ -5,10 +5,10 @@ outgoing_links:
   - Zet/People/John F. Kennedy
 backlinks:
   - Zet/John F. Kennedy phản đối chiến tranh Việt Nam
-  - Zet/Dòng Tên
-  - Zet/Chiến tranh lạnh
   - Zet/John F. Kennedy và Chiến tranh Việt Nam
+  - Zet/Chiến tranh lạnh
   - Zet/Qmap
+  - Zet/Dòng Tên
   - Zet/People/Henry Alfred Kissinger
 title: Chiến tranh Việt Nam
 UID: 211009095953

@@ -6,9 +6,9 @@ outgoing_links:
   - Zet/220301221942 - Gaia nhờ các Gigantos giải thoát các Titan khỏi sự trừng phạt của Zeus
   - Zet/220301222444 - Phe Zeus tiếp tục chiến thắng trong cuộc giao tranh với Gigantos
 backlinks:
+  - Zet/220301223903 - Hermes va Pan quyết định đi giải cứu Zeus khỏi tay Typhon
   - Zet/220301223350 - Các thần Olympus chốn sang Ai Cập còn Zeus ở lại đấu với Typhon
   - Zet/220301223636 - Typhon hạ gục Zeus, lóc hết gân và nhốt ở đảo Sicile
-  - Zet/220301223903 - Hermes va Pan quyết định đi giải cứu Zeus khỏi tay Typhon
 title: Sau khi Gigantos bị Zeus đánh bại, Gaia tiếp tục nhờ Typhon
 UID: 220301222714
 created: 01-Mar-2022

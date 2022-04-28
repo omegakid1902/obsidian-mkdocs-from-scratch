@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Zettelkasten
 backlinks:
   - Zet/Obsidian
-  - Zet/Zettelkasten
   - Zet/Personal Knowledge Management
+  - Zet/Zettelkasten
 title: Notion
 UID: 211121075755
 created: 21-Nov-2021

@@ -10,36 +10,36 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Dòng Tên
 backlinks:
-  - Zet/Vạ Tuyệt thông
-  - Zet/Chúa Giáng Sinh
-  - Zet/Chúa Jesus không sinh ra vào 25-12
-  - Zet/God
-  - Zet/Phù thủy trung cổ
-  - Zet/Dòng Tên
-  - Zet/The Quaker
-  - Zet/Mệnh đề Filioque
-  - Zet/Mennonite
-  - Zet/Bí tích rửa tội
-  - Zet/Cơ Đốc Giáo
   - Zet/Vatican
-  - Zet/Cải Cách Kháng Nghị
-  - Zet/Kinh Tin Kính Nicea
-  - Zet/Cộng Đoàn Taize
-  - Zet/Đại ly giáo Đông Tây
-  - Zet/Phong trào Tinh Lành
-  - Zet/Tổng lãnh vương cung thánh đường
+  - Zet/Mệnh đề Filioque
   - Zet/Religion
-  - Zet/Phong trào Phản Cải cách
-  - Zet/Hang đá Giáng Sinh
   - Zet/Hồi Giáo
+  - Zet/Chúa Giáng Sinh
+  - Zet/Vạ Tuyệt thông
+  - Zet/Cải Cách Kháng Nghị
   - Zet/Chính thống giáo Đông Phương
-  - Zet/People/Ngô Đình Thục
+  - Zet/Hang đá Giáng Sinh
+  - Zet/Tổng lãnh vương cung thánh đường
+  - Zet/Bí tích rửa tội
+  - Zet/Phù thủy trung cổ
+  - Zet/Mennonite
+  - Zet/Đại ly giáo Đông Tây
+  - Zet/Cộng Đoàn Taize
+  - Zet/Cơ Đốc Giáo
+  - Zet/Chúa Jesus không sinh ra vào 25-12
+  - Zet/Phong trào Tinh Lành
+  - Zet/Phong trào Phản Cải cách
+  - Zet/God
+  - Zet/The Quaker
+  - Zet/Kinh Tin Kính Nicea
+  - Zet/Dòng Tên
+  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
+  - Zet/People/Pope Damasus I
   - Zet/People/Thomas More
   - Zet/People/Đức Giáo Hoàng
-  - Zet/People/Pope Damasus I
   - Zet/People/Alberto Rivera
+  - Zet/People/Ngô Đình Thục
   - Zet/People/Thánh Jerome
-  - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
 title: Công Giáo
 UID: 210815151214
 tags:

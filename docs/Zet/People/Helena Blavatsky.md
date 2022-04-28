@@ -4,8 +4,8 @@ outgoing_links:
   - Zet/Akashic records
 backlinks:
   - Zet/Thông thiên học
-  - Zet/Hội thông thiên học
   - Zet/Akashic records
+  - Zet/Hội thông thiên học
   - Zet/Qmap
 title: Helena Blavatsky
 UID: 211026230536

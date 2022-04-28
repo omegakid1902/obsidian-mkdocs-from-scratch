@@ -4,8 +4,8 @@ outgoing_links:
 backlinks:
   - Zet/220228213324 - Titan Iapetus cưới tiên nữ Clymene
   - Zet/220228213457 - Tiên nữ Clymene là một Oceanide
-  - Zet/220228204304 - Oceanus cưới Tethys sinh ra 3000 nam, 3000 nữ
   - Zet/220228215746 - Nữ thần Metis là một Oceanide
+  - Zet/220228204304 - Oceanus cưới Tethys sinh ra 3000 nam, 3000 nữ
 title: Oceanide là tên gọi để chỉ các con gái của Oceanus
 UID: 220228212744
 created: 28-Feb-2022

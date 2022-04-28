@@ -1,9 +1,9 @@
 ---
 backlinks:
-  - Zet/220131110118 - Dù là tôn thất nhà Trần, Trần Nguyên Đán không chống Hồ Quý Ly
-  - Zet/220131110245 - Hồ Quý Ly lật đổ nhà Trần 1400
   - Zet/Hồ Quý Ly còn được gọi là Lê Quý Ly
   - Zet/Lịch Sử Việt Nam
+  - Zet/220131110245 - Hồ Quý Ly lật đổ nhà Trần 1400
+  - Zet/220131110118 - Dù là tôn thất nhà Trần, Trần Nguyên Đán không chống Hồ Quý Ly
 title: Hồ Quý Ly
 tags:
   - 'created/2021/Jul/15'

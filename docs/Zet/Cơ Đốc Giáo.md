@@ -5,17 +5,17 @@ outgoing_links:
   - Zet/Anh giáo
   - Zet/Tin Lành
 backlinks:
-  - Zet/Người Gruzia
-  - Zet/God
-  - Zet/Hạ thế giới
-  - Zet/Phù thủy trung cổ
-  - Zet/Bí tích rửa tội
   - Zet/Hiệp sĩ Đền Thánh
   - Zet/Do Thái Giáo
-  - Zet/Người Amish
   - Zet/220125225730 - Các học giả Kito giáo ghi chép lại các câu truyện Thần thoại Bắc Âu
-  - Zet/220218195600 - Hoàng đế cải đạo cho La Mã sang Kito giáo TK 4
+  - Zet/Bí tích rửa tội
+  - Zet/Phù thủy trung cổ
+  - Zet/Người Amish
+  - Zet/Người Gruzia
   - Zet/Lễ Giáng Sinh
+  - Zet/God
+  - Zet/Hạ thế giới
+  - Zet/220218195600 - Hoàng đế cải đạo cho La Mã sang Kito giáo TK 4
   - Zet/People/Leo Tolstoy
   - Zet/People/Moses
   - Zet/People/Thánh Phaolo

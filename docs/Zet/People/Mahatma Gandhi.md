@@ -3,8 +3,8 @@ outgoing_links:
   - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
   - Zet/People/Leo Tolstoy
 backlinks:
-  - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
   - Zet/Gandhi ảnh hưởng bởi Lev Tolstoy và Henry Thoreau
+  - Zet/Khi ở Anh, Gandhi ăn chay và tìm hiểu các tôn giáo
   - Zet/Từ Mahatma trong tên Gandhi được người Ấn đặt để thể hiện sự kính trọng
   - Zet/People/Leo Tolstoy
 title: Mahatma Gandhi

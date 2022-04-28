@@ -1,8 +1,8 @@
 ---
 backlinks:
-  - Zet/Bán Đảo Iberia
-  - Zet/Dòng Tên
   - Zet/Người Do Thái Sephardi
+  - Zet/Dòng Tên
+  - Zet/Bán Đảo Iberia
   - Zet/People/Baruch Spinoza
 title: Bồ Đào Nha
 UID: 211113090101

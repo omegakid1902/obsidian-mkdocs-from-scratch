@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Các định đề Thomas Rivers
   - Zet/Các định đề Robert Koch
+  - Zet/Các định đề Thomas Rivers
   - Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm
 title: Heinrich Hermann Robert Koch
 UID: 211016103904
