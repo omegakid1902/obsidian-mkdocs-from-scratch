@@ -52,60 +52,60 @@
                           .centerAt(200, 60, 1) // Center at box size
                           .nodeColor(node => (node.group == 0) ? 'yellow' : (node.group == 1 ? 'green' : 'blue'));
                           //.nodeColor(node => !node.childLinks.length ? 'green' : node.collapsed ? 'red' : 'yellow');
-                      </script> </div> </div> </div> </div> <div class=md-content data-md-component=content> <article class="md-content__inner md-typeset"> <h2 id=tieu-e><strong>Tiêu đề</strong></h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code># this is title
-</code></pre></div> </td></tr></table> result:</p> <h1 id=this-is-title>This is title</h1> <h2 id=internal-linking><strong>Internal linking</strong></h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+                      </script> </div> </div> </div> </div> <div class=md-content data-md-component=content> <article class="md-content__inner md-typeset"> <h2 id=tieu-e><strong>Tiêu đề</strong></h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code># this is title
+</code></pre></div></td></tr></table></div> result:</p> <h1 id=this-is-title>This is title</h1> <h2 id=internal-linking><strong>Internal linking</strong></h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
-<span class=normal>5</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>[index](./index.md)
+<span class=normal>5</span></pre></div></td><td class=code><div><pre><span></span><code>[index](./index.md)
 
 [alternative name](./index.md)
 
 [Đây là page 2#Header 1](./Đây là page 2.md#header-1)
-</code></pre></div> </td></tr></table> result:</p> <p><a href=..>index</a></p> <p><a href=..#feature-checking>index#Feature checking</a></p> <p><a href=..>alternative name</a></p> <p>sub/subpage.md [[subpage]]</p> <p><a href=../%C4%90%C3%A2y%20l%C3%A0%20page%202/ >Đây là page 2</a></p> <p><a href=../%C4%90%C3%A2y%20l%C3%A0%20page%202/#header-1>Đây là page 2#Header 1</a></p> <h2 id=markdown-link><strong>markdown link</strong></h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> result:</p> <p><a href=..>index</a></p> <p><a href=..#feature-checking>index#Feature checking</a></p> <p><a href=..>alternative name</a></p> <p>sub/subpage.md [[subpage]]</p> <p><a href=../%C4%90%C3%A2y%20l%C3%A0%20page%202/ >Đây là page 2</a></p> <p><a href=../%C4%90%C3%A2y%20l%C3%A0%20page%202/#header-1>Đây là page 2#Header 1</a></p> <h2 id=markdown-link><strong>markdown link</strong></h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
-<span class=normal>5</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>[index](./index.md)
+<span class=normal>5</span></pre></div></td><td class=code><div><pre><span></span><code>[index](./index.md)
 
 [Đây là page 2](./Đây là page 2.md): unicode character
 
 [Đây là page 2](./Đây là page 2.md#Header 1)
-</code></pre></div> </td></tr></table> result:</p> <p><a href=..>index</a></p> <p><a href=../%C4%90%C3%A2y%20l%C3%A0%20page%202/ >Đây là page 2</a>: unicode character</p> <p><a href="../%C4%90%C3%A2y%20l%C3%A0%20page%202/#Header 1">Đây là page 2</a></p> <p><a href=pagesub.md>subpage</a></p> <h2 id=code-style><strong>Code style</strong></h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>code style
+</code></pre></div></td></tr></table></div> result:</p> <p><a href=..>index</a></p> <p><a href=../%C4%90%C3%A2y%20l%C3%A0%20page%202/ >Đây là page 2</a>: unicode character</p> <p><a href="../%C4%90%C3%A2y%20l%C3%A0%20page%202/#Header 1">Đây là page 2</a></p> <p><a href=pagesub.md>subpage</a></p> <h2 id=code-style><strong>Code style</strong></h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>code style
 `code`
-</code></pre></div> </td></tr></table> result:</p> <p><code>code</code></p> <h2 id=images>Images</h2> <p>Must direct to folder <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> result:</p> <p><code>code</code></p> <h2 id=images>Images</h2> <p>Must direct to folder <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
 <span class=normal>6</span>
-<span class=normal>7</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>link
+<span class=normal>7</span></pre></div></td><td class=code><div><pre><span></span><code>link
 [image-1](images/image-1.png)
 embed local
 ![image-1](images/image-1.png)
 ![image-1](images/image-1.png)
 embed internet image
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
-</code></pre></div> </td></tr></table> link</p> <p><a href=../images/image-1.png>image-1</a></p> <p>embed local</p> <p><img alt=image-1 src=../images/image-1.png> <img alt=image-1 src=../images/image-1.png></p> <p>embed internet image</p> <p><img alt=Engelbart src=https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg></p> <h2 id=heading>Heading</h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> link</p> <p><a href=../images/image-1.png>image-1</a></p> <p>embed local</p> <p><img alt=image-1 src=../images/image-1.png> <img alt=image-1 src=../images/image-1.png></p> <p>embed internet image</p> <p><img alt=Engelbart src=https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg></p> <h2 id=heading>Heading</h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
-<span class=normal>6</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code># This is a heading 1
+<span class=normal>6</span></pre></div></td><td class=code><div><pre><span></span><code># This is a heading 1
 ## This is a heading 2
 ### This is a heading 3 
 #### This is a heading 4
 ##### This is a heading 5
 ###### This is a heading 6
-</code></pre></div> </td></tr></table> <h1 id=this-is-a-heading-1>This is a heading 1</h1> <h2 id=this-is-a-heading-2>This is a heading 2</h2> <h3 id=this-is-a-heading-3>This is a heading 3</h3> <h4 id=this-is-a-heading-4>This is a heading 4</h4> <h5 id=this-is-a-heading-5>This is a heading 5</h5> <h6 id=this-is-a-heading-6>This is a heading 6</h6> <h2 id=emphasis>Emphasis</h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>*This text will be italic*
+</code></pre></div></td></tr></table></div> <h1 id=this-is-a-heading-1>This is a heading 1</h1> <h2 id=this-is-a-heading-2>This is a heading 2</h2> <h3 id=this-is-a-heading-3>This is a heading 3</h3> <h4 id=this-is-a-heading-4>This is a heading 4</h4> <h5 id=this-is-a-heading-5>This is a heading 5</h5> <h6 id=this-is-a-heading-6>This is a heading 6</h6> <h2 id=emphasis>Emphasis</h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>*This text will be italic*
 _This will also be italic_
-</code></pre></div> </td></tr></table> <p><em>This text will be italic</em></p> <p><em>This will also be italic</em></p> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>**This text will be bold**
+</code></pre></div></td></tr></table></div> <p><em>This text will be italic</em></p> <p><em>This will also be italic</em></p> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>**This text will be bold**
 __This will also be bold__
-</code></pre></div> </td></tr></table> <strong>This text will be bold</strong></p> <p><strong>This will also be bold</strong></p> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>_You **can** combine them_
-</code></pre></div> </td></tr></table> <em>You <strong>can</strong> combine them</em></p> <h2 id=lists>Lists</h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal> 1</span>
+</code></pre></div></td></tr></table></div> <strong>This text will be bold</strong></p> <p><strong>This will also be bold</strong></p> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code>_You **can** combine them_
+</code></pre></div></td></tr></table></div> <em>You <strong>can</strong> combine them</em></p> <h2 id=lists>Lists</h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal> 1</span>
 <span class=normal> 2</span>
 <span class=normal> 3</span>
 <span class=normal> 4</span>
@@ -114,7 +114,7 @@ __This will also be bold__
 <span class=normal> 7</span>
 <span class=normal> 8</span>
 <span class=normal> 9</span>
-<span class=normal>10</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>- Item 1
+<span class=normal>10</span></pre></div></td><td class=code><div><pre><span></span><code>- Item 1
 - Item 2
   - Item 2a
   - Item 2b
@@ -124,88 +124,88 @@ __This will also be bold__
 1. Item 3
    1. Item 3a
    1. Item 3b
-</code></pre></div> </td></tr></table> <ul> <li>Item 1</li> <li> <p>Item 2</p> <ul> <li>Item 2a</li> <li>Item 2b</li> </ul> </li> <li> <p>Item 1</p> </li> <li>Item 2</li> <li>Item 3<ol> <li>Item 3a</li> <li>Item 3b</li> </ol> </li> </ul> <h2 id=quotes>quotes</h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>&gt; Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
+</code></pre></div></td></tr></table></div> <ul> <li>Item 1</li> <li> <p>Item 2</p> <ul> <li>Item 2a</li> <li>Item 2b</li> </ul> </li> <li> <p>Item 1</p> </li> <li>Item 2</li> <li>Item 3<ol> <li>Item 3a</li> <li>Item 3b</li> </ol> </li> </ul> <h2 id=quotes>quotes</h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>&gt; Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
 \- Doug Engelbart, 1961
-</code></pre></div> </td></tr></table> <blockquote> <p>Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. - Doug Engelbart, 1961</p> </blockquote> <h2 id=code-block>Code block</h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> <blockquote> <p>Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society. - Doug Engelbart, 1961</p> </blockquote> <h2 id=code-block>Code block</h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
-<span class=normal>5</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=n>function</span><span class=w> </span><span class=nf>fancyAlert</span><span class=p>(</span><span class=n>arg</span><span class=p>)</span><span class=w> </span><span class=p>{</span><span class=w></span>
+<span class=normal>5</span></pre></div></td><td class=code><div><pre><span></span><code><span class=n>function</span><span class=w> </span><span class=nf>fancyAlert</span><span class=p>(</span><span class=n>arg</span><span class=p>)</span><span class=w> </span><span class=p>{</span><span class=w></span>
 <span class=w>  </span><span class=k>if</span><span class=p>(</span><span class=n>arg</span><span class=p>)</span><span class=w> </span><span class=p>{</span><span class=w></span>
 <span class=w>    </span><span class=n>$</span><span class=p>.</span><span class=n>facebox</span><span class=p>({</span><span class=n>div</span><span class=o>:</span><span class=err>&#39;#</span><span class=n>foo</span><span class=err>&#39;</span><span class=p>})</span><span class=w></span>
 <span class=w>  </span><span class=p>}</span><span class=w></span>
 <span class=p>}</span><span class=w></span>
-</code></pre></div> </td></tr></table> <h2 id=highlighting>Highlighting</h2> <p>Use two equal signs to <mark>highlight text</mark>.</p> <h2 id=markdown-extension>Markdown extension</h2> <p>mkdocs.yml <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+</code></pre></div></td></tr></table></div> <h2 id=highlighting>Highlighting</h2> <p>Use two equal signs to <mark>highlight text</mark>.</p> <h2 id=markdown-extension>Markdown extension</h2> <p>mkdocs.yml <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.keys
-</code></pre></div> </td></tr></table> put it in *.md <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> put it in *.md <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
 <span class=normal>6</span>
-<span class=normal>7</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>&lt;span class=&quot;keys&quot;&gt;
+<span class=normal>7</span></pre></div></td><td class=code><div><pre><span></span><code>&lt;span class=&quot;keys&quot;&gt;
   &lt;kbd class=&quot;key-ctrl&quot;&gt;Ctrl&lt;/kbd&gt;
   &lt;span&gt;+&lt;/span&gt;
   &lt;kbd class=&quot;key-alt&quot;&gt;Alt&lt;/kbd&gt;
   &lt;span&gt;+&lt;/span&gt;
   &lt;kbd class=&quot;key-delete&quot;&gt;Delete&lt;/kbd&gt;
 &lt;/span&gt;
-</code></pre></div> </td></tr></table> Result:</p> <p><span class=keys> <kbd class=key-ctrl>Ctrl</kbd> <span>+</span> <kbd class=key-alt>Alt</kbd> <span>+</span> <kbd class=key-delete>Delete</kbd> </span> or put it in *.md <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>++ctrl+alt+del++
-</code></pre></div> </td></tr></table> <span class=keys><kbd class=key-control>Ctrl</kbd><span>+</span><kbd class=key-alt>Alt</kbd><span>+</span><kbd class=key-delete>Del</kbd></span></p> <h2 id=syntax-highlight>syntax highlight</h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> Result:</p> <p><span class=keys> <kbd class=key-ctrl>Ctrl</kbd> <span>+</span> <kbd class=key-alt>Alt</kbd> <span>+</span> <kbd class=key-delete>Delete</kbd> </span> or put it in *.md <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code>++ctrl+alt+del++
+</code></pre></div></td></tr></table></div> <span class=keys><kbd class=key-control>Ctrl</kbd><span>+</span><kbd class=key-alt>Alt</kbd><span>+</span><kbd class=key-delete>Del</kbd></span></p> <h2 id=syntax-highlight>syntax highlight</h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
-<span class=normal>3</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+<span class=normal>3</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight:
-</code></pre></div> </td></tr></table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=kn>import</span> <span class=nn>tensorflow</span> <span class=k>as</span> <span class=nn>tf</span>
-</code></pre></div> </td></tr></table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code><span class=kn>import</span> <span class=nn>tensorflow</span> <span class=k>as</span> <span class=nn>tf</span>
+</code></pre></div></td></tr></table></div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
-<span class=normal>3</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>theme:
+<span class=normal>3</span></pre></div></td><td class=code><div><pre><span></span><code>theme:
   features:
     - content.code.annotate
-</code></pre></div> </td></tr></table></p> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div></p> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
-<span class=normal>6</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=nb>document</span><span class=nx>$</span><span class=p>.</span><span class=nx>subscribe</span><span class=p>(</span><span class=kd>function</span><span class=p>()</span> <span class=p>{</span> <span class=c1>// (1)</span>
-  <span class=kd>var</span> <span class=nx>tables</span> <span class=o>=</span> <span class=nb>document</span><span class=p>.</span><span class=nx>querySelectorAll</span><span class=p>(</span><span class=cm>/* (2) */</span> <span class=s2>&quot;article table&quot;</span><span class=p>)</span>
-  <span class=nx>tables</span><span class=p>.</span><span class=nx>forEach</span><span class=p>(</span><span class=kd>function</span><span class=p>(</span><span class=nx>table</span><span class=p>)</span> <span class=p>{</span>
-    <span class=ow>new</span> <span class=nx>Tablesort</span><span class=p>(</span><span class=nx>table</span><span class=p>)</span>
-  <span class=p>})</span>
-<span class=p>})</span>
-</code></pre></div> </td></tr></table> <ol> <li>...</li> <li>...</li> </ol> <h3 id=add-line-num-for-code-block>add line num for code block</h3> <p>Chi tiết <a href=https://squidfunk.github.io/mkdocs-material/reference/code-blocks/ >tại đây</a> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>6</span></pre></div></td><td class=code><div><pre><span></span><code><span class=nb>document</span><span class=nx>$</span><span class=p>.</span><span class=nx>subscribe</span><span class=p>(</span><span class=kd>function</span><span class=p>()</span><span class=w> </span><span class=p>{</span><span class=w> </span><span class=c1>// (1)</span><span class=w></span>
+<span class=w>  </span><span class=kd>var</span><span class=w> </span><span class=nx>tables</span><span class=w> </span><span class=o>=</span><span class=w> </span><span class=nb>document</span><span class=p>.</span><span class=nx>querySelectorAll</span><span class=p>(</span><span class=cm>/* (2) */</span><span class=w> </span><span class=s2>&quot;article table&quot;</span><span class=p>)</span><span class=w></span>
+<span class=w>  </span><span class=nx>tables</span><span class=p>.</span><span class=nx>forEach</span><span class=p>(</span><span class=kd>function</span><span class=p>(</span><span class=nx>table</span><span class=p>)</span><span class=w> </span><span class=p>{</span><span class=w></span>
+<span class=w>    </span><span class=ow>new</span><span class=w> </span><span class=nx>Tablesort</span><span class=p>(</span><span class=nx>table</span><span class=p>)</span><span class=w></span>
+<span class=w>  </span><span class=p>})</span><span class=w></span>
+<span class=p>})</span><span class=w></span>
+</code></pre></div></td></tr></table></div> <ol> <li>...</li> <li>...</li> </ol> <h3 id=add-line-num-for-code-block>add line num for code block</h3> <p>Chi tiết <a href=https://squidfunk.github.io/mkdocs-material/reference/code-blocks/ >tại đây</a> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
-<span class=normal>4</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+<span class=normal>4</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight:
       linenums: true
-</code></pre></div> </td></tr></table> - Can set linenumber start by add <code>linenums="&lt;start-number&gt;"</code> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>3</span>
+</code></pre></div></td></tr></table></div> - Can set linenumber start by add <code>linenums="&lt;start-number&gt;"</code> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
-<span class=normal>6</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+<span class=normal>6</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight:
       linenums: true
-</code></pre></div> </td></tr></table></p> <h2 id=highlight-code-block-line>Highlight code block line</h2> <p>add this to code block <code>hl_lines="2 3"</code> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div></p> <h2 id=highlight-code-block-line>Highlight code block line</h2> <p>add this to code block <code>hl_lines="2 3"</code> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
-<span class=normal>4</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+<span class=normal>4</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
 <span class=hll>  - pymdownx.superfences
 </span><span class=hll>  - pymdownx.highlight:
 </span>      linenums: true
-</code></pre></div> </td></tr></table></p> <h2 id=inline-syntax-highlight>inline syntax highlight</h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+</code></pre></div></td></tr></table></div></p> <h2 id=inline-syntax-highlight>inline syntax highlight</h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.inlinehilite
-</code></pre></div> </td></tr></table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>The `#!python range()` function is used to generate a sequence of numbers.
-</code></pre></div> </td></tr></table> The <code class=highlight><span class=nb>range</span><span class=p>()</span></code> function is used to generate a sequence of numbers.</p> <h2 id=color>Color</h2> <p><a href=https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#custom-syntax-theme>color</a></p> <h2 id=inline-tab>inline tab</h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code>The `#!python range()` function is used to generate a sequence of numbers.
+</code></pre></div></td></tr></table></div> The <code class=highlight><span class=nb>range</span><span class=p>()</span></code> function is used to generate a sequence of numbers.</p> <h2 id=color>Color</h2> <p><a href=https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#custom-syntax-theme>color</a></p> <h2 id=inline-tab>inline tab</h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
-<span class=normal>3</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+<span class=normal>3</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed
-</code></pre></div> </td></tr></table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal> 1</span>
+</code></pre></div></td></tr></table></div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal> 1</span>
 <span class=normal> 2</span>
 <span class=normal> 3</span>
 <span class=normal> 4</span>
@@ -225,7 +225,7 @@ __This will also be bold__
 <span class=normal>18</span>
 <span class=normal>19</span>
 <span class=normal>20</span>
-<span class=normal>21</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>=== &quot;C&quot;
+<span class=normal>21</span></pre></div></td><td class=code><div><pre><span></span><code>=== &quot;C&quot;
 &lt;2 tabs space&gt;
     ```c
     #include &lt;stdio.h&gt;
@@ -246,105 +246,105 @@ __This will also be bold__
       return 0;
     }
     ```
-</code></pre></div> </td></tr></table></p> <div class=tabbed-set data-tabs=1:2><input checked=checked id=__tabbed_1_1 name=__tabbed_1 type=radio><label for=__tabbed_1_1>C</label><div class=tabbed-content> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div></p> <div class=tabbed-set data-tabs=1:2><input checked=checked id=__tabbed_1_1 name=__tabbed_1 type=radio><label for=__tabbed_1_1>C</label><div class=tabbed-content> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
-<span class=normal>6</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=cp>#include</span><span class=w> </span><span class=cpf>&lt;stdio.h&gt;</span><span class=cp></span>
+<span class=normal>6</span></pre></div></td><td class=code><div><pre><span></span><code><span class=cp>#include</span><span class=w> </span><span class=cpf>&lt;stdio.h&gt;</span><span class=cp></span>
 
 <span class=kt>int</span><span class=w> </span><span class=nf>main</span><span class=p>(</span><span class=kt>void</span><span class=p>)</span><span class=w> </span><span class=p>{</span><span class=w></span>
 <span class=w>  </span><span class=n>printf</span><span class=p>(</span><span class=s>&quot;Hello world!</span><span class=se>\n</span><span class=s>&quot;</span><span class=p>);</span><span class=w></span>
 <span class=w>  </span><span class=k>return</span><span class=w> </span><span class=mi>0</span><span class=p>;</span><span class=w></span>
 <span class=p>}</span><span class=w></span>
-</code></pre></div> </td></tr></table> </div> <input id=__tabbed_1_2 name=__tabbed_1 type=radio><label for=__tabbed_1_2>C++</label><div class=tabbed-content> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> </div> <input id=__tabbed_1_2 name=__tabbed_1 type=radio><label for=__tabbed_1_2>C++</label><div class=tabbed-content> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
-<span class=normal>6</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=cp>#include</span><span class=w> </span><span class=cpf>&lt;iostream&gt;</span><span class=cp></span>
+<span class=normal>6</span></pre></div></td><td class=code><div><pre><span></span><code><span class=cp>#include</span><span class=w> </span><span class=cpf>&lt;iostream&gt;</span><span class=cp></span>
 
 <span class=kt>int</span><span class=w> </span><span class=nf>main</span><span class=p>(</span><span class=kt>void</span><span class=p>)</span><span class=w> </span><span class=p>{</span><span class=w></span>
 <span class=w>  </span><span class=n>std</span><span class=o>::</span><span class=n>cout</span><span class=w> </span><span class=o>&lt;&lt;</span><span class=w> </span><span class=s>&quot;Hello world!&quot;</span><span class=w> </span><span class=o>&lt;&lt;</span><span class=w> </span><span class=n>std</span><span class=o>::</span><span class=n>endl</span><span class=p>;</span><span class=w></span>
 <span class=w>  </span><span class=k>return</span><span class=w> </span><span class=mi>0</span><span class=p>;</span><span class=w></span>
 <span class=p>}</span><span class=w></span>
-</code></pre></div> </td></tr></table> </div> </div> <p>Day laf tab list</p> <div class=tabbed-set data-tabs=2:2><input checked=checked id=__tabbed_2_1 name=__tabbed_2 type=radio><label for=__tabbed_2_1>Unordered list</label><div class=tabbed-content> <ul> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ul> </div> <input id=__tabbed_2_2 name=__tabbed_2 type=radio><label for=__tabbed_2_2>Ordered list</label><div class=tabbed-content> <ol> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ol> </div> </div> <div class="admonition example"> <p class=admonition-title>Example</p> <div class=tabbed-set data-tabs=3:2><input checked=checked id=__tabbed_3_1 name=__tabbed_3 type=radio><label for=__tabbed_3_1>Unordered List</label><div class=tabbed-content> <p><em>Example</em>:</p> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> </div> </div> <p>Day laf tab list</p> <div class=tabbed-set data-tabs=2:2><input checked=checked id=__tabbed_2_1 name=__tabbed_2 type=radio><label for=__tabbed_2_1>Unordered list</label><div class=tabbed-content> <ul> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ul> </div> <input id=__tabbed_2_2 name=__tabbed_2 type=radio><label for=__tabbed_2_2>Ordered list</label><div class=tabbed-content> <ol> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ol> </div> </div> <div class="admonition example"> <p class=admonition-title>Example</p> <div class=tabbed-set data-tabs=3:2><input checked=checked id=__tabbed_3_1 name=__tabbed_3 type=radio><label for=__tabbed_3_1>Unordered List</label><div class=tabbed-content> <p><em>Example</em>:</p> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
-<span class=normal>3</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=k>*</span> Sed sagittis eleifend rutrum
+<span class=normal>3</span></pre></div></td><td class=code><div><pre><span></span><code><span class=k>*</span> Sed sagittis eleifend rutrum
 <span class=k>*</span> Donec vitae suscipit est
 <span class=k>*</span> Nulla tempor lobortis orci
-</code></pre></div> </td></tr></table> <p><em>Result</em>:</p> <ul> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ul> </div> <input id=__tabbed_3_2 name=__tabbed_3 type=radio><label for=__tabbed_3_2>Ordered List</label><div class=tabbed-content> <p><em>Example</em>:</p> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> <p><em>Result</em>:</p> <ul> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ul> </div> <input id=__tabbed_3_2 name=__tabbed_3 type=radio><label for=__tabbed_3_2>Ordered List</label><div class=tabbed-content> <p><em>Example</em>:</p> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
-<span class=normal>3</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=k>1.</span> Sed sagittis eleifend rutrum
+<span class=normal>3</span></pre></div></td><td class=code><div><pre><span></span><code><span class=k>1.</span> Sed sagittis eleifend rutrum
 <span class=k>2.</span> Donec vitae suscipit est
 <span class=k>3.</span> Nulla tempor lobortis orci
-</code></pre></div> </td></tr></table> <p><em>Result</em>:</p> <ol> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ol> </div> </div> </div> <h2 id=admotion>Admotion</h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+</code></pre></div></td></tr></table></div> <p><em>Result</em>:</p> <ol> <li>Sed sagittis eleifend rutrum</li> <li>Donec vitae suscipit est</li> <li>Nulla tempor lobortis orci</li> </ol> </div> </div> </div> <h2 id=admotion>Admotion</h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - admonition
-</code></pre></div> </td></tr></table> <div class="admonition day-la-ad"> <p class=admonition-title>Day-la-ad</p> <p>inside</p> </div> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+</code></pre></div></td></tr></table></div> <div class="admonition day-la-ad"> <p class=admonition-title>Day-la-ad</p> <p>inside</p> </div> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.details
-</code></pre></div> </td></tr></table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
-<span class=normal>4</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>!!! note &quot;Phasellus posuere in sem ut cursus&quot;
+<span class=normal>4</span></pre></div></td><td class=code><div><pre><span></span><code>!!! note &quot;Phasellus posuere in sem ut cursus&quot;
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
-</code></pre></div> </td></tr></table></p> <div class="admonition note"> <p class=admonition-title>Phasellus posuere in sem ut cursus</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.</p> </div> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div></p> <div class="admonition note"> <p class=admonition-title>Phasellus posuere in sem ut cursus</p> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.</p> </div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
-<span class=normal>4</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>!!! note &quot;&quot;
+<span class=normal>4</span></pre></div></td><td class=code><div><pre><span></span><code>!!! note &quot;&quot;
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
-</code></pre></div> </td></tr></table> <div class="admonition note"> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.</p> </div> <h2 id=collapsible-blocks>Collapsible blocks</h2> <details class=note> <summary>Note</summary> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.</p> </details> <p>See more <a href=https://squidfunk.github.io/mkdocs-material/reference/admonitions>admonitions</a></p> <p>Table</p> <table> <thead> <tr> <th>Method</th> <th>Description</th> </tr> </thead> <tbody> <tr> <td><code>GET</code></td> <td><span class=twemoji><svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 24 24"><path d="M21 7 9 19l-5.5-5.5 1.41-1.41L9 16.17 19.59 5.59 21 7Z"/></svg></span> Fetch resource</td> </tr> <tr> <td><code>PUT</code></td> <td><span class=twemoji><svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 24 24"><path d="M.41 13.41 6 19l1.41-1.42L1.83 12m20.41-6.42L11.66 16.17 7.5 12l-1.43 1.41L11.66 19l12-12M18 7l-1.41-1.42-6.35 6.35 1.42 1.41L18 7Z"/></svg></span> Update resource</td> </tr> <tr> <td><code>DELETE</code></td> <td><span class=twemoji><svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg></span> Delete resource</td> </tr> </tbody> </table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+</code></pre></div></td></tr></table></div> <div class="admonition note"> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.</p> </div> <h2 id=collapsible-blocks>Collapsible blocks</h2> <details class=note> <summary>Note</summary> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.</p> </details> <p>See more <a href=https://squidfunk.github.io/mkdocs-material/reference/admonitions>admonitions</a></p> <p>Table</p> <table> <thead> <tr> <th>Method</th> <th>Description</th> </tr> </thead> <tbody> <tr> <td><code>GET</code></td> <td><span class=twemoji><svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 24 24"><path d="M21 7 9 19l-5.5-5.5 1.41-1.41L9 16.17 19.59 5.59 21 7Z"/></svg></span> Fetch resource</td> </tr> <tr> <td><code>PUT</code></td> <td><span class=twemoji><svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 24 24"><path d="M.41 13.41 6 19l1.41-1.42L1.83 12m20.41-6.42L11.66 16.17 7.5 12l-1.43 1.41L11.66 19l12-12M18 7l-1.41-1.42-6.35 6.35 1.42 1.41L18 7Z"/></svg></span> Update resource</td> </tr> <tr> <td><code>DELETE</code></td> <td><span class=twemoji><svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg></span> Delete resource</td> </tr> </tbody> </table> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - footnotes
-</code></pre></div> </td></tr></table> <h2 id=footnotes><a href=https://squidfunk.github.io/mkdocs-material/reference/footnotes/ >Footnotes</a></h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>Here&#39;s a simple footnote,[^1] and here&#39;s a longer one.[^bignote]
-</code></pre></div> </td></tr></table> <p>Here's a simple footnote,<sup id=fnref:1><a class=footnote-ref href=#fn:1>1</a></sup> and here's a longer one.<sup id=fnref:bignote><a class=footnote-ref href=#fn:bignote>2</a></sup></p> <h2 id=format>Format</h2> <h3 id=caret-mark-tilde>Caret, Mark &amp; Tilde</h3> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> <h2 id=footnotes><a href=https://squidfunk.github.io/mkdocs-material/reference/footnotes/ >Footnotes</a></h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code>Here&#39;s a simple footnote,[^1] and here&#39;s a longer one.[^bignote]
+</code></pre></div></td></tr></table></div> <p>Here's a simple footnote,<sup id=fnref:1><a class=footnote-ref href=#fn:1>1</a></sup> and here's a longer one.<sup id=fnref:bignote><a class=footnote-ref href=#fn:bignote>2</a></sup></p> <h2 id=format>Format</h2> <h3 id=caret-mark-tilde>Caret, Mark &amp; Tilde</h3> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
-<span class=normal>4</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+<span class=normal>4</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
-</code></pre></div> </td></tr></table> Example: <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>- H~2~0
+</code></pre></div></td></tr></table></div> Example: <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>- H~2~0
 - A^T^A
-</code></pre></div> </td></tr></table> Result:</p> <ul> <li>H<sub>2</sub>0</li> <li>A<sup>T</sup>A</li> </ul> <h2 id=checkbox>Checkbox</h2> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> Result:</p> <ul> <li>H<sub>2</sub>0</li> <li>A<sup>T</sup>A</li> </ul> <h2 id=checkbox>Checkbox</h2> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
-<span class=normal>3</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+<span class=normal>3</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - pymdownx.tasklist:
       clickable_checkbox: true
-</code></pre></div> </td></tr></table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
-<span class=normal>6</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
+<span class=normal>6</span></pre></div></td><td class=code><div><pre><span></span><code>- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
 - [ ] Vestibulum convallis sit amet nisi a tincidunt
     * [x] In hac habitasse platea dictumst
     * [x] In scelerisque nibh non dolor mollis congue sed et metus
     * [ ] Praesent sed risus massa
 - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
-</code></pre></div> </td></tr></table></p> <ul class=task-list> <li class=task-list-item><label class=task-list-control><input type=checkbox checked><span class=task-list-indicator></span></label> Lorem ipsum dolor sit amet, consectetur adipiscing elit</li> <li class=task-list-item><label class=task-list-control><input type=checkbox><span class=task-list-indicator></span></label> Vestibulum convallis sit amet nisi a tincidunt<ul class=task-list> <li class=task-list-item><label class=task-list-control><input type=checkbox checked><span class=task-list-indicator></span></label> In hac habitasse platea dictumst</li> <li class=task-list-item><label class=task-list-control><input type=checkbox checked><span class=task-list-indicator></span></label> In scelerisque nibh non dolor mollis congue sed et metus</li> <li class=task-list-item><label class=task-list-control><input type=checkbox><span class=task-list-indicator></span></label> Praesent sed risus massa</li> </ul> </li> <li class=task-list-item><label class=task-list-control><input type=checkbox><span class=task-list-indicator></span></label> Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque</li> </ul> <p><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
-<span class=normal>2</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>markdown_extensions:
+</code></pre></div></td></tr></table></div></p> <ul class=task-list> <li class=task-list-item><label class=task-list-control><input type=checkbox checked><span class=task-list-indicator></span></label> Lorem ipsum dolor sit amet, consectetur adipiscing elit</li> <li class=task-list-item><label class=task-list-control><input type=checkbox><span class=task-list-indicator></span></label> Vestibulum convallis sit amet nisi a tincidunt<ul class=task-list> <li class=task-list-item><label class=task-list-control><input type=checkbox checked><span class=task-list-indicator></span></label> In hac habitasse platea dictumst</li> <li class=task-list-item><label class=task-list-control><input type=checkbox checked><span class=task-list-indicator></span></label> In scelerisque nibh non dolor mollis congue sed et metus</li> <li class=task-list-item><label class=task-list-control><input type=checkbox><span class=task-list-indicator></span></label> Praesent sed risus massa</li> </ul> </li> <li class=task-list-item><label class=task-list-control><input type=checkbox><span class=task-list-indicator></span></label> Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque</li> </ul> <p><div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=normal>2</span></pre></div></td><td class=code><div><pre><span></span><code>markdown_extensions:
   - abbr
-</code></pre></div> </td></tr></table> The HTML specification is maintained by the W3C.</p> <h2 id=matjax>matjax</h2> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+</code></pre></div></td></tr></table></div> The HTML specification is maintained by the W3C.</p> <h2 id=matjax>matjax</h2> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
 <span class=normal>5</span>
 <span class=normal>6</span>
-<span class=normal>7</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>  - pymdownx.arithmatex:
+<span class=normal>7</span></pre></div></td><td class=code><div><pre><span></span><code>  - pymdownx.arithmatex:
       generic: true
 
 extra_javascript:
   - javascripts/config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-</code></pre></div> </td></tr></table> <p>javascripts/config.js <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal> 1</span>
+</code></pre></div></td></tr></table></div> <p>javascripts/config.js <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal> 1</span>
 <span class=normal> 2</span>
 <span class=normal> 3</span>
 <span class=normal> 4</span>
@@ -359,31 +359,31 @@ extra_javascript:
 <span class=normal>13</span>
 <span class=normal>14</span>
 <span class=normal>15</span>
-<span class=normal>16</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code><span class=nb>window</span><span class=p>.</span><span class=nx>MathJax</span> <span class=o>=</span> <span class=p>{</span>
-  <span class=nx>tex</span><span class=o>:</span> <span class=p>{</span>
-    <span class=nx>inlineMath</span><span class=o>:</span> <span class=p>[[</span><span class=s2>&quot;\\(&quot;</span><span class=p>,</span> <span class=s2>&quot;\\)&quot;</span><span class=p>]],</span>
-    <span class=nx>displayMath</span><span class=o>:</span> <span class=p>[[</span><span class=s2>&quot;\\[&quot;</span><span class=p>,</span> <span class=s2>&quot;\\]&quot;</span><span class=p>]],</span>
-    <span class=nx>processEscapes</span><span class=o>:</span> <span class=kc>true</span><span class=p>,</span>
-    <span class=nx>processEnvironments</span><span class=o>:</span> <span class=kc>true</span>
-  <span class=p>},</span>
-  <span class=nx>options</span><span class=o>:</span> <span class=p>{</span>
-    <span class=nx>ignoreHtmlClass</span><span class=o>:</span> <span class=s2>&quot;.*|&quot;</span><span class=p>,</span>
-    <span class=nx>processHtmlClass</span><span class=o>:</span> <span class=s2>&quot;arithmatex&quot;</span>
-  <span class=p>}</span>
-<span class=p>};</span>
+<span class=normal>16</span></pre></div></td><td class=code><div><pre><span></span><code><span class=nb>window</span><span class=p>.</span><span class=nx>MathJax</span><span class=w> </span><span class=o>=</span><span class=w> </span><span class=p>{</span><span class=w></span>
+<span class=w>  </span><span class=nx>tex</span><span class=o>:</span><span class=w> </span><span class=p>{</span><span class=w></span>
+<span class=w>    </span><span class=nx>inlineMath</span><span class=o>:</span><span class=w> </span><span class=p>[[</span><span class=s2>&quot;\\(&quot;</span><span class=p>,</span><span class=w> </span><span class=s2>&quot;\\)&quot;</span><span class=p>]],</span><span class=w></span>
+<span class=w>    </span><span class=nx>displayMath</span><span class=o>:</span><span class=w> </span><span class=p>[[</span><span class=s2>&quot;\\[&quot;</span><span class=p>,</span><span class=w> </span><span class=s2>&quot;\\]&quot;</span><span class=p>]],</span><span class=w></span>
+<span class=w>    </span><span class=nx>processEscapes</span><span class=o>:</span><span class=w> </span><span class=kc>true</span><span class=p>,</span><span class=w></span>
+<span class=w>    </span><span class=nx>processEnvironments</span><span class=o>:</span><span class=w> </span><span class=kc>true</span><span class=w></span>
+<span class=w>  </span><span class=p>},</span><span class=w></span>
+<span class=w>  </span><span class=nx>options</span><span class=o>:</span><span class=w> </span><span class=p>{</span><span class=w></span>
+<span class=w>    </span><span class=nx>ignoreHtmlClass</span><span class=o>:</span><span class=w> </span><span class=s2>&quot;.*|&quot;</span><span class=p>,</span><span class=w></span>
+<span class=w>    </span><span class=nx>processHtmlClass</span><span class=o>:</span><span class=w> </span><span class=s2>&quot;arithmatex&quot;</span><span class=w></span>
+<span class=w>  </span><span class=p>}</span><span class=w></span>
+<span class=p>};</span><span class=w></span>
 
-<span class=nb>document</span><span class=nx>$</span><span class=p>.</span><span class=nx>subscribe</span><span class=p>(()</span> <span class=p>=&gt;</span> <span class=p>{</span>
-  <span class=nx>MathJax</span><span class=p>.</span><span class=nx>typesetPromise</span><span class=p>()</span>
-<span class=p>})</span>
-</code></pre></div> </td></tr></table> <a href=https://squidfunk.github.io/mkdocs-material/reference/mathjax/ >matjax</a></p> <div class=arithmatex>\[ \operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}} \]</div> <p>https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/</p> <p>https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/ <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>  - pymdownx.smartsymbols
-</code></pre></div> </td></tr></table> https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/ <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
+<span class=nb>document</span><span class=nx>$</span><span class=p>.</span><span class=nx>subscribe</span><span class=p>(()</span><span class=w> </span><span class=p>=&gt;</span><span class=w> </span><span class=p>{</span><span class=w></span>
+<span class=w>  </span><span class=nx>MathJax</span><span class=p>.</span><span class=nx>typesetPromise</span><span class=p>()</span><span class=w></span>
+<span class=p>})</span><span class=w></span>
+</code></pre></div></td></tr></table></div> <a href=https://squidfunk.github.io/mkdocs-material/reference/mathjax/ >matjax</a></p> <div class=arithmatex>\[ \operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}} \]</div> <p>https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/</p> <p>https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/ <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code>  - pymdownx.smartsymbols
+</code></pre></div></td></tr></table></div> https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-search/ <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span>
 <span class=normal>2</span>
 <span class=normal>3</span>
 <span class=normal>4</span>
-<span class=normal>5</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>theme:
+<span class=normal>5</span></pre></div></td><td class=code><div><pre><span></span><code>theme:
     features:
       - search.suggest          # sugess when use plugin.search
       - search.highlight        # highlight match text in page
       - separator: &#39;[\s\-\.]+&#39;]
-</code></pre></div> </td></tr></table> <table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div class=highlight><pre><span></span><code>Code block việt ngữ 
-</code></pre></div> </td></tr></table></p> <div class=footnote> <hr> <ol> <li id=fn:1> <p>meaningful!&#160;<a class=footnote-backref href=#fnref:1 title="Jump back to footnote 1 in the text">&#8617;</a></p> </li> <li id=fn:bignote> <p>Here's one with multiple paragraphs and code.&#160;<a class=footnote-backref href=#fnref:bignote title="Jump back to footnote 2 in the text">&#8617;</a></p> </li> </ol> </div> </article> </div> </div> </main> <footer class=md-footer> <div class="md-footer-meta md-typeset"> <div class="md-footer-meta__inner md-grid"> <div class=md-copyright> <div class=md-copyright__highlight> Copyright &copy; 2021 Dung Tran </div> </div> <div class=md-social> <a href=https://github.com/omegakid1902 target=_blank rel=noopener title="Dung Tran on Twitter" class=md-social__link> <svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 496 512"><!-- Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg> </a> <a href=https://facebook.com/botruonggk target=_blank rel=noopener title="Dung Tran on Facebook" class=md-social__link> <svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 512 512"><!-- Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg> </a> </div> </div> </div> </footer> </div> <div class=md-dialog data-md-component=dialog> <div class="md-dialog__inner md-typeset"></div> </div> <script id=__config type=application/json>{"base": "..", "features": ["content.code.annotate", "navigation.tracking", "navigation.instant", "header.autohide"], "search": "../assets/javascripts/workers/search.f8263e09.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script> <script src=../assets/javascripts/bundle.4fc53ad4.min.js></script> </body> </html>
+</code></pre></div></td></tr></table></div> <div class=highlight><table class=highlighttable><tr><td class=linenos><div class=linenodiv><pre><span></span><span class=normal>1</span></pre></div></td><td class=code><div><pre><span></span><code>Code block việt ngữ 
+</code></pre></div></td></tr></table></div></p> <div class=footnote> <hr> <ol> <li id=fn:1> <p>meaningful!&#160;<a class=footnote-backref href=#fnref:1 title="Jump back to footnote 1 in the text">&#8617;</a></p> </li> <li id=fn:bignote> <p>Here's one with multiple paragraphs and code.&#160;<a class=footnote-backref href=#fnref:bignote title="Jump back to footnote 2 in the text">&#8617;</a></p> </li> </ol> </div> </article> </div> </div> </main> <footer class=md-footer> <div class="md-footer-meta md-typeset"> <div class="md-footer-meta__inner md-grid"> <div class=md-copyright> <div class=md-copyright__highlight> Copyright &copy; 2021 Dung Tran </div> </div> <div class=md-social> <a href=https://github.com/omegakid1902 target=_blank rel=noopener title="Dung Tran on Twitter" class=md-social__link> <svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 496 512"><!-- Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg> </a> <a href=https://facebook.com/botruonggk target=_blank rel=noopener title="Dung Tran on Facebook" class=md-social__link> <svg xmlns=http://www.w3.org/2000/svg viewbox="0 0 512 512"><!-- Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg> </a> </div> </div> </div> </footer> </div> <div class=md-dialog data-md-component=dialog> <div class="md-dialog__inner md-typeset"></div> </div> <script id=__config type=application/json>{"base": "..", "features": ["content.code.annotate", "navigation.tracking", "navigation.instant", "header.autohide"], "search": "../assets/javascripts/workers/search.f8263e09.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script> <script src=../assets/javascripts/bundle.4fc53ad4.min.js></script> </body> </html>
