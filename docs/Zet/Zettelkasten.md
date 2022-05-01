@@ -15,8 +15,10 @@ backlinks:
   - Zet/Self Improvement
   - Zet/Phần mềm Notion
   - Zet/Permanent Note
+  - Zet/220501155818 - Tạo liên kết, mối liên hệ giữa các ghi chú
   - Zet/LYT framework
   - Zet/Personal Knowledge Management
+  - Zet/220501155238 - Viết ghi chú bằng chính lời văn của bạn
   - Zet/Reference Manager
   - Zet/Fleeting Note
   - Zet/Literature Note
