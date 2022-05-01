@@ -28,6 +28,7 @@ Chào mừng bạn đã đến với khu vườn ghi chú.
 ### Personal
 - [[Self Improvement|Phát triển bản thân]]
 - [[❕ Topics to research]]
+- [[000 Daily list|Journal]]
 
 ### Surfing
 - [[Các kênh thông tin trái chiều]]
