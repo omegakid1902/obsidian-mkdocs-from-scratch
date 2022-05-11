@@ -19,11 +19,3 @@
 [[PYY tăng hiệu quả tiêu hóa và hấp thụ dinh dưỡng]]
 
 ## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ wiki, Peptide YY]]
-sort file.name asc
-```

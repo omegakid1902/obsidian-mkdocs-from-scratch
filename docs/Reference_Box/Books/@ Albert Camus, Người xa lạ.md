@@ -10,11 +10,3 @@
 Tác giả [[Albert Camus]]
 
 ## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ Albert Camus, Người xa lạ]]
-sort file.name asc
-```

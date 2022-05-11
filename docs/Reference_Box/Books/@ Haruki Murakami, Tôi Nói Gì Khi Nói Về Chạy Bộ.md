@@ -11,11 +11,3 @@
 Tác giả [[Haruki Murakami]]
 
 ## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ Haruki Murakami, Tôi Nói Gì Khi Nói Về Chạy Bộ]]
-sort file.name asc
-```

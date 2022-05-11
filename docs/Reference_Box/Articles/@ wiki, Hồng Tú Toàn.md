@@ -12,11 +12,3 @@
 [[Hồng Tú Toàn tự xưng là em trai Jesus]]
 
 ## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ wiki, Hồng Tú Toàn]]
-sort file.name asc
-```

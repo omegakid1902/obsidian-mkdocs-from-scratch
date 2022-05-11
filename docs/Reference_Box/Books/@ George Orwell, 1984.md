@@ -12,10 +12,3 @@
 
 ## Questions and thoughts
 
-
-## Related:
-```dataview
-list
-from [[@ Aldous Huxley, 1984]]
-sort file.name asc
-```

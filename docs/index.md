@@ -4,8 +4,6 @@ publish: true
 ---
 # Trang chủ
 
-Giới thiệu về website này [[about|tại đây]] và [[d3_html|Site map]]
-
 ## Nghiên cứu:
 
 ### Lịch sử
@@ -16,8 +14,6 @@ Giới thiệu về website này [[about|tại đây]] và [[d3_html|Site ma
 - [[Công Giáo]]
 - [[Do Thái Giáo]]
 - [[Ấn Độ giáo]]
-
-### [[Thế giới tâm linh]]
 
 ### [[Sức khỏe]]
 

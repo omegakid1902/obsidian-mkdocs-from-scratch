@@ -8,13 +8,3 @@
 
 ## Summary
 
-
-## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ Rando Kim, Trưởng thành sau ngàn lần tranh đấu]]
-sort file.name asc
-```

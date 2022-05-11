@@ -17,10 +17,3 @@
 
 ## Questions and thoughts
 
-
-## Related:
-```dataview
-list
-from [[@ mrquangchanh.blogspot.com, Insulin và glucagon]]
-sort file.name asc
-```

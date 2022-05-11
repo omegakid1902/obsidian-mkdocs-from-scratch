@@ -7,12 +7,12 @@
 	- source: 
 
 ## Table of content
-[[Authors’ Note]]
-[[Introduction The Gift]]
-[[The lesson of perfect pitch]]
-[[About this book]]
-[[Peak, chapter 1]]
-[[Chap 2 - Peak]]
+- [[Authors’ Note]]
+- [[Introduction The Gift]]
+- [[The lesson of perfect pitch]]
+- [[About this book]]
+- [[Peak, chapter 1]]
+- [[Chap 2 - Peak]]
 
 ## Summary
 

@@ -10,13 +10,3 @@
 Thể loại [[Philosophy]]
 Tác giả [[Thomas Nagel]]
 
-
-## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ Thomas Nagel, What Does It All Mean - A Very Short Introduction to Philosophy]]
-sort file.name asc
-```
