@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Thinking/❕ 210714195600 - Zettelkasten Workflow
-backlinks:
-  - Zet/Zettelkasten
 title: Các tài liệu zettelkasten
 UID: 220221200736
 created: 21-Feb-2022

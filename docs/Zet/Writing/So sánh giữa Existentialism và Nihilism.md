@@ -1,8 +1,5 @@
 ---
-outgoing_links:
-  - Zet/Chủ nghĩa Hư vô
 title: So sánh giữa Existentialism và Nihilism
-  - Zet/People/Albert Camus
 created: June 30, 2021 9:19 PM
 tags:
   - 'created/2021/Jun/30'

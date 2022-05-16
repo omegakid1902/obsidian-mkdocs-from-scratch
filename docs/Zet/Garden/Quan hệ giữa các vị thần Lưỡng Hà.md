@@ -1,17 +1,12 @@
 ---
 outgoing_links:
-  - Zet/Garden/Thần Tiamat
-  - Zet/Garden/Thần Abzu
-  - Zet/Garden/Thần Enki
-  - Zet/Garden/Thần Anu
-  - Zet/Garden/Thần Enlil
+  - Zet/Concept/Thần Tiamat
+  - Zet/Concept/Thần Abzu
+  - Zet/Concept/Thần Enki
+  - Zet/Concept/Thần Anu
+  - Zet/Concept/Thần Enlil
   - Zet/Garden/Nữ thần Ereshkigal
-  - Zet/Garden/Thần Marduk
-  - Zet/220121231251 - Marduk con trai Enki
-  - Zet/220121 - Tiamat lấy Abzu sinh ra các vị thần
-  - Zet/220122095644 - Enki là con của Anu và Nammu
-  - Zet/220121 - Enlil là con của Anu và Ki
-  - Zet/220121 - Enki và Enlil là 2 anh em nhưng tính cách trái ngược
+  - Zet/Concept/Thần Marduk
 title: Quan hệ giữa các vị thần Lưỡng Hà
 UID: 220122094520
 created: 22-Jan-2022

@@ -37,6 +37,6 @@ publish: True
 - [[Thần Ares|Ares]]
 - [[Demodocus]]
 - [[Hesiod]]
-- [[@ Homer, Odyssey]]
+- [[@ Homer, The Odyssey]]
 ## Created:
 - [[2022-02-27]]

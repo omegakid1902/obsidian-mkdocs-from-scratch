@@ -1,11 +1,6 @@
 ---
-outgoing_links:
-  - Zet/Người Do Thái
-  - Zet/Moses thuộc chi tộc Levi
-  - Zet/Moses nghĩa là được đưa ra khỏi nước
 backlinks:
   - Zet/Writing/Danh sách các bài viết
-  - Zet/People/Moses
 title: Tiểu sử tiên tri Moses
 UID: 211120210845
 created: 20-Nov-2021

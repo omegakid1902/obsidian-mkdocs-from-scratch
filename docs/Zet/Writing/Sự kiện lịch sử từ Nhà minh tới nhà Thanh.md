@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Lý Tự Thành
-  - Zet/Nhà Thanh
 backlinks:
   - Zet/Writing/Danh sách các bài viết
 title: Sự kiện lịch sử từ Nhà minh tới nhà Thanh

@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/220306210005 - Đèo Ngoạn Mục dài khoảng 18km
-  - Zet/220306213504 - Đèo Ngoạn Mục còn được gọi là Đèo Sông Pha
-backlinks:
-  - Zet/220306213504 - Đèo Ngoạn Mục còn được gọi là Đèo Sông Pha
-  - Zet/220306210005 - Đèo Ngoạn Mục dài khoảng 18km
 title: Đèo Ngoạn Mục
 UID: 220306210041
 created: 06-Mar-2022

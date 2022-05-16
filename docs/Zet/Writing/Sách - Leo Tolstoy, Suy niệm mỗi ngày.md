@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/People/Leo Tolstoy
-  - Zet/Sách đã đọc
 backlinks:
   - Zet/Writing/Danh sách các bài viết
 title: Sách - Leo Tolstoy, Suy niệm mỗi ngày

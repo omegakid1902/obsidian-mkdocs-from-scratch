@@ -45,9 +45,3 @@
 ## Question
 - [ ] Sau cùng ông cải tổ chế độ quan trường, gây nên sự chống đối của Ngô Đình Diệm #question❓ 
 
-## Related:
-```dataview
-list
-from [[@ wiki, Bảo Đại]]
-sort file.name asc
-```

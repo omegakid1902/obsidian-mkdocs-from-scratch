@@ -1,10 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Công Giáo
-  - Zet/Tin Lành
-  - Zet/God
-  - Zet/People/Đức Jesus
-  - Zet/Bí tích rửa tội
 backlinks:
   - Zet/Writing/Danh sách các bài viết
 title: Sự khác biệt giữa Công giáo và Tin lành

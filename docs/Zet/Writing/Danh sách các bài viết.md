@@ -1,13 +1,11 @@
 ---
 outgoing_links:
-  - Zet/Zettelkasten
-  - Zet/LYT framework
   - Zet/Writing/Sự kiện lịch sử từ Nhà minh tới nhà Thanh
   - Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều
   - Zet/Writing/Tiểu sử tiên tri Moses
   - Zet/Writing/Tóm tắt sách - Digital Minimalism
   - Zet/Writing/Tóm tắt sách - How to take smart notes
-  - Zet/Thinking/Tóm tắt sách Sáng Thế
+  - Zet/Writing/Tóm tắt sách Sáng Thế
   - Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
   - Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành
   - Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày

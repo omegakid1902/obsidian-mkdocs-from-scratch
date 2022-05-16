@@ -1,19 +1,5 @@
 ---
-outgoing_links:
-  - Zet/Các định đề Robert Koch
-  - Zet/Các định đề Thomas Rivers
-  - Zet/The Terrain Theory
-  - Zet/Ô nhiễm EMF
-  - Zet/People/Heinrich Hermann Robert Koch
-  - Zet/Giải Nobel
-  - Zet/Virus HIV
 backlinks:
-  - Zet/Zidovudin
-  - Zet/SARS-CoV
-  - Zet/MERS-CoV
-  - Zet/People/Kary B. Mullis
-  - Zet/People/Edward Jenner
-  - Zet/Đại dịch COVID-19
   - Zet/Writing/Danh sách các bài viết
 title: Tóm tắt sách truyền thuyết bệnh lây nhiễm
 UID: 211016110010

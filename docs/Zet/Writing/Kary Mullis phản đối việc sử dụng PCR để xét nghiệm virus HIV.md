@@ -1,15 +1,5 @@
 ---
-outgoing_links:
-  - Zet/People/Kary B. Mullis
-  - Zet/Real time PCR test
-  - Zet/Virus HIV
-  - Zet/Zidovudin
-  - Zet/FDA
-  - Zet/Các định đề Robert Koch
-  - Zet/Các định đề Thomas Rivers
-  - Zet/CDC
 backlinks:
-  - Zet/COVID-19
   - Zet/Writing/Danh sách các bài viết
 title: Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV
 UID: 220107224141

@@ -1,7 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Thinking/❕ 210714195600 - Zettelkasten Workflow
-  - Zet/Thinking/❕ 220227164300 - Zettelkasten Workflow
 backlinks:
   - Zet/Writing/Danh sách các bài viết
 title: Zettelkasten Workflow

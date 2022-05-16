@@ -1,8 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Obsidian
-  - Zet/Deliberate Practice
-  - Zet/People/Anders Ericsson
 backlinks:
   - Zet/Writing/Danh sách các bài viết
 title: Tóm tắt How to take smart notes

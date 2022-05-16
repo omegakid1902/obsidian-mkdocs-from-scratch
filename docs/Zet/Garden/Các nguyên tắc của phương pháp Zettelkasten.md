@@ -1,6 +1,4 @@
 ---
-outgoing_links:
-  - Zet/Zettelkasten
 title: Các nguyên tắc của phương pháp Zettelkasten
 UID: 220221195606
 created: 21-Feb-2022
