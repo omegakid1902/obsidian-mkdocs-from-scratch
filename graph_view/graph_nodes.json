@@ -2,378 +2,384 @@
     "nodes": [
         {
             "id": 0,
+            "title": "How to use tags MOC",
+            "group": 1,
+            "url": "https://omegakid1902.github.io/Zet/How to use tags MOC"
+        },
+        {
+            "id": 1,
             "title": "Thần Buri",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Buri"
         },
         {
-            "id": 1,
+            "id": 2,
             "title": "Nữ thần Gaia",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Nữ thần Gaia"
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "Thần Enlil",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Enlil"
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Thần Poseidon",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Poseidon"
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Thần bầu trời Uranus",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần bầu trời Uranus"
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "Titan Oceanus",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Titan Oceanus"
         },
         {
-            "id": 6,
+            "id": 7,
             "title": "Thần Anu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Anu"
         },
         {
-            "id": 7,
+            "id": 8,
             "title": "Thần Enki",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Enki"
         },
         {
-            "id": 8,
+            "id": 9,
             "title": "Nữ thần Aphrodite",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Nữ thần Aphrodite"
         },
         {
-            "id": 9,
+            "id": 10,
             "title": "Vua Gilgamesh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Vua Gilgamesh"
         },
         {
-            "id": 10,
+            "id": 11,
             "title": "Thần Marduk",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Marduk"
         },
         {
-            "id": 11,
+            "id": 12,
             "title": "Thần Apollo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Apollo"
         },
         {
-            "id": 12,
+            "id": 13,
             "title": "Titan Cronus",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Titan Cronus"
         },
         {
-            "id": 13,
+            "id": 14,
             "title": "Titan Rhea",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Titan Rhea"
         },
         {
-            "id": 14,
+            "id": 15,
             "title": "Thần Atlas",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Atlas"
         },
         {
-            "id": 15,
+            "id": 16,
             "title": "Thần Ares",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Ares"
         },
         {
-            "id": 16,
+            "id": 17,
             "title": "Thần Zeus",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Zeus"
         },
         {
-            "id": 17,
+            "id": 18,
             "title": "Thần Tiamat",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Tiamat"
         },
         {
-            "id": 18,
+            "id": 19,
             "title": "Thần Abzu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Concept/Thần Abzu"
         },
         {
-            "id": 19,
+            "id": 20,
             "title": "Nữ thần Ereshkigal",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Nữ thần Ereshkigal"
         },
         {
-            "id": 20,
+            "id": 21,
             "title": "Cuộc chiến thành Troy",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Cuộc chiến thành Troy"
         },
         {
-            "id": 21,
+            "id": 22,
             "title": "Nữ thần Hera",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Nữ thần Hera"
         },
         {
-            "id": 22,
+            "id": 23,
             "title": "Thần thoại Lưỡng Hà",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Thần thoại Lưỡng Hà"
         },
         {
-            "id": 23,
+            "id": 24,
             "title": "Mê cung Labyrinth",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Mê cung Labyrinth"
         },
         {
-            "id": 24,
+            "id": 25,
             "title": "Thần thoại Bắc Âu",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Thần thoại Bắc Âu"
         },
         {
-            "id": 25,
+            "id": 26,
             "title": "Các tài liệu zettelkasten",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Các tài liệu zettelkasten"
         },
         {
-            "id": 26,
+            "id": 27,
             "title": "Mani giáo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Mani giáo"
         },
         {
-            "id": 27,
+            "id": 28,
             "title": "Bảy kỳ quan thế giới cổ đại",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Bảy kỳ quan thế giới cổ đại"
         },
         {
-            "id": 28,
+            "id": 29,
             "title": "Cây Thế Giới Yggdrasil",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Cây Thế Giới Yggdrasil"
         },
         {
-            "id": 29,
+            "id": 30,
             "title": "Thế giới trong thần thoại Bắc Âu có 9 vùng đất",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất"
         },
         {
-            "id": 30,
+            "id": 31,
             "title": "Cầu Bifrost",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Cầu Bifrost"
         },
         {
-            "id": 31,
+            "id": 32,
             "title": "Dòng sông băng Elivagar",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Dòng sông băng Elivagar"
         },
         {
-            "id": 32,
+            "id": 33,
             "title": "Quan hệ giữa các vị thần Lưỡng Hà",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà"
         },
         {
-            "id": 33,
+            "id": 34,
             "title": "Nữ thần Athena",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Nữ thần Athena"
         },
         {
-            "id": 34,
+            "id": 35,
             "title": "Đèo Ngoạn Mục",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Đèo Ngoạn Mục"
         },
         {
-            "id": 35,
+            "id": 36,
             "title": "Nhà Ngô",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Nhà Ngô"
         },
         {
-            "id": 36,
+            "id": 37,
             "title": "Sử thi Ramayana",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Sử thi Ramayana"
         },
         {
-            "id": 37,
+            "id": 38,
             "title": "Thần thoại Hy Lạp",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Thần thoại Hy Lạp"
         },
         {
-            "id": 38,
+            "id": 39,
             "title": "Cộng hưởng Schumann",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Cộng hưởng Schumann"
         },
         {
-            "id": 39,
+            "id": 40,
             "title": "Con bò Audhumla",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Con bò Audhumla"
         },
         {
-            "id": 40,
+            "id": 41,
             "title": "Địa ngục Tartarus",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Địa ngục Tartarus"
         },
         {
-            "id": 41,
+            "id": 42,
             "title": "Các nguyên tắc của phương pháp Zettelkasten",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Các nguyên tắc của phương pháp Zettelkasten"
         },
         {
-            "id": 42,
+            "id": 43,
             "title": "Nữ thần Ishtar",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Nữ thần Ishtar"
         },
         {
-            "id": 43,
+            "id": 44,
             "title": "Dòng họ Bernoulli",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Dòng họ Bernoulli"
         },
         {
-            "id": 44,
+            "id": 45,
             "title": "Sự kiện 2022",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Garden/Sự kiện 2022"
         },
         {
-            "id": 45,
+            "id": 46,
             "title": "Tóm tắt sách - Atomic Habits",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Tóm tắt sách - Atomic Habits"
         },
         {
-            "id": 46,
+            "id": 47,
             "title": "Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV"
         },
         {
-            "id": 47,
+            "id": 48,
             "title": "Tóm tắt sách truyền thuyết về sự lây nhiễm",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễ"
         },
         {
-            "id": 48,
+            "id": 49,
             "title": "Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều"
         },
         {
-            "id": 49,
+            "id": 50,
             "title": "Sự kiện lịch sử từ Nhà minh tới nhà Thanh",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Sự kiện lịch sử từ Nhà minh tới nhà Thanh"
         },
         {
-            "id": 50,
+            "id": 51,
             "title": "Tiểu sử tiên tri Moses",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Tiểu sử tiên tri Moses"
         },
         {
-            "id": 51,
+            "id": 52,
             "title": "Các vụ án Công giáo",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Các vụ án Công giáo"
         },
         {
-            "id": 52,
+            "id": 53,
             "title": "❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người"
         },
         {
-            "id": 53,
+            "id": 54,
             "title": "Tóm tắt sách Sáng Thế",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Tóm tắt sách Sáng Thế"
         },
         {
-            "id": 54,
+            "id": 55,
             "title": "Zettelkasten Workflow",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Zettelkasten Workflow"
         },
         {
-            "id": 55,
+            "id": 56,
             "title": "Sách - Leo Tolstoy, Suy niệm mỗi ngày",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày"
         },
         {
-            "id": 56,
+            "id": 57,
             "title": "Tóm tắt sách - Digital Minimalism",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Tóm tắt sách - Digital Minimalis"
         },
         {
-            "id": 57,
+            "id": 58,
             "title": "Tóm tắt sách - How to take smart notes",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Tóm tắt sách - How to take smart notes"
         },
         {
-            "id": 58,
+            "id": 59,
             "title": "Danh sách các bài viết",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Danh sách các bài viết"
         },
         {
-            "id": 59,
+            "id": 60,
             "title": "So sánh giữa Existentialism và Nihilism",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/So sánh giữa Existentialism và Nihilis"
         },
         {
-            "id": 60,
+            "id": 61,
             "title": "Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓"
         },
         {
-            "id": 61,
+            "id": 62,
             "title": "Sách - Yuval N. Harari, Sapiens lược sử loài người",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Sách - Yuval N. Harari, Sapiens lược sử loài người"
         },
         {
-            "id": 62,
+            "id": 63,
             "title": "Sự khác biệt giữa Công giáo và Tin lành",
             "group": 1,
             "url": "https://omegakid1902.github.io/Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành"
@@ -381,188 +387,188 @@
     ],
     "links": [
         {
-            "source": 0,
-            "target": 24,
+            "source": 1,
+            "target": 25,
             "value": 1
         },
         {
-            "source": 2,
-            "target": 22,
+            "source": 3,
+            "target": 23,
             "value": 1
         },
         {
-            "source": 6,
-            "target": 22,
+            "source": 7,
+            "target": 23,
             "value": 1
         },
         {
-            "source": 14,
-            "target": 37,
-            "value": 1
-        },
-        {
-            "source": 28,
-            "target": 24,
+            "source": 15,
+            "target": 38,
             "value": 1
         },
         {
             "source": 29,
-            "target": 24,
+            "target": 25,
             "value": 1
         },
         {
             "source": 30,
-            "target": 24,
+            "target": 25,
             "value": 1
         },
         {
             "source": 31,
-            "target": 24,
+            "target": 25,
             "value": 1
         },
         {
             "source": 32,
-            "target": 10,
+            "target": 25,
             "value": 1
         },
         {
-            "source": 32,
-            "target": 10,
+            "source": 33,
+            "target": 11,
             "value": 1
         },
         {
-            "source": 32,
-            "target": 10,
+            "source": 33,
+            "target": 11,
             "value": 1
         },
         {
-            "source": 32,
-            "target": 10,
+            "source": 33,
+            "target": 11,
             "value": 1
         },
         {
-            "source": 32,
-            "target": 10,
+            "source": 33,
+            "target": 11,
             "value": 1
         },
         {
-            "source": 32,
-            "target": 10,
+            "source": 33,
+            "target": 11,
             "value": 1
         },
         {
-            "source": 32,
-            "target": 10,
+            "source": 33,
+            "target": 11,
             "value": 1
         },
         {
-            "source": 37,
-            "target": 8,
+            "source": 33,
+            "target": 11,
             "value": 1
         },
         {
-            "source": 37,
-            "target": 8,
+            "source": 38,
+            "target": 9,
             "value": 1
         },
         {
-            "source": 37,
-            "target": 8,
+            "source": 38,
+            "target": 9,
             "value": 1
         },
         {
-            "source": 37,
-            "target": 8,
+            "source": 38,
+            "target": 9,
             "value": 1
         },
         {
-            "source": 37,
-            "target": 8,
+            "source": 38,
+            "target": 9,
             "value": 1
         },
         {
-            "source": 39,
-            "target": 24,
+            "source": 38,
+            "target": 9,
             "value": 1
         },
         {
-            "source": 42,
-            "target": 22,
+            "source": 40,
+            "target": 25,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 43,
+            "target": 23,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
             "value": 1
         },
         {
-            "source": 58,
-            "target": 54,
+            "source": 59,
+            "target": 55,
+            "value": 1
+        },
+        {
+            "source": 59,
+            "target": 55,
             "value": 1
         }
     ]
