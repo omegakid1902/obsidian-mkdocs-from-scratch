@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-[[Dystopia]]
+[[Dystopian]]
 [[José Saramago]]
 
 ## Questions and thoughts

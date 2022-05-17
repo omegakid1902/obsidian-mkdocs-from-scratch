@@ -71,7 +71,7 @@ https://coggle.it/diagram/XgtVOa6K4obH730X/t/%F0%9F%90%8D%F0%9F%92%BB-python-dev
 [[Python Interpreters]]
 [[Python standard library]]
 [[Git]]
-[[Github]]
+[[github]]
 [[Python - Common Method]]
 [[PEP - Python Enhancement Proposal]]
 

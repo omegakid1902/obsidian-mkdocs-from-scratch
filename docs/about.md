@@ -8,9 +8,9 @@ Trang blog cá nhân này được tạo ra dựa trên phương pháp ghi 
 
 Markdown là một dạng văn bản thô, bạn có thể sử dụng notepad để soạn thảo. Tuy nhiên, notepad không tối ưu cho việc soạn thảo bằng markdown. Mình sử dụng phần mềm [[Obsidian]], nó vừa tối ưu cho việc soạn thảo, và nó được xây dựng để hỗ trợ phương pháp ghi chú [[Zettelkasten]].
 
-Vì viết bằng văn bản thô định dạng .md, mình có thể sử dụng các công cụ hỗ trợ quản lý lịch sử (version control) như [[Git]]. Giải pháp cho vấn đề này là sử dụng [[Github]], vừa có thể đồng bộ mọi nơi, vừa không lo bị mất dữ liệu.
+Vì viết bằng văn bản thô định dạng .md, mình có thể sử dụng các công cụ hỗ trợ quản lý lịch sử (version control) như [[Git]]. Giải pháp cho vấn đề này là sử dụng [[github]], vừa có thể đồng bộ mọi nơi, vừa không lo bị mất dữ liệu.
 
-Đặc biệt, [[Github]] còn có chức năng hosting [[Github pages]]. Từ văn bản [[Markdown Language|Markdown]], mình có thể chuyển đổi qua [[HTML Language|HTML]] với nhiều công cụ. Page này được xây dựng bằng [[Mkdocs]].
+Đặc biệt, [[github]] còn có chức năng hosting [[Github pages]]. Từ văn bản [[Markdown Language|Markdown]], mình có thể chuyển đổi qua [[HTML Language|HTML]] với nhiều công cụ. Page này được xây dựng bằng [[Mkdocs]].
 
 Dưới đây là một đặc trưng của phương pháp [[Zettelkasten]]:
 

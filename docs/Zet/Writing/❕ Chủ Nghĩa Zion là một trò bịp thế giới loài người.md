@@ -13,9 +13,7 @@ aliases:
   - Chủ nghĩa phục quốc Do Thái lừa bịp thế giới
 publish: True
 ---
-# ❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người
 
-## Notes:
 Bạn thử đặt mình vào hoàn cảnh của người Palestine, có bao giờ bạn chấp nhận được có một ngày bạn bị đuổi ra khỏi nhà bởi một người lạ từ đâu đến nhận đó là nhà của họ, đất của họ?
 
 Đứng trên phương diện tôn giáo họ có thể nói đó là đất của Chúa ban cho họ, họ có quyền thừa hưởng sau 2000 năm lưu lạc. Không có lý do gì để các nước ủng hộ việc họ đuổi dân [[Palestine]] ra khỏi đất của họ đang sống. Có bao giờ bạn tự hỏi rằng khi không từ đâu 1 dân tộc đến một vùng đất, tự nhận đó là đất của tổ tiên mình 2000 năm trước, rồi đuổi dân tộc đang sinh sống đi (ở đây là [[Palestine]]). Bạn có nhận thấy đó là một điều vô lý! [[Xung đột Israel - Palestine]] không hồi kết là vì đó, người Palestine luôn là phe yếu thế so với [[Người Do Thái]].

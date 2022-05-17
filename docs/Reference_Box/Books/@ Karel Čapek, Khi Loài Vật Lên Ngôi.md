@@ -7,7 +7,7 @@
 	- source: 
 
 ## Summary
-Thể loại [[Dystopia]]
+Thể loại [[Dystopian]]
 
 
 ## Questions and thoughts
