@@ -11,7 +11,7 @@ publish: True
 ## Notes:
 Các nguyên tắc của phương pháp [[Zettelkasten]] được đúc kết qua quyển sách [[@ Sönke Ahrens, How to take smart notes]]:
 
-- Ghi chú nguyên tử: một ghi chú chỉ thể hiện 1 ý tưởng, ghi chú đó một mình cũng có thể hiểu được
+- [[Ghi chú nguyên tử]]: một ghi chú chỉ thể hiện 1 ý tưởng, ghi chú đó một mình cũng có thể hiểu được
 - Liên kết các ghi chú: Điều này khiến ta trau truốt suy nghĩ làm tăng khả năng ghi nhớ về ghi chú đó, thứ 2 là giúp ta dễ dàng tìm kiếm 1 ghi chú bất kỳ thông qua các liên kết đến các ghi chú khác.
 - Các ghi chú phải viết để người khác đọc vào có thể hiểu được
 - Dùng chính từ ngữ lời văn của bạn thay vì sao chép lại câu văn của người khác.

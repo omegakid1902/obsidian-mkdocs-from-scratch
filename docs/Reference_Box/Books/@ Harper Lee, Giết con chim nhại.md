@@ -4,6 +4,8 @@ UID: 220319091132
 tags:
   - 'created/2022/Mar/19'
   - 'source/book'
+aliases:
+  - Giết con chim nhại
 publish: True
 ---
 # Giết con chim nhại
