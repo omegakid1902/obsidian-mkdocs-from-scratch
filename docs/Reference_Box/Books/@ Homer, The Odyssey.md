@@ -18,6 +18,7 @@ publish: False
 	- [[Telemachos]]: Con trai của Odysseus
 	- [[Nữ thần Athena|Athena]]: Vị thần đứng sau lưng hỗ trợ Odysseus giúp anh trở về quê hương.
 
-
+## Personal notes:
+- Đang đọc bản dịch của "Hoan", phong cách dịch mang mùi kiếm hiệp tàu ghê gớm
 ## Created:
 - [[2022-05-19]]
