@@ -145,7 +145,7 @@ traitlets==5.1.1
     #   matplotlib-inline
 typing-extensions==4.2.0
     # via importlib-metadata
-watchdog==2.1.8
+watchdog==2.1.9
     # via mkdocs
 wcwidth==0.2.5
     # via
