@@ -1,7 +1,7 @@
 ---
 backlinks:
-  - Zet/Concept/Thần Anu
   - Zet/Concept/Thần Enlil
+  - Zet/Concept/Thần Anu
   - Zet/Garden/Nữ thần Ishtar
 title: Thần thoại Lưỡng Hà
 UID: 220302201324

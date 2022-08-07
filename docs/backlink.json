@@ -5,419 +5,8 @@
         "outgoing_links": [],
         "backlinks": []
     },
-    "Thần Zeus": {
-        "id": 1,
-        "url": "Zet/Concept/Thần Zeus.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thần Anu": {
-        "id": 2,
-        "url": "Zet/Concept/Thần Anu.md",
-        "outgoing_links": [
-            "Thần thoại Lưỡng Hà"
-        ],
-        "backlinks": [
-            "Quan hệ giữa các vị thần Lưỡng Hà"
-        ]
-    },
-    "Thần Enlil": {
-        "id": 3,
-        "url": "Zet/Concept/Thần Enlil.md",
-        "outgoing_links": [
-            "Thần thoại Lưỡng Hà"
-        ],
-        "backlinks": [
-            "Quan hệ giữa các vị thần Lưỡng Hà"
-        ]
-    },
-    "Thần Apollo": {
-        "id": 4,
-        "url": "Zet/Concept/Thần Apollo.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thần bầu trời Uranus": {
-        "id": 5,
-        "url": "Zet/Concept/Thần bầu trời Uranus.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thần thoại Hy Lạp"
-        ]
-    },
-    "Thần Atlas": {
-        "id": 6,
-        "url": "Zet/Concept/Thần Atlas.md",
-        "outgoing_links": [
-            "Thần thoại Hy Lạp"
-        ],
-        "backlinks": []
-    },
-    "Thần Ares": {
-        "id": 7,
-        "url": "Zet/Concept/Thần Ares.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Vua Gilgamesh": {
-        "id": 8,
-        "url": "Zet/Concept/Vua Gilgamesh.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Titan Rhea": {
-        "id": 9,
-        "url": "Zet/Concept/Titan Rhea.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thần Buri": {
-        "id": 10,
-        "url": "Zet/Concept/Thần Buri.md",
-        "outgoing_links": [
-            "Thần thoại Bắc Âu"
-        ],
-        "backlinks": []
-    },
-    "Titan Oceanus": {
-        "id": 11,
-        "url": "Zet/Concept/Titan Oceanus.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Titan Cronus": {
-        "id": 12,
-        "url": "Zet/Concept/Titan Cronus.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thần thoại Hy Lạp"
-        ]
-    },
-    "Thần Abzu": {
-        "id": 13,
-        "url": "Zet/Concept/Thần Abzu.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Quan hệ giữa các vị thần Lưỡng Hà"
-        ]
-    },
-    "Nữ thần Gaia": {
-        "id": 14,
-        "url": "Zet/Concept/Nữ thần Gaia.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thần thoại Hy Lạp"
-        ]
-    },
-    "Nữ thần Aphrodite": {
-        "id": 15,
-        "url": "Zet/Concept/Nữ thần Aphrodite.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thần thoại Hy Lạp"
-        ]
-    },
-    "Thần Marduk": {
-        "id": 16,
-        "url": "Zet/Concept/Thần Marduk.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Quan hệ giữa các vị thần Lưỡng Hà"
-        ]
-    },
-    "Thần Enki": {
-        "id": 17,
-        "url": "Zet/Concept/Thần Enki.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Quan hệ giữa các vị thần Lưỡng Hà"
-        ]
-    },
-    "Dystopian": {
-        "id": 18,
-        "url": "Zet/Concept/Dystopian.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thần Poseidon": {
-        "id": 19,
-        "url": "Zet/Concept/Thần Poseidon.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thần Tiamat": {
-        "id": 20,
-        "url": "Zet/Concept/Thần Tiamat.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Quan hệ giữa các vị thần Lưỡng Hà"
-        ]
-    },
-    "Thần thoại Hy Lạp": {
-        "id": 21,
-        "url": "Zet/Garden/Thần thoại Hy Lạp.md",
-        "outgoing_links": [
-            "Nữ thần Gaia",
-            "Địa ngục Tartarus",
-            "Thần bầu trời Uranus",
-            "Titan Cronus",
-            "Nữ thần Aphrodite"
-        ],
-        "backlinks": [
-            "Thần Atlas"
-        ]
-    },
-    "Quan hệ giữa các vị thần Lưỡng Hà": {
-        "id": 22,
-        "url": "Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà.md",
-        "outgoing_links": [
-            "Thần Tiamat",
-            "Thần Abzu",
-            "Thần Enki",
-            "Thần Anu",
-            "Thần Enlil",
-            "Nữ thần Ereshkigal",
-            "Thần Marduk"
-        ],
-        "backlinks": []
-    },
-    "Thần thoại Lưỡng Hà": {
-        "id": 23,
-        "url": "Zet/Garden/Thần thoại Lưỡng Hà.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thần Anu",
-            "Thần Enlil",
-            "Nữ thần Ishtar"
-        ]
-    },
-    "Địa ngục Tartarus": {
-        "id": 24,
-        "url": "Zet/Garden/Địa ngục Tartarus.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thần thoại Hy Lạp"
-        ]
-    },
-    "Dòng họ Bernoulli": {
-        "id": 25,
-        "url": "Zet/Garden/Dòng họ Bernoulli.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Đèo Ngoạn Mục": {
-        "id": 26,
-        "url": "Zet/Garden/Đèo Ngoạn Mục.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thần thoại Bắc Âu": {
-        "id": 27,
-        "url": "Zet/Garden/Thần thoại Bắc Âu.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Thần Buri",
-            "Cây Thế Giới Yggdrasil",
-            "Dòng sông băng Elivagar",
-            "Thế giới trong thần thoại Bắc Âu có 9 vùng đất",
-            "Con bò Audhumla",
-            "Cầu Bifrost"
-        ]
-    },
-    "Sử thi Ramayana": {
-        "id": 28,
-        "url": "Zet/Garden/Sử thi Ramayana.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Nữ thần Athena": {
-        "id": 29,
-        "url": "Zet/Garden/Nữ thần Athena.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Cây Thế Giới Yggdrasil": {
-        "id": 30,
-        "url": "Zet/Garden/Cây Thế Giới Yggdrasil.md",
-        "outgoing_links": [
-            "Thần thoại Bắc Âu"
-        ],
-        "backlinks": []
-    },
-    "Mê cung Labyrinth": {
-        "id": 31,
-        "url": "Zet/Garden/Mê cung Labyrinth.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Dòng sông băng Elivagar": {
-        "id": 32,
-        "url": "Zet/Garden/Dòng sông băng Elivagar.md",
-        "outgoing_links": [
-            "Thần thoại Bắc Âu"
-        ],
-        "backlinks": []
-    },
-    "Bảy kỳ quan thế giới cổ đại": {
-        "id": 33,
-        "url": "Zet/Garden/Bảy kỳ quan thế giới cổ đại.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Cuộc chiến thành Troy": {
-        "id": 34,
-        "url": "Zet/Garden/Cuộc chiến thành Troy.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Thế giới trong thần thoại Bắc Âu có 9 vùng đất": {
-        "id": 35,
-        "url": "Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất.md",
-        "outgoing_links": [
-            "Thần thoại Bắc Âu"
-        ],
-        "backlinks": []
-    },
-    "Nữ thần Ereshkigal": {
-        "id": 36,
-        "url": "Zet/Garden/Nữ thần Ereshkigal.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Quan hệ giữa các vị thần Lưỡng Hà"
-        ]
-    },
-    "Sự kiện 2022": {
-        "id": 37,
-        "url": "Zet/Garden/Sự kiện 2022.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Các nguyên tắc của phương pháp Zettelkasten": {
-        "id": 38,
-        "url": "Zet/Garden/Các nguyên tắc của phương pháp Zettelkasten.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Nữ thần Hera": {
-        "id": 39,
-        "url": "Zet/Garden/Nữ thần Hera.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Nhà Ngô": {
-        "id": 40,
-        "url": "Zet/Garden/Nhà Ngô.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Con bò Audhumla": {
-        "id": 41,
-        "url": "Zet/Garden/Con bò Audhumla.md",
-        "outgoing_links": [
-            "Thần thoại Bắc Âu"
-        ],
-        "backlinks": []
-    },
-    "Cộng hưởng Schumann": {
-        "id": 42,
-        "url": "Zet/Garden/Cộng hưởng Schumann.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Các tài liệu zettelkasten": {
-        "id": 43,
-        "url": "Zet/Garden/Các tài liệu zettelkasten.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Nữ thần Ishtar": {
-        "id": 44,
-        "url": "Zet/Garden/Nữ thần Ishtar.md",
-        "outgoing_links": [
-            "Thần thoại Lưỡng Hà"
-        ],
-        "backlinks": []
-    },
-    "Mani giáo": {
-        "id": 45,
-        "url": "Zet/Garden/Mani giáo.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Cầu Bifrost": {
-        "id": 46,
-        "url": "Zet/Garden/Cầu Bifrost.md",
-        "outgoing_links": [
-            "Thần thoại Bắc Âu"
-        ],
-        "backlinks": []
-    },
-    "Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV": {
-        "id": 47,
-        "url": "Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Tóm tắt sách - How to take smart notes": {
-        "id": 48,
-        "url": "Zet/Writing/Tóm tắt sách - How to take smart notes.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Tóm tắt sách Sáng Thế": {
-        "id": 49,
-        "url": "Zet/Writing/Tóm tắt sách Sáng Thế.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Zettelkasten Workflow": {
-        "id": 50,
-        "url": "Zet/Writing/Zettelkasten Workflow.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓": {
-        "id": 51,
-        "url": "Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Tóm tắt sách - Atomic Habits": {
-        "id": 52,
-        "url": "Zet/Writing/Tóm tắt sách - Atomic Habits.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Sách - Leo Tolstoy, Suy niệm mỗi ngày": {
-        "id": 53,
-        "url": "Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Tóm tắt sách - Digital Minimalism": {
-        "id": 54,
-        "url": "Zet/Writing/Tóm tắt sách - Digital Minimalism.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
     "Danh sách các bài viết": {
-        "id": 55,
+        "id": 1,
         "url": "Zet/Writing/Danh sách các bài viết.md",
         "outgoing_links": [
             "Sự kiện lịch sử từ Nhà minh tới nhà Thanh",
@@ -438,72 +27,483 @@
         ],
         "backlinks": []
     },
-    "Tóm tắt sách truyền thuyết về sự lây nhiễm": {
-        "id": 56,
-        "url": "Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm.md",
+    "Tóm tắt sách - How to take smart notes": {
+        "id": 2,
+        "url": "Zet/Writing/Tóm tắt sách - How to take smart notes.md",
         "outgoing_links": [],
         "backlinks": [
             "Danh sách các bài viết"
         ]
     },
-    "Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều": {
-        "id": 57,
-        "url": "Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "Các vụ án Công giáo": {
-        "id": 58,
-        "url": "Zet/Writing/Các vụ án Công giáo.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Sự kiện lịch sử từ Nhà minh tới nhà Thanh": {
-        "id": 59,
-        "url": "Zet/Writing/Sự kiện lịch sử từ Nhà minh tới nhà Thanh.md",
-        "outgoing_links": [],
-        "backlinks": [
-            "Danh sách các bài viết"
-        ]
-    },
-    "So sánh giữa Existentialism và Nihilism": {
-        "id": 60,
-        "url": "Zet/Writing/So sánh giữa Existentialism và Nihilism.md",
-        "outgoing_links": [],
-        "backlinks": []
-    },
-    "Tiểu sử tiên tri Moses": {
-        "id": 61,
-        "url": "Zet/Writing/Tiểu sử tiên tri Moses.md",
+    "Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓": {
+        "id": 3,
+        "url": "Zet/Writing/Vatican có thực sự đã công bố hoàn toàn bí mật Fatima❓.md",
         "outgoing_links": [],
         "backlinks": [
             "Danh sách các bài viết"
         ]
     },
     "Sự khác biệt giữa Công giáo và Tin lành": {
-        "id": 62,
+        "id": 4,
         "url": "Zet/Writing/Sự khác biệt giữa Công giáo và Tin lành.md",
         "outgoing_links": [],
         "backlinks": [
             "Danh sách các bài viết"
         ]
     },
+    "Tóm tắt sách Sáng Thế": {
+        "id": 5,
+        "url": "Zet/Writing/Tóm tắt sách Sáng Thế.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Các vụ án Công giáo": {
+        "id": 6,
+        "url": "Zet/Writing/Các vụ án Công giáo.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
     "❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người": {
-        "id": 63,
+        "id": 7,
         "url": "Zet/Writing/❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người.md",
         "outgoing_links": [],
         "backlinks": [
             "Danh sách các bài viết"
         ]
     },
+    "Sự kiện lịch sử từ Nhà minh tới nhà Thanh": {
+        "id": 8,
+        "url": "Zet/Writing/Sự kiện lịch sử từ Nhà minh tới nhà Thanh.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều": {
+        "id": 9,
+        "url": "Zet/Writing/Tesla, Edison, Morgan - Điện một chiều và điện xoay chiều.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Sách - Leo Tolstoy, Suy niệm mỗi ngày": {
+        "id": 10,
+        "url": "Zet/Writing/Sách - Leo Tolstoy, Suy niệm mỗi ngày.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Tóm tắt sách truyền thuyết về sự lây nhiễm": {
+        "id": 11,
+        "url": "Zet/Writing/Tóm tắt sách truyền thuyết về sự lây nhiễm.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "So sánh giữa Existentialism và Nihilism": {
+        "id": 12,
+        "url": "Zet/Writing/So sánh giữa Existentialism và Nihilism.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV": {
+        "id": 13,
+        "url": "Zet/Writing/Kary Mullis phản đối việc sử dụng PCR để xét nghiệm virus HIV.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Tóm tắt sách - Digital Minimalism": {
+        "id": 14,
+        "url": "Zet/Writing/Tóm tắt sách - Digital Minimalism.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Tiểu sử tiên tri Moses": {
+        "id": 15,
+        "url": "Zet/Writing/Tiểu sử tiên tri Moses.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Tóm tắt sách - Atomic Habits": {
+        "id": 16,
+        "url": "Zet/Writing/Tóm tắt sách - Atomic Habits.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
     "Sách - Yuval N. Harari, Sapiens lược sử loài người": {
-        "id": 64,
+        "id": 17,
         "url": "Zet/Writing/Sách - Yuval N. Harari, Sapiens lược sử loài người.md",
         "outgoing_links": [],
         "backlinks": [
             "Danh sách các bài viết"
+        ]
+    },
+    "Zettelkasten Workflow": {
+        "id": 18,
+        "url": "Zet/Writing/Zettelkasten Workflow.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Danh sách các bài viết"
+        ]
+    },
+    "Thần Ares": {
+        "id": 19,
+        "url": "Zet/Concept/Thần Ares.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Titan Oceanus": {
+        "id": 20,
+        "url": "Zet/Concept/Titan Oceanus.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần Atlas": {
+        "id": 21,
+        "url": "Zet/Concept/Thần Atlas.md",
+        "outgoing_links": [
+            "Thần thoại Hy Lạp"
+        ],
+        "backlinks": []
+    },
+    "Thần Tiamat": {
+        "id": 22,
+        "url": "Zet/Concept/Thần Tiamat.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Quan hệ giữa các vị thần Lưỡng Hà"
+        ]
+    },
+    "Thần Buri": {
+        "id": 23,
+        "url": "Zet/Concept/Thần Buri.md",
+        "outgoing_links": [
+            "Thần thoại Bắc Âu"
+        ],
+        "backlinks": []
+    },
+    "Thần Poseidon": {
+        "id": 24,
+        "url": "Zet/Concept/Thần Poseidon.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần Marduk": {
+        "id": 25,
+        "url": "Zet/Concept/Thần Marduk.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Quan hệ giữa các vị thần Lưỡng Hà"
+        ]
+    },
+    "Thần bầu trời Uranus": {
+        "id": 26,
+        "url": "Zet/Concept/Thần bầu trời Uranus.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Thần thoại Hy Lạp"
+        ]
+    },
+    "Nữ thần Gaia": {
+        "id": 27,
+        "url": "Zet/Concept/Nữ thần Gaia.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Thần thoại Hy Lạp"
+        ]
+    },
+    "Thần Enlil": {
+        "id": 28,
+        "url": "Zet/Concept/Thần Enlil.md",
+        "outgoing_links": [
+            "Thần thoại Lưỡng Hà"
+        ],
+        "backlinks": [
+            "Quan hệ giữa các vị thần Lưỡng Hà"
+        ]
+    },
+    "Titan Cronus": {
+        "id": 29,
+        "url": "Zet/Concept/Titan Cronus.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Thần thoại Hy Lạp"
+        ]
+    },
+    "Thần Anu": {
+        "id": 30,
+        "url": "Zet/Concept/Thần Anu.md",
+        "outgoing_links": [
+            "Thần thoại Lưỡng Hà"
+        ],
+        "backlinks": [
+            "Quan hệ giữa các vị thần Lưỡng Hà"
+        ]
+    },
+    "Nữ thần Aphrodite": {
+        "id": 31,
+        "url": "Zet/Concept/Nữ thần Aphrodite.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Thần thoại Hy Lạp"
+        ]
+    },
+    "Dystopian": {
+        "id": 32,
+        "url": "Zet/Concept/Dystopian.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Vua Gilgamesh": {
+        "id": 33,
+        "url": "Zet/Concept/Vua Gilgamesh.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần Apollo": {
+        "id": 34,
+        "url": "Zet/Concept/Thần Apollo.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần Zeus": {
+        "id": 35,
+        "url": "Zet/Concept/Thần Zeus.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần Abzu": {
+        "id": 36,
+        "url": "Zet/Concept/Thần Abzu.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Quan hệ giữa các vị thần Lưỡng Hà"
+        ]
+    },
+    "Titan Rhea": {
+        "id": 37,
+        "url": "Zet/Concept/Titan Rhea.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần Enki": {
+        "id": 38,
+        "url": "Zet/Concept/Thần Enki.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Quan hệ giữa các vị thần Lưỡng Hà"
+        ]
+    },
+    "Quan hệ giữa các vị thần Lưỡng Hà": {
+        "id": 39,
+        "url": "Zet/Garden/Quan hệ giữa các vị thần Lưỡng Hà.md",
+        "outgoing_links": [
+            "Thần Tiamat",
+            "Thần Abzu",
+            "Thần Enki",
+            "Thần Anu",
+            "Thần Enlil",
+            "Nữ thần Ereshkigal",
+            "Thần Marduk"
+        ],
+        "backlinks": []
+    },
+    "Con bò Audhumla": {
+        "id": 40,
+        "url": "Zet/Garden/Con bò Audhumla.md",
+        "outgoing_links": [
+            "Thần thoại Bắc Âu"
+        ],
+        "backlinks": []
+    },
+    "Mani giáo": {
+        "id": 41,
+        "url": "Zet/Garden/Mani giáo.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Dòng họ Bernoulli": {
+        "id": 42,
+        "url": "Zet/Garden/Dòng họ Bernoulli.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Mê cung Labyrinth": {
+        "id": 43,
+        "url": "Zet/Garden/Mê cung Labyrinth.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Cuộc chiến thành Troy": {
+        "id": 44,
+        "url": "Zet/Garden/Cuộc chiến thành Troy.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nữ thần Ereshkigal": {
+        "id": 45,
+        "url": "Zet/Garden/Nữ thần Ereshkigal.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Quan hệ giữa các vị thần Lưỡng Hà"
+        ]
+    },
+    "Thế giới trong thần thoại Bắc Âu có 9 vùng đất": {
+        "id": 46,
+        "url": "Zet/Garden/Thế giới trong thần thoại Bắc Âu có 9 vùng đất.md",
+        "outgoing_links": [
+            "Thần thoại Bắc Âu"
+        ],
+        "backlinks": []
+    },
+    "Cầu Bifrost": {
+        "id": 47,
+        "url": "Zet/Garden/Cầu Bifrost.md",
+        "outgoing_links": [
+            "Thần thoại Bắc Âu"
+        ],
+        "backlinks": []
+    },
+    "Nữ thần Ishtar": {
+        "id": 48,
+        "url": "Zet/Garden/Nữ thần Ishtar.md",
+        "outgoing_links": [
+            "Thần thoại Lưỡng Hà"
+        ],
+        "backlinks": []
+    },
+    "Sử thi Ramayana": {
+        "id": 49,
+        "url": "Zet/Garden/Sử thi Ramayana.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Bảy kỳ quan thế giới cổ đại": {
+        "id": 50,
+        "url": "Zet/Garden/Bảy kỳ quan thế giới cổ đại.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nữ thần Athena": {
+        "id": 51,
+        "url": "Zet/Garden/Nữ thần Athena.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Dòng sông băng Elivagar": {
+        "id": 52,
+        "url": "Zet/Garden/Dòng sông băng Elivagar.md",
+        "outgoing_links": [
+            "Thần thoại Bắc Âu"
+        ],
+        "backlinks": []
+    },
+    "Cộng hưởng Schumann": {
+        "id": 53,
+        "url": "Zet/Garden/Cộng hưởng Schumann.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Các nguyên tắc của phương pháp Zettelkasten": {
+        "id": 54,
+        "url": "Zet/Garden/Các nguyên tắc của phương pháp Zettelkasten.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần thoại Bắc Âu": {
+        "id": 55,
+        "url": "Zet/Garden/Thần thoại Bắc Âu.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Thần Buri",
+            "Con bò Audhumla",
+            "Thế giới trong thần thoại Bắc Âu có 9 vùng đất",
+            "Cầu Bifrost",
+            "Dòng sông băng Elivagar",
+            "Cây Thế Giới Yggdrasil"
+        ]
+    },
+    "Địa ngục Tartarus": {
+        "id": 56,
+        "url": "Zet/Garden/Địa ngục Tartarus.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Thần thoại Hy Lạp"
+        ]
+    },
+    "Đèo Ngoạn Mục": {
+        "id": 57,
+        "url": "Zet/Garden/Đèo Ngoạn Mục.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nữ thần Hera": {
+        "id": 58,
+        "url": "Zet/Garden/Nữ thần Hera.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Các tài liệu zettelkasten": {
+        "id": 59,
+        "url": "Zet/Garden/Các tài liệu zettelkasten.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Cây Thế Giới Yggdrasil": {
+        "id": 60,
+        "url": "Zet/Garden/Cây Thế Giới Yggdrasil.md",
+        "outgoing_links": [
+            "Thần thoại Bắc Âu"
+        ],
+        "backlinks": []
+    },
+    "Sự kiện 2022": {
+        "id": 61,
+        "url": "Zet/Garden/Sự kiện 2022.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Nhà Ngô": {
+        "id": 62,
+        "url": "Zet/Garden/Nhà Ngô.md",
+        "outgoing_links": [],
+        "backlinks": []
+    },
+    "Thần thoại Hy Lạp": {
+        "id": 63,
+        "url": "Zet/Garden/Thần thoại Hy Lạp.md",
+        "outgoing_links": [
+            "Nữ thần Gaia",
+            "Địa ngục Tartarus",
+            "Thần bầu trời Uranus",
+            "Titan Cronus",
+            "Nữ thần Aphrodite"
+        ],
+        "backlinks": [
+            "Thần Atlas"
+        ]
+    },
+    "Thần thoại Lưỡng Hà": {
+        "id": 64,
+        "url": "Zet/Garden/Thần thoại Lưỡng Hà.md",
+        "outgoing_links": [],
+        "backlinks": [
+            "Thần Enlil",
+            "Thần Anu",
+            "Nữ thần Ishtar"
         ]
     }
 }
