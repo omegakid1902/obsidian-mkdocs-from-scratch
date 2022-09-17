@@ -52,7 +52,7 @@ Các ý tưởng rút ra từ quyển sách:
 - [[220321203051 - Harper Lee có nhiều điểm tương đồng với Scout trong Giết con chim nhại]]
 
 ## Quotes:
-- [ ] [[💬220319203130 - Giết chim nhại là tội lỗi]]
-- [ ] [[💬220319203822 - Lương tâm con người không tuân theo nguyên tắc đa số]]
+- [[💬220319203130 - Giết chim nhại là tội lỗi]]
+- [[💬220319203822 - Lương tâm con người không tuân theo nguyên tắc đa số]]
 ## Created:
 - [[2022-03-19]]

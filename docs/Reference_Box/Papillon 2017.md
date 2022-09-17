@@ -15,6 +15,6 @@ publish: False
 
 Phim chuyển thể từ quyển tiểu thuyết [[@ Henri Charrière, Papillon]]
 
-![[Pasted image 20220529214453.png]]
+![[20220529214453 ~ Papillon 2017.png]]
 ## Created:
 - [[2022-05-29]]

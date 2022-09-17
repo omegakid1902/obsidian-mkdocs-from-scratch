@@ -10,11 +10,3 @@
 [[Hệ tiêu hóa]]
 
 ## Questions and thoughts
-
-
-## Related:
-```dataview
-list
-from [[@ Giulia Enders, Ruột Ơi Là Ruột]]
-sort file.name asc
-```
