@@ -40,9 +40,19 @@ Các tốc độ
 - < 8% mileage
 ![[Pasted image 20220329215050.png]]
 
-![[Pasted image 20220329204445.png]]
+![[20220329204445 ~ Running workout pattern.png]]
 ### Chap5: VDOT Values
 
+### Chap6: Luyện tập theo mùa
+Page 170:
+Điều chỉnh phân bố bài tập dựa theo thời gian tới cuộc đua. 
+
+Ví dụ theo giáo án là 18 tuần luyện tập nhưng khi bắt đầu tập bạn chỉ còn 12 tuần nữa là tới ngày thi đấu, bạn phải lược bỏ những bài tập ít cần thiết và lựa chọn những bài tập quan trọng để phù hợp với thời gian 12 tuần.
+
+Dưới đây là bảng chọn chi tiết linh hoạt tùy vào số tuần bạn có thể tập luyện trước race
+
+![[Zet/Images/@ Jack Daniels, Daniels' Running Formula_2022-09-20 23.20.10.excalidraw.md]]
+[[Running Formula_Phân bố bài tập.png]]
 ## Permanents
 - [[220401204130 - Tempo và Cruise intervals]]
 ## Created:
