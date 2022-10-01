@@ -38,9 +38,10 @@ Các tốc độ
 		- Các bài mẫu ngắt quãng của JD theo nguyên tắc *x* Miles T xen kẽ  *x* min Rest.
 4. [[Interval Pace]]
 - < 8% mileage
-![[Pasted image 20220329215050.png]]
+![[20220329215050 ~ Sample Interval workout.png]]
 
 ![[20220329204445 ~ Running workout pattern.png]]
+
 ### Chap5: VDOT Values
 
 ### Chap6: Luyện tập theo mùa
