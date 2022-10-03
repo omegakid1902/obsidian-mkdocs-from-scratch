@@ -4,7 +4,7 @@ As [[Examples of inductive note-taking]] take place on different orders of struc
 
 ## Layer 1: Notes
 Have a look at the examples below to see [[Connected Biblical Thinking]] at work in a note.
-* [[Journal Note]]
+* [[Bib Journal Note]]
 * [[Book Note]]
 * [[Note Example - Design]]
 

@@ -34,5 +34,8 @@ Mỗi ghi chú khi được tạo sẽ mặc định có tag
 #task/done
 #task/someday
 
+Mình có dùng song song với quyển note viết tay:
+- Một quyển chuyên viết suy nghĩ của bản thân và đánh số mình đặt tag là #daily/journal/hand, trong YAML có đặt thêm `journal_id: 57` để đánh số thứ tự tương ứng với note trong quyển ghi chú giấy.
+- một quyển chuyên ghi chú quote, `noteid: 57`, tag này sẽ đi chung với tag evergreen/fact or think...
 ## Created:
 - [[2021-07-10]]

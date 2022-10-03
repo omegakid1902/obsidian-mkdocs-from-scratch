@@ -10,7 +10,7 @@ Explore the two different ways of practicing Connected Biblical Thinking at [[St
 	*  [[Biblical Themes and Images MOC]]
 
 *   [[Examples of deductive note-taking]]
-	*   [[Journal Note]]
+	*   [[Bib Journal Note]]
 	*   [[Book Note]]
 	*   [[Note Example - Design]]
 	*   [[Sleep]]
