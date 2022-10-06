@@ -62,7 +62,7 @@ Câu truyện về [[Tháp Babel]]
 
 Tiếp theo sau là câu truyện của [[Abraham]]
 
-[[📝21-10-03]] Tới đoạn này
+[[2021-10-03]] Tới đoạn này
 
 Chúa nói với [[Abraham]] rời bỏ gia đình cha mình Chúa chỉ cho [[Abraham]] đất [[Canaan]] và hứa sẽ ban phước cho dòng dõi ông thành một dân tộc lớn. [[Gen-12]]
 
@@ -71,7 +71,7 @@ Tuy nhiên, khi ấy đất [[Canaan]] xảy ra nạn đói, ông lại dẫn v�
 Người Ai Cập thấy bà [[Sarah]] đẹp tuyệt trần, họ đưa Sarah vào cung cho vua và thiết đãi [[Abraham]] nồng hậu.
 Tuy vậy, Chúa phạt vua bị bệnh vì chuyện của Sarah, vua biết được trách [[Abraham]] sao lại giấu chuyện Sarah là vợ, rồi vua thả vợ chồng và đoàn tùy tùng ra đi. [[Gen-12#v20]]
 
-[[📝21-10-04]] Tới đoạn này
+[[2021-10-04]] Tới đoạn này
 
 Chúa từng nói với [[Abraham]] rằng con cháu ông sẽ phải đi qua xứ khác làm nô lệ 400 năm, nhưng Chúa sẽ phạt xứ đó. Ý chỉ thời kỳ xuất hành [[Gen-15#v13]]
 
