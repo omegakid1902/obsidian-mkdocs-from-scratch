@@ -15,7 +15,7 @@ publish: True
 ## Notes:
 Mở đầu cựu ước là sách [[Genesis|Sáng Thế]], [[God|Thiên Chúa]] tạo dựng trời đất cỏ cây trong sáu ngày.
 
-Sau đó Thiên Chúa tạo dựng [[Adam và Eva]] theo hình ảnh người để sống trong đó. Thiên Chúa cho Adam và Eva tự do làm mọi việc trong vung đất gọi là [[Vườn địa đàng]]. Tuy nhiên, chỉ có một thứ mà hai ông bà không được làm đó là ăn trái cây biết mọi sự, hay còn gọi là [[Trái cấm]]. #task/todo 
+Sau đó Thiên Chúa tạo dựng [[Adam và Eva]] theo hình ảnh người để sống trong đó. Thiên Chúa cho Adam và Eva tự do làm mọi việc trong vung đất gọi là [[Vườn địa đàng]]. Tuy nhiên, chỉ có một thứ mà hai ông bà không được làm đó là ăn trái cây biết mọi sự, hay còn gọi là [[Trái cấm]]. #tasks/todo 
 
 Rồi một ngày, con rắn cám dỗ [[Adam và Eva|Eva]] ăn trái cây đó. Bà cũng rủ cả [[Adam và Eva|Adam]] ăn. Khi ăn xong, hai ông bà liền biết mình trần truồng. [[Gen-03#v1|Sáng thế 3, 1]]
 

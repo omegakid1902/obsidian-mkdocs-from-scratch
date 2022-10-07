@@ -17,7 +17,7 @@ publish: False
 	- Odysseus là cha của Telemachus
 	- Odyssey là đứng đầu danh sách các câu chuyện có sức ảnh hưởng lâu bền nhất do BBC tổ chức khảo sát năm 2018.
 	- Odysseus chọc giận [[Thần Poseidon]] nên không thể quay về quê hương suốt một thời gian dài.
-	- #task/todo đọc xong quyển [[@ Homer, The Odyssey]] đã rồi lên đây đọc wiki tiếp vậy
+	- #tasks/todo đọc xong quyển [[@ Homer, The Odyssey]] đã rồi lên đây đọc wiki tiếp vậy
 - ## Related:
 	- [[@ Homer, The Odyssey]]
 	- [[@ Homer, Iliad]]

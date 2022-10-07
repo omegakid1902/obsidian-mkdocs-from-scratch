@@ -151,7 +151,7 @@ traitlets==5.1.1
     #   -r requirements.in
     #   ipython
     #   matplotlib-inline
-typing-extensions==4.3.0
+typing-extensions==4.4.0
     # via
     #   importlib-metadata
     #   mkdocs

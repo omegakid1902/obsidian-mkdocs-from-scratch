@@ -7,8 +7,8 @@
 
 ## Basic markdown syntax
 ### Picture
-- Link to picture #task/todo 
-- Size of picture #task/todo 
+- Link to picture #tasks/todo 
+- Size of picture #tasks/todo 
 
 ## Advanced markdown
 

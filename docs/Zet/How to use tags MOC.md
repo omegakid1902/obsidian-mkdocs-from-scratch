@@ -30,9 +30,9 @@ Mỗi ghi chú khi được tạo sẽ mặc định có tag
 #source/paper 
 
 Đối với các task, công việc cần phải làm hoặc đã hoàn thành
-#task/todo 
-#task/done
-#task/someday
+#tasks/todo 
+#tasks/done
+#tasks/someday
 
 Mình có dùng song song với quyển note viết tay:
 - Một quyển chuyên viết suy nghĩ của bản thân và đánh số mình đặt tag là #daily/journal/hand, trong YAML có đặt thêm `journal_id: 57` để đánh số thứ tự tương ứng với note trong quyển ghi chú giấy.

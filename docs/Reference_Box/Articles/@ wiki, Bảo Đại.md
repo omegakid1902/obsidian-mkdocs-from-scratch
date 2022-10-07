@@ -37,7 +37,7 @@
 - [[HCM cử người thuyết phục Vĩnh Thụy về nước nhưng bị từ chối, ông từ chức sau đó]]
 - 
 #### Quốc trưởng Quốc gia Việt Nam
-#Task/todo
+#tasks/todo
 - 6/1949, Việt Nam chính thức thống nhất dưới sự lãnh đạo của chính phủ Quốc gia Việt Nam. Bảo đại được tấn phong làm Quốc Trưởng.
 - Được pháp hậu thuẫn quay lại Nam Kỳ là quốc trưởng Quốc gia Việt Nam
 - Bị Ngô Đình Diệm phế truất sau một cuộc bỏ phiếu dưới sự sắp đặt bởi những người ủng hộ Ngô Đình Diệm
