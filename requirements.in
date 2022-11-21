@@ -19,7 +19,7 @@ networkx==2.6.3
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-prompt-toolkit==3.0.24
+prompt-toolkit==3.0.33
 ptyprocess==0.7.0
 Pygments
 pyvis==0.1.9
